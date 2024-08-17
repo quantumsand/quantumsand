@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>macos.main.qml</file>
+        <file>heart-white.png</file>
+        <file>vars.js</file>
+    </qresource>
+</RCC>
