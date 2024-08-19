@@ -2,7 +2,10 @@
 This Qt6 application is part of the quantumsand Edu Art-Game-Storytelling platform.
 
 ## To build quantumsand on macOS:
-You do not need to use QEMU. Follow the Linux instructions below.
+You do not need to use QEMU. Follow the Linux instructions below and use this:
+```
+ Qt6_DIR='/opt/homebrew' cmake .. -DCMAKE_PREFIX_PATH='/opt/homebrew'
+```
 
 ## To build quantumsand on Windows:
 
