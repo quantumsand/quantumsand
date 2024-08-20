@@ -1,0 +1,57 @@
+.market__basketProduct {
+  display: flex;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.market__basketProductPrice {
+  display: flex;
+  align-items: center;
+}
+
+.market__backetProductCurrencyTitle {
+  padding: 0 5px;
+}
+
+.market__basketProductPrice > img {
+  object-fit: contain;
+  width: 48px;
+  border-radius: 999px;
+  margin-right: 5px;
+  background-color: black;
+}
+
+.market__basketProductInfo {
+  padding-left: 20px;
+  padding-top: 10px;
+}
+
+.market__basketProductInfo > button {
+  background: #f0c14b;
+  border: 1px solid;
+  margin-top: 10px;
+  border-color: #a88743 #9c7e31 #846a29;
+  color: #111;
+}
+
+.market__basketProductImage {
+  object-fit: contain;
+  width: 100px;
+  height: 180px;
+}
+
+.market__basketProductRating {
+  display: flex;
+}
+
+.market__basketProductTitle {
+  font-size: 17px;
+  font-weight: 800;
+  padding-bottom: 5px;
+}
+
+.market__basketProductRating span {
+  display: flex;
+  font-size: 15px !important; /* bootstrap fixes */
+  padding: 0 2px !important; /* bootstrap fixes */
+}

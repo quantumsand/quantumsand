@@ -32,6 +32,7 @@ function App() {
           <Route path="ebook" element={<EBook />} />
           <Route path="slides" element={<PresentationSlides />} />
           <Route path="wallpaper" element={<Wallpaper />} />
+          <Route path="market" element={<p>Market</p>} />
           <Route path="video-narrative" element={<Video />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
           <Route path="*" element={<NoPage />} />

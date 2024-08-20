@@ -1,0 +1,23 @@
+.market__orderTotal {
+  font-weight: 500;
+  text-align: right;
+}
+
+.market__orderTotalTitle {
+  padding-bottom: 5px;
+}
+
+.market__orderTotalCurrency {
+  margin: 5px 0;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.market__orderTotalCurrency > img {
+  object-fit: contain;
+  width: 48px;
+  border-radius: 999px;
+  margin-left: 5px;
+  background-color: black;
+}
