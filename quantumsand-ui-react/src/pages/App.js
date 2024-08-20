@@ -5,7 +5,6 @@ import Home from "./pages/Home";
 import Blogs from "./pages/Blogs";
 import Contact from "./pages/Contact";
 import NoPage from "./pages/NoPage";
-import './App.css';
 import AVControls from "./pages/AVControls/AVControls";
 import Barcode from "./pages/Barcode/Barcode";
 import Subtitles from "./pages/Subtitles/Subtitles";
@@ -16,6 +15,8 @@ import PresentationSlides from "./pages/PresentationSlides/PresentationSlides";
 import Wallpaper from "./pages/Wallpaper/Wallpaper";
 import RibbonBar from "./pages/RibbonBar/RibbonBar";
 import RibbonBarContext from "./pages/RibbonBar/RibbonBarContext";
+
+import './App.css';
 
 function App() {
   return (
