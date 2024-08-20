@@ -1,0 +1,36 @@
+.wallpaper__playerWrapper {
+  position: relative;
+  margin: 0;
+  height: 100vh;
+  overflow: hidden;
+  animation: 30s cubic-bezier(.5, 0, .5, 1.2) 1s infinite wallpaper__colorcycle;
+  background-color: var(--wallpaper-color);
+}
+
+:root {
+  --wallpaper-color: #f92672;
+}
+
+@keyframes wallpaper__colorcycle {
+  0%   { --wallpaper-color: #f92672; }
+  33%  { --wallpaper-color: #1ed760; }
+  66%  { --wallpaper-color: #7df9ff;}
+  100% { --wallpaper-color: #f92672; }
+}
+
+.wallpaper__playerWrapper > * > video 
+{
+  object-fit: cover;
+}
+
+.react-player {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.wallpaper__playerLicense {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+}

@@ -1,3 +1,14 @@
+* {
+  margin: 0;
+}
+
+/*
+   Very important for rounded transparent edges on controls
+*/
+body { 
+  background-color: transparent !important; 
+}
+
 .App {
   text-align: center;
 }

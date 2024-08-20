@@ -1,0 +1,11 @@
+.ribbon__bar {
+  height: 150px;
+  /* max-width: 1280px; */
+  margin: auto;
+}
+
+.ribbon {
+  height: 120px !important;
+  width: calc(100% - 60px);
+  margin: 0 30px;
+}

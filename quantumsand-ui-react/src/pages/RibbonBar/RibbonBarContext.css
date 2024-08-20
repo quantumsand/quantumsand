@@ -1,0 +1,60 @@
+.ribbon__bar {
+  animation: contextbar__colorcycle 20s infinite;
+}
+
+@keyframes contextbar__colorcycle {
+  from {background-color: #7389f5;}
+  to {background-color: #abd4e6;}
+}
+
+.ribbon__bar .ribbon .nav-tabs {
+  border-bottom: 0;
+}
+
+/* .ribbon__barLicense {
+  width: 150px;
+  object-fit: contain;
+  margin: auto;
+  flex: 1;
+  align-content: center;
+  display: flex;
+} */
+
+.ribbon__barContextVideo {
+  height: 120px;
+  width: 100vw;
+}
+
+.ribbon__barContextVideoWrapper {
+  height: 100%;
+  width: 100%;
+  /* animation: contextbar__colorcycle 20s infinite; */
+}
+
+.ribbon__barContextVideoOverlay {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  width: 100vw;
+}
+
+.ribbon__barContextVideoWrapper .react-player {
+  /* position: relative !important; */
+  /* height: 140px; */
+  margin-top: 32px;
+}
+
+.ribbon__barContextTitle {
+  text-align: center;
+  padding: 10px 0;
+  color: whitesmoke;
+}
+
+.ribbon__barContextTime {
+  text-align: center;
+  color: #3137fd;
+}
+
+.ribbon__barContext {
+  height: 120px;
+}

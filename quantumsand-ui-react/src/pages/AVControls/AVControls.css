@@ -1,0 +1,44 @@
+.av__controls {
+  height: 180px;
+  width: 180px;
+  padding: 15px 15px;
+  border-radius: 15px;
+  background-color: whitesmoke;
+}
+
+.av__controls .MuiGrid-root .MuiSvgIcon-root {
+  color: #3137fd;
+}
+
+.av__controls .MuiGrid-root .MuiSlider-root {
+  color: #3137fd;
+}
+
+.av__controls .MuiSlider-colorPrimary {
+  color: #3137fd !important;
+}
+
+.av__controlsButtons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-height: 40px;
+}
+
+.av__controlsButtons .MuiButtonBase-root {
+  padding: 12px 12px;
+}
+
+.av__controlsButtonIcon {
+  color: #3137fd;
+  text-shadow: lightgray;
+}
+
+.av__controlsPlaybackTime {
+  font-family: "Noto Sans" !important;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  color: #3137fd;
+}
