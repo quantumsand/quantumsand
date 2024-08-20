@@ -38,7 +38,7 @@ export default function Wallpaper({ url = "/video/wallpaper_v3.webm", displayLic
         height='100%'
       />
       {displayLicense && <div className="wallpaper__playerLicense">
-        <img src="/logo/cc-by-sa-4.0-vertical_white.svg" />
+        <img src="/images/cc-by-sa-4.0-vertical_white.svg" />
         </div>}
     </div>
   </div>
