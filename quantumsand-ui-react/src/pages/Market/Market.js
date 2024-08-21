@@ -68,7 +68,7 @@ const sampleProducts = {
                     }]
           }]}
 
-export default function Market({ logo, hero = "/heroes/lamps.jpg", products = sampleProducts, username, pushEvent, crypto = false }) {
+export default function Market({ logo, hero = "/heroes/lamps.jpg", products = sampleProducts, username, pushEvent, crypto = true }) {
   return (
     <div className="market">
       <MarketHeader pushEvent={pushEvent} logo={"/icons/coracaozinho-para-o-luiz-otavio-white.svg"} username={username} />
