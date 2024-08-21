@@ -15,6 +15,7 @@ import RibbonBarContext from "./pages/RibbonBar/RibbonBarContext";
 import SampleRibbonBar from "./pages/SampleRibbonBar";
 import logo from './logo.svg';
 import './App.css';
+import Market from "./pages/Market/Market";
 
 function App() {
   return (
@@ -32,7 +33,7 @@ function App() {
           <Route path="ebook" element={<EBook />} />
           <Route path="slides" element={<PresentationSlides />} />
           <Route path="wallpaper" element={<Wallpaper />} />
-          <Route path="market" element={<p>Market</p>} />
+          <Route path="market" element={<Market />} />
           <Route path="video-narrative" element={<Video />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
           <Route path="*" element={<NoPage />} />

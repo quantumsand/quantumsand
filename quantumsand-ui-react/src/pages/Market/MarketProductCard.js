@@ -5,12 +5,12 @@ import "./MarketProductCard.css";
 export default function MarketProductCard({ id, title, image, currency, price, btc_price, crypto, rating, pushEvent }) {
   const addToBasket = () => {
     console.log("Add to basket")
-    pushEvent('market-add-to-basket', id);
+    //pushEvent('market-add-to-basket', id);
   }
 
   const barter = () => {
     console.log("Barter")
-    pushEvent('market-barter', id);
+    //pushEvent('market-barter', id);
   }
 
   return (
@@ -18,10 +18,10 @@ export default function MarketProductCard({ id, title, image, currency, price, b
       <div className="market__productInfo">
         <p>{title}</p>
         <p className="market__productPrice">
-          <img src={`/images/icons/${currency}.svg`} alt={currency} />
+          <img src={`/icons/${currency}.svg`} alt={currency} />
           <strong>{price} </strong>
           <span className="market__productPriceCurrencyTitle"><small>{currency}</small></span>
-          {crypto && <span><img src="/images/icons/btc.svg" alt="" style={{width: "48px", paddingRight: "5px"}} />
+          {crypto && <span><img src="/icons/btc.svg" alt="" style={{width: "48px", paddingRight: "5px"}} />
           <strong>{btc_price} </strong>
           <span className="market__productPriceCurrencyTitle"><small>BTC</small></span></span>}
         </p>
@@ -29,7 +29,7 @@ export default function MarketProductCard({ id, title, image, currency, price, b
           <Ratings
             rating={rating}
             widgetRatedColors="gold"
-            changeRating={this.changeRating}
+            // changeRating={this.changeRating}
           >
             <Ratings.Widget widgetSpacing={"5"} widgetDimension={"25"}/>
             <Ratings.Widget widgetSpacing={"5"} widgetDimension={"25"}/>
