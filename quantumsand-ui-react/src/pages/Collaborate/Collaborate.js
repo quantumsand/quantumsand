@@ -24,7 +24,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:45",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 2,
@@ -32,7 +32,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:46",
       user: "Natalia",
       userId: 1,
-      userImage: "/images/wallpaper/snow.jpg"
+      userImage: "/wallpaper/snow.jpg"
     },
     {
       id: 3,
@@ -40,7 +40,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:50",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 4,
@@ -48,7 +48,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:53",
       user: "Natalia",
       userId: 1,
-      userImage: "/images/wallpaper/snow.jpg"
+      userImage: "/wallpaper/snow.jpg"
     },
     {
       id: 5,
@@ -56,7 +56,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:55",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 6,
@@ -64,7 +64,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:56",
       user: "Natalia",
       userId: 1,
-      userImage: "/images/wallpaper/snow.jpg"
+      userImage: "/wallpaper/snow.jpg"
     },
     {
       id: 7,
@@ -72,7 +72,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:57",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 8,
@@ -80,7 +80,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:45",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 9,
@@ -88,7 +88,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:46",
       user: "Natalia",
       userId: 1,
-      userImage: "/images/wallpaper/snow.jpg"
+      userImage: "/wallpaper/snow.jpg"
     },
     {
       id: 10,
@@ -96,7 +96,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:50",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 11,
@@ -104,7 +104,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:53",
       user: "Natalia",
       userId: 1,
-      userImage: "/images/wallpaper/snow.jpg"
+      userImage: "/wallpaper/snow.jpg"
     },
     {
       id: 12,
@@ -112,7 +112,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:55",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     },
     {
       id: 13,
@@ -120,7 +120,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:56",
       user: "Natalia",
       userId: 1,
-      userImage: "/images/wallpaper/snow.jpg"
+      userImage: "/wallpaper/snow.jpg"
     },
     {
       id: 14,
@@ -128,7 +128,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
       timestamp: "11:57",
       user: "Yusuf",
       userId: 2,
-      userImage: "/images/wallpaper/rain.jpg"
+      userImage: "/wallpaper/rain.jpg"
     }] }) {
   return (
     <div className="collaborate">
