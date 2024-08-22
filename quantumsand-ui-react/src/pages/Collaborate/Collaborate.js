@@ -4,7 +4,7 @@ import CollaborateSidebar from './CollaborateSidebar';
 import CollaborateChat from './CollaborateChat';
 import "./Collaborate.css";
 
-export default function Collaborate({ username, avatar, workspace, channels = 
+export default function Collaborate({ username = "Andy", avatar = "/wallpaper/rain.jpg", workspace = "dev", channels = 
   [
       {
         id: 1,
@@ -18,7 +18,7 @@ export default function Collaborate({ username, avatar, workspace, channels =
         id: 3,
         name: "development"
       }
-    ], channelName, messages = [{
+    ], channelName = "Quantum Sand", messages = [{
       id: 1,
       content: "Please check my dirham/dinar wallet implementation 😍",
       timestamp: "11:45",
