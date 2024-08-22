@@ -16,7 +16,7 @@ export default function CollaborateChat({ channelName, messages }) {
 
   function MyEmojiRenderer({ children, ...rest }) {
     const options = {
-      baseUrl: "/images/emoji/twemoji/",
+      baseUrl: "/emoji/twemoji/",
       size: "",
       protocol: "",
       ext: "svg",
