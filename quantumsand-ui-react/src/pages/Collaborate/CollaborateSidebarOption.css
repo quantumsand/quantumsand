@@ -1,0 +1,37 @@
+.collaborate__sidebarOption {
+  display: flex;
+  align-items: center;
+  font-size: 12px;
+  padding-left: 2px;
+  cursor: pointer;
+}
+
+.collaborate__sidebarOption:hover {
+  opacity: 0.9;
+  background-color: #1264a3;
+}
+
+.collaborate__sidebarOptionIcon {
+  padding: 10px;
+  font-size: 2.2rem!important; /* bootstrap fix */
+}
+
+.collaborate__sidebarOptionHash {
+  padding: 10px;
+}
+
+.collaborate__sidebarOptionChannel {
+  padding: 6px 0;
+}
+
+.collaborate__sidebarOption > h3 {
+  font-weight: 500;
+  font-size: 14px;
+  margin-top: 5px;
+}
+
+.collaborate__sidebar > hr {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #532652;
+}

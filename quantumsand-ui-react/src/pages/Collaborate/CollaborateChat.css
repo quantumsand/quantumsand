@@ -1,0 +1,38 @@
+.collaborate__chat {
+  flex: 0.7;
+  flex-grow: 1;
+}
+
+.collaborate__chat::-webkit-scrollbar {
+  display: none;
+}
+
+.collaborate__chatHeader {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.collaborate__chatHeaderRight {
+  display: flex;
+  align-items: center;
+  font-size: 14px;
+}
+
+.collaborate__chatHeaderRight > p > .MuiSvgIcon-root {
+  margin-right: 5px !important;
+  font-size: 16px;
+}
+
+.collaborate__chatChannelName {
+  text-transform: lowercase;
+  display: flex;
+  font-size: 1rem;
+}
+
+.collaborate__chatChannelName > .MuiSvgIcon-root {
+  margin-left: 10px;
+  font-size: 1.2rem;
+}

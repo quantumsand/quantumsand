@@ -1,0 +1,38 @@
+.collaborate__chatInput {
+  border-radius: 20px;
+}
+
+.collaborate__chatInput > form {
+  position: relative;
+  display: flex;
+  justify-content: center;
+}
+
+.collaborate__chatInput > form > input {
+  position: fixed;
+  bottom: 30px;
+  width: 60vw;
+  border: 1px solid gray;
+  border-radius: 3px;
+  padding: 20px;
+}
+
+.collaborate__chatInput > form > input:focus {
+  outline: none !important;
+}
+
+.collaborate__chatInput > form > button {
+  display: none !important;
+}
+
+.collaborate__chatMessages {
+  overflow-y: scroll;
+  max-height: calc(100vh - 235px);
+  /* flex: 0.7;
+  flex-grow: 1; */
+}
+
+/* hide the scrollbar in Chrome */
+.collaborate__chatMessages::-webkit-scrollbar {
+  display: none;
+}

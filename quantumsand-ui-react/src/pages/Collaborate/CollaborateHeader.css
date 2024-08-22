@@ -1,0 +1,67 @@
+.collaborate__header {
+  position: sticky;
+  top: 0;
+  z-index: 999;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 0;
+  background-color: #feb963;
+  color: white;
+}
+
+.collaborate__headerLeft {
+  flex: 0.2;
+  display: flex;
+  align-items: center;
+  margin-left: 10px;
+}
+
+.collaborate__headerLeft > .MuiSvgIcon-root {
+  margin-left: auto;
+  margin-right: 30px;
+}
+
+.collaborate__headerSearch {
+  flex: 0.65;
+  background-color: #eeac5c;
+  text-align: center;
+  display: flex;
+  padding: 5px 50px;
+  color: white;
+  border: 1px #c58b4a solid;
+  border-radius: 6px;
+  min-width: calc(45%);
+}
+
+.collaborate_headerRight {
+  flex: 0.3;
+  display: flex;
+  align-items: flex-end;
+}
+
+.collaborate__headerSearch > input {
+  color: white;
+  background-color: transparent;
+  border: none;
+  text-align: center;
+  min-width: calc(90%);
+  font-size: 13px;
+}
+
+.collaborate__headerSearch > input::placeholder {
+  color: white;
+}
+
+.collaborate__headerSearch > .MuiSvgIcon-root {
+  margin-top: auto;
+}
+
+.collaborate__headerSearch > input:focus {
+  outline-width: 0;
+}
+
+.collaborate__headerRight > .MuiSvgIcon-root {
+  margin-left: auto;
+  margin-right: 20px;
+}

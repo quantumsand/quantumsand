@@ -1,0 +1,111 @@
+body {
+  --collaborate-color: #f7941f;
+}
+
+.collaborate__sidebar {
+  flex: 0.3;
+  display: flex;
+}
+
+/* hide the scrollbar in Chrome */
+.collaborate__sidebar::-webkit-scrollbar {
+  display: none;
+}
+
+.collaborate__sidebarChannels {
+  flex: 0.25;
+  padding: 5px 5px;
+  background-color: var(--collaborate-color);
+  overflow-y: scroll;
+  max-width: 60px;
+}
+
+/* hide the scrollbar in Chrome */
+.collaborate__sidebarChannels::-webkit-scrollbar {
+  display: none;
+}
+
+.collaborate__sidebarChannels > .MuiBadge-root {
+  margin: 15px 5px;
+  cursor: pointer;
+}
+
+.collaborate__sidebarChannelsActive {
+  /* box-shadow: 2px 2px 5px whitesmoke; */
+  outline: #e0851d solid 4px;
+  outline-offset: 0px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.collaborate__sidebarChannelsInactive:hover {
+  /* box-shadow: 2px 2px 5px whitesmoke; */
+  outline: #e0851d solid 4px;
+  outline-offset: 0px;
+  -webkit-border-radius: 4px;
+  -moz-border-radius: 4px;
+  border-radius: 4px;
+}
+
+.collaborate__sidebarMenu {
+  flex: 0.95;
+  color: white;
+  background-color: var(--collaborate-color);
+  border-top: 1px solid #e0851b;
+  max-width: 260px;
+  padding-left: 5px;
+  overflow-y: scroll;
+}
+
+/* hide the scrollbar in Chrome */
+.collaborate__sidebarMenu::-webkit-scrollbar {
+  display: none;
+}
+
+.collaborate__sidebarMenuHeader {
+  display: flex;
+  border-bottom: 1px solid #e0851b;
+  padding-bottom: 10px;
+  padding: 13px;
+  position: sticky;
+  top: 0px;
+  z-index: 100;
+  background-color: var(--collaborate-color);
+}
+
+.collaborate__sidebarMenuHeader > .MuiSvgIcon-root {
+  padding: 8px;
+  color: #110000;
+  font-size: 18px;
+  background-color: white;
+  border-radius: 999px;
+}
+
+.collaborate__sidebarMenuInfo {
+  flex: 1;
+}
+
+.collaborate__sidebarMenuInfo > h2 {
+  font-size: 15px;
+  font-weight: 900;
+  margin-bottom: 5px;
+}
+
+.collaborate__sidebarMenuInfo > h3 {
+  display: flex;
+  align-items: center;
+  font-size: 13px;
+  font-weight: 400;
+}
+
+.collaborate__sidebarMenuHeader > .MuiSvgIcon-root {
+  font-size: 2rem!important; /* bootsrap fix */
+}
+
+.collaborate__sidebarMenuInfo > h3 > .MuiSvgIcon-root {
+  font-size: 13px;
+  margin-top: 1px;
+  margin-right: 2px;
+  color: #2cab76;
+}
