@@ -18,7 +18,7 @@ export default function Collaborate({ username = "Andy", avatar = "/wallpaper/ra
         id: 3,
         name: "development"
       }
-    ], channelName = "Quantum Sand", messages = [{
+    ], channelName = "quantumsand", messages = [{
       id: 1,
       content: "Please check my dirham/dinar wallet implementation 😍",
       timestamp: "11:45",
