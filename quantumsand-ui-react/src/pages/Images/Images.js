@@ -2,7 +2,7 @@ import React from 'react';
 import ImagesPost from "./ImagesPost";
 import "./Images.css";
 
-export default function Images({ logo, posts = [
+export default function Images({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg", posts = [
   {
     id: 1,
     username: "natalia",
