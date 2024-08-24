@@ -108,7 +108,7 @@ export default function AudioPlayer({ logo, playlists = [
       }
   ]
 }, artistName = "Bach, J.S", trackName = "Violin Partita No. 2 in D Minor, BWV 1004", 
-                                      trackImage = "/covers/violin.jpg", username, avatar, content = {
+                                      trackImage = "/covers/violin.jpg", username, avatar = "/wallpaper/rain.jpg", content = {
                                         src: "/videos/Introduction-to-QALB-Story-audio.webm",
                                         srcJson: "/videos/Introduction-to-QALB-Story-audio_20pps_8bit.json",
                                         srcLength: 63
