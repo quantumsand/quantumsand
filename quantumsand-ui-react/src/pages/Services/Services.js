@@ -5,7 +5,7 @@ import ServicesHome from "./ServicesHome";
 
 import "./Services.css";
 
-export default function Services ({ logo, avatar, footerMessage, banner = {
+export default function Services ({ logo, avatar = "/wallpaper/rain.jpg", footerMessage, banner = {
   wallpaper: "/wallpaper/snow.jpg",
             title: "Get out and stretch your imagination",
             message: "Plan a different kind of getaway to uncover the hidden gems near you.",
