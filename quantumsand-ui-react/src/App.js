@@ -19,6 +19,7 @@ import Market from "./pages/Market/Market";
 import Collaborate from "./pages/Collaborate/Collaborate";
 import Mail from "./pages/Mail/Mail";
 import Services from "./pages/Services/Services";
+import Images from "./pages/Images/Images";
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
           <Route path="market" element={<Market />} />
           <Route path="mail" element={<Mail />} />
           <Route path="services" element={<Services />} />
+          <Route path="images" element={<Images />} />
           <Route path="collaborate" element={<Collaborate />} />
           <Route path="video-narrative" element={<Video />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />

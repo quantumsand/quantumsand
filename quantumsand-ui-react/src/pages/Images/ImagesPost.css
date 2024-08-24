@@ -1,0 +1,129 @@
+.images__post {
+  background-color: white;
+  max-width: 500px;
+  border: 1px solid lightgray;
+  margin-bottom: 45px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.images__postImage {
+  width: 100%;
+  object-fit: contain;
+  border-top: 1px solid lightgray;
+  border-bottom: 1px solid lightgray;
+}
+
+.images__postText {
+  font-weight: normal;
+  font-size: 0.9rem;
+  margin-bottom: 0px;
+}
+
+.images__postTextUsername, .images__postCommentUsername {
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 0.9rem;
+  margin-bottom: 0px;
+}
+
+.images__postHeader {
+  display: flex;
+  align-items: center;
+  padding: 20px;
+}
+
+.images__postHeader > h3 {
+  font-size: 0.9rem;
+  margin-bottom: 0px;
+}
+
+.images__postAvatar {
+  margin-right: 10px;
+}
+
+.images__postText {
+  padding: 20px;
+}
+
+.images__postCommentBox {
+  display: flex;
+  margin-top: 10px;
+}
+
+.images__postCommentInput {
+  flex: 1;
+  border: none;
+  padding: 10px;
+  border-top: 1px solid lightgray;
+  font-size: 0.9rem;
+  margin-bottom: 0px;
+}
+
+.images__postCommentInput:focus {
+  outline: none !important;
+}
+
+.images__postCommentButton {
+  flex: 0;
+  border: none;
+  color: #6082a3;
+  background-color: transparent;
+  border-top: 1px solid lightgray;
+  font-size: 0.9rem;
+  margin-bottom: 0px;
+}
+
+.images__postComments {
+  padding: 20px;
+}
+
+.images__postComment {
+  font-size: 0.9rem;
+  margin-bottom: 0px;
+}
+
+.images__postfooter {
+  position: relative;
+  margin-left: 20px;
+  bottom: 60px;
+}
+
+.images__postfooterIcon {
+  position: absolute;
+  left: 5px;
+  color: white;
+}
+
+.images__postfooterActions {
+  display: flex;
+  position: absolute;
+  width: 95%;
+  justify-content: space-between;
+}
+
+.images__postfooterActionsLeft > .MuiSvgIcon-root {
+  padding: 0 10px;
+  color: whitesmoke;
+  text-shadow: 1px 1px 2px black;
+}
+
+.images__postfooterActionsLeft > .MuiSvgIcon-fontSizeLarge {
+  font-size: 2.8rem;
+}
+
+.images__postfooterActionsRight {
+  display: flex;
+}
+
+.images__postfooterStat {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+  color: whitesmoke;
+  text-shadow: 1px 1px 2px black;
+}
+
+.images__postfooterStat > p {
+  margin-left: 3px;
+}

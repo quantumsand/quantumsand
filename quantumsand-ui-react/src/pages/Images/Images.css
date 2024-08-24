@@ -1,0 +1,18 @@
+.images {
+  background-color: #fafafa;
+}
+
+.images__header {
+  background-color: white;
+  padding: 20px;
+  border-bottom: 1px solid lightgray;
+}
+
+.images__headerImage {
+  object-fit: contain;
+  width: 45px;
+}
+
+.images__posts {
+  padding: 20px;
+}
