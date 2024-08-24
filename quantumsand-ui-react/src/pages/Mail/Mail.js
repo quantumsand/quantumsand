@@ -4,7 +4,8 @@ import MailSidebar from "./MailSidebar";
 import MailList from "./MailList";
 import "./Mail.css";
 
-export default function Mail({ logo, avatar, emails = [
+export default function Mail({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg", 
+                               avatar = "/wallpaper/rain.jpg", emails = [
   {
     id: 1,
     title: "Akio",
