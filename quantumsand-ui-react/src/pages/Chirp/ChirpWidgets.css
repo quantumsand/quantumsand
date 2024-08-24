@@ -1,0 +1,38 @@
+.chirp__widgets {
+  flex: 0.3;
+}
+
+.chirp__widgetsInput {
+  display: flex;
+  align-items: center;
+  background-color: var(--chirp-background);
+  padding: 10px;
+  border-radius: 30px;
+  margin-top: 10px;
+}
+
+.chirp__widgetsInput > input {
+  flex: 1;
+  border: none;
+  background-color: var(--chirp-background);
+}
+
+.chirp__widgetsInput > input:focus {
+  outline-width: 0;
+}
+
+.chirp__widgetsSearchIcon {
+  color: gray;
+}
+
+.chirp__widgetsWidgetContainer {
+  margin-top: 15px;
+  padding: 20px;
+  background-color: #f5f8fa;
+  border-radius: 20px;
+}
+
+.chirp__widgetsWidgetContainer > h2 {
+  font-size: 18px;
+  font-weight: 800;
+}

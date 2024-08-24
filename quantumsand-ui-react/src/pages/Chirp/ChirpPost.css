@@ -1,0 +1,59 @@
+.chirp__post {
+  display: flex;
+  align-items: flex-start;
+  border-bottom: 1px solid var(--chirp-background);
+  padding-bottom: 10px;
+  max-width: 500px;
+}
+
+.chirp__postBody > img {
+  border-radius: 20px;
+  max-width: 760px;
+  max-height: 430px;
+  width: 40vw;
+  object-fit: cover;
+}
+
+.chirp__postFooter {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+  max-width: 760px;
+  width: 40vw;
+}
+
+.chirp__postBadge {
+  font-size: 14px !important;
+  color: var(--chirp-color);
+}
+
+.chirp__postHeaderSpecial {
+  font-weight: 600;
+  font-size: 12px;
+  color: gray;
+}
+
+.chirp__postHeaderText > h3 {
+  font-size: 15px !important; /* bootstrap fixes */
+  font-weight: bolder !important; /* bootstrap fixes */
+  margin-bottom: 5px;
+}
+
+.chirp__postHeaderDescription {
+  margin-bottom: 10px;
+  font-size: 15px;
+}
+
+.chirp__postHeaderDescription > p {
+  font-size: 14px !important; /* bootstrap fixes */
+}
+
+.chirp__postBody {
+  flex: 1;
+  padding: 10px;
+}
+
+.chirp__postAvatar {
+  padding: 20px;
+}
+

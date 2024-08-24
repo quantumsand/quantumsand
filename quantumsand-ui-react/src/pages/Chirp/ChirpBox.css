@@ -1,0 +1,55 @@
+body {
+  font-family: 'Noto Sans', serif;
+  --chirp-color: #1ad2fb;
+  --chirp-background: #e6ecf0;
+}
+
+.chirp__box {
+  padding-bottom: 10px;
+  border-bottom: 8px solid var(--chirp-background);
+  padding-right: 10px;
+  font-family: "Noto Sans"
+}
+
+.chirp__box > form {
+  display: flex;
+  flex-direction: column;
+}
+
+.chirp__boxInput {
+  padding: 20px;
+  display: flex;
+}
+
+.chirp__boxInput > input {
+  flex: 1;
+  margin-left: 20px;
+  font-size: 20px;
+  border: none;
+}
+
+.chirp__boxInput > input:focus {
+  outline-width: 0;
+}
+
+.chirp__boxInput > button {
+  display: none;
+}
+
+.chirp__boxChirpButton {
+  background-color: var(--chirp-color) !important;
+  border: none !important;
+  color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  height: 40px !important;
+  margin-top: 20px !important;
+  margin-left: auto !important;
+  width: 80px;
+  font-family: "Noto Sans"
+}
+
+.chirp__box > form > button {
+  font-family: "Noto Sans" !important;
+}

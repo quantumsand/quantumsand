@@ -1,0 +1,32 @@
+.chirp__sidebar {
+  border-right: 1px solid var(--chirp-background);
+  flex: 0.3;
+  min-width: 250px;
+  margin-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.chirp__sidebarChirpIcon {
+  height: 25px;
+  object-fit: content;
+  margin-left: 20px;
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.chirp__sidebarChirp {
+  background-color: var(--chirp-color) !important;
+  border: none !important;
+  color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  border-radius: 30px !important;
+  height: 50px !important;
+  margin-top: 20px !important;
+  font-family: "Noto Sans";
+}
+
+.chirp__sidebar > button {
+  font-family: "Noto Sans" !important;
+}
