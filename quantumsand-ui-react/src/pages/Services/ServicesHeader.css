@@ -1,0 +1,48 @@
+.services__headerIcon {
+  object-fit: contain;
+  height: 40px;
+  margin-left: 20px;
+}
+
+.services__header {
+  display: flex;
+  padding: 5px 0;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  background-color: white;
+  z-index: 100;
+  width: 100%;
+  top: 0;
+}
+
+.services__headerCenter {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  max-width: fit-content;
+  padding: 10px;
+  height: 30px;
+  border: 1px solid lightgray;
+  border-radius: 999px;
+}
+
+.services__headerCenter > input {
+  border: none;
+  margin: 20px;
+  outline-width: 0;
+  width: 250px;
+}
+
+.services__headerRight {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 15vw;
+  margin-right: 20px;
+}
+
+.services__headerRight > p {
+  margin-right: 5px;
+  font-size: 11px;
+}

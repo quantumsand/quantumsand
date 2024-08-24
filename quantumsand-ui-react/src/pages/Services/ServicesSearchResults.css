@@ -1,0 +1,28 @@
+.services__searchResultsInfo {
+  padding: 20px;
+}
+
+.services__searchResultsInfo > p {
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.services__searchResultsInfo > h1 {
+  margin-bottom: 30px;
+}
+
+.services__searchResultsInfo > button {
+  border-radius: 30px;
+  text-transform: inherit;
+  margin: 5px;
+}
+
+.services__searchResultsPrice > p {
+  text-align: right;
+}
+
+.services__searchResultsPrice {
+  position: absolute;
+  bottom: 20px;
+  right: 30px;
+}

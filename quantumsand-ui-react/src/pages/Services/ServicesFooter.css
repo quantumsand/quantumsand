@@ -1,0 +1,21 @@
+.services__footer {
+  display: flex;
+  align-items: center;
+  border-top: 1px solid lightgray;
+  padding: 20px;
+  background-color: #f7f7f7;
+  bottom: 0;
+  text-align: center;
+  bottom: 0;
+  justify-content: center;
+}
+
+.services__footer > p {
+  padding: 5px;
+  font-size: 14px;
+}
+
+.services__footerLogo {
+  height: 40px;
+  object-fit: contain;
+}

@@ -1,0 +1,44 @@
+.services__bannerInfo {
+  background-color: black;
+  color: white;
+  padding-top: 25vh;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 25px;
+  width: 300px;
+}
+
+.services__bannerInfo > button {
+  background-color: #ff7779;
+  color: white;
+  text-transform: inherit;
+  margin-top: 20px;
+  font-weight: 600;
+  font-family: "Noto Sans" !important;
+}
+
+.services__bannerInfo > button:hover {
+  background-color: white;
+  color: #ff7779;
+}
+
+.services__bannerInfo > h1 {
+  font-size: 1.7em;
+}
+
+.services__bannerInfo > h5 {
+  margin-top: 10px;
+}
+
+.services__bannerSearchButton {
+  background-color: white !important;
+  font-weight: 900 !important;
+  text-transform: inherit !important;
+  color: #ff7779 !important;
+  font-family: "Noto Sans" !important;
+}
+
+.services__bannerSearch {
+  display: flex;
+  flex-direction: column;
+}
