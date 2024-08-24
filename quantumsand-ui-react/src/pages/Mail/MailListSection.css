@@ -1,0 +1,24 @@
+.mail__listSection {
+  display: flex;
+  align-items: center;
+  border-bottom-width: 2px;
+  padding: 15px;
+  min-width: 200px;
+  cursor: pointer;
+}
+
+.mail__listSection:hover {
+  background-color: whitesmoke;
+  border-width: 3px !important;
+}
+
+.mail__listSection > h4 {
+  font-size: 14px;
+  margin-left: 15px;
+  margin-bottom: 0px;
+}
+
+.mail__listSectionSelected {
+  background-color: whitesmoke;
+  border-width: 3px !important;
+}

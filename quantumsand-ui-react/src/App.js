@@ -17,6 +17,7 @@ import logo from './logo.svg';
 import './App.css';
 import Market from "./pages/Market/Market";
 import Collaborate from "./pages/Collaborate/Collaborate";
+import Mail from "./pages/Mail/Mail";
 
 function App() {
   return (
@@ -35,6 +36,7 @@ function App() {
           <Route path="slides" element={<PresentationSlides />} />
           <Route path="wallpaper" element={<Wallpaper />} />
           <Route path="market" element={<Market />} />
+          <Route path="mail" element={<Mail />} />
           <Route path="collaborate" element={<Collaborate />} />
           <Route path="video-narrative" element={<Video />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />

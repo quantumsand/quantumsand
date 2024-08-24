@@ -1,0 +1,10 @@
+
+.mail {
+  /* height: 100vh; */
+  overflow: hidden;
+}
+
+.mail__body {
+  display: flex;
+  /* height: 100vh; */
+}

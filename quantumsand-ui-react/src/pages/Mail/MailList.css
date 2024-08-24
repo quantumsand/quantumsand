@@ -1,0 +1,32 @@
+.mail__list {
+  flex: 1;
+  overflow: scroll;
+}
+
+.mail__list::-webkit-scrollbar {
+  display: none;
+}
+
+.mail__listList {
+  padding-bottom: 20%;
+}
+
+.mail__listSettings {
+  position: sticky;
+  top: 0;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid whitesmoke;
+  background-color: white;
+  z-index: 999;
+  padding-right: 10px;
+}
+
+.mail__listSections {
+  position: sticky;
+  top: 0;
+  display: flex;
+  background-color: white;
+  border-bottom: 1px solid whitesmoke;
+  z-index: 999;
+}

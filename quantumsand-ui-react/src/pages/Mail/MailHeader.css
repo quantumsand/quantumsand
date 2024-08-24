@@ -1,0 +1,44 @@
+.mail__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid whitesmoke;
+}
+
+.mail__headerLeft > img {
+  object-fit: contain;
+  height: 40px;
+  margin-left: 5px;
+}
+
+.mail__headerLeft {
+  display: flex;
+  align-items: center;
+}
+
+.mail__headerMiddle {
+  display: flex;
+  flex: 0.7;
+  align-items: center;
+  background-color: whitesmoke;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.mail__headerMiddle > .MuiSvgIcon-root {
+  color: grey;
+}
+
+.mail__headerMiddle > input {
+  border: none;
+  width: 100%;
+  padding: 10px;
+  outline-width: 0;
+  font-size: medium;
+  background-color: transparent;
+}
+
+.mail__headerRight {
+  display: flex;
+  padding-right: 20px;
+}
