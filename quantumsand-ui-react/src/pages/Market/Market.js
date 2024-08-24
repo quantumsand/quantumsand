@@ -12,7 +12,7 @@ const sampleProducts = {
                       image: "/products/beads.jpg",
                       currency: "dirham",
                       price: 5,
-                      btc_price: "0.0011",
+                      btc_price: "0.000016",
                       rating: 4.5
                     },
                     {
@@ -21,7 +21,7 @@ const sampleProducts = {
                       image: "/products/vase.jpg",
                       currency: "dirham",
                       price: 5,
-                      btc_price: "0.0011",
+                      btc_price: "0.000016",
                       rating: 4.8
                     }]
           },
@@ -33,7 +33,7 @@ const sampleProducts = {
                       image: "/products/coffee.jpg",
                       currency: "dirham",
                       price: 5,
-                      btc_price: "0.0011",
+                      btc_price: "0.000016",
                       rating: 4.6
                     },
                     {
@@ -42,7 +42,7 @@ const sampleProducts = {
                       image: "/products/macbeth.jpg",
                       currency: "dirham",
                       price: 5,
-                      btc_price: "0.0011",
+                      btc_price: "0.000016",
                       rating: 4.9
                     },
                     {
@@ -51,7 +51,7 @@ const sampleProducts = {
                       image: "/products/pencils.jpg",
                       currency: "dirham",
                       price: 5,
-                      btc_price: "0.0011",
+                      btc_price: "0.000016",
                       rating: 4.85
                     }]
           },
@@ -63,12 +63,12 @@ const sampleProducts = {
                       image: "/products/plant.jpg",
                       currency: "dirham",
                       price: 5,
-                      btc_price: "0.0011",
+                      btc_price: "0.000016",
                       rating: 4.77
                     }]
           }]}
 
-export default function Market({ logo, hero = "/heroes/lamps.jpg", products = sampleProducts, username, pushEvent, crypto = true }) {
+export default function Market({ logo, hero = "/heroes/lamps.jpg", products = sampleProducts, username = "Natalia", pushEvent, crypto = true }) {
   return (
     <div className="market">
       <MarketHeader pushEvent={pushEvent} logo={"/icons/coracaozinho-para-o-luiz-otavio-white.svg"} username={username} />
