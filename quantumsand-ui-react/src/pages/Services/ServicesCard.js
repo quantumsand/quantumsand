@@ -11,7 +11,7 @@ export default function ServicesCard({ src, title, description, price, btc_price
         <div className="services__productRating">
           <Ratings
               rating={rating}
-              // widgetRatedColors="gold"
+              widgetRatedColors="gold"
               // changeRating={this.changeRating}
             >
               <Ratings.Widget widgetSpacing={"5"} widgetDimension={"25"}/>
