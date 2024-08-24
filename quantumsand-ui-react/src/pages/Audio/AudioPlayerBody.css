@@ -1,0 +1,63 @@
+.audio__playerBodyBody {
+  height: calc(100vh - 65px);
+  padding: 30px;
+  flex: 0.8;
+  background: linear-gradient(rgb(91, 87, 115), rgba(0, 0, 0, 1));
+  color: white;
+  overflow-y: overlay;
+}
+
+.audio__playerBodyBody::-webkit-scrollbar {
+  display: none;
+}
+
+.audio__playerBodyInfo {
+  display: flex;
+  align-items: flex-end;
+  padding: 10px;
+}
+
+.audio__playerBodyInfoText {
+  flex: 1;
+}
+
+.audio__playerBodyInfoText > h2 {
+  font-size: 3vw;
+  margin-bottom: 10px;
+}
+
+.audio__playerBodyInfoText >  p {
+  font-size: 14px;
+}
+
+.audio__playerBodyInfo > img {
+  width: 20vw;
+  object-fit: contain;
+  margin: 0 20px;
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+}
+
+.audio__playerBodyIcons {
+  display: flex;
+  align-items: center;
+}
+
+.audio__playerBodyIcons > .MuiSvgIcon-root {
+  margin-right: 20px;
+}
+
+.audio__playerBodyShuffle {
+  font-size: 80px !important;
+  margin-left: 50px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.audio__playerBodyShuffle:hover {
+  transition: 100ms transform ease-in;
+  transform: scale(1.08);
+}
+
+.audio__playerBodySongs {
+  margin: 20px -30px;
+}

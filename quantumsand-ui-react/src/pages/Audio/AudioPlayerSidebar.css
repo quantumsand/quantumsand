@@ -1,0 +1,65 @@
+.audio__playerSidebar {
+  flex: 0.2;
+  flex-direction: column;
+  background-color: #040404;
+  color: white;
+  min-width: 230px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.audio__playerSidebarLogo {
+  height: 70px;
+  padding: 10px;
+  margin-right: auto;
+}
+
+.audio__playerSidebarOption {
+  display: flex;
+  align-items: center;
+  color: grey;
+  height: 40px;
+  cursor: pointer;
+  transition: 200ms color ease-in;
+}
+
+.audio__playerSidebarOption:hover {
+  color: white;
+}
+
+.audio__playerSidebar > hr {
+  border: 1px solid #282828;
+  width: 90%;
+  margin: 10px auto;
+}
+
+.audio__playerSidebarOption > p {
+  margin-top: 10px;
+  margin-left: 20px;
+  font-size: 14px;
+}
+
+.audio__playerSidebarOptionIcon {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.audio__playerSidebarTitle {
+  margin-left: 10px;
+  padding: 5px;
+  font-size: 12px;
+}
+
+.audio__playerSidebarPlaylists {
+  overflow-y: scroll;
+  max-height: calc(100vh - 335px);
+}
+
+.audio__playerSidebarInfo {
+  position: sticky;
+  top: 0;
+}
+
+.audio__playerSidebarPlaylists::-webkit-scrollbar {
+  display: none;
+}

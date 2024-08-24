@@ -1,0 +1,107 @@
+.audio__playerFooter {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  bottom: 0;
+  height: 65px;
+  width: 100vw;
+  background-color: #282828;
+  padding: 20px;
+}
+
+.audio__playerFooterLeft {
+  flex: 0.3;
+  display: flex;
+  align-items: center;
+  color: white;
+  width: 300px;
+}
+
+.audio__playerWaveform {
+  flex: 0.2;
+}
+
+.audio__playerPos > h4 {
+  color: white;
+  font-size: 12px;
+  padding: 8px;
+}
+
+.audio__playerFooterSongInfo {
+  margin-bottom: 5px;
+}
+
+.audio__playerFooterSongInfo > h4 {
+  font-size: 14px !important; /* bootstrap fixes */
+  font-weight: 900 !important; /* bootstrap fixes */
+  padding-bottom: 5px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  margin-bottom: 0px;
+}
+
+.audio__playerFooterSongInfo > p {
+  font-size: 12px !important; /* bootstrap fixes */
+}
+
+.audio__playerFooterCenter {
+  flex: 0.4;
+  padding: 0 30px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  max-width: 280px;
+}
+
+.audio__playerFooterRight {
+  flex: 0.3;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  line-height: 1.0;
+}
+
+.audio__playerFooterAlbumLogo {
+  height: 60px;
+  width: 60px;
+  margin-right: 20px;
+  object-fit: contain;
+}
+
+.audio__playerFooterBlue {
+  color: #1ad2fb;
+}
+
+.audio__playerFooterIcon {
+  padding: 9px; /* bootstrap fixes */
+}
+
+.MuiSvgIcon-root.audio__playerFooterIcon {
+  font-size: 3em !important;  /* bootstrap fixes */
+}
+
+.MuiSvgIcon-root.audio__playerFooterBlue {
+  font-size: 1.8em !important; /* bootstrap fixes */
+}
+
+.MuiSvgIcon-root.audio__playerFooterIcon.MuiSvgIcon-fontSizeLarge {
+  font-size: 3.2em !important; /* bootstrap fixes */
+}
+
+.audio__playerFooterIcon:hover,
+.audio__playerFooterBlue:hover {
+  transition: transform 0.2s ease-in-out;
+  transform: scale(1.2) !important;
+}
+
+.audio__playerFooterRight * .MuiSlider-root {
+  color: #1ad2fb;
+  margin-top: -2px;
+}
+
+.audio__playerFooterRight {
+  padding-top: 8px;
+}

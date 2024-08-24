@@ -1,0 +1,35 @@
+.audio__playerTrackRow {
+  margin-left: 20px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  color: white;
+  background-color: #040404;
+}
+
+.audio__playerTrackRow:hover {
+  cursor: pointer;
+  background-color: black;
+  opacity: 0.8;
+}
+
+.audio__playerTrackRowInfo {
+  margin-left: 20px;
+}
+
+.audio__playerTrackRowInfo > h1 {
+  font-size: 16px !important; /* bootstrap fixes */
+  margin-bottom: 0px;
+}
+
+.audio__playerTrackRowInfo > p {
+  font-size: 14px;
+  margin-top: 3px;
+  color: gray;
+}
+
+.audio__playerTrackImage {
+  object-fit: contain;
+  width: 40px;
+  height: 40px;
+}

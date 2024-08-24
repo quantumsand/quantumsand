@@ -1,0 +1,35 @@
+.audio__playerSidebarOption {
+  display: flex;
+  align-items: center;
+  color: grey;
+  height: 40px;
+  cursor: pointer;
+  transition: 200ms color ease-in;
+  background-color: #040404;
+}
+
+.audio__playerSidebarOption > p {
+  font-size: 12px !important; /* bootstrap fixes */
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.audio__playerSidebarOption > h4 {
+  margin-bottom: 0px;
+  font-size: 12px;
+}
+
+.audio__playerSidebarOption:hover {
+  color: white;
+}
+
+.audio__playerSidebarOptionIcon {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.audio__playerSidebarOption > .MuiSvgIcon-root {
+  font-size: 2.5rem !important; /* bootstrap fix */
+}

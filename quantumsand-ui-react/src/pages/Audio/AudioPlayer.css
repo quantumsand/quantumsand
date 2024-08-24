@@ -1,0 +1,7 @@
+.audio__player {
+  height: 100%;
+}
+
+.audio__playerBody {
+  display: flex;
+}
