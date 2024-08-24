@@ -1,0 +1,40 @@
+.av__videoCard {
+  margin-bottom: 40px;
+  width: 270px;
+  font-family: "Noto Sans";
+}
+
+.av__videoCardThumbnail {
+  height: 140px;
+  width: 250px;
+}
+
+.av__videoCardInfo {
+  display: flex;
+  margin-top: 10px;
+  padding-right: 30px;
+}
+
+.av__videoCardText {
+  margin-left: 10px;
+}
+
+.av__videoCardText > h4 {
+  font-size: 14px;
+  font-weight: bold !important; /* bootstrap fixes */
+  margin-bottom: 5px;
+}
+
+.av__videoCardText > p {
+  font-size: 14px;
+  color: gray;
+}
+
+.av__videoCardAvatar {
+  height: 30px !important;
+  width: 30px !important;
+}
+
+.av__videoCards--center {
+  padding-left: 9px;
+}

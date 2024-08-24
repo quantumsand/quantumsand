@@ -1,0 +1,7 @@
+.av__page {
+  display: flex;
+}
+
+* {
+  margin: 0;
+}

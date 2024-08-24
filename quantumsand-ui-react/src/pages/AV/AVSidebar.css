@@ -1,0 +1,15 @@
+.av__sidebar {
+  flex: 0.19;
+  position: sticky;
+  top: 80px;
+  width: 25%;
+  height: 25vh;
+}
+
+.av__sidebar > hr {
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}

@@ -1,0 +1,49 @@
+.av__header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  background-color: white;
+}
+
+.av__headerLogo {
+  height: 25px;
+  object-fit: content;
+  margin-left: 20px;
+}
+
+.av__headerInput {
+  display: flex;
+  align-items: center;
+  width: 40%;
+  border: 1px solid lightgray;
+  margin-left: 60px; /* align correctly */
+}
+
+.av__headerInput > input:focus {
+  outline-width: 0;
+}
+
+.av__headerInput > input {
+  flex: 1;
+  border: none;
+}
+
+.av__headerInputButton {
+  width: 50px !important;
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+  color: gray;
+}
+
+.av__headerIcons {
+  display: flex;
+  align-items: center;
+}
+
+.av__headerIcon {
+  margin-right: 8px;
+}

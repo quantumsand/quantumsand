@@ -1,0 +1,11 @@
+.av__filtersButtons {
+  margin-bottom: auto;
+  padding-bottom: 15px;
+}
+
+.av__filtersButtons button {
+  background: #fff;
+  border: 1px solid #919191;
+  cursor: pointer;
+  margin: 5px 5px;
+}

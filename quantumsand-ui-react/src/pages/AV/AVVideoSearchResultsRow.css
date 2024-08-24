@@ -1,0 +1,41 @@
+.av__videoSearchResultsRow {
+  display: flex;
+  margin: 15px 0;
+  max-width: 700px;
+  font-family: "Noto Sans";
+}
+
+.av__videoSearchResultsRow > image {
+  object-fit: contain;
+  width: 246px;
+  height: 138px;
+}
+
+.av__videoSearchResultsRowText {
+  margin-left: 14px;
+}
+
+.av__videoSearchResultsRowText > h3 {
+  font-size: 15px !important; /* bootstrap fixes */
+  font-weight: bolder !important; /* bootstrap fixes */
+}
+
+.av__videoSearchResultsRowText > p {
+  font-size: 14px !important; /* bootstrap fixes */
+}
+
+.av__videoSearchResultsRowHeadline {
+  font-size: 12px;
+  color: #606060;
+}
+
+.av__videoSearchResultsRowHeadline > span {
+  font-size: 14px !important; /* bootstrap fixes */
+}
+
+
+.av__videoSearchResultsRowSubsNumber {
+  font-weight: bolder;
+  color: rgb(84, 157, 211);
+  font-size: 14px !important; /* bootstrap fixes */
+}

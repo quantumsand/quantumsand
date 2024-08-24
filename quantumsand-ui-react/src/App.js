@@ -22,6 +22,7 @@ import Services from "./pages/Services/Services";
 import Images from "./pages/Images/Images";
 import Chirp from "./pages/Chirp/Chirp";
 import AudioPlayer from "./pages/Audio/AudioPlayer";
+import AV from "./pages/AV/AV";
 
 function App() {
   return (
@@ -47,6 +48,7 @@ function App() {
           <Route path="audio" element={<AudioPlayer/>} />       
           <Route path="chirp" element={<Chirp />} />
           <Route path="video-narrative" element={<Video />} />
+          <Route path="av" element={<AV />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
           <Route path="*" element={<NoPage />} />
         </Route>

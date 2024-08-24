@@ -1,0 +1,25 @@
+.av__searchResults {
+  flex: 0.8;
+  background-color: #f9f9f9;
+  padding: 20px 20px;
+  font-family: "Noto Sans";
+}
+
+.av__searchResultsFilter {
+  display: flex;
+  align-items: center;
+  color: #606060;
+  font-size: xx-small !important;
+}
+
+.av__searchResultsFilter > h2 {
+  margin-left: 10px;
+}
+
+.av__searchResults > hr {
+  height: 1px;
+  border: 0;
+  background-color: lightgray;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
