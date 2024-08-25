@@ -20,6 +20,7 @@
   display: flex;
   flex: 1;
   align-items: center;
+  margin-left: 10vw;
   max-width: fit-content;
   padding: 10px;
   height: 30px;
@@ -32,6 +33,7 @@
   margin: 20px;
   outline-width: 0;
   width: 250px;
+
 }
 
 .services__headerRight {
