@@ -18,4 +18,6 @@
 .services__footerLogo {
   height: 40px;
   object-fit: contain;
+  width: 40px;
+  height: 40px;
 }
