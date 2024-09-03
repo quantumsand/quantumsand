@@ -70,7 +70,7 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
         <Tab className="ribbon__barTab" eventKey={0} title={<SearchIcon style={{fontSize: "1.8em"}} />}>
           {/* <RibbonSearch logo={logo} pushEvent={pushEvent} /> */}
         </Tab>
-                  <Tab className="ribbon__barTab" eventKey={2} title={<PlayArrowIcon style={{fontSize: "1.8em"}} />}>
+                  <Tab className="ribbon__barTab" eventKey={1} title={<PlayArrowIcon style={{fontSize: "1.8em"}} />}>
         <div className="ribbon__barContextVideo">
         <div className='ribbon__barContextVideoWrapper'>
         <ReactPlayer
@@ -101,75 +101,75 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
         </div>
       </div>
         </Tab>
-        <Tab className="ribbon__barTab" eventKey={3} title={<AppsIcon style={{fontSize: "1.8em"}} />}>
+        <Tab className="ribbon__barTab" eventKey={2} title={<AppsIcon style={{fontSize: "1.8em"}} />}>
           {/* <RibbonApps username={username} avatar={avatar} pushEvent={pushEvent} /> */}
         </Tab>
-        <Tab className="ribbon__barTab" eventKey={4} title={<DescriptionIcon style={{fontSize: "1.8em"}} />}>
+        <Tab className="ribbon__barTab" eventKey={3} title={<DescriptionIcon style={{fontSize: "1.8em"}} />}>
           <p>Productivity</p>
         </Tab>
-        <Tab className="ribbon__barTab" eventKey={5} title={<VideogameAssetIcon style={{fontSize: "1.8em"}} />}>
+        <Tab className="ribbon__barTab" eventKey={4} title={<VideogameAssetIcon style={{fontSize: "1.8em"}} />}>
           <p>Play</p>
         </Tab>
-        <Tab eventKey={6} title={<FitnessCenterIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={5} title={<FitnessCenterIcon style={{fontSize: "1.8em"}} />}>
           <p>Fitness</p>
         </Tab>
-        <Tab eventKey={7} title={<CalendarTodayIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={6} title={<CalendarTodayIcon style={{fontSize: "1.8em"}} />}>
           <p>Calendar</p>
         </Tab>
         {/* <Tab className="ribbon__barTab" eventKey={6} title={<LocalHospitalIcon style={{fontSize: "1.8em"}} />}>
           <RibbonMedical pushEvent={pushEvent} /> */}
-        <Tab eventKey={8} title={<LocalLibraryIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={7} title={<LocalLibraryIcon style={{fontSize: "1.8em"}} />}>
           {/* <RibbonEncyclopediaCarousel pushEvent={pushEvent} subjects={subjects} /> */}
         </Tab>
-        <Tab eventKey={9} title={<PublicIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={8} title={<PublicIcon style={{fontSize: "1.8em"}} />}>
           <p>Globe</p>
         </Tab>
-        <Tab eventKey={10} title={<img src="/icons/dinar.svg" alt="" style={{background: "black", width: "1.8em", borderRadius: "999px"}} />}>
+        <Tab eventKey={9} title={<img src="/icons/dinar.svg" alt="" style={{background: "black", width: "1.8em", borderRadius: "999px"}} />}>
           {/* <RibbonMint pushEvent={pushEvent} /> */}
         </Tab>
-        <Tab eventKey={11} title={<PsychologyIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={10} title={<PsychologyIcon style={{fontSize: "1.8em"}} />}>
           <p>Ratiocination</p>
         </Tab>
-        <Tab eventKey={12} title={<LanguageIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={11} title={<LanguageIcon style={{fontSize: "1.8em"}} />}>
           {/* <Locale pushEvent={pushEvent} locales={locales} languagelocaleHeight={120} /> */}
         </Tab>
-        <Tab eventKey={13} title={<AccessibleIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={12} title={<AccessibleIcon style={{fontSize: "1.8em"}} />}>
           <p>Accessibility</p>
         </Tab>
-        <Tab eventKey={14} title={<LockIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={13} title={<LockIcon style={{fontSize: "1.8em"}} />}>
           <p>Lock</p>
         </Tab>
-        <Tab eventKey={15} title={<ShutterSpeedIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={14} title={<ShutterSpeedIcon style={{fontSize: "1.8em"}} />}>
           <p>Watcher</p>
         </Tab>
-        <Tab eventKey={16} title={<img src="/images/quantumsand-experimental-hourglass.svg" style={{width: "1.6em"}} />}>
+        <Tab eventKey={15} title={<img src="/images/quantumsand-experimental-hourglass.svg" style={{width: "1.6em"}} />}>
           <p>Quantum Sand</p>
         </Tab>
-        <Tab eventKey={17} title={<CodeIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={16} title={<CodeIcon style={{fontSize: "1.8em"}} />}>
           <p>Code</p>
         </Tab>
-        <Tab eventKey={18} title={<RadarIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={17} title={<RadarIcon style={{fontSize: "1.8em"}} />}>
           <p>Geospatial sensing</p>
         </Tab>
-        <Tab eventKey={19} title={<RadioIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={18} title={<RadioIcon style={{fontSize: "1.8em"}} />}>
           <p>Radio</p>
         </Tab>
-        <Tab eventKey={20} title={<FingerprintIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={19} title={<FingerprintIcon style={{fontSize: "1.8em"}} />}>
           <p>Biometric database</p>
         </Tab>
-        <Tab eventKey={21} title={<SettingsIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={20} title={<SettingsIcon style={{fontSize: "1.8em"}} />}>
           <p>Settings</p>
         </Tab>
-        <Tab eventKey={22} title={<CopyrightIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={21} title={<CopyrightIcon style={{fontSize: "1.8em"}} />}>
           <p>Copyright</p>
         </Tab>
-        <Tab eventKey={23} title={<InfoIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={22} title={<InfoIcon style={{fontSize: "1.8em"}} />}>
           <p>Information</p>
         </Tab>
-        <Tab eventKey={24} title={<SignalWifi1BarIcon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={23} title={<SignalWifi1BarIcon style={{fontSize: "1.8em"}} />}>
           <p>Wifi</p>
         </Tab>
-        <Tab eventKey={25} title={<Battery50Icon style={{fontSize: "1.8em"}} />}>
+        <Tab eventKey={24} title={<Battery50Icon style={{fontSize: "1.8em"}} />}>
           <p>Battery</p>
         </Tab>
       </Tabs>
