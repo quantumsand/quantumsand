@@ -30,8 +30,8 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout debug={false} />}>
           <Route index element={<Home />} />
-          <Route path="sampleribbon" element={<SampleRibbonBar />} />
-          <Route path="ribbon" element={<RibbonBar />} />
+          {/* <Route path="sampleribbon" element={<SampleRibbonBar />} /> */}
+          <Route path="ribbon" element={<RibbonBarContext />} />
           <Route path="context" element={<RibbonBarContext />} />
           <Route path="avcontrols" element={<AVControls />} />
           <Route path="barcode" element={<Barcode />} />

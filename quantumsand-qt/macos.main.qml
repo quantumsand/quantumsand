@@ -520,13 +520,13 @@ ApplicationWindow {
                 z: 1001
                 width: parent.width
                 height: 152
-                url: "http://localhost:3000" + "/ribbon"
+                url: "http://localhost:3000" + "/context"
                 settings.accelerated2dCanvasEnabled: true
                 settings.webGLEnabled: true
 
                 onLoadingChanged: function(loadRequest) {
                     if (loadRequest.status === WebEngineView.LoadSucceededStatus) {
-                        console.log("Loaded /ribbon")
+                        console.log("Loaded /context")
                     }
                 }
 
