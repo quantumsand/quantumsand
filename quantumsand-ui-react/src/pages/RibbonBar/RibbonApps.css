@@ -35,3 +35,7 @@
   66%  { --ribbon-apps-button-color: #7df9ff;}
   100% { --ribbon-apps-button-color: #f92672; }
 }
+
+.carousel .slider-wrapper {
+  width: calc(100% - 60px);
+}
