@@ -124,7 +124,7 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
         <Tab eventKey={9} title={<PublicIcon style={{fontSize: "1.8em"}} />}>
           <p>Globe</p>
         </Tab>
-        <Tab eventKey={10} title={<img src="/images/icons/dinar.svg" alt="" style={{background: "black", width: "1.8em", borderRadius: "999px"}} />}>
+        <Tab eventKey={10} title={<img src="/icons/dinar.svg" alt="" style={{background: "black", width: "1.8em", borderRadius: "999px"}} />}>
           {/* <RibbonMint pushEvent={pushEvent} /> */}
         </Tab>
         <Tab eventKey={11} title={<PsychologyIcon style={{fontSize: "1.8em"}} />}>
@@ -142,7 +142,7 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
         <Tab eventKey={15} title={<ShutterSpeedIcon style={{fontSize: "1.8em"}} />}>
           <p>Watcher</p>
         </Tab>
-        <Tab eventKey={16} title={<img src="/images/icons/quantumsand-black-border.svg" style={{width: "1.6em"}} />}>
+        <Tab eventKey={16} title={<img src="/images/quantumsand-experimental-hourglass.svg" style={{width: "1.6em"}} />}>
           <p>Quantum Sand</p>
         </Tab>
         <Tab eventKey={17} title={<CodeIcon style={{fontSize: "1.8em"}} />}>
