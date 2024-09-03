@@ -26,8 +26,9 @@ import Battery50Icon from '@mui/icons-material/Battery50';
 import AnalyticsIcon from '@mui/icons-material/Analytics';
 import PsychologyIcon from '@mui/icons-material/Psychology';
 import PlayArrowIcon from '@mui/icons-material/PlayArrow'
-
 import SearchIcon from '@mui/icons-material/Search';
+
+import RibbonApps from "./RibbonApps";
 
 // In this example Bootsrap is installed via NPM. Here it gets imported from the "./node_modules" folder:
 import "bootstrap/dist/css/bootstrap.css";
@@ -102,7 +103,7 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
       </div>
         </Tab>
         <Tab className="ribbon__barTab" eventKey={2} title={<AppsIcon style={{fontSize: "1.8em"}} />}>
-          {/* <RibbonApps username={username} avatar={avatar} pushEvent={pushEvent} /> */}
+          <RibbonApps username={"username"} avatar={"/locale/english.jpg"}  />
         </Tab>
         <Tab className="ribbon__barTab" eventKey={3} title={<DescriptionIcon style={{fontSize: "1.8em"}} />}>
           <p>Productivity</p>

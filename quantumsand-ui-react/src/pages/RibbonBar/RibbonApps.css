@@ -1,0 +1,37 @@
+.ribbon__apps {
+  height: 120px;
+}
+
+.ribbon__apps .carousel-root .carousel.carousel-slider .control-arrow {
+  animation: ribbon__apps__colorcycle 20s infinite;
+}
+
+@keyframes ribbon__apps__colorcycle {
+  from {background-color: #004282;}
+  to {background-color: #abd4e6;}
+}
+
+.ribbon__appsName {
+  font-size: 10px;
+  font-family: 'Noto Sans';
+}
+
+.ribbon__appsTitle {
+  font-size: 10px;
+}
+
+.btn:focus, .btn:hover, .ribbon__appsButtonSelected {
+  animation: 12s cubic-bezier(.5, 0, .5, 1.2) 1s infinite ribbon__apps__button__colorcycle;
+  background-color: var(--ribbon-apps-button-color);
+}
+
+:root {
+  --ribbon-apps-button-color: #f92672;
+}
+
+@keyframes ribbon__apps__button__colorcycle {
+  0%   { --ribbon-apps-button-color: #f92672; }
+  33%  { --ribbon-apps-button-color: #1ed760; }
+  66%  { --ribbon-apps-button-color: #7df9ff;}
+  100% { --ribbon-apps-button-color: #f92672; }
+}
