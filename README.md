@@ -7,6 +7,7 @@ Quantum Sand is under the AGPLv3 and CC-BY SA 4.0 licenses.
 ## Screenshots of the app
 
 Quantum Sand Educational Art Game Storytelling
+![Educational Art Game Storytelling](/img/Educational-Art-Game-Storytelling_3.png)
 ![Educational Art Game Storytelling](/img/Educational-Art-Game-Storytelling_2.png)
 
 Market
