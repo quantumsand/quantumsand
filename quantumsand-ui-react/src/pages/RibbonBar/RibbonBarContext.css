@@ -11,6 +11,21 @@
   border-bottom: 0;
 }
 
+.nav-tabs {
+  font-size: 0.596rem;
+  height: 30px !important;
+}
+
+.nav-tabs .MuiSvgIcon-root {
+  color: white;
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+}
+
+.active .MuiSvgIcon-root {
+  color: black;
+}
+
+
 /* .ribbon__barLicense {
   width: 150px;
   object-fit: contain;
