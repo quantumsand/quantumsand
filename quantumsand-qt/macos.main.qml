@@ -520,7 +520,7 @@ ApplicationWindow {
                 z: 1001
                 width: parent.width
                 height: 152
-                url: "http://localhost:3000" + "/context"
+                url: Global.quantumsandEndpoint + "/context"
                 settings.accelerated2dCanvasEnabled: true
                 settings.webGLEnabled: true
 
