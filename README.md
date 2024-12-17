@@ -50,9 +50,10 @@ Target hardware for Quantum Sand:
 
 * LimeSDR Mini 2.0
 * An AMD Ryzen SBC
-* An AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano, or a Chinese alternative)
+* An AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano, or a Chinese alternative).
 * More to follow.
 
+Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA Jetson Orin Nano is a favourite but Gentoo Linux is an unknown.
 
 ## Twitter Emoji (Twemoji)
 
