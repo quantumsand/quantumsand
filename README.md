@@ -18,7 +18,7 @@ The Japanese characters are Sakura and Akio.
 
 This reflects a deep fascination with Chinese and Japanese storytelling and artwork over a long period.
 
-Storytelling in videogames such as Ocarina of Time and Shenmue have left an impression that has lasted for decades.
+Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue have left an impression that has lasted for decades.
 
 ## Screenshots of the app
 
