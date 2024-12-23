@@ -8,6 +8,18 @@ A special trick is used to embed Rust videogames into a hovering 3d surface. Unt
 
 Quantum Sand is under the AGPLv3 and CC BY-SA 4.0 licenses.
 
+## Storytelling
+
+Within the storytelling of Quantum Sand, the main characters who teach Xenia and Andrew, are Chinese and Japanese.
+
+The Chinese characters are Ai and Zhao.
+
+The Japanese characters are Sakura and Akio.
+
+This reflects a deep fascination with Chinese and Japanese storytelling and artwork over a long period.
+
+Storytelling in videogames such as Ocarina of Time and Shenmue have left an impression that has lasted for decades.
+
 ## Screenshots of the app
 
 Quantum Sand Educational Art Game Storytelling
