@@ -8,6 +8,10 @@ A special trick is used to embed Rust videogames into a hovering 3d surface. Unt
 
 Quantum Sand is under the AGPLv3 and CC BY-SA 4.0 licenses.
 
+The target hardware for Quantum Sand is the QALB-Boy which is still in planning. Qalb is the Arabic word for heart. Both physically and spiritually.
+
+![QALB](img/qalb-heart.jpg)
+
 ## Storytelling
 
 Within the storytelling of Quantum Sand, the main characters who teach Xenia and Andrew, are Chinese and Japanese.
