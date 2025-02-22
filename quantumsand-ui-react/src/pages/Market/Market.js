@@ -11,8 +11,8 @@ const sampleProducts = {
                       title: "Beads",
                       image: "/products/beads.jpg",
                       currency: "dirham",
-                      price: 5,
-                      btc_price: "0.000016",
+                      slv_price: 5,
+                      gld_price: "0.38",
                       rating: 4.5
                     },
                     {
@@ -20,8 +20,8 @@ const sampleProducts = {
                       title: "Vase",
                       image: "/products/vase.jpg",
                       currency: "dirham",
-                      price: 5,
-                      btc_price: "0.000016",
+                      slv_price: 5,
+                      gld_price: "0.38",
                       rating: 4.8
                     }]
           },
@@ -32,8 +32,8 @@ const sampleProducts = {
                       title: "Coffee",
                       image: "/products/coffee.jpg",
                       currency: "dirham",
-                      price: 5,
-                      btc_price: "0.000016",
+                      slv_price: 5,
+                      gld_price: "0.38",
                       rating: 4.6
                     },
                     {
@@ -41,8 +41,8 @@ const sampleProducts = {
                       title: "Macbeth",
                       image: "/products/macbeth.jpg",
                       currency: "dirham",
-                      price: 5,
-                      btc_price: "0.000016",
+                      slv_price: 5,
+                      gld_price: "0.38",
                       rating: 4.9
                     },
                     {
@@ -50,8 +50,8 @@ const sampleProducts = {
                       title: "Pencils",
                       image: "/products/pencils.jpg",
                       currency: "dirham",
-                      price: 5,
-                      btc_price: "0.000016",
+                      slv_price: 5,
+                      gld_price: "0.38",
                       rating: 4.85
                     }]
           },
@@ -62,17 +62,17 @@ const sampleProducts = {
                       title: "Plant",
                       image: "/products/plant.jpg",
                       currency: "dirham",
-                      price: 5,
-                      btc_price: "0.000016",
+                      slv_price: 5,
+                      gld_price: "0.38",
                       rating: 4.77
                     }]
           }]}
 
-export default function Market({ logo = "/icons/coracaozinho-para-o-luiz-otavio-white.svg", hero = "/heroes/lamps.jpg", products = sampleProducts, username = "Natalia", pushEvent, crypto = true }) {
+export default function Market({ logo = "/icons/coracaozinho-para-o-luiz-otavio-white.svg", hero = "/heroes/lamps.jpg", products = sampleProducts, username = "Natalia", pushEvent }) {
   return (
     <div className="market">
       <MarketHeader pushEvent={pushEvent} logo={logo} username={username} />
-      <MarketHome pushEvent={pushEvent} hero={hero} products={products} crypto={crypto} />
+      <MarketHome pushEvent={pushEvent} hero={hero} products={products} />
     </div>
   )
 }

@@ -2,7 +2,7 @@ import React from 'react';
 import Ratings from 'react-ratings-declarative';
 import "./MarketProductCard.css";
 
-export default function MarketProductCard({ id, title, image, currency, price, btc_price, crypto, rating, pushEvent }) {
+export default function MarketProductCard({ id, title, image, currency, slv_price, gld_price, rating, pushEvent }) {
   const addToBasket = () => {
     console.log("Add to basket")
     //pushEvent('market-add-to-basket', id);
@@ -18,12 +18,12 @@ export default function MarketProductCard({ id, title, image, currency, price, b
       <div className="market__productInfo">
         <p>{title}</p>
         <p className="market__productPrice">
-          <img src={`/icons/${currency}.svg`} alt={currency} />
-          <strong>{price} </strong>
-          <span className="market__productPriceCurrencyTitle"><small>{currency}</small></span>
-          {crypto && <span><img src="/icons/btc.svg" alt="" style={{width: "48px", paddingRight: "5px"}} />
-          <strong>{btc_price} </strong>
-          <span className="market__productPriceCurrencyTitle"><small>BTC</small></span></span>}
+         {slv_price && <span><img src="/icons/dirham.svg" alt="" style={{background: "#000", borderRadius: "50%", width: "48px" }} />
+          <strong><span style={{paddingLeft: "4px"}}>{slv_price}</span></strong>
+          <span className="market__productPriceCurrencyTitle"><small>dirham</small></span></span>}
+          {gld_price && <span><img src="/icons/dinar.svg" alt="" style={{background: "#000", borderRadius: "50%", width: "48px" }} />
+          <strong><span style={{paddingLeft: "4px"}}>{gld_price}</span></strong>
+          <span className="market__productPriceCurrencyTitle"><small>dinar</small></span></span>}
         </p>
         <div className="market__productRating">
           <Ratings

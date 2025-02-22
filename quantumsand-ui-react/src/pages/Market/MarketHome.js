@@ -2,7 +2,7 @@ import React from 'react';
 import MarketProductCard from "./MarketProductCard";
 import "./MarketHome.css";
 
-export default function MarketHome({ hero, products, pushEvent, crypto }) {
+export default function MarketHome({ hero, products, pushEvent }) {
   return (
     <div className="market__home">
 
@@ -17,14 +17,13 @@ export default function MarketHome({ hero, products, pushEvent, crypto }) {
           <div key={row.id} className="market__homeRow">
             {row.items.map((product, index) => (
               <MarketProductCard pushEvent={pushEvent}
-                crypto={crypto}
                 key={product.id}
                 id={product.id}
                 title={product.title}
                 image={product.image}
                 currency={product.currency}
-                price={product.price}
-                btc_price={product.btc_price}
+                slv_price={product.slv_price}
+                gld_price={product.gld_price}
                 rating={product.rating} />
             ))}
           </div>
