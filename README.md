@@ -31,7 +31,7 @@ Quantum Sand Educational Art Game Storytelling
 ![Educational Art Game Storytelling](/img/Educational-Art-Game-Storytelling_2.png)
 
 Market
-![Market](/img/Market.png)
+![Market](/img/Market.jpg)
 
 Services
 ![Services](/img/Services.png)
