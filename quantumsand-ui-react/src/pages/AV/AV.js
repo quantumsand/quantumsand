@@ -4,7 +4,7 @@ import AVSidebar from './AVSidebar';
 import AVRecommendedVideos from './AVRecommendedVideos';
 import './AV.css';
 
-export default function AV({ logo, username, avatar = "/wallpaper/rain.jpg", videos = [
+export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg", username, avatar = "/wallpaper/rain.jpg", videos = [
   {
     id: 1,
     title: "Introduction to Muamalat",

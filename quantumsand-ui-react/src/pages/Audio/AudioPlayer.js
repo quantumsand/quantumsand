@@ -4,7 +4,7 @@ import AudioPlayerFooter from "./AudioPlayerFooter";
 import AudioPlayerSidebar from "./AudioPlayerSidebar";
 import "./AudioPlayer.css";
 
-export default function AudioPlayer({ logo, playlists = [
+export default function AudioPlayer({ logo = "/icons/coracaozinho-para-o-luiz-otavio-white.svg", playlists = [
   {
     id: 1,
     title: "Awesome",
