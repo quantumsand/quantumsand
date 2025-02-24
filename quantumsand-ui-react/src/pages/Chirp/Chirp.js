@@ -3,7 +3,7 @@ import ChirpSidebar from "./ChirpSidebar";
 import ChirpFeed from "./ChirpFeed";
 import "./Chirp.css";
 
-export default function Chirp({ logo, posts = [
+export default function Chirp({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg", posts = [
   {
       id: "1",
       displayName: "Natalia",
