@@ -24,6 +24,10 @@ This reflects a deep fascination with Chinese and Japanese storytelling and artw
 
 Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue have left an impression that has lasted for decades.
 
+## Live USB stick
+
+Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of religion.
+
 ## Screenshots of the app
 
 Quantum Sand Educational Art Game Storytelling
