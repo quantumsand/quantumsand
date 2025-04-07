@@ -24,9 +24,9 @@ This reflects a deep fascination with Chinese and Japanese storytelling and artw
 
 Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue have left an impression that has lasted for decades.
 
-## Live USB stick
+## Live USB stick; STEM programme for Women and Girls
 
-Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of religion.
+Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of various religions. This will turn into the Quantum Sand STEM programme for Women and Girls.
 
 ## Screenshots of the app
 
