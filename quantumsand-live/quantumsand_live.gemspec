@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.description = "QuantumSand Live builder"
   s.authors     = ["Andrew Potter"]
   s.email       = "yusufjamespotter@gmail.com"
-  s.files       = ["lib/quantumsand_live.rb"]
+  s.files       = ["lib/quantumsand_live.rb", "lib/quantumsand_live/format_stick.rb"]
   s.homepage    = ""
   s.license     = "MIT"
 end
