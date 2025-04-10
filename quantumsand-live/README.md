@@ -40,3 +40,13 @@ Hello world! QuantumsandLive!!
 Hello world! QuantumsandLive!! FormatStick
  => nil 
 ```
+
+With `system("sudo echo *")`:
+
+```
+3.3.0 :002 > QuantumsandLive::FormatStick.hi
+Hello world! QuantumsandLive!! FormatStick
+Password:
+README.md lib quantumsand_live-0.0.0.gem quantumsand_live.gemspec
+ => true 
+```
