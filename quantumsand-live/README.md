@@ -1,6 +1,6 @@
-# QuantumSand Live
+# Quantum Sand Live
 
-QuantumSand Live builder Ruby gem.
+Quantum Sand Live builder Ruby gem.
 
 ```
 cd quantumsand-live
