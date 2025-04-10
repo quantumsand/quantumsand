@@ -35,12 +35,6 @@ Done installing documentation for quantumsand_live after 0 seconds
 Hello world! QuantumsandLive!!
 ```
 
-```
-% irb
-3.3.0 :001 > require "quantumsand_live"
- => true 
- ```
-
  ```
 3.3.0 :002 > QuantumsandLive::FormatStick.hi
 Hello world! QuantumsandLive!! FormatStick
