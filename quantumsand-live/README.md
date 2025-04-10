@@ -5,7 +5,9 @@ QuantumSand Live builder Ruby gem.
 ```
 cd quantumsand-live
 gem build quantumsand_live.gemspec
+```
 
+```
 WARNING:  no homepage specified
 WARNING:  See https://guides.rubygems.org/specification-reference/ for help
   Successfully built RubyGem
@@ -16,7 +18,9 @@ WARNING:  See https://guides.rubygems.org/specification-reference/ for help
 
 ```
 gem install ./quantumsand_live-0.0.0.gem
+```
 
+```
 Successfully installed quantumsand_live-0.0.0
 Parsing documentation for quantumsand_live-0.0.0
 Done installing documentation for quantumsand_live after 0 seconds
