@@ -8,7 +8,7 @@ class QuantumsandLive::FormatStick
     stdout, stderr, status = Open3.capture3("sudo -S <<< '#{root_password}' cat '/etc/sudoers'")
     puts "Output: #{stdout}"
     error = stderr.strip
-    unless error.length.zero? then puts "Error: #{error}" end
+    puts "Error: #{error}" unless error.length.zero?
     puts "stderr length #{stderr.strip.length}"
     puts "Exit Status: #{status.exitstatus}"
 
