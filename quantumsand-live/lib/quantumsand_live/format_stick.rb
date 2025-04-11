@@ -1,7 +1,9 @@
 class QuantumsandLive::FormatStick
-  def self.hi
+  def self.hi(root_password)
     puts "Hello world! QuantumsandLive!! FormatStick"
-    puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your root password to continue."
+    puts "Testing root password my listing sudo cat '/etc/sudoers'"
+    system("sudo -S <<< '#{root_password}' sudo cat '/etc/sudoers'")
+    puts "Testing non root echo *"
     system("sudo echo *")
   end
 end
