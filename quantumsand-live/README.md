@@ -47,7 +47,12 @@ With `system("sudo echo *")`:
 3.3.0 :002 > QuantumsandLive::FormatStick.hi
 Hello world! QuantumsandLive!! FormatStick
 Quantum Sand Live needs privileged access in order to format disks. Please enter your root password to continue.
-Password:
+Testing root password by listing sudo cat '/etc/sudoers'
+Password:#
+
+// prints out example /etc/sudoers
+
+Testing non root echo *
 README.md lib quantumsand_live-0.0.0.gem quantumsand_live.gemspec
  => true 
 ```
