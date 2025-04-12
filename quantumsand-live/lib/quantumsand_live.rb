@@ -1,10 +1,10 @@
 class QuantumsandLive
   def self.hi
     puts "Hello world! QuantumsandLive!!"
-    puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your root password to continue."
-    root_password = STDIN.noecho(&:gets).chomp
+    puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
+    sudo_password = STDIN.noecho(&:gets).chomp
 
-    QuantumsandLive::FormatStick.hi(root_password)
+    QuantumsandLive::FormatStick.hi(sudo_password)
   end
 end
 
