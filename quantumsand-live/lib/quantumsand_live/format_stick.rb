@@ -3,7 +3,7 @@ require 'open3'
 class QuantumsandLive::FormatStick
   def self.hi(sudo_password)
     puts "Hello world! QuantumsandLive!! FormatStick"
-    puts "Testing root password by listing sudo cat '/etc/sudoers'"
+    puts "Testing sudo password by listing sudo cat '/etc/sudoers'"
 
     bash_command = "sudo -S <<< '#{sudo_password}' cat '/etc/sudoers'"
 
