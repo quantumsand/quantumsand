@@ -32,5 +32,7 @@ class QuantumsandLive::FormatStick
     IO.popen("/bin/bash -c '#{bash_command_gentoo_stage3}'", "w") do |pipe|
       puts pipe
     end
+
+    # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
   end
 end
