@@ -29,7 +29,7 @@ class QuantumsandLive::FormatStick
     # -C -; continue download if partially downloaded previously
     bash_command_gentoo_stage3 = "curl -L -O -C - #{gentoo_stage3_url}" # TODO: emerge sync...
     # Download stage3
-    IO.popen("#{bash_command_gentoo_stage3}", "w") do |pipe|
+    IO.popen("/bin/bash -c '#{bash_command_gentoo_stage3}'", "w") do |pipe|
       puts pipe
     end
   end
