@@ -21,5 +21,12 @@ class QuantumsandLive::FormatStick
 
     puts "Which shell?"
     system("/bin/bash -c 'echo $0'")
+
+    gentoo_stage3_url = "https://distfiles.gentoo.org/releases/amd64/autobuilds/20250406T165023Z/stage3-amd64-desktop-systemd-20250406T165023Z.tar.xz"
+    bash_command_gentoo_stage3 = "curl -L -O -C - #{gentoo_stage3_url}" # TODO: emerge sync...
+    # Download stage3
+    IO.popen("#{bash_command_gentoo_stage3}", "w") do |pipe|
+      puts pipe
+    end
   end
 end
