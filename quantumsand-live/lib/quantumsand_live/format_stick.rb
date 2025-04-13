@@ -23,6 +23,10 @@ class QuantumsandLive::FormatStick
     system("/bin/bash -c 'echo $0'")
 
     gentoo_stage3_url = "https://distfiles.gentoo.org/releases/amd64/autobuilds/20250406T165023Z/stage3-amd64-desktop-systemd-20250406T165023Z.tar.xz"
+    # curl command
+    # -L; if server reports that requested url  has  moved  to  a  different  location then redo request
+    # -O; keep the same filename; file output to a local file named like the file name of the remote file
+    # -C -; continue download if partially downloaded previously
     bash_command_gentoo_stage3 = "curl -L -O -C - #{gentoo_stage3_url}" # TODO: emerge sync...
     # Download stage3
     IO.popen("#{bash_command_gentoo_stage3}", "w") do |pipe|
