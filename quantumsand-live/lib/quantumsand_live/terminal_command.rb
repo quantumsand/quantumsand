@@ -21,4 +21,28 @@ class QuantumsandLive::TerminalCommand
       puts pipe
     end
   end
+
+  def self.terminal_capture_user command: command = "cat '/etc/sudoers'"
+    puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_user"
+
+    stdout, stderr, status = Open3.capture3("/bin/bash -c '#{command}'")
+    puts "Output: #{stdout}"
+    error = stderr.strip
+    puts "Error: #{error}" unless error.length.zero?
+    puts "stderr length #{stderr.strip.length}"
+    puts "Exit Status: #{status.exitstatus}"
+  end
+
+  def self.terminal_capture_sudo password:, command: command = "cat '/etc/sudoers'"
+    puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_user"
+
+    command = "sudo -S <<< '#{password}' #{command}"
+
+    stdout, stderr, status = Open3.capture3("/bin/bash -c '#{command}'")
+    puts "Output: #{stdout}"
+    error = stderr.strip
+    puts "Error: #{error}" unless error.length.zero?
+    puts "stderr length #{stderr.strip.length}"
+    puts "Exit Status: #{status.exitstatus}"
+  end
 end

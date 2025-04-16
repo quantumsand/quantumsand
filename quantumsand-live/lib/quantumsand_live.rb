@@ -12,8 +12,12 @@ class QuantumsandLive
     # -O; keep the same file name; file output to a local file named like the file name of the remote file
     # -C -; continue download if partially downloaded previously
     bash_command_gentoo_stage3 = "curl -L -O -C - #{gentoo_stage3_url}" # TODO: emerge sync...
+    bash_command_cat_sudoers = "cat '/etc/sudoers'"
     QuantumsandLive::TerminalCommand.terminal_pipe_sudo password: sudo_password, command: bash_command_gentoo_stage3
     QuantumsandLive::TerminalCommand.terminal_pipe_user command: bash_command_gentoo_stage3
+
+    QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: bash_command_cat_sudoers
+    QuantumsandLive::TerminalCommand.terminal_capture_user command: bash_command_cat_sudoers
   end
 end
 
