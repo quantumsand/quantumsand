@@ -22,6 +22,7 @@ class QuantumsandLive::TerminalCommand
     end
   end
 
+  # terminal capture method for user
   def self.terminal_capture_user command: command = "cat '/etc/sudoers'"
     puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_user"
 
@@ -33,6 +34,7 @@ class QuantumsandLive::TerminalCommand
     puts "Exit Status: #{status.exitstatus}"
   end
 
+  # terminal capture method for sudo
   def self.terminal_capture_sudo password:, command: command = "cat '/etc/sudoers'"
     puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_sudo"
 
