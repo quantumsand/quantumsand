@@ -1,3 +1,4 @@
 .DS_Store
 *.gem
 stage3-*.tar.xz
+.byebug_history
