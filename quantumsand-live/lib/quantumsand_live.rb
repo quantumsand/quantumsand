@@ -7,7 +7,7 @@ class QuantumsandLive
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
-    gentoo_stage3_url = "https://distfiles.gentoo.org/releases/amd64/autobuilds/20250406T165023Z/stage3-amd64-desktop-systemd-20250406T165023Z.tar.xz"
+    gentoo_stage3_url = QuantumsandLive::Resource.gentoo_stage3_url
     # curl command
     # -L; if server reports that requested url has moved to a different location then redo request
     # -O; keep the same file name; file output to a local file named like the file name of the remote file
@@ -31,3 +31,4 @@ end
 
 require 'quantumsand_live/format_drive'
 require 'quantumsand_live/terminal_command'
+require 'quantumsand_live/resource'

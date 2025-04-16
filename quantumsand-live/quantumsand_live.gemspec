@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Andrew Potter"]
   s.email       = "yusufjamespotter@gmail.com"
   s.files       = ["lib/quantumsand_live.rb", "lib/quantumsand_live/format_drive.rb",
-                   "lib/quantumsand_live/terminal_command.rb"]
+                   "lib/quantumsand_live/terminal_command.rb", "lib/quantumsand_live/resource.rb"]
   s.homepage    = ""
   s.license     = "MIT"
 end
