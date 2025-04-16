@@ -27,11 +27,8 @@ class QuantumsandLive::TerminalCommand
     puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_user"
 
     stdout, stderr, status = Open3.capture3("/bin/bash -c '#{command}'")
-    puts "Output: #{stdout}"
-    error = stderr.strip
-    puts "Error: #{error}" unless error.length.zero?
-    puts "stderr length #{stderr.strip.length}"
-    puts "Exit Status: #{status.exitstatus}"
+
+    {output: stdout, error: stderr, status: status.exitstatus}
   end
 
   # terminal capture method for sudo
@@ -41,10 +38,7 @@ class QuantumsandLive::TerminalCommand
     command = "sudo -S <<< '#{password}' #{command}"
 
     stdout, stderr, status = Open3.capture3("/bin/bash -c '#{command}'")
-    puts "Output: #{stdout}"
-    error = stderr.strip
-    puts "Error: #{error}" unless error.length.zero?
-    puts "stderr length #{stderr.strip.length}"
-    puts "Exit Status: #{status.exitstatus}"
+
+    {output: stdout, error: stderr, status: status.exitstatus}
   end
 end
