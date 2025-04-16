@@ -5,6 +5,7 @@ class QuantumsandLive
     sudo_password = STDIN.noecho(&:gets).chomp
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
+    QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
     gentoo_stage3_url = "https://distfiles.gentoo.org/releases/amd64/autobuilds/20250406T165023Z/stage3-amd64-desktop-systemd-20250406T165023Z.tar.xz"
     # curl command
