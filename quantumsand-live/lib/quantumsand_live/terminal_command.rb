@@ -4,7 +4,7 @@ require 'byebug'
 class QuantumsandLive::TerminalCommand
   # terminal pipe method for user; example: download file using curl as a user
   def self.terminal_pipe_user command: command = "cat '/etc/sudoers'"
-    puts "Hello world! QuantumsandLive!! TerminalCommand terminal_pipe_user"
+    puts "QuantumsandLive::TerminalCommand.terminal_pipe_user"
 
     IO.popen("/bin/bash -c '#{command}'", "w") do |pipe|
       puts pipe
@@ -13,7 +13,7 @@ class QuantumsandLive::TerminalCommand
 
   # terminal pipe method for sudo; example: download file using curl as sudo
   def self.terminal_pipe_sudo password:, command: command = "cat '/etc/sudoers'"
-    puts "Hello world! QuantumsandLive!! TerminalCommand terminal_pipe_sudo"
+    puts "QuantumsandLive::TerminalCommand.terminal_pipe_sudo"
 
     command = "sudo -S <<< '#{password}' #{command}"
 
@@ -24,7 +24,7 @@ class QuantumsandLive::TerminalCommand
 
   # terminal capture method for user; example: capture command output as a user
   def self.terminal_capture_user command: command = "cat '/etc/sudoers'"
-    puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_user"
+    puts "QuantumsandLive::TerminalCommand.terminal_capture_user"
 
     stdout, stderr, status = Open3.capture3("/bin/bash -c '#{command}'")
 
@@ -33,7 +33,7 @@ class QuantumsandLive::TerminalCommand
 
   # terminal capture method for sudo; example: capture command output as sudo
   def self.terminal_capture_sudo password:, command: command = "cat '/etc/sudoers'"
-    puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_sudo"
+    puts "QuantumsandLive::TerminalCommand.terminal_capture_sudo"
 
     command = "sudo -S <<< '#{password}' #{command}"
 
