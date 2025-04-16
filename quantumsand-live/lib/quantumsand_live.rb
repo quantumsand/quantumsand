@@ -28,5 +28,5 @@ class QuantumsandLive
   end
 end
 
-require 'quantumsand_live/format_stick'
+require 'quantumsand_live/format_drive'
 require 'quantumsand_live/terminal_command'
