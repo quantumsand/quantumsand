@@ -34,7 +34,7 @@ class QuantumsandLive::TerminalCommand
   end
 
   def self.terminal_capture_sudo password:, command: command = "cat '/etc/sudoers'"
-    puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_user"
+    puts "Hello world! QuantumLive!! TerminalCommand terminal_capture_sudo"
 
     command = "sudo -S <<< '#{password}' #{command}"
 
