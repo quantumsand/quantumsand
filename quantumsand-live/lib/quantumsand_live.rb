@@ -4,7 +4,7 @@ class QuantumsandLive
     puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
     sudo_password = STDIN.noecho(&:gets).chomp
 
-    QuantumsandLive::FormatStick.hi(sudo_password)
+    QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
 
     gentoo_stage3_url = "https://distfiles.gentoo.org/releases/amd64/autobuilds/20250406T165023Z/stage3-amd64-desktop-systemd-20250406T165023Z.tar.xz"
     # curl command
@@ -21,6 +21,10 @@ class QuantumsandLive
 
     res = QuantumsandLive::TerminalCommand.terminal_capture_user command: bash_command_cat_sudoers
     puts res.inspect
+
+    # TODO: gentoo stage3
+    # TODO: emerge sync
+    # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
   end
 end
 
