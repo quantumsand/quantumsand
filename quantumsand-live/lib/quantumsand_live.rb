@@ -1,6 +1,6 @@
 class QuantumsandLive
-  def self.hi
-    puts "Hello world! QuantumsandLive!!"
+  def self.build
+    puts "QuantumsandLive.build"
     puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
     sudo_password = STDIN.noecho(&:gets).chomp
 

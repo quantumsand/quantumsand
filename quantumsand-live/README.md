@@ -31,28 +31,7 @@ Done installing documentation for quantumsand_live after 0 seconds
 % irb
 3.3.0 :002 > require "quantumsand_live"
  => true 
-3.3.0 :003 > QuantumsandLive.hi
-Hello world! QuantumsandLive!!
-```
-
- ```
-3.3.0 :002 > QuantumsandLive::FormatStick.hi
-Hello world! QuantumsandLive!! FormatStick
- => nil 
-```
-
-With `system("sudo echo *")`:
-
-```
-3.3.0 :002 > QuantumsandLive::FormatStick.hi
-Hello world! QuantumsandLive!! FormatStick
-Quantum Sand Live needs privileged access in order to format disks. Please enter your root password to continue.
-Testing root password by listing sudo cat '/etc/sudoers'
-Password:#
-
-// prints out example /etc/sudoers
-
-Testing non root echo *
-README.md lib quantumsand_live-0.0.0.gem quantumsand_live.gemspec
- => true 
+3.3.0 :003 > QuantumsandLive.build
+QuantumsandLive.build
+Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue.
 ```
