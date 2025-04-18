@@ -47,6 +47,8 @@ class QuantumsandLive
     # TODO: PyTorch
     # TODO: scm_breeze
     # TODO: VSCodium
+    # TODO: Docker
+    # TODO: Linux kernel
   end
 end
 
