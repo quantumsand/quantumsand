@@ -63,6 +63,7 @@ class QuantumsandLive
     # TODO: dev-lang/erlang
     # TODO: dev-lang/elixir
     # TODO: Customised Qt6 + Quantum Sand
+    # TODO: Jupyter
   end
 end
 
