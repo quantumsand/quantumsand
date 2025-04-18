@@ -62,6 +62,7 @@ class QuantumsandLive
     # TODO: VLC
     # TODO: dev-lang/erlang
     # TODO: dev-lang/elixir
+    # TODO: Customised Qt6 + Quantum Sand
   end
 end
 
