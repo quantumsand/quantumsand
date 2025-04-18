@@ -51,6 +51,8 @@ class QuantumsandLive
     # TODO: VSCodium
     # TODO: Docker
     # TODO: Linux kernel
+    # TODO: Firefox
+    # TODO: Chromium
   end
 end
 
