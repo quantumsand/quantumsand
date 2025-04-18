@@ -52,6 +52,10 @@ class QuantumsandLive
     # TODO: scm_breeze
     # TODO: VSCodium
     # TODO: Docker
+    # TODO: Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
+    # TODO: Krita
+    # TODO: GIMP
+    # TODO: Inkscape
     # TODO: Linux kernel
     # TODO: Firefox
     # TODO: Chromium
