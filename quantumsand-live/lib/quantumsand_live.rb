@@ -46,6 +46,7 @@ class QuantumsandLive
     # TODO: rustup
     # TODO: Blender
     # TODO: DeepSeek
+    # TODO: Fire-Flyer File System (3FS)
     # TODO: CUDA
     # TODO: PyTorch
     # TODO: scm_breeze
