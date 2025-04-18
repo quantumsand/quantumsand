@@ -27,7 +27,7 @@ class QuantumsandLive
     # TODO: emerge sync
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
     # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
-
+    # TODO: Noto Color Emoji
   end
 end
 
