@@ -28,6 +28,25 @@ class QuantumsandLive
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
     # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: Noto Color Emoji
+    # TODO: PostGIS
+    # TODO: KDE
+    # TODO: GNOME
+    # TODO: LimeSuite
+    # TODO: GNU Radio
+    # TODO: Gqrx
+    # TODO: OpenStreetMap
+    # TODO: Osm2pgsql
+    # TODO: mapnik
+    # TODO: openstreetmap-carto
+    # TODO: maplibre martin
+    # TODO: QGIS
+    # TODO: rustup
+    # TODO: Blender
+    # TODO: DeepSeek
+    # TODO: CUDA
+    # TODO: PyTorch
+    # TODO: scm_breeze
+    # TODO: VSCodium
   end
 end
 
