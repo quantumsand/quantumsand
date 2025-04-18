@@ -55,6 +55,9 @@ class QuantumsandLive
     # TODO: Linux kernel
     # TODO: Firefox
     # TODO: Chromium
+    # TODO: VLC
+    # TODO: dev-lang/erlang
+    # TODO: dev-lang/elixir
   end
 end
 
