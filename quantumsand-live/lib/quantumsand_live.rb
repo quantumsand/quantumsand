@@ -29,6 +29,8 @@ class QuantumsandLive
     # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: Noto Color Emoji
     # TODO: PostGIS
+    # TODO: PostgresML
+    # TODO: pgcat
     # TODO: KDE
     # TODO: GNOME
     # TODO: LimeSuite
