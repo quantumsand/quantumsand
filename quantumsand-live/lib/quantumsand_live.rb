@@ -57,6 +57,7 @@ class QuantumsandLive
     # TODO: GIMP
     # TODO: Inkscape
     # TODO: Linux kernel
+    # TODO: FFmpeg
     # TODO: Firefox
     # TODO: Chromium
     # TODO: VLC
