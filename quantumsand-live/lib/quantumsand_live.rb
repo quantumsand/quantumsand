@@ -65,6 +65,7 @@ class QuantumsandLive
     # TODO: Customised Qt6 + Quantum Sand
     # TODO: Godot Engine
     # TODO: Jupyter
+    # TODO: LibreOffice
   end
 end
 
