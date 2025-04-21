@@ -65,6 +65,8 @@ class QuantumsandLive
     # TODO: VLC
     # TODO: dev-lang/erlang
     # TODO: dev-lang/elixir
+    # TODO: ejabberd
+    # TODO: GStreamer
     # TODO: Customised Qt6 + Quantum Sand
     # TODO: Godot Engine
     # TODO: Jupyter
