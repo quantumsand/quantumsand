@@ -71,6 +71,7 @@ class QuantumsandLive
     # TODO: Godot Engine
     # TODO: Jupyter
     # TODO: LibreOffice
+    # TODO: Fail2Ban
   end
 end
 
