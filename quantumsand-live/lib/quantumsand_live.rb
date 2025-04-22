@@ -32,6 +32,7 @@ class QuantumsandLive
     # TODO: Valkey
     # TODO: Noto Color Emoji
     # TODO: PostGIS
+    # TODO: H3: A Hexagonal Hierarchical Geospatial Indexing System
     # TODO: PostgresML
     # TODO: pgcat
     # TODO: KDE
