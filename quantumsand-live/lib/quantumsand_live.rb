@@ -73,6 +73,9 @@ class QuantumsandLive
     # TODO: Jupyter
     # TODO: LibreOffice
     # TODO: Fail2Ban
+    # TODO: tcpdump
+    # TODO: Wireshark
+    # TODO: Nmap
   end
 end
 
