@@ -28,6 +28,7 @@ class QuantumsandLive
     # TODO: distcc
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
     # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
+    # TODO: Caddy
     # TODO: QEMU
     # TODO: Valkey
     # TODO: Noto Color Emoji
