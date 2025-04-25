@@ -5,28 +5,23 @@ class QuantumsandLive::TerminalCommand
   # before entering the chroot a number of directories must be mounted
   def self.chroot_mount_sudo password:, dirpath: dirpath = "/mnt/gentoo"
     puts "QuantumsandLive::TerminalCommand.chroot_mount_sudo"
-    res = terminal_capture_sudo password: password, command: "mount --rbind /dev #{dirpath}/dev"
-    puts res
 
-    res = terminal_capture_sudo password: password, command: "mount --make-rslave #{dirpath}/dev"
-    puts res
+    chroot_mount_sudo_commands = [
+      "mount --rbind /dev #{dirpath}/dev",
+      "mount --make-rslave #{dirpath}/dev",
+      "mount -t proc /proc #{dirpath}/proc",
+      "mount --rbind /sys #{dirpath}/sys",
+      "mount --make-rslave #{dirpath}/sys",
+      "mount --rbind /tmp #{dirpath}/tmp",
+      "mount --bind /run #{dirpath}/run"
+    ]
 
-    res = terminal_capture_sudo password: password, command: "mount -t proc /proc #{dirpath}/proc"
-    puts res
-
-    res = terminal_capture_sudo password: password, command: "mount --rbind /sys #{dirpath}/sys"
-    puts res
-
-    res = terminal_capture_sudo password: password, command: "mount --make-rslave #{dirpath}/sys"
-    puts res
-
-    res = terminal_capture_sudo password: password, command: "mount --rbind /tmp #{dirpath}/tmp"
-    puts res
-
-    res = terminal_capture_sudo password: password, command: "mount --bind /run #{dirpath}/run"
-    puts res
-
+    chroot_mount_sudo_commands.each do |command|
+      res = terminal_capture_sudo password: password, command: command
+      puts res
+    end
   end
+
   # chroot changes the root directory of the calling process to that specified in dirpath
   def self.chroot_sudo password:, dirpath: dirpath = "#{dirpath}", command: command = "du -h ."
     puts "QuantumsandLive::TerminalCommand.chroot_sudo"
