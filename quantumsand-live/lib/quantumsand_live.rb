@@ -7,6 +7,7 @@ class QuantumsandLive
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
+    gentoo_stage3_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C /mnt/gentoo"
     gentoo_stage3_url = QuantumsandLive::Resource.gentoo_stage3_url
     # curl command
     # -L; if server reports that requested url has moved to a different location then redo request
@@ -17,11 +18,21 @@ class QuantumsandLive
     QuantumsandLive::TerminalCommand.terminal_pipe_sudo password: sudo_password, command: bash_command_gentoo_stage3
     QuantumsandLive::TerminalCommand.terminal_pipe_user command: bash_command_gentoo_stage3
 
+    res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: gentoo_stage3_command
+    puts res.inspect
+
     res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: bash_command_cat_sudoers
     puts res.inspect
 
     res = QuantumsandLive::TerminalCommand.terminal_capture_user command: bash_command_cat_sudoers
     puts res.inspect
+
+    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: "/mnt/gentoo", command: "du -h ."
+    puts res.inspect
+
+    # emerge_sync_command = "emerge sync"
+    # res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: "/mnt/gentoo", command: emerge_sync_command
+    # puts res.inspect
 
     # TODO: gentoo stage3
     # TODO: emerge sync

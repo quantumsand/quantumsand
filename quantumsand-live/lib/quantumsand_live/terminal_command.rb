@@ -2,6 +2,14 @@ require 'open3'
 require 'byebug'
 
 class QuantumsandLive::TerminalCommand
+  # chroot changes the root directory of the calling process to that specified in dirpath
+  def self.chroot_sudo password:, dirpath: dirpath = "/mnt/gentoo", command: command = "du -h ."
+    puts "QuantumsandLive::TerminalCommand.chroot"
+    chroot_command = "chroot #{dirpath} #{command}"
+    res = terminal_capture_sudo password: password, command: chroot_command
+    puts res
+  end
+
   # terminal pipe method for user; example: download file using curl as a user
   def self.terminal_pipe_user command: command = "cat '/etc/sudoers'"
     puts "QuantumsandLive::TerminalCommand.terminal_pipe_user"
