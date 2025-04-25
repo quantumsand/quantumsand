@@ -26,8 +26,9 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: "/mnt/gentoo", command: emerge_sync_command
     puts res.inspect
 
-    # TODO: gentoo stage3
-    # TODO: emerge sync
+    # DONE: gentoo stage3
+    # DONE: emerge --sync
+    #
     # TODO: distcc
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
     # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
