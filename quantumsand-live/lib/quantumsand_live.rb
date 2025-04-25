@@ -21,16 +21,7 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: gentoo_stage3_command
     puts res.inspect
 
-    res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: bash_command_cat_sudoers
-    puts res.inspect
-
-    res = QuantumsandLive::TerminalCommand.terminal_capture_user command: bash_command_cat_sudoers
-    puts res.inspect
-
     res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: "/mnt/gentoo"
-    puts res.inspect
-
-    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: "/mnt/gentoo", command: "du -h ."
     puts res.inspect
 
     emerge_sync_command = "emerge --sync"
