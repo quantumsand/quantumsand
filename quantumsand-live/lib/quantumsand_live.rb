@@ -7,16 +7,16 @@ class QuantumsandLive
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
-    gentoo_stage3_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C /mnt/gentoo"
+    gentoo_stage3_tar_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C /mnt/gentoo"
     gentoo_stage3_url = QuantumsandLive::Resource.gentoo_stage3_url
     # curl command
     # -L; if server reports that requested url has moved to a different location then redo request
     # -O; keep the same file name; file output to a local file named like the file name of the remote file
     # -C -; continue download if partially downloaded previously
-    bash_command_gentoo_stage3 = "curl -L -O -C - #{gentoo_stage3_url}"
-    QuantumsandLive::TerminalCommand.terminal_pipe_user command: bash_command_gentoo_stage3
+    gentoo_stage3_curl_command = "curl -L -O -C - #{gentoo_stage3_url}"
+    QuantumsandLive::TerminalCommand.terminal_pipe_user command: gentoo_stage3_curl_command
 
-    res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: gentoo_stage3_command
+    res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: gentoo_stage3_tar_command
     puts res.inspect
 
     res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: "/mnt/gentoo"
