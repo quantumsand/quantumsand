@@ -27,9 +27,16 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: emerge_sync_command
     puts res.inspect
 
+    emerge_oneshot_portage_command = "emerge --oneshot sys-apps/portage"
+    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: emerge_oneshot_portage_command
+    puts res.inspect
+
     # DONE: gentoo stage3
     # DONE: emerge --sync
-    #
+    # TODO: FIX setlocale error
+    # TODO: kernel sources at /usr/src/linux
+    # DONE: emerge --oneshot sys-apps/portage
+
     # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: Caddy
     # TODO: distcc
