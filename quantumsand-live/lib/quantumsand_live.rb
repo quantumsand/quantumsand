@@ -3,11 +3,12 @@ class QuantumsandLive
     puts "QuantumsandLive.build"
     puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
     sudo_password = STDIN.noecho(&:gets).chomp
+    dirpath = "/mnt/gentoo"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
-    gentoo_stage3_tar_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C /mnt/gentoo"
+    gentoo_stage3_tar_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C #{dirpath}"
     gentoo_stage3_url = QuantumsandLive::Resource.gentoo_stage3_url
     # curl command
     # -L; if server reports that requested url has moved to a different location then redo request
@@ -19,11 +20,11 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: gentoo_stage3_tar_command
     puts res.inspect
 
-    res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: "/mnt/gentoo"
+    res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: dirpath
     puts res.inspect
 
     emerge_sync_command = "emerge --sync"
-    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: "/mnt/gentoo", command: emerge_sync_command
+    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: emerge_sync_command
     puts res.inspect
 
     # DONE: gentoo stage3
