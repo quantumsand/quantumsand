@@ -4,7 +4,6 @@ class QuantumsandLive
     puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
     sudo_password = STDIN.noecho(&:gets).chomp
     dirpath = "/mnt/gentoo"
-    locale = "en_GB"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
@@ -24,15 +23,7 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: dirpath
     puts res.inspect
 
-    echo_iso_locale_gen_command = "echo '#{locale} ISO-8859-1' > /etc/locale.gen"
-    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: echo_iso_locale_gen_command
-    puts res.inspect
-
-    echo_utf8_locale_gen_command = "echo '#{locale}.UTF-8 UTF-8' > /etc/locale.gen"
-    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: echo_utf8_locale_gen_command
-    puts res.inspect
-
-    locale_gen_command = "locale-gen"
+    locale_gen_command = "locale-gen -A"
     res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: locale_gen_command
     puts res.inspect
 
@@ -46,7 +37,7 @@ class QuantumsandLive
 
     # DONE: gentoo stage3
     # DONE: emerge --sync
-    # TODO: FIX setlocale error; Unknown option 'en_GB.UTF-8'
+    # DONE: Install all locales: locale-gen -A
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
 
