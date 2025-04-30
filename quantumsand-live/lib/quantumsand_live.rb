@@ -23,7 +23,15 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: dirpath
     puts res.inspect
 
-    locale_gen_command = "locale-gen en_GB.UTF-8"
+    echo_en_gb_iso_locale_gen_command = "echo 'en_GB ISO-8859-1' > /etc/locale.gen"
+    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: echo_en_gb_iso_locale_gen_command
+    puts res.inspect
+
+    echo_en_gb_utf8_locale_gen_command = "echo 'en_GB.UTF-8 UTF-8' > /etc/locale.gen"
+    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: echo_en_gb_utf8_locale_gen_command
+    puts res.inspect
+
+    locale_gen_command = "locale-gen"
     res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: locale_gen_command
     puts res.inspect
 
