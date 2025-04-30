@@ -40,6 +40,8 @@ class QuantumsandLive
     # DONE: emerge --sync
 
     # TODO: USE flags
+    # TODO: CFLAGS and CXXFLAGS
+    # TODO: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
     # TODO: ACCEPT_LICENSE
     # TODO: CPU_FLAGS_X86
     # TODO: VIDEO_CARDS
@@ -79,7 +81,6 @@ class QuantumsandLive
     # TODO: scm_breeze
     # TODO: VSCodium
     # TODO: Docker
-    # TODO: Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
     # TODO: Krita
     # TODO: GIMP
     # TODO: Inkscape
