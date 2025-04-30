@@ -39,10 +39,16 @@ class QuantumsandLive
     # DONE: Install all locales: locale-gen -A
     # DONE: emerge --sync
 
+    # TODO: USE flags
+    # TODO: ACCEPT_LICENSE
+    # TODO: CPU_FLAGS_X86
+    # TODO: VIDEO_CARDS
+    # TODO: LINGUAS
+    # TODO: L10N
+    # TODO: Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
 
-    # TODO: /etc/portage/make.conf; Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: Caddy
     # TODO: distcc
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
