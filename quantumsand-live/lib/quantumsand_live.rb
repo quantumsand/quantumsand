@@ -37,7 +37,7 @@ class QuantumsandLive
 
     # DONE: gentoo stage3
     # DONE: emerge --sync
-    # TODO: FIX setlocale error
+    # TODO: FIX setlocale error; Unknown option 'en_GB.UTF-8'
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
 
