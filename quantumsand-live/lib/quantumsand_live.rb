@@ -23,6 +23,10 @@ class QuantumsandLive
     res = QuantumsandLive::TerminalCommand.chroot_mount_sudo password: sudo_password, dirpath: dirpath
     puts res.inspect
 
+    locale_gen_command = "locale-gen en_GB.UTF-8"
+    res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: locale_gen_command
+    puts res.inspect
+
     emerge_sync_command = "emerge --sync"
     res = QuantumsandLive::TerminalCommand.chroot_sudo password: sudo_password, dirpath: dirpath, command: emerge_sync_command
     puts res.inspect
