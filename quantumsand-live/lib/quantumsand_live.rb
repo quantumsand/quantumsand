@@ -36,8 +36,9 @@ class QuantumsandLive
     puts res.inspect
 
     # DONE: gentoo stage3
-    # DONE: emerge --sync
     # DONE: Install all locales: locale-gen -A
+    # DONE: emerge --sync
+
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
 
