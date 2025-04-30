@@ -24,7 +24,7 @@ class QuantumsandLive::TerminalCommand
 
   # chroot changes the root directory of the calling process to that specified in dirpath
   def self.chroot_sudo password:, dirpath: dirpath = "#{dirpath}", command: command = "du -h ."
-    puts "QuantumsandLive::TerminalCommand.chroot_sudo"
+    puts "QuantumsandLive::TerminalCommand.chroot_sudo: #{command}"
     chroot_command = "chroot #{dirpath} #{command}"
     res = terminal_capture_sudo password: password, command: chroot_command
     puts res
