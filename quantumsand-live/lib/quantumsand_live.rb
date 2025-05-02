@@ -104,6 +104,7 @@ class QuantumsandLive
     # TODO: OBS Studio
     # TODO: dev-debug/dtrace
     # TODO: app-antivirus/clamav
+    # TODO: ZFS
   end
 end
 
