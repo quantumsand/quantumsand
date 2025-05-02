@@ -103,6 +103,7 @@ class QuantumsandLive
     # TODO: Nmap
     # TODO: OBS Studio
     # TODO: dev-debug/dtrace
+    # TODO: app-antivirus/clamav
   end
 end
 
