@@ -12,10 +12,6 @@ A special trick is used to embed Rust videogames into a hovering 3d surface. Unt
 
 Quantum Sand is under the AGPLv3 and CC BY-SA 4.0 licenses.
 
-The target hardware for Quantum Sand is the QALB-Boy which is still in planning. Qalb is the Arabic word for heart. Both physically and spiritually.
-
-![QALB](img/qalb-heart.jpg)
-
 ## Storytelling
 
 Within the storytelling of Quantum Sand, the main characters who teach Xenia and Andrew, are Chinese and Japanese.
@@ -70,12 +66,17 @@ Images
 
 ## Target hardware
 
-Target hardware for Quantum Sand:
+The target hardware for Quantum Sand is the QALB-Boy which is still in planning. Qalb is the Arabic word for heart. Both physically and spiritually.
 
-* LimeSDR Mini 2.0
-* An AMD Ryzen SBC
-* An AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano Super, or a Chinese alternative).
-* More to follow.
+Target hardware for Quantum Sand; QALB-Boy specification. More to follow...
+
+![QALB](img/qalb-heart.jpg)
+![QALB-Boy](/img/qalb-boy-logo-colours.jpg)
+![The-Arabic-word-qalb](/img/The-Arabic-word-qalb-means-heart-both-physically-and-spiritually.jpg)
+
+* LimeSDR Mini 2.0 (optional)
+* An AMD Ryzen SBC or an AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano Super, or a Chinese alternative).
+* More to follow...
 
 Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA Jetson Orin Nano is a favourite but Gentoo Linux is an unknown.
 
