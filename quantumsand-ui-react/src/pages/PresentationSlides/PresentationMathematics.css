@@ -1,0 +1,43 @@
+.presentation__mathematics {
+  color: #756fb2;
+  background-color: #2a2c37;
+  justify-content: space-between;
+  padding: 5px 0;
+}
+
+.presentation__mathematicsHighlighted {
+  color: whitesmoke;
+  background-color: #2a2c37;
+  animation: mathematics-zoom-in-zoom-out 0.5s normal forwards;
+}
+
+@keyframes mathematics-zoom-in-zoom-out {
+  0% {
+    transform: scale(1, 1);
+  }
+  50% {
+    transform: scale(1.1, 1.1);
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
+
+.MathJax {
+  padding: 5px 0;
+}
+
+.MathJax > svg {
+  font-size: 280%;
+}
+
+.presentation__mathematicsText {
+  font-size: 35px;
+  font-family: "Noto Sans";
+  color: #4181c0;
+  text-align: center;
+}
+
+.presentation__mathematicsTextHighlighted {
+  color: #82c2b6;
+}

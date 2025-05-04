@@ -1,4 +1,8 @@
 import { Deck, Slide, Heading, Box, FlexBox, FullScreen, Progress, Image, CodePane, Appear, Stepper } from 'spectacle';
+import { useEffect } from 'react';
+import VSDark from 'react-syntax-highlighter/dist/cjs/styles/prism/vs-dark';
+import { MathJaxProvider } from 'mathjax3-react';
+import PresentationMathematics from './PresentationMathematics';
 import "./PresentationSlides.css";
 
 export default function PresentationSlides({ slides = [
@@ -22,6 +26,28 @@ export default function PresentationSlides({ slides = [
     }
   };
 
+// const channel = new BroadcastChannel("spectacle_presenter_bus");
+// var step = 0;
+
+  // useEffect(() => {
+  //   const intervalId = setInterval(() => {
+
+  //     // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
+  //     // console.log("random: " + randomNumber)
+
+  //     channel.postMessage(JSON.stringify({
+  //       type: "SYNC",
+  //       payload: {
+  //         slideIndex: 0,
+  //         stepIndex: step
+  //       }
+  //     }));
+  //   }, 5000);
+
+  //   return () => clearInterval(intervalId); //This is important
+  // })
+
+
   return (
     <div className="presentationSlides">
       <Deck theme={theme}>
@@ -30,6 +56,33 @@ export default function PresentationSlides({ slides = [
           {/* <Heading>{slide.heading}</Heading> */}
           {slide.image &&
             <Image src={slide.image} height="100vh"></Image>
+          }
+
+          {slide.code && <CodePane language="rust" theme={VSDark} highlightRanges={slide.codeRanges}>
+            {slide.code}
+          </CodePane>}
+
+          {slide.mathematics && <FlexBox flex={1} flexDirection='column' justifyContent='center'>
+            <MathJaxProvider options={{
+                tex: {
+                  inlineMath: [
+                    ['$', '$'],
+                    ['\\(', '\\)'],
+                  ],
+                },
+              }}>
+
+            {slide.mathematics.map((math, index) => (
+              <Stepper key={index} tagName="div" alwaysVisible values={['complete']}>
+              {(value, step, isActive) => 
+
+                <PresentationMathematics text="" tex={math.tex} highlighted={isActive} />
+
+              }
+              </Stepper>
+            ))}
+            </MathJaxProvider>
+          </FlexBox>
           }
         </Slide>
       ))}
