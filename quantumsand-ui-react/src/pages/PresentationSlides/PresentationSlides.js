@@ -5,7 +5,7 @@ export default function PresentationSlides({ slides = [
   {
     id: 1,
     content: "Advertise here.",
-    image: "/images/quantumsand-experimental-hourglass.svg",
+    image: "/images/qalb-boy-experimental.svg",
     backgroundColor: "#fff"
    },
   {id: 2, content: "Advertise here.", image: "/images/photo-1494412519320-aa613dfb7738.jpeg"}] }){
