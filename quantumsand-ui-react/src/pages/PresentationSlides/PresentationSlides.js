@@ -33,7 +33,7 @@ export default function PresentationSlides({ slides = [
     const intervalId = setInterval(() => {
 
       // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
-      if (stepIndex < 3) {
+      if (stepIndex <= 2) {
       stepIndex = stepIndex + 1;
       }
       else {
