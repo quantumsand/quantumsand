@@ -59,6 +59,8 @@ class QuantumsandLive
     # TODO: QEMU
     # TODO: Valkey
     # TODO: Noto Color Emoji
+    # TODO: PostgreSQL
+    # TODO: POSTGRES_MULTIPLE_EXTENSIONS=postgis,hstore,postgis_topology,postgis_raster,pgrouting,h3,h3_postgis
     # TODO: PostGIS
     # TODO: H3: A Hexagonal Hierarchical Geospatial Indexing System
     # TODO: PostgresML
