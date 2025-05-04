@@ -5,9 +5,7 @@ import { MathJaxProvider } from 'mathjax3-react';
 import PresentationMathematics from './PresentationMathematics';
 import "./PresentationSlides.css";
 
-var stepIndex = 0;
-
-export default function PresentationSlides({ stepper = false, slides = [
+export default function PresentationSlides({ stepper = false, stepIndex = 0, slides = [
   {
     id: 1,
     content: "Advertise here.",
@@ -33,7 +31,7 @@ export default function PresentationSlides({ stepper = false, slides = [
   useEffect(() => {
     if (stepper) {
     const intervalId = setInterval(() => {
-
+  
       // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
       if (stepIndex < 3) {
       stepIndex = stepIndex + 1;
@@ -41,21 +39,22 @@ export default function PresentationSlides({ stepper = false, slides = [
       else {
         stepIndex = 0;
       }
+  
+      console.log("stepIndex: " + stepIndex)
       // console.log("random: " + randomNumber)
-
-      channel.postMessage(JSON.stringify({
-        type: "SYNC",
-        payload: {
-          slideIndex: 0,
-          stepIndex: stepIndex
-        }
-      }));
-    }, 2500);
-
+  
+      // channel.postMessage(JSON.stringify({
+      //   type: "SYNC",
+      //   payload: {
+      //     slideIndex: 0,
+      //     stepIndex: stepIndex
+      //   }
+      // }));
+    }, 5000);
+  
     return () => clearInterval(intervalId); //This is important
   }
   })
-
 
   return (
     <div className="presentationSlides">
@@ -72,25 +71,25 @@ export default function PresentationSlides({ stepper = false, slides = [
           </CodePane>}
 
           {slide.mathematics && <FlexBox flex={1} flexDirection='column' justifyContent='center'>
-            <MathJaxProvider options={{
+            {/* <MathJaxProvider options={{
                 tex: {
                   inlineMath: [
                     ['$', '$'],
                     ['\\(', '\\)'],
                   ],
                 },
-              }}>
+              }}> */}
 
             {slide.mathematics.map((math, index) => (
-              <Stepper key={index} tagName="div" alwaysVisible values={['complete']}>
-              {(value, step, isActive) => 
+              // <Stepper key={index} tagName="div" alwaysVisible values={['complete']}>
+              // {(math, index) => 
 
-                <PresentationMathematics text="" tex={math.tex} highlighted={isActive} />
+                <PresentationMathematics key={index} text="" tex={math.tex} highlighted={index == stepIndex} />
 
-              }
-              </Stepper>
+              //}
+              // </Stepper>
             ))}
-            </MathJaxProvider>
+            {/* </MathJaxProvider> */}
           </FlexBox>
           }
         </Slide>
