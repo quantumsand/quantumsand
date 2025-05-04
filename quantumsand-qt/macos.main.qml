@@ -162,7 +162,7 @@ ApplicationWindow {
                     z: 100
 
                     visible: true
-                    url: Global.quantumsandEndpoint + "/slides-secondary"
+                    url: Global.quantumsandEndpoint + "/slides-thirdly"
                     settings.accelerated2dCanvasEnabled: true
                     settings.webGLEnabled: true
                     settings.playbackRequiresUserGesture: false

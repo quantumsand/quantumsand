@@ -8,7 +8,7 @@ export default function PresentationMathematics({ tex, text, highlighted }) {
   return (
     <div className={highlighted ? `presentation__mathematics presentation__mathematicsHighlighted` : `presentation__mathematics`}>
 
-      <MathJaxFormula formula={tex} />
+        <MathJaxFormula formula={tex} />
      
       {/* {console.log(tex)}
       {console.log(text)}
