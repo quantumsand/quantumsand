@@ -26,7 +26,7 @@ export default function PresentationSlides({ stepper = false, slides = [
     }
   };
 
-  // const channel = new BroadcastChannel("spectacle_presenter_bus");
+  const channel = new BroadcastChannel("spectacle_presenter_bus");
   const [stepIndex, setStepIndex] = useState(0);
 
   useEffect(() => {
@@ -44,13 +44,13 @@ export default function PresentationSlides({ stepper = false, slides = [
       console.log("stepIndex: " + stepIndex)
       // console.log("random: " + randomNumber)
   
-      // channel.postMessage(JSON.stringify({
-      //   type: "SYNC",
-      //   payload: {
-      //     slideIndex: 0,
-      //     stepIndex: stepIndex
-      //   }
-      // }));
+      channel.postMessage(JSON.stringify({
+        type: "SYNC",
+        payload: {
+          slideIndex: 0,
+          stepIndex: stepIndex
+        }
+      }));
     }, 2500);
   
     return () => clearInterval(intervalId); //This is important

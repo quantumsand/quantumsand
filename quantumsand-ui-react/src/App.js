@@ -43,7 +43,7 @@ const mathsSlides = [
     ]
   },
   {
-    id: 2
+    id: 2, image: "/images/quantumsand-experimental-hourglass.svg", backgroundColor: "#fff"
   }]
 
 
