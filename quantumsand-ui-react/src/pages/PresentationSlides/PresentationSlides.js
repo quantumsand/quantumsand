@@ -5,7 +5,9 @@ import { MathJaxProvider } from 'mathjax3-react';
 import PresentationMathematics from './PresentationMathematics';
 import "./PresentationSlides.css";
 
-export default function PresentationSlides({ slides = [
+var stepIndex = 0;
+
+export default function PresentationSlides({ stepper = false, slides = [
   {
     id: 1,
     content: "Advertise here.",
@@ -27,13 +29,13 @@ export default function PresentationSlides({ slides = [
   };
 
   const channel = new BroadcastChannel("spectacle_presenter_bus");
-  var stepIndex = 0;
 
   useEffect(() => {
+    if (stepper) {
     const intervalId = setInterval(() => {
 
       // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
-      if (stepIndex <= 2) {
+      if (stepIndex < 3) {
       stepIndex = stepIndex + 1;
       }
       else {
@@ -51,6 +53,7 @@ export default function PresentationSlides({ slides = [
     }, 2500);
 
     return () => clearInterval(intervalId); //This is important
+  }
   })
 
 

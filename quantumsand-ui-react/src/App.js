@@ -61,7 +61,7 @@ function App() {
           <Route path="subtitles" element={<Subtitles />} />
           <Route path="adverts" element={<Adverts />} />
           <Route path="ebook" element={<EBook />} />
-          <Route path="slides" element={<PresentationSlides />} />
+          <Route path="slides" element={<PresentationSlides stepper={true} />} />
           <Route path="wallpaper" element={<Wallpaper />} />
           <Route path="market" element={<Market />} />
           <Route path="mail" element={<Mail />} />
@@ -73,7 +73,7 @@ function App() {
           <Route path="video-narrative" element={<Video />} />
           <Route path="av" element={<AV />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
-          <Route path="slides-thirdly" element={<PresentationSlides slides={mathsSlides} />} />
+          <Route path="slides-thirdly" element={<PresentationSlides stepper={true} slides={mathsSlides} />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
