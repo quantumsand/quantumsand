@@ -12,7 +12,7 @@ export default function PresentationSlides({ slides = [
     image: "/images/qalb-boy-experimental.svg",
     backgroundColor: "#fff"
    },
-  {id: 2, content: "Advertise here.", image: "/images/photo-1494412519320-aa613dfb7738.jpeg"}] }){
+  {id: 2, content: "Advertise here.", image: "/images/quantumsand-experimental-hourglass.svg", backgroundColor: "#fff"}] }){
 
   const theme = {
     colors: {
