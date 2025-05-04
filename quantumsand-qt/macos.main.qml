@@ -146,6 +146,37 @@ ApplicationWindow {
             }
 
             WebEngineView {
+                id: webengine_presentation_quaternary
+                width: 1280
+                height: 720
+                anchors.fill: parent
+                z: 100
+
+                layer.enabled: true
+                layer.smooth: true
+
+                visible: true
+                url: Global.quantumsandEndpoint + "/slides-secondary"
+                settings.accelerated2dCanvasEnabled: true
+                settings.webGLEnabled: true
+                settings.playbackRequiresUserGesture: false
+                settings.showScrollBars: false
+                backgroundColor: "transparent"
+                antialiasing: true
+
+                profile: WebEngineProfile {
+                    storageName: "Profile"
+                    offTheRecord: true
+                }
+
+                onLoadingChanged: function(loadRequest) {
+                    if (loadRequest.status === WebEngineView.LoadSucceededStatus) {
+                        console.log("Loaded /slides-secondary")
+                    }
+                }
+            }
+
+            WebEngineView {
                 id: webengine_presentation_secondary
                 url: Global.quantumsandEndpoint + "/video-slide"
                 width: 1280
@@ -456,6 +487,7 @@ ApplicationWindow {
                 model_left_panel.state = "opened";
                 model_right_panel.state = "opened";
                 model_additional_panel.state = "opened";
+                model_additional_panel_quaternary.state = "opened";
                 webengine_context.visible = false;
                 controls.visible = false;
                 qr_code.visible = false;
@@ -466,6 +498,7 @@ ApplicationWindow {
                 model_left_panel.state = "closed";
                 model_right_panel.state = "closed";
                 model_additional_panel.state = "closed";
+                model_additional_panel_quaternary.state = "closed";
                 webengine_context.visible = true;
                 controls.visible = true;
                 qr_code.visible = true;
@@ -476,6 +509,7 @@ ApplicationWindow {
                 model_left_panel.state = "secondary";
                 model_right_panel.state = "secondary";
                 model_additional_panel.state = "secondary";
+                model_additional_panel_quaternary.state = "secondary";
                 webengine_context.visible = true;
                 controls.visible = true;
                 qr_code.visible = true;
@@ -957,6 +991,63 @@ ApplicationWindow {
                                 scale.z: 0.1
                                 z: 270
                                 pivot.x: 0
+                            }
+                        }]
+                        transitions: Transition {
+                            to: "secondary"
+                            reversible: true
+                            SequentialAnimation {
+                                PropertyAnimation { properties: "eulerRotation.y, scale.x,scale.y"; duration: 500 }
+                                PropertyAnimation { properties: "x,y"; duration: 1000 }
+                            }
+                        }
+                    }
+
+                    Model {
+                        id: model_additional_panel_quaternary
+                        objectName: "extra panel quaternary"
+                        pivot.x: 0
+                        eulerRotation.y: 20
+                        x: +1000
+                        y: 0
+                        z: 200
+                        scale.x: 3.5
+                        scale.y: 1.98
+                        scale.z: 0.1
+
+                        source: "#Cube"
+                        materials: [ DefaultMaterial {
+                                            diffuseMap: Texture {
+                                                id: texture_presentation_quaternary
+                                                sourceItem: webengine_presentation_quaternary
+                                                // flipV: true
+                                            }
+                                        }
+                                    ]
+                        pickable: true
+
+                        states: [
+                            State {
+                            name: "opened"
+                            PropertyChanges {
+                                target: model_additional_panel_quaternary
+                                eulerRotation.y: -90
+                                x: 1000
+                                scale.x: 3.5
+                                scale.y: 1.98
+                                scale.z: 0.1
+                            }},
+                            State {
+                            name: "secondary"
+                            PropertyChanges {
+                                target: model_additional_panel_quaternary
+                                eulerRotation.y: 0
+                                x: 179
+                                y: 165
+                                scale.x: 1.33
+                                scale.y: 0.725
+                                scale.z: 0.1
+                                z: 250
                             }
                         }]
                         transitions: Transition {
