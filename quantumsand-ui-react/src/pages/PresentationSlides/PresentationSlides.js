@@ -26,26 +26,32 @@ export default function PresentationSlides({ slides = [
     }
   };
 
-// const channel = new BroadcastChannel("spectacle_presenter_bus");
-// var step = 0;
+  const channel = new BroadcastChannel("spectacle_presenter_bus");
+  var stepIndex = 0;
 
-  // useEffect(() => {
-  //   const intervalId = setInterval(() => {
+  useEffect(() => {
+    const intervalId = setInterval(() => {
 
-  //     // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
-  //     // console.log("random: " + randomNumber)
+      // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
+      if (stepIndex < 3) {
+      stepIndex = stepIndex + 1;
+      }
+      else {
+        stepIndex = 0;
+      }
+      // console.log("random: " + randomNumber)
 
-  //     channel.postMessage(JSON.stringify({
-  //       type: "SYNC",
-  //       payload: {
-  //         slideIndex: 0,
-  //         stepIndex: step
-  //       }
-  //     }));
-  //   }, 5000);
+      channel.postMessage(JSON.stringify({
+        type: "SYNC",
+        payload: {
+          slideIndex: 0,
+          stepIndex: stepIndex
+        }
+      }));
+    }, 2500);
 
-  //   return () => clearInterval(intervalId); //This is important
-  // })
+    return () => clearInterval(intervalId); //This is important
+  })
 
 
   return (
