@@ -94,7 +94,7 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
                 // backgroundSize: '100vw'}} > */}
 
               <h2 className="ribbon__barContextTitle">{title}</h2>
-              {/* <img className="ribbon__barLicense" src="/images/logo/cc-by-sa-4.0-horizontal_black.svg" /> */}
+              <img className="ribbon__barLicense" src="/images/cc-by-sa-4.0-horizontal_black.svg" />
               {/* <ContextCarousel slides={SLIDES} options={OPTIONS} /> */}
               {/* <h4 className="ribbon__barContextTime">{time}</h4> */}
             </div>

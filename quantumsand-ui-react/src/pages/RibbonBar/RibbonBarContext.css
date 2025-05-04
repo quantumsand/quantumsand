@@ -25,15 +25,14 @@
   color: black;
 }
 
-
-/* .ribbon__barLicense {
+.ribbon__barLicense {
   width: 150px;
   object-fit: contain;
   margin: auto;
   flex: 1;
   align-content: center;
   display: flex;
-} */
+}
 
 .ribbon__barContextVideo {
   height: 120px;
