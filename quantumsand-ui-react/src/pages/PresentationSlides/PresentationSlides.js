@@ -1,11 +1,11 @@
 import { Deck, Slide, Heading, Box, FlexBox, FullScreen, Progress, Image, CodePane, Appear, Stepper } from 'spectacle';
-import { useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import VSDark from 'react-syntax-highlighter/dist/cjs/styles/prism/vs-dark';
 import { MathJaxProvider } from 'mathjax3-react';
 import PresentationMathematics from './PresentationMathematics';
 import "./PresentationSlides.css";
 
-export default function PresentationSlides({ stepper = false, stepIndex = 0, slides = [
+export default function PresentationSlides({ stepper = false, slides = [
   {
     id: 1,
     content: "Advertise here.",
@@ -26,7 +26,8 @@ export default function PresentationSlides({ stepper = false, stepIndex = 0, sli
     }
   };
 
-  const channel = new BroadcastChannel("spectacle_presenter_bus");
+  // const channel = new BroadcastChannel("spectacle_presenter_bus");
+  const [stepIndex, setStepIndex] = useState(0);
 
   useEffect(() => {
     if (stepper) {
@@ -34,10 +35,10 @@ export default function PresentationSlides({ stepper = false, stepIndex = 0, sli
   
       // var randomNumber = Math.floor(Math.random() * (3 - 0 + 1))
       if (stepIndex < 3) {
-      stepIndex = stepIndex + 1;
+        setStepIndex(stepIndex + 1);
       }
       else {
-        stepIndex = 0;
+        setStepIndex(0);
       }
   
       console.log("stepIndex: " + stepIndex)
@@ -50,11 +51,11 @@ export default function PresentationSlides({ stepper = false, stepIndex = 0, sli
       //     stepIndex: stepIndex
       //   }
       // }));
-    }, 5000);
+    }, 2500);
   
     return () => clearInterval(intervalId); //This is important
   }
-  })
+  }, [stepIndex]);
 
   return (
     <div className="presentationSlides">
@@ -71,14 +72,14 @@ export default function PresentationSlides({ stepper = false, stepIndex = 0, sli
           </CodePane>}
 
           {slide.mathematics && <FlexBox flex={1} flexDirection='column' justifyContent='center'>
-            {/* <MathJaxProvider options={{
+            <MathJaxProvider options={{
                 tex: {
                   inlineMath: [
                     ['$', '$'],
                     ['\\(', '\\)'],
                   ],
                 },
-              }}> */}
+              }}>
 
             {slide.mathematics.map((math, index) => (
               // <Stepper key={index} tagName="div" alwaysVisible values={['complete']}>
@@ -89,7 +90,7 @@ export default function PresentationSlides({ stepper = false, stepIndex = 0, sli
               //}
               // </Stepper>
             ))}
-            {/* </MathJaxProvider> */}
+            </MathJaxProvider>
           </FlexBox>
           }
         </Slide>
