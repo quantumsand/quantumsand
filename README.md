@@ -31,8 +31,8 @@ Quantum Sand can be distributed via a Live USB stick. This should help women and
 ## Screenshots of the app
 
 Quantum Sand Educational Art Game Storytelling
-![Educational Art Game Storytelling](/img/Educational-Art-Game-Storytelling_3.png)
-![Educational Art Game Storytelling](/img/Educational-Art-Game-Storytelling_2.png)
+
+![Educational Art Game Storytelling](/img/20250505_quantumsand-screenshot.jpg)
 
 Market
 ![Market](/img/Market.jpg)
