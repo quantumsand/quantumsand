@@ -9,6 +9,7 @@ class QuantumsandLive
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
     # TODO: sys-fs/cryptsetup; cryptsetup luksFormat --key-size 512 /dev/nvme0n1p1
+    # TODO: sudo-rs; a memory safe implementation of sudo and su
 
     gentoo_stage3_tar_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C #{dirpath}"
     gentoo_stage3_url = QuantumsandLive::Resource.gentoo_stage3_url
