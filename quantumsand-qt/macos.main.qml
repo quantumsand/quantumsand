@@ -278,7 +278,7 @@ ApplicationWindow {
                     anchors.fill: parent
                     z: 100
 
-                    visible: false // TODO: REWORK THIS
+                    visible: true // TODO: REWORK THIS
                     url: Global.quantumsandEndpoint + "/narrator"
                     settings.accelerated2dCanvasEnabled: true
                     settings.webGLEnabled: true

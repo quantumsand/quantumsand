@@ -1,0 +1,41 @@
+.narratorOverlay {
+  padding-top: 46% !important;
+  font-family: 'Noto Sans';
+}
+
+.ticker__element > h1 {
+  padding: 0 10px;
+  white-space: nowrap;
+  font-size: 34px;
+  font-family: 'Noto Sans';
+  color: white;
+}
+
+.ticker__element > h1 span {
+  color: #ffcc18;
+  text-shadow: 1px 1px 2px #b99157;
+}
+
+.ticker__element > h2 {
+  color: #02aded;
+  font-family: 'Noto Sans';
+  font-size: 15px;
+  color: white;
+}
+
+.ticker__element > h1::after {
+  /* content: "+ + +"; */
+  margin: 0 10px;
+}
+
+.ticker__element > img {
+  display: block;
+  width: 20vw;
+  margin: 0;
+  opacity: 0;
+  transition: 1s;
+}
+
+.ticker__element .loaded {
+  opacity: 1;
+}

@@ -24,6 +24,8 @@ import Chirp from "./pages/Chirp/Chirp";
 import AudioPlayer from "./pages/Audio/AudioPlayer";
 import AV from "./pages/AV/AV";
 
+import NarratorOverlay from "./pages/NarratorOverlay/NarratorOverlay";
+
 const mathsSlides = [
     {
       id: 1,
@@ -74,6 +76,7 @@ function App() {
           <Route path="av" element={<AV />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
           <Route path="slides-thirdly" element={<PresentationSlides stepper={true} slides={mathsSlides} />} />
+          <Route path="narrator" element={<NarratorOverlay />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
