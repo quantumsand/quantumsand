@@ -40,7 +40,7 @@ This video only captures part of the overall functionality within Quantum Sand.
 
 Quantum Sand Educational Art Game Storytelling
 
-![Educational Art Game Storytelling](/img/20250505_quantumsand-screenshot.jpg)
+![Educational Art Game Storytelling](/img/20250506_quantumsand-screenshot.jpg)
 
 Market
 ![Market](/img/Market.jpg)
