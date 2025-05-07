@@ -29,6 +29,12 @@ import NarratorOverlay from "./pages/NarratorOverlay/NarratorOverlay";
 const mathsSlides = [
     {
       id: 1,
+      content: "Advertise here.",
+      image: "/images/qalb-boy-experimental.svg",
+      backgroundColor: "#fff"
+    },
+    {
+      id: 2,
       backgroundColor:  "#2a2c37",
       content: "maths",
       mathematics: [{
@@ -45,7 +51,7 @@ const mathsSlides = [
     ]
   },
   {
-    id: 2, image: "/images/quantumsand-experimental-hourglass.svg", backgroundColor: "#fff"
+    id: 3, image: "/images/quantumsand-experimental-hourglass.svg", backgroundColor: "#fff"
   }]
 
 
