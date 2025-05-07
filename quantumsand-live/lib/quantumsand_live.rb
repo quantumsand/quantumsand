@@ -112,6 +112,7 @@ class QuantumsandLive
     # TODO: ZFS
     # TODO: DGM.js with collaboration
     # TODO: Gitea
+    # TODO: KiCad
   end
 end
 
