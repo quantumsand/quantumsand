@@ -58,7 +58,7 @@ export default function Video({ url = "/video/sample-narrative-dynamic.webm", di
         onPlay={handlePlay}
         onProgress={handleProgress}
         onDuration={handleDuration}
-        volume={0.8}
+        volume={0.1}
         width='100%'
         height='100%'
       />
