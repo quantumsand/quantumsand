@@ -111,6 +111,7 @@ class QuantumsandLive
     # TODO: app-antivirus/clamav
     # TODO: ZFS
     # TODO: DGM.js with collaboration
+    # TODO: Gitea
   end
 end
 
