@@ -115,6 +115,7 @@ class QuantumsandLive
     # TODO: DGM.js with collaboration
     # TODO: Gitea
     # TODO: KiCad
+    # TODO: pentoo-overlay; net-analyzer/metasploit
   end
 end
 
