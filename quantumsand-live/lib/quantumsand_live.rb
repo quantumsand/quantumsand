@@ -120,6 +120,7 @@ class QuantumsandLive
     # TODO: pentoo-overlay; net-analyzer/metasploit
     # TODO: soapySDR
     # TODO: srsGUI + srsRAN_4G + srsRAN_Project (complete 5G RAN solution)
+    # TODO: qradiolink
     # TODO: ROOT: data analysis framework; sci-physics/root
   end
 end
