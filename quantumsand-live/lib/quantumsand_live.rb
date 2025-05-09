@@ -84,6 +84,7 @@ class QuantumsandLive
     # TODO: Fire-Flyer File System (3FS)
     # TODO: CUDA
     # TODO: PyTorch
+    # TODO; Evidently AI monitoring
     # TODO: scm_breeze
     # TODO: VSCodium
     # TODO: Docker
