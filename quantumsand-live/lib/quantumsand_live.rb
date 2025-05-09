@@ -118,6 +118,7 @@ class QuantumsandLive
     # TODO: Gitea
     # TODO: KiCad
     # TODO: pentoo-overlay; net-analyzer/metasploit
+    # TODO: soapySDR
     # TODO: srsRAN_4G + srsRAN_Project (complete 5G RAN solution)
     # TODO: ROOT: data analysis framework; sci-physics/root
   end
