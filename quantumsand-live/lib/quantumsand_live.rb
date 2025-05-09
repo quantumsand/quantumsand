@@ -117,7 +117,7 @@ class QuantumsandLive
     # TODO: Gitea
     # TODO: KiCad
     # TODO: pentoo-overlay; net-analyzer/metasploit
-    # TODO: srsRAN_4G + srsRAN_Project (5G)
+    # TODO: srsRAN_4G + srsRAN_Project (complete 5G RAN solution)
   end
 end
 
