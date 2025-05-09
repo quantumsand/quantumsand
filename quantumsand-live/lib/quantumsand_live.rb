@@ -101,6 +101,7 @@ class QuantumsandLive
     # TODO: dev-lang/elixir
     # TODO: ejabberd
     # TODO: GStreamer
+    # TODO: audio_waveform-ruby + peaks.js + audiowaveform
     # TODO: Customised Qt6 + Quantum Sand
     # TODO: Godot Engine
     # TODO: Bevy Engine
