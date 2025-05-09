@@ -82,6 +82,7 @@ class QuantumsandLive
     # TODO: Blender
     # TODO: DeepSeek
     # TODO: Fire-Flyer File System (3FS)
+    # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: CUDA
     # TODO: PyTorch
     # TODO; Evidently AI monitoring
