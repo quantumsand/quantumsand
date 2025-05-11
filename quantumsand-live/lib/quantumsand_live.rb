@@ -85,6 +85,7 @@ class QuantumsandLive
     # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: CUDA
     # TODO: PyTorch
+    # TODO: tch-rs; Rust bindings for the C++ api of PyTorch
     # TODO; Evidently AI monitoring
     # TODO: scm_breeze
     # TODO: VSCodium
