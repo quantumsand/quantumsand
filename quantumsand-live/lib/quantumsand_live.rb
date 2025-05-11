@@ -125,6 +125,7 @@ class QuantumsandLive
     # TODO: qradiolink
     # TODO: ROOT: data analysis framework; sci-physics/root
     # TODO: Tesseract Open Source OCR Engine
+    # TODO: WanzenBug/rqrr; QR reader written in Rust
     # TODO: Open access papers PDF science and AI; title:, authors:, license:, pdf_url:
   end
 end
