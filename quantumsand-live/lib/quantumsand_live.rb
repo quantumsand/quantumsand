@@ -79,6 +79,7 @@ class QuantumsandLive
     # TODO: openstreetmap-carto
     # TODO: maplibre martin
     # TODO: QGIS
+    # TODO: CoMaps; a community-led fork of Organic Maps
     # TODO: rustup
     # TODO: Blender
     # TODO: DeepSeek
