@@ -12,6 +12,8 @@ A special trick is used to embed Rust videogames into a hovering 3d surface. Unt
 
 Quantum Sand is under the AGPLv3 and CC BY-SA 4.0 licenses.
 
+Non-intrusive privacy-focused geospatial ads are planned within Quantum Sand. The objective is to avoid annoying adverts getting in the way of the learning.
+
 ## Storytelling
 
 Within the storytelling of Quantum Sand, the main characters who teach Xenia and Andrew, are Chinese and Japanese.
