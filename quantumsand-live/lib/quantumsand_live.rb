@@ -132,6 +132,8 @@ class QuantumsandLive
     # TODO: Open access classical sheet music; Public domain and Creative Commons Attribution; title:, authors:, license:, pdf_url:
     # TODO: mavlink/rust-mavlink
     # TODO: Shotcut + MLT
+    # TODO: gfortran; GCC's Fortran
+    # TODO: Flang; LLVM's fortran compiler
   end
 end
 
