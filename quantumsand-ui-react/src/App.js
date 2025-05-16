@@ -25,6 +25,7 @@ import AudioPlayer from "./pages/Audio/AudioPlayer";
 import AV from "./pages/AV/AV";
 
 import NarratorOverlay from "./pages/NarratorOverlay/NarratorOverlay";
+import Grains from "./pages/Grains/Grains";
 
 const mathsSlides = [
     {
@@ -68,6 +69,7 @@ function App() {
           <Route path="barcode" element={<Barcode />} />
           <Route path="subtitles" element={<Subtitles />} />
           <Route path="adverts" element={<Adverts />} />
+          <Route path="grains" element={<Grains />} />
           <Route path="ebook" element={<EBook />} />
           <Route path="slides" element={<PresentationSlides stepper={true} />} />
           <Route path="wallpaper" element={<Wallpaper />} />
