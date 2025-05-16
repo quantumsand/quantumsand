@@ -38,7 +38,7 @@ export default function Grains() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion disabled>
+      <Accordion disabled={true}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel3-content"
