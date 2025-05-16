@@ -4,10 +4,24 @@ import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import { Workbook } from '@fortune-sheet/react'
+import "@fortune-sheet/react/dist/index.css"
+import "./Grains.css"
+
+import cell from "./cell";
 
 export default function Grains() {
   return (
     <div>
+      <div
+      style={{
+        width: "100%",
+        height: "500px"
+      }}
+      >
+        <Workbook data={[cell]} />
+      </div>
+      
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
