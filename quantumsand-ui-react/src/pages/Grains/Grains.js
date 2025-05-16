@@ -19,7 +19,7 @@ export default function Grains() {
         height: "500px"
       }}
       >
-        <Workbook data={[cell]} />
+        <Workbook data={[cell]} onOp={console.log} />
       </div>
       
       <Accordion>
