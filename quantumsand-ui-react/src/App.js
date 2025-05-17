@@ -26,6 +26,7 @@ import AV from "./pages/AV/AV";
 
 import NarratorOverlay from "./pages/NarratorOverlay/NarratorOverlay";
 import Grains from "./pages/Grains/Grains";
+import Loading from "./pages/Loading/Loading";
 
 const mathsSlides = [
     {
@@ -85,6 +86,12 @@ function App() {
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
           <Route path="slides-thirdly" element={<PresentationSlides stepper={true} slides={mathsSlides} />} />
           <Route path="narrator" element={<NarratorOverlay />} />
+          <Route path="loading" element={<Loading color="black"
+                                                  progress={20}
+                                                  message="Loading..."
+                                                  showDinar={false}
+                                                  backgroundSize={120}
+                                                  backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

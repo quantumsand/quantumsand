@@ -1,0 +1,72 @@
+.loading {
+  height: 100vh;
+  font-family: 'Noto Sans';
+}
+
+.terminal {
+  width: 210px;
+  height: 90vh;
+}
+
+.xterm-viewport { overflow-y: hidden !important; background-color: transparent !important; }
+
+.loading__statusLeft {
+  padding: 75px;
+  background-color: black;
+  width: 250px;
+  height: 100vh;
+  animation: loading__colorcycle 20s infinite;
+}
+
+@keyframes loading__colorcycle {
+  from {background-color: #c6201d;}
+  to {background-color: #abd4e6;}
+}
+
+.loading__statusInfo > p {
+  color: whitesmoke;
+}
+
+.loading__statusInfo > h4 {
+  color: whitesmoke;
+}
+
+.loading__statusVisualisation {
+  padding: 20px 0;
+}
+
+.loading__statusRight {
+  font-family:'Noto Sans Mono';
+  padding: 20px;
+  background-color: black;
+  width: 250px;
+  height: 100vh;
+  z-index: 10;
+  position: absolute;
+  right: 0;
+  top: 0;
+  animation: loading__colorcycle 20s infinite;
+}
+
+.loading__statusRight > p {
+  color: whitesmoke;
+}
+
+.loading__statusRight > h4 {
+  color: black;
+  font-size: 10px;
+}
+
+.loading__dinar {
+  width: 16em;
+  animation: rotation 6s infinite linear;
+}
+
+@keyframes rotation {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(-360deg);
+  }
+}
