@@ -134,6 +134,7 @@ class QuantumsandLive
     # TODO: Shotcut + MLT
     # TODO: gfortran; GCC's Fortran
     # TODO: Flang; LLVM's fortran compiler
+    # TODO: flxzt/rnote; Sketch and take handwritten notes
   end
 end
 
