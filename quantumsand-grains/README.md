@@ -8,7 +8,7 @@ The file format is JSON.
 
 Alongside media resource files like video narrative, animated cartoons and videogames.
 
-Quantum Sand Grains each have their own unique repository.
+Quantum Sand grains each have their own unique repository.
 
 Grains have their own Git distributed version control system (DVCS) that tracks changes in files over time.
 
