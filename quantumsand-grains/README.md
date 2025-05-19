@@ -7,3 +7,9 @@ Individual lessons, talks and presentations are defined as grains.
 The file format is JSON.
 
 Alongside media resource files like video narrative, animated cartoons and videogames.
+
+Quantum Sand Grains each have their own unique repository.
+
+Grains have their own Git distributed version control system (DVCS) that tracks changes in files over time.
+
+This means that every iteration of grains are recorded in the history for each repository.
