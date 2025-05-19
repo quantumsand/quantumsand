@@ -54,6 +54,7 @@ class QuantumsandLive
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
 
+    # TODO: emerge --ask www-apps/gitea
     # TODO: Caddy
     # TODO: distcc
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
