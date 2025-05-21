@@ -90,6 +90,14 @@ Target hardware for Quantum Sand; QALB-Boy specification. More to follow...
 
 Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA Jetson Orin Nano is a favourite but Gentoo Linux is an unknown.
 
-## Twitter Emoji (Twemoji)
+## Special thanks
 
-Twitter Emoji (Twemoji) are licensed under MIT, CC-BY-4.0 licenses.
+Vital for Quantum Sand;
+
+* Google’s Chromium
+* Qt’s WebEngineView and Qml
+* Tyson Tan’s friendly dragon art concept
+* Dedouze’s unique art style (inspired my own art style)
+* Blender (used for the art)
+* Twitter Emoji (Twemoji) are licensed under MIT, CC-BY-4.0 licenses.
+* Hundreds of developers for all of the deps I am using.
