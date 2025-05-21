@@ -106,7 +106,7 @@ class QuantumsandLive
     # TODO: ejabberd
     # TODO: GStreamer
     # TODO: audio_waveform-ruby + peaks.js + audiowaveform
-    # TODO: Customised Qt6 + Quantum Sand + OpenTelemetry
+    # TODO: Customised Qt6 + Quantum Sand + OpenTelemetry + MapLibre GL JS
     # TODO: Godot Engine
     # TODO: Bevy Engine
     # TODO: Jupyter
