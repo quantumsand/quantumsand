@@ -136,6 +136,7 @@ class QuantumsandLive
     # TODO: gfortran; GCC's Fortran
     # TODO: Flang; LLVM's fortran compiler
     # TODO: flxzt/rnote; Sketch and take handwritten notes
+    # TODO: https://gitlab.com/chrony/chrony.git; Advanced NTP client and server
   end
 end
 
