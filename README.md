@@ -90,6 +90,14 @@ Target hardware for Quantum Sand; QALB-Boy specification. More to follow...
 
 Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA Jetson Orin Nano is a favourite but Gentoo Linux is an unknown.
 
+
+## Interfaith collaboration
+
+* 🤲 Interfaith collaboration is a planned feature for Quantum Sand.
+* 👯 I’m looking to collaborate on Quantum Sand.
+* 🤔 I’m looking for help with building a community around Quantum Sand.
+
+
 ## Special thanks
 
 Vital for Quantum Sand;
