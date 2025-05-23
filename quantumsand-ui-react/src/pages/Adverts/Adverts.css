@@ -46,6 +46,8 @@
   /* border: 3px dashed #1c87c9; */
   align-items: center;
   justify-content: center;
+  user-select: none;
+  cursor: grab;
 }
 
 .tns-outer > button {
