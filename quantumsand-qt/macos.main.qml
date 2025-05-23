@@ -618,6 +618,10 @@ ApplicationWindow {
                         settings.playbackRequiresUserGesture: false
                         backgroundColor: "transparent"
 
+                        onJavaScriptConsoleMessage: {
+                            console.log(message)
+                        }
+
                         profile: WebEngineProfile {
                             storageName: "Profile"
                             offTheRecord: true
