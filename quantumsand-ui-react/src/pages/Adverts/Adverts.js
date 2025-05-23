@@ -46,16 +46,16 @@ export default function Adverts({ ads = [
     }
   };
 
-  const clickEvent = slide => {
-    console.log(slide);
-  };
+const handleClick = (advert) => {
+  console.log(advert);
+};
 
-  return (
+return (
   <div className="adverts">
     {/* <p className="adverts__text">Advertise on QALB</p> */}
-    <TinySlider settings={settings} onInit={clickEvent}>
+    <TinySlider settings={settings} >
     {ads.map((ad, index) => (
-        <div key={index} style={{ position: "relative" } }>
+        <div key={index} style={{ position: "relative" }}  onClick={() => handleClick(ad)}>
           <img
             className={`tns-lazy-img`}
             src={loadingImage}
