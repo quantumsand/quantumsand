@@ -1,11 +1,51 @@
+#ribbonbar-container {
+  animation: ribbonbar__colorcycle 20s infinite;
+}
+
+@keyframes ribbonbar__colorcycle {
+  from {background-color: #c6201d;}
+  to {background-color: #abd4e6;}
+}
+
 .ribbon__bar {
   height: 150px;
   /* max-width: 1280px; */
   margin: auto;
+  /* border: whitesmoke solid 1px; */
+}
+
+.ribbon__barTabs {
+  border:rgba(0, 0, 0, 0.5);
+}
+
+.ribbon-col:not(:last-child) .ribbon-group {
+  box-shadow: inset -1px 0 1px rgba(0,0,0,.1);
+}
+
+.ribbon-group-title {
+  display: none;
 }
 
 .ribbon {
   height: 120px !important;
   width: calc(100% - 60px);
   margin: 0 30px;
+}
+
+.ribbon .h-100 {
+  height: auto !important;
+}
+
+.nav-tabs .MuiSvgIcon-root {
+  font-size: 0.91rem !important;
+  height: 15px !important;
+}
+
+.nav-tabs .MuiSvgIcon-root {
+  color: white;
+  box-shadow: 0 4px 60px rgba(0, 0, 0, 0.5);
+}
+
+.active .MuiSvgIcon-root {
+  color: black;
 }

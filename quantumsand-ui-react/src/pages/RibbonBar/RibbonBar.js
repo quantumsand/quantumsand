@@ -8,6 +8,8 @@ import SearchIcon from '@mui/icons-material/Search';
 import "bootstrap/dist/css/bootstrap.css";
 import "react-bootstrap-ribbon/dist/react-bootstrap-ribbon.css";
 
+import "./RibbonBar.css";
+
 const switchMode = mode => {
   console.log(mode);
 }
