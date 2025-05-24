@@ -71,36 +71,36 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
         <Tab className="ribbon__barTab" eventKey={0} title={<SearchIcon style={{fontSize: "1.8em"}} />}>
           {/* <RibbonSearch logo={logo} pushEvent={pushEvent} /> */}
         </Tab>
-                  <Tab className="ribbon__barTab" eventKey={1} title={<PlayArrowIcon style={{fontSize: "1.8em"}} />}>
-        <div className="ribbon__barContextVideo">
-        <div className='ribbon__barContextVideoWrapper'>
-        <ReactPlayer
-            ref={ref}
-            className='react-player'
-            url={backgroundVideoUrl}
-            playing={true}
-            loop={true}
-            onPlay={handlePlay}
-            onProgress={handleProgress}
-            onDuration={handleDuration}
-            width='100%'
-            height='120px'
-          />
-          <div className="ribbon__barContextVideoOverlay">
-            <div className="ribbon__barContext">
-                {/* // style={{backgroundImage: (!backgroundVideoUrl && backgroundImageUrl) ? `url(${backgroundImageUrl})` : 'none',
-                // animation: 'contextbar__colorcycle 20s infinite',
-                // backgroundRepeat: 'no-repeat',
-                // backgroundSize: '100vw'}} > */}
+        <Tab className="ribbon__barTab" eventKey={1} title={<PlayArrowIcon style={{fontSize: "1.8em"}} />}>
+          <div className="ribbon__barContextVideo">
+            <div className='ribbon__barContextVideoWrapper'>
+              <ReactPlayer
+                  ref={ref}
+                  className='react-player'
+                  url={backgroundVideoUrl}
+                  playing={true}
+                  loop={true}
+                  onPlay={handlePlay}
+                  onProgress={handleProgress}
+                  onDuration={handleDuration}
+                  width='100%'
+                  height='120px'
+              />
+              <div className="ribbon__barContextVideoOverlay">
+                <div className="ribbon__barContext">
+                  {/* // style={{backgroundImage: (!backgroundVideoUrl && backgroundImageUrl) ? `url(${backgroundImageUrl})` : 'none',
+                  // animation: 'contextbar__colorcycle 20s infinite',
+                  // backgroundRepeat: 'no-repeat',
+                  // backgroundSize: '100vw'}} > */}
 
-              <h2 className="ribbon__barContextTitle">{title}</h2>
-              <img className="ribbon__barLicense" src="/images/cc-by-sa-4.0-horizontal_black.svg" />
-              {/* <ContextCarousel slides={SLIDES} options={OPTIONS} /> */}
-              {/* <h4 className="ribbon__barContextTime">{time}</h4> */}
+                  <h2 className="ribbon__barContextTitle">{title}</h2>
+                  <img className="ribbon__barLicense" src="/images/cc-by-sa-4.0-horizontal_black.svg" />
+                  {/* <ContextCarousel slides={SLIDES} options={OPTIONS} /> */}
+                  {/* <h4 className="ribbon__barContextTime">{time}</h4> */}
+                </div>
+              </div>
             </div>
           </div>
-        </div>
-      </div>
         </Tab>
         <Tab className="ribbon__barTab" eventKey={2} title={<AppsIcon style={{fontSize: "1.8em"}} />}>
           <RibbonApps username={"username"} avatar={"/locale/english.jpg"}  />
