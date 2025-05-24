@@ -1,9 +1,4 @@
-import React from 'react';
-
-import Ribbon from "./ReactBootstrapRibbon/ReactBootstrapRibbon";
-import RibbonButton from "./ReactBootstrapRibbon/ReactBootstrapRibbonButton";
-import RibbonGroup from "./ReactBootstrapRibbon/ReactBootstrapRibbonGroup";
-import RibbonGroupItem from "./ReactBootstrapRibbon/ReactBootstrapRibbonGroupItem";
+import { Ribbon, RibbonButton, RibbonGroup, RibbonGroupItem } from 'react-bootstrap-ribbon';
 
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
