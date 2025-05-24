@@ -137,7 +137,7 @@ class QuantumsandLive
     # TODO: Flang; LLVM's fortran compiler
     # TODO: flxzt/rnote; Sketch and take handwritten notes
     # TODO: https://gitlab.com/chrony/chrony.git; Advanced NTP client and server
-    # TODO: Audacious; an open source audio player. A descendant of XMMS,
+    # TODO: Audacious; an open source audio player. A descendant of XMMS; media-sound/audacious
   end
 end
 
