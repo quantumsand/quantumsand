@@ -64,9 +64,8 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
 }
 
   return (
-    <div className="ribbon__bar">
-        <div className="ribbon">
-
+  <div className="ribbon__bar">
+    <div className="ribbon">
       <Tabs className="ribbon__barTabs" defaultActiveKey={1} transition={false}>
         <Tab className="ribbon__barTab" eventKey={0} title={<SearchIcon style={{fontSize: "1.8em"}} />}>
           {/* <RibbonSearch logo={logo} pushEvent={pushEvent} /> */}
@@ -174,9 +173,8 @@ const RibbonBarContext = ({backgroundVideoUrl = "/video/context_animated_alpha.w
           <p>Battery</p>
         </Tab>
       </Tabs>
-</div>
-</div>
-
+    </div>
+  </div>
   )
 };
 
