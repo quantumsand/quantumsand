@@ -544,7 +544,7 @@ ApplicationWindow {
                 webengine_presentation_alt.url = Global.quantumsandEndpoint + "/geotimeline"
             }}
             Shortcut { sequence: "q"; onActivated: {
-                webengine_presentation_alt.url = Global.quantumsandEndpoint + "/globe"
+                webengine_presentation_alt.url = Global.quantumsandEndpoint + "/virtualglobe"
             }}
 
             WebEngineView {
