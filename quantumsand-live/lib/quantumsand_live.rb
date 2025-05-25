@@ -138,6 +138,8 @@ class QuantumsandLive
     # TODO: flxzt/rnote; Sketch and take handwritten notes
     # TODO: https://gitlab.com/chrony/chrony.git; Advanced NTP client and server
     # TODO: Audacious; an open source audio player. A descendant of XMMS; media-sound/audacious
+    # TODO; Haiku Animator; Design tool for creating Lottie animations and interactive web component
+    # TODO; @lottiefiles/react-lottie-player
   end
 end
 
