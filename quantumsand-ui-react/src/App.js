@@ -23,10 +23,10 @@ import Images from "./pages/Images/Images";
 import Chirp from "./pages/Chirp/Chirp";
 import AudioPlayer from "./pages/Audio/AudioPlayer";
 import AV from "./pages/AV/AV";
-
 import NarratorOverlay from "./pages/NarratorOverlay/NarratorOverlay";
 import Grains from "./pages/Grains/Grains";
 import Loading from "./pages/Loading/Loading";
+import VirtualGlobe from "./pages/VirtualGlobe/VirtualGlobe";
 
 const mathsSlides = [
     {
@@ -92,6 +92,7 @@ function App() {
                                                   showDinar={false}
                                                   backgroundSize={120}
                                                   backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
+          <Route path="virtualglobe" element={<VirtualGlobe />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
