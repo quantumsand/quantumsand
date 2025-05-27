@@ -37,6 +37,8 @@ Quantum Sand can be distributed via a Live USB stick. This should help women and
 
 [![Quantum Sand video](https://img.youtube.com/vi/lsGfLNKV8t4/0.jpg)](https://www.youtube.com/watch?v=lsGfLNKV8t4)
 
+[![Quantum Sand video](https://img.youtube.com/vi/YpqyFqB13g0/0.jpg)](https://www.youtube.com/watch?v=YpqyFqB13g0)
+
 These videos only capture part of the overall functionality within Quantum Sand.
 
 
