@@ -120,7 +120,7 @@ export default function NarratorOverlay({ }) {
           ? <h1>Loading... </h1>
           : [<h1 key="name" style={{color: "#ddf3f5", backgroundColor: "#FFFF00", fontSize: "34px", fontFamily: "Noto Sans"}}>
                   <span key="japanese" style={{color: "#a6b1e1", fontFamily: "Noto Sans JP"}}>アンドリュー・ポッター</span> | 
-                  <span key="english" style={{color: "#a6b1e1"}}>🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿 Andrew Potter 🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿 </span> | 
+                  <span key="english" style={{color: "#a6b1e1"}}>🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦 Andrew Potter 🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦 </span> | 
                   <span key="arabic" style={{color: "#a6b1e1", fontFamily: "Scheherazade"}}>يوسف بوتر</span> |
               </h1>]
         }
