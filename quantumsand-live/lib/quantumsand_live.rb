@@ -96,7 +96,7 @@ class QuantumsandLive
     # TODO: Krita
     # TODO: GIMP
     # TODO: Inkscape
-    # TODO: Linux kernel
+    # TODO: Linux kernel; CONFIG_X86_NATIVE_CPU
     # TODO: FFmpeg
     # TODO: Firefox
     # TODO: Chromium
