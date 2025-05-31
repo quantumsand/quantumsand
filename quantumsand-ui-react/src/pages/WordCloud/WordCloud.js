@@ -88,7 +88,7 @@ export default function WordCloud() {
       <div className="wordcloud__react">
         <ReactWordcloud callbacks={callbacks} words={words} minSize={[1040, 480]} size={[1040, 480]} options={{
           fontFamily: "Noto Sans",
-          fontSizes: [20, 50],
+          fontSizes: [40, 90],
           colors: ["white"],
           rotationAngles: [5, rotationAngleMax],
           rotations: 4,
