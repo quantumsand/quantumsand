@@ -1,3 +1,4 @@
+import { useState, useEffect } from 'react';
 import ReactWordcloud from 'react-wordcloud';
 import "./WordCloud.css";
 
@@ -69,13 +70,26 @@ const callbacks = {
 }
 
 export default function WordCloud() {
+
+  const [rotationAngleMax, setRotationAngleMax] = useState(160);
+
+  useEffect(() => {
+    const intervalId = setInterval(() => {
+
+    setRotationAngleMax(Math.floor(Math.random() * 200))
+
+    }, 4000);
+
+    return () => clearInterval(intervalId); //This is important
+  })
+
   return (
     <div className="wordcloud">
       <ReactWordcloud callbacks={callbacks} words={words} minSize={[1280, 720]} size={[1280, 720]} options={{
         fontFamily: "Noto Sans",
         fontSizes: [50, 90],
         colors: ["black"],
-        rotationAngles: [5, 160],
+        rotationAngles: [5, rotationAngleMax],
         rotations: 4,
         deterministic: false,
         randomSeed: 4,
