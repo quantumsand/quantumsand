@@ -27,6 +27,7 @@ import NarratorOverlay from "./pages/NarratorOverlay/NarratorOverlay";
 import Grains from "./pages/Grains/Grains";
 import Loading from "./pages/Loading/Loading";
 import VirtualGlobe from "./pages/VirtualGlobe/VirtualGlobe";
+import WordCloud from "./pages/WordCloud/WordCloud";
 
 const mathsSlides = [
     {
@@ -93,6 +94,7 @@ function App() {
                                                   backgroundSize={120}
                                                   backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
           <Route path="virtualglobe" element={<VirtualGlobe />} />
+          <Route path="wordcloud" element={<WordCloud />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
