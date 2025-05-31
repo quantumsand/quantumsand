@@ -1,19 +1,19 @@
 .wordcloud {
-  animation: 30s cubic-bezier(.5, 0, .5, 1.2) 1s infinite wallpaper__colorcycle;
-  background-color: var(--wallpaper-color);
+  animation: 30s cubic-bezier(.5, 0, .5, 1.2) 1s infinite wordcloud__colorcycle;
+  background-color: var(--wordcloud-color);
 }
 
 .wordcloud__react{
-  padding: 120px 120px 120px 120px;
+  padding: 180px 180px 180px 180px;
 }
 
 :root {
-  --wallpaper-color: #f92672;
+  --wordcloud-color: #f92672;
 }
 
-@keyframes wallpaper__colorcycle {
-  0%   { --wallpaper-color: #f92672; }
-  33%  { --wallpaper-color: #1ed760; }
-  66%  { --wallpaper-color: #03a9f4; }
-  100% { --wallpaper-color: #f92672; }
+@keyframes wordcloud__colorcycle {
+  0%   { --wordcloud-color: #f92672; }
+  33%  { --wordcloud-color: #1ed760; }
+  66%  { --wordcloud-color: #03a9f4; }
+  100% { --wordcloud-color: #f92672; }
 }
