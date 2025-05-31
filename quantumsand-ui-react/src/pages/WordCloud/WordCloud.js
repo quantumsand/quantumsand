@@ -85,17 +85,19 @@ export default function WordCloud() {
 
   return (
     <div className="wordcloud">
-      <ReactWordcloud callbacks={callbacks} words={words} minSize={[1280, 720]} size={[1280, 720]} options={{
-        fontFamily: "Noto Sans",
-        fontSizes: [70, 120],
-        colors: ["white"],
-        rotationAngles: [5, rotationAngleMax],
-        rotations: 4,
-        deterministic: false,
-        randomSeed: 4,
-        transitionDuration: 500
-      }
-    }/>
-  </div>
+      <div className="wordcloud__react">
+        <ReactWordcloud callbacks={callbacks} words={words} minSize={[1040, 480]} size={[1040, 480]} options={{
+          fontFamily: "Noto Sans",
+          fontSizes: [20, 50],
+          colors: ["white"],
+          rotationAngles: [5, rotationAngleMax],
+          rotations: 4,
+          deterministic: false,
+          randomSeed: 4,
+          transitionDuration: 500
+        }
+      }/>
+      </div>
+    </div>
   )
 }

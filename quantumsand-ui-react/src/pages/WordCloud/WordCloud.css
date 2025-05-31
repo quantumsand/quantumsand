@@ -3,6 +3,10 @@
   background-color: var(--wallpaper-color);
 }
 
+.wordcloud__react{
+  padding: 120px 120px 120px 120px;
+}
+
 :root {
   --wallpaper-color: #f92672;
 }
