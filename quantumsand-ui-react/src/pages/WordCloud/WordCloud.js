@@ -86,7 +86,7 @@ export default function WordCloud() {
   return (
     <div className="wordcloud">
       <div className="wordcloud__react">
-        <ReactWordcloud callbacks={callbacks} words={words} minSize={[920, 360]} size={[920, 360]} options={{
+        <ReactWordcloud callbacks={callbacks} words={words} minSize={[900, 340]} size={[900, 340]} options={{
           fontFamily: "Noto Sans",
           fontSizes: [40, 90],
           colors: ["white"],
