@@ -62,7 +62,7 @@ const words = [
 ]
 
 const callbacks = {
-  getWordColor: word => word.value > 50 ? "black" : "black",
+  getWordColor: word => word.value > 50 ? "white" : "white",
   onWordClick: console.log,
   onWordMouseOver: console.log,
   //getWordTooltip: word => `${word.text} (${word.value}) [${word.value > 50 ? "good" : "bad"}]`,
@@ -87,8 +87,8 @@ export default function WordCloud() {
     <div className="wordcloud">
       <ReactWordcloud callbacks={callbacks} words={words} minSize={[1280, 720]} size={[1280, 720]} options={{
         fontFamily: "Noto Sans",
-        fontSizes: [50, 90],
-        colors: ["black"],
+        fontSizes: [70, 120],
+        colors: ["white"],
         rotationAngles: [5, rotationAngleMax],
         rotations: 4,
         deterministic: false,
