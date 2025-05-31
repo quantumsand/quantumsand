@@ -4,59 +4,59 @@ import "./WordCloud.css";
 
 const words = [
   {
-    text: '3D',
+    text: 'exponential',
     value: 64,
   },
   {
-    text: 'art',
+    text: 'graph',
     value: 11,
   },
   {
-    text: 'bevy',
+    text: 'mathematics',
     value: 30,
   },
   {
-    text: 'Godot',
+    text: 'maths',
     value: 30,
   },
   {
-    text: 'lighthouse',
+    text: 'geometry',
     value: 30,
   },
   {
-    text: 'Blender',
+    text: 'trigonometry',
     value: 30,
   },
   {
-    text: 'sea',
+    text: 'calculus',
     value: 64,
   },
   {
-    text: 'ocean',
+    text: 'integration',
     value: 11,
   },
   {
-    text: 'rocks',
+    text: 'differentiation',
     value: 16,
   },
   {
-    text: 'houses',
+    text: 'cosine',
     value: 64,
   },
   {
-    text: 'nature',
+    text: 'sine',
     value: 64,
   },
   {
-    text: 'beauty',
+    text: 'tangent',
     value: 11,
   },
   {
-    text: 'stormy',
+    text: 'algebra',
     value: 16,
   },
   {
-    text: 'earth',
+    text: 'gradient',
     value: 64,
   },
 ]
