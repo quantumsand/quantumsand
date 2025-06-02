@@ -549,6 +549,9 @@ ApplicationWindow {
             Shortcut { sequence: "p"; onActivated: {
                 webengine_presentation_alt.url = Global.quantumsandEndpoint + "/wordcloud"
             }}
+            Shortcut { sequence: "z"; onActivated: {
+                webengine_presentation_alt.url = Global.quantumsandEndpoint + "/charts"
+            }}
 
             WebEngineView {
                 id: webengine_ribbon
