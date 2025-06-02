@@ -121,7 +121,7 @@ export default function Charts() {
                   anchor: 'bottom',
                   direction: 'row',
                   translateY: 60,
-                  itemWidth: 200,
+                  itemWidth: 160,
                   itemHeight: 18,
                   symbolShape: 'circle'
               },
