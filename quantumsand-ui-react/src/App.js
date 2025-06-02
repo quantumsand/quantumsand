@@ -28,6 +28,7 @@ import Grains from "./pages/Grains/Grains";
 import Loading from "./pages/Loading/Loading";
 import VirtualGlobe from "./pages/VirtualGlobe/VirtualGlobe";
 import WordCloud from "./pages/WordCloud/WordCloud";
+import Charts from "./pages/Charts/Charts";
 
 const mathsSlides = [
     {
@@ -95,6 +96,7 @@ function App() {
                                                   backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
           <Route path="virtualglobe" element={<VirtualGlobe />} />
           <Route path="wordcloud" element={<WordCloud />} />
+          <Route path="charts" element={<Charts />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

@@ -1,0 +1,23 @@
+.charts {
+  animation: 30s cubic-bezier(.5, 0, .5, 1.2) 1s infinite charts__colorcycle;
+  background-color: var(--charts-color);
+  width: 1280px;
+  height: 720px;
+  object-fit: contain;
+  margin: auto;
+  flex: 1;
+  /* align-content: center; */
+  /* display: flex; */
+  justify-content: center;
+}
+
+:root {
+  --charts-color: #f92672;
+}
+
+@keyframes charts__colorcycle {
+  0%   { --charts-color: #f92672; }
+  33%  { --charts-color: #1ed760; }
+  66%  { --charts-color: #03a9f4; }
+  100% { --charts-color: #f92672; }
+}
