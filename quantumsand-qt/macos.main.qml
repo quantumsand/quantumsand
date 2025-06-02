@@ -82,6 +82,7 @@ ApplicationWindow {
             property bool showNotifications: false
             property bool showWallpaper: true
             property bool altView: false
+            property bool opacityPanels: false
 
             visible: true
             width: window.width
@@ -537,6 +538,9 @@ ApplicationWindow {
             Shortcut { sequence: "a"; onActivated: {
                 win.altView = !win.altView;
             }}
+            Shortcut { sequence: "u"; onActivated: {
+                win.opacityPanels = !win.opacityPanels;
+            }}
             Shortcut { sequence: "e"; onActivated: {
                 webengine_presentation_alt.url = Global.quantumsandEndpoint + "/ebook"
             }}
@@ -845,7 +849,7 @@ ApplicationWindow {
                     Model {
                         id: model_left_panel
                         objectName: "left panel"
-                        opacity: 1.0
+                        opacity: win.opacityPanels ? 0.9 : 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: 360
@@ -894,7 +898,7 @@ ApplicationWindow {
                     Model {
                         id: model_right_panel
                         objectName: "right panel"
-                        opacity: 1.0
+                        opacity: win.opacityPanels ? 0.9 : 1.0
                         x: 0
                         y: 240
                         eulerRotation.y: -20
@@ -960,7 +964,7 @@ ApplicationWindow {
                     Model {
                         id: model_additional_panel
                         objectName: "extra panel"
-                        opacity: 1.0
+                        opacity: win.opacityPanels ? 0.9 : 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: -1000
@@ -1019,7 +1023,7 @@ ApplicationWindow {
                     Model {
                         id: model_additional_panel_quaternary
                         objectName: "extra panel quaternary"
-                        opacity: 1.0
+                        opacity: win.opacityPanels ? 0.9 : 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: +1000
