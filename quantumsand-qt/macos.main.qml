@@ -619,7 +619,7 @@ ApplicationWindow {
                         anchors.fill: parent
                         antialiasing: true
                         url: Global.quantumsandEndpoint + "/adverts"
-                        opacity: 0.9
+                        opacity: 1.0
                         settings.showScrollBars: false
                         settings.playbackRequiresUserGesture: false
                         backgroundColor: "transparent"
@@ -845,6 +845,7 @@ ApplicationWindow {
                     Model {
                         id: model_left_panel
                         objectName: "left panel"
+                        opacity: 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: 360
@@ -893,6 +894,7 @@ ApplicationWindow {
                     Model {
                         id: model_right_panel
                         objectName: "right panel"
+                        opacity: 1.0
                         x: 0
                         y: 240
                         eulerRotation.y: -20
@@ -958,6 +960,7 @@ ApplicationWindow {
                     Model {
                         id: model_additional_panel
                         objectName: "extra panel"
+                        opacity: 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: -1000
@@ -1016,6 +1019,7 @@ ApplicationWindow {
                     Model {
                         id: model_additional_panel_quaternary
                         objectName: "extra panel quaternary"
+                        opacity: 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: +1000
