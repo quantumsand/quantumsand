@@ -123,8 +123,9 @@ export default function Charts() {
                 itemWidth: 100,
                 itemHeight: 18,
                 symbolShape: 'circle'
-            }
+            },
         ]}
+        theme={{ labels: { text: { fontSize: 20 } } }}
     />
     </div>
   )
