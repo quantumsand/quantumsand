@@ -82,7 +82,8 @@ ApplicationWindow {
             property bool showNotifications: false
             property bool showWallpaper: true
             property bool altView: false
-            property bool opacityPanels: false
+            property bool opacityPanels: true
+            property double opacityValue: 0.90
 
             visible: true
             width: window.width
@@ -849,7 +850,7 @@ ApplicationWindow {
                     Model {
                         id: model_left_panel
                         objectName: "left panel"
-                        opacity: win.opacityPanels ? 0.9 : 1.0
+                        opacity: win.opacityPanels ? win.opacityValue : 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: 360
@@ -898,7 +899,7 @@ ApplicationWindow {
                     Model {
                         id: model_right_panel
                         objectName: "right panel"
-                        opacity: win.opacityPanels ? 0.9 : 1.0
+                        opacity: win.opacityPanels ? win.opacityValue : 1.0
                         x: 0
                         y: 240
                         eulerRotation.y: -20
@@ -964,7 +965,7 @@ ApplicationWindow {
                     Model {
                         id: model_additional_panel
                         objectName: "extra panel"
-                        opacity: win.opacityPanels ? 0.9 : 1.0
+                        opacity: win.opacityPanels ? win.opacityValue : 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: -1000
@@ -1023,7 +1024,7 @@ ApplicationWindow {
                     Model {
                         id: model_additional_panel_quaternary
                         objectName: "extra panel quaternary"
-                        opacity: win.opacityPanels ? 0.9 : 1.0
+                        opacity: win.opacityPanels ? win.opacityValue : 1.0
                         pivot.x: 0
                         eulerRotation.y: 20
                         x: +1000

@@ -121,12 +121,12 @@ export default function Charts() {
                   anchor: 'bottom',
                   direction: 'row',
                   translateY: 60,
-                  itemWidth: 160,
+                  itemWidth: 220,
                   itemHeight: 18,
                   symbolShape: 'circle'
               },
           ]}
-          theme={{ labels: { text: { fontSize: 20 }}, legends: { text: { fontSize: 20 }} }}
+          theme={{ labels: { text: { fontSize: 30 }}, legends: { text: { fontSize: 30 }} }}
         />
       </div>
     </div>
