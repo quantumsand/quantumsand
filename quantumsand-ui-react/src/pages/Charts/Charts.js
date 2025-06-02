@@ -50,8 +50,8 @@ export default function Charts() {
     "color": "hsl(310, 70%, 50%)"
   },
   {
-    "id": "python",
-    "label": "python",
+    "id": "tensors",
+    "label": "tensors",
     "value": 228,
     "color": "hsl(122, 70%, 50%)"
   }
@@ -88,8 +88,8 @@ export default function Charts() {
       "color": "hsl(310, 70%, 50%)"
     },
     {
-      "id": "python",
-      "label": "python",
+      "id": "tensors",
+      "label": "tensors",
       "value": Math.floor(Math.random() * 200),
       "color": "hsl(122, 70%, 50%)"
     }
