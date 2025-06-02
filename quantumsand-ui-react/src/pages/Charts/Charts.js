@@ -26,26 +26,26 @@ export default function Charts() {
 
   const [chartData, setChartData] = useState([
   {
-    "id": "c",
-    "label": "c",
+    "id": "calculus",
+    "label": "calculus",
     "value": 511,
     "color": "hsl(222, 70%, 50%)"
   },
   {
-    "id": "go",
-    "label": "go",
+    "id": "algebra",
+    "label": "algebra",
     "value": 183,
     "color": "hsl(279, 70%, 50%)"
   },
   {
-    "id": "sass",
-    "label": "sass",
+    "id": "integration",
+    "label": "integration",
     "value": 556,
     "color": "hsl(326, 70%, 50%)"
   },
   {
-    "id": "elixir",
-    "label": "elixir",
+    "id": "differentiation",
+    "label": "differentiation",
     "value": 566,
     "color": "hsl(310, 70%, 50%)"
   },
