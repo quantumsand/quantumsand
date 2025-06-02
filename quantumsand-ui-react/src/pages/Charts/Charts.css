@@ -3,3 +3,10 @@
   width: 1280px;
   height: 720px;
 }
+
+.charts__react {
+  width: 1000px;
+  height: 720px;
+  margin-left: 140px;
+  margin-right: 140px;
+}

@@ -102,31 +102,33 @@ export default function Charts() {
 
   return (
     <div className="charts">
-      <ResponsivePie /* or Pie for fixed dimensions */
-        data={chartData}
-        margin={{ top: 40, right: 80, bottom: 80, left: 80 }}
-        innerRadius={0.5}
-        padAngle={0.6}
-        cornerRadius={2}
-        activeOuterRadiusOffset={8}
-        arcLinkLabelsSkipAngle={10}
-        arcLinkLabelsTextColor="#333333"
-        arcLinkLabelsThickness={2}
-        arcLinkLabelsColor={{ from: 'color' }}
-        arcLabelsSkipAngle={10}
-        arcLabelsTextColor={{ from: 'color', modifiers: [['darker', 2]] }}
-        legends={[
-            {
-                anchor: 'bottom',
-                direction: 'row',
-                translateY: 56,
-                itemWidth: 100,
-                itemHeight: 18,
-                symbolShape: 'circle'
-            },
-        ]}
-        theme={{ labels: { text: { fontSize: 30 } } }}
-    />
+      <div className="charts__react">
+        <ResponsivePie /* or Pie for fixed dimensions */
+          data={chartData}
+          margin={{ top: 40, right: 40, bottom: 80, left: 40 }}
+          innerRadius={0.5}
+          padAngle={0.6}
+          cornerRadius={2}
+          activeOuterRadiusOffset={8}
+          arcLinkLabelsSkipAngle={10}
+          arcLinkLabelsTextColor="#333333"
+          arcLinkLabelsThickness={2}
+          arcLinkLabelsColor={{ from: 'color' }}
+          arcLabelsSkipAngle={10}
+          arcLabelsTextColor={{ from: 'color', modifiers: [['darker', 2]] }}
+          legends={[
+              {
+                  anchor: 'bottom',
+                  direction: 'row',
+                  translateY: 60,
+                  itemWidth: 200,
+                  itemHeight: 18,
+                  symbolShape: 'circle'
+              },
+          ]}
+          theme={{ labels: { text: { fontSize: 20 }}, legends: { text: { fontSize: 20 }} }}
+        />
+      </div>
     </div>
   )
 }
