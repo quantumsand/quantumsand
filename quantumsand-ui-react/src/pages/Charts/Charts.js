@@ -125,7 +125,7 @@ export default function Charts() {
                 symbolShape: 'circle'
             },
         ]}
-        theme={{ labels: { text: { fontSize: 20 } } }}
+        theme={{ labels: { text: { fontSize: 30 } } }}
     />
     </div>
   )
