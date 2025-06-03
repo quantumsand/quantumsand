@@ -19,4 +19,4 @@ add_executable(quantumsand
     qml.qrc
 )
 
-target_link_libraries(quantumsand Qt6::Core Qt6::Gui Qt6::Widgets Qt6::Quick Qt6::Quick3D Qt6::WebEngineCore Qt::WebEngineQuick Qt6::Multimedia Qt6::WebSockets Qt6::Mqtt)
+target_link_libraries(quantumsand Qt6::Core Qt6::Gui Qt6::Widgets Qt6::Quick Qt6::Quick3D Qt6::WebEngineCore Qt::WebEngineQuick Qt6::Multimedia Qt6::WebChannel Qt6::WebSockets Qt6::Mqtt)
