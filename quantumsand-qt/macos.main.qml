@@ -61,7 +61,7 @@ import QtQuick.Controls 2.0
 import QtQuick3D
 import QtQuick3D.Helpers
 import QtWebEngine 1.9
-import QtWebChannel 1.14
+import QtWebChannel 1.9
 import "vars.js" as Global
 
 ApplicationWindow {
