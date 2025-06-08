@@ -89,6 +89,7 @@ class QuantumsandLive
     # TODO: CUDA
     # TODO: PyTorch
     # TODO: tch-rs; Rust bindings for the C++ api of PyTorch
+    # TODO: MONAI; PyTorch-based, open-source framework for deep learning in healthcare imaging
     # TODO; Evidently AI monitoring
     # TODO: scm_breeze
     # TODO: VSCodium
