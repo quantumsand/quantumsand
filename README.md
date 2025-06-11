@@ -30,7 +30,6 @@ Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue
 
 Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of various religions. This will turn into the Quantum Sand STEM programme for Women and Girls.
 
-
 ## Video clip of Quantum Sand
 
 [![Quantum Sand video](https://img.youtube.com/vi/hljiBX9HST0/0.jpg)](https://www.youtube.com/watch?v=hljiBX9HST0)
