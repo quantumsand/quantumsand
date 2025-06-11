@@ -69,6 +69,7 @@ ApplicationWindow {
     height: 720
     visible: true
     id: window
+    
     Rectangle {
         // sizeFollowsWindow: true
             //window: Window {
