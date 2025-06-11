@@ -68,8 +68,8 @@ class QuantumsandLive
     # TODO: H3: A Hexagonal Hierarchical Geospatial Indexing System
     # TODO: PostgresML
     # TODO: pgcat
-    # TODO: KDE
-    # TODO: GNOME
+    # TODO: KDE; kde-plasma/plasma-meta
+    # TODO: GNOME; emerge gnome-base/gnome
     # TODO: LimeSuite
     # TODO: GNU Radio
     # TODO: Gqrx
