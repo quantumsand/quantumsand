@@ -93,6 +93,7 @@ class QuantumsandLive
     # TODO: Fire-Flyer File System (3FS)
     # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: CUDA
+    # TODO: ROCm
     # TODO: PyTorch
     # TODO: tch-rs; Rust bindings for the C++ api of PyTorch
     # TODO: MONAI; PyTorch-based, open-source framework for deep learning in healthcare imaging
