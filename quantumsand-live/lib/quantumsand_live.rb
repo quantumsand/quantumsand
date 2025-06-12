@@ -8,7 +8,7 @@ class QuantumsandLive
     gentoo_use_flags = %w(kde gtk plymouth wallpapers wacom networkmanager smart
                           accessibility bluetooth crypt cups discover flatpak
                           oxygen-theme grub webengine systemd sdk rdp pulseaudio
-                          elogind browser-integration crash-handler +display-manager).join(' ')
+                          elogind browser-integration crash-handler display-manager).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
