@@ -155,6 +155,7 @@ class QuantumsandLive
     # TODO: cowtoolz/webcamize; Use (almost) any camera as a webcam
     # TODO: Canop/dysk
     # TODO: SageMath; free open-source mathematics software system
+    # TODO: pnpm; pnpm store path; global virtual stores; node_modules contains only symlinks to a central virtual store
   end
 end
 
