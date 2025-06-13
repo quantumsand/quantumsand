@@ -152,6 +152,8 @@ class QuantumsandLive
     # TODO; @lottiefiles/react-lottie-player
     # TODO: OctoPrint; Web interface for controlling consumer 3D printers
     # TODO: Matplotlib animation video generation
+    # TODO: cowtoolz/webcamize; Use (almost) any camera as a webcam
+    # TODO: Canop/dysk
   end
 end
 
