@@ -154,6 +154,7 @@ class QuantumsandLive
     # TODO: Matplotlib animation video generation
     # TODO: cowtoolz/webcamize; Use (almost) any camera as a webcam
     # TODO: Canop/dysk
+    # TODO: SageMath; free open-source mathematics software system
   end
 end
 
