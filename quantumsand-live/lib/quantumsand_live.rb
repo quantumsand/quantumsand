@@ -151,6 +151,7 @@ class QuantumsandLive
     # TODO; Haiku Animator; Design tool for creating Lottie animations and interactive web component
     # TODO; @lottiefiles/react-lottie-player
     # TODO: OctoPrint; Web interface for controlling consumer 3D printers
+    # TODO: Matplotlib animation video generation
   end
 end
 
