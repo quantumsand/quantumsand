@@ -159,6 +159,16 @@ class QuantumsandLive
     # TODO: pnpm; pnpm store path; global virtual stores; node_modules contains only symlinks to a central virtual store
     # TODO: dev-lang/haxe
     # TODO: ldtk; modern, lightweight and efficient 2D level editor
+    # TODO: AlbrechtL/welle.io
+    # TODO: Opendigitalradio/ODR-EncoderManager
+    # TODO: Opendigitalradio/ODR-PadEnc
+    # TODO: Opendigitalradio/ODR-AudioEnc
+    # TODO: Opendigitalradio/odr-mmbtools-common
+    # TODO: Opendigitalradio/fdk-aac
+    # TODO: Opendigitalradio/ODR-DabMod
+    # TODO: Opendigitalradio/ODR-DabMux
+    # TODO: Opendigitalradio/dablin
+    # TODO: Opendigitalradio/mmbtools-doc
   end
 end
 
