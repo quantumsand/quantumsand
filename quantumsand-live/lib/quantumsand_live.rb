@@ -157,6 +157,7 @@ class QuantumsandLive
     # TODO: Canop/dysk
     # TODO: SageMath; free open-source mathematics software system
     # TODO: pnpm; pnpm store path; global virtual stores; node_modules contains only symlinks to a central virtual store
+    # TODO: dev-lang/haxe
     # TODO: ldtk; modern, lightweight and efficient 2D level editor
   end
 end
