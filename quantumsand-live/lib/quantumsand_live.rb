@@ -66,7 +66,7 @@ class QuantumsandLive
 
     # TODO: emerge --ask www-apps/gitea
     # TODO: Caddy
-    # TODO: distcc
+    # TODO: sys-devel/distcc
     # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
     # TODO: QEMU
     # TODO: Valkey
