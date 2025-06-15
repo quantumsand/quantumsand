@@ -7,7 +7,7 @@ class QuantumsandLive
 
     gentoo_use_flags = %w(kde gnome gtk gtk4 plymouth wallpapers wacom networkmanager smart
                           accessibility bluetooth crypt cups discover flatpak oxygen-theme
-                          grub webengine systemd sdk rdp pulseaudioelogind browser-integration
+                          grub webengine systemd sdk rdp pulseaudio elogind browser-integration
                           crash-handler display-manager wifi wayland openh264 libproxy jpegxl
                           jack hwaccel gnome-shell eme-free dbus telemetry system-av1
                           system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
