@@ -18,7 +18,9 @@ class QuantumsandLive
                           pdf potrace pugixml sndfile tbb tiff truetype webp alembic collada
                           cuda doc experimental hip jpeg2k man ndof nls oneapi openal optix
                           osl pipewire renderdoc sdl test gstreamer vulkan postgres qt6 pdfimport
-                          base zeroconf -branding -java).join(' ')
+                          hangouts proprietary-codecs rar screencast system-png system-zstd vaapi
+                          widevine bindist bundled-toolchain custom-cflags ffmpeg-chromium kerberos
+                          pax-kernel pgo base zeroconf -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
