@@ -20,7 +20,15 @@ class QuantumsandLive
                           osl pipewire renderdoc sdl test gstreamer vulkan postgres qt6 pdfimport
                           hangouts proprietary-codecs rar screencast system-png system-zstd vaapi
                           widevine bindist bundled-toolchain custom-cflags ffmpeg-chromium kerberos
-                          pax-kernel pgo base zeroconf -branding -java).join(' ')
+                          dav1d fontconfig gnutls gpl libass postproc xml alsa amf amr amrenc appkit
+                          bluray bs2b bzip2 cdio chromaprint chromium codec2 dvd fdk flite frei0r
+                          fribidi gcrypt gme gsm iec61883 ieee1394 kvazaar ladspa lame lcms libaom
+                          libaribb24 libcaca libilbc liblc3 libplacebo librtmp libsoxr libtesseract
+                          lv2 lzma modplug npp nvenc opencl openmpt openssl opus qrcode qsv quirc
+                          rabbitmq rav1e rubberband samba shaderc snappy sndio soc speex srt ssh
+                          svg svt-av1 theora twolame v4l vdpau verify-sig vidstab vmaf vorbis
+                          vpx x264 x265 xvid zeromq zimg zvbi pax-kernel pgo base zeroconf
+                          -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
