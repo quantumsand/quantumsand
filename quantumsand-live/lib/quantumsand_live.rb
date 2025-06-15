@@ -12,7 +12,13 @@ class QuantumsandLive
                           jack hwaccel gnome-shell eme-free dbus telemetry system-av1
                           system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
                           system-webp gmp-autoupdate clang classic extras python offlinehelp
-                          gstreamer vulkan postgres qt6 pdfimport base zeroconf -branding -java).join(' ')
+                          stun debug full-xml sip sqlite zlib bullet color-management cycles
+                          cycles-bin-kernels embree ffmpeg fftw fluid gmp jemalloc manifold
+                          nanovdb oidn openexr opengl openmp openpgl opensubdiv openvdb otf
+                          pdf potrace pugixml sndfile tbb tiff truetype webp alembic collada
+                          cuda doc experimental hip jpeg2k man ndof nls oneapi openal optix
+                          osl pipewire renderdoc sdl test gstreamer vulkan postgres qt6 pdfimport
+                          base zeroconf -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
