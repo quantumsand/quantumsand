@@ -12,7 +12,7 @@ class QuantumsandLive
                           jack hwaccel gnome-shell eme-free dbus telemetry system-av1
                           system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
                           system-webp gmp-autoupdate clang classic extras python offlinehelp
-                          gstreamer vulkan postgres qt6 pdfimport base -branding -java).join(' ')
+                          gstreamer vulkan postgres qt6 pdfimport base zeroconf -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
