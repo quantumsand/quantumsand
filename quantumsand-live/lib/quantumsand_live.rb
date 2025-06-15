@@ -11,9 +11,9 @@ class QuantumsandLive
                           crash-handler display-manager wifi wayland openh264 libproxy jpegxl
                           jack hwaccel gnome-shell eme-free dbus telemetry system-av1
                           system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
-                          system-webp gmp-autoupdate clang classic extras python offlinehelp
-                          stun debug full-xml sip sqlite zlib bullet color-management cycles
-                          cycles-bin-kernels embree ffmpeg fftw fluid gmp jemalloc manifold
+                          system-webp gmp-autoupdate clang classic extras python python3_13
+                          offlinehelp stun debug full-xml sip sqlite zlib bullet color-management
+                          cycles cycles-bin-kernels embree ffmpeg fftw fluid gmp jemalloc manifold
                           nanovdb oidn openexr opengl openmp openpgl opensubdiv openvdb otf
                           pdf potrace pugixml sndfile tbb tiff truetype webp alembic collada
                           cuda doc experimental hip jpeg2k man ndof nls oneapi openal optix
