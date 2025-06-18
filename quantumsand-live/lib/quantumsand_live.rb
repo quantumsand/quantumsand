@@ -28,7 +28,12 @@ class QuantumsandLive
                           rabbitmq rav1e rubberband samba shaderc snappy sndio soc speex srt ssh
                           svg svt-av1 theora twolame v4l vdpau verify-sig vidstab vmaf vorbis
                           vpx x264 x265 xvid zeromq zimg zvbi pax-kernel pgo base zeroconf
-                          -branding -java).join(' ')
+                          events-handlers-exec security xinetd ipv6 gssapi ssl berkdb examples
+                          gdbm jit socks5 systemtap aio curl fdt jpeg oss pin-upstream-blobs png
+                          seccomp slirp vhost-net vnc bpf capstone fuse glusterfs infiniband
+                          io-uring iscsi keyutils lzo multipath ncurses nfs numa pam plugins rbd
+                          sasl sdl-image smartcard spice udev usb usbredir vde virgl virtfs xattr
+                          xdp xen zstd -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
