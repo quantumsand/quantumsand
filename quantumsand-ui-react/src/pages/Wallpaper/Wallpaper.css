@@ -14,8 +14,8 @@
 @keyframes wallpaper__colorcycle {
   0%   { --wallpaper-color: #f92672; }
   25%  { --wallpaper-color: #1ed760; }
-  50%  { --wallpaper-color: #7df9ff;}
-  75%  { --wallpaper-color: #9f00ff;}
+  50%  { --wallpaper-color: #7df9ff; }
+  75%  { --wallpaper-color: #9f00ff; }
   100% { --wallpaper-color: #f92672; }
 }
 
