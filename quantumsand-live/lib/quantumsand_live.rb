@@ -33,7 +33,12 @@ class QuantumsandLive
                           seccomp slirp vhost-net vnc bpf capstone fuse glusterfs infiniband
                           io-uring iscsi keyutils lzo multipath ncurses nfs numa pam plugins rbd
                           sasl sdl-image smartcard spice udev usb usbredir vde virgl virtfs xattr
-                          xdp xen zstd -branding -java).join(' ')
+                          xdp xen zstd tcmalloc icons icu lz4 readline server uring ldap llvm
+                          oauth perl static-libs tcl uuid address-standardizer topology postgres17
+                          analog audio channels ctrlport digital dtv fec filter grc iio modtool
+                          network performance-counters soapy trellis uhd utils vocoder wavelet
+                          portaudio airspy bladerf hackrf iqbalance rtlsdr sdrplay xtrx
+                          -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
@@ -104,6 +109,7 @@ class QuantumsandLive
     # TODO: LimeSuite
     # TODO: GNU Radio
     # TODO: Gqrx
+    # TODO: net-wireless/gr-osmosdr
     # TODO: kit-cel/gr-dab
     # TODO: OpenStreetMap
     # TODO: Osm2pgsql
