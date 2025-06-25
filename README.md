@@ -91,6 +91,8 @@ Target hardware for Quantum Sand; QALB-Boy specification. More to follow...
 ![QALB-Boy](/img/qalb-boy-logo-colours.jpg)
 ![The-Arabic-word-qalb](/img/The-Arabic-word-qalb-means-heart-both-physically-and-spiritually.jpg)
 
+Hardware ideas (ideally Linux SBCs which are 100GBP or less);
+
 * LimeSDR Mini 2.0 (optional)
 * An AMD Ryzen SBC or an AI accelerator SBC (possibly an NVIDIA Jetson Orin Nano Super, or a Chinese alternative).
 * More to follow...
