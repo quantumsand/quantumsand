@@ -206,6 +206,7 @@ class QuantumsandLive
     # TODO: jketterl/openwebrx
     # TODO: Automattic/harper; English grammar checker
     # TODO: sonic-pi-net/sonic-pi
+    # TODO: GraphiteEditor/Graphite
   end
 end
 
