@@ -207,6 +207,8 @@ class QuantumsandLive
     # TODO: Automattic/harper; English grammar checker
     # TODO: sonic-pi-net/sonic-pi
     # TODO: GraphiteEditor/Graphite
+    # TODO: vlang/v
+    # TODO: ZetloStudio/ZeQLplus
   end
 end
 
