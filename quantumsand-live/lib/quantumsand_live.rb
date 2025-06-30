@@ -38,7 +38,8 @@ class QuantumsandLive
                           analog audio channels ctrlport digital dtv fec filter grc iio modtool
                           network performance-counters soapy trellis uhd utils vocoder wavelet
                           portaudio airspy bladerf hackrf iqbalance rtlsdr sdrplay xtrx lua5-4
-                          luajit 3d georeferencer grass hdf5 mapserver netcdf pdal qml
+                          luajit 3d georeferencer grass hdf5 mapserver netcdf pdal qml debugger
+                          nsight profiler rdma sanitizer vis-profiler
                           -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
