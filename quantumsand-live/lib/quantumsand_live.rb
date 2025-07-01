@@ -138,7 +138,7 @@ class QuantumsandLive
     # TODO: a2aproject/A2A; open protocol enabling communication and interoperability between opaque agentic applications
     # TODO: scm_breeze
     # TODO: VSCodium
-    # TODO: Docker
+    # TODO: Docker; Snippet; /etc/kernel/config.d/docker-linux6-11-10.config
     # TODO: Krita
     # TODO: GIMP
     # TODO: Inkscape
