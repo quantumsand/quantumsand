@@ -45,7 +45,8 @@ class QuantumsandLive
                           mypaint-brush-engine xsimd gif gsl raw aalib aqua fits javascript lua
                           mng postscript unwind vala valadoc vector-icons wmf xpm cdr dia inkjar
                           sourceview svg2 visio wpg exif graphicsmagick build symlink firmware
-                          jumbo-build system-pipewire valgrind wasm-sandbox -branding -java).join(' ')
+                          jumbo-build system-pipewire valgrind wasm-sandbox abseil test-helpers
+                          -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
@@ -154,6 +155,7 @@ class QuantumsandLive
     # TODO: dev-lang/elixir
     # TODO: ejabberd
     # TODO: GStreamer
+    # TODO: dev-cpp/gtest; Google C++ Testing Framework
     # TODO: audio_waveform-ruby + peaks.js + audiowaveform
     # TODO: Customised Qt6 + Quantum Sand + OpenTelemetry + MapLibre GL JS
     # TODO: Godot Engine
