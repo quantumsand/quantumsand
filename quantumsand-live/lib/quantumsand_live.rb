@@ -45,7 +45,7 @@ class QuantumsandLive
                           mypaint-brush-engine xsimd gif gsl raw aalib aqua fits javascript lua
                           mng postscript unwind vala valadoc vector-icons wmf xpm cdr dia inkjar
                           sourceview svg2 visio wpg exif graphicsmagick build symlink firmware
-                          -branding -java).join(' ')
+                          jumbo-build system-pipewire valgrind wasm-sandbox -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
