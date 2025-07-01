@@ -210,6 +210,7 @@ class QuantumsandLive
     # TODO: GraphiteEditor/Graphite
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
+    # TODO: digiKam
   end
 end
 
