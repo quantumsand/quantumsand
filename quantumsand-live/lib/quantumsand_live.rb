@@ -39,8 +39,9 @@ class QuantumsandLive
                           network performance-counters soapy trellis uhd utils vocoder wavelet
                           portaudio airspy bladerf hackrf iqbalance rtlsdr sdrplay xtrx lua5-4
                           luajit 3d georeferencer grass hdf5 mapserver netcdf pdal qml debugger
-                          nsight profiler rdma sanitizer vis-profiler egl
-                          -branding -java).join(' ')
+                          nsight profiler rdma sanitizer vis-profiler egl addressbook imagemagick
+                          lensfun panorama semantic-desktop video calendar geolocation gphoto2
+                          heif scanner spell -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
