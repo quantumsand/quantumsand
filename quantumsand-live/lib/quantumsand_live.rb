@@ -42,7 +42,8 @@ class QuantumsandLive
                           nsight profiler rdma sanitizer vis-profiler egl addressbook imagemagick
                           lensfun panorama semantic-desktop video calendar geolocation gphoto2
                           heif scanner spell container-init overlay2 apparmor btrfs media
-                          mypaint-brush-engine xsimd gif gsl raw -branding -java).join(' ')
+                          mypaint-brush-engine xsimd gif gsl raw aalib aqua fits javascript lua
+                          mng postscript unwind vala valadoc vector-icons wmf xpm -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
