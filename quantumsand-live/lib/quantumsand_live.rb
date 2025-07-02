@@ -50,7 +50,7 @@ class QuantumsandLive
                           chromecast dc1394 dts faad flac fluidsynth kate keyring libnotify libtar
                           libtiger linsys lirc live loudness mad matroska mp3 mpeg mtp musepack
                           ogg omxil optimisememory projectm sftp shout sid skins soxr taglib tremor
-                          upnp -branding -java).join(' ')
+                          upnp kpoll odbc sctp captcha redis roster-gw -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
