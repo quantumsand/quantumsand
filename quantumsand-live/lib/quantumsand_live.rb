@@ -46,7 +46,11 @@ class QuantumsandLive
                           mng postscript unwind vala valadoc vector-icons wmf xpm cdr dia inkjar
                           sourceview svg2 visio wpg exif graphicsmagick build symlink firmware
                           jumbo-build system-pipewire valgrind wasm-sandbox abseil test-helpers
-                          -branding -java).join(' ')
+                          dvbpsi encode gui libsamplerate a52 aom archive aribsub bidi cddb
+                          chromecast dc1394 dts faad flac fluidsynth kate keyring libnotify libtar
+                          libtiger linsys lirc live loudness mad matroska mp3 mpeg mtp musepack
+                          ogg omxil optimisememory projectm sftp shout sid skins soxr taglib tremor
+                          upnp -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
