@@ -51,7 +51,7 @@ class QuantumsandLive
                           libtiger linsys lirc live loudness mad matroska mp3 mpeg mtp musepack
                           ogg omxil optimisememory projectm sftp shout sid skins soxr taglib tremor
                           upnp kpoll odbc sctp captcha redis roster-gw ptp unwind caps introspection
-                          -branding -java).join(' ')
+                          raycast tools speech -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
