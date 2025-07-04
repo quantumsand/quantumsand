@@ -64,7 +64,7 @@ export default function Grains() {
           aria-controls="panel3-content"
           id="panel3-header"
         >
-          <Typography component="span">Slides</Typography>
+          <Typography component="span">Slides (Text/Images/Mathematics/Code)</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
