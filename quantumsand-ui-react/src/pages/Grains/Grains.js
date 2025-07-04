@@ -163,11 +163,26 @@ export default function Grains() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-      <Accordion disabled={true}>
+      <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
           aria-controls="panel10-content"
           id="panel10-header"
+        >
+          <Typography component="span">Musical Notation</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion disabled={true}>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel11-content"
+          id="panel11-header"
         >
           <Typography component="span">Disabled Accordion</Typography>
         </AccordionSummary>
