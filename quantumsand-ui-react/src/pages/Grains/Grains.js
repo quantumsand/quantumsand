@@ -169,6 +169,21 @@ export default function Grains() {
           aria-controls="panel10-content"
           id="panel10-header"
         >
+          <Typography component="span">EBooks</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="panel11-content"
+          id="panel11-header"
+        >
           <Typography component="span">Musical Notation</Typography>
         </AccordionSummary>
         <AccordionDetails>
@@ -181,8 +196,8 @@ export default function Grains() {
       <Accordion disabled={true}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel11-content"
-          id="panel11-header"
+          aria-controls="panel12-content"
+          id="panel12-header"
         >
           <Typography component="span">Disabled Accordion</Typography>
         </AccordionSummary>
