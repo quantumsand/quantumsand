@@ -22,7 +22,7 @@ export default function Grains() {
       <div
       style={{
         width: "100%",
-        height: "500px"
+        height: "300px"
       }}
       >
         <Workbook data={[cell]} onOp={console.log} />
