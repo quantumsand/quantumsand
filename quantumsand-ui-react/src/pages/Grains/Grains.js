@@ -1,5 +1,7 @@
 import * as React from 'react';
 import Accordion from '@mui/material/Accordion';
+import FormControl from '@mui/material/FormControl';
+import TextField from '@mui/material/TextField';
 import AccordionSummary from '@mui/material/AccordionSummary';
 import AccordionDetails from '@mui/material/AccordionDetails';
 import Typography from '@mui/material/Typography';
@@ -12,7 +14,11 @@ import cell from "./cell";
 
 export default function Grains() {
   return (
-    <div>
+    <div className="grains">
+      <FormControl fullWidth sx={{ m: 1 }}>
+        <TextField id="filled-basic" label="Grain git repo name" variant="filled" />
+        <TextField id="filled-basic" label="Grain title" variant="filled" />
+      </FormControl>
       <div
       style={{
         width: "100%",
