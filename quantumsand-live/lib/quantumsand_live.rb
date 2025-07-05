@@ -231,6 +231,7 @@ class QuantumsandLive
     # TODO: Audacity
     # TODO: Ardour
     # TODO: LMMS
+    # TODO: Kdenlive; KDE Non-Linear Video Editor
   end
 end
 
