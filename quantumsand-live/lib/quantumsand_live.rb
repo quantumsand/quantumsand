@@ -228,6 +228,9 @@ class QuantumsandLive
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
     # TODO: digiKam
+    # TODO: Audacity
+    # TODO: Ardour
+    # TODO: LMMS
   end
 end
 
