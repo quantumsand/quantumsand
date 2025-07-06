@@ -121,10 +121,25 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="charts-content"
-          id="charts-header"
+          aria-controls="charts-nivo-content"
+          id="charts-nivo-header"
         >
-          <Typography component="span">Charts</Typography>
+          <Typography component="span">Charts (nivo)</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="charts-matplotlib-content"
+          id="charts-matplotlib-header"
+        >
+          <Typography component="span">Charts (Matplotlib)</Typography>
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
