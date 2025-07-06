@@ -31,8 +31,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel1-content"
-          id="panel1-header"
+          aria-controls="anim-blender-content"
+          id="anim-blender-header"
         >
           <Typography component="span">Animations (Blender)</Typography>
         </AccordionSummary>
@@ -43,11 +43,11 @@ export default function Grains() {
           </Typography>
         </AccordionDetails>
       </Accordion>
-            <Accordion>
+      <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel2-content"
-          id="panel2-header"
+          aria-controls="anim-lottie-content"
+          id="anim-lottie-header"
         >
           <Typography component="span">Animations (Lottie)</Typography>
         </AccordionSummary>
@@ -61,8 +61,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel3-content"
-          id="panel3-header"
+          aria-controls="slides-content"
+          id="slides-header"
         >
           <Typography component="span">Slides (Text/Images/Mathematics/Code)</Typography>
         </AccordionSummary>
@@ -76,8 +76,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel4-content"
-          id="panel4-header"
+          aria-controls="simulations-content"
+          id="simulations-header"
         >
           <Typography component="span">Simulations</Typography>
         </AccordionSummary>
@@ -91,8 +91,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel5-content"
-          id="panel5-header"
+          aria-controls="virtual-globes-content"
+          id="virtual-globes-header"
         >
           <Typography component="span">Virtual Globes</Typography>
         </AccordionSummary>
@@ -106,8 +106,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel6-content"
-          id="panel6-header"
+          aria-controls="map-drawings-content"
+          id="map-drawings-header"
         >
           <Typography component="span">Map Drawings</Typography>
         </AccordionSummary>
@@ -121,8 +121,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel7-content"
-          id="panel7-header"
+          aria-controls="charts-content"
+          id="charts-header"
         >
           <Typography component="span">Charts</Typography>
         </AccordionSummary>
@@ -136,8 +136,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel8-content"
-          id="panel8-header"
+          aria-controls="word-clouds-content"
+          id="word-clouds-header"
         >
           <Typography component="span">Word Clouds</Typography>
         </AccordionSummary>
@@ -151,8 +151,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel9-content"
-          id="panel9-header"
+          aria-controls="videogames-content"
+          id="videogames-header"
         >
           <Typography component="span">Videogames</Typography>
         </AccordionSummary>
@@ -166,8 +166,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel10-content"
-          id="panel10-header"
+          aria-controls="ebooks-content"
+          id="ebooks-header"
         >
           <Typography component="span">EBooks</Typography>
         </AccordionSummary>
@@ -181,8 +181,8 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel11-content"
-          id="panel11-header"
+          aria-controls="musical-notation-content"
+          id="musical-notation-header"
         >
           <Typography component="span">Musical Notation</Typography>
         </AccordionSummary>
@@ -196,8 +196,8 @@ export default function Grains() {
       <Accordion disabled={true}>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
-          aria-controls="panel12-content"
-          id="panel12-header"
+          aria-controls="disabled-content"
+          id="disabled-header"
         >
           <Typography component="span">Disabled Accordion</Typography>
         </AccordionSummary>
