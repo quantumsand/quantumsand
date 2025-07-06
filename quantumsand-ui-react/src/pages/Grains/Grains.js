@@ -136,6 +136,36 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
+          aria-controls="notebooks-jupyter-content"
+          id="notebooks-jupyter-header"
+        >
+          <Typography component="span">Notebooks (Jupyter)</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="notebooks-livebook-content"
+          id="notebooks-livebook-header"
+        >
+          <Typography component="span">Notebooks (Elixir and Livebook)</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
           aria-controls="word-clouds-content"
           id="word-clouds-header"
         >
