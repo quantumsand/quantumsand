@@ -143,6 +143,7 @@ class QuantumsandLive
     # TODO: Fire-Flyer File System (3FS)
     # TODO: MiniMax-M1
     # TODO: nvidia/parakeet-tdt-0.6b-v2
+    # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
     # TODO: CUDA
     # TODO: ROCm
     # TODO: PyTorch
