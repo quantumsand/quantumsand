@@ -144,6 +144,7 @@ class QuantumsandLive
     # TODO: MiniMax-M1
     # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
+    # TODO: collabora/gst-python-ml; Python-powered ML analytics for GStreamer pipelines
     # TODO: CUDA
     # TODO: ROCm
     # TODO: PyTorch
