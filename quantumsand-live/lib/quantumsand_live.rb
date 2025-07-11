@@ -55,7 +55,7 @@ class QuantumsandLive
                           dumpcap editcap filecaps mergecap minizip netlink pcap randpkt randpktdump
                           reordercap sharkd text2pcap tshark udpdump androiddump bcg729 brotli
                           ciscodump dpauxmon http2 http3 ilbc libxml2 maxminddb sbc sdjournal spandsp
-                          sshdump tfshark -branding -java).join(' ')
+                          sshdump tfshark nse libssh2 ncat ndiff nping zenmap -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
