@@ -58,7 +58,9 @@ class QuantumsandLive
                           sshdump tfshark nse libssh2 ncat ndiff nping zenmap browser decklink mpegts
                           test-input vlc websocket test-install clamapp system-mspack clamdtop clamonacc
                           clamsubmit iconv libclamav-only metadata-analysis-api milter rootfs dist-kernel
-                          kernel-builtin split-usr test-suite pie development nexpose -branding -java).join(' ')
+                          kernel-builtin split-usr test-suite pie development nexpose asimage cudnn
+                          davix fortran gdml http jupyter libcxx minuit pythia8 R roofit root7 shadow
+                          tmva unuran vc xrootd graphviz mpi -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
