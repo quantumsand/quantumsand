@@ -103,7 +103,7 @@ class QuantumsandLive
     # DONE: Install all locales: locale-gen -A
     # DONE: emerge --sync
 
-    # TODO: USE flags
+    # DONE: USE flags
     # TODO: CFLAGS and CXXFLAGS
     # TODO: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
     # TODO: linuxwacom/wacom-hid-descriptors
