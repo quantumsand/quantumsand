@@ -5,7 +5,7 @@ class QuantumsandLive
     sudo_password = STDIN.noecho(&:gets).chomp
     dirpath = "/mnt/gentoo"
 
-    gentoo_use_flags = %w(kde gnome gtk gtk4 plymouth wallpapers wacom networkmanager smart
+    gentoo_use_flags = %w(kde gnome gtk gtk3 gtk4 plymouth wallpapers wacom networkmanager smart
                           accessibility bluetooth crypt cups discover flatpak oxygen-theme
                           grub webengine systemd sdk rdp pulseaudio elogind browser-integration
                           crash-handler display-manager wifi wayland openh264 libproxy jpegxl
@@ -61,8 +61,8 @@ class QuantumsandLive
                           kernel-builtin split-usr test-suite pie development nexpose asimage cudnn
                           davix fortran gdml http jupyter libcxx minuit pythia8 R roofit root7 shadow
                           tmva unuran vc xrootd graphviz mpi training opencv rtaudio rubberband vidstab
-                          xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack
-                          -branding -java).join(' ')
+                          xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack excel
+                          webagg cairo latex -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
