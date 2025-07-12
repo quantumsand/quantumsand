@@ -61,7 +61,8 @@ class QuantumsandLive
                           kernel-builtin split-usr test-suite pie development nexpose asimage cudnn
                           davix fortran gdml http jupyter libcxx minuit pythia8 R roofit root7 shadow
                           tmva unuran vc xrootd graphviz mpi training opencv rtaudio rubberband vidstab
-                          xine -branding -java).join(' ')
+                          xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack
+                          -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
