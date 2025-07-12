@@ -63,7 +63,7 @@ class QuantumsandLive
                           tmva unuran vc xrootd graphviz mpi training opencv rtaudio rubberband vidstab
                           xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack excel
                           webagg cairo latex dvb tracer ocamlopt portmixer audiocom id3tag mpg123
-                          sbsms vamp -branding -java).join(' ')
+                          sbsms vamp libgig soundio stk vst -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
