@@ -63,7 +63,7 @@ class QuantumsandLive
                           tmva unuran vc xrootd graphviz mpi training opencv rtaudio rubberband vidstab
                           xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack excel
                           webagg cairo latex dvb tracer ocamlopt portmixer audiocom id3tag mpg123
-                          sbsms vamp libgig soundio stk vst designer handbook -branding -java).join(' ')
+                          sbsms vamp libgig soundio stk vst designer handbook policykit -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
@@ -242,6 +242,7 @@ class QuantumsandLive
     # TODO: Ardour
     # TODO: LMMS
     # TODO: Kdenlive; KDE Non-Linear Video Editor
+    # TODO: GParted
   end
 end
 
