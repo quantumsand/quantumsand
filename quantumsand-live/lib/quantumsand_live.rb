@@ -102,8 +102,8 @@ class QuantumsandLive
       gentoo_amd_ryzen_AI300_9000: gentoo_amd_ryzen_AI300_9000
     }
 
-    gentoo_c_flags      = gentoo_common_flags
-    gentoo_cxx_flags    = gentoo_common_flags
+    gentoo_c_flags   = gentoo_common_flags
+    gentoo_cxx_flags = gentoo_common_flags
 
     puts "Gentoo C flags: #{gentoo_c_flags} and CXX flags: #{gentoo_cxx_flags}"
 
