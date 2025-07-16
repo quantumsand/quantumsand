@@ -109,6 +109,9 @@ class QuantumsandLive
 
     puts "Gentoo C flags: #{gentoo_c_flags} and CXX flags: #{gentoo_cxx_flags}"
 
+    gentoo_input_devices = %w("wacom libinput").join(' ')
+    puts "Gentoo INPUT_DEVICES: #{gentoo_input_devices}"
+
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
@@ -148,7 +151,7 @@ class QuantumsandLive
 
     # DONE: USE flags
     # DONE: CFLAGS and CXXFLAGS
-    # TODO: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
+    # DONE: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
     # TODO: linuxwacom/wacom-hid-descriptors
     # TODO: ACCEPT_LICENSE
     # TODO: CPU_FLAGS_X86
