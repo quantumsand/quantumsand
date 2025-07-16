@@ -152,7 +152,6 @@ class QuantumsandLive
     # DONE: USE flags
     # DONE: CFLAGS and CXXFLAGS
     # DONE: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
-    # TODO: linuxwacom/wacom-hid-descriptors
     # TODO: ACCEPT_LICENSE
     # TODO: CPU_FLAGS_X86
     # TODO: VIDEO_CARDS
@@ -162,6 +161,7 @@ class QuantumsandLive
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
 
+    # TODO: linuxwacom/wacom-hid-descriptors
     # TODO: emerge --ask www-apps/gitea
     # TODO: Caddy
     # TODO: sys-devel/distcc
