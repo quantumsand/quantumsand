@@ -82,6 +82,7 @@ class QuantumsandLive
     gentoo_amd_ryzen_5000 = "-O2 -march=znver3 -pipe"
     gentoo_amd_ryzen_7xx0 = "-O2 -march=znver4 -pipe"
     gentoo_amd_ryzen_AI300_9000 = "-O2 -march=znver5 -pipe"
+    gentoo_risc_v = "-march=rv64imafdc_zicsr_zba_zbb -mcpu=sifive-u74 -mtune=sifive-7-series -O2 -pipe"
 
     gentoo_common_flags = {
       gentoo_intel_alder_lake: gentoo_intel_alder_lake,
@@ -99,7 +100,8 @@ class QuantumsandLive
       gentoo_amd_ryzen_3000_4000_5000: gentoo_amd_ryzen_3000_4000_5000,
       gentoo_amd_ryzen_5000: gentoo_amd_ryzen_5000,
       gentoo_amd_ryzen_7xx0: gentoo_amd_ryzen_7xx0,
-      gentoo_amd_ryzen_AI300_9000: gentoo_amd_ryzen_AI300_9000
+      gentoo_amd_ryzen_AI300_9000: gentoo_amd_ryzen_AI300_9000,
+      gentoo_risc_v: gentoo_risc_v
     }
 
     gentoo_c_flags   = gentoo_common_flags
