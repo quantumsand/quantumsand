@@ -239,6 +239,7 @@ class QuantumsandLive
     # TODO: DGM.js with collaboration
     # TODO: Gitea
     # TODO: KiCad
+    # TODO: atopile/atopile
     # TODO: pentoo-overlay; net-analyzer/metasploit
     # TODO: soapySDR
     # TODO: srsGUI + srsRAN_4G + srsRAN_Project (complete 5G RAN solution)
