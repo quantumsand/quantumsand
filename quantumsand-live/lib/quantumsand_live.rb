@@ -66,6 +66,7 @@ class QuantumsandLive
                           sbsms vamp libgig soundio stk vst designer handbook policykit -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
+    # Gentoo common flags
     gentoo_cf_intel_alder_lake = "-march=alderlake -O2 -pipe"
     gentoo_cf_intel_skylake = "-march=skylake -O2 -pipe"
     gentoo_cf_intel_broadwell = "-march=broadwell -O2 -pipe"
