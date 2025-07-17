@@ -116,6 +116,9 @@ class QuantumsandLive
     gentoo_accept_license = %Q("*")
     puts "Gentoo accept all licenses on all packages; ACCEPT_LICENSE=#{gentoo_accept_license}"
 
+    gentoo_l10n = %Q("*")
+    puts "Gentoo all available locales are built and installed: L10N=#{gentoo_l10n}"
+
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
@@ -160,7 +163,7 @@ class QuantumsandLive
     # TODO: CPU_FLAGS_X86
     # TODO: VIDEO_CARDS
     # DONE: LINGUAS unset; Unset LINGUAS means to install all available languages
-    # TODO: L10N
+    # DONE: L10N
     # TODO: Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: kernel sources at /usr/src/linux
     # DONE: emerge --oneshot sys-apps/portage
