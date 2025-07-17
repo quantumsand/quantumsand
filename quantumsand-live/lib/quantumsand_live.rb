@@ -156,7 +156,7 @@ class QuantumsandLive
     # DONE: USE flags
     # DONE: CFLAGS and CXXFLAGS
     # DONE: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
-    # TODO: ACCEPT_LICENSE
+    # DONE: ACCEPT_LICENSE
     # TODO: CPU_FLAGS_X86
     # TODO: VIDEO_CARDS
     # TODO: LINGUAS
