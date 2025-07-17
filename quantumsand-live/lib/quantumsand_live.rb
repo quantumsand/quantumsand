@@ -113,6 +113,9 @@ class QuantumsandLive
     gentoo_input_devices = %w("wacom libinput").join(' ')
     puts "Gentoo INPUT_DEVICES: #{gentoo_input_devices}"
 
+    gentoo_accept_license = %Q("*")
+    puts "Gentoo accept all licenses on all packages; ACCEPT_LICENSE=#{gentoo_accept_license}"
+
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
