@@ -159,7 +159,7 @@ class QuantumsandLive
     # DONE: ACCEPT_LICENSE
     # TODO: CPU_FLAGS_X86
     # TODO: VIDEO_CARDS
-    # TODO: LINGUAS
+    # DONE: LINGUAS unset; Unset LINGUAS means to install all available languages
     # TODO: L10N
     # TODO: Specify GPKG binary package format; BINPKG_FORMAT="gpkg"; FEATURES="getbinpkg"
     # TODO: kernel sources at /usr/src/linux
