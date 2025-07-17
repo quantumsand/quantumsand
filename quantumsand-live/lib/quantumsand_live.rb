@@ -160,7 +160,7 @@ class QuantumsandLive
     # DONE: CFLAGS and CXXFLAGS
     # DONE: INPUT_DEVICES; Wacom; /etc/portage/make.conf INPUT_DEVICES="wacom libinput"
     # DONE: ACCEPT_LICENSE
-    # TODO: CPU_FLAGS_X86
+    # TODO: CPU_FLAGS_X86; emerge --ask app-portage/cpuid2cpuflags; echo "*/* $(cpuid2cpuflags)" > /etc/portage/package.use/00cpu-flags
     # TODO: VIDEO_CARDS
     # DONE: LINGUAS unset; Unset LINGUAS means to install all available languages
     # DONE: L10N
