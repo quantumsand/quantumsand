@@ -66,42 +66,42 @@ class QuantumsandLive
                           sbsms vamp libgig soundio stk vst designer handbook policykit -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
-    gentoo_intel_alder_lake = "-march=alderlake -O2 -pipe"
-    gentoo_intel_skylake = "-march=skylake -O2 -pipe"
-    gentoo_intel_broadwell = "-march=broadwell -O2 -pipe"
-    gentoo_intel_haswell = "-march=haswell -O2 -pipe"
-    gentoo_intel_ivybridge_i3i5i7 = "-march=ivybridge -O2 -pipe"
-    gentoo_intel_ivybridge_pentium = "-march=ivybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
-    gentoo_intel_sandybridge_i3i5i7 = "-march=sandybridge -O2 -pipe"
-    gentoo_intel_sandybridge_pentium = "-march=sandybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
-    gentoo_intel_nehalem = "-march=nehalem -O2 -pipe"
-    gentoo_intel_westmere = "-march=westmere -O2 -pipe"
-    gentoo_intel_intel_core = "-march=core2 -O2 -pipe"
-    gentoo_amd_ryzen_1000_2000 = "-O2 -march=znver1 -pipe"
-    gentoo_amd_ryzen_3000_4000_5000 = "-O2 -march=znver2 -pipe"
-    gentoo_amd_ryzen_5000 = "-O2 -march=znver3 -pipe"
-    gentoo_amd_ryzen_7xx0 = "-O2 -march=znver4 -pipe"
-    gentoo_amd_ryzen_AI300_9000 = "-O2 -march=znver5 -pipe"
-    gentoo_risc_v = "-march=rv64imafdc_zicsr_zba_zbb -mcpu=sifive-u74 -mtune=sifive-7-series -O2 -pipe"
+    gentoo_cf_intel_alder_lake = "-march=alderlake -O2 -pipe"
+    gentoo_cf_intel_skylake = "-march=skylake -O2 -pipe"
+    gentoo_cf_intel_broadwell = "-march=broadwell -O2 -pipe"
+    gentoo_cf_intel_haswell = "-march=haswell -O2 -pipe"
+    gentoo_cf_intel_ivybridge_i3i5i7 = "-march=ivybridge -O2 -pipe"
+    gentoo_cf_intel_ivybridge_pentium = "-march=ivybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
+    gentoo_cf_intel_sandybridge_i3i5i7 = "-march=sandybridge -O2 -pipe"
+    gentoo_cf_intel_sandybridge_pentium = "-march=sandybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
+    gentoo_cf_intel_nehalem = "-march=nehalem -O2 -pipe"
+    gentoo_cf_intel_westmere = "-march=westmere -O2 -pipe"
+    gentoo_cf_intel_intel_core = "-march=core2 -O2 -pipe"
+    gentoo_cf_amd_ryzen_1000_2000 = "-O2 -march=znver1 -pipe"
+    gentoo_cf_amd_ryzen_3000_4000_5000 = "-O2 -march=znver2 -pipe"
+    gentoo_cf_amd_ryzen_5000 = "-O2 -march=znver3 -pipe"
+    gentoo_cf_amd_ryzen_7xx0 = "-O2 -march=znver4 -pipe"
+    gentoo_cf_amd_ryzen_AI300_9000 = "-O2 -march=znver5 -pipe"
+    gentoo_cf_risc_v = "-march=rv64imafdc_zicsr_zba_zbb -mcpu=sifive-u74 -mtune=sifive-7-series -O2 -pipe"
 
     gentoo_common_flags = {
-      gentoo_intel_alder_lake: gentoo_intel_alder_lake,
-      gentoo_intel_skylake: gentoo_intel_skylake,
-      gentoo_intel_broadwell: gentoo_intel_broadwell,
-      gentoo_intel_haswell: gentoo_intel_haswell,
-      gentoo_intel_ivybridge_i3i5i7: gentoo_intel_ivybridge_i3i5i7,
-      gentoo_intel_ivybridge_pentium: gentoo_intel_ivybridge_pentium,
-      gentoo_intel_sandybridge_i3i5i7: gentoo_intel_sandybridge_i3i5i7,
-      gentoo_intel_sandybridge_pentium: gentoo_intel_sandybridge_pentium,
-      gentoo_intel_nehalem: gentoo_intel_nehalem,
-      gentoo_intel_westmere: gentoo_intel_westmere,
-      gentoo_intel_intel_core: gentoo_intel_intel_core,
-      gentoo_amd_ryzen_1000_2000: gentoo_amd_ryzen_1000_2000,
-      gentoo_amd_ryzen_3000_4000_5000: gentoo_amd_ryzen_3000_4000_5000,
-      gentoo_amd_ryzen_5000: gentoo_amd_ryzen_5000,
-      gentoo_amd_ryzen_7xx0: gentoo_amd_ryzen_7xx0,
-      gentoo_amd_ryzen_AI300_9000: gentoo_amd_ryzen_AI300_9000,
-      gentoo_risc_v: gentoo_risc_v
+      gentoo_cf_intel_alder_lake: gentoo_cf_intel_alder_lake,
+      gentoo_cf_intel_skylake: gentoo_cf_intel_skylake,
+      gentoo_cf_intel_broadwell: gentoo_cf_intel_broadwell,
+      gentoo_cf_intel_haswell: gentoo_cf_intel_haswell,
+      gentoo_cf_intel_ivybridge_i3i5i7: gentoo_cf_intel_ivybridge_i3i5i7,
+      gentoo_cf_intel_ivybridge_pentium: gentoo_cf_intel_ivybridge_pentium,
+      gentoo_cf_intel_sandybridge_i3i5i7: gentoo_cf_intel_sandybridge_i3i5i7,
+      gentoo_cf_intel_sandybridge_pentium: gentoo_cf_intel_sandybridge_pentium,
+      gentoo_cf_intel_nehalem: gentoo_cf_intel_nehalem,
+      gentoo_cf_intel_westmere: gentoo_cf_intel_westmere,
+      gentoo_cf_intel_intel_core: gentoo_cf_intel_intel_core,
+      gentoo_cf_amd_ryzen_1000_2000: gentoo_cf_amd_ryzen_1000_2000,
+      gentoo_cf_amd_ryzen_3000_4000_5000: gentoo_cf_amd_ryzen_3000_4000_5000,
+      gentoo_cf_amd_ryzen_5000: gentoo_cf_amd_ryzen_5000,
+      gentoo_cf_amd_ryzen_7xx0: gentoo_cf_amd_ryzen_7xx0,
+      gentoo_cf_amd_ryzen_AI300_9000: gentoo_cf_amd_ryzen_AI300_9000,
+      gentoo_cf_risc_v: gentoo_cf_risc_v
     }
 
     gentoo_c_flags   = gentoo_common_flags
