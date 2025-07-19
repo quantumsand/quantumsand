@@ -19,6 +19,21 @@ export default function Grains() {
         <TextField id="filled-basic" label="Grain git repo name" variant="filled" />
         <TextField id="filled-basic" label="Grain title" variant="filled" />
       </FormControl>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="adverts-content"
+          id="adverts-header"
+        >
+          <Typography component="span">Advertising Tiles</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
       <div
       style={{
         width: "100%",
