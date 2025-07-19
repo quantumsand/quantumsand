@@ -34,6 +34,21 @@ export default function Grains() {
           </Typography>
         </AccordionDetails>
       </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
+          aria-controls="narrative-sync-content"
+          id="narrative-sync-header"
+        >
+          <Typography component="span">Narrative Sync</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
+            malesuada lacus ex, sit amet blandit leo lobortis eget.
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
       <div
       style={{
         width: "100%",
@@ -42,7 +57,6 @@ export default function Grains() {
       >
         <Workbook data={[cell]} onOp={console.log} />
       </div>
-      
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
