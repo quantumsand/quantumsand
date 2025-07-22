@@ -169,6 +169,7 @@ class QuantumsandLive
     # DONE: emerge --oneshot sys-apps/portage
 
     # TODO: linuxwacom/wacom-hid-descriptors
+    # TODO: google/oss-rebuild; Google ❤️ Open Source
     # TODO: emerge --ask www-apps/gitea
     # TODO: Caddy
     # TODO: sys-devel/distcc
