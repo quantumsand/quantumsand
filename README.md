@@ -102,6 +102,8 @@ Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA 
 
 ## Interfaith collaboration
 
+Support for all locales is planned eventually. This should help with interfaith collaboration.
+
 * 🤲 Interfaith collaboration is a planned feature for Quantum Sand.
 * 👯 I’m looking to collaborate on Quantum Sand.
 * 🤔 I’m looking for help with building a community around Quantum Sand.
