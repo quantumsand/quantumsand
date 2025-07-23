@@ -65,8 +65,8 @@ export default function Grains() {
 
             {locales.map((language, index) => (
               <div key={language.locale} style={{ padding: 0, height: 120 }}>
-              {/* <img alt={language.locale} src={`/public/images/locale/${language.locale}.jpg`}/> */}
-              <p className="legend">{language.name}</p>
+                {/* <img alt={language.locale} src={`/public/images/locale/${language.locale}.jpg`}/> */}
+                <p className="legend">{language.name}</p>
               </div>
             ))}
           </Typography>
