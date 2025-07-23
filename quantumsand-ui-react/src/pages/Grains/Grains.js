@@ -59,17 +59,16 @@ export default function Grains() {
           <Typography component="span">Narrative Translations</Typography>
         </AccordionSummary>
         <AccordionDetails>
-          <Typography>
+          <div>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
             malesuada lacus ex, sit amet blandit leo lobortis eget.
 
+            <ul>
             {locales.map((language, index) => (
-              <div key={language.locale} style={{ padding: 0, height: 120 }}>
-                {/* <img alt={language.locale} src={`/public/images/locale/${language.locale}.jpg`}/> */}
-                <p className="legend">{language.name}</p>
-              </div>
+              <li key={index} className="legend">{language.name}</li>
             ))}
-          </Typography>
+            </ul>
+          </div>
         </AccordionDetails>
       </Accordion>
       <div
