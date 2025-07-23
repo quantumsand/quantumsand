@@ -11,6 +11,7 @@ import "@fortune-sheet/react/dist/index.css"
 import "./Grains.css"
 
 import cell from "./cell";
+import locales from "./locales";
 
 export default function Grains() {
   return (
@@ -61,6 +62,13 @@ export default function Grains() {
           <Typography>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
             malesuada lacus ex, sit amet blandit leo lobortis eget.
+
+            {locales.map((language, index) => (
+              <div key={language.locale} style={{ padding: 0, height: 120 }}>
+              {/* <img alt={language.locale} src={`/public/images/locale/${language.locale}.jpg`}/> */}
+              <p className="legend">{language.name}</p>
+              </div>
+            ))}
           </Typography>
         </AccordionDetails>
       </Accordion>
