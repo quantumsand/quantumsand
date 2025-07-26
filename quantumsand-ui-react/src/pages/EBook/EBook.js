@@ -6,7 +6,7 @@ import { EpubViewer} from 'react-epub-viewer';
 import "./EBook.css";
 
 export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocation}) {
-  const [size, setSize] = useState(400)
+  const [size, setSize] = useState(200)
   const renditionRef = useRef();
   const [location, setLocation] = useState(initialLocation)
   const ref = useRef();
@@ -20,8 +20,9 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
   const chronomap = [
     "epubcfi(/6/2!/4/1:0)",
     "epubcfi(/6/8!/4/2[pgepubid00003]/2/1:0)",
+    "epubcfi(/6/8!/4/2[pgepubid00003]/232/13:0)",
     "epubcfi(/6/242!/4/2[pgepubid00782]/2/1:0)",
-    "epubcfi(/6/8!/4/2[pgepubid00003]/232/25:0)"
+    "epubcfi(/6/152!/4/2[pgepubid00519]/2/1:0)"
   ];
 
   const pageChanged = epubcfi => {
