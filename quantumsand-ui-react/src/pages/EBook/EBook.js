@@ -12,17 +12,17 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
   const ref = useRef();
   const [stepper, setStepper] = useState(0);
 
-  const chronomap = [
-    "epubcfi(/6/74!/4[x2._Muwatta.Arabic-English.LS-30]/2/172/1:535)",
-    "epubcfi(/6/74!/4[x2._Muwatta.Arabic-English.LS-30]/2/194/7:3)"
-  ];
-
   // const chronomap = [
-  //   "epubcfi(/6/4!/4/2/1:0)",
-  //   "epubcfi(/6/4!/4/28/1:61)",
-  //   "epubcfi(/6/4!/4/12/1:181)",
-  //   "epubcfi(/6/4!/4/68/1:98)"
+  //   "epubcfi(/6/74!/4[x2._Muwatta.Arabic-English.LS-30]/2/172/1:535)",
+  //   "epubcfi(/6/74!/4[x2._Muwatta.Arabic-English.LS-30]/2/194/7:3)"
   // ];
+
+  const chronomap = [
+    "epubcfi(/6/2!/4/1:0)",
+    "epubcfi(/6/8!/4/2[pgepubid00003]/2/1:0)",
+    "epubcfi(/6/242!/4/2[pgepubid00782]/2/1:0)",
+    "epubcfi(/6/8!/4/2[pgepubid00003]/232/25:0)"
+  ];
 
   const pageChanged = epubcfi => {
     console.log(`t: ${JSON.stringify(epubcfi)}`);
@@ -42,22 +42,22 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
     }
   }, [size])
 
-  // useEffect(() => {
-  //   const intervalId = setInterval(() => {
+  useEffect(() => {
+    const intervalId = setInterval(() => {
 
-  //     if (stepper < chronomap.length - 1) {
-  //       setStepper(stepper + 1);
-  //     } else {
-  //       setStepper(0);
-  //     }
+      if (stepper < chronomap.length - 1) {
+        setStepper(stepper + 1);
+      } else {
+        setStepper(0);
+      }
 
-  //     console.log("chronomap[stepper]: " + JSON.stringify(chronomap[stepper]));
+      console.log("chronomap[stepper]: " + JSON.stringify(chronomap[stepper]));
 
-  //     setLocation(chronomap[stepper])
-  //   }, 2500);
+      setLocation(chronomap[stepper])
+    }, 2500);
 
-  //   return () => clearInterval(intervalId); //This is important
-  // }), []
+    return () => clearInterval(intervalId); //This is important
+  })
 
   return (
     <div className="ebook">
