@@ -104,8 +104,7 @@ export default function Grains() {
             <AccordionDetails>
               <div>
                 <ul>
-                  <li>Blender foreground animation with alpha transparency</li>
-                  <li>Blender background animation opaque</li>
+                  <li>Blender animations</li>
                 </ul>
               </div>
             </AccordionDetails>
