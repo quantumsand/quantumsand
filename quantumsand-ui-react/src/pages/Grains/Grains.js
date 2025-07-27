@@ -102,10 +102,12 @@ export default function Grains() {
               <Typography component="span">Animations (Blender)</Typography>
             </AccordionSummary>
             <AccordionDetails>
-              <Typography>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse
-                malesuada lacus ex, sit amet blandit leo lobortis eget.
-              </Typography>
+              <div>
+                <ul>
+                  <li>Blender foreground animation with alpha transparency</li>
+                  <li>Blender background animation opaque</li>
+                </ul>
+              </div>
             </AccordionDetails>
           </Accordion>
           <Accordion>
