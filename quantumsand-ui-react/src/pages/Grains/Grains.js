@@ -65,7 +65,7 @@ export default function Grains() {
 
             <ul>
             {locales.map((language, index) => (
-              <li key={index} className="locale">{language.name} {language.emoji}</li>
+              <li key={index} className="locale">{language.name} {language.emoji} ({language.locale})</li>
             ))}
             </ul>
           </div>
