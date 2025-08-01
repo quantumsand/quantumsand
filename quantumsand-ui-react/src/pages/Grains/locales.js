@@ -32,6 +32,7 @@ const locales =  [{ iso: "en_GB", locale: "english", name: "English", emoji: "�
                   { iso: "hr_HR", locale: "croatian", name: "Hrvatski", emoji: "🇭🇷" },
                   { iso: "ro_RO", locale: "romanian", name: "Română", emoji: "🇷🇴" },
                   { iso: "et_EE", locale: "estonian", name: "Eesti", emoji: "🇪🇪" },
-                  { iso: "fi_FI", locale: "finnish", name: "Suomi", emoji: "🇫🇮" }];
+                  { iso: "fi_FI", locale: "finnish", name: "Suomi", emoji: "🇫🇮" },
+                  { iso: "hu_HU", locale: "hungarian", name: "Magyar", emoji: "🇭🇺" }];
 
 export default locales;
