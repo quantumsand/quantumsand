@@ -298,6 +298,7 @@ class QuantumsandLive
     # TODO: LMMS
     # TODO: Kdenlive; KDE Non-Linear Video Editor
     # TODO: GParted
+    # TODO: OpenChemistry/avogadrolibs; 3D rendering, visualization, analysis and data processing
   end
 end
 
