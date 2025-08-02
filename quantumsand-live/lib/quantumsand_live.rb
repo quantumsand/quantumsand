@@ -299,6 +299,9 @@ class QuantumsandLive
     # TODO: Kdenlive; KDE Non-Linear Video Editor
     # TODO: GParted
     # TODO: OpenChemistry/avogadrolibs; 3D rendering, visualization, analysis and data processing
+    # TODO: OpenChemistry/tomviz; processing, visualization, and analysis of 3D tomography data
+    # TODO: OpenChemistry/molequeue; Desktop integration of high performance computing resources
+    # TODO: OpenChemistry/chemicaljson; Chemical JSON data representation
   end
 end
 
