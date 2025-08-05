@@ -302,6 +302,7 @@ class QuantumsandLive
     # TODO: OpenChemistry/tomviz; processing, visualization, and analysis of 3D tomography data
     # TODO: OpenChemistry/molequeue; Desktop integration of high performance computing resources
     # TODO: OpenChemistry/chemicaljson; Chemical JSON data representation
+    # TODO: Summa-Cogni/Mathpad; A mathematical keypad for students and professionals
   end
 end
 
