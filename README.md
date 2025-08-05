@@ -101,6 +101,9 @@ Hardware ideas (ideally Linux SBCs which are 100GBP or less);
 
 Note: The only blocker at present, is reliable Gentoo Linux support. The NVIDIA Jetson Orin Nano is a favourite but Gentoo Linux is an unknown.
 
+Mathpad support is planned...
+
+![Mathpad](img/Mathpad.jpg)
 
 ## Interfaith collaboration
 
