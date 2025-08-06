@@ -303,6 +303,7 @@ class QuantumsandLive
     # TODO: OpenChemistry/molequeue; Desktop integration of high performance computing resources
     # TODO: OpenChemistry/chemicaljson; Chemical JSON data representation
     # TODO: Summa-Cogni/Mathpad; A mathematical keypad for students and professionals
+    # TODO: enactic/openarm; A fully open-source humanoid arm for physical AI research and deployment
   end
 end
 
