@@ -23,6 +23,21 @@ export default function Grains() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
+          aria-controls="ai-assistant-content"
+          id="ai-assistant-header"
+        >
+          <Typography component="span">AI Assistant</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography>
+            Automatically sync audio narrative with subtitles.
+            More to follow...
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
           aria-controls="adverts-content"
           id="adverts-header"
         >
