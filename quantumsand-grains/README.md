@@ -2,6 +2,10 @@
 
 A RubyGem for defining the interactions within Quantum Sand.
 
+Additionally, AI Assistant support is added for tasks such as automatically syncing the audio narrative with subtitles. This allows chronological triggers against the narrative timeline.
+
+Other AI Assistant functions are planned.
+
 Individual lessons, talks and presentations are defined as grains.
 
 The file format is JSON.
