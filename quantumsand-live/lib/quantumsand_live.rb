@@ -199,6 +199,7 @@ class QuantumsandLive
     # TODO: maplibre martin
     # TODO: QGIS
     # TODO: CoMaps; a community-led fork of Organic Maps
+    # TODO: hyperknot/openfreemap; Free and open-source map hosting solution
     # TODO: rustup
     # TODO: Blender
     # TODO: DeepSeek
