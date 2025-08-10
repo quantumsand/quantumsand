@@ -62,7 +62,7 @@
   text-align: center;
   padding: 10px 0;
   color: whitesmoke;
-  text-shadow: #fc0 1px 0 10px;
+  text-shadow: #000 1px 0 10px;
 }
 
 .ribbon__barContextTime {
