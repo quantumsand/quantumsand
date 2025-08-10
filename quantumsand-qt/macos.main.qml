@@ -786,9 +786,11 @@ ApplicationWindow {
                 anchors.fill: parent
                 opacity: 1.0
                 z: 2001
-                url: Global.quantumsandEndpoint + "/loading"
+                //url: Global.quantumsandEndpoint + "/loading"
+                url: Global.quantumsandEndpoint + "/slides-secondary"
                 visible: win.showTopOverlay
                 settings.accelerated2dCanvasEnabled: true
+                settings.playbackRequiresUserGesture: false
                 settings.webGLEnabled: true
                 enabled: false
 
