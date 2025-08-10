@@ -208,6 +208,7 @@ class QuantumsandLive
     # TODO: MiniMax-M1
     # TODO: comfyanonymous/ComfyUI
     # TODO: Comfy-Org/workflow_templates
+    # TODO: Comfy-Org/comfy-cli
     # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: Wan-Video/Wan2.2; Wan: Open and Advanced Large-Scale Video Generative Models
     # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
