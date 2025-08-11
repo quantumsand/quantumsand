@@ -614,7 +614,7 @@ ApplicationWindow {
                 anchors.left: parent.left
                 anchors.margins: 10
                 color: "transparent"
-                z: 1001
+                z: 2002
 
                 Rectangle {
                     anchors.fill: parent
@@ -652,7 +652,7 @@ ApplicationWindow {
                 anchors.leftMargin: 10
                 anchors.rightMargin: 10
                 color: "transparent"
-                z: 1001
+                z: 2002
 
                 WebEngineView {
                     //enabled: false
@@ -706,7 +706,7 @@ ApplicationWindow {
                 height: 180
                 width: 180
                 color: "transparent"
-                z: 1001
+                z: 2002
 
                 WebEngineView {
                     anchors.fill: parent
@@ -731,7 +731,7 @@ ApplicationWindow {
                 anchors.right: qr_code.left
                 anchors.margins: 10
                 color: "transparent"
-                z: 1001
+                z: 2002
 
                 Rectangle {
                     id: tvcontrols
