@@ -213,6 +213,7 @@ class QuantumsandLive
     # TODO: Wan-Video/Wan2.2; Wan: Open and Advanced Large-Scale Video Generative Models
     # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
     # TODO: collabora/gst-python-ml; Python-powered ML analytics for GStreamer pipelines
+    # TODO: NVIDIA Linux driver
     # TODO: CUDA
     # TODO: ROCm
     # TODO: PyTorch
