@@ -171,6 +171,7 @@ class QuantumsandLive
     # TODO: sys-fs/btrfs-progs
     # TODO: linuxwacom/wacom-hid-descriptors
     # TODO: google/oss-rebuild; Google ❤️ Open Source
+    # TODO: Google Sans Code
     # TODO: emerge --ask www-apps/gitea
     # TODO: Caddy
     # TODO: sys-devel/distcc
