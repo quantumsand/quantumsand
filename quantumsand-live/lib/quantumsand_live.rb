@@ -222,6 +222,7 @@ class QuantumsandLive
     # TODO: MONAI; PyTorch-based, open-source framework for deep learning in healthcare imaging
     # TODO; Evidently AI monitoring
     # TODO: a2aproject/A2A; open protocol enabling communication and interoperability between opaque agentic applications
+    # TODO: nvidia/Llama-Nemotron-VLM-Dataset-v1; a 3-million-sample dataset for OCR, visual question answering, and captioning tasks
     # TODO: scm_breeze
     # TODO: VSCodium
     # TODO: Docker; Snippet; /etc/kernel/config.d/docker-linux6-11-10.config
