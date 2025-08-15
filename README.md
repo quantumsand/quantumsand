@@ -26,6 +26,16 @@ This reflects a deep fascination with Chinese and Japanese storytelling and artw
 
 Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue have left an impression that has lasted for decades.
 
+## Story examples
+
+* [Quantum Mechanics](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0003.quantum-mechanics/0001.introduction-to-quantum-mechanics.md)
+
+* [Coding](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0004.coding/0001.introduction-to-coding.md)
+
+* [Artificial Intelligence](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0002.artificial-intelligence/0001.introduction-to-artificial-intelligence.md)
+
+* [Mathematics](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0005.mathematics/0001.introduction-to-mathematics.md)
+
 ## Live USB stick; STEM programme for Women and Girls
 
 Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of various religions. This will turn into the Quantum Sand STEM programme for Women and Girls.
