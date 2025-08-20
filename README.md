@@ -28,15 +28,15 @@ Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue
 
 ## Story examples
 
-* [Quantum Mechanics](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0003.quantum-mechanics/0001.introduction-to-quantum-mechanics.md)
+* [Quantum Mechanics](quantumsand-story/0003.quantum-mechanics/0001.introduction-to-quantum-mechanics.md)
 
-* [Coding](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0004.coding/0001.introduction-to-coding.md)
+* [Coding](quantumsand-story/0004.coding/0001.introduction-to-coding.md)
 
-* [Artificial Intelligence](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0002.artificial-intelligence/0001.introduction-to-artificial-intelligence.md)
+* [Artificial Intelligence](quantumsand-story/0002.artificial-intelligence/0001.introduction-to-artificial-intelligence.md)
 
-* [Mathematics](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0005.mathematics/0001.introduction-to-mathematics.md)
+* [Mathematics](quantumsand-story/0005.mathematics/0001.introduction-to-mathematics.md)
 
-* [Cybersecurity](https://github.com/quantumsand/quantumsand/blob/main/quantumsand-story/0006.cybersecurity/0001.introduction-to-cybersecurity.md)
+* [Cybersecurity](quantumsand-story/0006.cybersecurity/0001.introduction-to-cybersecurity.md)
 
 ## Live USB stick; STEM programme for Women and Girls
 
