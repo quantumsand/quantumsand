@@ -38,6 +38,8 @@ Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue
 
 * [Cybersecurity](quantumsand-story/0006.cybersecurity/0001.introduction-to-cybersecurity.md)
 
+* [Semiconductors](quantumsand-story/0007.semiconductors/0001.introduction-to-semiconductors.md)
+
 ## Live USB stick; STEM programme for Women and Girls
 
 Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of various religions. This will turn into the Quantum Sand STEM programme for Women and Girls.
