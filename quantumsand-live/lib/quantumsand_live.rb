@@ -314,6 +314,7 @@ class QuantumsandLive
     # TODO: Summa-Cogni/Mathpad; A mathematical keypad for students and professionals
     # TODO: enactic/openarm; A fully open-source humanoid arm for physical AI research and deployment
     # TODO: OpenSSH Post-Quantum Cryptography; sntrup761x25519-sha512 and mlkem768x25519-sha256
+    # TODO: ComposersDesktop/CDP8
   end
 end
 
