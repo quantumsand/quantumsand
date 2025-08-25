@@ -317,6 +317,7 @@ class QuantumsandLive
     # TODO: enactic/openarm; A fully open-source humanoid arm for physical AI research and deployment
     # TODO: OpenSSH Post-Quantum Cryptography; sntrup761x25519-sha512 and mlkem768x25519-sha256
     # TODO: ComposersDesktop/CDP8
+    # TODO: rdkit/rdkit; a collection of cheminformatics and machine-learning software written in C++ and Python
   end
 end
 
