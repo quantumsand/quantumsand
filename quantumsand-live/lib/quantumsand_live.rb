@@ -204,6 +204,7 @@ class QuantumsandLive
     # TODO: hyperknot/openfreemap; Free and open-source map hosting solution
     # TODO: rustup
     # TODO: Blender
+    # TODO: sgl-project/sglang; fast serving framework for large language models and vision language models
     # TODO: DeepSeek
     # TODO: Fire-Flyer File System (3FS)
     # TODO: MiniMax-M1
