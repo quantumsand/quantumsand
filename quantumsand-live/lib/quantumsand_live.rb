@@ -212,6 +212,7 @@ class QuantumsandLive
     # TODO: Comfy-Org/workflow_templates
     # TODO: Comfy-Org/comfy-cli
     # TODO: nvidia/parakeet-tdt-0.6b-v2
+    # TODO: xai-org/grok-2
     # TODO: Wan-Video/Wan2.2; Wan: Open and Advanced Large-Scale Video Generative Models
     # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
     # TODO: collabora/gst-python-ml; Python-powered ML analytics for GStreamer pipelines
