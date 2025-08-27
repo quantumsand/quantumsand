@@ -214,6 +214,9 @@ class QuantumsandLive
     # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: xai-org/grok-2
     # TODO: Wan-Video/Wan2.2; Wan: Open and Advanced Large-Scale Video Generative Models
+    # TODO: NASA-IMPACT/Surya; Implementation of the Surya Foundation Model and Downstream Tasks for Heliophysics
+    # TODO: nasa-ibm-ai4science/Surya-1.0; The first open-source AI foundation model for heliophysics
+    # TODO: nasa-ibm-ai4science/SDO_training; This dataset provides machine learning (ML)-ready solar data curated from NASA’s Solar Dynamics Observatory
     # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
     # TODO: collabora/gst-python-ml; Python-powered ML analytics for GStreamer pipelines
     # TODO: NVIDIA Linux driver
