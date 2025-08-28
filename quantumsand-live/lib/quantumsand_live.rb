@@ -225,6 +225,7 @@ class QuantumsandLive
     # TODO: PyTorch
     # TODO: tch-rs; Rust bindings for the C++ api of PyTorch
     # TODO: MONAI; PyTorch-based, open-source framework for deep learning in healthcare imaging
+    # TODO: luminal-ai/luminal; Deep learning at the speed of light
     # TODO; Evidently AI monitoring
     # TODO: a2aproject/A2A; open protocol enabling communication and interoperability between opaque agentic applications
     # TODO: nvidia/Llama-Nemotron-VLM-Dataset-v1; a 3-million-sample dataset for OCR, visual question answering, and captioning tasks
