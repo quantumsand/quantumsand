@@ -236,6 +236,7 @@ class QuantumsandLive
     # TODO: scm_breeze
     # TODO: VSCodium
     # TODO: Docker; Snippet; /etc/kernel/config.d/docker-linux6-11-10.config
+    # TODO: Docker Compose; app-containers/docker-compose
     # TODO: goharbor/harbor; open source trusted cloud native registry project that stores, signs, and scans content
     # TODO: Krita
     # TODO: GIMP
