@@ -328,6 +328,9 @@ class QuantumsandLive
     # TODO: OpenSSH Post-Quantum Cryptography; sntrup761x25519-sha512 and mlkem768x25519-sha256
     # TODO: ComposersDesktop/CDP8
     # TODO: rdkit/rdkit; a collection of cheminformatics and machine-learning software written in C++ and Python
+    # TODO: sys-fs/dosfstools; FAT userspace utilities
+    # TODO: sys-fs/exfatprogs; exFAT file system
+    # TODO: sys-fs/diskdev_cmds; a port of HFS/HFS+ utilities from OpenDarwin
   end
 end
 
