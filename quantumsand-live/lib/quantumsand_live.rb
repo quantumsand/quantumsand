@@ -123,6 +123,7 @@ class QuantumsandLive
       "linuxwacom/wacom-hid-descriptors",
       "google/oss-rebuild",
       "googlefonts/googlesans-code",
+      "googlefonts/noto-emoji",
       "caddyserver/caddy",
       "jdx/mise",
       "valkey-io/valkey"
