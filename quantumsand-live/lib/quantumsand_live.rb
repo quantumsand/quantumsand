@@ -127,7 +127,8 @@ class QuantumsandLive
       "caddyserver/caddy",
       "jdx/mise",
       "valkey-io/valkey",
-      "torchgeo/torchgeo"
+      "torchgeo/torchgeo",
+      "citusdata/citus"
     ]
 
     git_repos_osgeo = [
