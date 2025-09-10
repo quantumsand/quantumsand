@@ -129,11 +129,16 @@ class QuantumsandLive
       "valkey-io/valkey"
     ]
 
+    git_repos_osgeo = [
+      "postgis/postgis"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
       "sys-devel/distcc",
-      "app-emulation/qemu"
+      "app-emulation/qemu",
+      "dev-db/postgis"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
