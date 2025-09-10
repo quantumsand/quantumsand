@@ -126,7 +126,8 @@ class QuantumsandLive
       "googlefonts/noto-emoji",
       "caddyserver/caddy",
       "jdx/mise",
-      "valkey-io/valkey"
+      "valkey-io/valkey",
+      "torchgeo/torchgeo"
     ]
 
     git_repos_osgeo = [
@@ -355,6 +356,7 @@ class QuantumsandLive
     # TODO: sys-fs/diskdev_cmds; a port of HFS/HFS+ utilities from OpenDarwin
     # TODO: uutils/coreutils; Cross-platform Rust rewrite of the GNU coreutils
     # TODO: huggingface/huggingface_hub; official Python client for the Huggingface Hub
+    # TODO: torchgeo/torchgeo; TorchGeo is a PyTorch domain library
   end
 end
 
