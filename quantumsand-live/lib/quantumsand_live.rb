@@ -124,7 +124,8 @@ class QuantumsandLive
       "google/oss-rebuild",
       "googlefonts/googlesans-code",
       "caddyserver/caddy",
-      "jdx/mise"
+      "jdx/mise",
+      "valkey-io/valkey"
     ]
 
     gentoo_emerge_packages = [
