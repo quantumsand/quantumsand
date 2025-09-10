@@ -129,7 +129,8 @@ class QuantumsandLive
 
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
-      "www-apps/gitea"
+      "www-apps/gitea",
+      "sys-devel/distcc"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
