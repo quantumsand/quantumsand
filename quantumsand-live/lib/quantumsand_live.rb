@@ -128,7 +128,8 @@ class QuantumsandLive
       "jdx/mise",
       "valkey-io/valkey",
       "torchgeo/torchgeo",
-      "citusdata/citus"
+      "citusdata/citus",
+      "OSGeo/gdal"
     ]
 
     git_repos_osgeo = [
@@ -140,7 +141,8 @@ class QuantumsandLive
       "www-apps/gitea",
       "sys-devel/distcc",
       "app-emulation/qemu",
-      "dev-db/postgis"
+      "dev-db/postgis",
+      "sci-libs/gdal"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
@@ -206,6 +208,7 @@ class QuantumsandLive
     # TODO: PostgreSQL
     # TODO: POSTGRES_MULTIPLE_EXTENSIONS=postgis,hstore,postgis_topology,postgis_raster,pgrouting,h3,h3_postgis
     # TODO: PostGIS
+    # TODO: sci-libs/gdal
     # TODO: citusdata/citus
     # TODO: pgRouting; Routing on PostgreSQL
     # TODO: H3: A Hexagonal Hierarchical Geospatial Indexing System
