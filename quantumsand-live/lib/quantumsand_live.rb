@@ -130,7 +130,8 @@ class QuantumsandLive
       "torchgeo/torchgeo",
       "citusdata/citus",
       "OSGeo/gdal",
-      "n0-computer/iroh"
+      "n0-computer/iroh",
+      "PyO3/pyo3"
     ]
 
     git_repos_osgeo = [
@@ -363,6 +364,7 @@ class QuantumsandLive
     # TODO: huggingface/huggingface_hub; official Python client for the Huggingface Hub
     # TODO: torchgeo/torchgeo; TorchGeo is a PyTorch domain library
     # TODO: n0-computer/iroh
+    # TODO: PyO3/pyo3
   end
 end
 
