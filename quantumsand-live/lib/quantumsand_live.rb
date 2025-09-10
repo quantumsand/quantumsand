@@ -131,6 +131,7 @@ class QuantumsandLive
       "citusdata/citus",
       "OSGeo/gdal",
       "n0-computer/iroh",
+      "tipragot/godot-iroh",
       "PyO3/pyo3"
     ]
 
@@ -365,6 +366,7 @@ class QuantumsandLive
     # TODO: torchgeo/torchgeo; TorchGeo is a PyTorch domain library
     # TODO: n0-computer/iroh
     # TODO: PyO3/pyo3
+    # TODO: tipragot/godot-iroh; peer-to-peer multiplayer extension for Godot based on Iroh
   end
 end
 
