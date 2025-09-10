@@ -122,7 +122,14 @@ class QuantumsandLive
     git_repos_github = [
       "linuxwacom/wacom-hid-descriptors",
       "google/oss-rebuild",
-      "googlefonts/googlesans-code"
+      "googlefonts/googlesans-code",
+      "caddyserver/caddy",
+      "jdx/mise"
+    ]
+
+    gentoo_emerge_packages = [
+      "sys-fs/btrfs-progs",
+      "www-apps/gitea"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
@@ -181,7 +188,7 @@ class QuantumsandLive
     # TODO: emerge --ask www-apps/gitea
     # TODO: Caddy
     # TODO: sys-devel/distcc
-    # TODO: rvm install; \curl -sSL https://get.rvm.io | bash -s -- --autolibs=read-fail
+    # TODO: jdx/mise; dev tools, env vars, task runner
     # TODO: QEMU
     # TODO: Valkey
     # TODO: Noto Color Emoji
