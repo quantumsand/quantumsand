@@ -119,6 +119,12 @@ class QuantumsandLive
     gentoo_l10n = %Q("*")
     puts "Gentoo all available locales are built and installed: L10N=#{gentoo_l10n}"
 
+    git_repos_github = [
+      "linuxwacom/wacom-hid-descriptors",
+      "google/oss-rebuild",
+      "googlefonts/googlesans-code"
+    ]
+
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
