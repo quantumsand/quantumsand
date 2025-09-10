@@ -206,7 +206,7 @@ class QuantumsandLive
     # TODO: Valkey
     # TODO: Noto Color Emoji
     # TODO: PostgreSQL
-    # TODO: POSTGRES_MULTIPLE_EXTENSIONS=postgis,hstore,postgis_topology,postgis_raster,pgrouting,h3,h3_postgis
+    # TODO: POSTGRES_MULTIPLE_EXTENSIONS=postgis,hstore,postgis_topology,postgis_raster,pgrouting,h3,h3_postgis,ogr_fdw
     # TODO: PostGIS
     # TODO: sci-libs/gdal
     # TODO: citusdata/citus
