@@ -129,7 +129,8 @@ class QuantumsandLive
       "valkey-io/valkey",
       "torchgeo/torchgeo",
       "citusdata/citus",
-      "OSGeo/gdal"
+      "OSGeo/gdal",
+      "n0-computer/iroh"
     ]
 
     git_repos_osgeo = [
@@ -361,6 +362,7 @@ class QuantumsandLive
     # TODO: uutils/coreutils; Cross-platform Rust rewrite of the GNU coreutils
     # TODO: huggingface/huggingface_hub; official Python client for the Huggingface Hub
     # TODO: torchgeo/torchgeo; TorchGeo is a PyTorch domain library
+    # TODO: n0-computer/iroh
   end
 end
 
