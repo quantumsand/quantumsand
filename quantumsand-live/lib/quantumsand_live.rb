@@ -132,7 +132,8 @@ class QuantumsandLive
       "OSGeo/gdal",
       "n0-computer/iroh",
       "tipragot/godot-iroh",
-      "PyO3/pyo3"
+      "PyO3/pyo3",
+      "OpenPrinting/cups"
     ]
 
     git_repos_osgeo = [
@@ -145,7 +146,8 @@ class QuantumsandLive
       "sys-devel/distcc",
       "app-emulation/qemu",
       "dev-db/postgis",
-      "sci-libs/gdal"
+      "sci-libs/gdal",
+      "net-print/cups"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
