@@ -17,7 +17,7 @@ export default function ChatBody({ chats, wallpaper }) {
 
   function MyEmojiRenderer({ children, ...rest }) {
     const options = {
-      baseUrl: "/images/emoji/twemoji/",
+      baseUrl: "/emoji/twemoji/",
       size: "",
       protocol: "",
       ext: "svg",

@@ -8,7 +8,7 @@ export default function Chat({rooms = [
     id: 1,
     roomName: "Natalia",
     lastMessage: "Yusuf sent a voice note",
-    avatar: "/images/locale/russian.jpg",
+    avatar: "/locale/russian.jpg",
     receiver: true,
     read: false
   },
@@ -16,7 +16,7 @@ export default function Chat({rooms = [
     id: 2,
     roomName: "Safiyyah",
     lastMessage: "Please get some coffee",
-    avatar: "/images/locale/french.jpg",
+    avatar: "/locale/french.jpg",
     receiver: false,
     read: true
   },
@@ -24,14 +24,14 @@ export default function Chat({rooms = [
     id: 3,
     roomName: "Akio",
     lastMessage: "Are you coming to the dojo today?",
-    avatar: "/images/locale/japanese.jpg",
+    avatar: "/locale/japanese.jpg",
     receiver: false,
     read: true
   }], chats = {
-  avatar: "/images/locale/russian.jpg",
+  avatar: "/locale/russian.jpg",
   channelName: "Natalia",
   lastSeen: "3:52pm",
-  wallpaper: "/images/wallpaper/snow.jpg",
+  wallpaper: "/wallpaper/snow.jpg",
   messages: [{
     id: 1,
     receiver: false,
@@ -165,7 +165,7 @@ export default function Chat({rooms = [
     },
     timestamp: "3:55pm",
     read: false
-  }]}, avatar = "/images/locale/english.jpg"}) {
+  }]}, avatar = "/locale/english.jpg"}) {
   return (
     <div className="chat">
       <ChatSidebar rooms={rooms} avatar={avatar} />
