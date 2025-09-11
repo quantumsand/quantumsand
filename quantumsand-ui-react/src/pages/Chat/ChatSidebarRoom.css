@@ -1,0 +1,36 @@
+.chat__sidebarRoom {
+  font-family: "Noto Sans";
+  display: flex;
+  padding: 20px;
+  cursor: pointer;
+  border-bottom: 1px solid #f6f6f6;
+}
+
+.chat__sidebarRoom:hover{
+  background-color: #ebebeb;
+}
+
+.chat__sidebarRoomInfo  > h2 {
+  font-size: 16px !important; /* bootstrap fixes */
+  font-weight: bolder; /* bootstrap fixes */
+  margin-bottom: 8px;
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: calc(90%);
+}
+
+.chat__sidebarRoomInfo {
+  margin-left: 15px;
+}
+
+.chat__sidebarRoomInfo > p {
+  font-size: 14px !important; /* bootstrap fixes */
+  display: inline-block;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: calc(90%);
+  text-align: left;
+}

@@ -29,6 +29,7 @@ import Loading from "./pages/Loading/Loading";
 import VirtualGlobe from "./pages/VirtualGlobe/VirtualGlobe";
 import WordCloud from "./pages/WordCloud/WordCloud";
 import Charts from "./pages/Charts/Charts";
+import Chat from "./pages/Chat/Chat";
 
 const mathsSlides = [
     {
@@ -83,6 +84,7 @@ function App() {
           <Route path="collaborate" element={<Collaborate />} />
           <Route path="audio" element={<AudioPlayer/>} />       
           <Route path="chirp" element={<Chirp />} />
+          <Route path="chat" element={<Chat /> } />
           <Route path="video-narrative" element={<Video />} />
           <Route path="av" element={<AV />} />
           <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
