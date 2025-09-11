@@ -12,9 +12,10 @@ export default function ChatSidebarRoom({ roomName, lastMessage, receiver, read,
       <div className="chat__sidebarRoomInfo">
         <h2>{roomName}</h2>
         <p>
-          {/* {receiver && <span className='chat__chatBodyRead'><CheckIcon style={{color: `${read ? '#53bdeb' : 'grey' }`  }} />
-          <img src={read ? SemiCheckIconReceipt : SemiCheckIconNoReceipt} style={{marginLeft: "-12px", color: `${read ? '#53bdeb' : 'grey' }`  }}/></span>}
-          {lastMessage} */}
+           {/* {receiver && <span className='chat__chatBodyRead'><CheckIcon style={{color: `${read ? '#53bdeb' : 'grey' }`  }} />
+          <img src={read ? SemiCheckIconReceipt : SemiCheckIconNoReceipt} style={{marginLeft: "-12px", color: `${read ? '#53bdeb' : 'grey' }`  }}/></span>} */}
+
+          {lastMessage}
         </p>
       </div>
     </div>
