@@ -4,31 +4,30 @@ import ChatFeed from './ChatFeed';
 import './Chat.css';
 
 export default function Chat({rooms = [
-    {
-      id: 1,
-      roomName: "Natalia",
-      lastMessage: "Yusuf sent a voice note",
-      avatar: "/images/locale/russian.jpg",
-      receiver: true,
-      read: false
-    },
-    {
-      id: 2,
-      roomName: "Safiyyah",
-      lastMessage: "Please get some coffee",
-      avatar: "/images/locale/french.jpg",
-      receiver: false,
-      read: true
-    },
-    {
-      id: 3,
-      roomName: "Akio",
-      lastMessage: "Are you coming to the dojo today?",
-      avatar: "/images/locale/japanese.jpg",
-      receiver: false,
-      read: true
-    }
-  ], chats = {
+  {
+    id: 1,
+    roomName: "Natalia",
+    lastMessage: "Yusuf sent a voice note",
+    avatar: "/images/locale/russian.jpg",
+    receiver: true,
+    read: false
+  },
+  {
+    id: 2,
+    roomName: "Safiyyah",
+    lastMessage: "Please get some coffee",
+    avatar: "/images/locale/french.jpg",
+    receiver: false,
+    read: true
+  },
+  {
+    id: 3,
+    roomName: "Akio",
+    lastMessage: "Are you coming to the dojo today?",
+    avatar: "/images/locale/japanese.jpg",
+    receiver: false,
+    read: true
+  }], chats = {
   avatar: "/images/locale/russian.jpg",
   channelName: "Natalia",
   lastSeen: "3:52pm",
