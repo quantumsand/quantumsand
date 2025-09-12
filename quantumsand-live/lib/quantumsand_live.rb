@@ -135,7 +135,8 @@ class QuantumsandLive
       "PyO3/pyo3",
       "OpenPrinting/cups",
       "fish-shell/fish-shell",
-      "pgRouting/pgrouting"
+      "pgRouting/pgrouting",
+      "uber/h3"
     ]
 
     git_repos_osgeo = [
