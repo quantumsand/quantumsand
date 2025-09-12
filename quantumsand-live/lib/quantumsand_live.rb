@@ -138,7 +138,8 @@ class QuantumsandLive
       "pgRouting/pgrouting",
       "uber/h3",
       "postgresml/postgresml",
-      "postgresml/pgcat"
+      "postgresml/pgcat",
+      "jupyter/jupyter"
     ]
 
     git_repos_osgeo = [
@@ -154,7 +155,8 @@ class QuantumsandLive
       "sci-libs/gdal",
       "net-print/cups",
       "app-shells/fish",
-      "dev-db/pgrouting"
+      "dev-db/pgrouting",
+      "dev-python/jupyter"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
