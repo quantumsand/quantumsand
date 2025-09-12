@@ -296,7 +296,7 @@ class QuantumsandLive
     # TODO: Customised Qt6 + Quantum Sand + OpenTelemetry + MapLibre GL JS
     # TODO: Godot Engine
     # TODO: Bevy Engine
-    # TODO: Jupyter
+    # TODO: Jupyter + NumPy + pandas + scikit-learn
     # TODO: LibreOffice
     # TODO: Fail2Ban
     # TODO: tcpdump
