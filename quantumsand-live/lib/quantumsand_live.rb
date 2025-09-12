@@ -139,7 +139,8 @@ class QuantumsandLive
       "uber/h3",
       "postgresml/postgresml",
       "postgresml/pgcat",
-      "jupyter/jupyter"
+      "jupyter/jupyter",
+      "pydicom/pydicom"
     ]
 
     git_repos_osgeo = [
