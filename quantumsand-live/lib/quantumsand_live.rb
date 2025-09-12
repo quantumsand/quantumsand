@@ -133,7 +133,8 @@ class QuantumsandLive
       "n0-computer/iroh",
       "tipragot/godot-iroh",
       "PyO3/pyo3",
-      "OpenPrinting/cups"
+      "OpenPrinting/cups",
+      "fish-shell/fish-shell"
     ]
 
     git_repos_osgeo = [
@@ -147,7 +148,8 @@ class QuantumsandLive
       "app-emulation/qemu",
       "dev-db/postgis",
       "sci-libs/gdal",
-      "net-print/cups"
+      "net-print/cups",
+      "app-shells/fish"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
@@ -369,6 +371,7 @@ class QuantumsandLive
     # TODO: n0-computer/iroh
     # TODO: PyO3/pyo3
     # TODO: tipragot/godot-iroh; peer-to-peer multiplayer extension for Godot based on Iroh
+    # TODO: app-shells/fish
   end
 end
 
