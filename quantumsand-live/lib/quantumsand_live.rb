@@ -137,7 +137,8 @@ class QuantumsandLive
       "fish-shell/fish-shell",
       "pgRouting/pgrouting",
       "uber/h3",
-      "postgresml/postgresml"
+      "postgresml/postgresml",
+      "postgresml/pgcat"
     ]
 
     git_repos_osgeo = [
