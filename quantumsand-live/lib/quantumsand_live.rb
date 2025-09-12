@@ -146,6 +146,10 @@ class QuantumsandLive
       "postgis/postgis"
     ]
 
+    git_repos_codeberg = [
+      "uzu/strudel"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
@@ -379,6 +383,7 @@ class QuantumsandLive
     # TODO: PyO3/pyo3
     # TODO: tipragot/godot-iroh; peer-to-peer multiplayer extension for Godot based on Iroh
     # TODO: app-shells/fish
+    # TODO: uzu/strudel
   end
 end
 
