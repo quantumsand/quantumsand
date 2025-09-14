@@ -140,7 +140,8 @@ class QuantumsandLive
       "postgresml/postgresml",
       "postgresml/pgcat",
       "jupyter/jupyter",
-      "pydicom/pydicom"
+      "pydicom/pydicom",
+      "fsvm88/cosmic-overlay"
     ]
 
     git_repos_osgeo = [
@@ -163,6 +164,10 @@ class QuantumsandLive
       "dev-db/pgrouting",
       "dev-python/jupyter"
     ]
+
+    eselect_repository_add = {
+      cosmic_overlay: "https://github.com/fsvm88/cosmic-overlay.git"
+    }
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
