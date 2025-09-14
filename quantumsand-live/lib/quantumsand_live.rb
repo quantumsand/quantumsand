@@ -244,6 +244,7 @@ class QuantumsandLive
     # TODO: pgcat
     # TODO: KDE; kde-plasma/plasma-meta
     # TODO: GNOME; emerge gnome-base/gnome
+    # TODO: COSMIC; via a custom overlay
     # TODO: LimeSuite
     # TODO: GNU Radio
     # TODO: Gqrx
