@@ -169,6 +169,10 @@ class QuantumsandLive
       cosmic_overlay: "https://github.com/fsvm88/cosmic-overlay.git"
     }
 
+    custom_overlay_emerge = [
+      "cosmic-meta pop-theme-meta"
+    ]
+
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
