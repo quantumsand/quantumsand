@@ -141,7 +141,8 @@ class QuantumsandLive
       "postgresml/pgcat",
       "jupyter/jupyter",
       "pydicom/pydicom",
-      "fsvm88/cosmic-overlay"
+      "fsvm88/cosmic-overlay",
+      "CelestiaProject/Celestia"
     ]
 
     git_repos_osgeo = [
@@ -397,6 +398,7 @@ class QuantumsandLive
     # TODO: tipragot/godot-iroh; peer-to-peer multiplayer extension for Godot based on Iroh
     # TODO: app-shells/fish
     # TODO: uzu/strudel
+    # TODO: Celestia
   end
 end
 
