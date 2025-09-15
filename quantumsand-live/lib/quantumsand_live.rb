@@ -153,6 +153,10 @@ class QuantumsandLive
       "uzu/strudel"
     ]
 
+    git_repos_kde_invent = [
+      "sdk/kdesrc-build"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
@@ -174,6 +178,9 @@ class QuantumsandLive
     custom_overlay_emerge = [
       "cosmic-meta pop-theme-meta"
     ]
+
+    # TODO: Create KDE deps directory and install kdesrc-build there
+    kde_deps_fetch_command = "kdesrc-build --metadata-only"
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
