@@ -157,6 +157,10 @@ class QuantumsandLive
       "sdk/kdesrc-build"
     ]
 
+    git_repos_projects_blender = [
+      "blender/blender"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
