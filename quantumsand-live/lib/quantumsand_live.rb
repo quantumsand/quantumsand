@@ -168,7 +168,8 @@ class QuantumsandLive
       "app-shells/fish",
       "dev-db/pgrouting",
       "dev-python/jupyter",
-      "kde-plasma/plasma-meta"
+      "kde-plasma/plasma-meta",
+      "gnome-base/gnome"
     ]
 
     eselect_repository_add = {
