@@ -163,7 +163,8 @@ class QuantumsandLive
       "net-print/cups",
       "app-shells/fish",
       "dev-db/pgrouting",
-      "dev-python/jupyter"
+      "dev-python/jupyter",
+      "kde-plasma/plasma-meta"
     ]
 
     eselect_repository_add = {
