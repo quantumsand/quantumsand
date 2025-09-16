@@ -142,7 +142,8 @@ class QuantumsandLive
       "jupyter/jupyter",
       "pydicom/pydicom",
       "fsvm88/cosmic-overlay",
-      "CelestiaProject/Celestia"
+      "CelestiaProject/Celestia",
+      "ROCm/TheRock"
     ]
 
     git_repos_osgeo = [
