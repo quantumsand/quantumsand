@@ -146,6 +146,11 @@ class QuantumsandLive
       "ROCm/TheRock"
     ]
 
+    git_repos_gitlab = [
+      "asus-linux/asusctl",
+      "asus-linux/supergfxctl"
+    ]
+
     git_repos_osgeo = [
       "postgis/postgis"
     ]
