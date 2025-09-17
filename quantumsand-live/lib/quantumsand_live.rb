@@ -143,7 +143,8 @@ class QuantumsandLive
       "pydicom/pydicom",
       "fsvm88/cosmic-overlay",
       "CelestiaProject/Celestia",
-      "ROCm/TheRock"
+      "ROCm/TheRock",
+      "triton-lang/triton"
     ]
 
     git_repos_gitlab = [
@@ -418,6 +419,7 @@ class QuantumsandLive
     # TODO: app-shells/fish
     # TODO: uzu/strudel
     # TODO: Celestia
+    # TODO: triton-lang/triton; Triton language and compiler
   end
 end
 
