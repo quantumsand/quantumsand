@@ -788,6 +788,7 @@ ApplicationWindow {
                 z: 2001
                 //url: Global.quantumsandEndpoint + "/loading"
                 url: Global.quantumsandEndpoint + "/slides-secondary"
+                // url: Global.quantumsandEndpoint + "/slides-thirdly" // test maths slide
                 visible: win.showTopOverlay
                 settings.accelerated2dCanvasEnabled: true
                 settings.playbackRequiresUserGesture: false
