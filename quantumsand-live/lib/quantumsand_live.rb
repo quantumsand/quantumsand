@@ -144,7 +144,8 @@ class QuantumsandLive
       "fsvm88/cosmic-overlay",
       "CelestiaProject/Celestia",
       "ROCm/TheRock",
-      "triton-lang/triton"
+      "triton-lang/triton",
+      "hhd-dev/hhd"
     ]
 
     git_repos_gitlab = [
@@ -420,6 +421,7 @@ class QuantumsandLive
     # TODO: uzu/strudel
     # TODO: Celestia
     # TODO: triton-lang/triton; Triton language and compiler
+    # TODO: Handheld Daemon; provides hardware enablement for Windows handhelds
   end
 end
 
