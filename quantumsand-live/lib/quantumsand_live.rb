@@ -146,7 +146,8 @@ class QuantumsandLive
       "ROCm/TheRock",
       "triton-lang/triton",
       "hhd-dev/hhd",
-      "numpy/x86-simd-sort"
+      "numpy/x86-simd-sort",
+      "numpy/numpy"
     ]
 
     git_repos_gitlab = [
