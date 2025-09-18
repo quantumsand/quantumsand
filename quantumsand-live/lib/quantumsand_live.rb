@@ -145,7 +145,8 @@ class QuantumsandLive
       "CelestiaProject/Celestia",
       "ROCm/TheRock",
       "triton-lang/triton",
-      "hhd-dev/hhd"
+      "hhd-dev/hhd",
+      "numpy/x86-simd-sort"
     ]
 
     git_repos_gitlab = [
@@ -422,6 +423,7 @@ class QuantumsandLive
     # TODO: Celestia
     # TODO: triton-lang/triton; Triton language and compiler
     # TODO: Handheld Daemon; provides hardware enablement for Windows handhelds
+    # TODO: x86-simd-sort; C++ template library for high performance SIMD based sorting algorithms
   end
 end
 
