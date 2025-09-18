@@ -155,6 +155,10 @@ class QuantumsandLive
       "asus-linux/supergfxctl"
     ]
 
+    git_repos_freedesktop_gitlab = [
+      "mesa/mesa"
+    ]
+
     git_repos_osgeo = [
       "postgis/postgis"
     ]
