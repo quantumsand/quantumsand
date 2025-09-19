@@ -148,7 +148,8 @@ class QuantumsandLive
       "hhd-dev/hhd",
       "numpy/x86-simd-sort",
       "numpy/numpy",
-      "osm2pgsql-dev/osm2pgsql"
+      "osm2pgsql-dev/osm2pgsql",
+      "sonic-pi-net/sonic-pi"
     ]
 
     git_repos_gitlab = [
@@ -430,6 +431,7 @@ class QuantumsandLive
     # TODO: triton-lang/triton; Triton language and compiler
     # TODO: Handheld Daemon; provides hardware enablement for Windows handhelds
     # TODO: x86-simd-sort; C++ template library for high performance SIMD based sorting algorithms
+    # TOOD: Sonic Pi; a new kind of musical instrument
   end
 end
 
