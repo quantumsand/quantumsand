@@ -147,7 +147,8 @@ class QuantumsandLive
       "triton-lang/triton",
       "hhd-dev/hhd",
       "numpy/x86-simd-sort",
-      "numpy/numpy"
+      "numpy/numpy",
+      "osm2pgsql-dev/osm2pgsql"
     ]
 
     git_repos_gitlab = [
