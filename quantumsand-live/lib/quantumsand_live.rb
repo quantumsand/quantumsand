@@ -150,7 +150,8 @@ class QuantumsandLive
       "numpy/numpy",
       "osm2pgsql-dev/osm2pgsql",
       "sonic-pi-net/sonic-pi",
-      "huggingface/xet-core"
+      "huggingface/xet-core",
+      "huggingface/huggingface_hub"
     ]
 
     git_repos_gitlab = [
