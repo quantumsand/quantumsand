@@ -149,7 +149,8 @@ class QuantumsandLive
       "numpy/x86-simd-sort",
       "numpy/numpy",
       "osm2pgsql-dev/osm2pgsql",
-      "sonic-pi-net/sonic-pi"
+      "sonic-pi-net/sonic-pi",
+      "huggingface/xet-core"
     ]
 
     git_repos_gitlab = [
