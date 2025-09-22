@@ -162,7 +162,8 @@ class QuantumsandLive
       "HaxeFoundation/haxelib",
       "HaxeFoundation/hx3compat",
       "HaxeFoundation/record-macros",
-      "HaxeFoundation/hx4compat"
+      "HaxeFoundation/hx4compat",
+      "HaxeFoundation/crypto"
     ]
 
     git_repos_gitlab = [
