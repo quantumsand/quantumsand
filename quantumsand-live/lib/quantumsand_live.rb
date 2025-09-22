@@ -152,7 +152,8 @@ class QuantumsandLive
       "sonic-pi-net/sonic-pi",
       "huggingface/xet-core",
       "huggingface/huggingface_hub",
-      "NVIDIA/nvmath-python"
+      "NVIDIA/nvmath-python",
+      "XTXMarkets/ternfs"
     ]
 
     git_repos_gitlab = [
@@ -436,6 +437,7 @@ class QuantumsandLive
     # TODO: x86-simd-sort; C++ template library for high performance SIMD based sorting algorithms
     # TODO: Sonic Pi; a new kind of musical instrument
     # TODO: NVIDIA Math Libraries for the Python Ecosystem
+    # TODO: ternfs
   end
 end
 
