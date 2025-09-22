@@ -175,6 +175,10 @@ class QuantumsandLive
       "mesa/mesa"
     ]
 
+    git_repos_kitware_gitlab = [
+      "cmake/cmake"
+    ]
+
     git_repos_osgeo = [
       "postgis/postgis"
     ]
