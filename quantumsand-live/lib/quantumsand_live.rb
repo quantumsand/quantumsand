@@ -159,7 +159,8 @@ class QuantumsandLive
       "HaxeFoundation/haxe",
       "nodejs/node",
       "deepnight/ldtk",
-      "HaxeFoundation/haxelib"
+      "HaxeFoundation/haxelib",
+      "HaxeFoundation/hx3compat"
     ]
 
     git_repos_gitlab = [
