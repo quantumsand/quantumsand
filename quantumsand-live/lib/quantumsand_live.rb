@@ -207,7 +207,8 @@ class QuantumsandLive
       "dev-db/pgrouting",
       "dev-python/jupyter",
       "kde-plasma/plasma-meta",
-      "gnome-base/gnome"
+      "gnome-base/gnome",
+      "dev-lang/haxe"
     ]
 
     eselect_repository_add = {
