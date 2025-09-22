@@ -151,7 +151,8 @@ class QuantumsandLive
       "osm2pgsql-dev/osm2pgsql",
       "sonic-pi-net/sonic-pi",
       "huggingface/xet-core",
-      "huggingface/huggingface_hub"
+      "huggingface/huggingface_hub",
+      "NVIDIA/nvmath-python"
     ]
 
     git_repos_gitlab = [
@@ -433,7 +434,8 @@ class QuantumsandLive
     # TODO: triton-lang/triton; Triton language and compiler
     # TODO: Handheld Daemon; provides hardware enablement for Windows handhelds
     # TODO: x86-simd-sort; C++ template library for high performance SIMD based sorting algorithms
-    # TOOD: Sonic Pi; a new kind of musical instrument
+    # TODO: Sonic Pi; a new kind of musical instrument
+    # TODO: NVIDIA Math Libraries for the Python Ecosystem
   end
 end
 
