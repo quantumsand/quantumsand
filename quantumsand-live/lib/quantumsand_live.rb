@@ -158,7 +158,8 @@ class QuantumsandLive
       "bevyengine/bevy",
       "HaxeFoundation/haxe",
       "nodejs/node",
-      "deepnight/ldtk"
+      "deepnight/ldtk",
+      "HaxeFoundation/haxelib"
     ]
 
     git_repos_gitlab = [
