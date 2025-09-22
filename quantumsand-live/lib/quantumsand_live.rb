@@ -161,7 +161,8 @@ class QuantumsandLive
       "deepnight/ldtk",
       "HaxeFoundation/haxelib",
       "HaxeFoundation/hx3compat",
-      "HaxeFoundation/record-macros"
+      "HaxeFoundation/record-macros",
+      "HaxeFoundation/hx4compat"
     ]
 
     git_repos_gitlab = [
