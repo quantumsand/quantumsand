@@ -154,7 +154,8 @@ class QuantumsandLive
       "huggingface/huggingface_hub",
       "NVIDIA/nvmath-python",
       "XTXMarkets/ternfs",
-      "godotengine/godot"
+      "godotengine/godot",
+      "bevyengine/bevy"
     ]
 
     git_repos_gitlab = [
