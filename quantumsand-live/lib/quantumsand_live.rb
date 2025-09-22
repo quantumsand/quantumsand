@@ -153,7 +153,8 @@ class QuantumsandLive
       "huggingface/xet-core",
       "huggingface/huggingface_hub",
       "NVIDIA/nvmath-python",
-      "XTXMarkets/ternfs"
+      "XTXMarkets/ternfs",
+      "godotengine/godot"
     ]
 
     git_repos_gitlab = [
