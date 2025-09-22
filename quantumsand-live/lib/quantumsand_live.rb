@@ -155,7 +155,10 @@ class QuantumsandLive
       "NVIDIA/nvmath-python",
       "XTXMarkets/ternfs",
       "godotengine/godot",
-      "bevyengine/bevy"
+      "bevyengine/bevy",
+      "HaxeFoundation/haxe",
+      "nodejs/node",
+      "deepnight/ldtk"
     ]
 
     git_repos_gitlab = [
