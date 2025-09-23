@@ -180,7 +180,8 @@ class QuantumsandLive
       "testing-library/dom-testing-library",
       "testing-library/testing-library-docs",
       "testing-library/react-hooks-testing-library",
-      "testing-library/eslint-plugin-testing-library"
+      "testing-library/eslint-plugin-testing-library",
+      "eslint/eslint"
     ]
 
     git_repos_gitlab = [
