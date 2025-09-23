@@ -198,6 +198,10 @@ class QuantumsandLive
       "cmake/cmake"
     ]
 
+    git_repos_redox_os_gitlab = [
+      "redox-os/cookbook"
+    ]
+
     git_repos_osgeo = [
       "postgis/postgis"
     ]
