@@ -167,7 +167,10 @@ class QuantumsandLive
       "obsproject/obs-studio",
       "CesiumGS/cesium",
       "emotion-js/emotion",
-      "ruilisi/fortune-sheet"
+      "ruilisi/fortune-sheet",
+      "mui/material-ui",
+      "mui/base-ui",
+      "mui/mui-x"
     ]
 
     git_repos_gitlab = [
