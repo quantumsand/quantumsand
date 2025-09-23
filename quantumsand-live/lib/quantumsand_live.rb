@@ -170,7 +170,8 @@ class QuantumsandLive
       "ruilisi/fortune-sheet",
       "mui/material-ui",
       "mui/base-ui",
-      "mui/mui-x"
+      "mui/mui-x",
+      "mui/pigment-css"
     ]
 
     git_repos_gitlab = [
