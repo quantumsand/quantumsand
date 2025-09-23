@@ -171,7 +171,9 @@ class QuantumsandLive
       "mui/material-ui",
       "mui/base-ui",
       "mui/mui-x",
-      "mui/pigment-css"
+      "mui/pigment-css",
+      "plouc/nivo",
+      "d3/d3"
     ]
 
     git_repos_gitlab = [
