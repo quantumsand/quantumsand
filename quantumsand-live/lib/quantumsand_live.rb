@@ -173,7 +173,14 @@ class QuantumsandLive
       "mui/mui-x",
       "mui/pigment-css",
       "plouc/nivo",
-      "d3/d3"
+      "d3/d3",
+      "testing-library/react-testing-library",
+      "testing-library/user-event",
+      "testing-library/jest-dom",
+      "testing-library/dom-testing-library",
+      "testing-library/testing-library-docs",
+      "testing-library/react-hooks-testing-library",
+      "testing-library/eslint-plugin-testing-library"
     ]
 
     git_repos_gitlab = [
