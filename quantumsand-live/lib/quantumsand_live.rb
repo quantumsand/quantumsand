@@ -166,7 +166,8 @@ class QuantumsandLive
       "HaxeFoundation/crypto",
       "obsproject/obs-studio",
       "CesiumGS/cesium",
-      "emotion-js/emotion"
+      "emotion-js/emotion",
+      "ruilisi/fortune-sheet"
     ]
 
     git_repos_gitlab = [
