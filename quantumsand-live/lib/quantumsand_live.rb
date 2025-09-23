@@ -165,7 +165,8 @@ class QuantumsandLive
       "HaxeFoundation/hx4compat",
       "HaxeFoundation/crypto",
       "obsproject/obs-studio",
-      "CesiumGS/cesium"
+      "CesiumGS/cesium",
+      "emotion-js/emotion"
     ]
 
     git_repos_gitlab = [
