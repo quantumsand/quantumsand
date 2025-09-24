@@ -238,7 +238,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-sensors-plugin",
       "panel-plugins/xfce4-smartbookmark-plugin",
       "panel-plugins/xfce4-stopwatch-plugin",
-      "panel-plugins/xfce4-systemload-plugin"
+      "panel-plugins/xfce4-systemload-plugin",
+      "panel-plugins/xfce4-time-out-plugin"
     ]
 
     git_repos_kitware_gitlab = [
