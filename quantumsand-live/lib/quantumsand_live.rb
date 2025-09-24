@@ -225,7 +225,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-eyes-plugin",
       "panel-plugins/xfce4-fsguard-plugin",
       "panel-plugins/xfce4-generic-slider",
-      "panel-plugins/xfce4-genmon-plugin"
+      "panel-plugins/xfce4-genmon-plugin",
+      "panel-plugins/xfce4-indicator-plugin"
     ]
 
     git_repos_kitware_gitlab = [
