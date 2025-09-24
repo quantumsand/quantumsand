@@ -228,7 +228,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-genmon-plugin",
       "panel-plugins/xfce4-indicator-plugin",
       "panel-plugins/xfce4-mailwatch-plugin",
-      "panel-plugins/xfce4-mount-plugin"
+      "panel-plugins/xfce4-mount-plugin",
+      "panel-plugins/xfce4-mpc-plugin"
     ]
 
     git_repos_kitware_gitlab = [
