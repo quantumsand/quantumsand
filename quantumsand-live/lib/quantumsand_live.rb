@@ -185,7 +185,8 @@ class QuantumsandLive
       "eslint/eslint",
       "twbs/bootstrap",
       "rpearce/react-medium-image-zoom",
-      "TroyAlford/react-jsx-parser"
+      "TroyAlford/react-jsx-parser",
+      "georust/geo"
     ]
 
     git_repos_gitlab = [
