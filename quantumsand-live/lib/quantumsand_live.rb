@@ -206,7 +206,8 @@ class QuantumsandLive
       "xfce/xfce4-dev-tools",
       "xfce/xfce4-appfinder",
       "xfce/tumbler",
-      "xfce/thunar-volman"
+      "xfce/thunar-volman",
+      "xfce/thunar"
     ]
 
     git_repos_kitware_gitlab = [
