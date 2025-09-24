@@ -214,7 +214,8 @@ class QuantumsandLive
       "xfce/garcon",
       "xfce/exo",
       "artwork/public",
-      "artwork/xfce-color-palette"
+      "artwork/xfce-color-palette",
+      "panel-plugins/xfce4-battery-plugin"
     ]
 
     git_repos_kitware_gitlab = [
