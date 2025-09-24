@@ -212,7 +212,8 @@ class QuantumsandLive
       "xfce/libxfce4util",
       "xfce/libxfce4ui",
       "xfce/garcon",
-      "xfce/exo"
+      "xfce/exo",
+      "artwork/public"
     ]
 
     git_repos_kitware_gitlab = [
