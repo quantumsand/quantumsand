@@ -200,7 +200,8 @@ class QuantumsandLive
       "xfce/xfdesktop",
       "xfce/xfconf",
       "xfce/xfce4-settings",
-      "xfce/xfce4-session"
+      "xfce/xfce4-session",
+      "xfce/xfce4-power-manager"
     ]
 
     git_repos_kitware_gitlab = [
