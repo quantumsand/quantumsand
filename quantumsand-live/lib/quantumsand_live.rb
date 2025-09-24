@@ -241,7 +241,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-systemload-plugin",
       "panel-plugins/xfce4-time-out-plugin",
       "panel-plugins/xfce4-timer-plugin",
-      "panel-plugins/xfce4-verve-plugin"
+      "panel-plugins/xfce4-verve-plugin",
+      "panel-plugins/xfce4-wavelan-plugin"
     ]
 
     git_repos_kitware_gitlab = [
