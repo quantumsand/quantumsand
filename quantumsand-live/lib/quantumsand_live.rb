@@ -195,6 +195,10 @@ class QuantumsandLive
       "mesa/mesa"
     ]
 
+    git_repos_xfce_gitlab = [
+      "xfce/xfwm4"
+    ]
+
     git_repos_kitware_gitlab = [
       "cmake/cmake"
     ]
