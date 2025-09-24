@@ -210,7 +210,8 @@ class QuantumsandLive
       "xfce/thunar",
       "xfce/libxfce4windowing",
       "xfce/libxfce4util",
-      "xfce/libxfce4ui"
+      "xfce/libxfce4ui",
+      "xfce/garcon"
     ]
 
     git_repos_kitware_gitlab = [
