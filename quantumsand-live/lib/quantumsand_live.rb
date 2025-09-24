@@ -213,7 +213,8 @@ class QuantumsandLive
       "xfce/libxfce4ui",
       "xfce/garcon",
       "xfce/exo",
-      "artwork/public"
+      "artwork/public",
+      "artwork/xfce-color-palette"
     ]
 
     git_repos_kitware_gitlab = [
