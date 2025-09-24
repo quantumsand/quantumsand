@@ -183,7 +183,8 @@ class QuantumsandLive
       "testing-library/react-hooks-testing-library",
       "testing-library/eslint-plugin-testing-library",
       "eslint/eslint",
-      "twbs/bootstrap"
+      "twbs/bootstrap",
+      "rpearce/react-medium-image-zoom"
     ]
 
     git_repos_gitlab = [
