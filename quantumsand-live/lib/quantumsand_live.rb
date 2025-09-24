@@ -218,7 +218,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-battery-plugin",
       "panel-plugins/xfce4-calculator-plugin",
       "panel-plugins/xfce4-clipman-plugin",
-      "panel-plugins/xfce4-cpufreq-plugin"
+      "panel-plugins/xfce4-cpufreq-plugin",
+      "panel-plugins/xfce4-cpugraph-plugin"
     ]
 
     git_repos_kitware_gitlab = [
