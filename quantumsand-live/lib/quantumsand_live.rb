@@ -184,7 +184,8 @@ class QuantumsandLive
       "testing-library/eslint-plugin-testing-library",
       "eslint/eslint",
       "twbs/bootstrap",
-      "rpearce/react-medium-image-zoom"
+      "rpearce/react-medium-image-zoom",
+      "TroyAlford/react-jsx-parser"
     ]
 
     git_repos_gitlab = [
