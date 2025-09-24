@@ -209,7 +209,8 @@ class QuantumsandLive
       "xfce/thunar-volman",
       "xfce/thunar",
       "xfce/libxfce4windowing",
-      "xfce/libxfce4util"
+      "xfce/libxfce4util",
+      "xfce/libxfce4ui"
     ]
 
     git_repos_kitware_gitlab = [
