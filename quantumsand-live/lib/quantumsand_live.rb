@@ -235,7 +235,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-places-plugin",
       "panel-plugins/xfce4-pulseaudio-plugin",
       "panel-plugins/xfce4-sample-plugin",
-      "panel-plugins/xfce4-sensors-plugin"
+      "panel-plugins/xfce4-sensors-plugin",
+      "panel-plugins/xfce4-smartbookmark-plugin"
     ]
 
     git_repos_kitware_gitlab = [
