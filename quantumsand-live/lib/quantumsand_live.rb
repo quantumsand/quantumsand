@@ -199,7 +199,8 @@ class QuantumsandLive
       "xfce/xfwm4",
       "xfce/xfdesktop",
       "xfce/xfconf",
-      "xfce/xfce4-settings"
+      "xfce/xfce4-settings",
+      "xfce/xfce4-session"
     ]
 
     git_repos_kitware_gitlab = [
