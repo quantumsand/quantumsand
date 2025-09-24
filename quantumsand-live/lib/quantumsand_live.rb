@@ -223,7 +223,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-diskperf-plugin",
       "panel-plugins/xfce4-docklike-plugin",
       "panel-plugins/xfce4-eyes-plugin",
-      "panel-plugins/xfce4-fsguard-plugin"
+      "panel-plugins/xfce4-fsguard-plugin",
+      "panel-plugins/xfce4-generic-slider"
     ]
 
     git_repos_kitware_gitlab = [
