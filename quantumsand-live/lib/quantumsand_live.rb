@@ -222,7 +222,8 @@ class QuantumsandLive
       "yaml/libyaml",
       "neondatabase-labs/elephantshark",
       "osmnames/osmnames",
-      "alexreisner/geocoder"
+      "alexreisner/geocoder",
+      "janlelis/unicode-emoji"
     ]
 
     git_repos_gitlab = [
