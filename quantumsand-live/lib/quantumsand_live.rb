@@ -256,7 +256,8 @@ class QuantumsandLive
       "thunar-plugins/thunar-vcs-plugin",
       "bindings/thunarx-python",
       "bindings/xfce4-rs",
-      "bindings/xfce4-vala"
+      "bindings/xfce4-vala",
+      "apps/catfish"
     ]
 
     git_repos_kitware_gitlab = [
