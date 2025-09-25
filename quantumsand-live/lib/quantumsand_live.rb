@@ -200,7 +200,8 @@ class QuantumsandLive
       "georust/osm",
       "georust/tilejson",
       "georust/transitfeed",
-      "georust/wkt"
+      "georust/wkt",
+      "georust/wkb"
     ]
 
     git_repos_gitlab = [
