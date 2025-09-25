@@ -260,7 +260,8 @@ class QuantumsandLive
       "apps/catfish",
       "apps/gigolo",
       "apps/mousepad",
-      "apps/orage"
+      "apps/orage",
+      "apps/parole"
     ]
 
     git_repos_kitware_gitlab = [
