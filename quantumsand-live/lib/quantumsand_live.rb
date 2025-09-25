@@ -207,7 +207,8 @@ class QuantumsandLive
       "stac-utils/rustac-py",
       "georust/ogcapi",
       "nav-solutions/rinex",
-      "tmontaigu/shapefile-rs"
+      "tmontaigu/shapefile-rs",
+      "georust/geozero"
     ]
 
     git_repos_gitlab = [
