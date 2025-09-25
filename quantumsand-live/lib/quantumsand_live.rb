@@ -353,7 +353,8 @@ class QuantumsandLive
       "gnome-base/gnome",
       "dev-lang/haxe",
       "dev-libs/libev",
-      "dev-python/docutils"
+      "dev-python/docutils",
+      "dev-libs/libyaml"
     ]
 
     eselect_repository_add = {
