@@ -208,7 +208,8 @@ class QuantumsandLive
       "georust/ogcapi",
       "nav-solutions/rinex",
       "tmontaigu/shapefile-rs",
-      "georust/geozero"
+      "georust/geozero",
+      "georust/geohash"
     ]
 
     git_repos_gitlab = [
