@@ -250,7 +250,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-whiskermenu-plugin",
       "panel-plugins/xfce4-windowck-plugin",
       "panel-plugins/xfce4-xkb-plugin",
-      "thunar-plugins/thunar-archive-plugin"
+      "thunar-plugins/thunar-archive-plugin",
+      "thunar-plugins/thunar-media-tags-plugin"
     ]
 
     git_repos_kitware_gitlab = [
