@@ -211,7 +211,8 @@ class QuantumsandLive
       "georust/geozero",
       "georust/geohash",
       "sunng87/node-geohash",
-      "georust/geocoding"
+      "georust/geocoding",
+      "georust/polyline"
     ]
 
     git_repos_gitlab = [
