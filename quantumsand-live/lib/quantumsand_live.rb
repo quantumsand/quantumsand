@@ -221,7 +221,8 @@ class QuantumsandLive
       "pgexporter/pgexporter",
       "yaml/libyaml",
       "neondatabase-labs/elephantshark",
-      "osmnames/osmnames"
+      "osmnames/osmnames",
+      "alexreisner/geocoder"
     ]
 
     git_repos_gitlab = [
