@@ -220,7 +220,8 @@ class QuantumsandLive
       "pgaudit/pgaudit",
       "pgexporter/pgexporter",
       "yaml/libyaml",
-      "neondatabase-labs/elephantshark"
+      "neondatabase-labs/elephantshark",
+      "osmnames/osmnames"
     ]
 
     git_repos_gitlab = [
