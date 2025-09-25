@@ -249,7 +249,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-weather-plugin",
       "panel-plugins/xfce4-whiskermenu-plugin",
       "panel-plugins/xfce4-windowck-plugin",
-      "panel-plugins/xfce4-xkb-plugin"
+      "panel-plugins/xfce4-xkb-plugin",
+      "thunar-plugins/thunar-archive-plugin"
     ]
 
     git_repos_kitware_gitlab = [
