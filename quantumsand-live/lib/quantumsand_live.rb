@@ -199,7 +199,8 @@ class QuantumsandLive
       "georust/netcdf",
       "georust/osm",
       "georust/tilejson",
-      "georust/transitfeed"
+      "georust/transitfeed",
+      "georust/wkt"
     ]
 
     git_repos_gitlab = [
