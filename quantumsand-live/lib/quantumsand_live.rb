@@ -219,7 +219,8 @@ class QuantumsandLive
       "darold/pgFormatter",
       "pgaudit/pgaudit",
       "pgexporter/pgexporter",
-      "yaml/libyaml"
+      "yaml/libyaml",
+      "neondatabase-labs/elephantshark"
     ]
 
     git_repos_gitlab = [
