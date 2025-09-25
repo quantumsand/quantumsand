@@ -194,7 +194,8 @@ class QuantumsandLive
       "georust/gdal",
       "georust/geojson",
       "georust/gpx",
-      "georust/geotiff"
+      "georust/geotiff",
+      "georust/kml"
     ]
 
     git_repos_gitlab = [
