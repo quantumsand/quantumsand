@@ -322,6 +322,10 @@ class QuantumsandLive
       "GNOME/vala"
     ]
 
+    git_repos_postgresql_org = [
+      "postgresql"
+    ]
+
     git_repos_osgeo = [
       "postgis/postgis"
     ]
