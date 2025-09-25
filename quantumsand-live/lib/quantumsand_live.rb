@@ -202,7 +202,9 @@ class QuantumsandLive
       "georust/transitfeed",
       "georust/wkt",
       "georust/wkb",
-      "georust/world-file"
+      "georust/world-file",
+      "stac-utils/rustac",
+      "stac-utils/rustac-py"
     ]
 
     git_repos_gitlab = [
