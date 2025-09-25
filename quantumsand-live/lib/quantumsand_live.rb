@@ -260,6 +260,10 @@ class QuantumsandLive
       "redox-os/cookbook"
     ]
 
+    git_repos_gnome_gitlab = [
+      "GNOME/vala"
+    ]
+
     git_repos_osgeo = [
       "postgis/postgis"
     ]
