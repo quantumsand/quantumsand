@@ -193,7 +193,8 @@ class QuantumsandLive
       "georust/rstar",
       "georust/gdal",
       "georust/geojson",
-      "georust/gpx"
+      "georust/gpx",
+      "georust/geotiff"
     ]
 
     git_repos_gitlab = [
