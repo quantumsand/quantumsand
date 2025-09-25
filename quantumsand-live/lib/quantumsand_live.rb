@@ -253,7 +253,8 @@ class QuantumsandLive
       "thunar-plugins/thunar-archive-plugin",
       "thunar-plugins/thunar-media-tags-plugin",
       "thunar-plugins/thunar-shares-plugin",
-      "thunar-plugins/thunar-vcs-plugin"
+      "thunar-plugins/thunar-vcs-plugin",
+      "bindings/thunarx-python"
     ]
 
     git_repos_kitware_gitlab = [
