@@ -258,7 +258,8 @@ class QuantumsandLive
       "bindings/xfce4-rs",
       "bindings/xfce4-vala",
       "apps/catfish",
-      "apps/gigolo"
+      "apps/gigolo",
+      "apps/mousepad"
     ]
 
     git_repos_kitware_gitlab = [
