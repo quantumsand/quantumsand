@@ -210,7 +210,8 @@ class QuantumsandLive
       "tmontaigu/shapefile-rs",
       "georust/geozero",
       "georust/geohash",
-      "sunng87/node-geohash"
+      "sunng87/node-geohash",
+      "georust/geocoding"
     ]
 
     git_repos_gitlab = [
