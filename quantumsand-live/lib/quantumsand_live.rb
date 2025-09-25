@@ -272,7 +272,8 @@ class QuantumsandLive
       "apps/xfce4-screenshooter",
       "apps/xfce4-taskmanager",
       "apps/xfce4-terminal",
-      "apps/xfce4-volumed-pulse"
+      "apps/xfce4-volumed-pulse",
+      "apps/xfdashboard"
     ]
 
     git_repos_kitware_gitlab = [
