@@ -536,6 +536,7 @@ class QuantumsandLive
     # TODO: NVIDIA Math Libraries for the Python Ecosystem
     # TODO: ternfs
     # TODO: ROS 2; Robot Operating System
+    # TODO: t0mpr1c3/knotty; A domain-specific language for knitting patterns
   end
 end
 
