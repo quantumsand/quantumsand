@@ -349,7 +349,8 @@ class QuantumsandLive
       "dev-python/jupyter",
       "kde-plasma/plasma-meta",
       "gnome-base/gnome",
-      "dev-lang/haxe"
+      "dev-lang/haxe",
+      "dev-libs/libev"
     ]
 
     eselect_repository_add = {
