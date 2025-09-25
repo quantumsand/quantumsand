@@ -187,7 +187,8 @@ class QuantumsandLive
       "rpearce/react-medium-image-zoom",
       "TroyAlford/react-jsx-parser",
       "georust/geo",
-      "georust/geos"
+      "georust/geos",
+      "georust/proj"
     ]
 
     git_repos_gitlab = [
