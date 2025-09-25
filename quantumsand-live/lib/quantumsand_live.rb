@@ -270,7 +270,8 @@ class QuantumsandLive
       "apps/xfce4-panel-profiles",
       "apps/xfce4-screensaver",
       "apps/xfce4-screenshooter",
-      "apps/xfce4-taskmanager"
+      "apps/xfce4-taskmanager",
+      "apps/xfce4-terminal"
     ]
 
     git_repos_kitware_gitlab = [
