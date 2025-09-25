@@ -188,7 +188,8 @@ class QuantumsandLive
       "TroyAlford/react-jsx-parser",
       "georust/geo",
       "georust/geos",
-      "georust/proj"
+      "georust/proj",
+      "georust/robust"
     ]
 
     git_repos_gitlab = [
