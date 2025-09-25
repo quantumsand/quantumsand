@@ -265,7 +265,8 @@ class QuantumsandLive
       "apps/ristretto",
       "apps/xfburn",
       "apps/xfce4-dict",
-      "apps/xfce4-mixer"
+      "apps/xfce4-mixer",
+      "apps/xfce4-notifyd"
     ]
 
     git_repos_kitware_gitlab = [
