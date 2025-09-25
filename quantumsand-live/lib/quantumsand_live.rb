@@ -218,7 +218,8 @@ class QuantumsandLive
       "BemiHQ/BemiDB",
       "darold/pgFormatter",
       "pgaudit/pgaudit",
-      "pgexporter/pgexporter"
+      "pgexporter/pgexporter",
+      "yaml/libyaml"
     ]
 
     git_repos_gitlab = [
