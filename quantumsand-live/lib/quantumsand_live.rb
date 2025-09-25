@@ -263,7 +263,8 @@ class QuantumsandLive
       "apps/orage",
       "apps/parole",
       "apps/ristretto",
-      "apps/xfburn"
+      "apps/xfburn",
+      "apps/xfce4-dict"
     ]
 
     git_repos_kitware_gitlab = [
