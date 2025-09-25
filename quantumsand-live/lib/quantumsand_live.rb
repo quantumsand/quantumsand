@@ -257,7 +257,8 @@ class QuantumsandLive
       "bindings/thunarx-python",
       "bindings/xfce4-rs",
       "bindings/xfce4-vala",
-      "apps/catfish"
+      "apps/catfish",
+      "apps/gigolo"
     ]
 
     git_repos_kitware_gitlab = [
