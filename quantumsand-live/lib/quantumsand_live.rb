@@ -215,7 +215,8 @@ class QuantumsandLive
       "georust/polyline",
       "geopandas/geopandas",
       "pgschema/pgschema",
-      "BemiHQ/BemiDB"
+      "BemiHQ/BemiDB",
+      "darold/pgFormatter"
     ]
 
     git_repos_gitlab = [
