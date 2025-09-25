@@ -262,7 +262,8 @@ class QuantumsandLive
       "apps/mousepad",
       "apps/orage",
       "apps/parole",
-      "apps/ristretto"
+      "apps/ristretto",
+      "apps/xfburn"
     ]
 
     git_repos_kitware_gitlab = [
