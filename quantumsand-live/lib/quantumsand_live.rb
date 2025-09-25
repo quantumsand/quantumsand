@@ -268,7 +268,8 @@ class QuantumsandLive
       "apps/xfce4-mixer",
       "apps/xfce4-notifyd",
       "apps/xfce4-panel-profiles",
-      "apps/xfce4-screensaver"
+      "apps/xfce4-screensaver",
+      "apps/xfce4-screenshooter"
     ]
 
     git_repos_kitware_gitlab = [
