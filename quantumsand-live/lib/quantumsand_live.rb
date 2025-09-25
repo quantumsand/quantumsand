@@ -190,7 +190,8 @@ class QuantumsandLive
       "georust/geos",
       "georust/proj",
       "georust/robust",
-      "georust/rstar"
+      "georust/rstar",
+      "georust/gdal"
     ]
 
     git_repos_gitlab = [
