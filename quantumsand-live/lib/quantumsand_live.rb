@@ -252,7 +252,8 @@ class QuantumsandLive
       "panel-plugins/xfce4-xkb-plugin",
       "thunar-plugins/thunar-archive-plugin",
       "thunar-plugins/thunar-media-tags-plugin",
-      "thunar-plugins/thunar-shares-plugin"
+      "thunar-plugins/thunar-shares-plugin",
+      "thunar-plugins/thunar-vcs-plugin"
     ]
 
     git_repos_kitware_gitlab = [
