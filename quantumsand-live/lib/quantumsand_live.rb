@@ -255,7 +255,8 @@ class QuantumsandLive
       "thunar-plugins/thunar-shares-plugin",
       "thunar-plugins/thunar-vcs-plugin",
       "bindings/thunarx-python",
-      "bindings/xfce4-rs"
+      "bindings/xfce4-rs",
+      "bindings/xfce4-vala"
     ]
 
     git_repos_kitware_gitlab = [
