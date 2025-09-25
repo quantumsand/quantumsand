@@ -266,7 +266,8 @@ class QuantumsandLive
       "apps/xfburn",
       "apps/xfce4-dict",
       "apps/xfce4-mixer",
-      "apps/xfce4-notifyd"
+      "apps/xfce4-notifyd",
+      "apps/xfce4-panel-profiles"
     ]
 
     git_repos_kitware_gitlab = [
