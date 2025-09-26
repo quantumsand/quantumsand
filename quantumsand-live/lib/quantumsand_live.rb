@@ -229,7 +229,8 @@ class QuantumsandLive
       "64bit/async-openai",
       "openai/openai-node",
       "olrea/openai-cpp",
-      "openai/openai-python"
+      "openai/openai-python",
+      "amd/gaia"
     ]
 
     git_repos_gitlab = [
