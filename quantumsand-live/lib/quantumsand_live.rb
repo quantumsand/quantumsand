@@ -235,7 +235,8 @@ class QuantumsandLive
       "conda-forge/miniforge",
       "ealush/emoji-picker-react",
       "hodgef/react-simple-keyboard",
-      "rails/rails"
+      "rails/rails",
+      "AndreasFaust/react-ticker"
     ]
 
     git_repos_gitlab = [
