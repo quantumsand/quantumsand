@@ -238,7 +238,8 @@ class QuantumsandLive
       "rails/rails",
       "AndreasFaust/react-ticker",
       "paulcollett/react-masonry-css",
-      "pmndrs/react-spring"
+      "pmndrs/react-spring",
+      "3DJakob/react-tinder-card"
     ]
 
     git_repos_gitlab = [
