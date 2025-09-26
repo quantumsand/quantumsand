@@ -242,7 +242,8 @@ class QuantumsandLive
       "3DJakob/react-tinder-card",
       "processone/ejabberd",
       "processone/ejabberd-po",
-      "erlang/otp"
+      "erlang/otp",
+      "elixir-lang/elixir"
     ]
 
     git_repos_gitlab = [
