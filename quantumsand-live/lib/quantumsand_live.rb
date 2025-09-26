@@ -231,7 +231,8 @@ class QuantumsandLive
       "olrea/openai-cpp",
       "openai/openai-python",
       "amd/gaia",
-      "microsoft/onnxruntime-genai"
+      "microsoft/onnxruntime-genai",
+      "conda-forge/miniforge"
     ]
 
     git_repos_gitlab = [
