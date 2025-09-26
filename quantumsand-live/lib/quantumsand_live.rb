@@ -234,7 +234,8 @@ class QuantumsandLive
       "microsoft/onnxruntime-genai",
       "conda-forge/miniforge",
       "ealush/emoji-picker-react",
-      "hodgef/react-simple-keyboard"
+      "hodgef/react-simple-keyboard",
+      "rails/rails"
     ]
 
     git_repos_gitlab = [
