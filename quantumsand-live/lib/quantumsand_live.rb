@@ -226,7 +226,8 @@ class QuantumsandLive
       "janlelis/unicode-emoji",
       "lemonade-sdk/lemonade",
       "alexrudall/ruby-openai",
-      "64bit/async-openai"
+      "64bit/async-openai",
+      "openai/openai-node"
     ]
 
     git_repos_gitlab = [
