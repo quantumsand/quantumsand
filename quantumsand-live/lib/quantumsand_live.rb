@@ -237,7 +237,8 @@ class QuantumsandLive
       "hodgef/react-simple-keyboard",
       "rails/rails",
       "AndreasFaust/react-ticker",
-      "paulcollett/react-masonry-css"
+      "paulcollett/react-masonry-css",
+      "pmndrs/react-spring"
     ]
 
     git_repos_gitlab = [
