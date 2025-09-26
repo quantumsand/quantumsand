@@ -241,7 +241,8 @@ class QuantumsandLive
       "pmndrs/react-spring",
       "3DJakob/react-tinder-card",
       "processone/ejabberd",
-      "processone/ejabberd-po"
+      "processone/ejabberd-po",
+      "erlang/otp"
     ]
 
     git_repos_gitlab = [
