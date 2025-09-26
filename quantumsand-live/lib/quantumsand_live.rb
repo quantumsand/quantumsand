@@ -240,7 +240,8 @@ class QuantumsandLive
       "paulcollett/react-masonry-css",
       "pmndrs/react-spring",
       "3DJakob/react-tinder-card",
-      "processone/ejabberd"
+      "processone/ejabberd",
+      "processone/ejabberd-po"
     ]
 
     git_repos_gitlab = [
