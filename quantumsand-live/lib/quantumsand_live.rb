@@ -230,7 +230,8 @@ class QuantumsandLive
       "openai/openai-node",
       "olrea/openai-cpp",
       "openai/openai-python",
-      "amd/gaia"
+      "amd/gaia",
+      "microsoft/onnxruntime-genai"
     ]
 
     git_repos_gitlab = [
