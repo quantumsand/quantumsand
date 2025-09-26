@@ -232,7 +232,8 @@ class QuantumsandLive
       "openai/openai-python",
       "amd/gaia",
       "microsoft/onnxruntime-genai",
-      "conda-forge/miniforge"
+      "conda-forge/miniforge",
+      "ealush/emoji-picker-react"
     ]
 
     git_repos_gitlab = [
