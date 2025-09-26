@@ -227,7 +227,8 @@ class QuantumsandLive
       "lemonade-sdk/lemonade",
       "alexrudall/ruby-openai",
       "64bit/async-openai",
-      "openai/openai-node"
+      "openai/openai-node",
+      "olrea/openai-cpp"
     ]
 
     git_repos_gitlab = [
