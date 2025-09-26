@@ -228,7 +228,8 @@ class QuantumsandLive
       "alexrudall/ruby-openai",
       "64bit/async-openai",
       "openai/openai-node",
-      "olrea/openai-cpp"
+      "olrea/openai-cpp",
+      "openai/openai-python"
     ]
 
     git_repos_gitlab = [
