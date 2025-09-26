@@ -30,6 +30,7 @@ import VirtualGlobe from "./pages/VirtualGlobe/VirtualGlobe";
 import WordCloud from "./pages/WordCloud/WordCloud";
 import Charts from "./pages/Charts/Charts";
 import Chat from "./pages/Chat/Chat";
+import VirtualKeyboard from "./pages/VirtualKeyboard/VirtualKeyboard";
 
 const mathsSlides = [
     {
@@ -97,6 +98,7 @@ function App() {
                                                   backgroundSize={120}
                                                   backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
           <Route path="virtualglobe" element={<VirtualGlobe />} />
+          <Route path="virtualkeyboard" element={<VirtualKeyboard />} />
           <Route path="wordcloud" element={<WordCloud />} />
           <Route path="charts" element={<Charts />} />
           <Route path="*" element={<NoPage />} />
