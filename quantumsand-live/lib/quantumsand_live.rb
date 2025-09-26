@@ -224,7 +224,8 @@ class QuantumsandLive
       "osmnames/osmnames",
       "alexreisner/geocoder",
       "janlelis/unicode-emoji",
-      "lemonade-sdk/lemonade"
+      "lemonade-sdk/lemonade",
+      "alexrudall/ruby-openai"
     ]
 
     git_repos_gitlab = [
