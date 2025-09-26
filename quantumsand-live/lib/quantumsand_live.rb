@@ -236,7 +236,8 @@ class QuantumsandLive
       "ealush/emoji-picker-react",
       "hodgef/react-simple-keyboard",
       "rails/rails",
-      "AndreasFaust/react-ticker"
+      "AndreasFaust/react-ticker",
+      "paulcollett/react-masonry-css"
     ]
 
     git_repos_gitlab = [
