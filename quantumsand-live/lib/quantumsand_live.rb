@@ -247,7 +247,8 @@ class QuantumsandLive
       "elixir-lang/ex_doc",
       "elixir-lang/gen_stage",
       "ziglang/zig",
-      "lexical-lsp/vscode-lexical"
+      "lexical-lsp/vscode-lexical",
+      "elixir-lang/expert"
     ]
 
     git_repos_gitlab = [
