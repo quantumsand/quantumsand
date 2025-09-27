@@ -249,7 +249,8 @@ class QuantumsandLive
       "ziglang/zig",
       "lexical-lsp/vscode-lexical",
       "elixir-lang/expert",
-      "casey/just"
+      "casey/just",
+      "spinel-coop/rv"
     ]
 
     git_repos_gitlab = [
