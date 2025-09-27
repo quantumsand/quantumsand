@@ -384,7 +384,8 @@ class QuantumsandLive
       "dev-lang/haxe",
       "dev-libs/libev",
       "dev-python/docutils",
-      "dev-libs/libyaml"
+      "dev-libs/libyaml",
+      "dev-lang/zig"
     ]
 
     eselect_repository_add = {
