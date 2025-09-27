@@ -245,7 +245,8 @@ class QuantumsandLive
       "erlang/otp",
       "elixir-lang/elixir",
       "elixir-lang/ex_doc",
-      "elixir-lang/gen_stage"
+      "elixir-lang/gen_stage",
+      "ziglang/zig"
     ]
 
     git_repos_gitlab = [
