@@ -31,6 +31,7 @@ import WordCloud from "./pages/WordCloud/WordCloud";
 import Charts from "./pages/Charts/Charts";
 import Chat from "./pages/Chat/Chat";
 import VirtualKeyboard from "./pages/VirtualKeyboard/VirtualKeyboard";
+import Pins from "./pages/Pins/Pins";
 
 const mathsSlides = [
     {
@@ -101,6 +102,7 @@ function App() {
           <Route path="virtualkeyboard" element={<VirtualKeyboard />} />
           <Route path="wordcloud" element={<WordCloud />} />
           <Route path="charts" element={<Charts />} />
+          <Route path="pins" element={<Pins />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>
