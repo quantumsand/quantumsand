@@ -244,7 +244,8 @@ class QuantumsandLive
       "processone/ejabberd-po",
       "erlang/otp",
       "elixir-lang/elixir",
-      "elixir-lang/ex_doc"
+      "elixir-lang/ex_doc",
+      "elixir-lang/gen_stage"
     ]
 
     git_repos_gitlab = [
