@@ -1,0 +1,16 @@
+.cards__header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #f9f9f9;
+  align-items: center;
+}
+
+.cards__headerLogo {
+  height: 40px;
+  width: 60px;
+  object-fit: contain;
+}
+
+.cards__headerIcon {
+  padding: 0px;
+}

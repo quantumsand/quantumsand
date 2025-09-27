@@ -3,8 +3,6 @@ import Masonry from 'react-masonry-css';
 
 import "./Pins.css";
 
-
-
 export default function Pins({ pins = [
       {
         id: 1,
