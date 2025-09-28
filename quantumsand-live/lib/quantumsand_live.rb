@@ -261,7 +261,8 @@ class QuantumsandLive
       "iree-org/iree",
       "elixir-nx/nx_iree",
       "elixir-nx/hnswlib",
-      "nmslib/hnswlib"
+      "nmslib/hnswlib",
+      "elixir-nx/nx_signal"
     ]
 
     git_repos_gitlab = [
