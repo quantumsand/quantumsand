@@ -253,7 +253,8 @@ class QuantumsandLive
       "spinel-coop/rv",
       "cjpais/Handy",
       "elixir-nx/axon",
-      "elixir-nx/bumblebee"
+      "elixir-nx/bumblebee",
+      "elixir-nx/complex"
     ]
 
     git_repos_gitlab = [
