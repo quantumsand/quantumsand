@@ -257,7 +257,9 @@ class QuantumsandLive
       "elixir-nx/complex",
       "elixir-nx/emlx",
       "elixir-nx/nx",
-      "elixir-nx/nx_image"
+      "elixir-nx/nx_image",
+      "iree-org/iree",
+      "elixir-nx/nx_iree"
     ]
 
     git_repos_gitlab = [
