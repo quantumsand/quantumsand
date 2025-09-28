@@ -262,7 +262,12 @@ class QuantumsandLive
       "elixir-nx/nx_iree",
       "elixir-nx/hnswlib",
       "nmslib/hnswlib",
-      "elixir-nx/nx_signal"
+      "elixir-nx/nx_signal",
+      "emscripten-core/emsdk",
+      "google/libprotobuf-mutator",
+      "onnx/onnx",
+      "microsoft/onnxruntime",
+      "elixir-nx/ortex"
     ]
 
     git_repos_gitlab = [
