@@ -250,7 +250,8 @@ class QuantumsandLive
       "lexical-lsp/vscode-lexical",
       "elixir-lang/expert",
       "casey/just",
-      "spinel-coop/rv"
+      "spinel-coop/rv",
+      "cjpais/Handy"
     ]
 
     git_repos_gitlab = [
