@@ -255,7 +255,8 @@ class QuantumsandLive
       "elixir-nx/axon",
       "elixir-nx/bumblebee",
       "elixir-nx/complex",
-      "elixir-nx/emlx"
+      "elixir-nx/emlx",
+      "elixir-nx/nx"
     ]
 
     git_repos_gitlab = [
