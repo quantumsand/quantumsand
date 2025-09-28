@@ -254,7 +254,8 @@ class QuantumsandLive
       "cjpais/Handy",
       "elixir-nx/axon",
       "elixir-nx/bumblebee",
-      "elixir-nx/complex"
+      "elixir-nx/complex",
+      "elixir-nx/emlx"
     ]
 
     git_repos_gitlab = [
