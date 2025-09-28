@@ -259,7 +259,9 @@ class QuantumsandLive
       "elixir-nx/nx",
       "elixir-nx/nx_image",
       "iree-org/iree",
-      "elixir-nx/nx_iree"
+      "elixir-nx/nx_iree",
+      "elixir-nx/hnswlib",
+      "nmslib/hnswlib"
     ]
 
     git_repos_gitlab = [
