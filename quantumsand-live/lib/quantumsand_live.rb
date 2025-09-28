@@ -251,7 +251,8 @@ class QuantumsandLive
       "elixir-lang/expert",
       "casey/just",
       "spinel-coop/rv",
-      "cjpais/Handy"
+      "cjpais/Handy",
+      "elixir-nx/axon"
     ]
 
     git_repos_gitlab = [
