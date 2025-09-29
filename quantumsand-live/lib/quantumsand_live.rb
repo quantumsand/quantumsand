@@ -296,7 +296,8 @@ class QuantumsandLive
       "rails/activerecord-session_store",
       "rails/activeresource",
       "rails/activesupport-json_encoder",
-      "brendon/positioning"
+      "brendon/positioning",
+      "brendon/acts_as_list"
     ]
 
     git_repos_gitlab = [
