@@ -267,7 +267,8 @@ class QuantumsandLive
       "google/libprotobuf-mutator",
       "onnx/onnx",
       "microsoft/onnxruntime",
-      "elixir-nx/ortex"
+      "elixir-nx/ortex",
+      "elixir-nx/polaris"
     ]
 
     git_repos_gitlab = [
