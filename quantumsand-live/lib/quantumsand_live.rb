@@ -447,7 +447,8 @@ class QuantumsandLive
       "dev-libs/libev",
       "dev-python/docutils",
       "dev-libs/libyaml",
-      "dev-lang/zig"
+      "dev-lang/zig",
+      "dev-vcs/git-lfs"
     ]
 
     eselect_repository_add = {
