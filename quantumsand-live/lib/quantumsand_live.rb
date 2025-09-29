@@ -277,7 +277,8 @@ class QuantumsandLive
       "nothings/stb",
       "elixir-nx/stb_image",
       "cocoa-xu/image_rs",
-      "image-rs/image"
+      "image-rs/image",
+      "elixir-nx/tokenizers"
     ]
 
     git_repos_gitlab = [
