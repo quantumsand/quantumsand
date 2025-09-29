@@ -285,7 +285,8 @@ class QuantumsandLive
       "erlang/otp-gdb-tools",
       "erlang/corba",
       "wxWidgets/wxWidgets",
-      "erlang/sourcer"
+      "erlang/sourcer",
+      "erlang/egd"
     ]
 
     git_repos_gitlab = [
