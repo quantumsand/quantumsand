@@ -301,7 +301,8 @@ class QuantumsandLive
       "amerine/acts_as_tree",
       "rails/bootsnap",
       "astral-sh/uv",
-      "newton-physics/newton"
+      "newton-physics/newton",
+      "git-lfs/git-lfs"
     ]
 
     git_repos_gitlab = [
