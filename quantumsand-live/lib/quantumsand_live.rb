@@ -299,7 +299,8 @@ class QuantumsandLive
       "brendon/positioning",
       "brendon/acts_as_list",
       "amerine/acts_as_tree",
-      "rails/bootsnap"
+      "rails/bootsnap",
+      "astral-sh/uv"
     ]
 
     git_repos_gitlab = [
