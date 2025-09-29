@@ -298,7 +298,8 @@ class QuantumsandLive
       "rails/activesupport-json_encoder",
       "brendon/positioning",
       "brendon/acts_as_list",
-      "amerine/acts_as_tree"
+      "amerine/acts_as_tree",
+      "rails/bootsnap"
     ]
 
     git_repos_gitlab = [
