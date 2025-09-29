@@ -423,7 +423,8 @@ class QuantumsandLive
     git_repos_projects_blender = [
       "blender/blender",
       "blender/cycles",
-      "blender/lib-source"
+      "blender/lib-source",
+      "blender/blender-asset-tracer"
     ]
 
     gentoo_emerge_packages = [
