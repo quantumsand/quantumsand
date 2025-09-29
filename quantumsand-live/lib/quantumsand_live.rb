@@ -280,7 +280,8 @@ class QuantumsandLive
       "image-rs/image",
       "elixir-nx/tokenizers",
       "erlang/rebar3",
-      "PCRE2Project/pcre2"
+      "PCRE2Project/pcre2",
+      "ulfjack/ryu"
     ]
 
     git_repos_gitlab = [
