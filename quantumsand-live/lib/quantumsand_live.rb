@@ -286,7 +286,8 @@ class QuantumsandLive
       "erlang/corba",
       "wxWidgets/wxWidgets",
       "erlang/sourcer",
-      "erlang/egd"
+      "erlang/egd",
+      "erlang/pmod_transform"
     ]
 
     git_repos_gitlab = [
