@@ -289,7 +289,8 @@ class QuantumsandLive
       "erlang/egd",
       "erlang/pmod_transform",
       "erlang/epmd",
-      "erlang/rebar3_otp_install_plugin"
+      "erlang/rebar3_otp_install_plugin",
+      "erlang/rebar3_otpdoc_plugin"
     ]
 
     git_repos_gitlab = [
