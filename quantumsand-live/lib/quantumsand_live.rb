@@ -425,7 +425,8 @@ class QuantumsandLive
       "blender/cycles",
       "blender/lib-source",
       "blender/blender-asset-tracer",
-      "blender/blender-benchmarks"
+      "blender/blender-benchmarks",
+      "blender/blender-assets"
     ]
 
     gentoo_emerge_packages = [
