@@ -287,7 +287,8 @@ class QuantumsandLive
       "wxWidgets/wxWidgets",
       "erlang/sourcer",
       "erlang/egd",
-      "erlang/pmod_transform"
+      "erlang/pmod_transform",
+      "erlang/epmd"
     ]
 
     git_repos_gitlab = [
