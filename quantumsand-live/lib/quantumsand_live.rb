@@ -283,7 +283,8 @@ class QuantumsandLive
       "PCRE2Project/pcre2",
       "ulfjack/ryu",
       "erlang/otp-gdb-tools",
-      "erlang/corba"
+      "erlang/corba",
+      "wxWidgets/wxWidgets"
     ]
 
     git_repos_gitlab = [
