@@ -278,7 +278,8 @@ class QuantumsandLive
       "elixir-nx/stb_image",
       "cocoa-xu/image_rs",
       "image-rs/image",
-      "elixir-nx/tokenizers"
+      "elixir-nx/tokenizers",
+      "erlang/rebar3"
     ]
 
     git_repos_gitlab = [
