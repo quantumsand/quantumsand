@@ -282,7 +282,8 @@ class QuantumsandLive
       "erlang/rebar3",
       "PCRE2Project/pcre2",
       "ulfjack/ryu",
-      "erlang/otp-gdb-tools"
+      "erlang/otp-gdb-tools",
+      "erlang/corba"
     ]
 
     git_repos_gitlab = [
