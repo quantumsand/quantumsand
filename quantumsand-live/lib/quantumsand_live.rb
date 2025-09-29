@@ -305,7 +305,8 @@ class QuantumsandLive
       "git-lfs/git-lfs",
       "katspaugh/wavesurfer.js",
       "yarnpkg/berry",
-      "bbc/peaks.js"
+      "bbc/peaks.js",
+      "bbc/audiowaveform"
     ]
 
     git_repos_gitlab = [
@@ -418,7 +419,8 @@ class QuantumsandLive
 
     git_repos_codeberg = [
       "uzu/strudel",
-      "chrisn/peaks.js"
+      "chrisn/peaks.js",
+      "chrisn/audiowaveform"
     ]
 
     git_repos_kde_invent = [
