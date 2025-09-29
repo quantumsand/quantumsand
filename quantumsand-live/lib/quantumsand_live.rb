@@ -292,7 +292,8 @@ class QuantumsandLive
       "erlang/rebar3_otp_install_plugin",
       "erlang/rebar3_otpdoc_plugin",
       "erlang/percept",
-      "rails/activemodel-serializers-xml"
+      "rails/activemodel-serializers-xml",
+      "rails/activerecord-session_store"
     ]
 
     git_repos_gitlab = [
