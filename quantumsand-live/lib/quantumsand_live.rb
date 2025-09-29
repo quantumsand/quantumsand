@@ -268,7 +268,8 @@ class QuantumsandLive
       "onnx/onnx",
       "microsoft/onnxruntime",
       "elixir-nx/ortex",
-      "elixir-nx/polaris"
+      "elixir-nx/polaris",
+      "elixir-nx/safetensors"
     ]
 
     git_repos_gitlab = [
