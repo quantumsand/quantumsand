@@ -295,7 +295,8 @@ class QuantumsandLive
       "rails/activemodel-serializers-xml",
       "rails/activerecord-session_store",
       "rails/activeresource",
-      "rails/activesupport-json_encoder"
+      "rails/activesupport-json_encoder",
+      "brendon/positioning"
     ]
 
     git_repos_gitlab = [
