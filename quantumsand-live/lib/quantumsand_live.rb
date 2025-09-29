@@ -284,7 +284,8 @@ class QuantumsandLive
       "ulfjack/ryu",
       "erlang/otp-gdb-tools",
       "erlang/corba",
-      "wxWidgets/wxWidgets"
+      "wxWidgets/wxWidgets",
+      "erlang/sourcer"
     ]
 
     git_repos_gitlab = [
