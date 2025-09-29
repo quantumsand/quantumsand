@@ -543,7 +543,7 @@ class QuantumsandLive
     # TODO: CoMaps; a community-led fork of Organic Maps
     # TODO: hyperknot/openfreemap; Free and open-source map hosting solution
     # TODO: rustup
-    # TODO: Blender
+    # TODO: Blender; Deps @ blender/lib-source
     # TODO: sgl-project/sglang; fast serving framework for large language models and vision language models
     # TODO: DeepSeek
     # TODO: Fire-Flyer File System (3FS)
