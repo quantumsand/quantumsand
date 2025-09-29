@@ -306,7 +306,8 @@ class QuantumsandLive
       "katspaugh/wavesurfer.js",
       "yarnpkg/berry",
       "bbc/peaks.js",
-      "bbc/audiowaveform"
+      "bbc/audiowaveform",
+      "konvajs/konva"
     ]
 
     git_repos_gitlab = [
