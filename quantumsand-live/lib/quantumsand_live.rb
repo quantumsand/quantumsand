@@ -303,7 +303,8 @@ class QuantumsandLive
       "astral-sh/uv",
       "newton-physics/newton",
       "git-lfs/git-lfs",
-      "katspaugh/wavesurfer.js"
+      "katspaugh/wavesurfer.js",
+      "yarnpkg/berry"
     ]
 
     git_repos_gitlab = [
