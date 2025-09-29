@@ -279,7 +279,8 @@ class QuantumsandLive
       "cocoa-xu/image_rs",
       "image-rs/image",
       "elixir-nx/tokenizers",
-      "erlang/rebar3"
+      "erlang/rebar3",
+      "PCRE2Project/pcre2"
     ]
 
     git_repos_gitlab = [
