@@ -420,7 +420,8 @@ class QuantumsandLive
     git_repos_codeberg = [
       "uzu/strudel",
       "chrisn/peaks.js",
-      "chrisn/audiowaveform"
+      "chrisn/audiowaveform",
+      "chrisn/peaksjs-react-example"
     ]
 
     git_repos_kde_invent = [
