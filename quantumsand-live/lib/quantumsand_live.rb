@@ -304,7 +304,8 @@ class QuantumsandLive
       "newton-physics/newton",
       "git-lfs/git-lfs",
       "katspaugh/wavesurfer.js",
-      "yarnpkg/berry"
+      "yarnpkg/berry",
+      "bbc/peaks.js"
     ]
 
     git_repos_gitlab = [
@@ -416,7 +417,8 @@ class QuantumsandLive
     ]
 
     git_repos_codeberg = [
-      "uzu/strudel"
+      "uzu/strudel",
+      "chrisn/peaks.js"
     ]
 
     git_repos_kde_invent = [
