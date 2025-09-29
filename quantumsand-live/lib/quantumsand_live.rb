@@ -273,7 +273,11 @@ class QuantumsandLive
       "dmlc/xgboost",
       "acalejos/exgboost",
       "elixir-nx/scholar",
-      "elixir-nx/scidata"
+      "elixir-nx/scidata",
+      "nothings/stb",
+      "elixir-nx/stb_image",
+      "cocoa-xu/image_rs",
+      "image-rs/image"
     ]
 
     git_repos_gitlab = [
