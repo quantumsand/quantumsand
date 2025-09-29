@@ -294,7 +294,8 @@ class QuantumsandLive
       "erlang/percept",
       "rails/activemodel-serializers-xml",
       "rails/activerecord-session_store",
-      "rails/activeresource"
+      "rails/activeresource",
+      "rails/activesupport-json_encoder"
     ]
 
     git_repos_gitlab = [
