@@ -308,7 +308,8 @@ class QuantumsandLive
       "bbc/peaks.js",
       "bbc/audiowaveform",
       "konvajs/konva",
-      "bbc/waveform-data.js"
+      "bbc/waveform-data.js",
+      "bbc/audio_waveform-ruby"
     ]
 
     git_repos_gitlab = [
@@ -424,7 +425,8 @@ class QuantumsandLive
       "chrisn/peaks.js",
       "chrisn/audiowaveform",
       "chrisn/peaksjs-react-example",
-      "chrisn/waveform-data.js"
+      "chrisn/waveform-data.js",
+      "chrisn/audio_waveform-ruby"
     ]
 
     git_repos_kde_invent = [
