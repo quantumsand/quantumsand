@@ -281,7 +281,8 @@ class QuantumsandLive
       "elixir-nx/tokenizers",
       "erlang/rebar3",
       "PCRE2Project/pcre2",
-      "ulfjack/ryu"
+      "ulfjack/ryu",
+      "erlang/otp-gdb-tools"
     ]
 
     git_repos_gitlab = [
