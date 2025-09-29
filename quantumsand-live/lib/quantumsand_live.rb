@@ -272,7 +272,8 @@ class QuantumsandLive
       "elixir-nx/safetensors",
       "dmlc/xgboost",
       "acalejos/exgboost",
-      "elixir-nx/scholar"
+      "elixir-nx/scholar",
+      "elixir-nx/scidata"
     ]
 
     git_repos_gitlab = [
