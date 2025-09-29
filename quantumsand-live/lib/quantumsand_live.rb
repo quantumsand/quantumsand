@@ -430,7 +430,8 @@ class QuantumsandLive
       "blender/blender-assets",
       "blender/blender-manual",
       "blender/blender-ui-translations",
-      "blender/blender-manual-translations"
+      "blender/blender-manual-translations",
+      "blender/blender-developer-docs"
     ]
 
     gentoo_emerge_packages = [
