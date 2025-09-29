@@ -300,7 +300,8 @@ class QuantumsandLive
       "brendon/acts_as_list",
       "amerine/acts_as_tree",
       "rails/bootsnap",
-      "astral-sh/uv"
+      "astral-sh/uv",
+      "newton-physics/newton"
     ]
 
     git_repos_gitlab = [
