@@ -302,7 +302,8 @@ class QuantumsandLive
       "rails/bootsnap",
       "astral-sh/uv",
       "newton-physics/newton",
-      "git-lfs/git-lfs"
+      "git-lfs/git-lfs",
+      "katspaugh/wavesurfer.js"
     ]
 
     git_repos_gitlab = [
