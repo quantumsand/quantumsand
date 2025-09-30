@@ -447,7 +447,8 @@ class QuantumsandLive
       "blender/blender-manual",
       "blender/blender-ui-translations",
       "blender/blender-manual-translations",
-      "blender/blender-developer-docs"
+      "blender/blender-developer-docs",
+      "extensions/io_scene_3ds"
     ]
 
     gentoo_emerge_packages = [
