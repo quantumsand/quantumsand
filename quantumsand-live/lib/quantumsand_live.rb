@@ -313,7 +313,8 @@ class QuantumsandLive
       "transloadit/uppy",
       "s3rius/rustus",
       "tus/tus-js-client",
-      "tus/tusd"
+      "tus/tusd",
+      "waylow/add_camera_rigs"
     ]
 
     git_repos_gitlab = [
