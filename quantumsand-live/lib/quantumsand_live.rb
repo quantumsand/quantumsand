@@ -461,7 +461,8 @@ class QuantumsandLive
       "extensions/lighting_tri_lights",
       "extensions/io_scene_x3d",
       "extensions/object_collection_manager",
-      "extensions/mesh_inset"
+      "extensions/mesh_inset",
+      "extensions/add_curve_ivygen"
     ]
 
     gentoo_emerge_packages = [
