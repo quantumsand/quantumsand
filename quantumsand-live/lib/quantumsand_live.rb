@@ -452,7 +452,8 @@ class QuantumsandLive
       "extensions/amaranth",
       "extensions/add_mesh_BoltFactory",
       "extensions/render_povray",
-      "extensions/space_view3d_pie_menus"
+      "extensions/space_view3d_pie_menus",
+      "extensions/object_fracture_cell"
     ]
 
     gentoo_emerge_packages = [
