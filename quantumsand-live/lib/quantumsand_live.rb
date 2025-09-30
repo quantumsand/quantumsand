@@ -462,7 +462,8 @@ class QuantumsandLive
       "extensions/io_scene_x3d",
       "extensions/object_collection_manager",
       "extensions/mesh_inset",
-      "extensions/add_curve_ivygen"
+      "extensions/add_curve_ivygen",
+      "extensions/precision_drawing_tools"
     ]
 
     gentoo_emerge_packages = [
