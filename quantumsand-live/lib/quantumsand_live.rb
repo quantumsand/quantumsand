@@ -460,7 +460,8 @@ class QuantumsandLive
       "extensions/print3d_toolbox",
       "extensions/lighting_tri_lights",
       "extensions/io_scene_x3d",
-      "extensions/object_collection_manager"
+      "extensions/object_collection_manager",
+      "extensions/mesh_inset"
     ]
 
     gentoo_emerge_packages = [
