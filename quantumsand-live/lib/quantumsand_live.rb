@@ -453,7 +453,8 @@ class QuantumsandLive
       "extensions/add_mesh_BoltFactory",
       "extensions/render_povray",
       "extensions/space_view3d_pie_menus",
-      "extensions/object_fracture_cell"
+      "extensions/object_fracture_cell",
+      "extensions/mesh_looptools"
     ]
 
     gentoo_emerge_packages = [
