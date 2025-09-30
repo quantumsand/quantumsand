@@ -449,7 +449,8 @@ class QuantumsandLive
       "blender/blender-manual-translations",
       "blender/blender-developer-docs",
       "extensions/io_scene_3ds",
-      "extensions/amaranth"
+      "extensions/amaranth",
+      "extensions/add_mesh_BoltFactory"
     ]
 
     gentoo_emerge_packages = [
