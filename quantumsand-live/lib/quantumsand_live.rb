@@ -451,7 +451,8 @@ class QuantumsandLive
       "extensions/io_scene_3ds",
       "extensions/amaranth",
       "extensions/add_mesh_BoltFactory",
-      "extensions/render_povray"
+      "extensions/render_povray",
+      "extensions/space_view3d_pie_menus"
     ]
 
     gentoo_emerge_packages = [
