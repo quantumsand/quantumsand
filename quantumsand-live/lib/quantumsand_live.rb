@@ -310,7 +310,8 @@ class QuantumsandLive
       "konvajs/konva",
       "bbc/waveform-data.js",
       "bbc/audio_waveform-ruby",
-      "transloadit/uppy"
+      "transloadit/uppy",
+      "s3rius/rustus"
     ]
 
     git_repos_gitlab = [
