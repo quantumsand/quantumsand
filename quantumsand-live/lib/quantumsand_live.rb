@@ -456,7 +456,8 @@ class QuantumsandLive
       "extensions/object_fracture_cell",
       "extensions/mesh_looptools",
       "extensions/greasepencil_tools",
-      "extensions/print3d_toolbox"
+      "extensions/print3d_toolbox",
+      "extensions/lighting_tri_lights"
     ]
 
     gentoo_emerge_packages = [
