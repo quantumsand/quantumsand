@@ -312,7 +312,8 @@ class QuantumsandLive
       "bbc/audio_waveform-ruby",
       "transloadit/uppy",
       "s3rius/rustus",
-      "tus/tus-js-client"
+      "tus/tus-js-client",
+      "tus/tusd"
     ]
 
     git_repos_gitlab = [
