@@ -459,7 +459,8 @@ class QuantumsandLive
       "extensions/greasepencil_tools",
       "extensions/print3d_toolbox",
       "extensions/lighting_tri_lights",
-      "extensions/io_scene_x3d"
+      "extensions/io_scene_x3d",
+      "extensions/object_collection_manager"
     ]
 
     gentoo_emerge_packages = [
