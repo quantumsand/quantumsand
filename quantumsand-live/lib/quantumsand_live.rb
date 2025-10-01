@@ -317,7 +317,8 @@ class QuantumsandLive
       "waylow/add_camera_rigs",
       "xyflow/xyflow",
       "microsoft/playwright",
-      "open-cli-tools/concurrently"
+      "open-cli-tools/concurrently",
+      "prettier/prettier"
     ]
 
     git_repos_gitlab = [
