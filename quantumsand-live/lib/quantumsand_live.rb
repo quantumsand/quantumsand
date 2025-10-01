@@ -494,7 +494,8 @@ class QuantumsandLive
       "extensions/io_export_pc2",
       "extensions/io_export_dxf",
       "extensions/io_import_dxf",
-      "extensions/io_shape_mdd"
+      "extensions/io_shape_mdd",
+      "extensions/io_import_BrushSet"
     ]
 
     gentoo_emerge_packages = [
