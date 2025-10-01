@@ -321,7 +321,8 @@ class QuantumsandLive
       "prettier/prettier",
       "facebook/react",
       "isaacs/rimraf",
-      "rollup/rollup"
+      "rollup/rollup",
+      "vercel/turborepo"
     ]
 
     git_repos_gitlab = [
