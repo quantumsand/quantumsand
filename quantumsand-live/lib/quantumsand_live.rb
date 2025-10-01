@@ -479,7 +479,8 @@ class QuantumsandLive
       "extensions/precision_drawing_tools",
       "extensions/bone_selection_sets",
       "extensions/btrace",
-      "extensions/real_snow"
+      "extensions/real_snow",
+      "extensions/object_color_rules"
     ]
 
     gentoo_emerge_packages = [
