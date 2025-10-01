@@ -314,7 +314,8 @@ class QuantumsandLive
       "s3rius/rustus",
       "tus/tus-js-client",
       "tus/tusd",
-      "waylow/add_camera_rigs"
+      "waylow/add_camera_rigs",
+      "xyflow/xyflow"
     ]
 
     git_repos_gitlab = [
