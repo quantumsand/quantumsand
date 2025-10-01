@@ -327,7 +327,8 @@ class QuantumsandLive
       "changesets/changesets",
       "pnpm/pnpm",
       "npm/cli",
-      "AcademySoftwareFoundation/OpenColorIO"
+      "AcademySoftwareFoundation/OpenColorIO",
+      "WenjieDu/PyPOTS"
     ]
 
     git_repos_gitlab = [
