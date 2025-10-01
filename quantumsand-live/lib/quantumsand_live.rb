@@ -320,7 +320,8 @@ class QuantumsandLive
       "open-cli-tools/concurrently",
       "prettier/prettier",
       "facebook/react",
-      "isaacs/rimraf"
+      "isaacs/rimraf",
+      "rollup/rollup"
     ]
 
     git_repos_gitlab = [
