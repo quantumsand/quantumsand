@@ -491,7 +491,8 @@ class QuantumsandLive
       "extensions/system_property_chart",
       "extensions/io_anim_camera",
       "extensions/io_export_paper_model",
-      "extensions/io_export_pc2"
+      "extensions/io_export_pc2",
+      "extensions/io_export_dxf"
     ]
 
     gentoo_emerge_packages = [
