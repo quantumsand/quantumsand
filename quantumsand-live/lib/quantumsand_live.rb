@@ -326,7 +326,8 @@ class QuantumsandLive
       "microsoft/TypeScript",
       "changesets/changesets",
       "pnpm/pnpm",
-      "npm/cli"
+      "npm/cli",
+      "AcademySoftwareFoundation/OpenColorIO"
     ]
 
     git_repos_gitlab = [
