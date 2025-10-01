@@ -481,7 +481,8 @@ class QuantumsandLive
       "extensions/btrace",
       "extensions/real_snow",
       "extensions/object_color_rules",
-      "extensions/space_view3d_align_tools"
+      "extensions/space_view3d_align_tools",
+      "extensions/add_curve_sapling"
     ]
 
     gentoo_emerge_packages = [
