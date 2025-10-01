@@ -477,7 +477,8 @@ class QuantumsandLive
       "extensions/mesh_inset",
       "extensions/add_curve_ivygen",
       "extensions/precision_drawing_tools",
-      "extensions/bone_selection_sets"
+      "extensions/bone_selection_sets",
+      "extensions/btrace"
     ]
 
     gentoo_emerge_packages = [
