@@ -490,7 +490,8 @@ class QuantumsandLive
       "extensions/power_sequencer",
       "extensions/system_property_chart",
       "extensions/io_anim_camera",
-      "extensions/io_export_paper_model"
+      "extensions/io_export_paper_model",
+      "extensions/io_export_pc2"
     ]
 
     gentoo_emerge_packages = [
