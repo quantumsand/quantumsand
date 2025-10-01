@@ -482,7 +482,8 @@ class QuantumsandLive
       "extensions/real_snow",
       "extensions/object_color_rules",
       "extensions/space_view3d_align_tools",
-      "extensions/add_curve_sapling"
+      "extensions/add_curve_sapling",
+      "extensions/development_icon_get"
     ]
 
     gentoo_emerge_packages = [
