@@ -485,7 +485,8 @@ class QuantumsandLive
       "extensions/add_curve_sapling",
       "extensions/development_icon_get",
       "extensions/space_view3d_3d_navigation",
-      "extensions/io_mesh_stl"
+      "extensions/io_mesh_stl",
+      "extensions/io_anim_nuke_chan"
     ]
 
     gentoo_emerge_packages = [
