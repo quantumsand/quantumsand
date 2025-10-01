@@ -315,7 +315,8 @@ class QuantumsandLive
       "tus/tus-js-client",
       "tus/tusd",
       "waylow/add_camera_rigs",
-      "xyflow/xyflow"
+      "xyflow/xyflow",
+      "microsoft/playwright"
     ]
 
     git_repos_gitlab = [
