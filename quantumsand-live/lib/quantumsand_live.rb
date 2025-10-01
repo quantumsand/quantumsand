@@ -324,7 +324,8 @@ class QuantumsandLive
       "rollup/rollup",
       "vercel/turborepo",
       "microsoft/TypeScript",
-      "changesets/changesets"
+      "changesets/changesets",
+      "pnpm/pnpm"
     ]
 
     git_repos_gitlab = [
