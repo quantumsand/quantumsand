@@ -322,7 +322,8 @@ class QuantumsandLive
       "facebook/react",
       "isaacs/rimraf",
       "rollup/rollup",
-      "vercel/turborepo"
+      "vercel/turborepo",
+      "microsoft/TypeScript"
     ]
 
     git_repos_gitlab = [
