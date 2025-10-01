@@ -488,7 +488,8 @@ class QuantumsandLive
       "extensions/io_mesh_stl",
       "extensions/io_anim_nuke_chan",
       "extensions/power_sequencer",
-      "extensions/system_property_chart"
+      "extensions/system_property_chart",
+      "extensions/io_anim_camera"
     ]
 
     gentoo_emerge_packages = [
