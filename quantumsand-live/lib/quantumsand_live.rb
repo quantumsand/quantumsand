@@ -319,7 +319,8 @@ class QuantumsandLive
       "microsoft/playwright",
       "open-cli-tools/concurrently",
       "prettier/prettier",
-      "facebook/react"
+      "facebook/react",
+      "isaacs/rimraf"
     ]
 
     git_repos_gitlab = [
