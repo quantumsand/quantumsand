@@ -487,7 +487,8 @@ class QuantumsandLive
       "extensions/space_view3d_3d_navigation",
       "extensions/io_mesh_stl",
       "extensions/io_anim_nuke_chan",
-      "extensions/power_sequencer"
+      "extensions/power_sequencer",
+      "extensions/system_property_chart"
     ]
 
     gentoo_emerge_packages = [
