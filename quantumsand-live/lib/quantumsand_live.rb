@@ -323,7 +323,8 @@ class QuantumsandLive
       "isaacs/rimraf",
       "rollup/rollup",
       "vercel/turborepo",
-      "microsoft/TypeScript"
+      "microsoft/TypeScript",
+      "changesets/changesets"
     ]
 
     git_repos_gitlab = [
