@@ -318,7 +318,8 @@ class QuantumsandLive
       "xyflow/xyflow",
       "microsoft/playwright",
       "open-cli-tools/concurrently",
-      "prettier/prettier"
+      "prettier/prettier",
+      "facebook/react"
     ]
 
     git_repos_gitlab = [
