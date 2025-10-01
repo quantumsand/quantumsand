@@ -493,7 +493,8 @@ class QuantumsandLive
       "extensions/io_export_paper_model",
       "extensions/io_export_pc2",
       "extensions/io_export_dxf",
-      "extensions/io_import_dxf"
+      "extensions/io_import_dxf",
+      "extensions/io_shape_mdd"
     ]
 
     gentoo_emerge_packages = [
