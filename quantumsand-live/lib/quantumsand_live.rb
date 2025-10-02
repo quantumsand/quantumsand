@@ -369,7 +369,8 @@ class QuantumsandLive
       "jscottsmith/react-scroll-parallax",
       "srdjan/react-multistep",
       "vercel/satori",
-      "facebook/yoga"
+      "facebook/yoga",
+      "ddnexus/pagy"
     ]
 
     git_repos_chromium_googlesource = [
