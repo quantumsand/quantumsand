@@ -371,7 +371,8 @@ class QuantumsandLive
       "vercel/satori",
       "facebook/yoga",
       "ddnexus/pagy",
-      "crmne/ruby_llm"
+      "crmne/ruby_llm",
+      "siaw23/railserd"
     ]
 
     git_repos_chromium_googlesource = [
