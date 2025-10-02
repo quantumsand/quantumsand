@@ -348,7 +348,8 @@ class QuantumsandLive
       "postcss/postcss",
       "rails/cssbundling-rails",
       "rails/dartsass-rails",
-      "rails/devcontainer"
+      "rails/devcontainer",
+      "rails/docked"
     ]
 
     git_repos_gitlab = [
