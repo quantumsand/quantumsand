@@ -355,7 +355,8 @@ class QuantumsandLive
       "oven-sh/bun",
       "webpack/webpack",
       "kmcphillips/exception_notification",
-      "rails/execjs"
+      "rails/execjs",
+      "rails/globalid"
     ]
 
     git_repos_chromium_googlesource = [
