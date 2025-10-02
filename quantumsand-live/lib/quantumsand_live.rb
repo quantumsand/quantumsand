@@ -331,7 +331,8 @@ class QuantumsandLive
       "WenjieDu/PyPOTS",
       "mikeakohn/small_projects",
       "openzfs/zfs",
-      "openzfs/openzfs-docs"
+      "openzfs/openzfs-docs",
+      "rails/builder"
     ]
 
     git_repos_gitlab = [
