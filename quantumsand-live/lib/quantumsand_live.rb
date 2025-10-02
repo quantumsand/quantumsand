@@ -352,7 +352,8 @@ class QuantumsandLive
       "rails/docked",
       "rails/jsbundling-rails",
       "evanw/esbuild",
-      "oven-sh/bun"
+      "oven-sh/bun",
+      "webpack/webpack"
     ]
 
     git_repos_gitlab = [
