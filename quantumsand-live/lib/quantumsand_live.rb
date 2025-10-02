@@ -334,7 +334,8 @@ class QuantumsandLive
       "openzfs/openzfs-docs",
       "rails/builder",
       "buildkite/agent",
-      "buildkite/emojis"
+      "buildkite/emojis",
+      "rails/buildkite-config"
     ]
 
     git_repos_gitlab = [
