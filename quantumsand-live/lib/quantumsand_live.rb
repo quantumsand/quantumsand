@@ -367,7 +367,8 @@ class QuantumsandLive
       "i18next/i18next-cli",
       "i18next/react-i18next",
       "jscottsmith/react-scroll-parallax",
-      "srdjan/react-multistep"
+      "srdjan/react-multistep",
+      "vercel/satori"
     ]
 
     git_repos_chromium_googlesource = [
