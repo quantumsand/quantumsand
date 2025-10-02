@@ -363,7 +363,8 @@ class QuantumsandLive
       "rails/jquery-rails",
       "rails/jquery-ujs",
       "rails/kredis",
-      "facebook/docusaurus"
+      "facebook/docusaurus",
+      "i18next/i18next-cli"
     ]
 
     git_repos_chromium_googlesource = [
