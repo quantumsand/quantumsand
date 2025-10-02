@@ -357,7 +357,8 @@ class QuantumsandLive
       "kmcphillips/exception_notification",
       "rails/execjs",
       "rails/globalid",
-      "dshimy/http_authentication"
+      "dshimy/http_authentication",
+      "rails/importmap-rails"
     ]
 
     git_repos_chromium_googlesource = [
