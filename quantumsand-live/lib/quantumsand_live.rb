@@ -336,7 +336,8 @@ class QuantumsandLive
       "buildkite/agent",
       "buildkite/emojis",
       "rails/buildkite-config",
-      "gusto/buildkite-builder"
+      "gusto/buildkite-builder",
+      "rails/coffee-rails"
     ]
 
     git_repos_gitlab = [
