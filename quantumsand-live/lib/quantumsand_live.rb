@@ -341,7 +341,8 @@ class QuantumsandLive
       "rails/commands",
       "rails/conductor",
       "countries/country_select",
-      "tailwindlabs/tailwindcss"
+      "tailwindlabs/tailwindcss",
+      "tailwindlabs/headlessui"
     ]
 
     git_repos_gitlab = [
