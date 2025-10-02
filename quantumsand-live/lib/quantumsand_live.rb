@@ -339,7 +339,8 @@ class QuantumsandLive
       "gusto/buildkite-builder",
       "rails/coffee-rails",
       "rails/commands",
-      "rails/conductor"
+      "rails/conductor",
+      "countries/country_select"
     ]
 
     git_repos_gitlab = [
