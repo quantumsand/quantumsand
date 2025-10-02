@@ -359,7 +359,8 @@ class QuantumsandLive
       "rails/globalid",
       "dshimy/http_authentication",
       "rails/importmap-rails",
-      "rails/jbuilder"
+      "rails/jbuilder",
+      "rails/jquery-rails"
     ]
 
     git_repos_chromium_googlesource = [
