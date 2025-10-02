@@ -353,7 +353,8 @@ class QuantumsandLive
       "rails/jsbundling-rails",
       "evanw/esbuild",
       "oven-sh/bun",
-      "webpack/webpack"
+      "webpack/webpack",
+      "kmcphillips/exception_notification"
     ]
 
     git_repos_gitlab = [
