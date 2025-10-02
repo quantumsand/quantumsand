@@ -370,7 +370,8 @@ class QuantumsandLive
       "srdjan/react-multistep",
       "vercel/satori",
       "facebook/yoga",
-      "ddnexus/pagy"
+      "ddnexus/pagy",
+      "crmne/ruby_llm"
     ]
 
     git_repos_chromium_googlesource = [
