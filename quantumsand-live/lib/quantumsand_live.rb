@@ -343,7 +343,8 @@ class QuantumsandLive
       "countries/country_select",
       "tailwindlabs/tailwindcss",
       "tailwindlabs/headlessui",
-      "tailwindlabs/tailwindcss-typography"
+      "tailwindlabs/tailwindcss-typography",
+      "tailwindlabs/prettier-plugin-tailwindcss"
     ]
 
     git_repos_gitlab = [
