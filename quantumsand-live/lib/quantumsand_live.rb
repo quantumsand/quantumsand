@@ -358,6 +358,14 @@ class QuantumsandLive
       "rails/execjs"
     ]
 
+    git_repos_chromium_googlesource = [
+      "chromium/src"
+    ]
+
+    git_repos_code_qt_io = [
+      "qt/qtwebengine"
+    ]
+
     git_repos_gitlab = [
       "asus-linux/asusctl",
       "asus-linux/supergfxctl"
