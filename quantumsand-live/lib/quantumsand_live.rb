@@ -504,7 +504,8 @@ class QuantumsandLive
       "extensions/render_copy_settings",
       "extensions/ant_landscape",
       "extensions/io_import_palette",
-      "extensions/measureit"
+      "extensions/measureit",
+      "extensions/curve_tools"
     ]
 
     gentoo_emerge_packages = [
