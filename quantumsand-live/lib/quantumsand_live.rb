@@ -356,7 +356,8 @@ class QuantumsandLive
       "webpack/webpack",
       "kmcphillips/exception_notification",
       "rails/execjs",
-      "rails/globalid"
+      "rails/globalid",
+      "dshimy/http_authentication"
     ]
 
     git_repos_chromium_googlesource = [
