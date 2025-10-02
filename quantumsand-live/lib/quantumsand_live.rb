@@ -373,7 +373,8 @@ class QuantumsandLive
       "ddnexus/pagy",
       "crmne/ruby_llm",
       "siaw23/railserd",
-      "roo-rb/roo"
+      "roo-rb/roo",
+      "interagent/committee"
     ]
 
     git_repos_chromium_googlesource = [
