@@ -366,7 +366,8 @@ class QuantumsandLive
       "facebook/docusaurus",
       "i18next/i18next-cli",
       "i18next/react-i18next",
-      "jscottsmith/react-scroll-parallax"
+      "jscottsmith/react-scroll-parallax",
+      "srdjan/react-multistep"
     ]
 
     git_repos_chromium_googlesource = [
