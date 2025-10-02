@@ -330,7 +330,8 @@ class QuantumsandLive
       "AcademySoftwareFoundation/OpenColorIO",
       "WenjieDu/PyPOTS",
       "mikeakohn/small_projects",
-      "openzfs/zfs"
+      "openzfs/zfs",
+      "openzfs/openzfs-docs"
     ]
 
     git_repos_gitlab = [
