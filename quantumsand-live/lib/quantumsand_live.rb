@@ -347,7 +347,8 @@ class QuantumsandLive
       "tailwindlabs/prettier-plugin-tailwindcss",
       "postcss/postcss",
       "rails/cssbundling-rails",
-      "rails/dartsass-rails"
+      "rails/dartsass-rails",
+      "rails/devcontainer"
     ]
 
     git_repos_gitlab = [
