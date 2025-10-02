@@ -345,7 +345,8 @@ class QuantumsandLive
       "tailwindlabs/headlessui",
       "tailwindlabs/tailwindcss-typography",
       "tailwindlabs/prettier-plugin-tailwindcss",
-      "postcss/postcss"
+      "postcss/postcss",
+      "rails/cssbundling-rails"
     ]
 
     git_repos_gitlab = [
