@@ -503,7 +503,8 @@ class QuantumsandLive
       "extensions/space_clip_editor_refine_solution",
       "extensions/render_copy_settings",
       "extensions/ant_landscape",
-      "extensions/io_import_palette"
+      "extensions/io_import_palette",
+      "extensions/measureit"
     ]
 
     gentoo_emerge_packages = [
