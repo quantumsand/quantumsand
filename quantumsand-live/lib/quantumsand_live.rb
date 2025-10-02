@@ -340,7 +340,8 @@ class QuantumsandLive
       "rails/coffee-rails",
       "rails/commands",
       "rails/conductor",
-      "countries/country_select"
+      "countries/country_select",
+      "tailwindlabs/tailwindcss"
     ]
 
     git_repos_gitlab = [
