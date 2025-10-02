@@ -502,7 +502,8 @@ class QuantumsandLive
       "extensions/io_import_BrushSet",
       "extensions/space_clip_editor_refine_solution",
       "extensions/render_copy_settings",
-      "extensions/ant_landscape"
+      "extensions/ant_landscape",
+      "extensions/io_import_palette"
     ]
 
     gentoo_emerge_packages = [
