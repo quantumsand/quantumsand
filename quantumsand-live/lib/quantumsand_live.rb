@@ -581,7 +581,8 @@ class QuantumsandLive
       "extensions/vdm_brush_baker",
       "extensions/io_mesh_atomic",
       "extensions/development_edit_operator",
-      "extensions/mesh_tissue"
+      "extensions/mesh_tissue",
+      "extensions/magic_uv"
     ]
 
     gentoo_emerge_packages = [
