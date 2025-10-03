@@ -610,7 +610,8 @@ class QuantumsandLive
       "extensions/render_freestyle_svg",
       "extensions/mesh_auto_mirror",
       "extensions/add_mesh_discombobulator",
-      "extensions/system_blend_info"
+      "extensions/system_blend_info",
+      "extensions/space_view3d_spacebar_menu"
     ]
 
     gentoo_emerge_packages = [
