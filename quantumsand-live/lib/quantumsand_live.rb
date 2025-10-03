@@ -570,7 +570,8 @@ class QuantumsandLive
       "extensions/add_mesh_extra_objects",
       "extensions/space_view3d_copy_attributes",
       "extensions/mesh_bsurfaces",
-      "extensions/object_carver"
+      "extensions/object_carver",
+      "extensions/action_to_scene_range"
     ]
 
     gentoo_emerge_packages = [
