@@ -574,7 +574,8 @@ class QuantumsandLive
       "extensions/object_carver",
       "extensions/action_to_scene_range",
       "extensions/storypencil",
-      "extensions/object_boolean_tools"
+      "extensions/object_boolean_tools",
+      "extensions/animation_animall"
     ]
 
     gentoo_emerge_packages = [
