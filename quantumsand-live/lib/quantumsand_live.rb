@@ -597,7 +597,8 @@ class QuantumsandLive
       "extensions/space_view3d_math_vis",
       "extensions/mesh_tools",
       "extensions/lighting_dynamic_sky",
-      "extensions/render_ui_animation_render"
+      "extensions/render_ui_animation_render",
+      "extensions/object_scatter"
     ]
 
     gentoo_emerge_packages = [
