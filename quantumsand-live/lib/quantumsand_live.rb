@@ -587,7 +587,8 @@ class QuantumsandLive
       "extensions/theme_xsi",
       "extensions/theme_white",
       "extensions/theme_maya",
-      "extensions/theme_minimal_dark"
+      "extensions/theme_minimal_dark",
+      "extensions/theme_print_friendly"
     ]
 
     gentoo_emerge_packages = [
