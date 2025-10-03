@@ -559,7 +559,8 @@ class QuantumsandLive
       "extensions/measureit",
       "extensions/curve_tools",
       "extensions/space_view3d_stored_views",
-      "extensions/space_view3d_modifier_tools"
+      "extensions/space_view3d_modifier_tools",
+      "extensions/blender_id"
     ]
 
     gentoo_emerge_packages = [
