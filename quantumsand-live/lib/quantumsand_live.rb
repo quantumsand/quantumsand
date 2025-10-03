@@ -567,7 +567,8 @@ class QuantumsandLive
       "extensions/mesh_tiny_cad",
       "extensions/object_edit_linked",
       "extensions/add_curve_extra_objects",
-      "extensions/add_mesh_extra_objects"
+      "extensions/add_mesh_extra_objects",
+      "extensions/space_view3d_copy_attributes"
     ]
 
     gentoo_emerge_packages = [
