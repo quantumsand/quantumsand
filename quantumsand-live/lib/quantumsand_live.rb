@@ -600,7 +600,8 @@ class QuantumsandLive
       "extensions/render_ui_animation_render",
       "extensions/object_scatter",
       "extensions/camera_turnaround",
-      "extensions/paint_palette"
+      "extensions/paint_palette",
+      "extensions/archimesh"
     ]
 
     gentoo_emerge_packages = [
