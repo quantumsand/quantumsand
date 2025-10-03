@@ -582,7 +582,8 @@ class QuantumsandLive
       "extensions/io_mesh_atomic",
       "extensions/development_edit_operator",
       "extensions/mesh_tissue",
-      "extensions/magic_uv"
+      "extensions/magic_uv",
+      "extensions/materials_utils"
     ]
 
     gentoo_emerge_packages = [
