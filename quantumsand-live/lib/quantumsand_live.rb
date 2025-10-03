@@ -563,7 +563,8 @@ class QuantumsandLive
       "extensions/blender_id",
       "extensions/mesh_snap_utilities_line",
       "extensions/curve_simplify",
-      "extensions/mesh_f2"
+      "extensions/mesh_f2",
+      "extensions/mesh_tiny_cad"
     ]
 
     gentoo_emerge_packages = [
