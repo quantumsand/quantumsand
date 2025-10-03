@@ -605,7 +605,8 @@ class QuantumsandLive
       "extensions/object_skinify",
       "extensions/add_mesh_geodesic_domes",
       "extensions/node_presets",
-      "extensions/materials_library_vx"
+      "extensions/materials_library_vx",
+      "extensions/development_iskeyfree"
     ]
 
     gentoo_emerge_packages = [
