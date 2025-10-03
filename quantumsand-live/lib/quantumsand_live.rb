@@ -374,7 +374,8 @@ class QuantumsandLive
       "crmne/ruby_llm",
       "siaw23/railserd",
       "roo-rb/roo",
-      "interagent/committee"
+      "interagent/committee",
+      "godot-rust/gdext"
     ]
 
     git_repos_chromium_googlesource = [
