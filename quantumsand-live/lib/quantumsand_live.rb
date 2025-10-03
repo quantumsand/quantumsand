@@ -603,7 +603,8 @@ class QuantumsandLive
       "extensions/paint_palette",
       "extensions/archimesh",
       "extensions/object_skinify",
-      "extensions/add_mesh_geodesic_domes"
+      "extensions/add_mesh_geodesic_domes",
+      "extensions/node_presets"
     ]
 
     gentoo_emerge_packages = [
