@@ -591,7 +591,8 @@ class QuantumsandLive
       "extensions/theme_print_friendly",
       "extensions/theme_modo",
       "extensions/system_demo_mode",
-      "extensions/curve_assign_shapekey"
+      "extensions/curve_assign_shapekey",
+      "extensions/animation_add_corrective_shape_key"
     ]
 
     gentoo_emerge_packages = [
