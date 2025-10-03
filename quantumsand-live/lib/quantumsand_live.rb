@@ -584,7 +584,8 @@ class QuantumsandLive
       "extensions/mesh_tissue",
       "extensions/magic_uv",
       "extensions/materials_utils",
-      "extensions/theme_xsi"
+      "extensions/theme_xsi",
+      "extensions/theme_white"
     ]
 
     gentoo_emerge_packages = [
