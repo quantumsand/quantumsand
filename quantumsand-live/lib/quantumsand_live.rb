@@ -580,7 +580,8 @@ class QuantumsandLive
       "extensions/theme_deep_grey",
       "extensions/vdm_brush_baker",
       "extensions/io_mesh_atomic",
-      "extensions/development_edit_operator"
+      "extensions/development_edit_operator",
+      "extensions/mesh_tissue"
     ]
 
     gentoo_emerge_packages = [
