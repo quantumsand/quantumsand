@@ -566,7 +566,8 @@ class QuantumsandLive
       "extensions/mesh_f2",
       "extensions/mesh_tiny_cad",
       "extensions/object_edit_linked",
-      "extensions/add_curve_extra_objects"
+      "extensions/add_curve_extra_objects",
+      "extensions/add_mesh_extra_objects"
     ]
 
     gentoo_emerge_packages = [
