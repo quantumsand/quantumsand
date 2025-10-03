@@ -560,7 +560,8 @@ class QuantumsandLive
       "extensions/curve_tools",
       "extensions/space_view3d_stored_views",
       "extensions/space_view3d_modifier_tools",
-      "extensions/blender_id"
+      "extensions/blender_id",
+      "extensions/mesh_snap_utilities_line"
     ]
 
     gentoo_emerge_packages = [
