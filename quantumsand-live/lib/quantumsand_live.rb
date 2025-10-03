@@ -602,7 +602,8 @@ class QuantumsandLive
       "extensions/camera_turnaround",
       "extensions/paint_palette",
       "extensions/archimesh",
-      "extensions/object_skinify"
+      "extensions/object_skinify",
+      "extensions/add_mesh_geodesic_domes"
     ]
 
     gentoo_emerge_packages = [
