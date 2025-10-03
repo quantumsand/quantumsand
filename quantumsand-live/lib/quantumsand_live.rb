@@ -569,7 +569,8 @@ class QuantumsandLive
       "extensions/add_curve_extra_objects",
       "extensions/add_mesh_extra_objects",
       "extensions/space_view3d_copy_attributes",
-      "extensions/mesh_bsurfaces"
+      "extensions/mesh_bsurfaces",
+      "extensions/object_carver"
     ]
 
     gentoo_emerge_packages = [
