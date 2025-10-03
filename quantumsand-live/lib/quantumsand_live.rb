@@ -601,7 +601,8 @@ class QuantumsandLive
       "extensions/object_scatter",
       "extensions/camera_turnaround",
       "extensions/paint_palette",
-      "extensions/archimesh"
+      "extensions/archimesh",
+      "extensions/object_skinify"
     ]
 
     gentoo_emerge_packages = [
