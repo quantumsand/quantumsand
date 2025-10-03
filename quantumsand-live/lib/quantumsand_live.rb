@@ -607,7 +607,8 @@ class QuantumsandLive
       "extensions/node_presets",
       "extensions/materials_library_vx",
       "extensions/development_iskeyfree",
-      "extensions/render_freestyle_svg"
+      "extensions/render_freestyle_svg",
+      "extensions/mesh_auto_mirror"
     ]
 
     gentoo_emerge_packages = [
