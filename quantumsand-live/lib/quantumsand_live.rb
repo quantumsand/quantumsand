@@ -375,7 +375,8 @@ class QuantumsandLive
       "siaw23/railserd",
       "roo-rb/roo",
       "interagent/committee",
-      "godot-rust/gdext"
+      "godot-rust/gdext",
+      "nickberckley/bool_tool"
     ]
 
     git_repos_chromium_googlesource = [
@@ -572,7 +573,8 @@ class QuantumsandLive
       "extensions/mesh_bsurfaces",
       "extensions/object_carver",
       "extensions/action_to_scene_range",
-      "extensions/storypencil"
+      "extensions/storypencil",
+      "extensions/object_boolean_tools"
     ]
 
     gentoo_emerge_packages = [
