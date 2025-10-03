@@ -576,7 +576,8 @@ class QuantumsandLive
       "extensions/storypencil",
       "extensions/object_boolean_tools",
       "extensions/animation_animall",
-      "extensions/automation-scripts"
+      "extensions/automation-scripts",
+      "extensions/theme_deep_grey"
     ]
 
     gentoo_emerge_packages = [
