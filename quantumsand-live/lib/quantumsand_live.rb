@@ -578,7 +578,8 @@ class QuantumsandLive
       "extensions/animation_animall",
       "extensions/automation-scripts",
       "extensions/theme_deep_grey",
-      "extensions/vdm_brush_baker"
+      "extensions/vdm_brush_baker",
+      "extensions/io_mesh_atomic"
     ]
 
     gentoo_emerge_packages = [
