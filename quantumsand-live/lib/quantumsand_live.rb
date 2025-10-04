@@ -387,7 +387,8 @@ class QuantumsandLive
       "verdaccio/verdaccio",
       "samizdatco/skia-canvas",
       "mafintosh/tar-fs",
-      "mafintosh/tar-stream"
+      "mafintosh/tar-stream",
+      "ayuhito/modern-tar"
     ]
 
     git_repos_chromium_googlesource = [
