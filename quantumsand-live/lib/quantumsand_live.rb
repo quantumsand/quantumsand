@@ -388,6 +388,10 @@ class QuantumsandLive
       "v8/v8"
     ]
 
+    git_repos_gn_googlesource = [
+      "gn"
+    ]
+
     git_repos_code_qt_io = [
       "qt/qtwebengine"
     ]
