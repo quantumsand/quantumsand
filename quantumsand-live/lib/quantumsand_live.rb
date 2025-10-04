@@ -385,7 +385,8 @@ class QuantumsandLive
       "TypeCellOS/BlockNote",
       "PawanKolhe/color-calendar",
       "verdaccio/verdaccio",
-      "samizdatco/skia-canvas"
+      "samizdatco/skia-canvas",
+      "mafintosh/tar-fs"
     ]
 
     git_repos_chromium_googlesource = [
