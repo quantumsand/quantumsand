@@ -380,7 +380,8 @@ class QuantumsandLive
       "helsing-ai/sguaba",
       "Cairo-Dock/cairo-dock-core",
       "Cairo-Dock/cairo-dock-plug-ins",
-      "Cairo-Dock/cairo-dock-plug-ins-extras"
+      "Cairo-Dock/cairo-dock-plug-ins-extras",
+      "ninja-build/ninja"
     ]
 
     git_repos_chromium_googlesource = [
