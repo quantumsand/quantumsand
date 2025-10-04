@@ -390,7 +390,8 @@ class QuantumsandLive
       "mafintosh/tar-stream",
       "ayuhito/modern-tar",
       "spencermountain/spacetime",
-      "denoland/deno"
+      "denoland/deno",
+      "oxc-project/oxc"
     ]
 
     git_repos_chromium_googlesource = [
