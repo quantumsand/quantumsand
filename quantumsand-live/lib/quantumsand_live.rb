@@ -377,7 +377,8 @@ class QuantumsandLive
       "interagent/committee",
       "godot-rust/gdext",
       "nickberckley/bool_tool",
-      "helsing-ai/sguaba"
+      "helsing-ai/sguaba",
+      "Cairo-Dock/cairo-dock-core"
     ]
 
     git_repos_chromium_googlesource = [
