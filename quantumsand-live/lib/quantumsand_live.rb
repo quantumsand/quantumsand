@@ -381,7 +381,8 @@ class QuantumsandLive
       "Cairo-Dock/cairo-dock-core",
       "Cairo-Dock/cairo-dock-plug-ins",
       "Cairo-Dock/cairo-dock-plug-ins-extras",
-      "ninja-build/ninja"
+      "ninja-build/ninja",
+      "TypeCellOS/BlockNote"
     ]
 
     git_repos_chromium_googlesource = [
