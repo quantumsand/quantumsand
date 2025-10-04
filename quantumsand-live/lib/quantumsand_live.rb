@@ -391,7 +391,8 @@ class QuantumsandLive
       "ayuhito/modern-tar",
       "spencermountain/spacetime",
       "denoland/deno",
-      "oxc-project/oxc"
+      "oxc-project/oxc",
+      "raineorshine/npm-check-updates"
     ]
 
     git_repos_chromium_googlesource = [
