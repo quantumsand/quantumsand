@@ -384,7 +384,8 @@ class QuantumsandLive
     ]
 
     git_repos_chromium_googlesource = [
-      "chromium/src"
+      "chromium/src",
+      "v8/v8"
     ]
 
     git_repos_code_qt_io = [
