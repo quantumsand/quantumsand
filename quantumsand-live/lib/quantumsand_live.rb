@@ -483,6 +483,10 @@ class QuantumsandLive
       "redox-os/cookbook"
     ]
 
+    git_repos_freebsd_org = [
+      "src"
+    ]
+
     git_repos_gnome_gitlab = [
       "GNOME/vala"
     ]
