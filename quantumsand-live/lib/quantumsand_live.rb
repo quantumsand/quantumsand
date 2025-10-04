@@ -392,7 +392,8 @@ class QuantumsandLive
       "spencermountain/spacetime",
       "denoland/deno",
       "oxc-project/oxc",
-      "raineorshine/npm-check-updates"
+      "raineorshine/npm-check-updates",
+      "juliangarnier/anime"
     ]
 
     git_repos_chromium_googlesource = [
