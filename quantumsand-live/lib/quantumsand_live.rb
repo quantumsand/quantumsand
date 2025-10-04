@@ -384,7 +384,8 @@ class QuantumsandLive
       "ninja-build/ninja",
       "TypeCellOS/BlockNote",
       "PawanKolhe/color-calendar",
-      "verdaccio/verdaccio"
+      "verdaccio/verdaccio",
+      "samizdatco/skia-canvas"
     ]
 
     git_repos_chromium_googlesource = [
