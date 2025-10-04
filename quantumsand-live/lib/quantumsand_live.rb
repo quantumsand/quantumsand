@@ -386,7 +386,8 @@ class QuantumsandLive
       "PawanKolhe/color-calendar",
       "verdaccio/verdaccio",
       "samizdatco/skia-canvas",
-      "mafintosh/tar-fs"
+      "mafintosh/tar-fs",
+      "mafintosh/tar-stream"
     ]
 
     git_repos_chromium_googlesource = [
