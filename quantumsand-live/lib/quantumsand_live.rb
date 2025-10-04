@@ -382,7 +382,8 @@ class QuantumsandLive
       "Cairo-Dock/cairo-dock-plug-ins",
       "Cairo-Dock/cairo-dock-plug-ins-extras",
       "ninja-build/ninja",
-      "TypeCellOS/BlockNote"
+      "TypeCellOS/BlockNote",
+      "PawanKolhe/color-calendar"
     ]
 
     git_repos_chromium_googlesource = [
