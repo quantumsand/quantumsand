@@ -379,7 +379,8 @@ class QuantumsandLive
       "nickberckley/bool_tool",
       "helsing-ai/sguaba",
       "Cairo-Dock/cairo-dock-core",
-      "Cairo-Dock/cairo-dock-plug-ins"
+      "Cairo-Dock/cairo-dock-plug-ins",
+      "Cairo-Dock/cairo-dock-plug-ins-extras"
     ]
 
     git_repos_chromium_googlesource = [
