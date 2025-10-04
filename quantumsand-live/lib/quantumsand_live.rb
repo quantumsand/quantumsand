@@ -389,7 +389,8 @@ class QuantumsandLive
       "mafintosh/tar-fs",
       "mafintosh/tar-stream",
       "ayuhito/modern-tar",
-      "spencermountain/spacetime"
+      "spencermountain/spacetime",
+      "denoland/deno"
     ]
 
     git_repos_chromium_googlesource = [
