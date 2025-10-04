@@ -388,7 +388,8 @@ class QuantumsandLive
       "samizdatco/skia-canvas",
       "mafintosh/tar-fs",
       "mafintosh/tar-stream",
-      "ayuhito/modern-tar"
+      "ayuhito/modern-tar",
+      "spencermountain/spacetime"
     ]
 
     git_repos_chromium_googlesource = [
