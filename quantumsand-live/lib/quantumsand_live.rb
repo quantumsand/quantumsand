@@ -509,7 +509,8 @@ class QuantumsandLive
     ]
 
     git_repos_kde_invent = [
-      "sdk/kdesrc-build"
+      "sdk/kdesrc-build",
+      "graphics/krita"
     ]
 
     git_repos_projects_blender = [
