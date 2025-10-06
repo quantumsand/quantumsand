@@ -409,6 +409,10 @@ class QuantumsandLive
       "qt/qtwebengine"
     ]
 
+    git_repos_deuxfleurs_fr = [
+      "Deuxfleurs/garage"
+    ]
+
     git_repos_gitlab = [
       "asus-linux/asusctl",
       "asus-linux/supergfxctl"
