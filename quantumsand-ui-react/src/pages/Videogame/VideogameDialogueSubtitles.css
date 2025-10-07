@@ -1,0 +1,31 @@
+.videogame__dialogueSubtitles-overlay {
+  display: flex;
+  flex-direction: column;
+  background-color: black;
+  padding: 12px 0;
+  /* padding-top: 12px; */
+  /* width: 100%; */
+  min-width: 500px;
+  height: 180px;
+  justify-content: center;
+  border-radius: 15px;
+}
+
+.videogame__dialogueSubtitles {
+  font-family: 'Noto Sans', serif;
+  font-size: calc(180px * 0.12);
+  /* text-align: center; */
+  padding: 0 45px;
+  /* padding-bottom: 34px; */
+  text-shadow: 1px 1px 2px #b99157;
+  animation: videogame__dialogueSubtitlesColorcycle 20s infinite;
+}
+
+@keyframes videogame__dialogueSubtitlesColorcycle {
+  from {color: #1ed760; text-shadow: 1px 1px 2px #1ed760;}
+  to {color: #1ad2fb; text-shadow: 1px 1px 2px #1ad2fb;}
+}
+
+.videogame__dialogueSubtitles:hover {
+  cursor: pointer;
+}
