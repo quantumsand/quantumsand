@@ -395,7 +395,8 @@ class QuantumsandLive
       "raineorshine/npm-check-updates",
       "juliangarnier/anime",
       "cdump/radiacode",
-      "sandialabs/InterSpec"
+      "sandialabs/InterSpec",
+      "ckuethe/radiacode-tools"
     ]
 
     git_repos_chromium_googlesource = [
