@@ -393,7 +393,8 @@ class QuantumsandLive
       "denoland/deno",
       "oxc-project/oxc",
       "raineorshine/npm-check-updates",
-      "juliangarnier/anime"
+      "juliangarnier/anime",
+      "cdump/radiacode"
     ]
 
     git_repos_chromium_googlesource = [
