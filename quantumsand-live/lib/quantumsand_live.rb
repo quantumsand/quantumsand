@@ -399,7 +399,8 @@ class QuantumsandLive
       "ckuethe/radiacode-tools",
       "psalias2006/gpu-hot",
       "timelinize/timelinize",
-      "libvips/libvips"
+      "libvips/libvips",
+      "strukturag/libheif"
     ]
 
     git_repos_chromium_googlesource = [
