@@ -652,6 +652,10 @@ class QuantumsandLive
       "extensions/space_view3d_spacebar_menu"
     ]
 
+    fossil_repos_sqlite_org = [
+      "src"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
