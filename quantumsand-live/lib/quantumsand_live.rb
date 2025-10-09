@@ -394,7 +394,8 @@ class QuantumsandLive
       "oxc-project/oxc",
       "raineorshine/npm-check-updates",
       "juliangarnier/anime",
-      "cdump/radiacode"
+      "cdump/radiacode",
+      "sandialabs/InterSpec"
     ]
 
     git_repos_chromium_googlesource = [
