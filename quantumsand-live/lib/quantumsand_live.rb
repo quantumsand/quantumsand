@@ -397,7 +397,8 @@ class QuantumsandLive
       "cdump/radiacode",
       "sandialabs/InterSpec",
       "ckuethe/radiacode-tools",
-      "psalias2006/gpu-hot"
+      "psalias2006/gpu-hot",
+      "timelinize/timelinize"
     ]
 
     git_repos_chromium_googlesource = [
