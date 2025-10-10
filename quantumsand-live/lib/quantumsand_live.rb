@@ -401,7 +401,8 @@ class QuantumsandLive
       "timelinize/timelinize",
       "libvips/libvips",
       "strukturag/libheif",
-      "servo/servo"
+      "servo/servo",
+      "ROCm/ROCm"
     ]
 
     git_repos_chromium_googlesource = [
