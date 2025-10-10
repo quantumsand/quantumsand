@@ -400,7 +400,8 @@ class QuantumsandLive
       "psalias2006/gpu-hot",
       "timelinize/timelinize",
       "libvips/libvips",
-      "strukturag/libheif"
+      "strukturag/libheif",
+      "servo/servo"
     ]
 
     git_repos_chromium_googlesource = [
