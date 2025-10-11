@@ -405,7 +405,8 @@ class QuantumsandLive
       "ROCm/ROCm",
       "mapeditor/tiled",
       "typesense/typesense",
-      "typesense/typesense-rust"
+      "typesense/typesense-rust",
+      "jaeyson/ex_typesense"
     ]
 
     git_repos_chromium_googlesource = [
