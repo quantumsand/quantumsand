@@ -407,7 +407,8 @@ class QuantumsandLive
       "typesense/typesense",
       "typesense/typesense-rust",
       "jaeyson/ex_typesense",
-      "RedSnail/typesense_orm"
+      "RedSnail/typesense_orm",
+      "typesense/typesense-go"
     ]
 
     git_repos_chromium_googlesource = [
