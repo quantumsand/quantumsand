@@ -403,7 +403,8 @@ class QuantumsandLive
       "strukturag/libheif",
       "servo/servo",
       "ROCm/ROCm",
-      "mapeditor/tiled"
+      "mapeditor/tiled",
+      "typesense/typesense"
     ]
 
     git_repos_chromium_googlesource = [
