@@ -411,7 +411,8 @@ class QuantumsandLive
       "typesense/typesense-go",
       "typesense/typesense-js",
       "typesense/typesense-python",
-      "typesense/typesense-ruby"
+      "typesense/typesense-ruby",
+      "typesense/typesense-instantsearch-adapter"
     ]
 
     git_repos_chromium_googlesource = [
