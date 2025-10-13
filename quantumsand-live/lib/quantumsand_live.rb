@@ -436,7 +436,8 @@ class QuantumsandLive
       "shibatch/sleef",
       "intel/ideep",
       "google/gemmlowp",
-      "pytorch/fbgemm"
+      "pytorch/fbgemm",
+      "facebookincubator/fbjni"
     ]
 
     git_repos_chromium_googlesource = [
