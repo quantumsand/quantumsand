@@ -446,7 +446,8 @@ class QuantumsandLive
       "mreineck/pocketfft",
       "intel/ittapi",
       "google/flatbuffers",
-      "nlohmann/json"
+      "nlohmann/json",
+      "GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator"
     ]
 
     git_repos_chromium_googlesource = [
