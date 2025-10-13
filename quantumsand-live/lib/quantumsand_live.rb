@@ -443,7 +443,8 @@ class QuantumsandLive
       "pytorch/tensorpipe",
       "NVIDIA/cudnn-frontend",
       "pytorch/kineto",
-      "mreineck/pocketfft"
+      "mreineck/pocketfft",
+      "intel/ittapi"
     ]
 
     git_repos_chromium_googlesource = [
