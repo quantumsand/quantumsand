@@ -416,7 +416,8 @@ class QuantumsandLive
       "algolia/instantsearch",
       "algolia/algoliasearch-rails",
       "typesense/typesense-rails",
-      "py-pdf/pdfly"
+      "py-pdf/pdfly",
+      "pytauri/pytauri"
     ]
 
     git_repos_chromium_googlesource = [
