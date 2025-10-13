@@ -444,7 +444,8 @@ class QuantumsandLive
       "NVIDIA/cudnn-frontend",
       "pytorch/kineto",
       "mreineck/pocketfft",
-      "intel/ittapi"
+      "intel/ittapi",
+      "google/flatbuffers"
     ]
 
     git_repos_chromium_googlesource = [
