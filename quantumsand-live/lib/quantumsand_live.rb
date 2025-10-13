@@ -445,7 +445,8 @@ class QuantumsandLive
       "pytorch/kineto",
       "mreineck/pocketfft",
       "intel/ittapi",
-      "google/flatbuffers"
+      "google/flatbuffers",
+      "nlohmann/json"
     ]
 
     git_repos_chromium_googlesource = [
