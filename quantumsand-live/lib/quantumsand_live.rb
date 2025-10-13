@@ -424,7 +424,8 @@ class QuantumsandLive
       "pybind/pybind11",
       "google/googletest",
       "google/benchmark",
-      "protocolbuffers/protobuf"
+      "protocolbuffers/protobuf",
+      "Maratyszcza/NNPACK"
     ]
 
     git_repos_chromium_googlesource = [
