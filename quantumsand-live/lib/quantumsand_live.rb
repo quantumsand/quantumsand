@@ -423,7 +423,8 @@ class QuantumsandLive
       "pytorch/pytorch",
       "pybind/pybind11",
       "google/googletest",
-      "google/benchmark"
+      "google/benchmark",
+      "protocolbuffers/protobuf"
     ]
 
     git_repos_chromium_googlesource = [
