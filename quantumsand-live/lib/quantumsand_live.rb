@@ -439,7 +439,8 @@ class QuantumsandLive
       "pytorch/fbgemm",
       "facebookincubator/fbjni",
       "google/XNNPACK",
-      "fmtlib/fmt"
+      "fmtlib/fmt",
+      "pytorch/tensorpipe"
     ]
 
     git_repos_chromium_googlesource = [
