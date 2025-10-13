@@ -441,7 +441,8 @@ class QuantumsandLive
       "google/XNNPACK",
       "fmtlib/fmt",
       "pytorch/tensorpipe",
-      "NVIDIA/cudnn-frontend"
+      "NVIDIA/cudnn-frontend",
+      "pytorch/kineto"
     ]
 
     git_repos_chromium_googlesource = [
