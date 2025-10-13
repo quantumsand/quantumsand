@@ -432,7 +432,8 @@ class QuantumsandLive
       "Maratyszcza/FP16",
       "Maratyszcza/psimd",
       "pytorch/cpuinfo",
-      "malfet/PeachPy"
+      "malfet/PeachPy",
+      "shibatch/sleef"
     ]
 
     git_repos_chromium_googlesource = [
