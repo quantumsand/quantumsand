@@ -450,7 +450,8 @@ class QuantumsandLive
       "GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
       "NVIDIA/cutlass",
       "microsoft/mimalloc",
-      "open-telemetry/opentelemetry-cpp"
+      "open-telemetry/opentelemetry-cpp",
+      "yhirose/cpp-httplib"
     ]
 
     git_repos_chromium_googlesource = [
