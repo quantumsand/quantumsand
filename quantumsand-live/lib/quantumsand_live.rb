@@ -452,7 +452,8 @@ class QuantumsandLive
       "microsoft/mimalloc",
       "open-telemetry/opentelemetry-cpp",
       "yhirose/cpp-httplib",
-      "NVIDIA/NVTX"
+      "NVIDIA/NVTX",
+      "ROCm/composable_kernel"
     ]
 
     git_repos_chromium_googlesource = [
