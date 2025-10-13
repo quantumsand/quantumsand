@@ -426,7 +426,8 @@ class QuantumsandLive
       "google/benchmark",
       "protocolbuffers/protobuf",
       "Maratyszcza/NNPACK",
-      "pytorch/gloo"
+      "pytorch/gloo",
+      "Maratyszcza/pthreadpool"
     ]
 
     git_repos_chromium_googlesource = [
