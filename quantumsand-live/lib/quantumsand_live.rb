@@ -420,7 +420,8 @@ class QuantumsandLive
       "pytauri/pytauri",
       "Ttl/torchbp",
       "pypa/setuptools",
-      "pytorch/pytorch"
+      "pytorch/pytorch",
+      "pybind/pybind11"
     ]
 
     git_repos_chromium_googlesource = [
