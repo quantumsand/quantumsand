@@ -419,7 +419,8 @@ class QuantumsandLive
       "py-pdf/pdfly",
       "pytauri/pytauri",
       "Ttl/torchbp",
-      "pypa/setuptools"
+      "pypa/setuptools",
+      "pytorch/pytorch"
     ]
 
     git_repos_chromium_googlesource = [
