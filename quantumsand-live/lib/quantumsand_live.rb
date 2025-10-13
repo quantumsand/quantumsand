@@ -454,7 +454,8 @@ class QuantumsandLive
       "yhirose/cpp-httplib",
       "NVIDIA/NVTX",
       "ROCm/composable_kernel",
-      "ARM-software/kleidiai"
+      "ARM-software/kleidiai",
+      "Dao-AILab/flash-attention"
     ]
 
     git_repos_chromium_googlesource = [
