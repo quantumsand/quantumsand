@@ -437,7 +437,8 @@ class QuantumsandLive
       "intel/ideep",
       "google/gemmlowp",
       "pytorch/fbgemm",
-      "facebookincubator/fbjni"
+      "facebookincubator/fbjni",
+      "google/XNNPACK"
     ]
 
     git_repos_chromium_googlesource = [
