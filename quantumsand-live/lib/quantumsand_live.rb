@@ -448,7 +448,8 @@ class QuantumsandLive
       "google/flatbuffers",
       "nlohmann/json",
       "GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
-      "NVIDIA/cutlass"
+      "NVIDIA/cutlass",
+      "microsoft/mimalloc"
     ]
 
     git_repos_chromium_googlesource = [
