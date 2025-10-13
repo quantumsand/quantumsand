@@ -418,7 +418,8 @@ class QuantumsandLive
       "typesense/typesense-rails",
       "py-pdf/pdfly",
       "pytauri/pytauri",
-      "Ttl/torchbp"
+      "Ttl/torchbp",
+      "pypa/setuptools"
     ]
 
     git_repos_chromium_googlesource = [
