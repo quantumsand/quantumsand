@@ -421,7 +421,8 @@ class QuantumsandLive
       "Ttl/torchbp",
       "pypa/setuptools",
       "pytorch/pytorch",
-      "pybind/pybind11"
+      "pybind/pybind11",
+      "google/googletest"
     ]
 
     git_repos_chromium_googlesource = [
