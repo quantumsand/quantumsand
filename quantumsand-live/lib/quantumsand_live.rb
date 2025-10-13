@@ -455,7 +455,8 @@ class QuantumsandLive
       "NVIDIA/NVTX",
       "ROCm/composable_kernel",
       "ARM-software/kleidiai",
-      "Dao-AILab/flash-attention"
+      "Dao-AILab/flash-attention",
+      "ROCm/aiter"
     ]
 
     git_repos_chromium_googlesource = [
