@@ -451,7 +451,8 @@ class QuantumsandLive
       "NVIDIA/cutlass",
       "microsoft/mimalloc",
       "open-telemetry/opentelemetry-cpp",
-      "yhirose/cpp-httplib"
+      "yhirose/cpp-httplib",
+      "NVIDIA/NVTX"
     ]
 
     git_repos_chromium_googlesource = [
