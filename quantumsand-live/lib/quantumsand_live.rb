@@ -453,7 +453,8 @@ class QuantumsandLive
       "open-telemetry/opentelemetry-cpp",
       "yhirose/cpp-httplib",
       "NVIDIA/NVTX",
-      "ROCm/composable_kernel"
+      "ROCm/composable_kernel",
+      "ARM-software/kleidiai"
     ]
 
     git_repos_chromium_googlesource = [
