@@ -447,7 +447,8 @@ class QuantumsandLive
       "intel/ittapi",
       "google/flatbuffers",
       "nlohmann/json",
-      "GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator"
+      "GPUOpen-LibrariesAndSDKs/VulkanMemoryAllocator",
+      "NVIDIA/cutlass"
     ]
 
     git_repos_chromium_googlesource = [
