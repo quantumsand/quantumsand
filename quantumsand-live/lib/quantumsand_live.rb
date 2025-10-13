@@ -429,7 +429,8 @@ class QuantumsandLive
       "pytorch/gloo",
       "Maratyszcza/pthreadpool",
       "Maratyszcza/FXdiv",
-      "Maratyszcza/FP16"
+      "Maratyszcza/FP16",
+      "Maratyszcza/psimd"
     ]
 
     git_repos_chromium_googlesource = [
