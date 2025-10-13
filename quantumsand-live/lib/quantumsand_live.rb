@@ -435,7 +435,8 @@ class QuantumsandLive
       "malfet/PeachPy",
       "shibatch/sleef",
       "intel/ideep",
-      "google/gemmlowp"
+      "google/gemmlowp",
+      "pytorch/fbgemm"
     ]
 
     git_repos_chromium_googlesource = [
