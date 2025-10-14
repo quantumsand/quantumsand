@@ -478,7 +478,8 @@ class QuantumsandLive
       "lfortran/lfortran",
       "scikit-build/wheeltools",
       "pypa/manylinux",
-      "openssl/openssl"
+      "openssl/openssl",
+      "PyO3/maturin"
     ]
 
     git_repos_chromium_googlesource = [
