@@ -462,7 +462,8 @@ class QuantumsandLive
       "scikit-build/moderncmakedomain",
       "scikit-build/ninja-python-distributions",
       "scikit-build/dynamic-metadata",
-      "scikit-build/cmake-python-distributions"
+      "scikit-build/cmake-python-distributions",
+      "pyodide/pyodide"
     ]
 
     git_repos_chromium_googlesource = [
