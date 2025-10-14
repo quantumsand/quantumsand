@@ -469,7 +469,8 @@ class QuantumsandLive
       "llvm/llvm-project",
       "scikit-build/scikit-build-core",
       "scikit-build/f2py-cmake",
-      "scikit-build/cython-cmake"
+      "scikit-build/cython-cmake",
+      "scikit-build/cmake-FindVcvars"
     ]
 
     git_repos_chromium_googlesource = [
