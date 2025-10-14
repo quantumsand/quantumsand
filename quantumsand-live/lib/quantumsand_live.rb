@@ -489,7 +489,8 @@ class QuantumsandLive
       "readthedocs/readthedocs.org",
       "sphinx-doc/sphinx",
       "sphinx-doc/sphinx-intl",
-      "sphinx-doc/sphinx-autobuild"
+      "sphinx-doc/sphinx-autobuild",
+      "sphinx-doc/sphinx-docker-images"
     ]
 
     git_repos_chromium_googlesource = [
