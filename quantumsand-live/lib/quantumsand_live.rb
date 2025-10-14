@@ -461,7 +461,8 @@ class QuantumsandLive
       "scikit-build/scikit-build",
       "scikit-build/moderncmakedomain",
       "scikit-build/ninja-python-distributions",
-      "scikit-build/dynamic-metadata"
+      "scikit-build/dynamic-metadata",
+      "scikit-build/cmake-python-distributions"
     ]
 
     git_repos_chromium_googlesource = [
