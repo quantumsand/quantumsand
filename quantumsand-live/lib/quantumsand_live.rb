@@ -466,7 +466,8 @@ class QuantumsandLive
       "pyodide/pyodide",
       "emscripten-core/emscripten",
       "emscripten-core/emsdk",
-      "llvm/llvm-project"
+      "llvm/llvm-project",
+      "scikit-build/scikit-build-core"
     ]
 
     git_repos_chromium_googlesource = [
