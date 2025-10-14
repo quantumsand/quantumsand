@@ -489,6 +489,11 @@ class QuantumsandLive
       "qt/qtwebengine"
     ]
 
+    git_repos_gcc_gnu_org = [
+      "gcc",
+      "gcc-wwwdocs"
+    ]
+
     git_repos_review_haiku_os_org = [
       "haiku",
       "buildtools",
