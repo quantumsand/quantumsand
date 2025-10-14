@@ -458,7 +458,8 @@ class QuantumsandLive
       "Dao-AILab/flash-attention",
       "ROCm/aiter",
       "scikit-build/scikit-build-cli",
-      "scikit-build/scikit-build"
+      "scikit-build/scikit-build",
+      "scikit-build/moderncmakedomain"
     ]
 
     git_repos_chromium_googlesource = [
