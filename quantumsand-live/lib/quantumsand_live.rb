@@ -502,6 +502,10 @@ class QuantumsandLive
       "gcc-wwwdocs"
     ]
 
+    git_repos_git_sr_ht = [
+      "~sircmpwn/scdoc"
+    ]
+
     git_repos_review_haiku_os_org = [
       "haiku",
       "buildtools",
