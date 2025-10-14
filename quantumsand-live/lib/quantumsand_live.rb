@@ -524,7 +524,8 @@ class QuantumsandLive
       "testing-cabal/mock",
       "tox-dev/tox",
       "devpi/devpi",
-      "tox-dev/tox-uv"
+      "tox-dev/tox-uv",
+      "pallets/pallets-sphinx-themes"
     ]
 
     git_repos_chromium_googlesource = [
