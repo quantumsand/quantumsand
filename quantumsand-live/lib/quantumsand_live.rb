@@ -465,7 +465,8 @@ class QuantumsandLive
       "scikit-build/cmake-python-distributions",
       "pyodide/pyodide",
       "emscripten-core/emscripten",
-      "emscripten-core/emsdk"
+      "emscripten-core/emsdk",
+      "llvm/llvm-project"
     ]
 
     git_repos_chromium_googlesource = [
