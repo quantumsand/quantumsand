@@ -525,7 +525,8 @@ class QuantumsandLive
       "tox-dev/tox",
       "devpi/devpi",
       "tox-dev/tox-uv",
-      "pallets/pallets-sphinx-themes"
+      "pallets/pallets-sphinx-themes",
+      "davidism/sphinxcontrib-log-cabinet"
     ]
 
     git_repos_chromium_googlesource = [
