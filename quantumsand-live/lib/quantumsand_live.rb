@@ -523,7 +523,8 @@ class QuantumsandLive
       "PyCQA/mccabe",
       "testing-cabal/mock",
       "tox-dev/tox",
-      "devpi/devpi"
+      "devpi/devpi",
+      "tox-dev/tox-uv"
     ]
 
     git_repos_chromium_googlesource = [
