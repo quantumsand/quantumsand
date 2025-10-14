@@ -505,7 +505,8 @@ class QuantumsandLive
       "python-trio/trio",
       "astral-sh/ruff",
       "python-attrs/attrs",
-      "pre-commit/pre-commit"
+      "pre-commit/pre-commit",
+      "pre-commit/pre-commit-hooks"
     ]
 
     git_repos_chromium_googlesource = [
