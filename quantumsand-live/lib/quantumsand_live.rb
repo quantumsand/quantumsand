@@ -494,7 +494,8 @@ class QuantumsandLive
       "jupyter/notebook",
       "pytest-dev/pytest",
       "jupyter/jupyter_client",
-      "jupyter/docker-stacks"
+      "jupyter/docker-stacks",
+      "jupyter/jupyter_core"
     ]
 
     git_repos_chromium_googlesource = [
