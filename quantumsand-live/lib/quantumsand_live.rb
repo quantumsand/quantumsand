@@ -509,7 +509,8 @@ class QuantumsandLive
       "pre-commit/pre-commit-hooks",
       "astral-sh/uv-pre-commit",
       "davidism/gha-update",
-      "python/mypy"
+      "python/mypy",
+      "dense-analysis/ale"
     ]
 
     git_repos_chromium_googlesource = [
