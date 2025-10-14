@@ -473,7 +473,8 @@ class QuantumsandLive
       "scikit-build/cmake-FindVcvars",
       "scikit-build/scikit-ci-addons",
       "pypa/cibuildwheel",
-      "scikit-build/cmake-FindFortran"
+      "scikit-build/cmake-FindFortran",
+      "flang-compiler/flang"
     ]
 
     git_repos_chromium_googlesource = [
