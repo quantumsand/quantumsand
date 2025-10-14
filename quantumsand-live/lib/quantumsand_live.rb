@@ -533,7 +533,8 @@ class QuantumsandLive
       "django/django",
       "pallets/markupsafe",
       "pypa/flit",
-      "pypa/pip"
+      "pypa/pip",
+      "facebook/pyrefly"
     ]
 
     git_repos_chromium_googlesource = [
