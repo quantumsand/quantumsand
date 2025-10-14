@@ -501,7 +501,8 @@ class QuantumsandLive
       "jupyter/nbdime",
       "jupyter/cookiecutter-docker-stacks",
       "pallets/jinja",
-      "pytest-dev/pytest-timeout"
+      "pytest-dev/pytest-timeout",
+      "python-trio/trio"
     ]
 
     git_repos_chromium_googlesource = [
