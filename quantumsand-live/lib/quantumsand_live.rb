@@ -516,7 +516,8 @@ class QuantumsandLive
       "microsoft/pyright",
       "RobertCraigie/pyright-python",
       "ekalinin/nodeenv",
-      "nedbat/coveragepy"
+      "nedbat/coveragepy",
+      "PyCQA/flake8"
     ]
 
     git_repos_chromium_googlesource = [
