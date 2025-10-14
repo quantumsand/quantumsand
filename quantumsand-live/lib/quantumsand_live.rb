@@ -472,6 +472,13 @@ class QuantumsandLive
       "qt/qtwebengine"
     ]
 
+    git_repos_review_haiku_os_org = [
+      "haiku",
+      "buildtools",
+      "jamfile-engine",
+      "userguide"
+    ]
+
     git_repos_deuxfleurs_fr = [
       "Deuxfleurs/garage"
     ]
