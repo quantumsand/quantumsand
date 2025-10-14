@@ -510,7 +510,8 @@ class QuantumsandLive
       "astral-sh/uv-pre-commit",
       "davidism/gha-update",
       "python/mypy",
-      "dense-analysis/ale"
+      "dense-analysis/ale",
+      "vim/vim"
     ]
 
     git_repos_chromium_googlesource = [
