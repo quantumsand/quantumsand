@@ -503,7 +503,8 @@ class QuantumsandLive
       "pallets/jinja",
       "pytest-dev/pytest-timeout",
       "python-trio/trio",
-      "astral-sh/ruff"
+      "astral-sh/ruff",
+      "python-attrs/attrs"
     ]
 
     git_repos_chromium_googlesource = [
