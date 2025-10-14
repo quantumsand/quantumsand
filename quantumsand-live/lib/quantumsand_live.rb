@@ -467,7 +467,8 @@ class QuantumsandLive
       "emscripten-core/emscripten",
       "emscripten-core/emsdk",
       "llvm/llvm-project",
-      "scikit-build/scikit-build-core"
+      "scikit-build/scikit-build-core",
+      "scikit-build/f2py-cmake"
     ]
 
     git_repos_chromium_googlesource = [
