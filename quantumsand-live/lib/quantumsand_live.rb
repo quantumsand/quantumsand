@@ -483,7 +483,8 @@ class QuantumsandLive
       "pypa/pipx",
       "pypi/warehouse",
       "psf/black",
-      "psf/requests"
+      "psf/requests",
+      "readthedocs/ethical-ad-server"
     ]
 
     git_repos_chromium_googlesource = [
