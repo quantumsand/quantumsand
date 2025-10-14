@@ -519,7 +519,8 @@ class QuantumsandLive
       "nedbat/coveragepy",
       "PyCQA/flake8",
       "PyCQA/pyflakes",
-      "PyCQA/pycodestyle"
+      "PyCQA/pycodestyle",
+      "PyCQA/mccabe"
     ]
 
     git_repos_chromium_googlesource = [
