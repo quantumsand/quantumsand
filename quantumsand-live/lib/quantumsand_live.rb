@@ -496,7 +496,8 @@ class QuantumsandLive
       "jupyter/jupyter_client",
       "jupyter/docker-stacks",
       "jupyter/jupyter_core",
-      "jekyll/jekyll"
+      "jekyll/jekyll",
+      "GoogleChrome/lighthouse"
     ]
 
     git_repos_chromium_googlesource = [
