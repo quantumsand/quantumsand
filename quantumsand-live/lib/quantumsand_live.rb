@@ -491,7 +491,8 @@ class QuantumsandLive
       "sphinx-doc/sphinx-intl",
       "sphinx-doc/sphinx-autobuild",
       "sphinx-doc/sphinx-docker-images",
-      "jupyter/notebook"
+      "jupyter/notebook",
+      "pytest-dev/pytest"
     ]
 
     git_repos_chromium_googlesource = [
