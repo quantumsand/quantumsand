@@ -511,7 +511,8 @@ class QuantumsandLive
       "davidism/gha-update",
       "python/mypy",
       "dense-analysis/ale",
-      "vim/vim"
+      "vim/vim",
+      "neovim/neovim"
     ]
 
     git_repos_chromium_googlesource = [
