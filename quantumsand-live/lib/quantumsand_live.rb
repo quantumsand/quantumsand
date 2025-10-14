@@ -479,7 +479,8 @@ class QuantumsandLive
       "scikit-build/wheeltools",
       "pypa/manylinux",
       "openssl/openssl",
-      "PyO3/maturin"
+      "PyO3/maturin",
+      "pypa/pipx"
     ]
 
     git_repos_chromium_googlesource = [
