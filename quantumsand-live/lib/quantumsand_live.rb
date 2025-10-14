@@ -486,7 +486,8 @@ class QuantumsandLive
       "psf/requests",
       "readthedocs/ethical-ad-server",
       "readthedocs/common",
-      "readthedocs/readthedocs.org"
+      "readthedocs/readthedocs.org",
+      "sphinx-doc/sphinx"
     ]
 
     git_repos_chromium_googlesource = [
