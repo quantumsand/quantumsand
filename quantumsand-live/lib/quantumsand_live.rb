@@ -485,7 +485,8 @@ class QuantumsandLive
       "psf/black",
       "psf/requests",
       "readthedocs/ethical-ad-server",
-      "readthedocs/common"
+      "readthedocs/common",
+      "readthedocs/readthedocs.org"
     ]
 
     git_repos_chromium_googlesource = [
