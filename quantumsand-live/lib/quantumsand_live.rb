@@ -456,7 +456,8 @@ class QuantumsandLive
       "ROCm/composable_kernel",
       "ARM-software/kleidiai",
       "Dao-AILab/flash-attention",
-      "ROCm/aiter"
+      "ROCm/aiter",
+      "scikit-build/scikit-build-cli"
     ]
 
     git_repos_chromium_googlesource = [
