@@ -512,7 +512,8 @@ class QuantumsandLive
       "python/mypy",
       "dense-analysis/ale",
       "vim/vim",
-      "neovim/neovim"
+      "neovim/neovim",
+      "microsoft/pyright"
     ]
 
     git_repos_chromium_googlesource = [
