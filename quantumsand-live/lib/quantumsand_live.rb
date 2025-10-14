@@ -498,7 +498,8 @@ class QuantumsandLive
       "jupyter/jupyter_core",
       "jekyll/jekyll",
       "GoogleChrome/lighthouse",
-      "jupyter/nbdime"
+      "jupyter/nbdime",
+      "jupyter/cookiecutter-docker-stacks"
     ]
 
     git_repos_chromium_googlesource = [
