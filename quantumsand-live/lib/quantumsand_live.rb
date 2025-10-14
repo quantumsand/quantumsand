@@ -504,7 +504,8 @@ class QuantumsandLive
       "pytest-dev/pytest-timeout",
       "python-trio/trio",
       "astral-sh/ruff",
-      "python-attrs/attrs"
+      "python-attrs/attrs",
+      "pre-commit/pre-commit"
     ]
 
     git_repos_chromium_googlesource = [
