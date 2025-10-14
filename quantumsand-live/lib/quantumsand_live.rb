@@ -530,7 +530,8 @@ class QuantumsandLive
       "python-babel/babel",
       "python-babel/flask-babel",
       "python-babel/django-babel",
-      "django/django"
+      "django/django",
+      "pallets/markupsafe"
     ]
 
     git_repos_chromium_googlesource = [
