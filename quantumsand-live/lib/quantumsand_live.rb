@@ -518,7 +518,8 @@ class QuantumsandLive
       "ekalinin/nodeenv",
       "nedbat/coveragepy",
       "PyCQA/flake8",
-      "PyCQA/pyflakes"
+      "PyCQA/pyflakes",
+      "PyCQA/pycodestyle"
     ]
 
     git_repos_chromium_googlesource = [
