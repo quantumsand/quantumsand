@@ -515,7 +515,8 @@ class QuantumsandLive
       "neovim/neovim",
       "microsoft/pyright",
       "RobertCraigie/pyright-python",
-      "ekalinin/nodeenv"
+      "ekalinin/nodeenv",
+      "nedbat/coveragepy"
     ]
 
     git_repos_chromium_googlesource = [
