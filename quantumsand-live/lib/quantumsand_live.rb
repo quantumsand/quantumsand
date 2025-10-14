@@ -507,7 +507,8 @@ class QuantumsandLive
       "python-attrs/attrs",
       "pre-commit/pre-commit",
       "pre-commit/pre-commit-hooks",
-      "astral-sh/uv-pre-commit"
+      "astral-sh/uv-pre-commit",
+      "davidism/gha-update"
     ]
 
     git_repos_chromium_googlesource = [
