@@ -500,7 +500,8 @@ class QuantumsandLive
       "GoogleChrome/lighthouse",
       "jupyter/nbdime",
       "jupyter/cookiecutter-docker-stacks",
-      "pallets/jinja"
+      "pallets/jinja",
+      "pytest-dev/pytest-timeout"
     ]
 
     git_repos_chromium_googlesource = [
