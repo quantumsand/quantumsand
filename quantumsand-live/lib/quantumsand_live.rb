@@ -502,7 +502,8 @@ class QuantumsandLive
       "jupyter/cookiecutter-docker-stacks",
       "pallets/jinja",
       "pytest-dev/pytest-timeout",
-      "python-trio/trio"
+      "python-trio/trio",
+      "astral-sh/ruff"
     ]
 
     git_repos_chromium_googlesource = [
