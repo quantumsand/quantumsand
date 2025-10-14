@@ -528,7 +528,8 @@ class QuantumsandLive
       "pallets/pallets-sphinx-themes",
       "davidism/sphinxcontrib-log-cabinet",
       "python-babel/babel",
-      "python-babel/flask-babel"
+      "python-babel/flask-babel",
+      "python-babel/django-babel"
     ]
 
     git_repos_chromium_googlesource = [
