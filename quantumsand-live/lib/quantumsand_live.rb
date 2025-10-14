@@ -459,7 +459,8 @@ class QuantumsandLive
       "ROCm/aiter",
       "scikit-build/scikit-build-cli",
       "scikit-build/scikit-build",
-      "scikit-build/moderncmakedomain"
+      "scikit-build/moderncmakedomain",
+      "scikit-build/ninja-python-distributions"
     ]
 
     git_repos_chromium_googlesource = [
