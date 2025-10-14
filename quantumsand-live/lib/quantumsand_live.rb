@@ -481,7 +481,8 @@ class QuantumsandLive
       "openssl/openssl",
       "PyO3/maturin",
       "pypa/pipx",
-      "pypi/warehouse"
+      "pypi/warehouse",
+      "psf/black"
     ]
 
     git_repos_chromium_googlesource = [
