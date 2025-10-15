@@ -536,7 +536,8 @@ class QuantumsandLive
       "pypa/pip",
       "facebook/pyrefly",
       "NordSecurity/nordvpn-linux",
-      "o3de/o3de"
+      "o3de/o3de",
+      "o3de/openmesh-cmake-library"
     ]
 
     git_repos_chromium_googlesource = [
