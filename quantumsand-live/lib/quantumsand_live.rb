@@ -828,7 +828,8 @@ class QuantumsandLive
       "dev-lang/zig",
       "dev-vcs/git-lfs",
       "sys-fs/f2fs-tools",
-      "dev-vcs/fossil"
+      "dev-vcs/fossil",
+      "net-misc/rabbitmq-server"
     ]
 
     eselect_repository_add = {
