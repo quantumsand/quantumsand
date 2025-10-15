@@ -535,7 +535,8 @@ class QuantumsandLive
       "pypa/flit",
       "pypa/pip",
       "facebook/pyrefly",
-      "NordSecurity/nordvpn-linux"
+      "NordSecurity/nordvpn-linux",
+      "o3de/o3de"
     ]
 
     git_repos_chromium_googlesource = [
