@@ -534,7 +534,8 @@ class QuantumsandLive
       "pallets/markupsafe",
       "pypa/flit",
       "pypa/pip",
-      "facebook/pyrefly"
+      "facebook/pyrefly",
+      "NordSecurity/nordvpn-linux"
     ]
 
     git_repos_chromium_googlesource = [
