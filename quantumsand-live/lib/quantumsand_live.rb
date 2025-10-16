@@ -581,7 +581,8 @@ class QuantumsandLive
       "pgdogdev/pgdog",
       "pgdogdev/helm",
       "pgdogdev/docs",
-      "toluaina/pgsync"
+      "toluaina/pgsync",
+      "minitest/minitest"
     ]
 
     git_repos_chromium_googlesource = [
