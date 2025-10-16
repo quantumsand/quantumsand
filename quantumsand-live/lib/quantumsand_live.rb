@@ -558,7 +558,8 @@ class QuantumsandLive
       "ollama/ollama",
       "ollama/ollama-python",
       "ollama/ollama-js",
-      "Aharon-Bensadoun/Flufy"
+      "Aharon-Bensadoun/Flufy",
+      "cushydigit/lumina"
     ]
 
     git_repos_chromium_googlesource = [
