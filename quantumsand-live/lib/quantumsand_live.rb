@@ -571,7 +571,8 @@ class QuantumsandLive
       "rubycdp/ferrum",
       "rubycdp/cuprite",
       "rubycdp/vessel",
-      "rubocop/rubocop"
+      "rubocop/rubocop",
+      "teamcapybara/capybara"
     ]
 
     git_repos_chromium_googlesource = [
