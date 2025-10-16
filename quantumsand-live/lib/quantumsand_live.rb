@@ -562,7 +562,8 @@ class QuantumsandLive
       "cushydigit/lumina",
       "rabbitmq/rabbitmq-server",
       "tinygrad/tinygrad",
-      "karpathy/micrograd"
+      "karpathy/micrograd",
+      "luarocks/luarocks"
     ]
 
     git_repos_chromium_googlesource = [
