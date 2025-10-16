@@ -549,7 +549,8 @@ class QuantumsandLive
       "microsoft/agent-framework",
       "safety-research/petri",
       "elevenlabs/ui",
-      "shadcn-ui/ui"
+      "shadcn-ui/ui",
+      "trycua/cua"
     ]
 
     git_repos_chromium_googlesource = [
