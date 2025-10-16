@@ -832,7 +832,8 @@ class QuantumsandLive
       "sys-fs/f2fs-tools",
       "dev-vcs/fossil",
       "net-misc/rabbitmq-server",
-      "sec-policy/selinux-base"
+      "sec-policy/selinux-base",
+      "sys-libs/libselinux"
     ]
 
     eselect_repository_add = {
