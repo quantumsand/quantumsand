@@ -576,7 +576,8 @@ class QuantumsandLive
       "bullet-train-co/bullet_train",
       "BemiHQ/BemiDB",
       "paradedb/paradedb",
-      "helm/helm"
+      "helm/helm",
+      "kubernetes/kubernetes"
     ]
 
     git_repos_chromium_googlesource = [
