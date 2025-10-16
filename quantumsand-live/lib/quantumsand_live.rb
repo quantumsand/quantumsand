@@ -560,7 +560,8 @@ class QuantumsandLive
       "ollama/ollama-js",
       "Aharon-Bensadoun/Flufy",
       "cushydigit/lumina",
-      "rabbitmq/rabbitmq-server"
+      "rabbitmq/rabbitmq-server",
+      "tinygrad/tinygrad"
     ]
 
     git_repos_chromium_googlesource = [
