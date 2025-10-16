@@ -559,7 +559,8 @@ class QuantumsandLive
       "ollama/ollama-python",
       "ollama/ollama-js",
       "Aharon-Bensadoun/Flufy",
-      "cushydigit/lumina"
+      "cushydigit/lumina",
+      "rabbitmq/rabbitmq-server"
     ]
 
     git_repos_chromium_googlesource = [
