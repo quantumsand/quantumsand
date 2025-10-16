@@ -553,7 +553,8 @@ class QuantumsandLive
       "trycua/cua",
       "karpathy/nanochat",
       "ROCm/aomp",
-      "PlatformLab/HomaModule"
+      "PlatformLab/HomaModule",
+      "golang/go"
     ]
 
     git_repos_chromium_googlesource = [
