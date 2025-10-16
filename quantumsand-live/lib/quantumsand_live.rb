@@ -584,7 +584,8 @@ class QuantumsandLive
       "toluaina/pgsync",
       "minitest/minitest",
       "Perl/perl5",
-      "rack/rack-attack"
+      "rack/rack-attack",
+      "windmotion-io/rspec-watchdog"
     ]
 
     git_repos_chromium_googlesource = [
