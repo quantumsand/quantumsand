@@ -578,7 +578,8 @@ class QuantumsandLive
       "paradedb/paradedb",
       "helm/helm",
       "kubernetes/kubernetes",
-      "pgdogdev/pgdog"
+      "pgdogdev/pgdog",
+      "pgdogdev/helm"
     ]
 
     git_repos_chromium_googlesource = [
