@@ -583,7 +583,8 @@ class QuantumsandLive
       "pgdogdev/docs",
       "toluaina/pgsync",
       "minitest/minitest",
-      "Perl/perl5"
+      "Perl/perl5",
+      "rack/rack-attack"
     ]
 
     git_repos_chromium_googlesource = [
