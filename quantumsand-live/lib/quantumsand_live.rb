@@ -543,7 +543,8 @@ class QuantumsandLive
       "prabhuignoto/react-chrono",
       "MatthewHerbst/react-to-print",
       "satelllte/react-knob-headless",
-      "satelllte/remotion-audio-visualizer"
+      "satelllte/remotion-audio-visualizer",
+      "wojtekmaj/react-pdf"
     ]
 
     git_repos_chromium_googlesource = [
