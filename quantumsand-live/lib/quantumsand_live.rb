@@ -554,7 +554,8 @@ class QuantumsandLive
       "karpathy/nanochat",
       "ROCm/aomp",
       "PlatformLab/HomaModule",
-      "golang/go"
+      "golang/go",
+      "ollama/ollama"
     ]
 
     git_repos_chromium_googlesource = [
