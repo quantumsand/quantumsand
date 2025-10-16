@@ -540,7 +540,8 @@ class QuantumsandLive
       "o3de/openmesh-cmake-library",
       "SELinuxProject/selinux",
       "pmndrs/triplex",
-      "prabhuignoto/react-chrono"
+      "prabhuignoto/react-chrono",
+      "MatthewHerbst/react-to-print"
     ]
 
     git_repos_chromium_googlesource = [
