@@ -566,7 +566,8 @@ class QuantumsandLive
       "luarocks/luarocks",
       "lua/lua",
       "rubynor/stemplin",
-      "rubynor/heroku_db_sync"
+      "rubynor/heroku_db_sync",
+      "excid3/ferrum_pdf"
     ]
 
     git_repos_chromium_googlesource = [
