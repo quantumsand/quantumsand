@@ -544,7 +544,8 @@ class QuantumsandLive
       "MatthewHerbst/react-to-print",
       "satelllte/react-knob-headless",
       "satelllte/remotion-audio-visualizer",
-      "wojtekmaj/react-pdf"
+      "wojtekmaj/react-pdf",
+      "rictic/jsonriver"
     ]
 
     git_repos_chromium_googlesource = [
