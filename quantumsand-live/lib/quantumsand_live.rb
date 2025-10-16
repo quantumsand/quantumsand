@@ -545,7 +545,8 @@ class QuantumsandLive
       "satelllte/react-knob-headless",
       "satelllte/remotion-audio-visualizer",
       "wojtekmaj/react-pdf",
-      "rictic/jsonriver"
+      "rictic/jsonriver",
+      "microsoft/agent-framework"
     ]
 
     git_repos_chromium_googlesource = [
