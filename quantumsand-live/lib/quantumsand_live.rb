@@ -574,7 +574,8 @@ class QuantumsandLive
       "rubocop/rubocop",
       "teamcapybara/capybara",
       "bullet-train-co/bullet_train",
-      "BemiHQ/BemiDB"
+      "BemiHQ/BemiDB",
+      "paradedb/paradedb"
     ]
 
     git_repos_chromium_googlesource = [
