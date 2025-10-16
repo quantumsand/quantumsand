@@ -586,7 +586,8 @@ class QuantumsandLive
       "Perl/perl5",
       "rack/rack-attack",
       "windmotion-io/rspec-watchdog",
-      "basecamp/activerecord-tenanted"
+      "basecamp/activerecord-tenanted",
+      "vercel/ai"
     ]
 
     git_repos_chromium_googlesource = [
