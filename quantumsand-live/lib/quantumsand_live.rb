@@ -550,7 +550,8 @@ class QuantumsandLive
       "safety-research/petri",
       "elevenlabs/ui",
       "shadcn-ui/ui",
-      "trycua/cua"
+      "trycua/cua",
+      "karpathy/nanochat"
     ]
 
     git_repos_chromium_googlesource = [
