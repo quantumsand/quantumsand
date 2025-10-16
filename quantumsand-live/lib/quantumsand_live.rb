@@ -537,7 +537,8 @@ class QuantumsandLive
       "facebook/pyrefly",
       "NordSecurity/nordvpn-linux",
       "o3de/o3de",
-      "o3de/openmesh-cmake-library"
+      "o3de/openmesh-cmake-library",
+      "SELinuxProject/selinux"
     ]
 
     git_repos_chromium_googlesource = [
