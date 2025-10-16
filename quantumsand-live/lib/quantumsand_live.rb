@@ -541,7 +541,8 @@ class QuantumsandLive
       "SELinuxProject/selinux",
       "pmndrs/triplex",
       "prabhuignoto/react-chrono",
-      "MatthewHerbst/react-to-print"
+      "MatthewHerbst/react-to-print",
+      "satelllte/react-knob-headless"
     ]
 
     git_repos_chromium_googlesource = [
