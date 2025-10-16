@@ -547,7 +547,8 @@ class QuantumsandLive
       "wojtekmaj/react-pdf",
       "rictic/jsonriver",
       "microsoft/agent-framework",
-      "safety-research/petri"
+      "safety-research/petri",
+      "elevenlabs/ui"
     ]
 
     git_repos_chromium_googlesource = [
