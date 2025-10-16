@@ -564,7 +564,8 @@ class QuantumsandLive
       "tinygrad/tinygrad",
       "karpathy/micrograd",
       "luarocks/luarocks",
-      "lua/lua"
+      "lua/lua",
+      "rubynor/stemplin"
     ]
 
     git_repos_chromium_googlesource = [
