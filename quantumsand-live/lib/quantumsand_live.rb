@@ -565,7 +565,8 @@ class QuantumsandLive
       "karpathy/micrograd",
       "luarocks/luarocks",
       "lua/lua",
-      "rubynor/stemplin"
+      "rubynor/stemplin",
+      "rubynor/heroku_db_sync"
     ]
 
     git_repos_chromium_googlesource = [
