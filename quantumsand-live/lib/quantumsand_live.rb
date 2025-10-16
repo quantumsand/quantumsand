@@ -538,7 +538,8 @@ class QuantumsandLive
       "NordSecurity/nordvpn-linux",
       "o3de/o3de",
       "o3de/openmesh-cmake-library",
-      "SELinuxProject/selinux"
+      "SELinuxProject/selinux",
+      "pmndrs/triplex"
     ]
 
     git_repos_chromium_googlesource = [
