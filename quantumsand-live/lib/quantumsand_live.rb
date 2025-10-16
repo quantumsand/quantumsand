@@ -579,7 +579,8 @@ class QuantumsandLive
       "helm/helm",
       "kubernetes/kubernetes",
       "pgdogdev/pgdog",
-      "pgdogdev/helm"
+      "pgdogdev/helm",
+      "pgdogdev/docs"
     ]
 
     git_repos_chromium_googlesource = [
