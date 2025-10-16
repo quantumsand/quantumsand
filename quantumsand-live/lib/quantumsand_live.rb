@@ -546,7 +546,8 @@ class QuantumsandLive
       "satelllte/remotion-audio-visualizer",
       "wojtekmaj/react-pdf",
       "rictic/jsonriver",
-      "microsoft/agent-framework"
+      "microsoft/agent-framework",
+      "safety-research/petri"
     ]
 
     git_repos_chromium_googlesource = [
