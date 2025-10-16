@@ -552,7 +552,8 @@ class QuantumsandLive
       "shadcn-ui/ui",
       "trycua/cua",
       "karpathy/nanochat",
-      "ROCm/aomp"
+      "ROCm/aomp",
+      "PlatformLab/HomaModule"
     ]
 
     git_repos_chromium_googlesource = [
