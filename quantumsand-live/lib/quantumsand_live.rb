@@ -577,7 +577,8 @@ class QuantumsandLive
       "BemiHQ/BemiDB",
       "paradedb/paradedb",
       "helm/helm",
-      "kubernetes/kubernetes"
+      "kubernetes/kubernetes",
+      "pgdogdev/pgdog"
     ]
 
     git_repos_chromium_googlesource = [
