@@ -548,7 +548,8 @@ class QuantumsandLive
       "rictic/jsonriver",
       "microsoft/agent-framework",
       "safety-research/petri",
-      "elevenlabs/ui"
+      "elevenlabs/ui",
+      "shadcn-ui/ui"
     ]
 
     git_repos_chromium_googlesource = [
