@@ -569,7 +569,8 @@ class QuantumsandLive
       "rubynor/heroku_db_sync",
       "excid3/ferrum_pdf",
       "rubycdp/ferrum",
-      "rubycdp/cuprite"
+      "rubycdp/cuprite",
+      "rubycdp/vessel"
     ]
 
     git_repos_chromium_googlesource = [
