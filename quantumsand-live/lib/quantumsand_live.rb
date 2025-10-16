@@ -542,7 +542,8 @@ class QuantumsandLive
       "pmndrs/triplex",
       "prabhuignoto/react-chrono",
       "MatthewHerbst/react-to-print",
-      "satelllte/react-knob-headless"
+      "satelllte/react-knob-headless",
+      "satelllte/remotion-audio-visualizer"
     ]
 
     git_repos_chromium_googlesource = [
