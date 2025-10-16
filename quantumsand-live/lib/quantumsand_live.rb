@@ -570,7 +570,8 @@ class QuantumsandLive
       "excid3/ferrum_pdf",
       "rubycdp/ferrum",
       "rubycdp/cuprite",
-      "rubycdp/vessel"
+      "rubycdp/vessel",
+      "rubocop/rubocop"
     ]
 
     git_repos_chromium_googlesource = [
