@@ -555,7 +555,8 @@ class QuantumsandLive
       "ROCm/aomp",
       "PlatformLab/HomaModule",
       "golang/go",
-      "ollama/ollama"
+      "ollama/ollama",
+      "ollama/ollama-python"
     ]
 
     git_repos_chromium_googlesource = [
