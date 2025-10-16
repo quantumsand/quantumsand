@@ -551,7 +551,8 @@ class QuantumsandLive
       "elevenlabs/ui",
       "shadcn-ui/ui",
       "trycua/cua",
-      "karpathy/nanochat"
+      "karpathy/nanochat",
+      "ROCm/aomp"
     ]
 
     git_repos_chromium_googlesource = [
