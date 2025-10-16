@@ -572,7 +572,8 @@ class QuantumsandLive
       "rubycdp/cuprite",
       "rubycdp/vessel",
       "rubocop/rubocop",
-      "teamcapybara/capybara"
+      "teamcapybara/capybara",
+      "bullet-train-co/bullet_train"
     ]
 
     git_repos_chromium_googlesource = [
