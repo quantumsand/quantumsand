@@ -609,7 +609,8 @@ class QuantumsandLive
       "vercel/registry-starter",
       "vercel/example-marketplace-integration",
       "vercel/streamdown",
-      "vercel/ai-chatbot"
+      "vercel/ai-chatbot",
+      "nextauthjs/next-auth"
     ]
 
     git_repos_chromium_googlesource = [
