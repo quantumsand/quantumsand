@@ -614,7 +614,8 @@ class QuantumsandLive
       "radix-ui/primitives",
       "radix-ui/themes",
       "radix-ui/colors",
-      "radix-ui/icons"
+      "radix-ui/icons",
+      "absinthe-graphql/absinthe"
     ]
 
     git_repos_chromium_googlesource = [
