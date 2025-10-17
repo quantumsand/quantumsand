@@ -608,7 +608,8 @@ class QuantumsandLive
       "go-task/task",
       "vercel/registry-starter",
       "vercel/example-marketplace-integration",
-      "vercel/streamdown"
+      "vercel/streamdown",
+      "vercel/ai-chatbot"
     ]
 
     git_repos_chromium_googlesource = [
