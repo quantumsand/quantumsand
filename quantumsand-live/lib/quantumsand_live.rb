@@ -638,7 +638,8 @@ class QuantumsandLive
       "kaluma-project/kaluma",
       "schedule-x/schedule-x",
       "streamich/json-joy",
-      "sindresorhus/ky"
+      "sindresorhus/ky",
+      "Hacker0x01/react-datepicker"
     ]
 
     git_repos_chromium_googlesource = [
