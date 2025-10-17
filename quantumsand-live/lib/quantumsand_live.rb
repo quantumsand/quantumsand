@@ -624,7 +624,8 @@ class QuantumsandLive
       "vercel/bidc",
       "vercel/next-app-router-playground",
       "vercel/react-tweet",
-      "vercel/docs-search-battle-arena"
+      "vercel/docs-search-battle-arena",
+      "vercel/swr"
     ]
 
     git_repos_chromium_googlesource = [
