@@ -631,7 +631,8 @@ class QuantumsandLive
       "ruby/rubygems",
       "openSIL/openSIL",
       "graffle-js/graffle",
-      "skeletonlabs/skeleton"
+      "skeletonlabs/skeleton",
+      "cure53/DOMPurify"
     ]
 
     git_repos_chromium_googlesource = [
