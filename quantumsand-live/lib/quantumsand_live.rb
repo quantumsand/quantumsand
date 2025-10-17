@@ -603,7 +603,8 @@ class QuantumsandLive
       "vercel/acp-handler",
       "vercel/commerce",
       "ReactBricks/nextjs-commerce-rb",
-      "vercel/mcp-handler"
+      "vercel/mcp-handler",
+      "goreleaser/goreleaser"
     ]
 
     git_repos_chromium_googlesource = [
