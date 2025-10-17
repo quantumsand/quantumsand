@@ -626,7 +626,8 @@ class QuantumsandLive
       "vercel/react-tweet",
       "vercel/docs-search-battle-arena",
       "vercel/swr",
-      "vercel/build-an-ai-app-starter-sep-25"
+      "vercel/build-an-ai-app-starter-sep-25",
+      "vercel/analytics"
     ]
 
     git_repos_chromium_googlesource = [
