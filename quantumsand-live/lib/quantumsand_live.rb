@@ -598,7 +598,8 @@ class QuantumsandLive
       "vercel/nft",
       "vercel/resumable-stream",
       "vercel/sdk",
-      "vercel/edge-runtime"
+      "vercel/edge-runtime",
+      "vercel/storage"
     ]
 
     git_repos_chromium_googlesource = [
