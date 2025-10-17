@@ -604,7 +604,8 @@ class QuantumsandLive
       "vercel/commerce",
       "ReactBricks/nextjs-commerce-rb",
       "vercel/mcp-handler",
-      "goreleaser/goreleaser"
+      "goreleaser/goreleaser",
+      "go-task/task"
     ]
 
     git_repos_chromium_googlesource = [
