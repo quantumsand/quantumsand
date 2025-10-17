@@ -628,7 +628,8 @@ class QuantumsandLive
       "vercel/swr",
       "vercel/build-an-ai-app-starter-sep-25",
       "vercel/analytics",
-      "ruby/rubygems"
+      "ruby/rubygems",
+      "openSIL/openSIL"
     ]
 
     git_repos_chromium_googlesource = [
