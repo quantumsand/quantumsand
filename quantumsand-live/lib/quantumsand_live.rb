@@ -621,7 +621,8 @@ class QuantumsandLive
       "vercel/nextjs-stripe-template",
       "vercel/ncc",
       "vercel/geist-font",
-      "vercel/bidc"
+      "vercel/bidc",
+      "vercel/next-app-router-playground"
     ]
 
     git_repos_chromium_googlesource = [
