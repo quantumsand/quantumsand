@@ -593,7 +593,8 @@ class QuantumsandLive
       "vercel/vercel",
       "vercel/otel",
       "vercel/components.build",
-      "vercel/flags"
+      "vercel/flags",
+      "vercel/examples"
     ]
 
     git_repos_chromium_googlesource = [
