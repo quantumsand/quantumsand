@@ -595,7 +595,8 @@ class QuantumsandLive
       "vercel/components.build",
       "vercel/flags",
       "vercel/examples",
-      "vercel/nft"
+      "vercel/nft",
+      "vercel/resumable-stream"
     ]
 
     git_repos_chromium_googlesource = [
