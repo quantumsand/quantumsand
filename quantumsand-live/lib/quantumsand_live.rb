@@ -633,7 +633,8 @@ class QuantumsandLive
       "graffle-js/graffle",
       "skeletonlabs/skeleton",
       "cure53/DOMPurify",
-      "django/asgiref"
+      "django/asgiref",
+      "platformatic/python-node"
     ]
 
     git_repos_chromium_googlesource = [
