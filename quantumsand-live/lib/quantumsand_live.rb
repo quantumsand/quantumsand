@@ -600,7 +600,8 @@ class QuantumsandLive
       "vercel/sdk",
       "vercel/edge-runtime",
       "vercel/storage",
-      "vercel/acp-handler"
+      "vercel/acp-handler",
+      "vercel/commerce"
     ]
 
     git_repos_chromium_googlesource = [
