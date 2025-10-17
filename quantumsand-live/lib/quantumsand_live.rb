@@ -623,7 +623,8 @@ class QuantumsandLive
       "vercel/geist-font",
       "vercel/bidc",
       "vercel/next-app-router-playground",
-      "vercel/react-tweet"
+      "vercel/react-tweet",
+      "vercel/docs-search-battle-arena"
     ]
 
     git_repos_chromium_googlesource = [
