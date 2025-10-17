@@ -606,7 +606,8 @@ class QuantumsandLive
       "vercel/mcp-handler",
       "goreleaser/goreleaser",
       "go-task/task",
-      "vercel/registry-starter"
+      "vercel/registry-starter",
+      "vercel/example-marketplace-integration"
     ]
 
     git_repos_chromium_googlesource = [
