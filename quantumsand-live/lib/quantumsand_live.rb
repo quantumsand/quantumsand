@@ -636,7 +636,8 @@ class QuantumsandLive
       "django/asgiref",
       "platformatic/python-node",
       "kaluma-project/kaluma",
-      "schedule-x/schedule-x"
+      "schedule-x/schedule-x",
+      "streamich/json-joy"
     ]
 
     git_repos_chromium_googlesource = [
