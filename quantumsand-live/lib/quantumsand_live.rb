@@ -611,7 +611,8 @@ class QuantumsandLive
       "vercel/streamdown",
       "vercel/ai-chatbot",
       "nextauthjs/next-auth",
-      "radix-ui/primitives"
+      "radix-ui/primitives",
+      "radix-ui/themes"
     ]
 
     git_repos_chromium_googlesource = [
