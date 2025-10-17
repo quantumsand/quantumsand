@@ -637,7 +637,8 @@ class QuantumsandLive
       "platformatic/python-node",
       "kaluma-project/kaluma",
       "schedule-x/schedule-x",
-      "streamich/json-joy"
+      "streamich/json-joy",
+      "sindresorhus/ky"
     ]
 
     git_repos_chromium_googlesource = [
