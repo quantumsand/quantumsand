@@ -632,7 +632,8 @@ class QuantumsandLive
       "openSIL/openSIL",
       "graffle-js/graffle",
       "skeletonlabs/skeleton",
-      "cure53/DOMPurify"
+      "cure53/DOMPurify",
+      "django/asgiref"
     ]
 
     git_repos_chromium_googlesource = [
