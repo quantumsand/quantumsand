@@ -590,7 +590,8 @@ class QuantumsandLive
       "vercel/ai",
       "vercel/next.js",
       "vercel/ai-elements",
-      "vercel/vercel"
+      "vercel/vercel",
+      "vercel/otel"
     ]
 
     git_repos_chromium_googlesource = [
