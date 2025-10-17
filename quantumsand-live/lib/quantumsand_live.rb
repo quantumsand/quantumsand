@@ -588,7 +588,8 @@ class QuantumsandLive
       "windmotion-io/rspec-watchdog",
       "basecamp/activerecord-tenanted",
       "vercel/ai",
-      "vercel/next.js"
+      "vercel/next.js",
+      "vercel/ai-elements"
     ]
 
     git_repos_chromium_googlesource = [
