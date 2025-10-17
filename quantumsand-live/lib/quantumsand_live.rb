@@ -607,7 +607,8 @@ class QuantumsandLive
       "goreleaser/goreleaser",
       "go-task/task",
       "vercel/registry-starter",
-      "vercel/example-marketplace-integration"
+      "vercel/example-marketplace-integration",
+      "vercel/streamdown"
     ]
 
     git_repos_chromium_googlesource = [
