@@ -613,7 +613,8 @@ class QuantumsandLive
       "nextauthjs/next-auth",
       "radix-ui/primitives",
       "radix-ui/themes",
-      "radix-ui/colors"
+      "radix-ui/colors",
+      "radix-ui/icons"
     ]
 
     git_repos_chromium_googlesource = [
