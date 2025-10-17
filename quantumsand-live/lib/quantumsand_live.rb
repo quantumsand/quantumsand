@@ -617,7 +617,8 @@ class QuantumsandLive
       "radix-ui/icons",
       "absinthe-graphql/absinthe",
       "absinthe-graphql/absinthe_plug",
-      "vercel/next-forge"
+      "vercel/next-forge",
+      "vercel/nextjs-stripe-template"
     ]
 
     git_repos_chromium_googlesource = [
