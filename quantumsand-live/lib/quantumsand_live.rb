@@ -630,7 +630,8 @@ class QuantumsandLive
       "vercel/analytics",
       "ruby/rubygems",
       "openSIL/openSIL",
-      "graffle-js/graffle"
+      "graffle-js/graffle",
+      "skeletonlabs/skeleton"
     ]
 
     git_repos_chromium_googlesource = [
