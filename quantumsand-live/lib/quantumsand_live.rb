@@ -635,7 +635,8 @@ class QuantumsandLive
       "cure53/DOMPurify",
       "django/asgiref",
       "platformatic/python-node",
-      "kaluma-project/kaluma"
+      "kaluma-project/kaluma",
+      "schedule-x/schedule-x"
     ]
 
     git_repos_chromium_googlesource = [
