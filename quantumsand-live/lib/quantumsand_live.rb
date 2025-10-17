@@ -619,7 +619,8 @@ class QuantumsandLive
       "absinthe-graphql/absinthe_plug",
       "vercel/next-forge",
       "vercel/nextjs-stripe-template",
-      "vercel/ncc"
+      "vercel/ncc",
+      "vercel/geist-font"
     ]
 
     git_repos_chromium_googlesource = [
