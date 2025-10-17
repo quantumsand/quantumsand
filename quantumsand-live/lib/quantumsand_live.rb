@@ -589,7 +589,8 @@ class QuantumsandLive
       "basecamp/activerecord-tenanted",
       "vercel/ai",
       "vercel/next.js",
-      "vercel/ai-elements"
+      "vercel/ai-elements",
+      "vercel/vercel"
     ]
 
     git_repos_chromium_googlesource = [
