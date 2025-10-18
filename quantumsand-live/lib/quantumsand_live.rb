@@ -640,7 +640,8 @@ class QuantumsandLive
       "streamich/json-joy",
       "sindresorhus/ky",
       "Hacker0x01/react-datepicker",
-      "faker-js/faker"
+      "faker-js/faker",
+      "hyprwm/Hyprland"
     ]
 
     git_repos_chromium_googlesource = [
