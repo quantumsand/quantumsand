@@ -947,7 +947,8 @@ class QuantumsandLive
       "net-misc/rabbitmq-server",
       "sec-policy/selinux-base",
       "sys-libs/libselinux",
-      "sys-apps/policycoreutils"
+      "sys-apps/policycoreutils",
+      "sys-apps/hwdata"
     ]
 
     eselect_repository_add = {
