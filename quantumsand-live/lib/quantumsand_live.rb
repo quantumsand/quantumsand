@@ -643,7 +643,8 @@ class QuantumsandLive
       "faker-js/faker",
       "hyprwm/Hyprland",
       "ilya-zlobintsev/LACT",
-      "vcrhonek/hwdata"
+      "vcrhonek/hwdata",
+      "KhronosGroup/Vulkan-Tools"
     ]
 
     git_repos_chromium_googlesource = [
