@@ -650,7 +650,8 @@ class QuantumsandLive
       "carverauto/serviceradar",
       "LiberTEM/LiberTEM",
       "gnuradio/gnuradio",
-      "OpenSpace/Spice"
+      "OpenSpace/Spice",
+      "CelestiaProject/Celestia"
     ]
 
     git_repos_chromium_googlesource = [
