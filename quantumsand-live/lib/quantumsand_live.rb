@@ -691,7 +691,8 @@ class QuantumsandLive
 
     git_repos_freedesktop_gitlab = [
       "mesa/mesa",
-      "wlroots/wlroots"
+      "wlroots/wlroots",
+      "mesa/libdrm"
     ]
 
     git_repos_xfce_gitlab = [
