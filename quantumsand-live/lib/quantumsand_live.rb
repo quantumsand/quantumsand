@@ -645,7 +645,8 @@ class QuantumsandLive
       "ilya-zlobintsev/LACT",
       "vcrhonek/hwdata",
       "KhronosGroup/Vulkan-Tools",
-      "OCL-dev/ocl-icd"
+      "OCL-dev/ocl-icd",
+      "OpenMixerProject/StageConnect"
     ]
 
     git_repos_chromium_googlesource = [
