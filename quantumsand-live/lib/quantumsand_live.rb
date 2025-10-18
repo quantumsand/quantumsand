@@ -691,7 +691,8 @@ class QuantumsandLive
     git_repos_gitlab = [
       "asus-linux/asusctl",
       "asus-linux/supergfxctl",
-      "wireshark/wireshark"
+      "wireshark/wireshark",
+      "gpsd/gpsd"
     ]
 
     git_repos_freedesktop_gitlab = [
