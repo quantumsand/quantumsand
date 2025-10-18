@@ -644,7 +644,8 @@ class QuantumsandLive
       "hyprwm/Hyprland",
       "ilya-zlobintsev/LACT",
       "vcrhonek/hwdata",
-      "KhronosGroup/Vulkan-Tools"
+      "KhronosGroup/Vulkan-Tools",
+      "OCL-dev/ocl-icd"
     ]
 
     git_repos_chromium_googlesource = [
