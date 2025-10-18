@@ -641,7 +641,8 @@ class QuantumsandLive
       "sindresorhus/ky",
       "Hacker0x01/react-datepicker",
       "faker-js/faker",
-      "hyprwm/Hyprland"
+      "hyprwm/Hyprland",
+      "ilya-zlobintsev/LACT"
     ]
 
     git_repos_chromium_googlesource = [
