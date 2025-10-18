@@ -646,7 +646,8 @@ class QuantumsandLive
       "vcrhonek/hwdata",
       "KhronosGroup/Vulkan-Tools",
       "OCL-dev/ocl-icd",
-      "OpenMixerProject/StageConnect"
+      "OpenMixerProject/StageConnect",
+      "carverauto/serviceradar"
     ]
 
     git_repos_chromium_googlesource = [
