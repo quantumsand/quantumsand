@@ -125,6 +125,14 @@ Mathpad support is planned...
 
 ![Mathpad](img/Mathpad.jpg)
 
+## Scientific equipment drivers
+
+Open source Linux drivers for scientific equipment are being included in Quantum Sand. For example the Radiacode gamma ray spectrometers enable spectrum visualisation. For example, the ratio between different isotopes can be used to locate gold deposits which are associated with certain isotopes. There are many educational uses for various scientific equipment and it should be usable in Quantum Sand.
+
+Within the storytelling we can combine scientific equipment and measurement with geospatial mapping. You can build a map with colourisation to visualise readings from scientific equipment.
+
+Other scientific apps will also included for helping to analyse data from scientific equipment.
+
 ## Interfaith collaboration
 
 Support for all locales is planned eventually. This should help with interfaith collaboration.
