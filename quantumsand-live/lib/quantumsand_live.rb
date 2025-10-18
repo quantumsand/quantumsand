@@ -663,6 +663,10 @@ class QuantumsandLive
       "gcc-wwwdocs"
     ]
 
+    git_repos_savannah_gnu_org = [
+      "make"
+    ]
+
     git_repos_git_sr_ht = [
       "~sircmpwn/scdoc"
     ]
