@@ -131,7 +131,7 @@ Open source Linux drivers for scientific equipment are being included in Quantum
 
 Within the storytelling we can combine scientific equipment and measurement with geospatial mapping. You can build a map with colourisation to visualise readings from scientific equipment.
 
-Other scientific apps will also included for helping to analyse data from scientific equipment.
+Other scientific apps will also be included for helping to analyse data from scientific equipment.
 
 ## Interfaith collaboration
 
