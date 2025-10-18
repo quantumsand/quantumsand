@@ -649,7 +649,8 @@ class QuantumsandLive
       "OpenMixerProject/StageConnect",
       "carverauto/serviceradar",
       "LiberTEM/LiberTEM",
-      "gnuradio/gnuradio"
+      "gnuradio/gnuradio",
+      "OpenSpace/Spice"
     ]
 
     git_repos_chromium_googlesource = [
