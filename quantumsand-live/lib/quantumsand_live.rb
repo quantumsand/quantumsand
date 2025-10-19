@@ -659,7 +659,8 @@ class QuantumsandLive
       "audacious-media-player/audacious",
       "audacious-media-player/audacious-plugins",
       "audacious-media-player/libaudclient",
-      "jupyter-xeus/xeus-octave"
+      "jupyter-xeus/xeus-octave",
+      "emscripten-forge/recipes"
     ]
 
     git_repos_chromium_googlesource = [
