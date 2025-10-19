@@ -654,7 +654,8 @@ class QuantumsandLive
       "CelestiaProject/Celestia",
       "jupytercad/JupyterCAD",
       "FreeCAD/FreeCAD",
-      "y-crdt/pycrdt"
+      "y-crdt/pycrdt",
+      "y-crdt/y-crdt"
     ]
 
     git_repos_chromium_googlesource = [
