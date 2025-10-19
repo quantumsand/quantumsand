@@ -657,7 +657,8 @@ class QuantumsandLive
       "y-crdt/pycrdt",
       "y-crdt/y-crdt",
       "audacious-media-player/audacious",
-      "audacious-media-player/audacious-plugins"
+      "audacious-media-player/audacious-plugins",
+      "audacious-media-player/libaudclient"
     ]
 
     git_repos_chromium_googlesource = [
