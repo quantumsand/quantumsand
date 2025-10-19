@@ -655,7 +655,8 @@ class QuantumsandLive
       "jupytercad/JupyterCAD",
       "FreeCAD/FreeCAD",
       "y-crdt/pycrdt",
-      "y-crdt/y-crdt"
+      "y-crdt/y-crdt",
+      "audacious-media-player/audacious"
     ]
 
     git_repos_chromium_googlesource = [
