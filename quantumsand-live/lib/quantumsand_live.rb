@@ -652,7 +652,8 @@ class QuantumsandLive
       "gnuradio/gnuradio",
       "OpenSpace/Spice",
       "CelestiaProject/Celestia",
-      "jupytercad/JupyterCAD"
+      "jupytercad/JupyterCAD",
+      "FreeCAD/FreeCAD"
     ]
 
     git_repos_chromium_googlesource = [
