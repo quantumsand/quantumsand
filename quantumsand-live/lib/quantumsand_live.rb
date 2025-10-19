@@ -794,6 +794,10 @@ class QuantumsandLive
       "cmake/cmake"
     ]
 
+    git_repos_code_videolan_org = [
+      "videolan/vlc"
+    ]
+
     git_repos_redox_os_gitlab = [
       "redox-os/cookbook"
     ]
