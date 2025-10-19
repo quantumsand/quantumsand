@@ -662,7 +662,8 @@ class QuantumsandLive
       "jupyter-xeus/xeus-octave",
       "emscripten-forge/recipes",
       "biopython/biopython",
-      "biopython/docs"
+      "biopython/docs",
+      "jupyter-xeus/xeus"
     ]
 
     git_repos_chromium_googlesource = [
