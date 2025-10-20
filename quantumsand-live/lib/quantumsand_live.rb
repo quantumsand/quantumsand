@@ -666,7 +666,8 @@ class QuantumsandLive
       "jupyter-xeus/xeus",
       "reactos/reactos",
       "deepseek-ai/DeepSeek-OCR",
-      "deepseek-ai/DeepEP"
+      "deepseek-ai/DeepEP",
+      "deepseek-ai/DeepGEMM"
     ]
 
     git_repos_chromium_googlesource = [
