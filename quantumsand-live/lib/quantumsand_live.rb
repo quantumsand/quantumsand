@@ -682,7 +682,8 @@ class QuantumsandLive
       "deepseek-ai/smallpond",
       "duckdb/duckdb",
       "duckdb/duckdb-web",
-      "duckdb/community-extensions"
+      "duckdb/community-extensions",
+      "just-the-docs/just-the-docs"
     ]
 
     git_repos_chromium_googlesource = [
