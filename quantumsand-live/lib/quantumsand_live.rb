@@ -693,7 +693,8 @@ class QuantumsandLive
       "gleam-lang/otp",
       "gleam-lang/website",
       "gleam-lang/stdlib",
-      "gleam-lang/packages"
+      "gleam-lang/packages",
+      "gleam-wisp/wisp"
     ]
 
     git_repos_chromium_googlesource = [
