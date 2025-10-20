@@ -699,7 +699,8 @@ class QuantumsandLive
       "lpil/storail",
       "gleam-lang/time",
       "gleam-lang/language-tour",
-      "gleam-lang/tree-sitter-gleam"
+      "gleam-lang/tree-sitter-gleam",
+      "tree-sitter/tree-sitter"
     ]
 
     git_repos_chromium_googlesource = [
