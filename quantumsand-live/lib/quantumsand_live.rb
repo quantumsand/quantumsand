@@ -683,7 +683,8 @@ class QuantumsandLive
       "duckdb/duckdb",
       "duckdb/duckdb-web",
       "duckdb/community-extensions",
-      "just-the-docs/just-the-docs"
+      "just-the-docs/just-the-docs",
+      "duckdb/duckdb-odbc"
     ]
 
     git_repos_chromium_googlesource = [
