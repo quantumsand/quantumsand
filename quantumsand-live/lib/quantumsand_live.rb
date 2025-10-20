@@ -668,7 +668,8 @@ class QuantumsandLive
       "deepseek-ai/DeepSeek-OCR",
       "deepseek-ai/DeepEP",
       "deepseek-ai/DeepGEMM",
-      "deepseek-ai/3FS"
+      "deepseek-ai/3FS",
+      "deepseek-ai/DeepSeek-V3.2-Exp"
     ]
 
     git_repos_chromium_googlesource = [
