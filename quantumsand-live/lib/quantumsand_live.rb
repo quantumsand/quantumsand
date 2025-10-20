@@ -669,7 +669,8 @@ class QuantumsandLive
       "deepseek-ai/DeepEP",
       "deepseek-ai/DeepGEMM",
       "deepseek-ai/3FS",
-      "deepseek-ai/DeepSeek-V3.2-Exp"
+      "deepseek-ai/DeepSeek-V3.2-Exp",
+      "dao-AILab/flash-attention"
     ]
 
     git_repos_chromium_googlesource = [
