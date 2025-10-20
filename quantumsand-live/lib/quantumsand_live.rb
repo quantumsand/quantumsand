@@ -691,7 +691,8 @@ class QuantumsandLive
       "duckdb/duckdb-rs",
       "gleam-lang/gleam",
       "gleam-lang/otp",
-      "gleam-lang/website"
+      "gleam-lang/website",
+      "gleam-lang/stdlib"
     ]
 
     git_repos_chromium_googlesource = [
