@@ -697,7 +697,8 @@ class QuantumsandLive
       "gleam-wisp/wisp",
       "rawhat/mist",
       "lpil/storail",
-      "gleam-lang/time"
+      "gleam-lang/time",
+      "gleam-lang/language-tour"
     ]
 
     git_repos_chromium_googlesource = [
