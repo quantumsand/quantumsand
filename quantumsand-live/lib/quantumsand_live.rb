@@ -677,7 +677,8 @@ class QuantumsandLive
       "Deep-Spark/FlashMLA",
       "deepseek-ai/DeepSeek-V3",
       "deepseek-ai/DeepSeek-R1",
-      "deepseek-ai/EPLB"
+      "deepseek-ai/EPLB",
+      "deepseek-ai/DualPipe"
     ]
 
     git_repos_chromium_googlesource = [
