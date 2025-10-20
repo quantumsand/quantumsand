@@ -702,7 +702,8 @@ class QuantumsandLive
       "gleam-lang/tree-sitter-gleam",
       "tree-sitter/tree-sitter",
       "gleam-lang/gleam-mode",
-      "gleam-lang/http"
+      "gleam-lang/http",
+      "lpil/cgi"
     ]
 
     git_repos_chromium_googlesource = [
