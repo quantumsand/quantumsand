@@ -695,7 +695,8 @@ class QuantumsandLive
       "gleam-lang/stdlib",
       "gleam-lang/packages",
       "gleam-wisp/wisp",
-      "rawhat/mist"
+      "rawhat/mist",
+      "lpil/storail"
     ]
 
     git_repos_chromium_googlesource = [
