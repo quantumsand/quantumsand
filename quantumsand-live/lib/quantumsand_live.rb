@@ -675,7 +675,8 @@ class QuantumsandLive
       "MetaX-MACA/FlashMLA",
       "MooreThreads/MT-flashMLA",
       "Deep-Spark/FlashMLA",
-      "deepseek-ai/DeepSeek-V3"
+      "deepseek-ai/DeepSeek-V3",
+      "deepseek-ai/DeepSeek-R1"
     ]
 
     git_repos_chromium_googlesource = [
