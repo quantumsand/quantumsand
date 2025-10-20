@@ -704,7 +704,8 @@ class QuantumsandLive
       "gleam-lang/gleam-mode",
       "gleam-lang/http",
       "lpil/cgi",
-      "evidentlyai/evidently"
+      "evidentlyai/evidently",
+      "Project-MONAI/MONAI"
     ]
 
     git_repos_chromium_googlesource = [
