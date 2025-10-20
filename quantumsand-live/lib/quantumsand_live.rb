@@ -665,7 +665,8 @@ class QuantumsandLive
       "biopython/docs",
       "jupyter-xeus/xeus",
       "reactos/reactos",
-      "deepseek-ai/DeepSeek-OCR"
+      "deepseek-ai/DeepSeek-OCR",
+      "deepseek-ai/DeepEP"
     ]
 
     git_repos_chromium_googlesource = [
