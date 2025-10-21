@@ -706,7 +706,8 @@ class QuantumsandLive
       "lpil/cgi",
       "evidentlyai/evidently",
       "Project-MONAI/MONAI",
-      "iterative/dvc"
+      "iterative/dvc",
+      "iterative/vscode-dvc"
     ]
 
     git_repos_chromium_googlesource = [
