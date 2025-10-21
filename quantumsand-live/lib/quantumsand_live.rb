@@ -708,7 +708,8 @@ class QuantumsandLive
       "Project-MONAI/MONAI",
       "iterative/dvc",
       "iterative/vscode-dvc",
-      "iterative/vscode-dvc-demo"
+      "iterative/vscode-dvc-demo",
+      "yandex-cloud-socialtech/mri-newborns"
     ]
 
     git_repos_chromium_googlesource = [
