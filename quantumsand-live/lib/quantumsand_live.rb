@@ -736,7 +736,8 @@ class QuantumsandLive
       "gleam-lang/elli",
       "conda/conda",
       "systemd/systemd",
-      "ray-project/ray"
+      "ray-project/ray",
+      "rapid7/metasploit-framework"
     ]
 
     git_repos_chromium_googlesource = [
