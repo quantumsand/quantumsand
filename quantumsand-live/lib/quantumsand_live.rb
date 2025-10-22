@@ -712,7 +712,8 @@ class QuantumsandLive
       "yandex-cloud-socialtech/mri-newborns",
       "openbsd/src",
       "openbsd/ports",
-      "openbsd/xenocara"
+      "openbsd/xenocara",
+      "openbsd/www"
     ]
 
     git_repos_chromium_googlesource = [
