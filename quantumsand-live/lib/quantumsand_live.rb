@@ -1066,7 +1066,8 @@ class QuantumsandLive
       "sec-policy/selinux-base",
       "sys-libs/libselinux",
       "sys-apps/policycoreutils",
-      "sys-apps/hwdata"
+      "sys-apps/hwdata",
+      "dev-embedded/sdcc"
     ]
 
     eselect_repository_add = {
