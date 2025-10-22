@@ -725,7 +725,8 @@ class QuantumsandLive
       "gleam-lang/zed-gleam",
       "zed-industries/zed",
       "gleam-lang/hackney",
-      "gleam-lang/httpc"
+      "gleam-lang/httpc",
+      "gleam-lang/playground"
     ]
 
     git_repos_chromium_googlesource = [
