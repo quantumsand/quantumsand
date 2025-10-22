@@ -733,7 +733,8 @@ class QuantumsandLive
       "gleam-lang/javascript",
       "gleam-lang/json",
       "gleam-lang/vscode-gleam",
-      "gleam-lang/elli"
+      "gleam-lang/elli",
+      "conda/conda"
     ]
 
     git_repos_chromium_googlesource = [
