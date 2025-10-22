@@ -717,7 +717,8 @@ class QuantumsandLive
       "foundation/foundation-emails",
       "foundation/inky",
       "foundation/panini",
-      "OpenDevicePartnership/patina"
+      "OpenDevicePartnership/patina",
+      "bilinearlabs/rs-merkle-tree"
     ]
 
     git_repos_chromium_googlesource = [
