@@ -760,7 +760,8 @@ class QuantumsandLive
       "wireshark/wireshark",
       "gpsd/gpsd",
       "glitchtip/glitchtip-backend",
-      "glitchtip/glitchtip"
+      "glitchtip/glitchtip",
+      "glitchtip/error-factories/rust-error-factory"
     ]
 
     git_repos_freedesktop_gitlab = [
