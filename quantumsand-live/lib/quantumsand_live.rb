@@ -719,7 +719,8 @@ class QuantumsandLive
       "foundation/panini",
       "OpenDevicePartnership/patina",
       "bilinearlabs/rs-merkle-tree",
-      "gleam-lang/crypto"
+      "gleam-lang/crypto",
+      "gleam-lang/erlang"
     ]
 
     git_repos_chromium_googlesource = [
