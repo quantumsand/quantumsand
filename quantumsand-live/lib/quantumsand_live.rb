@@ -714,7 +714,8 @@ class QuantumsandLive
       "openbsd/ports",
       "openbsd/xenocara",
       "openbsd/www",
-      "foundation/foundation-emails"
+      "foundation/foundation-emails",
+      "foundation/inky"
     ]
 
     git_repos_chromium_googlesource = [
