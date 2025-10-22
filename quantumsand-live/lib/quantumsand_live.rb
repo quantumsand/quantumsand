@@ -1037,6 +1037,10 @@ class QuantumsandLive
       "src"
     ]
 
+    svn_repos_code_sf_net = [
+      "sdcc/code/trunk"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
