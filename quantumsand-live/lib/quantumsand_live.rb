@@ -735,7 +735,8 @@ class QuantumsandLive
       "gleam-lang/vscode-gleam",
       "gleam-lang/elli",
       "conda/conda",
-      "systemd/systemd"
+      "systemd/systemd",
+      "ray-project/ray"
     ]
 
     git_repos_chromium_googlesource = [
