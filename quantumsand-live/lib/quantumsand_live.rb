@@ -761,7 +761,8 @@ class QuantumsandLive
       "gpsd/gpsd",
       "glitchtip/glitchtip-backend",
       "glitchtip/glitchtip",
-      "glitchtip/error-factories/rust-error-factory"
+      "glitchtip/error-factories/rust-error-factory",
+      "glitchtip/error-factories/rails-error-factory"
     ]
 
     git_repos_freedesktop_gitlab = [
