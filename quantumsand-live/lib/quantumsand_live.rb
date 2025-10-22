@@ -884,7 +884,8 @@ class QuantumsandLive
       "sdk/kdesrc-build",
       "graphics/krita",
       "utilities/kirogi",
-      "plasma/kwin"
+      "plasma/kwin",
+      "network/kdeconnect-kde"
     ]
 
     git_repos_projects_blender = [
