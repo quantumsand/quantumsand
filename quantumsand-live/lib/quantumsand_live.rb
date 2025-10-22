@@ -758,7 +758,8 @@ class QuantumsandLive
       "asus-linux/asusctl",
       "asus-linux/supergfxctl",
       "wireshark/wireshark",
-      "gpsd/gpsd"
+      "gpsd/gpsd",
+      "glitchtip/glitchtip-backend"
     ]
 
     git_repos_freedesktop_gitlab = [
