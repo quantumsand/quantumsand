@@ -729,7 +729,8 @@ class QuantumsandLive
       "gleam-lang/playground",
       "gleam-lang/fetch",
       "gleam-lang/hexpm-webapp",
-      "hexpm/hexpm"
+      "hexpm/hexpm",
+      "gleam-lang/javascript"
     ]
 
     git_repos_chromium_googlesource = [
