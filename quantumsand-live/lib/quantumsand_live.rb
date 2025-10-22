@@ -718,7 +718,8 @@ class QuantumsandLive
       "foundation/inky",
       "foundation/panini",
       "OpenDevicePartnership/patina",
-      "bilinearlabs/rs-merkle-tree"
+      "bilinearlabs/rs-merkle-tree",
+      "gleam-lang/crypto"
     ]
 
     git_repos_chromium_googlesource = [
