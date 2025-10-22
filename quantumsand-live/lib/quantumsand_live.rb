@@ -727,7 +727,8 @@ class QuantumsandLive
       "gleam-lang/hackney",
       "gleam-lang/httpc",
       "gleam-lang/playground",
-      "gleam-lang/fetch"
+      "gleam-lang/fetch",
+      "gleam-lang/hexpm-webapp"
     ]
 
     git_repos_chromium_googlesource = [
