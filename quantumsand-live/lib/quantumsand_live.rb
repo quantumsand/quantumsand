@@ -709,7 +709,8 @@ class QuantumsandLive
       "iterative/dvc",
       "iterative/vscode-dvc",
       "iterative/vscode-dvc-demo",
-      "yandex-cloud-socialtech/mri-newborns"
+      "yandex-cloud-socialtech/mri-newborns",
+      "openbsd/src"
     ]
 
     git_repos_chromium_googlesource = [
