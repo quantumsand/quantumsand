@@ -770,7 +770,8 @@ class QuantumsandLive
       "glitchtip/error-factories/go-error-factory",
       "glitchtip/error-factories/elixir-error-factory",
       "glitchtip/error-factories/django-error-factory",
-      "glitchtip/error-factories/cpp-error-factory"
+      "glitchtip/error-factories/cpp-error-factory",
+      "glitchtip/glitchtip-frontend"
     ]
 
     git_repos_freedesktop_gitlab = [
