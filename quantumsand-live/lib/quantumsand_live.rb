@@ -721,7 +721,8 @@ class QuantumsandLive
       "bilinearlabs/rs-merkle-tree",
       "gleam-lang/crypto",
       "gleam-lang/erlang",
-      "gleam-lang/hexpm-rust"
+      "gleam-lang/hexpm-rust",
+      "gleam-lang/zed-gleam"
     ]
 
     git_repos_chromium_googlesource = [
