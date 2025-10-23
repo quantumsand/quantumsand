@@ -786,7 +786,8 @@ class QuantumsandLive
       "lemmerelassal/NoraSearch",
       "sraoss/pg_ivm",
       "ed-o-saurus/PLHaskell",
-      "sunng87/pgwire"
+      "sunng87/pgwire",
+      "HexaCluster/pg_dbms_errlog"
     ]
 
     git_repos_chromium_googlesource = [
