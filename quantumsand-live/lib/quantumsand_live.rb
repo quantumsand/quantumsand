@@ -782,7 +782,8 @@ class QuantumsandLive
       "sveltejs/svelte",
       "deta/surf",
       "stalwartlabs/stalwart",
-      "character-ai/Ovi"
+      "character-ai/Ovi",
+      "lemmerelassal/NoraSearch"
     ]
 
     git_repos_chromium_googlesource = [
