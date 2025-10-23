@@ -763,7 +763,8 @@ class QuantumsandLive
       "astropy/asdf-astropy",
       "astropy/astro-image-display-api",
       "astropy/astroplan",
-      "astropy/astropy-APEs"
+      "astropy/astropy-APEs",
+      "astropy/astropy-benchmarks"
     ]
 
     git_repos_chromium_googlesource = [
