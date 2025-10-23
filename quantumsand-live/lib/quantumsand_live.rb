@@ -788,7 +788,8 @@ class QuantumsandLive
       "ed-o-saurus/PLHaskell",
       "sunng87/pgwire",
       "HexaCluster/pg_dbms_errlog",
-      "supabase/postgres-meta"
+      "supabase/postgres-meta",
+      "supabase/supabase"
     ]
 
     git_repos_chromium_googlesource = [
