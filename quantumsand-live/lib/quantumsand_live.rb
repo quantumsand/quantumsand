@@ -943,7 +943,8 @@ class QuantumsandLive
 
     git_repos_gnome_gitlab = [
       "GNOME/vala",
-      "GNOME/gimp"
+      "GNOME/gimp",
+      "GNOME/gtk"
     ]
 
     git_repos_postgresql_org = [
