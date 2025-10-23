@@ -767,7 +767,8 @@ class QuantumsandLive
       "astropy/astropy-benchmarks",
       "astropy/astropy-data",
       "Unidata/MetPy",
-      "scipy/scipy"
+      "scipy/scipy",
+      "pandas-dev/pandas"
     ]
 
     git_repos_chromium_googlesource = [
