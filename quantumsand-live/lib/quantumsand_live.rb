@@ -749,7 +749,8 @@ class QuantumsandLive
       "gleam-lang/cookbook",
       "gleam-lang/yielder",
       "gleam-lang/deque",
-      "bigskysoftware/htmx"
+      "bigskysoftware/htmx",
+      "michaeljones/matcha"
     ]
 
     git_repos_chromium_googlesource = [
