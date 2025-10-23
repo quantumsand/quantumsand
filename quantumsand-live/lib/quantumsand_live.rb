@@ -745,7 +745,8 @@ class QuantumsandLive
       "gleam-lang/hexpm",
       "gleam-lang/gleam-highlight.js",
       "gleam-lang/example-lisp-interpreter",
-      "gleam-lang/cowboy"
+      "gleam-lang/cowboy",
+      "gleam-lang/cookbook"
     ]
 
     git_repos_chromium_googlesource = [
