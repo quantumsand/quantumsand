@@ -775,7 +775,8 @@ class QuantumsandLive
       "astropy/astropy-healpix",
       "astropy/astropy-iers-data",
       "astropy/astropy-sphinx-theme",
-      "astropy/astroscrappy"
+      "astropy/astroscrappy",
+      "astropy/astrowidgets"
     ]
 
     git_repos_chromium_googlesource = [
