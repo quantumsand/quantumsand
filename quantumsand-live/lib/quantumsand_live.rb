@@ -758,7 +758,8 @@ class QuantumsandLive
       "gleam-lang/gleam-compiler-ci-test",
       "gleam-lang/plug",
       "CelestiaProject/CelestiaContent",
-      "CelestiaProject/www"
+      "CelestiaProject/www",
+      "astropy/astropy"
     ]
 
     git_repos_chromium_googlesource = [
