@@ -738,7 +738,8 @@ class QuantumsandLive
       "systemd/systemd",
       "ray-project/ray",
       "rapid7/metasploit-framework",
-      "marp-team/marp"
+      "marp-team/marp",
+      "gleam-lang/package-interface"
     ]
 
     git_repos_chromium_googlesource = [
