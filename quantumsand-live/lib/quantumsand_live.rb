@@ -743,7 +743,8 @@ class QuantumsandLive
       "gleam-lang/example-echo-server",
       "gleam-lang/regexp",
       "gleam-lang/hexpm",
-      "gleam-lang/gleam-highlight.js"
+      "gleam-lang/gleam-highlight.js",
+      "gleam-lang/example-lisp-interpreter"
     ]
 
     git_repos_chromium_googlesource = [
