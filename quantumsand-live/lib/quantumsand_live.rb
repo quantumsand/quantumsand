@@ -772,7 +772,8 @@ class QuantumsandLive
       "hgrecco/pint",
       "pydata/xarray",
       "dask/dask",
-      "astropy/astropy-healpix"
+      "astropy/astropy-healpix",
+      "astropy/astropy-iers-data"
     ]
 
     git_repos_chromium_googlesource = [
