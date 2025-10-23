@@ -740,7 +740,8 @@ class QuantumsandLive
       "rapid7/metasploit-framework",
       "marp-team/marp",
       "gleam-lang/package-interface",
-      "gleam-lang/example-echo-server"
+      "gleam-lang/example-echo-server",
+      "gleam-lang/regexp"
     ]
 
     git_repos_chromium_googlesource = [
