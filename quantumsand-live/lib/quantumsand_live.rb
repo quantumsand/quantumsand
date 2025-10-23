@@ -783,7 +783,8 @@ class QuantumsandLive
       "deta/surf",
       "stalwartlabs/stalwart",
       "character-ai/Ovi",
-      "lemmerelassal/NoraSearch"
+      "lemmerelassal/NoraSearch",
+      "sraoss/pg_ivm"
     ]
 
     git_repos_chromium_googlesource = [
