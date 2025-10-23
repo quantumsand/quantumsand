@@ -785,7 +785,8 @@ class QuantumsandLive
       "character-ai/Ovi",
       "lemmerelassal/NoraSearch",
       "sraoss/pg_ivm",
-      "ed-o-saurus/PLHaskell"
+      "ed-o-saurus/PLHaskell",
+      "sunng87/pgwire"
     ]
 
     git_repos_chromium_googlesource = [
