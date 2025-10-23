@@ -760,7 +760,8 @@ class QuantumsandLive
       "CelestiaProject/CelestiaContent",
       "CelestiaProject/www",
       "astropy/astropy",
-      "astropy/asdf-astropy"
+      "astropy/asdf-astropy",
+      "astropy/astro-image-display-api"
     ]
 
     git_repos_chromium_googlesource = [
