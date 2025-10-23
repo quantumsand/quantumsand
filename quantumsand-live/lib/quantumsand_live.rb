@@ -737,7 +737,8 @@ class QuantumsandLive
       "conda/conda",
       "systemd/systemd",
       "ray-project/ray",
-      "rapid7/metasploit-framework"
+      "rapid7/metasploit-framework",
+      "marp-team/marp"
     ]
 
     git_repos_chromium_googlesource = [
