@@ -741,7 +741,8 @@ class QuantumsandLive
       "marp-team/marp",
       "gleam-lang/package-interface",
       "gleam-lang/example-echo-server",
-      "gleam-lang/regexp"
+      "gleam-lang/regexp",
+      "gleam-lang/hexpm"
     ]
 
     git_repos_chromium_googlesource = [
