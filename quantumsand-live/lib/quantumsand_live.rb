@@ -777,7 +777,8 @@ class QuantumsandLive
       "astropy/astropy-sphinx-theme",
       "astropy/astroscrappy",
       "astropy/astrowidgets",
-      "astropy/ccd-reduction-and-photometry-guide"
+      "astropy/ccd-reduction-and-photometry-guide",
+      "meta-pytorch/monarch"
     ]
 
     git_repos_chromium_googlesource = [
