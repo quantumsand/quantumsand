@@ -750,7 +750,8 @@ class QuantumsandLive
       "gleam-lang/yielder",
       "gleam-lang/deque",
       "bigskysoftware/htmx",
-      "michaeljones/matcha"
+      "michaeljones/matcha",
+      "gleam-lang/example-todomvc"
     ]
 
     git_repos_chromium_googlesource = [
