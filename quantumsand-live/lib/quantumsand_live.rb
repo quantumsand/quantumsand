@@ -781,7 +781,8 @@ class QuantumsandLive
       "meta-pytorch/monarch",
       "sveltejs/svelte",
       "deta/surf",
-      "stalwartlabs/stalwart"
+      "stalwartlabs/stalwart",
+      "character-ai/Ovi"
     ]
 
     git_repos_chromium_googlesource = [
