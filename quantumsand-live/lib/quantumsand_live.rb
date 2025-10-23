@@ -757,7 +757,8 @@ class QuantumsandLive
       "gleam-lang/bitwise",
       "gleam-lang/gleam-compiler-ci-test",
       "gleam-lang/plug",
-      "CelestiaProject/CelestiaContent"
+      "CelestiaProject/CelestiaContent",
+      "CelestiaProject/www"
     ]
 
     git_repos_chromium_googlesource = [
