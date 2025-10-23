@@ -770,7 +770,8 @@ class QuantumsandLive
       "scipy/scipy",
       "pandas-dev/pandas",
       "hgrecco/pint",
-      "pydata/xarray"
+      "pydata/xarray",
+      "dask/dask"
     ]
 
     git_repos_chromium_googlesource = [
