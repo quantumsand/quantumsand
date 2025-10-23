@@ -779,7 +779,8 @@ class QuantumsandLive
       "astropy/astrowidgets",
       "astropy/ccd-reduction-and-photometry-guide",
       "meta-pytorch/monarch",
-      "sveltejs/svelte"
+      "sveltejs/svelte",
+      "deta/surf"
     ]
 
     git_repos_chromium_googlesource = [
