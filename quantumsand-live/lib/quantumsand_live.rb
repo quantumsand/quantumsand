@@ -755,7 +755,8 @@ class QuantumsandLive
       "gleam-lang/mix_gleam",
       "distcc/distcc",
       "gleam-lang/bitwise",
-      "gleam-lang/gleam-compiler-ci-test"
+      "gleam-lang/gleam-compiler-ci-test",
+      "gleam-lang/plug"
     ]
 
     git_repos_chromium_googlesource = [
