@@ -829,7 +829,8 @@ class QuantumsandLive
       "PythonOT/POT",
       "pymc-devs/pymc-examples",
       "tahoebio/tahoe-x1",
-      "KhronosGroup/Vulkan-Docs"
+      "KhronosGroup/Vulkan-Docs",
+      "grafana/grafana"
     ]
 
     git_repos_chromium_googlesource = [
