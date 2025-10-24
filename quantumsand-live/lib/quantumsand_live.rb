@@ -814,7 +814,8 @@ class QuantumsandLive
       "alsa-project/gobject-introspection-docs",
       "gtk-rs/gtk-rs-core",
       "gtk-rs/gtk4-rs",
-      "typst/typst"
+      "typst/typst",
+      "gtk-rs/gir"
     ]
 
     git_repos_chromium_googlesource = [
