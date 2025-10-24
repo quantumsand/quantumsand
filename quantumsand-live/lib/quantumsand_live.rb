@@ -1003,7 +1003,8 @@ class QuantumsandLive
       "GNOME/vala",
       "GNOME/gimp",
       "GNOME/gtk",
-      "GNOME/pygobject"
+      "GNOME/pygobject",
+      "GNOME/libadwaita"
     ]
 
     git_repos_postgresql_org = [
