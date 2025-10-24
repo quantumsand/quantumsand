@@ -792,7 +792,8 @@ class QuantumsandLive
       "supabase/supabase",
       "sbdchd/squawk",
       "pgadmin-org/pgadmin4",
-      "geojupyter/jupytergis"
+      "geojupyter/jupytergis",
+      "jupyterlite/jupyterlite"
     ]
 
     git_repos_chromium_googlesource = [
