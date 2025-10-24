@@ -806,7 +806,8 @@ class QuantumsandLive
       "alsa-project/alsa-oss",
       "alsa-project/alsa-plugins",
       "alsa-project/alsa-python",
-      "alsa-project/alsa-tests"
+      "alsa-project/alsa-tests",
+      "alsa-project/alsa-tools"
     ]
 
     git_repos_chromium_googlesource = [
