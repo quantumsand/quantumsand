@@ -824,7 +824,8 @@ class QuantumsandLive
       "pyenv/pyenv",
       "alsa-project/snd-firewire-ctl-services",
       "alsa-project/tinycompress",
-      "pymc-devs/pymc"
+      "pymc-devs/pymc",
+      "pymc-devs/pytensor"
     ]
 
     git_repos_chromium_googlesource = [
