@@ -801,7 +801,8 @@ class QuantumsandLive
       "AsahiLinux/speakersafetyd",
       "alsa-project/alsa-lib",
       "alsa-project/alsa-firmware",
-      "alsa-project/alsa-gobject"
+      "alsa-project/alsa-gobject",
+      "alsa-project/alsa-gobject-rs"
     ]
 
     git_repos_chromium_googlesource = [
