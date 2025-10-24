@@ -799,7 +799,8 @@ class QuantumsandLive
       "rafalh/rust-fatfs",
       "AsahiLinux/asahi-audio",
       "AsahiLinux/speakersafetyd",
-      "alsa-project/alsa-lib"
+      "alsa-project/alsa-lib",
+      "alsa-project/alsa-firmware"
     ]
 
     git_repos_chromium_googlesource = [
