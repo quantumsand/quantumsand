@@ -794,7 +794,8 @@ class QuantumsandLive
       "pgadmin-org/pgadmin4",
       "geojupyter/jupytergis",
       "jupyterlite/jupyterlite",
-      "AsahiLinux/m1n1"
+      "AsahiLinux/m1n1",
+      "AsahiLinux/artwork"
     ]
 
     git_repos_chromium_googlesource = [
