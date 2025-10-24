@@ -797,7 +797,8 @@ class QuantumsandLive
       "AsahiLinux/m1n1",
       "AsahiLinux/artwork",
       "rafalh/rust-fatfs",
-      "AsahiLinux/asahi-audio"
+      "AsahiLinux/asahi-audio",
+      "AsahiLinux/speakersafetyd"
     ]
 
     git_repos_chromium_googlesource = [
