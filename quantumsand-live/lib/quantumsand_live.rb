@@ -878,7 +878,8 @@ class QuantumsandLive
     git_repos_freedesktop_gitlab = [
       "mesa/mesa",
       "wlroots/wlroots",
-      "mesa/libdrm"
+      "mesa/libdrm",
+      "gstreamer/gstreamer-rs"
     ]
 
     git_repos_xfce_gitlab = [
