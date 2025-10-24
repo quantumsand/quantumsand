@@ -810,7 +810,8 @@ class QuantumsandLive
       "alsa-project/alsa-tools",
       "alsa-project/alsa-topology-conf",
       "alsa-project/alsa-ucm-conf",
-      "alsa-project/alsa-utils"
+      "alsa-project/alsa-utils",
+      "alsa-project/gobject-introspection-docs"
     ]
 
     git_repos_chromium_googlesource = [
