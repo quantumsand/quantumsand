@@ -826,7 +826,8 @@ class QuantumsandLive
       "alsa-project/tinycompress",
       "pymc-devs/pymc",
       "pymc-devs/pytensor",
-      "PythonOT/POT"
+      "PythonOT/POT",
+      "pymc-devs/pymc-examples"
     ]
 
     git_repos_chromium_googlesource = [
