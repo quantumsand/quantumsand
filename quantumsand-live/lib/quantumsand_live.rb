@@ -895,7 +895,8 @@ class QuantumsandLive
       "gstreamer/gst-integration-testsuites",
       "gstreamer/gst-plugins-rs",
       "gstreamer/gst-template",
-      "gstreamer/orc"
+      "gstreamer/orc",
+      "pipewire/pipewire"
     ]
 
     git_repos_xfce_gitlab = [
