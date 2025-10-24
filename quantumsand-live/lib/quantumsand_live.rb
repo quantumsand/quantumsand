@@ -795,7 +795,8 @@ class QuantumsandLive
       "geojupyter/jupytergis",
       "jupyterlite/jupyterlite",
       "AsahiLinux/m1n1",
-      "AsahiLinux/artwork"
+      "AsahiLinux/artwork",
+      "rafalh/rust-fatfs"
     ]
 
     git_repos_chromium_googlesource = [
