@@ -817,7 +817,8 @@ class QuantumsandLive
       "typst/typst",
       "gtk-rs/gir",
       "alsa-project/hinawa-rs",
-      "gtk-rs/gir-files"
+      "gtk-rs/gir-files",
+      "alsa-project/hitaki-rs"
     ]
 
     git_repos_chromium_googlesource = [
