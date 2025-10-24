@@ -821,7 +821,8 @@ class QuantumsandLive
       "alsa-project/hitaki-rs",
       "alsa-project/libhinawa",
       "alsa-project/libhitaki",
-      "pyenv/pyenv"
+      "pyenv/pyenv",
+      "alsa-project/snd-firewire-ctl-services"
     ]
 
     git_repos_chromium_googlesource = [
