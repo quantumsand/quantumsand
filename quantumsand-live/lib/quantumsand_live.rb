@@ -818,7 +818,8 @@ class QuantumsandLive
       "gtk-rs/gir",
       "alsa-project/hinawa-rs",
       "gtk-rs/gir-files",
-      "alsa-project/hitaki-rs"
+      "alsa-project/hitaki-rs",
+      "alsa-project/libhinawa"
     ]
 
     git_repos_chromium_googlesource = [
