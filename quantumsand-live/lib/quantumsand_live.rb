@@ -1004,7 +1004,8 @@ class QuantumsandLive
       "GNOME/gimp",
       "GNOME/gtk",
       "GNOME/pygobject",
-      "GNOME/libadwaita"
+      "GNOME/libadwaita",
+      "GNOME/adwaita-fonts"
     ]
 
     git_repos_postgresql_org = [
