@@ -883,7 +883,8 @@ class QuantumsandLive
       "mesa/libdrm",
       "gstreamer/gstreamer-rs",
       "gstreamer/gstreamer",
-      "gstreamer/gst-integration-testsuites"
+      "gstreamer/gst-integration-testsuites",
+      "gstreamer/gst-plugins-rs"
     ]
 
     git_repos_xfce_gitlab = [
