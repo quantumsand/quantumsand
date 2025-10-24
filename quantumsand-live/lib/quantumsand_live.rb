@@ -899,7 +899,8 @@ class QuantumsandLive
       "pipewire/pipewire",
       "pipewire/wireplumber",
       "pipewire/pipewire-rs",
-      "pipewire/pipewire-native-rs"
+      "pipewire/pipewire-native-rs",
+      "pipewire/media-session"
     ]
 
     git_repos_xfce_gitlab = [
