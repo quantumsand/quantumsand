@@ -796,7 +796,8 @@ class QuantumsandLive
       "jupyterlite/jupyterlite",
       "AsahiLinux/m1n1",
       "AsahiLinux/artwork",
-      "rafalh/rust-fatfs"
+      "rafalh/rust-fatfs",
+      "AsahiLinux/asahi-audio"
     ]
 
     git_repos_chromium_googlesource = [
