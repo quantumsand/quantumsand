@@ -881,7 +881,8 @@ class QuantumsandLive
       "mesa/mesa",
       "wlroots/wlroots",
       "mesa/libdrm",
-      "gstreamer/gstreamer-rs"
+      "gstreamer/gstreamer-rs",
+      "gstreamer/gstreamer"
     ]
 
     git_repos_xfce_gitlab = [
