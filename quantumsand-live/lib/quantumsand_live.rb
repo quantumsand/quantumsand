@@ -827,7 +827,8 @@ class QuantumsandLive
       "pymc-devs/pymc",
       "pymc-devs/pytensor",
       "PythonOT/POT",
-      "pymc-devs/pymc-examples"
+      "pymc-devs/pymc-examples",
+      "tahoebio/tahoe-x1"
     ]
 
     git_repos_chromium_googlesource = [
