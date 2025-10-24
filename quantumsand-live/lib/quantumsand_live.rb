@@ -823,7 +823,8 @@ class QuantumsandLive
       "alsa-project/libhitaki",
       "pyenv/pyenv",
       "alsa-project/snd-firewire-ctl-services",
-      "alsa-project/tinycompress"
+      "alsa-project/tinycompress",
+      "pymc-devs/pymc"
     ]
 
     git_repos_chromium_googlesource = [
