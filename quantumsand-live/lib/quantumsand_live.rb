@@ -832,7 +832,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Docs",
       "grafana/grafana",
       "maplibre/maplibre-gl-js",
-      "visgl/react-map-gl"
+      "visgl/react-map-gl",
+      "maplibre/maplibre-native-qt"
     ]
 
     git_repos_chromium_googlesource = [
