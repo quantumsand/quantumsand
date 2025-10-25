@@ -830,7 +830,8 @@ class QuantumsandLive
       "pymc-devs/pymc-examples",
       "tahoebio/tahoe-x1",
       "KhronosGroup/Vulkan-Docs",
-      "grafana/grafana"
+      "grafana/grafana",
+      "maplibre/maplibre-gl-js"
     ]
 
     git_repos_chromium_googlesource = [
@@ -1162,7 +1163,6 @@ class QuantumsandLive
       "app-emulation/qemu",
       "dev-db/postgis",
       "sci-libs/gdal",
-      "net-print/cups",
       "app-shells/fish",
       "dev-db/pgrouting",
       "dev-python/jupyter",
