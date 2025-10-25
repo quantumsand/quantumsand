@@ -831,7 +831,8 @@ class QuantumsandLive
       "tahoebio/tahoe-x1",
       "KhronosGroup/Vulkan-Docs",
       "grafana/grafana",
-      "maplibre/maplibre-gl-js"
+      "maplibre/maplibre-gl-js",
+      "visgl/react-map-gl"
     ]
 
     git_repos_chromium_googlesource = [
