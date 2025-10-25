@@ -833,7 +833,8 @@ class QuantumsandLive
       "grafana/grafana",
       "maplibre/maplibre-gl-js",
       "visgl/react-map-gl",
-      "maplibre/maplibre-native-qt"
+      "maplibre/maplibre-native-qt",
+      "jothepro/doxygen-awesome-css"
     ]
 
     git_repos_chromium_googlesource = [
