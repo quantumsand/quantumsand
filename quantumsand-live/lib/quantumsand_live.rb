@@ -848,7 +848,8 @@ class QuantumsandLive
       "xmms2/xmms2-devel",
       "xmms2/s4",
       "xmms2/xmms2-tutorial",
-      "xmms2/xmms2-stable"
+      "xmms2/xmms2-stable",
+      "xmms2/docs"
     ]
 
     git_repos_chromium_googlesource = [
