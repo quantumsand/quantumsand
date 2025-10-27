@@ -1186,7 +1186,8 @@ class QuantumsandLive
       "sys-libs/libselinux",
       "sys-apps/policycoreutils",
       "sys-apps/hwdata",
-      "dev-embedded/sdcc"
+      "dev-embedded/sdcc",
+      "sys-boot/plymouth"
     ]
 
     eselect_repository_add = {
