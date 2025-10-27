@@ -838,7 +838,8 @@ class QuantumsandLive
       "maplibre/maplibre-native",
       "dracut-ng/dracut-ng",
       "Kangie/plymouth-openrc-plugin",
-      "lpil/gleescript"
+      "lpil/gleescript",
+      "ratatui/ratatui"
     ]
 
     git_repos_chromium_googlesource = [
