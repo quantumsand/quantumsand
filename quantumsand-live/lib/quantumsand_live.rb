@@ -852,7 +852,8 @@ class QuantumsandLive
       "xmms2/docs",
       "terrastruct/ci",
       "terrastruct/d2",
-      "RohanAdwankar/oxdraw"
+      "RohanAdwankar/oxdraw",
+      "miketromba/shadcn-themer"
     ]
 
     git_repos_chromium_googlesource = [
