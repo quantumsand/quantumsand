@@ -843,7 +843,8 @@ class QuantumsandLive
       "FRRouting/frr",
       "NetBSD/src",
       "NetBSD/xsrc",
-      "NetBSD/pkgsrc"
+      "NetBSD/pkgsrc",
+      "NetBSD/pkgsrc-wip"
     ]
 
     git_repos_chromium_googlesource = [
