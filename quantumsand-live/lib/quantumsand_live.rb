@@ -857,7 +857,8 @@ class QuantumsandLive
       "lucide-icons/lucide",
       "beacondb/beacondb",
       "beacondb/bcap",
-      "beacondb/libwifi"
+      "beacondb/libwifi",
+      "Nukesor/libwifi"
     ]
 
     git_repos_chromium_googlesource = [
