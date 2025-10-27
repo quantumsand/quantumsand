@@ -854,7 +854,8 @@ class QuantumsandLive
       "terrastruct/d2",
       "RohanAdwankar/oxdraw",
       "miketromba/shadcn-themer",
-      "lucide-icons/lucide"
+      "lucide-icons/lucide",
+      "beacondb/beacondb"
     ]
 
     git_repos_chromium_googlesource = [
