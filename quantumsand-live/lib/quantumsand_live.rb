@@ -860,7 +860,8 @@ class QuantumsandLive
       "beacondb/libwifi",
       "Nukesor/libwifi",
       "Nukesor/comfy-table",
-      "mnadev/adhango"
+      "mnadev/adhango",
+      "alphahm/adhanpy"
     ]
 
     git_repos_chromium_googlesource = [
