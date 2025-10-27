@@ -865,7 +865,8 @@ class QuantumsandLive
       "insha/salah",
       "cfrancia/spectral",
       "rust-num/num",
-      "radcheb/Adhan"
+      "radcheb/Adhan",
+      "chronotope/chrono"
     ]
 
     git_repos_chromium_googlesource = [
