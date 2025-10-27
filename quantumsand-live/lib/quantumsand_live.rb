@@ -840,7 +840,8 @@ class QuantumsandLive
       "Kangie/plymouth-openrc-plugin",
       "lpil/gleescript",
       "ratatui/ratatui",
-      "FRRouting/frr"
+      "FRRouting/frr",
+      "NetBSD/src"
     ]
 
     git_repos_chromium_googlesource = [
