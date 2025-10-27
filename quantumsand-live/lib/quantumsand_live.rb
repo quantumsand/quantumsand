@@ -843,7 +843,8 @@ class QuantumsandLive
     git_repos_chromium_googlesource = [
       "chromium/src",
       "v8/v8",
-      "chromium/tools/chrome-devtools-frontend"
+      "chromium/tools/chrome-devtools-frontend",
+      "chromium/tools/chromium-build"
     ]
 
     git_repos_gn_googlesource = [
