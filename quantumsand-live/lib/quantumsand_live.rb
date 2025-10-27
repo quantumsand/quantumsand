@@ -1189,7 +1189,8 @@ class QuantumsandLive
       "sys-apps/hwdata",
       "dev-embedded/sdcc",
       "sys-boot/plymouth",
-      "sys-kernel/dracut"
+      "sys-kernel/dracut",
+      "sys-boot/plymouth-openrc-plugin"
     ]
 
     eselect_repository_add = {
