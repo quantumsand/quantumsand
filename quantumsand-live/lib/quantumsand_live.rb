@@ -861,7 +861,8 @@ class QuantumsandLive
       "Nukesor/libwifi",
       "Nukesor/comfy-table",
       "mnadev/adhango",
-      "alphahm/adhanpy"
+      "alphahm/adhanpy",
+      "insha/salah"
     ]
 
     git_repos_chromium_googlesource = [
