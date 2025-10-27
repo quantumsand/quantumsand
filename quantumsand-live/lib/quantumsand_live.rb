@@ -1054,6 +1054,10 @@ class QuantumsandLive
       "network/kdeconnect-kde"
     ]
 
+    git_repos_ffmpeg_org = [
+      "ffmpeg"
+    ]
+
     git_repos_projects_blender = [
       "blender/blender",
       "blender/cycles",
