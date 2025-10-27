@@ -836,7 +836,8 @@ class QuantumsandLive
       "maplibre/maplibre-native-qt",
       "jothepro/doxygen-awesome-css",
       "maplibre/maplibre-native",
-      "dracut-ng/dracut-ng"
+      "dracut-ng/dracut-ng",
+      "Kangie/plymouth-openrc-plugin"
     ]
 
     git_repos_chromium_googlesource = [
