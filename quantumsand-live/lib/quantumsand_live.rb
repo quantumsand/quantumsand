@@ -846,7 +846,8 @@ class QuantumsandLive
       "NetBSD/pkgsrc",
       "NetBSD/pkgsrc-wip",
       "xmms2/xmms2-devel",
-      "xmms2/s4"
+      "xmms2/s4",
+      "xmms2/xmms2-tutorial"
     ]
 
     git_repos_chromium_googlesource = [
