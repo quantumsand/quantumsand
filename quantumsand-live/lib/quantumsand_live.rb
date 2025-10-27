@@ -842,7 +842,8 @@ class QuantumsandLive
       "ratatui/ratatui",
       "FRRouting/frr",
       "NetBSD/src",
-      "NetBSD/xsrc"
+      "NetBSD/xsrc",
+      "NetBSD/pkgsrc"
     ]
 
     git_repos_chromium_googlesource = [
