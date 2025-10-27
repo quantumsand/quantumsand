@@ -1188,7 +1188,8 @@ class QuantumsandLive
       "sys-apps/policycoreutils",
       "sys-apps/hwdata",
       "dev-embedded/sdcc",
-      "sys-boot/plymouth"
+      "sys-boot/plymouth",
+      "sys-kernel/dracut"
     ]
 
     eselect_repository_add = {
