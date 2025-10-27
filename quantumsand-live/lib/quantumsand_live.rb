@@ -868,7 +868,8 @@ class QuantumsandLive
       "radcheb/Adhan",
       "chronotope/chrono",
       "batoulapps/adhan-testdata",
-      "batoulapps/adhan-js"
+      "batoulapps/adhan-js",
+      "azzamsa/misykat"
     ]
 
     git_repos_chromium_googlesource = [
