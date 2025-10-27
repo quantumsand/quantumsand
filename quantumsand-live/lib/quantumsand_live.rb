@@ -855,7 +855,8 @@ class QuantumsandLive
       "RohanAdwankar/oxdraw",
       "miketromba/shadcn-themer",
       "lucide-icons/lucide",
-      "beacondb/beacondb"
+      "beacondb/beacondb",
+      "beacondb/bcap"
     ]
 
     git_repos_chromium_googlesource = [
