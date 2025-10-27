@@ -850,7 +850,8 @@ class QuantumsandLive
       "xmms2/xmms2-tutorial",
       "xmms2/xmms2-stable",
       "xmms2/docs",
-      "terrastruct/ci"
+      "terrastruct/ci",
+      "terrastruct/d2"
     ]
 
     git_repos_chromium_googlesource = [
