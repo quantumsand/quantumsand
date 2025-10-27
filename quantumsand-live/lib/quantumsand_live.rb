@@ -839,7 +839,8 @@ class QuantumsandLive
       "dracut-ng/dracut-ng",
       "Kangie/plymouth-openrc-plugin",
       "lpil/gleescript",
-      "ratatui/ratatui"
+      "ratatui/ratatui",
+      "FRRouting/frr"
     ]
 
     git_repos_chromium_googlesource = [
