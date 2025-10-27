@@ -862,7 +862,8 @@ class QuantumsandLive
       "Nukesor/comfy-table",
       "mnadev/adhango",
       "alphahm/adhanpy",
-      "insha/salah"
+      "insha/salah",
+      "cfrancia/spectral"
     ]
 
     git_repos_chromium_googlesource = [
