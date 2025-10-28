@@ -1230,7 +1230,8 @@ class QuantumsandLive
       "dev-embedded/sdcc",
       "sys-boot/plymouth",
       "sys-kernel/dracut",
-      "sys-boot/plymouth-openrc-plugin"
+      "sys-boot/plymouth-openrc-plugin",
+      "app-antivirus/clamav"
     ]
 
     eselect_repository_add = {
