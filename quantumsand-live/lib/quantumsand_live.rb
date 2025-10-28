@@ -869,7 +869,8 @@ class QuantumsandLive
       "chronotope/chrono",
       "batoulapps/adhan-testdata",
       "batoulapps/adhan-js",
-      "azzamsa/misykat"
+      "azzamsa/misykat",
+      "Cisco-Talos/clamav"
     ]
 
     git_repos_chromium_googlesource = [
