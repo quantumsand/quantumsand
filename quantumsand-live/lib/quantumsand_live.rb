@@ -885,7 +885,8 @@ class QuantumsandLive
       "syoyo/tinygltf",
       "jarro2783/cxxopts",
       "openscenegraph/OpenSceneGraph",
-      "catchorg/Catch2"
+      "catchorg/Catch2",
+      "CesiumGS/cesium-google-earth-examples"
     ]
 
     git_repos_chromium_googlesource = [
