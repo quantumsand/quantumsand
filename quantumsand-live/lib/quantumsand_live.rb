@@ -884,7 +884,8 @@ class QuantumsandLive
       "g-truc/glm",
       "syoyo/tinygltf",
       "jarro2783/cxxopts",
-      "openscenegraph/OpenSceneGraph"
+      "openscenegraph/OpenSceneGraph",
+      "catchorg/Catch2"
     ]
 
     git_repos_chromium_googlesource = [
