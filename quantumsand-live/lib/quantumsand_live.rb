@@ -890,7 +890,8 @@ class QuantumsandLive
       "CesiumGS/cesium-ion-blender-addon",
       "CesiumGS/cesium-ion-rest-api-examples",
       "CesiumGS/cesium-materials-pack",
-      "bilke/cmake-modules"
+      "bilke/cmake-modules",
+      "CesiumGS/cesium-native"
     ]
 
     git_repos_chromium_googlesource = [
