@@ -909,7 +909,8 @@ class QuantumsandLive
       "OpenCOLLADA/OpenCOLLADA",
       "KhronosGroup/OpenCOLLADA",
       "Tencent/rapidjson",
-      "lasalvavida/ahoy"
+      "lasalvavida/ahoy",
+      "google/draco"
     ]
 
     git_repos_chromium_googlesource = [
