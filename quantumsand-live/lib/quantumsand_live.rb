@@ -886,7 +886,8 @@ class QuantumsandLive
       "jarro2783/cxxopts",
       "openscenegraph/OpenSceneGraph",
       "catchorg/Catch2",
-      "CesiumGS/cesium-google-earth-examples"
+      "CesiumGS/cesium-google-earth-examples",
+      "CesiumGS/cesium-ion-blender-addon"
     ]
 
     git_repos_chromium_googlesource = [
