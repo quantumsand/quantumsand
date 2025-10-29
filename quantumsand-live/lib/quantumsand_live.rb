@@ -879,7 +879,8 @@ class QuantumsandLive
       "CesiumGS/cdb-to-3dtiles",
       "mapbox/earcut.hpp",
       "mapbox/earcut",
-      "glfw/glfw"
+      "glfw/glfw",
+      "zeux/meshoptimizer"
     ]
 
     git_repos_chromium_googlesource = [
