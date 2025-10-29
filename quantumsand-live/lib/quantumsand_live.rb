@@ -900,7 +900,8 @@ class QuantumsandLive
       "CesiumGS/cesium-threejs-experiment",
       "mrdoob/three.js",
       "CesiumGS/cesium-webpack-example",
-      "CesiumGS/cesium-vite-example"
+      "CesiumGS/cesium-vite-example",
+      "CesiumGS/cesium-wasm-utils"
     ]
 
     git_repos_chromium_googlesource = [
