@@ -932,7 +932,8 @@ class QuantumsandLive
       "glitchtip/error-factories/cpp-error-factory",
       "glitchtip/glitchtip-frontend",
       "glitchtip/glitchtip-helm-chart",
-      "glitchtip/glitchtip-emails"
+      "glitchtip/glitchtip-emails",
+      "apparmor/apparmor"
     ]
 
     git_repos_freedesktop_gitlab = [
