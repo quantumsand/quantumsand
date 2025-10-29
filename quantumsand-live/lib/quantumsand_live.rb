@@ -872,7 +872,8 @@ class QuantumsandLive
       "azzamsa/misykat",
       "Cisco-Talos/clamav",
       "CesiumGS/3d-tiles",
-      "CesiumGS/3d-tiles-samples"
+      "CesiumGS/3d-tiles-samples",
+      "CesiumGS/3d-tiles-tools"
     ]
 
     git_repos_chromium_googlesource = [
