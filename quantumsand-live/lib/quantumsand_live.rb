@@ -888,7 +888,8 @@ class QuantumsandLive
       "catchorg/Catch2",
       "CesiumGS/cesium-google-earth-examples",
       "CesiumGS/cesium-ion-blender-addon",
-      "CesiumGS/cesium-ion-rest-api-examples"
+      "CesiumGS/cesium-ion-rest-api-examples",
+      "CesiumGS/cesium-materials-pack"
     ]
 
     git_repos_chromium_googlesource = [
