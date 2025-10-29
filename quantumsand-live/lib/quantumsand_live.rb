@@ -897,7 +897,8 @@ class QuantumsandLive
       "CesiumGS/cesium-o3de-samples",
       "CesiumGS/cesium-omniverse",
       "CesiumGS/cesium-omniverse-samples",
-      "CesiumGS/cesium-threejs-experiment"
+      "CesiumGS/cesium-threejs-experiment",
+      "mrdoob/three.js"
     ]
 
     git_repos_chromium_googlesource = [
