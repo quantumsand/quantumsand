@@ -874,7 +874,8 @@ class QuantumsandLive
       "CesiumGS/3d-tiles",
       "CesiumGS/3d-tiles-samples",
       "CesiumGS/3d-tiles-tools",
-      "CesiumGS/3d-tiles-validator"
+      "CesiumGS/3d-tiles-validator",
+      "CesiumGS/3d-tiles-samples-generator"
     ]
 
     git_repos_chromium_googlesource = [
