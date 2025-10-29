@@ -882,7 +882,8 @@ class QuantumsandLive
       "glfw/glfw",
       "zeux/meshoptimizer",
       "g-truc/glm",
-      "syoyo/tinygltf"
+      "syoyo/tinygltf",
+      "jarro2783/cxxopts"
     ]
 
     git_repos_chromium_googlesource = [
