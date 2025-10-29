@@ -895,7 +895,8 @@ class QuantumsandLive
       "htacg/tidy-html5",
       "CesiumGS/cesium-o3de",
       "CesiumGS/cesium-o3de-samples",
-      "CesiumGS/cesium-omniverse"
+      "CesiumGS/cesium-omniverse",
+      "CesiumGS/cesium-omniverse-samples"
     ]
 
     git_repos_chromium_googlesource = [
