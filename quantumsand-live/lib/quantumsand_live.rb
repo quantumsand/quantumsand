@@ -881,7 +881,8 @@ class QuantumsandLive
       "mapbox/earcut",
       "glfw/glfw",
       "zeux/meshoptimizer",
-      "g-truc/glm"
+      "g-truc/glm",
+      "syoyo/tinygltf"
     ]
 
     git_repos_chromium_googlesource = [
