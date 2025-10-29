@@ -906,7 +906,8 @@ class QuantumsandLive
       "CesiumGS/collada-dom",
       "CesiumGS/COLLADA2GLTF",
       "KhronosGroup/COLLADA2GLTF",
-      "OpenCOLLADA/OpenCOLLADA"
+      "OpenCOLLADA/OpenCOLLADA",
+      "KhronosGroup/OpenCOLLADA"
     ]
 
     git_repos_chromium_googlesource = [
