@@ -893,7 +893,8 @@ class QuantumsandLive
       "bilke/cmake-modules",
       "CesiumGS/cesium-native",
       "htacg/tidy-html5",
-      "CesiumGS/cesium-o3de"
+      "CesiumGS/cesium-o3de",
+      "CesiumGS/cesium-o3de-samples"
     ]
 
     git_repos_chromium_googlesource = [
