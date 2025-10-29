@@ -903,7 +903,8 @@ class QuantumsandLive
       "CesiumGS/cesium-vite-example",
       "CesiumGS/cesium-wasm-utils",
       "CesiumGS/cesiumjs-workshop",
-      "CesiumGS/collada-dom"
+      "CesiumGS/collada-dom",
+      "CesiumGS/COLLADA2GLTF"
     ]
 
     git_repos_chromium_googlesource = [
