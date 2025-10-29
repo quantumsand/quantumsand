@@ -883,7 +883,8 @@ class QuantumsandLive
       "zeux/meshoptimizer",
       "g-truc/glm",
       "syoyo/tinygltf",
-      "jarro2783/cxxopts"
+      "jarro2783/cxxopts",
+      "openscenegraph/OpenSceneGraph"
     ]
 
     git_repos_chromium_googlesource = [
