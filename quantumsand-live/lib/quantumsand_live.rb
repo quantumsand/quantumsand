@@ -878,7 +878,8 @@ class QuantumsandLive
       "CesiumGS/3d-tiles-samples-generator",
       "CesiumGS/cdb-to-3dtiles",
       "mapbox/earcut.hpp",
-      "mapbox/earcut"
+      "mapbox/earcut",
+      "glfw/glfw"
     ]
 
     git_repos_chromium_googlesource = [
