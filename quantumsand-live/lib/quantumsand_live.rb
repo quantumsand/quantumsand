@@ -871,7 +871,8 @@ class QuantumsandLive
       "batoulapps/adhan-js",
       "azzamsa/misykat",
       "Cisco-Talos/clamav",
-      "CesiumGS/3d-tiles"
+      "CesiumGS/3d-tiles",
+      "CesiumGS/3d-tiles-samples"
     ]
 
     git_repos_chromium_googlesource = [
