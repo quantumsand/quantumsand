@@ -931,7 +931,8 @@ class QuantumsandLive
       "CesiumGS/libcitygml",
       "jklimke/libcitygml",
       "CesiumGS/libjpeg-turbo",
-      "libjpeg-turbo/libjpeg-turbo"
+      "libjpeg-turbo/libjpeg-turbo",
+      "CesiumGS/meshoptimizer"
     ]
 
     git_repos_chromium_googlesource = [
