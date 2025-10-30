@@ -944,7 +944,8 @@ class QuantumsandLive
       "CesiumGS/strip-pragma-loader",
       "requirejs/r.js",
       "requirejs/requirejs",
-      "CesiumGS/webglreport"
+      "CesiumGS/webglreport",
+      "CesiumGS/wetzel"
     ]
 
     git_repos_chromium_googlesource = [
