@@ -917,7 +917,8 @@ class QuantumsandLive
       "conan-io/conan",
       "CesiumGS/conan-center-index",
       "CesiumGS/EarthKAMExplorer",
-      "CesiumGS/eslint-config-cesium"
+      "CesiumGS/eslint-config-cesium",
+      "CesiumGS/glTF"
     ]
 
     git_repos_chromium_googlesource = [
