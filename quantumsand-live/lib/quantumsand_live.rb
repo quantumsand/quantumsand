@@ -912,7 +912,8 @@ class QuantumsandLive
       "lasalvavida/ahoy",
       "google/draco",
       "gulrak/filesystem",
-      "CesiumGS/collada2gltf-web-service"
+      "CesiumGS/collada2gltf-web-service",
+      "CesiumGS/community"
     ]
 
     git_repos_chromium_googlesource = [
