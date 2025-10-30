@@ -925,7 +925,8 @@ class QuantumsandLive
       "mlabbe/glutess",
       "SCons/scons",
       "KhronosGroup/KTX-Software",
-      "CesiumGS/LAStools"
+      "CesiumGS/LAStools",
+      "LAStools/LAStools"
     ]
 
     git_repos_chromium_googlesource = [
