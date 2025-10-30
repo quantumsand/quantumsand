@@ -910,8 +910,7 @@ class QuantumsandLive
       "KhronosGroup/OpenCOLLADA",
       "Tencent/rapidjson",
       "lasalvavida/ahoy",
-      "google/draco",
-      "libeigen/eigen"
+      "google/draco"
     ]
 
     git_repos_chromium_googlesource = [
@@ -974,7 +973,8 @@ class QuantumsandLive
       "glitchtip/glitchtip-frontend",
       "glitchtip/glitchtip-helm-chart",
       "glitchtip/glitchtip-emails",
-      "apparmor/apparmor"
+      "apparmor/apparmor",
+      "libeigen/eigen"
     ]
 
     git_repos_freedesktop_gitlab = [
