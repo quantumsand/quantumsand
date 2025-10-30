@@ -914,7 +914,8 @@ class QuantumsandLive
       "gulrak/filesystem",
       "CesiumGS/collada2gltf-web-service",
       "CesiumGS/community",
-      "conan-io/conan"
+      "conan-io/conan",
+      "CesiumGS/conan-center-index"
     ]
 
     git_repos_chromium_googlesource = [
