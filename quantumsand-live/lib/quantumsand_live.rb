@@ -911,7 +911,8 @@ class QuantumsandLive
       "Tencent/rapidjson",
       "lasalvavida/ahoy",
       "google/draco",
-      "gulrak/filesystem"
+      "gulrak/filesystem",
+      "CesiumGS/collada2gltf-web-service"
     ]
 
     git_repos_chromium_googlesource = [
