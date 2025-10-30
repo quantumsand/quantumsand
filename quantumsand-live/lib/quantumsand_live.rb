@@ -927,7 +927,8 @@ class QuantumsandLive
       "KhronosGroup/KTX-Software",
       "CesiumGS/LAStools",
       "LAStools/LAStools",
-      "qgis/QGIS"
+      "qgis/QGIS",
+      "CesiumGS/libcitygml"
     ]
 
     git_repos_chromium_googlesource = [
