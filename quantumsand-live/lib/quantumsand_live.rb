@@ -943,7 +943,8 @@ class QuantumsandLive
       "drumath2237/spz-loader",
       "CesiumGS/strip-pragma-loader",
       "requirejs/r.js",
-      "requirejs/requirejs"
+      "requirejs/requirejs",
+      "CesiumGS/webglreport"
     ]
 
     git_repos_chromium_googlesource = [
