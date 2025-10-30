@@ -950,7 +950,8 @@ class QuantumsandLive
       "CesiumGS/xerces-c",
       "mateidavid/zstr",
       "CogitatorTech/ordered",
-      "stride3d/stride"
+      "stride3d/stride",
+      "jsonquerylang/jsonquery"
     ]
 
     git_repos_chromium_googlesource = [
