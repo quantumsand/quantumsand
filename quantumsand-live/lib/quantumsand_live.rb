@@ -951,7 +951,8 @@ class QuantumsandLive
       "mateidavid/zstr",
       "CogitatorTech/ordered",
       "stride3d/stride",
-      "jsonquerylang/jsonquery"
+      "jsonquerylang/jsonquery",
+      "jsonquerylang/jsonquery-python"
     ]
 
     git_repos_chromium_googlesource = [
