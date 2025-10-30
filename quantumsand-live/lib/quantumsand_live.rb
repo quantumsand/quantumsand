@@ -913,7 +913,8 @@ class QuantumsandLive
       "google/draco",
       "gulrak/filesystem",
       "CesiumGS/collada2gltf-web-service",
-      "CesiumGS/community"
+      "CesiumGS/community",
+      "conan-io/conan"
     ]
 
     git_repos_chromium_googlesource = [
