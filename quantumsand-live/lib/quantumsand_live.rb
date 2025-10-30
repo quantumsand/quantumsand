@@ -920,7 +920,8 @@ class QuantumsandLive
       "CesiumGS/eslint-config-cesium",
       "CesiumGS/glTF",
       "KhronosGroup/glTF",
-      "CesiumGS/gltf-pipeline"
+      "CesiumGS/gltf-pipeline",
+      "istanbuljs/nyc"
     ]
 
     git_repos_chromium_googlesource = [
