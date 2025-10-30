@@ -921,7 +921,8 @@ class QuantumsandLive
       "CesiumGS/glTF",
       "KhronosGroup/glTF",
       "CesiumGS/gltf-pipeline",
-      "istanbuljs/nyc"
+      "istanbuljs/nyc",
+      "mlabbe/glutess"
     ]
 
     git_repos_chromium_googlesource = [
