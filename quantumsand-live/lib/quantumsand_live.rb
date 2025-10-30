@@ -924,7 +924,8 @@ class QuantumsandLive
       "istanbuljs/nyc",
       "mlabbe/glutess",
       "SCons/scons",
-      "KhronosGroup/KTX-Software"
+      "KhronosGroup/KTX-Software",
+      "CesiumGS/LAStools"
     ]
 
     git_repos_chromium_googlesource = [
