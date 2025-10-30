@@ -946,7 +946,8 @@ class QuantumsandLive
       "requirejs/requirejs",
       "CesiumGS/webglreport",
       "CesiumGS/wetzel",
-      "CesiumGS/xatlas"
+      "CesiumGS/xatlas",
+      "CesiumGS/xerces-c"
     ]
 
     git_repos_chromium_googlesource = [
