@@ -947,7 +947,8 @@ class QuantumsandLive
       "CesiumGS/webglreport",
       "CesiumGS/wetzel",
       "CesiumGS/xatlas",
-      "CesiumGS/xerces-c"
+      "CesiumGS/xerces-c",
+      "mateidavid/zstr"
     ]
 
     git_repos_chromium_googlesource = [
