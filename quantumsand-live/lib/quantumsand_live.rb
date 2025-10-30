@@ -938,7 +938,8 @@ class QuantumsandLive
       "CesiumGS/OpenPhillyGlobe",
       "CesiumGS/quantized-mesh",
       "CesiumGS/spz",
-      "nianticlabs/spz"
+      "nianticlabs/spz",
+      "CesiumGS/spz-loader"
     ]
 
     git_repos_chromium_googlesource = [
