@@ -974,7 +974,8 @@ class QuantumsandLive
       "glitchtip/glitchtip-helm-chart",
       "glitchtip/glitchtip-emails",
       "apparmor/apparmor",
-      "libeigen/eigen"
+      "libeigen/eigen",
+      "libeigen/eigen-performance-monitoring"
     ]
 
     git_repos_freedesktop_gitlab = [
