@@ -929,7 +929,8 @@ class QuantumsandLive
       "LAStools/LAStools",
       "qgis/QGIS",
       "CesiumGS/libcitygml",
-      "jklimke/libcitygml"
+      "jklimke/libcitygml",
+      "CesiumGS/libjpeg-turbo"
     ]
 
     git_repos_chromium_googlesource = [
