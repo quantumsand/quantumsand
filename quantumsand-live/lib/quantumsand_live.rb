@@ -919,7 +919,8 @@ class QuantumsandLive
       "CesiumGS/EarthKAMExplorer",
       "CesiumGS/eslint-config-cesium",
       "CesiumGS/glTF",
-      "KhronosGroup/glTF"
+      "KhronosGroup/glTF",
+      "CesiumGS/gltf-pipeline"
     ]
 
     git_repos_chromium_googlesource = [
