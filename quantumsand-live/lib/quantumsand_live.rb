@@ -933,7 +933,8 @@ class QuantumsandLive
       "CesiumGS/libjpeg-turbo",
       "libjpeg-turbo/libjpeg-turbo",
       "CesiumGS/meshoptimizer",
-      "zeux/meshoptimizer"
+      "zeux/meshoptimizer",
+      "CesiumGS/obj2gltf"
     ]
 
     git_repos_chromium_googlesource = [
