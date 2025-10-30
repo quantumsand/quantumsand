@@ -915,7 +915,8 @@ class QuantumsandLive
       "CesiumGS/collada2gltf-web-service",
       "CesiumGS/community",
       "conan-io/conan",
-      "CesiumGS/conan-center-index"
+      "CesiumGS/conan-center-index",
+      "CesiumGS/EarthKAMExplorer"
     ]
 
     git_repos_chromium_googlesource = [
