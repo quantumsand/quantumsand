@@ -935,7 +935,8 @@ class QuantumsandLive
       "CesiumGS/meshoptimizer",
       "zeux/meshoptimizer",
       "CesiumGS/obj2gltf",
-      "CesiumGS/OpenPhillyGlobe"
+      "CesiumGS/OpenPhillyGlobe",
+      "CesiumGS/quantized-mesh"
     ]
 
     git_repos_chromium_googlesource = [
