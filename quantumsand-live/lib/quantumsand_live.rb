@@ -980,7 +980,8 @@ class QuantumsandLive
       "tmcw/geojson-flatten",
       "developit/microbundle",
       "conventional-changelog/standard-version",
-      "tapjs/tapjs"
+      "tapjs/tapjs",
+      "node-geojson/geojson-stream"
     ]
 
     git_repos_chromium_googlesource = [
