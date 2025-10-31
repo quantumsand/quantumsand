@@ -963,7 +963,8 @@ class QuantumsandLive
       "rust-num/num-traits",
       "chronotope/chrono-tz",
       "chronotope/humantime",
-      "chronotope/parse-zoneinfo"
+      "chronotope/parse-zoneinfo",
+      "chronotope/pure-rust-locales"
     ]
 
     git_repos_chromium_googlesource = [
