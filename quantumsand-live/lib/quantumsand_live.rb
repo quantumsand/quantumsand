@@ -961,7 +961,8 @@ class QuantumsandLive
       "rust-num/num-iter",
       "rust-num/num-rational",
       "rust-num/num-traits",
-      "chronotope/chrono-tz"
+      "chronotope/chrono-tz",
+      "chronotope/humantime"
     ]
 
     git_repos_chromium_googlesource = [
