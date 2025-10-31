@@ -984,7 +984,8 @@ class QuantumsandLive
       "node-geojson/geojson-stream",
       "ndjson/ndjson.js",
       "ndjson/ndjson.rb",
-      "ndjson/ndjson-spec"
+      "ndjson/ndjson-spec",
+      "moll/json-stringify-safe"
     ]
 
     git_repos_chromium_googlesource = [
