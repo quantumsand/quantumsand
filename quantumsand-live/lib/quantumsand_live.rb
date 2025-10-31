@@ -971,7 +971,8 @@ class QuantumsandLive
       "andrewharvey/geojson-polygon-labels",
       "Twista/python-polylabel",
       "shapely/shapely",
-      "libgeos/geos"
+      "libgeos/geos",
+      "urschrei/polylabel-rs"
     ]
 
     git_repos_chromium_googlesource = [
