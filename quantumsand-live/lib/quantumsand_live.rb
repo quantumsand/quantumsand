@@ -993,7 +993,8 @@ class QuantumsandLive
       "sinonjs/sinon",
       "minimistjs/minimist",
       "moll/js-oolong",
-      "moll/js-egal"
+      "moll/js-egal",
+      "moll/js-kindof"
     ]
 
     git_repos_chromium_googlesource = [
