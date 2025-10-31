@@ -953,7 +953,8 @@ class QuantumsandLive
       "stride3d/stride",
       "jsonquerylang/jsonquery",
       "jsonquerylang/jsonquery-python",
-      "appwrite/appwrite"
+      "appwrite/appwrite",
+      "rust-num/num-bigint"
     ]
 
     git_repos_chromium_googlesource = [
