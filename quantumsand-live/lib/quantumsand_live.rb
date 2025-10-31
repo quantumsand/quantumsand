@@ -968,7 +968,8 @@ class QuantumsandLive
       "mapbox/polylabel",
       "mapbox/mason",
       "mourner/eslint-config-mourner",
-      "andrewharvey/geojson-polygon-labels"
+      "andrewharvey/geojson-polygon-labels",
+      "Twista/python-polylabel"
     ]
 
     git_repos_chromium_googlesource = [
