@@ -975,7 +975,8 @@ class QuantumsandLive
       "urschrei/polylabel-rs",
       "fredplante/ruby-polylabel",
       "ruby/rake",
-      "ruby/rdoc"
+      "ruby/rdoc",
+      "Turfjs/turf"
     ]
 
     git_repos_chromium_googlesource = [
