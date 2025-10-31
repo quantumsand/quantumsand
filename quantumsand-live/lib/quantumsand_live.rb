@@ -964,7 +964,8 @@ class QuantumsandLive
       "chronotope/chrono-tz",
       "chronotope/humantime",
       "chronotope/parse-zoneinfo",
-      "chronotope/pure-rust-locales"
+      "chronotope/pure-rust-locales",
+      "mapbox/polylabel"
     ]
 
     git_repos_chromium_googlesource = [
