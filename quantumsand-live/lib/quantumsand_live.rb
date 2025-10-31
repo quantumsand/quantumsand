@@ -970,7 +970,8 @@ class QuantumsandLive
       "mourner/eslint-config-mourner",
       "andrewharvey/geojson-polygon-labels",
       "Twista/python-polylabel",
-      "shapely/shapely"
+      "shapely/shapely",
+      "libgeos/geos"
     ]
 
     git_repos_chromium_googlesource = [
