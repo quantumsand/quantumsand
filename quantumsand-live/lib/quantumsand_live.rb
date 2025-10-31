@@ -979,7 +979,8 @@ class QuantumsandLive
       "Turfjs/turf",
       "tmcw/geojson-flatten",
       "developit/microbundle",
-      "conventional-changelog/standard-version"
+      "conventional-changelog/standard-version",
+      "tapjs/tapjs"
     ]
 
     git_repos_chromium_googlesource = [
