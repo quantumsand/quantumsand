@@ -960,7 +960,8 @@ class QuantumsandLive
       "rust-num/num-integer",
       "rust-num/num-iter",
       "rust-num/num-rational",
-      "rust-num/num-traits"
+      "rust-num/num-traits",
+      "chronotope/chrono-tz"
     ]
 
     git_repos_chromium_googlesource = [
