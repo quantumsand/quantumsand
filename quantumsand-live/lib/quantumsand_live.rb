@@ -978,7 +978,8 @@ class QuantumsandLive
       "ruby/rdoc",
       "Turfjs/turf",
       "tmcw/geojson-flatten",
-      "developit/microbundle"
+      "developit/microbundle",
+      "conventional-changelog/standard-version"
     ]
 
     git_repos_chromium_googlesource = [
