@@ -952,7 +952,8 @@ class QuantumsandLive
       "CogitatorTech/ordered",
       "stride3d/stride",
       "jsonquerylang/jsonquery",
-      "jsonquerylang/jsonquery-python"
+      "jsonquerylang/jsonquery-python",
+      "appwrite/appwrite"
     ]
 
     git_repos_chromium_googlesource = [
