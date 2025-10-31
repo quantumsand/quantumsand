@@ -954,7 +954,8 @@ class QuantumsandLive
       "jsonquerylang/jsonquery",
       "jsonquerylang/jsonquery-python",
       "appwrite/appwrite",
-      "rust-num/num-bigint"
+      "rust-num/num-bigint",
+      "rust-num/num-complex"
     ]
 
     git_repos_chromium_googlesource = [
