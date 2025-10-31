@@ -966,7 +966,8 @@ class QuantumsandLive
       "chronotope/parse-zoneinfo",
       "chronotope/pure-rust-locales",
       "mapbox/polylabel",
-      "mapbox/mason"
+      "mapbox/mason",
+      "mourner/eslint-config-mourner"
     ]
 
     git_repos_chromium_googlesource = [
