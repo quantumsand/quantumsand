@@ -974,7 +974,8 @@ class QuantumsandLive
       "libgeos/geos",
       "urschrei/polylabel-rs",
       "fredplante/ruby-polylabel",
-      "ruby/rake"
+      "ruby/rake",
+      "ruby/rdoc"
     ]
 
     git_repos_chromium_googlesource = [
