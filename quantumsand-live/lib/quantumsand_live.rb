@@ -976,7 +976,8 @@ class QuantumsandLive
       "fredplante/ruby-polylabel",
       "ruby/rake",
       "ruby/rdoc",
-      "Turfjs/turf"
+      "Turfjs/turf",
+      "tmcw/geojson-flatten"
     ]
 
     git_repos_chromium_googlesource = [
