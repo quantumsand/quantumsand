@@ -956,7 +956,8 @@ class QuantumsandLive
       "appwrite/appwrite",
       "rust-num/num-bigint",
       "rust-num/num-complex",
-      "rust-num/num-derive"
+      "rust-num/num-derive",
+      "rust-num/num-integer"
     ]
 
     git_repos_chromium_googlesource = [
