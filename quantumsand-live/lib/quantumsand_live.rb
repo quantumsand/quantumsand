@@ -992,7 +992,8 @@ class QuantumsandLive
       "lodash/lodash-doc-globals",
       "sinonjs/sinon",
       "minimistjs/minimist",
-      "moll/js-oolong"
+      "moll/js-oolong",
+      "moll/js-egal"
     ]
 
     git_repos_chromium_googlesource = [
