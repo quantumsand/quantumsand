@@ -983,7 +983,8 @@ class QuantumsandLive
       "tapjs/tapjs",
       "node-geojson/geojson-stream",
       "ndjson/ndjson.js",
-      "ndjson/ndjson.rb"
+      "ndjson/ndjson.rb",
+      "ndjson/ndjson-spec"
     ]
 
     git_repos_chromium_googlesource = [
