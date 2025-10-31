@@ -987,7 +987,8 @@ class QuantumsandLive
       "ndjson/ndjson-spec",
       "moll/json-stringify-safe",
       "mochajs/mocha",
-      "moll/js-must"
+      "moll/js-must",
+      "lodash/lodash"
     ]
 
     git_repos_chromium_googlesource = [
