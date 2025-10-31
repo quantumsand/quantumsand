@@ -972,7 +972,8 @@ class QuantumsandLive
       "Twista/python-polylabel",
       "shapely/shapely",
       "libgeos/geos",
-      "urschrei/polylabel-rs"
+      "urschrei/polylabel-rs",
+      "fredplante/ruby-polylabel"
     ]
 
     git_repos_chromium_googlesource = [
