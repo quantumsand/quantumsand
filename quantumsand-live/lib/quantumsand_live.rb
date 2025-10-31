@@ -989,7 +989,8 @@ class QuantumsandLive
       "mochajs/mocha",
       "moll/js-must",
       "lodash/lodash",
-      "lodash/lodash-doc-globals"
+      "lodash/lodash-doc-globals",
+      "sinonjs/sinon"
     ]
 
     git_repos_chromium_googlesource = [
