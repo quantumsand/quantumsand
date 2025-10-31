@@ -981,7 +981,8 @@ class QuantumsandLive
       "developit/microbundle",
       "conventional-changelog/standard-version",
       "tapjs/tapjs",
-      "node-geojson/geojson-stream"
+      "node-geojson/geojson-stream",
+      "ndjson/ndjson.js"
     ]
 
     git_repos_chromium_googlesource = [
