@@ -958,7 +958,8 @@ class QuantumsandLive
       "rust-num/num-complex",
       "rust-num/num-derive",
       "rust-num/num-integer",
-      "rust-num/num-iter"
+      "rust-num/num-iter",
+      "rust-num/num-rational"
     ]
 
     git_repos_chromium_googlesource = [
