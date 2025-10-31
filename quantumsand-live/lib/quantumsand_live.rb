@@ -967,7 +967,8 @@ class QuantumsandLive
       "chronotope/pure-rust-locales",
       "mapbox/polylabel",
       "mapbox/mason",
-      "mourner/eslint-config-mourner"
+      "mourner/eslint-config-mourner",
+      "andrewharvey/geojson-polygon-labels"
     ]
 
     git_repos_chromium_googlesource = [
