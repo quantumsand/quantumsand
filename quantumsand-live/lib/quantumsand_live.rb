@@ -998,7 +998,8 @@ class QuantumsandLive
       "fluent/fluentd",
       "Project-OSRM/osrm-backend",
       "SiliconLabsSoftware/bluetooth_applications",
-      "trifectatechfoundation/sudo-rs"
+      "trifectatechfoundation/sudo-rs",
+      "uutils/coreutils"
     ]
 
     git_repos_chromium_googlesource = [
