@@ -994,7 +994,8 @@ class QuantumsandLive
       "minimistjs/minimist",
       "moll/js-oolong",
       "moll/js-egal",
-      "moll/js-kindof"
+      "moll/js-kindof",
+      "fluent/fluentd"
     ]
 
     git_repos_chromium_googlesource = [
