@@ -997,7 +997,8 @@ class QuantumsandLive
       "moll/js-kindof",
       "fluent/fluentd",
       "Project-OSRM/osrm-backend",
-      "SiliconLabsSoftware/bluetooth_applications"
+      "SiliconLabsSoftware/bluetooth_applications",
+      "trifectatechfoundation/sudo-rs"
     ]
 
     git_repos_chromium_googlesource = [
