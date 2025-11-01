@@ -995,7 +995,8 @@ class QuantumsandLive
       "moll/js-oolong",
       "moll/js-egal",
       "moll/js-kindof",
-      "fluent/fluentd"
+      "fluent/fluentd",
+      "Project-OSRM/osrm-backend"
     ]
 
     git_repos_chromium_googlesource = [
