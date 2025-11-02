@@ -1001,7 +1001,8 @@ class QuantumsandLive
       "trifectatechfoundation/sudo-rs",
       "uutils/coreutils",
       "yandex/perforator",
-      "netwide-assembler/nasm"
+      "netwide-assembler/nasm",
+      "Alibaba-NLP/DeepResearch"
     ]
 
     git_repos_chromium_googlesource = [
