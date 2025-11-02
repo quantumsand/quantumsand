@@ -1000,7 +1000,8 @@ class QuantumsandLive
       "SiliconLabsSoftware/bluetooth_applications",
       "trifectatechfoundation/sudo-rs",
       "uutils/coreutils",
-      "yandex/perforator"
+      "yandex/perforator",
+      "netwide-assembler/nasm"
     ]
 
     git_repos_chromium_googlesource = [
