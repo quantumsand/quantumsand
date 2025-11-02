@@ -999,7 +999,8 @@ class QuantumsandLive
       "Project-OSRM/osrm-backend",
       "SiliconLabsSoftware/bluetooth_applications",
       "trifectatechfoundation/sudo-rs",
-      "uutils/coreutils"
+      "uutils/coreutils",
+      "yandex/perforator"
     ]
 
     git_repos_chromium_googlesource = [
