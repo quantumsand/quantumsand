@@ -1027,7 +1027,8 @@ class QuantumsandLive
       "libusb/libusb",
       "libusb/hidapi",
       "sailfishos-mirror/archivemount",
-      "sailfishos-mirror/aspell"
+      "sailfishos-mirror/aspell",
+      "sailfishos/aspell-en"
     ]
 
     git_repos_chromium_googlesource = [
