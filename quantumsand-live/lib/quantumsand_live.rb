@@ -1008,7 +1008,8 @@ class QuantumsandLive
       "joncampbell123/dosbox-x",
       "the-tcpdump-group/libpcap",
       "the-tcpdump-group/tcpslice",
-      "the-tcpdump-group/tcpdump"
+      "the-tcpdump-group/tcpdump",
+      "the-tcpdump-group/tcpdump-htdocs"
     ]
 
     git_repos_chromium_googlesource = [
