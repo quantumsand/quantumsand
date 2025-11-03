@@ -1016,7 +1016,8 @@ class QuantumsandLive
       "sailfishos-mirror/abseil-cpp",
       "sailfishos-mirror/acl",
       "sailfishos-mirror/acpid",
-      "sailfishos-mirror/alsa-lib"
+      "sailfishos-mirror/alsa-lib",
+      "sailfishos-mirror/alsa-plugins"
     ]
 
     git_repos_chromium_googlesource = [
