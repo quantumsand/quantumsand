@@ -1004,7 +1004,8 @@ class QuantumsandLive
       "netwide-assembler/nasm",
       "Alibaba-NLP/DeepResearch",
       "mathjax/MathJax",
-      "KaTeX/KaTeX"
+      "KaTeX/KaTeX",
+      "joncampbell123/dosbox-x"
     ]
 
     git_repos_chromium_googlesource = [
