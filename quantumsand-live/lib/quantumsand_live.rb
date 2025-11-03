@@ -1012,7 +1012,9 @@ class QuantumsandLive
       "the-tcpdump-group/tcpdump-htdocs",
       "hanwen/mftrace",
       "huggingface/transformers",
-      "sailfishos/abi-compliance-checker"
+      "sailfishos/abi-compliance-checker",
+      "sailfishos-mirror/abseil-cpp",
+      "sailfishos-mirror/acl"
     ]
 
     git_repos_chromium_googlesource = [
