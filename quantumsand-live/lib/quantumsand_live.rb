@@ -1021,7 +1021,8 @@ class QuantumsandLive
       "sailfishos-mirror/alsa-utils",
       "sailfishos/amber-mpris",
       "sailfishos/amber-web-authorization",
-      "google/brotli"
+      "google/brotli",
+      "facebook/zstd"
     ]
 
     git_repos_chromium_googlesource = [
