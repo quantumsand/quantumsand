@@ -1036,7 +1036,8 @@ class QuantumsandLive
       "linux-audit/audit-testsuite",
       "linux-audit/audit-documentation",
       "sailfishos-mirror/augeas",
-      "sailfishos/autoconf"
+      "sailfishos/autoconf",
+      "jayin92/skyfall-gs"
     ]
 
     git_repos_chromium_googlesource = [
