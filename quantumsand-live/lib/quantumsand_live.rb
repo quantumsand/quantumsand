@@ -1396,7 +1396,8 @@ class QuantumsandLive
       "sys-boot/plymouth-openrc-plugin",
       "app-antivirus/clamav",
       "net-analyzer/tcpdump",
-      "net-analyzer/wireshark"
+      "net-analyzer/wireshark",
+      "dev-libs/libpcre"
     ]
 
     eselect_repository_add = {
