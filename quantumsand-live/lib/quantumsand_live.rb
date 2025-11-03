@@ -1025,7 +1025,8 @@ class QuantumsandLive
       "facebook/zstd",
       "lz4/lz4",
       "libusb/libusb",
-      "libusb/hidapi"
+      "libusb/hidapi",
+      "sailfishos-mirror/archivemount"
     ]
 
     git_repos_chromium_googlesource = [
