@@ -1379,7 +1379,8 @@ class QuantumsandLive
       "sys-boot/plymouth",
       "sys-kernel/dracut",
       "sys-boot/plymouth-openrc-plugin",
-      "app-antivirus/clamav"
+      "app-antivirus/clamav",
+      "net-analyzer/tcpdump"
     ]
 
     eselect_repository_add = {
