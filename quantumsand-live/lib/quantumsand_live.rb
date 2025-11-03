@@ -1331,6 +1331,10 @@ class QuantumsandLive
       "extensions/space_view3d_spacebar_menu"
     ]
 
+    git_repos_code_sf_net = [
+      "gnuplot/gnuplot-main"
+    ]
+
     fossil_repos_sqlite_org = [
       "src"
     ]
