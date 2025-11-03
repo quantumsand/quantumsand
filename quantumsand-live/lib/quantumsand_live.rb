@@ -1380,7 +1380,8 @@ class QuantumsandLive
       "sys-kernel/dracut",
       "sys-boot/plymouth-openrc-plugin",
       "app-antivirus/clamav",
-      "net-analyzer/tcpdump"
+      "net-analyzer/tcpdump",
+      "net-analyzer/wireshark"
     ]
 
     eselect_repository_add = {
