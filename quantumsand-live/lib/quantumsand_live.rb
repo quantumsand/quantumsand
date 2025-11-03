@@ -1407,7 +1407,8 @@ class QuantumsandLive
       "app-antivirus/clamav",
       "net-analyzer/tcpdump",
       "net-analyzer/wireshark",
-      "dev-libs/libpcre"
+      "dev-libs/libpcre",
+      "sys-process/audit"
     ]
 
     eselect_repository_add = {
