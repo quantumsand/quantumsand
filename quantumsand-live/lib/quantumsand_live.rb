@@ -1010,7 +1010,8 @@ class QuantumsandLive
       "the-tcpdump-group/tcpslice",
       "the-tcpdump-group/tcpdump",
       "the-tcpdump-group/tcpdump-htdocs",
-      "hanwen/mftrace"
+      "hanwen/mftrace",
+      "huggingface/transformers"
     ]
 
     git_repos_chromium_googlesource = [
