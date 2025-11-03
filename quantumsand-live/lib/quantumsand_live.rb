@@ -1011,7 +1011,8 @@ class QuantumsandLive
       "the-tcpdump-group/tcpdump",
       "the-tcpdump-group/tcpdump-htdocs",
       "hanwen/mftrace",
-      "huggingface/transformers"
+      "huggingface/transformers",
+      "sailfishos/abi-compliance-checker"
     ]
 
     git_repos_chromium_googlesource = [
