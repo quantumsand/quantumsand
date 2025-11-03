@@ -1068,7 +1068,9 @@ class QuantumsandLive
       "glitchtip/glitchtip-emails",
       "apparmor/apparmor",
       "libeigen/eigen",
-      "libeigen/eigen-performance-monitoring"
+      "libeigen/eigen-performance-monitoring",
+      "embeddable-common-lisp/ecl",
+      "spaghettisalat/maxima"
     ]
 
     git_repos_freedesktop_gitlab = [
@@ -1087,8 +1089,7 @@ class QuantumsandLive
       "pipewire/pipewire-native-rs",
       "pipewire/media-session",
       "pipewire/helvum",
-      "plymouth/plymouth",
-      "embeddable-common-lisp/ecl"
+      "plymouth/plymouth"
     ]
 
     git_repos_xfce_gitlab = [
