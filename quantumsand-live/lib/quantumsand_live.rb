@@ -1023,7 +1023,8 @@ class QuantumsandLive
       "sailfishos/amber-web-authorization",
       "google/brotli",
       "facebook/zstd",
-      "lz4/lz4"
+      "lz4/lz4",
+      "libusb/libusb"
     ]
 
     git_repos_chromium_googlesource = [
