@@ -1006,7 +1006,8 @@ class QuantumsandLive
       "mathjax/MathJax",
       "KaTeX/KaTeX",
       "joncampbell123/dosbox-x",
-      "the-tcpdump-group/libpcap"
+      "the-tcpdump-group/libpcap",
+      "the-tcpdump-group/tcpslice"
     ]
 
     git_repos_chromium_googlesource = [
