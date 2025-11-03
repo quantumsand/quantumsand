@@ -1014,7 +1014,8 @@ class QuantumsandLive
       "huggingface/transformers",
       "sailfishos/abi-compliance-checker",
       "sailfishos-mirror/abseil-cpp",
-      "sailfishos-mirror/acl"
+      "sailfishos-mirror/acl",
+      "sailfishos-mirror/acpid"
     ]
 
     git_repos_chromium_googlesource = [
