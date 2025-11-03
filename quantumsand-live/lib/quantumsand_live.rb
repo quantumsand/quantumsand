@@ -1037,7 +1037,8 @@ class QuantumsandLive
       "linux-audit/audit-documentation",
       "sailfishos-mirror/augeas",
       "sailfishos/autoconf",
-      "jayin92/skyfall-gs"
+      "jayin92/skyfall-gs",
+      "tchauffi/rust-rasterizer"
     ]
 
     git_repos_chromium_googlesource = [
