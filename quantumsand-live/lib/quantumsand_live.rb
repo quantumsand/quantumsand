@@ -1019,7 +1019,8 @@ class QuantumsandLive
       "sailfishos-mirror/alsa-lib",
       "sailfishos-mirror/alsa-plugins",
       "sailfishos-mirror/alsa-utils",
-      "sailfishos/amber-mpris"
+      "sailfishos/amber-mpris",
+      "sailfishos/amber-web-authorization"
     ]
 
     git_repos_chromium_googlesource = [
