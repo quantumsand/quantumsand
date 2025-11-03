@@ -1003,7 +1003,8 @@ class QuantumsandLive
       "yandex/perforator",
       "netwide-assembler/nasm",
       "Alibaba-NLP/DeepResearch",
-      "mathjax/MathJax"
+      "mathjax/MathJax",
+      "KaTeX/KaTeX"
     ]
 
     git_repos_chromium_googlesource = [
