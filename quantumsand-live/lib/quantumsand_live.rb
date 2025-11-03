@@ -1007,7 +1007,8 @@ class QuantumsandLive
       "KaTeX/KaTeX",
       "joncampbell123/dosbox-x",
       "the-tcpdump-group/libpcap",
-      "the-tcpdump-group/tcpslice"
+      "the-tcpdump-group/tcpslice",
+      "the-tcpdump-group/tcpdump"
     ]
 
     git_repos_chromium_googlesource = [
