@@ -1024,7 +1024,8 @@ class QuantumsandLive
       "google/brotli",
       "facebook/zstd",
       "lz4/lz4",
-      "libusb/libusb"
+      "libusb/libusb",
+      "libusb/hidapi"
     ]
 
     git_repos_chromium_googlesource = [
