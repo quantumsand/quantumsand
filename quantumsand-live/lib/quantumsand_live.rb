@@ -1030,7 +1030,8 @@ class QuantumsandLive
       "sailfishos-mirror/aspell",
       "sailfishos/aspell-en",
       "sailfishos/atruncate",
-      "sailfishos-mirror/attr"
+      "sailfishos-mirror/attr",
+      "sailfishos-mirror/audit"
     ]
 
     git_repos_chromium_googlesource = [
