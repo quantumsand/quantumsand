@@ -1033,7 +1033,8 @@ class QuantumsandLive
       "sailfishos-mirror/attr",
       "sailfishos-mirror/audit",
       "linux-audit/audit-userspace",
-      "linux-audit/audit-testsuite"
+      "linux-audit/audit-testsuite",
+      "linux-audit/audit-documentation"
     ]
 
     git_repos_chromium_googlesource = [
