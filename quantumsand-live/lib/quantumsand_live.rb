@@ -1005,7 +1005,8 @@ class QuantumsandLive
       "Alibaba-NLP/DeepResearch",
       "mathjax/MathJax",
       "KaTeX/KaTeX",
-      "joncampbell123/dosbox-x"
+      "joncampbell123/dosbox-x",
+      "the-tcpdump-group/libpcap"
     ]
 
     git_repos_chromium_googlesource = [
