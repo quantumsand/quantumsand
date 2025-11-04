@@ -1039,7 +1039,8 @@ class QuantumsandLive
       "sailfishos/autoconf",
       "jayin92/skyfall-gs",
       "tchauffi/rust-rasterizer",
-      "htop-dev/htop"
+      "htop-dev/htop",
+      "Summa-Cogni/Mathpad"
     ]
 
     git_repos_chromium_googlesource = [
