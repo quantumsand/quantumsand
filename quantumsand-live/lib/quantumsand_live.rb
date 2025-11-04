@@ -1044,7 +1044,8 @@ class QuantumsandLive
       "u-boot/u-boot",
       "pgvector/pgvector",
       "HandBrake/HandBrake",
-      "ozzmaker/BerryIMU"
+      "ozzmaker/BerryIMU",
+      "ozzmaker/ozzmaker-LTE-IMU"
     ]
 
     git_repos_chromium_googlesource = [
