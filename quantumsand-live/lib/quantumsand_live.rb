@@ -1041,7 +1041,8 @@ class QuantumsandLive
       "tchauffi/rust-rasterizer",
       "htop-dev/htop",
       "Summa-Cogni/Mathpad",
-      "u-boot/u-boot"
+      "u-boot/u-boot",
+      "pgvector/pgvector"
     ]
 
     git_repos_chromium_googlesource = [
