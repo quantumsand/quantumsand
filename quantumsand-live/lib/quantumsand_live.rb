@@ -1038,7 +1038,8 @@ class QuantumsandLive
       "sailfishos-mirror/augeas",
       "sailfishos/autoconf",
       "jayin92/skyfall-gs",
-      "tchauffi/rust-rasterizer"
+      "tchauffi/rust-rasterizer",
+      "htop-dev/htop"
     ]
 
     git_repos_chromium_googlesource = [
