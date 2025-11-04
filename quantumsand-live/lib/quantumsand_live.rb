@@ -1043,7 +1043,8 @@ class QuantumsandLive
       "Summa-Cogni/Mathpad",
       "u-boot/u-boot",
       "pgvector/pgvector",
-      "HandBrake/HandBrake"
+      "HandBrake/HandBrake",
+      "ozzmaker/BerryIMU"
     ]
 
     git_repos_chromium_googlesource = [
