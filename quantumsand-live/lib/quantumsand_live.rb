@@ -1046,7 +1046,8 @@ class QuantumsandLive
       "HandBrake/HandBrake",
       "ozzmaker/BerryIMU",
       "ozzmaker/ozzmaker-LTE-IMU",
-      "opencontainers/runtime-spec"
+      "opencontainers/runtime-spec",
+      "Snowflake-Labs/pg_lake"
     ]
 
     git_repos_chromium_googlesource = [
