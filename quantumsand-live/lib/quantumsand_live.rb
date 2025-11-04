@@ -1127,7 +1127,8 @@ class QuantumsandLive
       "pipewire/pipewire-native-rs",
       "pipewire/media-session",
       "pipewire/helvum",
-      "plymouth/plymouth"
+      "plymouth/plymouth",
+      "libinput/libinput"
     ]
 
     git_repos_xfce_gitlab = [
