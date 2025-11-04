@@ -1040,7 +1040,8 @@ class QuantumsandLive
       "jayin92/skyfall-gs",
       "tchauffi/rust-rasterizer",
       "htop-dev/htop",
-      "Summa-Cogni/Mathpad"
+      "Summa-Cogni/Mathpad",
+      "u-boot/u-boot"
     ]
 
     git_repos_chromium_googlesource = [
