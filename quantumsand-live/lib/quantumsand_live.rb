@@ -1420,7 +1420,8 @@ class QuantumsandLive
       "net-analyzer/tcpdump",
       "net-analyzer/wireshark",
       "dev-libs/libpcre",
-      "sys-process/audit"
+      "sys-process/audit",
+      "media-video/handbrake"
     ]
 
     eselect_repository_add = {
