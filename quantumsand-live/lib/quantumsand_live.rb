@@ -1042,7 +1042,8 @@ class QuantumsandLive
       "htop-dev/htop",
       "Summa-Cogni/Mathpad",
       "u-boot/u-boot",
-      "pgvector/pgvector"
+      "pgvector/pgvector",
+      "HandBrake/HandBrake"
     ]
 
     git_repos_chromium_googlesource = [
