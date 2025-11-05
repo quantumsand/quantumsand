@@ -1081,6 +1081,10 @@ class QuantumsandLive
       "isc-projects/bind9"
     ]
 
+    git_repos_sourceware_org = [
+      "binutils-gdb"
+    ]
+
     git_repos_gcc_gnu_org = [
       "gcc",
       "gcc-wwwdocs"
