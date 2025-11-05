@@ -1049,7 +1049,8 @@ class QuantumsandLive
       "opencontainers/runtime-spec",
       "Snowflake-Labs/pg_lake",
       "sailfishos-mirror/autoconf-archive",
-      "sailfishos-mirror/gnulib"
+      "sailfishos-mirror/gnulib",
+      "sailfishos/autoconf213"
     ]
 
     git_repos_chromium_googlesource = [
