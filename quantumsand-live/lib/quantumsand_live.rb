@@ -1126,6 +1126,10 @@ class QuantumsandLive
       "smalltalk/benchmarks"
     ]
 
+    git_repos_open_mesh_org = [
+      "batman-adv"
+    ]
+
     git_repos_git_sr_ht = [
       "~sircmpwn/scdoc"
     ]
