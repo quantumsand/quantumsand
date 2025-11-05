@@ -1097,7 +1097,8 @@ class QuantumsandLive
       "make",
       "emacs",
       "autoconf",
-      "bison"
+      "bison",
+      "gnulib"
     ]
 
     git_repos_git_sr_ht = [
