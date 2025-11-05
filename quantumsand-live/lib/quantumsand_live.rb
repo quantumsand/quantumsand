@@ -1063,7 +1063,8 @@ class QuantumsandLive
       "sailfishos-mirror/autoconf",
       "sailfishos-mirror/bison",
       "sailfishos-mirror/gnulib",
-      "sailfishos-mirror/bluez"
+      "sailfishos-mirror/bluez",
+      "sailfishos/bluez5"
     ]
 
     git_repos_chromium_googlesource = [
