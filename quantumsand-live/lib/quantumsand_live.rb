@@ -1073,6 +1073,10 @@ class QuantumsandLive
       "qt/qtwebengine"
     ]
 
+    git_repos_isc_org_gitlab = [
+      "isc-projects/bind9"
+    ]
+
     git_repos_gcc_gnu_org = [
       "gcc",
       "gcc-wwwdocs"
