@@ -1098,7 +1098,8 @@ class QuantumsandLive
       "emacs",
       "autoconf",
       "bison",
-      "gnulib"
+      "gnulib",
+      "gnulib/maint-tools"
     ]
 
     git_repos_git_sr_ht = [
