@@ -1068,7 +1068,8 @@ class QuantumsandLive
       "sailfishos/boardname",
       "boostorg/boost",
       "sailfishos/btrfs-balancer",
-      "sailfishos-mirror/btrfs-progs"
+      "sailfishos-mirror/btrfs-progs",
+      "kdave/btrfs-progs"
     ]
 
     git_repos_chromium_googlesource = [
