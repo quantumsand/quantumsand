@@ -1055,7 +1055,8 @@ class QuantumsandLive
       "sailfishos/automakesample",
       "sailfishos/basesystem",
       "sailfishos-mirror/bash",
-      "sailfishos-mirror/bind9"
+      "sailfishos-mirror/bind9",
+      "sailfishos/binder-utils"
     ]
 
     git_repos_chromium_googlesource = [
