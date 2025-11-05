@@ -1071,7 +1071,8 @@ class QuantumsandLive
       "sailfishos-mirror/btrfs-progs",
       "kdave/btrfs-progs",
       "sailfishos-mirror/build-compare",
-      "sailfishos-mirror/busybox"
+      "sailfishos-mirror/busybox",
+      "sailfishos/buteo-mtp"
     ]
 
     git_repos_chromium_googlesource = [
