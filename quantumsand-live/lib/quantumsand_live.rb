@@ -1081,6 +1081,10 @@ class QuantumsandLive
       "qt/qtwebengine"
     ]
 
+    git_repos_kernel_org = [
+      "bluetooth/bluez"
+    ]
+
     git_repos_isc_org_gitlab = [
       "isc-projects/bind9"
     ]
