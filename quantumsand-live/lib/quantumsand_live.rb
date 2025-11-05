@@ -1053,7 +1053,8 @@ class QuantumsandLive
       "sailfishos/autoconf213",
       "sailfishos-mirror/automake",
       "sailfishos/automakesample",
-      "sailfishos/basesystem"
+      "sailfishos/basesystem",
+      "sailfishos-mirror/bash"
     ]
 
     git_repos_chromium_googlesource = [
