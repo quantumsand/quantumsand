@@ -1127,7 +1127,8 @@ class QuantumsandLive
     ]
 
     git_repos_open_mesh_org = [
-      "batman-adv"
+      "batman-adv",
+      "joker"
     ]
 
     git_repos_git_sr_ht = [
