@@ -1121,7 +1121,8 @@ class QuantumsandLive
       "autoconf",
       "bison",
       "gnulib",
-      "gnulib/maint-tools"
+      "gnulib/maint-tools",
+      "smalltalk"
     ]
 
     git_repos_git_sr_ht = [
