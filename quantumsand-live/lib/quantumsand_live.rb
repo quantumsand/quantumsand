@@ -1093,7 +1093,8 @@ class QuantumsandLive
 
     git_repos_savannah_gnu_org = [
       "make",
-      "emacs"
+      "emacs",
+      "autoconf"
     ]
 
     git_repos_git_sr_ht = [
