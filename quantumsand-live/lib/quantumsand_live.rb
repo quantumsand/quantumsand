@@ -1050,7 +1050,8 @@ class QuantumsandLive
       "Snowflake-Labs/pg_lake",
       "sailfishos-mirror/autoconf-archive",
       "sailfishos-mirror/gnulib",
-      "sailfishos/autoconf213"
+      "sailfishos/autoconf213",
+      "sailfishos-mirror/automake"
     ]
 
     git_repos_chromium_googlesource = [
