@@ -1082,7 +1082,8 @@ class QuantumsandLive
     ]
 
     git_repos_kernel_org = [
-      "bluetooth/bluez"
+      "bluetooth/bluez",
+      "git/git"
     ]
 
     git_repos_isc_org_gitlab = [
