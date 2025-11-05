@@ -1076,7 +1076,8 @@ class QuantumsandLive
       "sailfishos/buteo-sync-plugin-caldav",
       "sailfishos/buteo-sync-plugin-carddav",
       "sailfishos/buteo-sync-plugin-webcal",
-      "sailfishos/buteo-sync-plugins"
+      "sailfishos/buteo-sync-plugins",
+      "sailfishos/buteo-sync-plugins-email"
     ]
 
     git_repos_chromium_googlesource = [
