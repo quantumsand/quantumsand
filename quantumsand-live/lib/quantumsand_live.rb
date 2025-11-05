@@ -1048,7 +1048,8 @@ class QuantumsandLive
       "ozzmaker/ozzmaker-LTE-IMU",
       "opencontainers/runtime-spec",
       "Snowflake-Labs/pg_lake",
-      "sailfishos-mirror/autoconf-archive"
+      "sailfishos-mirror/autoconf-archive",
+      "sailfishos-mirror/gnulib"
     ]
 
     git_repos_chromium_googlesource = [
