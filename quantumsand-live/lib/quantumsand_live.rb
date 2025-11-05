@@ -1066,7 +1066,8 @@ class QuantumsandLive
       "sailfishos-mirror/bluez",
       "sailfishos/bluez5",
       "sailfishos/boardname",
-      "boostorg/boost"
+      "boostorg/boost",
+      "sailfishos/btrfs-balancer"
     ]
 
     git_repos_chromium_googlesource = [
