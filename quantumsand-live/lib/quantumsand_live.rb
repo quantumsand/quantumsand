@@ -1074,7 +1074,8 @@ class QuantumsandLive
       "sailfishos-mirror/busybox",
       "sailfishos/buteo-mtp",
       "sailfishos/buteo-sync-plugin-caldav",
-      "sailfishos/buteo-sync-plugin-carddav"
+      "sailfishos/buteo-sync-plugin-carddav",
+      "sailfishos/buteo-sync-plugin-webcal"
     ]
 
     git_repos_chromium_googlesource = [
