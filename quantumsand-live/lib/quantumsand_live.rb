@@ -1059,7 +1059,8 @@ class QuantumsandLive
       "sailfishos/binder-utils",
       "sailfishos-mirror/bindfs",
       "mpartel/bindfs",
-      "sailfishos-mirror/gdb"
+      "sailfishos-mirror/gdb",
+      "sailfishos-mirror/autoconf"
     ]
 
     git_repos_chromium_googlesource = [
