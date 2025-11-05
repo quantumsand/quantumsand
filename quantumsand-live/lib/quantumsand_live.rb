@@ -1122,7 +1122,8 @@ class QuantumsandLive
       "bison",
       "gnulib",
       "gnulib/maint-tools",
-      "smalltalk"
+      "smalltalk",
+      "smalltalk/benchmarks"
     ]
 
     git_repos_git_sr_ht = [
