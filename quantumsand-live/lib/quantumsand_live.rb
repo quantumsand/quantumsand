@@ -1361,7 +1361,8 @@ class QuantumsandLive
       "graphics/kdiagram",
       "frameworks/kguiaddons",
       "frameworks/ki18n",
-      "frameworks/kiconthemes"
+      "frameworks/kiconthemes",
+      "frameworks/kio"
     ]
 
     git_repos_ffmpeg_org = [
