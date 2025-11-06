@@ -1371,7 +1371,8 @@ class QuantumsandLive
       "frameworks/kitemviews",
       "frameworks/kservice",
       "frameworks/kwidgetsaddons",
-      "frameworks/kxmlgui"
+      "frameworks/kxmlgui",
+      "office/calligra"
     ]
 
     git_repos_ffmpeg_org = [
