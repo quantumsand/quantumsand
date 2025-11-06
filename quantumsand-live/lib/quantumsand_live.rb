@@ -1532,7 +1532,8 @@ class QuantumsandLive
       "net-analyzer/wireshark",
       "dev-libs/libpcre",
       "sys-process/audit",
-      "media-video/handbrake"
+      "media-video/handbrake",
+      "sys-apps/busybox"
     ]
 
     eselect_repository_add = {
