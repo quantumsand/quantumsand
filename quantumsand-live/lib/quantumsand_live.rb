@@ -1085,7 +1085,8 @@ class QuantumsandLive
       "sailfishos/buteo-syncml",
       "sailfishos/byacc",
       "sailfishos-mirror/bzip2",
-      "sailfishos-mirror/c-ares"
+      "sailfishos-mirror/c-ares",
+      "c-ares/c-ares"
     ]
 
     git_repos_chromium_googlesource = [
