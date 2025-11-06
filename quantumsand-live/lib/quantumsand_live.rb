@@ -1205,7 +1205,8 @@ class QuantumsandLive
       "libinput/libinput",
       "FHS/fhs-spec",
       "cairo/cairo",
-      "cairo/cairomm"
+      "cairo/cairomm",
+      "cairo/cairo-traces"
     ]
 
     git_repos_xfce_gitlab = [
