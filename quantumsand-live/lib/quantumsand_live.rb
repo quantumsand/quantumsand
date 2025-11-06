@@ -1090,7 +1090,8 @@ class QuantumsandLive
       "sailfishos/ca-certificates",
       "sailfishos-mirror/cairo",
       "sailfishos-mirror/kcodecs",
-      "sailfishos-mirror/kcompletion"
+      "sailfishos-mirror/kcompletion",
+      "sailfishos-mirror/kconfig"
     ]
 
     git_repos_chromium_googlesource = [
