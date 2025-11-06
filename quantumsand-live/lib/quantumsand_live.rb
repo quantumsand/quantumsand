@@ -1080,7 +1080,8 @@ class QuantumsandLive
       "sailfishos/buteo-sync-plugins-email",
       "sailfishos/buteo-sync-plugins-social",
       "sailfishos/buteo-syncfw",
-      "FEX-Emu/FEX"
+      "FEX-Emu/FEX",
+      "jvalen/pixel-art-react"
     ]
 
     git_repos_chromium_googlesource = [
