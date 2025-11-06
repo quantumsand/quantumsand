@@ -1112,7 +1112,8 @@ class QuantumsandLive
     ]
 
     git_repos_sourceware_org = [
-      "binutils-gdb"
+      "binutils-gdb",
+      "bzip2"
     ]
 
     git_repos_gcc_gnu_org = [
