@@ -1194,7 +1194,8 @@ class QuantumsandLive
       "pipewire/media-session",
       "pipewire/helvum",
       "plymouth/plymouth",
-      "libinput/libinput"
+      "libinput/libinput",
+      "FHS/fhs-spec"
     ]
 
     git_repos_xfce_gitlab = [
