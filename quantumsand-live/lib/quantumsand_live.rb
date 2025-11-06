@@ -1347,7 +1347,8 @@ class QuantumsandLive
       "network/kdeconnect-kde",
       "frameworks/kcodecs",
       "frameworks/kcompletion",
-      "frameworks/kconfig"
+      "frameworks/kconfig",
+      "frameworks/kconfigwidgets"
     ]
 
     git_repos_ffmpeg_org = [
