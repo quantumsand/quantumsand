@@ -1203,7 +1203,8 @@ class QuantumsandLive
       "pipewire/helvum",
       "plymouth/plymouth",
       "libinput/libinput",
-      "FHS/fhs-spec"
+      "FHS/fhs-spec",
+      "cairo/cairo"
     ]
 
     git_repos_xfce_gitlab = [
