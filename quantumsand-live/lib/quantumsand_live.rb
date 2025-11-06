@@ -1345,7 +1345,8 @@ class QuantumsandLive
       "plasma/kwin",
       "network/kdeconnect-kde",
       "frameworks/kcodecs",
-      "frameworks/kcompletion"
+      "frameworks/kcompletion",
+      "frameworks/kconfig"
     ]
 
     git_repos_ffmpeg_org = [
