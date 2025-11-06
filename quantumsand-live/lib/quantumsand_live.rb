@@ -1351,7 +1351,8 @@ class QuantumsandLive
       "frameworks/kcompletion",
       "frameworks/kconfig",
       "frameworks/kconfigwidgets",
-      "frameworks/kcoreaddons"
+      "frameworks/kcoreaddons",
+      "frameworks/kdbusaddons"
     ]
 
     git_repos_ffmpeg_org = [
