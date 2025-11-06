@@ -1086,7 +1086,8 @@ class QuantumsandLive
       "sailfishos/byacc",
       "sailfishos-mirror/bzip2",
       "sailfishos-mirror/c-ares",
-      "c-ares/c-ares"
+      "c-ares/c-ares",
+      "sailfishos/ca-certificates"
     ]
 
     git_repos_chromium_googlesource = [
