@@ -1341,7 +1341,8 @@ class QuantumsandLive
       "graphics/krita",
       "utilities/kirogi",
       "plasma/kwin",
-      "network/kdeconnect-kde"
+      "network/kdeconnect-kde",
+      "frameworks/kcodecs"
     ]
 
     git_repos_ffmpeg_org = [
