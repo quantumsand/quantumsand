@@ -1084,7 +1084,8 @@ class QuantumsandLive
       "jvalen/pixel-art-react",
       "sailfishos/buteo-syncml",
       "sailfishos/byacc",
-      "sailfishos-mirror/bzip2"
+      "sailfishos-mirror/bzip2",
+      "sailfishos-mirror/c-ares"
     ]
 
     git_repos_chromium_googlesource = [
