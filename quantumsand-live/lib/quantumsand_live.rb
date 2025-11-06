@@ -1083,7 +1083,8 @@ class QuantumsandLive
       "FEX-Emu/FEX",
       "jvalen/pixel-art-react",
       "sailfishos/buteo-syncml",
-      "sailfishos/byacc"
+      "sailfishos/byacc",
+      "sailfishos-mirror/bzip2"
     ]
 
     git_repos_chromium_googlesource = [
