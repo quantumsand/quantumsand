@@ -1103,7 +1103,8 @@ class QuantumsandLive
       "sailfishos-mirror/kitemviews",
       "sailfishos-mirror/kservice",
       "sailfishos-mirror/kwidgetsaddons",
-      "sailfishos-mirror/kxmlgui"
+      "sailfishos-mirror/kxmlgui",
+      "sailfishos-mirror/calligra"
     ]
 
     git_repos_chromium_googlesource = [
