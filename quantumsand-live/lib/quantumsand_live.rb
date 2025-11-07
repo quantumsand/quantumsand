@@ -1261,7 +1261,8 @@ class QuantumsandLive
       "telepathy/telepathy-python",
       "telepathy/telepathy-rakia",
       "telepathy/telepathy-ring",
-      "telepathy/telepathy-salut"
+      "telepathy/telepathy-salut",
+      "telepathy/telepathy-spec"
     ]
 
     git_repos_xfce_gitlab = [
