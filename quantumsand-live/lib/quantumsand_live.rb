@@ -1119,7 +1119,8 @@ class QuantumsandLive
       "sailfishos-mirror/cargo-packaging",
       "sailfishos-mirror/ccache",
       "ccache/ccache",
-      "sailfishos-mirror/check"
+      "sailfishos-mirror/check",
+      "sailfishos/chrpath"
     ]
 
     git_repos_chromium_googlesource = [
