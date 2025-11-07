@@ -1123,7 +1123,8 @@ class QuantumsandLive
       "sailfishos/chrpath",
       "sailfishos-mirror/cmake",
       "sailfishos/cmakesample",
-      "avahi/avahi"
+      "avahi/avahi",
+      "avahi/nss-mdns"
     ]
 
     git_repos_chromium_googlesource = [
