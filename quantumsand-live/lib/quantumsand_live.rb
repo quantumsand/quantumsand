@@ -1109,7 +1109,8 @@ class QuantumsandLive
       "sailfishos-mirror/cargo-auditable",
       "rust-secure-code/cargo-auditable",
       "bytecodealliance/wasm-tools",
-      "owasp-dep-scan/blint"
+      "owasp-dep-scan/blint",
+      "lief-project/LIEF"
     ]
 
     git_repos_chromium_googlesource = [
