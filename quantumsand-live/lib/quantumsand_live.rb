@@ -1107,7 +1107,8 @@ class QuantumsandLive
       "sailfishos-mirror/calligra",
       "sailfishos/calligra-extra-cmake-modules",
       "sailfishos-mirror/cargo-auditable",
-      "rust-secure-code/cargo-auditable"
+      "rust-secure-code/cargo-auditable",
+      "bytecodealliance/wasm-tools"
     ]
 
     git_repos_chromium_googlesource = [
