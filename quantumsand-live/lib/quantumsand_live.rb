@@ -1263,7 +1263,8 @@ class QuantumsandLive
       "telepathy/telepathy-ring",
       "telepathy/telepathy-salut",
       "telepathy/telepathy-spec",
-      "telepathy/telepathy-ssh-contact"
+      "telepathy/telepathy-ssh-contact",
+      "telepathy/wocky"
     ]
 
     git_repos_xfce_gitlab = [
