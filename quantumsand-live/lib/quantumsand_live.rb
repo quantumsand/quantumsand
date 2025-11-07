@@ -1105,7 +1105,8 @@ class QuantumsandLive
       "sailfishos-mirror/kwidgetsaddons",
       "sailfishos-mirror/kxmlgui",
       "sailfishos-mirror/calligra",
-      "sailfishos/calligra-extra-cmake-modules"
+      "sailfishos/calligra-extra-cmake-modules",
+      "sailfishos-mirror/cargo-auditable"
     ]
 
     git_repos_chromium_googlesource = [
