@@ -1113,7 +1113,8 @@ class QuantumsandLive
       "lief-project/LIEF",
       "anchore/syft",
       "anchore/grype",
-      "aquasecurity/trivy"
+      "aquasecurity/trivy",
+      "google/osv-scanner"
     ]
 
     git_repos_chromium_googlesource = [
