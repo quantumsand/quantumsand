@@ -1168,7 +1168,8 @@ class QuantumsandLive
       "automake",
       "libtool",
       "texinfo",
-      "sed"
+      "sed",
+      "sed-history"
     ]
 
     git_repos_open_mesh_org = [
