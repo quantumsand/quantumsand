@@ -1266,7 +1266,8 @@ class QuantumsandLive
       "telepathy/telepathy-ssh-contact",
       "telepathy/wocky",
       "dbus/dbus",
-      "dbus/dbus-glib"
+      "dbus/dbus-glib",
+      "dbus/dbus-python"
     ]
 
     git_repos_xfce_gitlab = [
