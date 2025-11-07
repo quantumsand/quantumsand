@@ -1117,7 +1117,8 @@ class QuantumsandLive
       "google/osv-scanner",
       "lu-zero/cargo-c",
       "sailfishos-mirror/cargo-packaging",
-      "sailfishos-mirror/ccache"
+      "sailfishos-mirror/ccache",
+      "ccache/ccache"
     ]
 
     git_repos_chromium_googlesource = [
