@@ -1116,7 +1116,8 @@ class QuantumsandLive
       "aquasecurity/trivy",
       "google/osv-scanner",
       "lu-zero/cargo-c",
-      "sailfishos-mirror/cargo-packaging"
+      "sailfishos-mirror/cargo-packaging",
+      "sailfishos-mirror/ccache"
     ]
 
     git_repos_chromium_googlesource = [
