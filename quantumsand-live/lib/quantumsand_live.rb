@@ -1249,7 +1249,8 @@ class QuantumsandLive
       "pkg-config/pkg-config",
       "sailfishos-mirror/selinux",
       "telepathy/telepathy-glib",
-      "telepathy/telepathy-farstream"
+      "telepathy/telepathy-farstream",
+      "telepathy/telepathy-gabble"
     ]
 
     git_repos_xfce_gitlab = [
