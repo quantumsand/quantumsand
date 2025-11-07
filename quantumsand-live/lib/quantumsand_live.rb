@@ -1112,7 +1112,8 @@ class QuantumsandLive
       "owasp-dep-scan/blint",
       "lief-project/LIEF",
       "anchore/syft",
-      "anchore/grype"
+      "anchore/grype",
+      "aquasecurity/trivy"
     ]
 
     git_repos_chromium_googlesource = [
