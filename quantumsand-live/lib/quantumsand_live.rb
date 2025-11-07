@@ -1110,7 +1110,8 @@ class QuantumsandLive
       "rust-secure-code/cargo-auditable",
       "bytecodealliance/wasm-tools",
       "owasp-dep-scan/blint",
-      "lief-project/LIEF"
+      "lief-project/LIEF",
+      "anchore/syft"
     ]
 
     git_repos_chromium_googlesource = [
