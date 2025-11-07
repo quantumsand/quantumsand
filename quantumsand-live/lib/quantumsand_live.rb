@@ -1165,7 +1165,8 @@ class QuantumsandLive
       "gnulib/maint-tools",
       "smalltalk",
       "smalltalk/benchmarks",
-      "automake"
+      "automake",
+      "libtool"
     ]
 
     git_repos_open_mesh_org = [
