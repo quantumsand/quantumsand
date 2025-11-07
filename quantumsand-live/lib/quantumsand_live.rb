@@ -1167,7 +1167,8 @@ class QuantumsandLive
       "smalltalk/benchmarks",
       "automake",
       "libtool",
-      "texinfo"
+      "texinfo",
+      "sed"
     ]
 
     git_repos_open_mesh_org = [
