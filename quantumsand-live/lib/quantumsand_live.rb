@@ -1242,7 +1242,8 @@ class QuantumsandLive
       "FHS/fhs-spec",
       "cairo/cairo",
       "cairo/cairomm",
-      "cairo/cairo-traces"
+      "cairo/cairo-traces",
+      "pkg-config/pkg-config"
     ]
 
     git_repos_xfce_gitlab = [
