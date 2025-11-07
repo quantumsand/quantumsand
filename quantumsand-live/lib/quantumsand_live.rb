@@ -1111,7 +1111,8 @@ class QuantumsandLive
       "bytecodealliance/wasm-tools",
       "owasp-dep-scan/blint",
       "lief-project/LIEF",
-      "anchore/syft"
+      "anchore/syft",
+      "anchore/grype"
     ]
 
     git_repos_chromium_googlesource = [
