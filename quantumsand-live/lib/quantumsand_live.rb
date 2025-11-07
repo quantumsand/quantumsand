@@ -1251,7 +1251,8 @@ class QuantumsandLive
       "telepathy/telepathy-glib",
       "telepathy/telepathy-farstream",
       "telepathy/telepathy-gabble",
-      "telepathy/telepathy-haze"
+      "telepathy/telepathy-haze",
+      "telepathy/telepathy-qt"
     ]
 
     git_repos_xfce_gitlab = [
