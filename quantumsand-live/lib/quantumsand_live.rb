@@ -1114,7 +1114,8 @@ class QuantumsandLive
       "anchore/syft",
       "anchore/grype",
       "aquasecurity/trivy",
-      "google/osv-scanner"
+      "google/osv-scanner",
+      "lu-zero/cargo-c"
     ]
 
     git_repos_chromium_googlesource = [
