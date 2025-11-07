@@ -1243,7 +1243,8 @@ class QuantumsandLive
       "cairo/cairo",
       "cairo/cairomm",
       "cairo/cairo-traces",
-      "pkg-config/pkg-config"
+      "pkg-config/pkg-config",
+      "sailfishos-mirror/selinux"
     ]
 
     git_repos_xfce_gitlab = [
