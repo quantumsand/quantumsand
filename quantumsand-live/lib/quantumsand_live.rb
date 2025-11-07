@@ -1373,7 +1373,8 @@ class QuantumsandLive
       "frameworks/kservice",
       "frameworks/kwidgetsaddons",
       "frameworks/kxmlgui",
-      "office/calligra"
+      "office/calligra",
+      "frameworks/extra-cmake-modules"
     ]
 
     git_repos_ffmpeg_org = [
