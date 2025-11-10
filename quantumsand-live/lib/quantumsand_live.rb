@@ -1148,7 +1148,8 @@ class QuantumsandLive
       "sailfishos/cross-template-sysroot",
       "sailfishos-mirror/cryptsetup",
       "sailfishos/cryptsetup-luks",
-      "sailfishos-mirror/cups"
+      "sailfishos-mirror/cups",
+      "sailfishos-mirror/curl"
     ]
 
     git_repos_chromium_googlesource = [
