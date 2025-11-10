@@ -1149,7 +1149,8 @@ class QuantumsandLive
       "sailfishos-mirror/cryptsetup",
       "sailfishos/cryptsetup-luks",
       "sailfishos-mirror/cups",
-      "sailfishos-mirror/curl"
+      "sailfishos-mirror/curl",
+      "curl/curl"
     ]
 
     git_repos_chromium_googlesource = [
