@@ -1192,7 +1192,8 @@ class QuantumsandLive
       "texinfo",
       "sed",
       "sed-history",
-      "coreutils"
+      "coreutils",
+      "cpio"
     ]
 
     git_repos_open_mesh_org = [
