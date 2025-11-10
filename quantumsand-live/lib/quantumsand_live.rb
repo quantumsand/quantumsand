@@ -1135,7 +1135,8 @@ class QuantumsandLive
       "rdnetto/YCM-Generator",
       "fcying/compiledb-go",
       "sailfishos/connectionagent",
-      "sailfishos/connman"
+      "sailfishos/connman",
+      "sailfishos-mirror/connman-network-monitor"
     ]
 
     git_repos_chromium_googlesource = [
