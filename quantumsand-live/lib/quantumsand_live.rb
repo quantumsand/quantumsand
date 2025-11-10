@@ -1129,7 +1129,8 @@ class QuantumsandLive
       "pytorch/helion",
       "charmbracelet/vhs",
       "sailfishos-mirror/compiledb",
-      "nickdiego/compiledb"
+      "nickdiego/compiledb",
+      "ycm-core/YouCompleteMe"
     ]
 
     git_repos_chromium_googlesource = [
