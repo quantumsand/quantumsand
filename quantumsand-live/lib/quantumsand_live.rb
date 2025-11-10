@@ -1127,7 +1127,8 @@ class QuantumsandLive
       "avahi/nss-mdns",
       "sailfishos/commhistory-daemon",
       "pytorch/helion",
-      "charmbracelet/vhs"
+      "charmbracelet/vhs",
+      "sailfishos-mirror/compiledb"
     ]
 
     git_repos_chromium_googlesource = [
