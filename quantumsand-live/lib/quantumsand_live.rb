@@ -1248,7 +1248,8 @@ class QuantumsandLive
       "libeigen/eigen",
       "libeigen/eigen-performance-monitoring",
       "embeddable-common-lisp/ecl",
-      "spaghettisalat/maxima"
+      "spaghettisalat/maxima",
+      "cryptsetup/cryptsetup"
     ]
 
     git_repos_freedesktop_gitlab = [
