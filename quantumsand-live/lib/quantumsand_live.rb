@@ -1147,7 +1147,8 @@ class QuantumsandLive
       "sailfishos/cross-template-inject",
       "sailfishos/cross-template-sysroot",
       "sailfishos-mirror/cryptsetup",
-      "sailfishos/cryptsetup-luks"
+      "sailfishos/cryptsetup-luks",
+      "sailfishos-mirror/cups"
     ]
 
     git_repos_chromium_googlesource = [
