@@ -1130,7 +1130,8 @@ class QuantumsandLive
       "charmbracelet/vhs",
       "sailfishos-mirror/compiledb",
       "nickdiego/compiledb",
-      "ycm-core/YouCompleteMe"
+      "ycm-core/YouCompleteMe",
+      "rizsotto/Bear"
     ]
 
     git_repos_chromium_googlesource = [
