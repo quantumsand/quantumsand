@@ -1144,7 +1144,8 @@ class QuantumsandLive
       "sailfishos/crash-reporter",
       "sailfishos-mirror/crda",
       "sailfishos-mirror/createrepo_c",
-      "sailfishos/cross-template-inject"
+      "sailfishos/cross-template-inject",
+      "sailfishos/cross-template-sysroot"
     ]
 
     git_repos_chromium_googlesource = [
