@@ -1141,7 +1141,8 @@ class QuantumsandLive
       "sailfishos/cor",
       "sailfishos-mirror/coreutils",
       "sailfishos-mirror/cpio",
-      "sailfishos/crash-reporter"
+      "sailfishos/crash-reporter",
+      "sailfishos-mirror/crda"
     ]
 
     git_repos_chromium_googlesource = [
