@@ -1138,7 +1138,8 @@ class QuantumsandLive
       "sailfishos/connman",
       "sailfishos-mirror/connman-network-monitor",
       "sailfishos/contactsd",
-      "sailfishos/cor"
+      "sailfishos/cor",
+      "sailfishos-mirror/coreutils"
     ]
 
     git_repos_chromium_googlesource = [
