@@ -1249,7 +1249,8 @@ class QuantumsandLive
       "libeigen/eigen-performance-monitoring",
       "embeddable-common-lisp/ecl",
       "spaghettisalat/maxima",
-      "cryptsetup/cryptsetup"
+      "cryptsetup/cryptsetup",
+      "cryptsetup/LUKS2-docs"
     ]
 
     git_repos_freedesktop_gitlab = [
