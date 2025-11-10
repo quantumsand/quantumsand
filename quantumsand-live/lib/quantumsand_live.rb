@@ -1136,7 +1136,8 @@ class QuantumsandLive
       "fcying/compiledb-go",
       "sailfishos/connectionagent",
       "sailfishos/connman",
-      "sailfishos-mirror/connman-network-monitor"
+      "sailfishos-mirror/connman-network-monitor",
+      "sailfishos/contactsd"
     ]
 
     git_repos_chromium_googlesource = [
