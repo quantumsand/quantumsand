@@ -1128,7 +1128,8 @@ class QuantumsandLive
       "sailfishos/commhistory-daemon",
       "pytorch/helion",
       "charmbracelet/vhs",
-      "sailfishos-mirror/compiledb"
+      "sailfishos-mirror/compiledb",
+      "nickdiego/compiledb"
     ]
 
     git_repos_chromium_googlesource = [
