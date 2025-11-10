@@ -1417,7 +1417,8 @@ class QuantumsandLive
       "GNOME/libadwaita",
       "GNOME/adwaita-fonts",
       "GNOME/gi-docgen",
-      "GNOME/gnome-shell"
+      "GNOME/gnome-shell",
+      "GNOME/dconf"
     ]
 
     git_repos_postgresql_org = [
