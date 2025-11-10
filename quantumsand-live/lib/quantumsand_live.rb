@@ -1151,7 +1151,8 @@ class QuantumsandLive
       "sailfishos-mirror/cups",
       "sailfishos-mirror/curl",
       "curl/curl",
-      "sailfishos/cutes"
+      "sailfishos/cutes",
+      "sailfishos/cutes-js"
     ]
 
     git_repos_chromium_googlesource = [
