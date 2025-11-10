@@ -1158,7 +1158,8 @@ class QuantumsandLive
       "sailfishos-mirror/dbus",
       "sailfishos/dbus-glib",
       "sailfishos-mirror/dbus-python",
-      "sailfishos-mirror/dconf"
+      "sailfishos-mirror/dconf",
+      "sailfishos-mirror/debugedit"
     ]
 
     git_repos_chromium_googlesource = [
