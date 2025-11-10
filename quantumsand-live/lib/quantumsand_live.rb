@@ -1131,7 +1131,8 @@ class QuantumsandLive
       "sailfishos-mirror/compiledb",
       "nickdiego/compiledb",
       "ycm-core/YouCompleteMe",
-      "rizsotto/Bear"
+      "rizsotto/Bear",
+      "rdnetto/YCM-Generator"
     ]
 
     git_repos_chromium_googlesource = [
