@@ -1132,7 +1132,8 @@ class QuantumsandLive
       "nickdiego/compiledb",
       "ycm-core/YouCompleteMe",
       "rizsotto/Bear",
-      "rdnetto/YCM-Generator"
+      "rdnetto/YCM-Generator",
+      "fcying/compiledb-go"
     ]
 
     git_repos_chromium_googlesource = [
