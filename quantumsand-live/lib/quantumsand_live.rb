@@ -1157,7 +1157,7 @@ class QuantumsandLive
       "sailfishos/db4",
       "sailfishos-mirror/dbus",
       "sailfishos/dbus-glib",
-      "sailfishos/dbus-python"
+      "sailfishos-mirror/dbus-python"
     ]
 
     git_repos_chromium_googlesource = [
