@@ -1153,7 +1153,8 @@ class QuantumsandLive
       "curl/curl",
       "sailfishos/cutes",
       "sailfishos/cutes-js",
-      "sailfishos/cvs"
+      "sailfishos/cvs",
+      "sailfishos/db4"
     ]
 
     git_repos_chromium_googlesource = [
