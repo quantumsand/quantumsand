@@ -1168,7 +1168,8 @@ class QuantumsandLive
       "davialabs/davia",
       "doitsujin/dxvk",
       "misyltoad/mingw-directx-headers",
-      "KhronosGroup/Vulkan-Headers"
+      "KhronosGroup/Vulkan-Headers",
+      "KhronosGroup/SPIRV-Headers"
     ]
 
     git_repos_chromium_googlesource = [
