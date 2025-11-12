@@ -1176,7 +1176,8 @@ class QuantumsandLive
       "plougher/squashfs-tools",
       "marko-js/marko",
       "Snapchat/Valdi",
-      "RibirX/Ribir"
+      "RibirX/Ribir",
+      "sayyadirfanali/Myna"
     ]
 
     git_repos_chromium_googlesource = [
