@@ -1174,7 +1174,8 @@ class QuantumsandLive
       "doitsujin/dxbc-spirv",
       "htin1/toktop",
       "plougher/squashfs-tools",
-      "marko-js/marko"
+      "marko-js/marko",
+      "Snapchat/Valdi"
     ]
 
     git_repos_chromium_googlesource = [
