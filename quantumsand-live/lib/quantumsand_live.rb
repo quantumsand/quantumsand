@@ -1177,7 +1177,8 @@ class QuantumsandLive
       "marko-js/marko",
       "Snapchat/Valdi",
       "RibirX/Ribir",
-      "sayyadirfanali/Myna"
+      "sayyadirfanali/Myna",
+      "google/magika"
     ]
 
     git_repos_chromium_googlesource = [
