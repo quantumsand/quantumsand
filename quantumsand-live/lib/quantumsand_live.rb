@@ -1165,7 +1165,8 @@ class QuantumsandLive
       "intel/Intel-Linux-Processor-Microcode-Data-Files",
       "pawurb/channels-console",
       "intel/intel-lpmd",
-      "davialabs/davia"
+      "davialabs/davia",
+      "doitsujin/dxvk"
     ]
 
     git_repos_chromium_googlesource = [
