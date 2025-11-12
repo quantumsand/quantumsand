@@ -1197,7 +1197,8 @@ class QuantumsandLive
       "mesonbuild/meson",
       "sailfishos/dsme",
       "sailfishos-mirror/dbus-glib",
-      "sailfishos-mirror/dtc"
+      "sailfishos-mirror/dtc",
+      "sailfishos/duktape"
     ]
 
     git_repos_chromium_googlesource = [
