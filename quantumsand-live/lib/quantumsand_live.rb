@@ -1192,7 +1192,8 @@ class QuantumsandLive
       "sailfishos-mirror/doxygen",
       "scmbreeze/scm_breeze",
       "doxygen/doxygen",
-      "sailfishos/droid-fonts"
+      "sailfishos/droid-fonts",
+      "sailfishos/droidmedia"
     ]
 
     git_repos_chromium_googlesource = [
