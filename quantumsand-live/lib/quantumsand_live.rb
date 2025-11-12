@@ -1194,7 +1194,8 @@ class QuantumsandLive
       "doxygen/doxygen",
       "sailfishos/droid-fonts",
       "sailfishos/droidmedia",
-      "mesonbuild/meson"
+      "mesonbuild/meson",
+      "sailfishos/dsme"
     ]
 
     git_repos_chromium_googlesource = [
