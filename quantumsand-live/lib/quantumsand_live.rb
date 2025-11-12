@@ -1166,7 +1166,8 @@ class QuantumsandLive
       "pawurb/channels-console",
       "intel/intel-lpmd",
       "davialabs/davia",
-      "doitsujin/dxvk"
+      "doitsujin/dxvk",
+      "misyltoad/mingw-directx-headers"
     ]
 
     git_repos_chromium_googlesource = [
