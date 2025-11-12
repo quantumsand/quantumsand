@@ -1178,7 +1178,8 @@ class QuantumsandLive
       "Snapchat/Valdi",
       "RibirX/Ribir",
       "sayyadirfanali/Myna",
-      "google/magika"
+      "google/magika",
+      "google/sedpack"
     ]
 
     git_repos_chromium_googlesource = [
