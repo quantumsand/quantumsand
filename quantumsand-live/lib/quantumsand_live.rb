@@ -1181,7 +1181,8 @@ class QuantumsandLive
       "google/magika",
       "google/sedpack",
       "OpenKinect/libfreenect2",
-      "OpenKinect/libfreenect"
+      "OpenKinect/libfreenect",
+      "cloudflare/quiche"
     ]
 
     git_repos_chromium_googlesource = [
