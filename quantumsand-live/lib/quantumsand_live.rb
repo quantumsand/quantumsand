@@ -1172,7 +1172,8 @@ class QuantumsandLive
       "KhronosGroup/SPIRV-Headers",
       "doitsujin/libdisplay-info",
       "doitsujin/dxbc-spirv",
-      "htin1/toktop"
+      "htin1/toktop",
+      "plougher/squashfs-tools"
     ]
 
     git_repos_chromium_googlesource = [
