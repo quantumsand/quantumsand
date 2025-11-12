@@ -1182,7 +1182,8 @@ class QuantumsandLive
       "google/sedpack",
       "OpenKinect/libfreenect2",
       "OpenKinect/libfreenect",
-      "cloudflare/quiche"
+      "cloudflare/quiche",
+      "google/boringssl"
     ]
 
     git_repos_chromium_googlesource = [
