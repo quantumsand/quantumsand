@@ -1162,7 +1162,8 @@ class QuantumsandLive
       "sailfishos-mirror/debugedit",
       "wwmm/easyeffects",
       "VoltAgent/voltagen",
-      "intel/Intel-Linux-Processor-Microcode-Data-Files"
+      "intel/Intel-Linux-Processor-Microcode-Data-Files",
+      "pawurb/channels-console"
     ]
 
     git_repos_chromium_googlesource = [
