@@ -1167,7 +1167,8 @@ class QuantumsandLive
       "intel/intel-lpmd",
       "davialabs/davia",
       "doitsujin/dxvk",
-      "misyltoad/mingw-directx-headers"
+      "misyltoad/mingw-directx-headers",
+      "KhronosGroup/Vulkan-Headers"
     ]
 
     git_repos_chromium_googlesource = [
