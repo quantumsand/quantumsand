@@ -1193,7 +1193,8 @@ class QuantumsandLive
       "scmbreeze/scm_breeze",
       "doxygen/doxygen",
       "sailfishos/droid-fonts",
-      "sailfishos/droidmedia"
+      "sailfishos/droidmedia",
+      "mesonbuild/meson"
     ]
 
     git_repos_chromium_googlesource = [
