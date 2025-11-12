@@ -1180,7 +1180,8 @@ class QuantumsandLive
       "sayyadirfanali/Myna",
       "google/magika",
       "google/sedpack",
-      "OpenKinect/libfreenect2"
+      "OpenKinect/libfreenect2",
+      "OpenKinect/libfreenect"
     ]
 
     git_repos_chromium_googlesource = [
