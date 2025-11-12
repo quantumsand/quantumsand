@@ -1184,7 +1184,8 @@ class QuantumsandLive
       "OpenKinect/libfreenect",
       "cloudflare/quiche",
       "google/boringssl",
-      "sailfishos-mirror/desktop-file-utils"
+      "sailfishos-mirror/desktop-file-utils",
+      "sailfishos/diffstat"
     ]
 
     git_repos_chromium_googlesource = [
