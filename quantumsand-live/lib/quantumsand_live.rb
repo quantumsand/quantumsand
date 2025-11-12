@@ -1185,7 +1185,8 @@ class QuantumsandLive
       "cloudflare/quiche",
       "google/boringssl",
       "sailfishos-mirror/desktop-file-utils",
-      "sailfishos/diffstat"
+      "sailfishos/diffstat",
+      "sailfishos/diffutils"
     ]
 
     git_repos_chromium_googlesource = [
