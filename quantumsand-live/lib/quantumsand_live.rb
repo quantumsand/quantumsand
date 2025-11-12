@@ -1163,7 +1163,8 @@ class QuantumsandLive
       "wwmm/easyeffects",
       "VoltAgent/voltagen",
       "intel/Intel-Linux-Processor-Microcode-Data-Files",
-      "pawurb/channels-console"
+      "pawurb/channels-console",
+      "intel/intel-lpmd"
     ]
 
     git_repos_chromium_googlesource = [
