@@ -1171,7 +1171,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Headers",
       "KhronosGroup/SPIRV-Headers",
       "doitsujin/libdisplay-info",
-      "doitsujin/dxbc-spirv"
+      "doitsujin/dxbc-spirv",
+      "htin1/toktop"
     ]
 
     git_repos_chromium_googlesource = [
