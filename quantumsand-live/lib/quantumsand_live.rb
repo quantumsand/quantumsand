@@ -1188,7 +1188,8 @@ class QuantumsandLive
       "sailfishos/diffstat",
       "sailfishos/diffutils",
       "sailfishos/dirmngr",
-      "sailfishos/docs.sailfishos.org"
+      "sailfishos/docs.sailfishos.org",
+      "sailfishos-mirror/doxygen"
     ]
 
     git_repos_chromium_googlesource = [
