@@ -1173,7 +1173,8 @@ class QuantumsandLive
       "doitsujin/libdisplay-info",
       "doitsujin/dxbc-spirv",
       "htin1/toktop",
-      "plougher/squashfs-tools"
+      "plougher/squashfs-tools",
+      "marko-js/marko"
     ]
 
     git_repos_chromium_googlesource = [
