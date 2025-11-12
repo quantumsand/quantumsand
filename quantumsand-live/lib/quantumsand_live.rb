@@ -1169,7 +1169,8 @@ class QuantumsandLive
       "doitsujin/dxvk",
       "misyltoad/mingw-directx-headers",
       "KhronosGroup/Vulkan-Headers",
-      "KhronosGroup/SPIRV-Headers"
+      "KhronosGroup/SPIRV-Headers",
+      "doitsujin/libdisplay-info"
     ]
 
     git_repos_chromium_googlesource = [
