@@ -1164,7 +1164,8 @@ class QuantumsandLive
       "VoltAgent/voltagen",
       "intel/Intel-Linux-Processor-Microcode-Data-Files",
       "pawurb/channels-console",
-      "intel/intel-lpmd"
+      "intel/intel-lpmd",
+      "davialabs/davia"
     ]
 
     git_repos_chromium_googlesource = [
