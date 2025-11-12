@@ -1160,7 +1160,8 @@ class QuantumsandLive
       "sailfishos-mirror/dbus-python",
       "sailfishos-mirror/dconf",
       "sailfishos-mirror/debugedit",
-      "wwmm/easyeffects"
+      "wwmm/easyeffects",
+      "VoltAgent/voltagen"
     ]
 
     git_repos_chromium_googlesource = [
