@@ -1186,7 +1186,8 @@ class QuantumsandLive
       "google/boringssl",
       "sailfishos-mirror/desktop-file-utils",
       "sailfishos/diffstat",
-      "sailfishos/diffutils"
+      "sailfishos/diffutils",
+      "sailfishos/dirmngr"
     ]
 
     git_repos_chromium_googlesource = [
