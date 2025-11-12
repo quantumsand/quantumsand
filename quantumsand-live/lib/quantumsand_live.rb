@@ -1190,7 +1190,8 @@ class QuantumsandLive
       "sailfishos/dirmngr",
       "sailfishos/docs.sailfishos.org",
       "sailfishos-mirror/doxygen",
-      "scmbreeze/scm_breeze"
+      "scmbreeze/scm_breeze",
+      "doxygen/doxygen"
     ]
 
     git_repos_chromium_googlesource = [
