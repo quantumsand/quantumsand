@@ -1489,6 +1489,10 @@ class QuantumsandLive
       "xiph/flac"
     ]
 
+    git_repos_einval_com = [
+      "abcde"
+    ]
+
     git_repos_redox_os_gitlab = [
       "redox-os/cookbook"
     ]
