@@ -1216,7 +1216,8 @@ class QuantumsandLive
       "sailfishos-mirror/libexpat",
       "libexpat/libexpat",
       "sailfishos/fakechroot",
-      "sailfishos/fakeroot"
+      "sailfishos/fakeroot",
+      "sailfishos-mirror/farstream"
     ]
 
     git_repos_chromium_googlesource = [
