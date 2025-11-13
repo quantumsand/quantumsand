@@ -1369,7 +1369,8 @@ class QuantumsandLive
       "dbus/dbus-python",
       "dbus/dbus-test",
       "xdg/desktop-file-utils",
-      "libopenraw/exempi"
+      "libopenraw/exempi",
+      "libopenraw/exempi-rs"
     ]
 
     git_repos_xfce_gitlab = [
