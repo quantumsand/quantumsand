@@ -1207,7 +1207,8 @@ class QuantumsandLive
       "sailfishos-mirror/eigen",
       "sailfishos-mirror/elfutils",
       "sailfishos/embedlite-components",
-      "sailfishos/embedlite-components-search-engines"
+      "sailfishos/embedlite-components-search-engines",
+      "sailfishos/enchant"
     ]
 
     git_repos_chromium_googlesource = [
