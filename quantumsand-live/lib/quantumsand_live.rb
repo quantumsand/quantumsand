@@ -1200,7 +1200,8 @@ class QuantumsandLive
       "sailfishos-mirror/dtc",
       "sailfishos/duktape",
       "svaarala/duktape",
-      "jsx-tool/jsx-tool"
+      "jsx-tool/jsx-tool",
+      "corsix/fast-crc32"
     ]
 
     git_repos_chromium_googlesource = [
