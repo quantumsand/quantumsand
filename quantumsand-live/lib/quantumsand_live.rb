@@ -1214,7 +1214,8 @@ class QuantumsandLive
       "adobe/react-spectrum",
       "adobe/spectrum-css",
       "sailfishos-mirror/libexpat",
-      "libexpat/libexpat"
+      "libexpat/libexpat",
+      "sailfishos/fakechroot"
     ]
 
     git_repos_chromium_googlesource = [
