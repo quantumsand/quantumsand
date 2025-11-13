@@ -1485,6 +1485,10 @@ class QuantumsandLive
       "videolan/libdvdread"
     ]
 
+    git_repos_xiph_org_gitlab = [
+      "xiph/flac"
+    ]
+
     git_repos_redox_os_gitlab = [
       "redox-os/cookbook"
     ]
