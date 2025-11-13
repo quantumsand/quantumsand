@@ -1203,7 +1203,8 @@ class QuantumsandLive
       "jsx-tool/jsx-tool",
       "corsix/fast-crc32",
       "davidlattimore/wild",
-      "sailfishos-mirror/e2fsprogs"
+      "sailfishos-mirror/e2fsprogs",
+      "sailfishos-mirror/eigen"
     ]
 
     git_repos_chromium_googlesource = [
