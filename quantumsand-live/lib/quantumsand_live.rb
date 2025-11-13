@@ -1238,7 +1238,8 @@ class QuantumsandLive
     git_repos_sourceware_org = [
       "binutils-gdb",
       "bzip2",
-      "debugedit"
+      "debugedit",
+      "elfutils"
     ]
 
     git_repos_gcc_gnu_org = [
