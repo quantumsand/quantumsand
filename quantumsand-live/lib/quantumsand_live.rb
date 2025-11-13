@@ -1227,7 +1227,8 @@ class QuantumsandLive
       "file/file",
       "sailfishos/filesystem",
       "sailfishos-mirror/findutils",
-      "sailfishos/fingerterm"
+      "sailfishos/fingerterm",
+      "sailfishos-mirror/firejail"
     ]
 
     git_repos_chromium_googlesource = [
