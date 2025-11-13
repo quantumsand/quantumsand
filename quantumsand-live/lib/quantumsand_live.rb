@@ -1219,7 +1219,8 @@ class QuantumsandLive
       "sailfishos/fakeroot",
       "sailfishos-mirror/farstream",
       "sailfishos/fbset",
-      "sailfishos-mirror/fdupes"
+      "sailfishos-mirror/fdupes",
+      "adrianlopezroche/fdupes"
     ]
 
     git_repos_chromium_googlesource = [
