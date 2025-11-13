@@ -1205,7 +1205,8 @@ class QuantumsandLive
       "davidlattimore/wild",
       "sailfishos-mirror/e2fsprogs",
       "sailfishos-mirror/eigen",
-      "sailfishos-mirror/elfutils"
+      "sailfishos-mirror/elfutils",
+      "sailfishos/embedlite-components"
     ]
 
     git_repos_chromium_googlesource = [
