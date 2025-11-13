@@ -1222,7 +1222,8 @@ class QuantumsandLive
       "sailfishos-mirror/fdupes",
       "adrianlopezroche/fdupes",
       "sailfishos-mirror/ffmpeg",
-      "sailfishos/fftune"
+      "sailfishos/fftune",
+      "sailfishos-mirror/file"
     ]
 
     git_repos_chromium_googlesource = [
