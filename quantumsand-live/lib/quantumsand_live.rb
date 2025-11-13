@@ -1378,7 +1378,8 @@ class QuantumsandLive
       "libopenraw/exempi-rs",
       "libopenraw/libopenraw",
       "libopenraw/libopenraw-rs",
-      "libopenraw/libopenraw-viewer"
+      "libopenraw/libopenraw-viewer",
+      "farstream/farstream"
     ]
 
     git_repos_xfce_gitlab = [
