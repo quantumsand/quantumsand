@@ -1211,7 +1211,8 @@ class QuantumsandLive
       "sailfishos/enchant",
       "sailfishos-mirror/exempi",
       "adobe/XMP-Toolkit-SDK",
-      "adobe/react-spectrum"
+      "adobe/react-spectrum",
+      "adobe/spectrum-css"
     ]
 
     git_repos_chromium_googlesource = [
