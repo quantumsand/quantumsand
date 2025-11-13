@@ -1209,7 +1209,8 @@ class QuantumsandLive
       "sailfishos/embedlite-components",
       "sailfishos/embedlite-components-search-engines",
       "sailfishos/enchant",
-      "sailfishos-mirror/exempi"
+      "sailfishos-mirror/exempi",
+      "adobe/XMP-Toolkit-SDK"
     ]
 
     git_repos_chromium_googlesource = [
