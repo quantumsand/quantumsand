@@ -1371,7 +1371,8 @@ class QuantumsandLive
       "xdg/desktop-file-utils",
       "libopenraw/exempi",
       "libopenraw/exempi-rs",
-      "libopenraw/libopenraw"
+      "libopenraw/libopenraw",
+      "libopenraw/libopenraw-rs"
     ]
 
     git_repos_xfce_gitlab = [
