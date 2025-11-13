@@ -1225,7 +1225,8 @@ class QuantumsandLive
       "bluetooth/bluez",
       "git/git",
       "network/connman/connman",
-      "utils/dtc/dtc"
+      "utils/dtc/dtc",
+      "fs/ext2/e2fsprogs"
     ]
 
     git_repos_isc_org_gitlab = [
