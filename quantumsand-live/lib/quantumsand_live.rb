@@ -1199,7 +1199,8 @@ class QuantumsandLive
       "sailfishos-mirror/dbus-glib",
       "sailfishos-mirror/dtc",
       "sailfishos/duktape",
-      "svaarala/duktape"
+      "svaarala/duktape",
+      "jsx-tool/jsx-tool"
     ]
 
     git_repos_chromium_googlesource = [
