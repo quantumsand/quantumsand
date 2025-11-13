@@ -1202,7 +1202,8 @@ class QuantumsandLive
       "svaarala/duktape",
       "jsx-tool/jsx-tool",
       "corsix/fast-crc32",
-      "davidlattimore/wild"
+      "davidlattimore/wild",
+      "sailfishos-mirror/e2fsprogs"
     ]
 
     git_repos_chromium_googlesource = [
