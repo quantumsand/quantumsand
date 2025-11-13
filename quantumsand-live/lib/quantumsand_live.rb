@@ -1213,7 +1213,8 @@ class QuantumsandLive
       "adobe/XMP-Toolkit-SDK",
       "adobe/react-spectrum",
       "adobe/spectrum-css",
-      "sailfishos-mirror/libexpat"
+      "sailfishos-mirror/libexpat",
+      "libexpat/libexpat"
     ]
 
     git_repos_chromium_googlesource = [
