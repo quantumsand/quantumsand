@@ -1507,7 +1507,8 @@ class QuantumsandLive
       "GNOME/gi-docgen",
       "GNOME/gnome-shell",
       "GNOME/dconf",
-      "GNOME/libxml2"
+      "GNOME/libxml2",
+      "GNOME/sound-juicer"
     ]
 
     git_repos_postgresql_org = [
