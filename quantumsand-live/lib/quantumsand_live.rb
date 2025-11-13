@@ -1204,7 +1204,8 @@ class QuantumsandLive
       "corsix/fast-crc32",
       "davidlattimore/wild",
       "sailfishos-mirror/e2fsprogs",
-      "sailfishos-mirror/eigen"
+      "sailfishos-mirror/eigen",
+      "sailfishos-mirror/elfutils"
     ]
 
     git_repos_chromium_googlesource = [
