@@ -1305,7 +1305,8 @@ class QuantumsandLive
       "sed-history",
       "coreutils",
       "cpio",
-      "findutils"
+      "findutils",
+      "gawk"
     ]
 
     git_repos_open_mesh_org = [
