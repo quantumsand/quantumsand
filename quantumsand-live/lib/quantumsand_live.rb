@@ -1241,7 +1241,8 @@ class QuantumsandLive
       "freetype/docwriter",
       "sailfishos/fontpackages",
       "sailfishos-mirror/fribidi",
-      "fribidi/fribidi"
+      "fribidi/fribidi",
+      "fribidi/pyarabicshaping"
     ]
 
     git_repos_chromium_googlesource = [
