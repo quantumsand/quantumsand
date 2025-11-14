@@ -1232,7 +1232,8 @@ class QuantumsandLive
       "netblue30/firejail",
       "sailfishos-mirror/flac",
       "sailfishos-mirror/flex",
-      "westes/flex"
+      "westes/flex",
+      "sailfishos-mirror/fontconfig"
     ]
 
     git_repos_chromium_googlesource = [
