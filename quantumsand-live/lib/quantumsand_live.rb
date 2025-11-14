@@ -1253,7 +1253,8 @@ class QuantumsandLive
       "sailfishos-mirror/gdk-pixbuf",
       "sailfishos/gecko-camera",
       "sailfishos-mirror/gecko-dev",
-      "mozilla/gecko-dev"
+      "mozilla/gecko-dev",
+      "mozilla-firefox/firefox"
     ]
 
     git_repos_chromium_googlesource = [
