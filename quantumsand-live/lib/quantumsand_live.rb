@@ -1396,7 +1396,8 @@ class QuantumsandLive
       "libopenraw/libopenraw",
       "libopenraw/libopenraw-rs",
       "libopenraw/libopenraw-viewer",
-      "farstream/farstream"
+      "farstream/farstream",
+      "fontconfig/fontconfig"
     ]
 
     git_repos_xfce_gitlab = [
