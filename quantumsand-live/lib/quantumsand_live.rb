@@ -1311,6 +1311,10 @@ class QuantumsandLive
       "gawk"
     ]
 
+    git_repos_gnu_org_ua = [
+      "gdbm"
+    ]
+
     git_repos_open_mesh_org = [
       "batman-adv",
       "joker",
