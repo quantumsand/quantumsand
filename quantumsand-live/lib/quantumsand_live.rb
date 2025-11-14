@@ -1255,7 +1255,8 @@ class QuantumsandLive
       "sailfishos-mirror/gecko-dev",
       "mozilla/gecko-dev",
       "mozilla-firefox/firefox",
-      "sailfishos/gettext"
+      "sailfishos/gettext",
+      "sailfishos-mirror/giflib"
     ]
 
     git_repos_chromium_googlesource = [
