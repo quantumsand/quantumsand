@@ -1248,7 +1248,8 @@ class QuantumsandLive
       "libfuse/libfuse",
       "sailfishos/gamin",
       "sailfishos/gawk",
-      "sailfishos/gconf"
+      "sailfishos/gconf",
+      "sailfishos-mirror/gdbm"
     ]
 
     git_repos_chromium_googlesource = [
