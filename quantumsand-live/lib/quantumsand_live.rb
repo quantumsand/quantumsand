@@ -1246,7 +1246,8 @@ class QuantumsandLive
       "fribidi/c2man",
       "fribidi/pybyedie",
       "libfuse/libfuse",
-      "sailfishos/gamin"
+      "sailfishos/gamin",
+      "sailfishos/gawk"
     ]
 
     git_repos_chromium_googlesource = [
