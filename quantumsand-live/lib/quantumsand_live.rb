@@ -1244,7 +1244,8 @@ class QuantumsandLive
       "fribidi/fribidi",
       "fribidi/pyarabicshaping",
       "fribidi/c2man",
-      "fribidi/pybyedie"
+      "fribidi/pybyedie",
+      "libfuse/libfuse"
     ]
 
     git_repos_chromium_googlesource = [
