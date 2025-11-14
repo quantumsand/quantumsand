@@ -1249,7 +1249,8 @@ class QuantumsandLive
       "sailfishos/gamin",
       "sailfishos/gawk",
       "sailfishos/gconf",
-      "sailfishos-mirror/gdbm"
+      "sailfishos-mirror/gdbm",
+      "sailfishos-mirror/gdk-pixbuf"
     ]
 
     git_repos_chromium_googlesource = [
