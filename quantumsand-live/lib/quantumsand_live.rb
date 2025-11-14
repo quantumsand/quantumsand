@@ -1233,7 +1233,8 @@ class QuantumsandLive
       "sailfishos-mirror/flac",
       "sailfishos-mirror/flex",
       "westes/flex",
-      "sailfishos-mirror/fontconfig"
+      "sailfishos-mirror/fontconfig",
+      "FreeRDP/FreeRDP"
     ]
 
     git_repos_chromium_googlesource = [
