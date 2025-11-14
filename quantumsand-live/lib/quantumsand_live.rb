@@ -1243,7 +1243,8 @@ class QuantumsandLive
       "sailfishos-mirror/fribidi",
       "fribidi/fribidi",
       "fribidi/pyarabicshaping",
-      "fribidi/c2man"
+      "fribidi/c2man",
+      "fribidi/pybyedie"
     ]
 
     git_repos_chromium_googlesource = [
