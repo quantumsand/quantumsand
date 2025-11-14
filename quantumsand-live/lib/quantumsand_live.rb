@@ -1242,7 +1242,8 @@ class QuantumsandLive
       "sailfishos/fontpackages",
       "sailfishos-mirror/fribidi",
       "fribidi/fribidi",
-      "fribidi/pyarabicshaping"
+      "fribidi/pyarabicshaping",
+      "fribidi/c2man"
     ]
 
     git_repos_chromium_googlesource = [
