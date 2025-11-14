@@ -1237,7 +1237,9 @@ class QuantumsandLive
       "FreeRDP/FreeRDP",
       "sailfishos-mirror/freetype2",
       "freetype/freetype",
-      "freetype/freetype2-testing"
+      "freetype/freetype2-testing",
+      "freetype/docwriter",
+      "sailfishos/fontpackages"
     ]
 
     git_repos_chromium_googlesource = [
@@ -1401,8 +1403,7 @@ class QuantumsandLive
       "libopenraw/libopenraw-rs",
       "libopenraw/libopenraw-viewer",
       "farstream/farstream",
-      "fontconfig/fontconfig",
-      "sailfishos/fontpackages"
+      "fontconfig/fontconfig"
     ]
 
     git_repos_xfce_gitlab = [
