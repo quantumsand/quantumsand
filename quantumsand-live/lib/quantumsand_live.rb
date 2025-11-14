@@ -1397,7 +1397,8 @@ class QuantumsandLive
       "libopenraw/libopenraw-rs",
       "libopenraw/libopenraw-viewer",
       "farstream/farstream",
-      "fontconfig/fontconfig"
+      "fontconfig/fontconfig",
+      "sailfishos/fontpackages"
     ]
 
     git_repos_xfce_gitlab = [
