@@ -1266,7 +1266,8 @@ class QuantumsandLive
       "Hans-Halverson/brimstone",
       "bitcoin/bitcoin",
       "bitcoin/bips",
-      "bitcoin/libbase58"
+      "bitcoin/libbase58",
+      "bitcoin/libblkmaker"
     ]
 
     git_repos_chromium_googlesource = [
