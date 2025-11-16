@@ -1265,7 +1265,8 @@ class QuantumsandLive
       "libwifi/libwifi",
       "Hans-Halverson/brimstone",
       "bitcoin/bitcoin",
-      "bitcoin/bips"
+      "bitcoin/bips",
+      "bitcoin/libbase58"
     ]
 
     git_repos_chromium_googlesource = [
