@@ -1264,7 +1264,8 @@ class QuantumsandLive
       "sailfishos-mirror/glib",
       "libwifi/libwifi",
       "Hans-Halverson/brimstone",
-      "bitcoin/bitcoin"
+      "bitcoin/bitcoin",
+      "bitcoin/bips"
     ]
 
     git_repos_chromium_googlesource = [
