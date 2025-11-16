@@ -1261,7 +1261,8 @@ class QuantumsandLive
       "sailfishos-mirror/git",
       "sailfishos/gittin",
       "sailfishos-mirror/glib-networking",
-      "sailfishos-mirror/glib"
+      "sailfishos-mirror/glib",
+      "libwifi/libwifi"
     ]
 
     git_repos_chromium_googlesource = [
