@@ -1289,7 +1289,8 @@ class QuantumsandLive
       "sailfishos-mirror/grep",
       "sailfishos-mirror/grilo",
       "sailfishos-mirror/grilo-plugins",
-      "sailfishos-mirror/grubby"
+      "sailfishos-mirror/grubby",
+      "rhboot/grubby"
     ]
 
     git_repos_chromium_googlesource = [
