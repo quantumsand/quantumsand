@@ -1343,7 +1343,8 @@ class QuantumsandLive
       "cpio",
       "findutils",
       "gawk",
-      "gettext"
+      "gettext",
+      "gperf"
     ]
 
     git_repos_gnu_org_ua = [
