@@ -1275,7 +1275,8 @@ class QuantumsandLive
       "sailfishos/gmock",
       "sailfishos/gmp",
       "sailfishos-mirror/gmp-api",
-      "mozilla/gmp-api"
+      "mozilla/gmp-api",
+      "sailfishos-mirror/gnome-common"
     ]
 
     git_repos_chromium_googlesource = [
