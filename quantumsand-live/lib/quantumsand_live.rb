@@ -1290,6 +1290,10 @@ class QuantumsandLive
       "gn"
     ]
 
+    git_repos_dev_gnupg_org = [
+      "gnupg"
+    ]
+
     git_repos_code_qt_io = [
       "qt/qtwebengine"
     ]
