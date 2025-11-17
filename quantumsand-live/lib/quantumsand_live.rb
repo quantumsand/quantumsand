@@ -1355,7 +1355,8 @@ class QuantumsandLive
       "gawk",
       "gettext",
       "gperf",
-      "grep"
+      "grep",
+      "groff"
     ]
 
     git_repos_gnu_org_ua = [
