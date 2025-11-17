@@ -1267,7 +1267,8 @@ class QuantumsandLive
       "bitcoin/bitcoin",
       "bitcoin/bips",
       "bitcoin/libbase58",
-      "bitcoin/libblkmaker"
+      "bitcoin/libblkmaker",
+      "sailfishos/glibc"
     ]
 
     git_repos_chromium_googlesource = [
