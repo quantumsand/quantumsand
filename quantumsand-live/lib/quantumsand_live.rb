@@ -1283,7 +1283,8 @@ class QuantumsandLive
       "sailfishos-mirror/gpgme",
       "sailfishos-mirror/gpsd",
       "medusalix/FreeMDU",
-      "0xeb/fastmcpp"
+      "0xeb/fastmcpp",
+      "sailfishos-mirror/graphite"
     ]
 
     git_repos_chromium_googlesource = [
