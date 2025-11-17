@@ -1280,7 +1280,8 @@ class QuantumsandLive
       "sailfishos-mirror/gnutls",
       "sailfishos-mirror/gobject-introspection",
       "sailfishos-mirror/gperf",
-      "sailfishos-mirror/gpgme"
+      "sailfishos-mirror/gpgme",
+      "sailfishos-mirror/gpsd"
     ]
 
     git_repos_chromium_googlesource = [
