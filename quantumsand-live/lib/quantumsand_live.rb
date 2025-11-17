@@ -1580,7 +1580,8 @@ class QuantumsandLive
       "GNOME/glib",
       "GNOME/gdk-pixbuf",
       "GNOME/glib-networking",
-      "GNOME/gobject-introspection"
+      "GNOME/gobject-introspection",
+      "GNOME/gobject-introspection-tests"
     ]
 
     git_repos_postgresql_org = [
