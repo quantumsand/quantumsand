@@ -1285,7 +1285,8 @@ class QuantumsandLive
       "medusalix/FreeMDU",
       "0xeb/fastmcpp",
       "sailfishos-mirror/graphite",
-      "silnrsi/graphite"
+      "silnrsi/graphite",
+      "sailfishos-mirror/grep"
     ]
 
     git_repos_chromium_googlesource = [
