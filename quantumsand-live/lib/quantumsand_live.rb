@@ -1272,7 +1272,8 @@ class QuantumsandLive
       "KhronosGroup/glslang",
       "sailfishos-mirror/gmime",
       "jstedfast/gmime",
-      "sailfishos/gmock"
+      "sailfishos/gmock",
+      "sailfishos/gmp"
     ]
 
     git_repos_chromium_googlesource = [
