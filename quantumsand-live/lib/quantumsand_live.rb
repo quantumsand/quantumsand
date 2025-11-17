@@ -1062,7 +1062,6 @@ class QuantumsandLive
       "sailfishos-mirror/gdb",
       "sailfishos-mirror/autoconf",
       "sailfishos-mirror/bison",
-      "sailfishos-mirror/gnulib",
       "sailfishos-mirror/bluez",
       "sailfishos/bluez5",
       "sailfishos/boardname",
@@ -1279,7 +1278,8 @@ class QuantumsandLive
       "sailfishos-mirror/gnome-common",
       "sailfishos-mirror/gnupg",
       "sailfishos-mirror/gnutls",
-      "sailfishos-mirror/gobject-introspection"
+      "sailfishos-mirror/gobject-introspection",
+      "sailfishos-mirror/gperf"
     ]
 
     git_repos_chromium_googlesource = [
