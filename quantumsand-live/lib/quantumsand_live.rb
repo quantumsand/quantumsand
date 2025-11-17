@@ -1397,7 +1397,8 @@ class QuantumsandLive
       "embeddable-common-lisp/ecl",
       "spaghettisalat/maxima",
       "cryptsetup/cryptsetup",
-      "cryptsetup/LUKS2-docs"
+      "cryptsetup/LUKS2-docs",
+      "gnutls/gnutls"
     ]
 
     git_repos_freedesktop_gitlab = [
