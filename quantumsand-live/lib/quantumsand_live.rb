@@ -1288,7 +1288,8 @@ class QuantumsandLive
       "silnrsi/graphite",
       "sailfishos-mirror/grep",
       "sailfishos-mirror/grilo",
-      "sailfishos-mirror/grilo-plugins"
+      "sailfishos-mirror/grilo-plugins",
+      "sailfishos-mirror/grubby"
     ]
 
     git_repos_chromium_googlesource = [
