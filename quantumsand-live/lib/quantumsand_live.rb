@@ -1593,7 +1593,8 @@ class QuantumsandLive
       "GNOME/glib-networking",
       "GNOME/gobject-introspection",
       "GNOME/gobject-introspection-tests",
-      "GNOME/grilo"
+      "GNOME/grilo",
+      "GNOME/grilo-plugins"
     ]
 
     git_repos_postgresql_org = [
