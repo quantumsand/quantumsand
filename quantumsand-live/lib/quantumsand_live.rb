@@ -1295,7 +1295,8 @@ class QuantumsandLive
     ]
 
     git_repos_dev_gnupg_org = [
-      "gnupg"
+      "gnupg",
+      "gpgme"
     ]
 
     git_repos_code_qt_io = [
