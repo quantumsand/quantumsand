@@ -1269,7 +1269,8 @@ class QuantumsandLive
       "bitcoin/libbase58",
       "bitcoin/libblkmaker",
       "sailfishos/glibc",
-      "KhronosGroup/glslang"
+      "KhronosGroup/glslang",
+      "sailfishos-mirror/gmime"
     ]
 
     git_repos_chromium_googlesource = [
