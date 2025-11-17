@@ -1286,7 +1286,8 @@ class QuantumsandLive
       "0xeb/fastmcpp",
       "sailfishos-mirror/graphite",
       "silnrsi/graphite",
-      "sailfishos-mirror/grep"
+      "sailfishos-mirror/grep",
+      "sailfishos-mirror/grilo"
     ]
 
     git_repos_chromium_googlesource = [
