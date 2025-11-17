@@ -1292,7 +1292,8 @@ class QuantumsandLive
       "sailfishos-mirror/grubby",
       "rhboot/grubby",
       "sailfishos-mirror/gssdp",
-      "sailfishos/gst-av"
+      "sailfishos/gst-av",
+      "francescopace/espectre"
     ]
 
     git_repos_chromium_googlesource = [
