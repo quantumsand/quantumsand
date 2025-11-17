@@ -1579,7 +1579,8 @@ class QuantumsandLive
       "GNOME/sound-juicer",
       "GNOME/glib",
       "GNOME/gdk-pixbuf",
-      "GNOME/glib-networking"
+      "GNOME/glib-networking",
+      "GNOME/gobject-introspection"
     ]
 
     git_repos_postgresql_org = [
