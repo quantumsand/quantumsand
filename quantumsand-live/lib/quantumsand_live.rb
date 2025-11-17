@@ -1399,7 +1399,8 @@ class QuantumsandLive
       "cryptsetup/cryptsetup",
       "cryptsetup/LUKS2-docs",
       "gnutls/gnutls",
-      "gnutls/cavs"
+      "gnutls/cavs",
+      "gnutls/libtasn1"
     ]
 
     git_repos_freedesktop_gitlab = [
