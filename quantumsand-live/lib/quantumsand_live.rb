@@ -1398,7 +1398,8 @@ class QuantumsandLive
       "spaghettisalat/maxima",
       "cryptsetup/cryptsetup",
       "cryptsetup/LUKS2-docs",
-      "gnutls/gnutls"
+      "gnutls/gnutls",
+      "gnutls/cavs"
     ]
 
     git_repos_freedesktop_gitlab = [
