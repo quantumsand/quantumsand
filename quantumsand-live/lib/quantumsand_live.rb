@@ -1295,7 +1295,8 @@ class QuantumsandLive
       "sailfishos/gst-av",
       "francescopace/espectre",
       "BuddiesOfBudgie/budgie-desktop",
-      "treeverse/lakeFS"
+      "treeverse/lakeFS",
+      "AnalyticalGraphicsInc/gltf-vscode"
     ]
 
     git_repos_chromium_googlesource = [
