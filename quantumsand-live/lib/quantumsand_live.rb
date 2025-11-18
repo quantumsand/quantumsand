@@ -1300,7 +1300,8 @@ class QuantumsandLive
       "mlcommons/mlperf_client",
       "SpaceExplorationTechnologies/linux",
       "SpaceExplorationTechnologies/enterprise-api",
-      "SpaceExplorationTechnologies/u-boot"
+      "SpaceExplorationTechnologies/u-boot",
+      "SpaceExplorationTechnologies/starlink-wifi-gen2"
     ]
 
     git_repos_chromium_googlesource = [
