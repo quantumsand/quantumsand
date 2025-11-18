@@ -1773,7 +1773,8 @@ class QuantumsandLive
     git_repos_code_sf_net = [
       "gnuplot/gnuplot-main",
       "maxima/code",
-      "giflib/code"
+      "giflib/code",
+      "linuxptp/code"
     ]
 
     fossil_repos_sqlite_org = [
