@@ -1304,7 +1304,8 @@ class QuantumsandLive
       "SpaceExplorationTechnologies/starlink-wifi-gen2",
       "SpaceExplorationTechnologies/starlink-wifi",
       "SpaceExplorationTechnologies/sssd",
-      "SpaceExplorationTechnologies/linuxptp"
+      "SpaceExplorationTechnologies/linuxptp",
+      "walkamongus/sssd"
     ]
 
     git_repos_chromium_googlesource = [
