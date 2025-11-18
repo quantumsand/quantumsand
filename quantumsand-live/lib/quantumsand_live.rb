@@ -1299,7 +1299,8 @@ class QuantumsandLive
       "AnalyticalGraphicsInc/gltf-vscode",
       "mlcommons/mlperf_client",
       "SpaceExplorationTechnologies/linux",
-      "SpaceExplorationTechnologies/enterprise-api"
+      "SpaceExplorationTechnologies/enterprise-api",
+      "SpaceExplorationTechnologies/u-boot"
     ]
 
     git_repos_chromium_googlesource = [
