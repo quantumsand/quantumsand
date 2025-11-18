@@ -1297,7 +1297,8 @@ class QuantumsandLive
       "BuddiesOfBudgie/budgie-desktop",
       "treeverse/lakeFS",
       "AnalyticalGraphicsInc/gltf-vscode",
-      "mlcommons/mlperf_client"
+      "mlcommons/mlperf_client",
+      "SpaceExplorationTechnologies/linux"
     ]
 
     git_repos_chromium_googlesource = [
