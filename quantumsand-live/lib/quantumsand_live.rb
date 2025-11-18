@@ -1298,7 +1298,8 @@ class QuantumsandLive
       "treeverse/lakeFS",
       "AnalyticalGraphicsInc/gltf-vscode",
       "mlcommons/mlperf_client",
-      "SpaceExplorationTechnologies/linux"
+      "SpaceExplorationTechnologies/linux",
+      "SpaceExplorationTechnologies/enterprise-api"
     ]
 
     git_repos_chromium_googlesource = [
