@@ -1294,7 +1294,8 @@ class QuantumsandLive
       "sailfishos-mirror/gssdp",
       "sailfishos/gst-av",
       "francescopace/espectre",
-      "BuddiesOfBudgie/budgie-desktop"
+      "BuddiesOfBudgie/budgie-desktop",
+      "treeverse/lakeFS"
     ]
 
     git_repos_chromium_googlesource = [
