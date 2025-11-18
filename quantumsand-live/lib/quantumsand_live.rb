@@ -1349,6 +1349,10 @@ class QuantumsandLive
       "elfutils"
     ]
 
+    git_repos_libssh_org = [
+      "projects/libssh"
+    ]
+
     git_repos_gcc_gnu_org = [
       "gcc",
       "gcc-wwwdocs"
