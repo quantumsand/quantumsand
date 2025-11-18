@@ -1296,7 +1296,8 @@ class QuantumsandLive
       "francescopace/espectre",
       "BuddiesOfBudgie/budgie-desktop",
       "treeverse/lakeFS",
-      "AnalyticalGraphicsInc/gltf-vscode"
+      "AnalyticalGraphicsInc/gltf-vscode",
+      "mlcommons/mlperf_client"
     ]
 
     git_repos_chromium_googlesource = [
