@@ -1301,7 +1301,8 @@ class QuantumsandLive
       "SpaceExplorationTechnologies/linux",
       "SpaceExplorationTechnologies/enterprise-api",
       "SpaceExplorationTechnologies/u-boot",
-      "SpaceExplorationTechnologies/starlink-wifi-gen2"
+      "SpaceExplorationTechnologies/starlink-wifi-gen2",
+      "SpaceExplorationTechnologies/starlink-wifi"
     ]
 
     git_repos_chromium_googlesource = [
