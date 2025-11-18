@@ -1307,7 +1307,8 @@ class QuantumsandLive
       "SpaceExplorationTechnologies/linuxptp",
       "walkamongus/sssd",
       "openwrt/openwrt",
-      "cockpit-project/cockpit"
+      "cockpit-project/cockpit",
+      "bbenchoff/OrthoRoute"
     ]
 
     git_repos_chromium_googlesource = [
