@@ -1334,7 +1334,8 @@ class QuantumsandLive
       "vcrhonek/hwdata",
       "xsuchy/python-hwdata",
       "sailfishos-mirror/icu",
-      "sailfishos-mirror/ImageMagick6"
+      "sailfishos-mirror/ImageMagick6",
+      "ImageMagick/ImageMagick6"
     ]
 
     git_repos_chromium_googlesource = [
