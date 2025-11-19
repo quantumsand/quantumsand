@@ -1336,7 +1336,8 @@ class QuantumsandLive
       "sailfishos-mirror/icu",
       "sailfishos-mirror/ImageMagick6",
       "ImageMagick/ImageMagick6",
-      "ImageMagick/ImageMagick"
+      "ImageMagick/ImageMagick",
+      "sailfishos/initrd-helpers"
     ]
 
     git_repos_chromium_googlesource = [
