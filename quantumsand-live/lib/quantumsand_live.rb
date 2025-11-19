@@ -1326,7 +1326,8 @@ class QuantumsandLive
       "unicode-org/icu4x",
       "sailfishos-mirror/help2man",
       "sailfishos-mirror/htop",
-      "aristocratos/btop"
+      "aristocratos/btop",
+      "sailfishos/hunspell"
     ]
 
     git_repos_chromium_googlesource = [
