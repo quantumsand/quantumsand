@@ -1323,7 +1323,8 @@ class QuantumsandLive
       "harfbuzz/harfbuzz",
       "hpjansson/chafa",
       "unicode-org/icu",
-      "unicode-org/icu4x"
+      "unicode-org/icu4x",
+      "sailfishos-mirror/help2man"
     ]
 
     git_repos_chromium_googlesource = [
