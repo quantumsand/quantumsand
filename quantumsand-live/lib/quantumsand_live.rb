@@ -1633,7 +1633,8 @@ class QuantumsandLive
       "GNOME/grilo-plugins",
       "GNOME/gssdp",
       "GNOME/gupnp",
-      "GNOME/gupnp-av"
+      "GNOME/gupnp-av",
+      "GNOME/gupnp-dlna"
     ]
 
     git_repos_postgresql_org = [
