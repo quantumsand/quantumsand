@@ -1318,7 +1318,8 @@ class QuantumsandLive
       "sailfishos-mirror/gupnp",
       "sailfishos-mirror/gupnp-av",
       "sailfishos-mirror/gupnp-dlna",
-      "sailfishos/gzip"
+      "sailfishos/gzip",
+      "sailfishos-mirror/harfbuzz"
     ]
 
     git_repos_chromium_googlesource = [
