@@ -1629,7 +1629,8 @@ class QuantumsandLive
       "GNOME/gobject-introspection-tests",
       "GNOME/grilo",
       "GNOME/grilo-plugins",
-      "GNOME/gssdp"
+      "GNOME/gssdp",
+      "GNOME/gupnp"
     ]
 
     git_repos_postgresql_org = [
