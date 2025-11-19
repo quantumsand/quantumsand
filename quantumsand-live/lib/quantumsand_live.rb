@@ -1390,7 +1390,8 @@ class QuantumsandLive
       "gettext",
       "gperf",
       "grep",
-      "groff"
+      "groff",
+      "gzip"
     ]
 
     git_repos_gnu_org_ua = [
