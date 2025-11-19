@@ -1324,7 +1324,8 @@ class QuantumsandLive
       "hpjansson/chafa",
       "unicode-org/icu",
       "unicode-org/icu4x",
-      "sailfishos-mirror/help2man"
+      "sailfishos-mirror/help2man",
+      "sailfishos-mirror/htop"
     ]
 
     git_repos_chromium_googlesource = [
