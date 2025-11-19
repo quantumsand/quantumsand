@@ -1332,7 +1332,8 @@ class QuantumsandLive
       "sailfishos/hw-ramdisk",
       "sailfishos-mirror/hwdata",
       "vcrhonek/hwdata",
-      "xsuchy/python-hwdata"
+      "xsuchy/python-hwdata",
+      "sailfishos-mirror/icu"
     ]
 
     git_repos_chromium_googlesource = [
