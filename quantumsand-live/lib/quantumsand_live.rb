@@ -1807,6 +1807,10 @@ class QuantumsandLive
       "linuxptp/code"
     ]
 
+    git_repos_salsa_debian_org = [
+      "bod/help2man"
+    ]
+
     fossil_repos_sqlite_org = [
       "src"
     ]
