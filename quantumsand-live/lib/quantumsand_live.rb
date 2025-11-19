@@ -1330,7 +1330,8 @@ class QuantumsandLive
       "chromium/src",
       "v8/v8",
       "chromium/tools/chrome-devtools-frontend",
-      "chromium/tools/chromium-build"
+      "chromium/tools/chromium-build",
+      "webm/libwebp"
     ]
 
     git_repos_gn_googlesource = [
