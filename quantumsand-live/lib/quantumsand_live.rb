@@ -1329,7 +1329,8 @@ class QuantumsandLive
       "aristocratos/btop",
       "sailfishos-mirror/hunspell",
       "hunspell/hunspell",
-      "sailfishos/hw-ramdisk"
+      "sailfishos/hw-ramdisk",
+      "sailfishos-mirror/hwdata"
     ]
 
     git_repos_chromium_googlesource = [
