@@ -1860,7 +1860,8 @@ class QuantumsandLive
       "sys-apps/busybox",
       "dev-libs/gmp",
       "sys-apps/help2man",
-      "sys-process/btop"
+      "sys-process/btop",
+      "sys-process/htop"
     ]
 
     eselect_repository_add = {
