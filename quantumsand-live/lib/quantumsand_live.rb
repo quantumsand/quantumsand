@@ -1330,7 +1330,8 @@ class QuantumsandLive
       "sailfishos-mirror/hunspell",
       "hunspell/hunspell",
       "sailfishos/hw-ramdisk",
-      "sailfishos-mirror/hwdata"
+      "sailfishos-mirror/hwdata",
+      "vcrhonek/hwdata"
     ]
 
     git_repos_chromium_googlesource = [
