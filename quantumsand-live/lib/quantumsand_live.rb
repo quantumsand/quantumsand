@@ -1312,7 +1312,8 @@ class QuantumsandLive
       "sailfishos/gst-colorconv",
       "sailfishos/gst-droid",
       "sailfishos/gst-droidcamsrc",
-      "sailfishos/gst-jolla"
+      "sailfishos/gst-jolla",
+      "sailfishos-mirror/gstreamer"
     ]
 
     git_repos_chromium_googlesource = [
