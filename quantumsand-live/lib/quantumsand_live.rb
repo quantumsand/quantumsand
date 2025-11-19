@@ -1859,7 +1859,8 @@ class QuantumsandLive
       "media-video/handbrake",
       "sys-apps/busybox",
       "dev-libs/gmp",
-      "sys-apps/help2man"
+      "sys-apps/help2man",
+      "sys-process/btop"
     ]
 
     eselect_repository_add = {
