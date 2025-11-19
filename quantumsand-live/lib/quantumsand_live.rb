@@ -1331,7 +1331,8 @@ class QuantumsandLive
       "hunspell/hunspell",
       "sailfishos/hw-ramdisk",
       "sailfishos-mirror/hwdata",
-      "vcrhonek/hwdata"
+      "vcrhonek/hwdata",
+      "xsuchy/python-hwdata"
     ]
 
     git_repos_chromium_googlesource = [
