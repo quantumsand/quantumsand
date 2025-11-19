@@ -1310,7 +1310,8 @@ class QuantumsandLive
       "cockpit-project/cockpit",
       "bbenchoff/OrthoRoute",
       "sailfishos/gst-colorconv",
-      "sailfishos/gst-droid"
+      "sailfishos/gst-droid",
+      "sailfishos/gst-droidcamsrc"
     ]
 
     git_repos_chromium_googlesource = [
