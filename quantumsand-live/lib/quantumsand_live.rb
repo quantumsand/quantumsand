@@ -1311,7 +1311,8 @@ class QuantumsandLive
       "bbenchoff/OrthoRoute",
       "sailfishos/gst-colorconv",
       "sailfishos/gst-droid",
-      "sailfishos/gst-droidcamsrc"
+      "sailfishos/gst-droidcamsrc",
+      "sailfishos/gst-jolla"
     ]
 
     git_repos_chromium_googlesource = [
