@@ -1309,7 +1309,8 @@ class QuantumsandLive
       "openwrt/openwrt",
       "cockpit-project/cockpit",
       "bbenchoff/OrthoRoute",
-      "sailfishos/gst-colorconv"
+      "sailfishos/gst-colorconv",
+      "sailfishos/gst-droid"
     ]
 
     git_repos_chromium_googlesource = [
