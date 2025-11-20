@@ -1357,7 +1357,8 @@ class QuantumsandLive
       "sailfishos-mirror/karchive",
       "sailfishos-mirror/kbd",
       "sailfishos/kbuild",
-      "sailfishos/kcalcore"
+      "sailfishos/kcalcore",
+      "sailfishos/kernel-adaptation-pc"
     ]
 
     git_repos_chromium_googlesource = [
