@@ -1340,7 +1340,8 @@ class QuantumsandLive
       "sailfishos/initrd-helpers",
       "sailfishos/input-event-daemon",
       "sailfishos/intltool",
-      "sailfishos-mirror/iotop-c"
+      "sailfishos-mirror/iotop-c",
+      "Tomas-M/iotop"
     ]
 
     git_repos_chromium_googlesource = [
