@@ -1737,7 +1737,8 @@ class QuantumsandLive
       "office/calligra",
       "frameworks/extra-cmake-modules",
       "frameworks/karchive",
-      "frameworks/kcalendarcore"
+      "frameworks/kcalendarcore",
+      "frameworks/bluez-qt"
     ]
 
     git_repos_ffmpeg_org = [
