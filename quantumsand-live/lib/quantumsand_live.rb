@@ -1680,7 +1680,8 @@ class QuantumsandLive
       "GNOME/gupnp",
       "GNOME/gupnp-av",
       "GNOME/gupnp-dlna",
-      "GNOME/librsvg"
+      "GNOME/librsvg",
+      "GNOME/json-glib"
     ]
 
     git_repos_postgresql_org = [
