@@ -1874,7 +1874,8 @@ class QuantumsandLive
       "dev-libs/gmp",
       "sys-apps/help2man",
       "sys-process/btop",
-      "sys-process/htop"
+      "sys-process/htop",
+      "dev-util/intltool"
     ]
 
     eselect_repository_add = {
