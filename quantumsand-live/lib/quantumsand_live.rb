@@ -1350,7 +1350,8 @@ class QuantumsandLive
       "sailfishos-mirror/iso-codes",
       "sailfishos-mirror/iw",
       "sailfishos/jolla-camera",
-      "sailfishos/jolla-notes"
+      "sailfishos/jolla-notes",
+      "sailfishos-mirror/json-c"
     ]
 
     git_repos_chromium_googlesource = [
