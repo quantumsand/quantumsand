@@ -1339,7 +1339,8 @@ class QuantumsandLive
       "ImageMagick/ImageMagick",
       "sailfishos/initrd-helpers",
       "sailfishos/input-event-daemon",
-      "sailfishos/intltool"
+      "sailfishos/intltool",
+      "sailfishos-mirror/iotop-c"
     ]
 
     git_repos_chromium_googlesource = [
