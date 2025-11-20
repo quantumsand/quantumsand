@@ -1343,7 +1343,8 @@ class QuantumsandLive
       "sailfishos-mirror/iotop-c",
       "Tomas-M/iotop",
       "Tomas-M/linux-live",
-      "sailfishos-mirror/iproute2"
+      "sailfishos-mirror/iproute2",
+      "sailfishos-mirror/iptables"
     ]
 
     git_repos_chromium_googlesource = [
