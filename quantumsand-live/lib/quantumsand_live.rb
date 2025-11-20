@@ -1390,7 +1390,8 @@ class QuantumsandLive
       "utils/dtc/dtc",
       "fs/ext2/e2fsprogs",
       "network/iproute2/iproute2",
-      "linux/kernel/git/jberg/iw"
+      "linux/kernel/git/jberg/iw",
+      "linux/kernel/git/legion/kbd"
     ]
 
     git_repos_isc_org_gitlab = [
