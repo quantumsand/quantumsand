@@ -1400,7 +1400,8 @@ class QuantumsandLive
       "linux/kernel/git/jberg/iw",
       "linux/kernel/git/legion/kbd",
       "linux/kernel/git/stable/linux",
-      "linux/kernel/git/dhowells/keyutils"
+      "linux/kernel/git/dhowells/keyutils",
+      "utils/kernel/kmod/kmod"
     ]
 
     git_repos_isc_org_gitlab = [
