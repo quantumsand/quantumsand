@@ -1719,7 +1719,8 @@ class QuantumsandLive
       "chrisn/peaksjs-react-example",
       "chrisn/waveform-data.js",
       "chrisn/audio_waveform-ruby",
-      "tenacityteam/tenacity"
+      "tenacityteam/tenacity",
+      "comaps/comaps"
     ]
 
     git_repos_kde_invent = [
