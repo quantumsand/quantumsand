@@ -1361,7 +1361,8 @@ class QuantumsandLive
       "sailfishos/kernel-adaptation-pc",
       "sailfishos-mirror/keyutils",
       "sailfishos-mirror/kcalendarcore",
-      "sailfishos-mirror/bluez-qt"
+      "sailfishos-mirror/bluez-qt",
+      "sailfishos-mirror/kmod"
     ]
 
     git_repos_chromium_googlesource = [
