@@ -1367,7 +1367,8 @@ class QuantumsandLive
       "sailfishos/lcms",
       "sailfishos-mirror/less",
       "gwsw/less",
-      "historicalsource/zork1"
+      "historicalsource/zork1",
+      "historicalsource/zork2"
     ]
 
     git_repos_chromium_googlesource = [
