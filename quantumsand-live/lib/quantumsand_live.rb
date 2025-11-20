@@ -1363,7 +1363,8 @@ class QuantumsandLive
       "sailfishos-mirror/kcalendarcore",
       "sailfishos-mirror/bluez-qt",
       "sailfishos-mirror/kmod",
-      "mm2/Little-CMS"
+      "mm2/Little-CMS",
+      "sailfishos/lcms"
     ]
 
     git_repos_chromium_googlesource = [
