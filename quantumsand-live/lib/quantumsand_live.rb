@@ -1396,7 +1396,8 @@ class QuantumsandLive
       "network/iproute2/iproute2",
       "linux/kernel/git/jberg/iw",
       "linux/kernel/git/legion/kbd",
-      "linux/kernel/git/stable/linux"
+      "linux/kernel/git/stable/linux",
+      "linux/kernel/git/dhowells/keyutils"
     ]
 
     git_repos_isc_org_gitlab = [
