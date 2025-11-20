@@ -1345,7 +1345,8 @@ class QuantumsandLive
       "Tomas-M/linux-live",
       "sailfishos-mirror/iproute2",
       "sailfishos-mirror/iptables",
-      "sailfishos/iputils"
+      "sailfishos/iputils",
+      "iputils/iputils"
     ]
 
     git_repos_chromium_googlesource = [
