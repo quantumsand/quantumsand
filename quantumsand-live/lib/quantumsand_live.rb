@@ -1365,7 +1365,8 @@ class QuantumsandLive
       "sailfishos-mirror/kmod",
       "mm2/Little-CMS",
       "sailfishos/lcms",
-      "sailfishos-mirror/less"
+      "sailfishos-mirror/less",
+      "gwsw/less"
     ]
 
     git_repos_chromium_googlesource = [
