@@ -1359,6 +1359,10 @@ class QuantumsandLive
       "gn"
     ]
 
+    git_repos_netfilter_org = [
+      "iptables"
+    ]
+
     git_repos_dev_gnupg_org = [
       "gnupg",
       "gpgme"
