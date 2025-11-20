@@ -1354,7 +1354,8 @@ class QuantumsandLive
       "sailfishos-mirror/json-c",
       "json-c/json-c",
       "sailfishos-mirror/json-glib",
-      "sailfishos-mirror/karchive"
+      "sailfishos-mirror/karchive",
+      "sailfishos-mirror/kbd"
     ]
 
     git_repos_chromium_googlesource = [
