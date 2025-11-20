@@ -1348,7 +1348,8 @@ class QuantumsandLive
       "sailfishos/iputils",
       "iputils/iputils",
       "sailfishos-mirror/iso-codes",
-      "sailfishos-mirror/iw"
+      "sailfishos-mirror/iw",
+      "sailfishos/jolla-camera"
     ]
 
     git_repos_chromium_googlesource = [
