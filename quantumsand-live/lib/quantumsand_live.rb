@@ -1372,7 +1372,8 @@ class QuantumsandLive
       "git/git",
       "network/connman/connman",
       "utils/dtc/dtc",
-      "fs/ext2/e2fsprogs"
+      "fs/ext2/e2fsprogs",
+      "network/iproute2/iproute2"
     ]
 
     git_repos_isc_org_gitlab = [
