@@ -1837,7 +1837,8 @@ class QuantumsandLive
     ]
 
     git_repos_salsa_debian_org = [
-      "bod/help2man"
+      "bod/help2man",
+      "iso-codes-team/iso-codes"
     ]
 
     fossil_repos_sqlite_org = [
