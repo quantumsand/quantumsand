@@ -1353,7 +1353,8 @@ class QuantumsandLive
       "sailfishos/jolla-notes",
       "sailfishos-mirror/json-c",
       "json-c/json-c",
-      "sailfishos-mirror/json-glib"
+      "sailfishos-mirror/json-glib",
+      "sailfishos-mirror/karchive"
     ]
 
     git_repos_chromium_googlesource = [
