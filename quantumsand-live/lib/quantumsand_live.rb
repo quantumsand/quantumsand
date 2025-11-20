@@ -1347,7 +1347,8 @@ class QuantumsandLive
       "sailfishos-mirror/iptables",
       "sailfishos/iputils",
       "iputils/iputils",
-      "sailfishos-mirror/iso-codes"
+      "sailfishos-mirror/iso-codes",
+      "sailfishos-mirror/iw"
     ]
 
     git_repos_chromium_googlesource = [
