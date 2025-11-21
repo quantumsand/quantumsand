@@ -1398,7 +1398,8 @@ class QuantumsandLive
       "Neurrone/rust-libaudioverse",
       "rust-lang/rust-bindgen",
       "rust-lang/rust",
-      "sailfishos/libaudioresource-qt"
+      "sailfishos/libaudioresource-qt",
+      "sailfishos-mirror/libblockdev"
     ]
 
     git_repos_chromium_googlesource = [
