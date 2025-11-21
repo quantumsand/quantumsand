@@ -1406,7 +1406,8 @@ class QuantumsandLive
       "storaged-project/blivet-gui",
       "storaged-project/libbytesize",
       "storaged-project/api-examples",
-      "sailfishos/libbluez-qt"
+      "sailfishos/libbluez-qt",
+      "JosephASG/codrops-cinematic-scroll-animations"
     ]
 
     git_repos_chromium_googlesource = [
