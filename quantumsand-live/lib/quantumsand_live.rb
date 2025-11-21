@@ -1397,7 +1397,8 @@ class QuantumsandLive
       "libaudioverse/audio_io",
       "Neurrone/rust-libaudioverse",
       "rust-lang/rust-bindgen",
-      "rust-lang/rust"
+      "rust-lang/rust",
+      "sailfishos/libaudioresource-qt"
     ]
 
     git_repos_chromium_googlesource = [
