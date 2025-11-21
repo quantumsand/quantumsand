@@ -1393,7 +1393,8 @@ class QuantumsandLive
       "libaudioverse/libaudioverse",
       "libaudioverse/powercores",
       "libaudioverse/logger_singleton",
-      "libaudioverse/speex_resampler_cpp"
+      "libaudioverse/speex_resampler_cpp",
+      "libaudioverse/audio_io"
     ]
 
     git_repos_chromium_googlesource = [
