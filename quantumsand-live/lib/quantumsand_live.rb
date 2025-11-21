@@ -1400,7 +1400,8 @@ class QuantumsandLive
       "rust-lang/rust",
       "sailfishos/libaudioresource-qt",
       "sailfishos-mirror/libblockdev",
-      "storaged-project/libblockdev"
+      "storaged-project/libblockdev",
+      "storaged-project/udisks"
     ]
 
     git_repos_chromium_googlesource = [
