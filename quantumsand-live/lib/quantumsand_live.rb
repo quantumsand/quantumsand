@@ -1395,7 +1395,8 @@ class QuantumsandLive
       "libaudioverse/logger_singleton",
       "libaudioverse/speex_resampler_cpp",
       "libaudioverse/audio_io",
-      "Neurrone/rust-libaudioverse"
+      "Neurrone/rust-libaudioverse",
+      "rust-lang/rust-bindgen"
     ]
 
     git_repos_chromium_googlesource = [
