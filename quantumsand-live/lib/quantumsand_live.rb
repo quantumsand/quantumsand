@@ -1402,7 +1402,8 @@ class QuantumsandLive
       "sailfishos-mirror/libblockdev",
       "storaged-project/libblockdev",
       "storaged-project/udisks",
-      "storaged-project/blivet"
+      "storaged-project/blivet",
+      "storaged-project/blivet-gui"
     ]
 
     git_repos_chromium_googlesource = [
