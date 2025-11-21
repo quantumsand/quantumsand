@@ -1371,7 +1371,8 @@ class QuantumsandLive
       "historicalsource/zork2",
       "historicalsource/zork3",
       "qtile/qtile",
-      "intel/compute-runtime"
+      "intel/compute-runtime",
+      "au-ts/lionsos"
     ]
 
     git_repos_chromium_googlesource = [
