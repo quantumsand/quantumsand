@@ -1375,7 +1375,8 @@ class QuantumsandLive
       "au-ts/lionsos",
       "seL4/microkit",
       "seL4/seL4",
-      "latex3/latex3"
+      "latex3/latex3",
+      "sailfishos-mirror/libaccounts-glib"
     ]
 
     git_repos_chromium_googlesource = [
