@@ -1396,7 +1396,8 @@ class QuantumsandLive
       "libaudioverse/speex_resampler_cpp",
       "libaudioverse/audio_io",
       "Neurrone/rust-libaudioverse",
-      "rust-lang/rust-bindgen"
+      "rust-lang/rust-bindgen",
+      "rust-lang/rust"
     ]
 
     git_repos_chromium_googlesource = [
