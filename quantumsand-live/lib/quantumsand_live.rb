@@ -1386,7 +1386,8 @@ class QuantumsandLive
       "sailfishos-mirror/libatomic_ops",
       "bdwgc/libatomic_ops",
       "gazay/gon",
-      "furunkel/zig.rb"
+      "furunkel/zig.rb",
+      "rkrage/pg_party"
     ]
 
     git_repos_chromium_googlesource = [
