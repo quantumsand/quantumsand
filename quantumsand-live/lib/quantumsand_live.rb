@@ -1373,7 +1373,8 @@ class QuantumsandLive
       "qtile/qtile",
       "intel/compute-runtime",
       "au-ts/lionsos",
-      "seL4/microkit"
+      "seL4/microkit",
+      "seL4/seL4"
     ]
 
     git_repos_chromium_googlesource = [
