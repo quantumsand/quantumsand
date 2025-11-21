@@ -1388,7 +1388,8 @@ class QuantumsandLive
       "gazay/gon",
       "furunkel/zig.rb",
       "rkrage/pg_party",
-      "latex3/latex2e"
+      "latex3/latex2e",
+      "sailfishos/libaudioresource"
     ]
 
     git_repos_chromium_googlesource = [
