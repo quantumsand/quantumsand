@@ -1405,7 +1405,8 @@ class QuantumsandLive
       "storaged-project/blivet",
       "storaged-project/blivet-gui",
       "storaged-project/libbytesize",
-      "storaged-project/api-examples"
+      "storaged-project/api-examples",
+      "sailfishos/libbluez-qt"
     ]
 
     git_repos_chromium_googlesource = [
