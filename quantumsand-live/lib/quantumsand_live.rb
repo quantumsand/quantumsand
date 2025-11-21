@@ -1384,7 +1384,8 @@ class QuantumsandLive
       "sailfishos/libassuan",
       "sailfishos/libasyncns",
       "sailfishos-mirror/libatomic_ops",
-      "bdwgc/libatomic_ops"
+      "bdwgc/libatomic_ops",
+      "gazay/gon"
     ]
 
     git_repos_chromium_googlesource = [
