@@ -1383,7 +1383,8 @@ class QuantumsandLive
       "libarchive/libarchive",
       "sailfishos/libassuan",
       "sailfishos/libasyncns",
-      "sailfishos-mirror/libatomic_ops"
+      "sailfishos-mirror/libatomic_ops",
+      "bdwgc/libatomic_ops"
     ]
 
     git_repos_chromium_googlesource = [
