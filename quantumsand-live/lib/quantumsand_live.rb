@@ -1403,7 +1403,8 @@ class QuantumsandLive
       "storaged-project/libblockdev",
       "storaged-project/udisks",
       "storaged-project/blivet",
-      "storaged-project/blivet-gui"
+      "storaged-project/blivet-gui",
+      "storaged-project/libbytesize"
     ]
 
     git_repos_chromium_googlesource = [
