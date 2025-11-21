@@ -1408,7 +1408,8 @@ class QuantumsandLive
       "storaged-project/api-examples",
       "sailfishos/libbluez-qt",
       "JosephASG/codrops-cinematic-scroll-animations",
-      "plotly/plotly.js"
+      "plotly/plotly.js",
+      "plotly/plotly.py"
     ]
 
     git_repos_chromium_googlesource = [
