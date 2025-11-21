@@ -1380,7 +1380,8 @@ class QuantumsandLive
       "sailfishos-mirror/libaccounts-qt",
       "sailfishos-mirror/libaio",
       "sailfishos-mirror/libarchive",
-      "libarchive/libarchive"
+      "libarchive/libarchive",
+      "sailfishos/libassuan"
     ]
 
     git_repos_chromium_googlesource = [
