@@ -1520,7 +1520,8 @@ class QuantumsandLive
       "gnutls/gnutls",
       "gnutls/cavs",
       "gnutls/libtasn1",
-      "libtiff/libtiff"
+      "libtiff/libtiff",
+      "accounts-sso/libaccounts-glib"
     ]
 
     git_repos_freedesktop_gitlab = [
