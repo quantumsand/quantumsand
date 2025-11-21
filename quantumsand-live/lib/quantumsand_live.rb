@@ -1390,7 +1390,8 @@ class QuantumsandLive
       "rkrage/pg_party",
       "latex3/latex2e",
       "sailfishos/libaudioresource",
-      "libaudioverse/libaudioverse"
+      "libaudioverse/libaudioverse",
+      "libaudioverse/powercores"
     ]
 
     git_repos_chromium_googlesource = [
