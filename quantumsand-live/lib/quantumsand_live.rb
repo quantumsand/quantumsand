@@ -1391,7 +1391,8 @@ class QuantumsandLive
       "latex3/latex2e",
       "sailfishos/libaudioresource",
       "libaudioverse/libaudioverse",
-      "libaudioverse/powercores"
+      "libaudioverse/powercores",
+      "libaudioverse/logger_singleton"
     ]
 
     git_repos_chromium_googlesource = [
