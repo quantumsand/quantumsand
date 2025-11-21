@@ -1387,7 +1387,8 @@ class QuantumsandLive
       "bdwgc/libatomic_ops",
       "gazay/gon",
       "furunkel/zig.rb",
-      "rkrage/pg_party"
+      "rkrage/pg_party",
+      "latex3/latex2e"
     ]
 
     git_repos_chromium_googlesource = [
