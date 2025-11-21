@@ -1392,7 +1392,8 @@ class QuantumsandLive
       "sailfishos/libaudioresource",
       "libaudioverse/libaudioverse",
       "libaudioverse/powercores",
-      "libaudioverse/logger_singleton"
+      "libaudioverse/logger_singleton",
+      "libaudioverse/speex_resampler_cpp"
     ]
 
     git_repos_chromium_googlesource = [
