@@ -1393,6 +1393,10 @@ class QuantumsandLive
       "gn"
     ]
 
+    git_repos_pagure_io = [
+      "libaio"
+    ]
+
     git_repos_netfilter_org = [
       "iptables"
     ]
