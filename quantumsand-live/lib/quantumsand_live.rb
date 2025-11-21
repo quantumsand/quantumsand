@@ -1400,6 +1400,10 @@ class QuantumsandLive
       "libaio"
     ]
 
+    git_repos_0pointer_de = [
+      "libasyncns"
+    ]
+
     git_repos_netfilter_org = [
       "iptables"
     ]
