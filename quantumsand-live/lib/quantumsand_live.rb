@@ -1369,7 +1369,8 @@ class QuantumsandLive
       "gwsw/less",
       "historicalsource/zork1",
       "historicalsource/zork2",
-      "historicalsource/zork3"
+      "historicalsource/zork3",
+      "qtile/qtile"
     ]
 
     git_repos_chromium_googlesource = [
