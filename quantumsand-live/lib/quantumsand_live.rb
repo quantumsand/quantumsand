@@ -1378,7 +1378,8 @@ class QuantumsandLive
       "latex3/latex3",
       "sailfishos-mirror/libaccounts-glib",
       "sailfishos-mirror/libaccounts-qt",
-      "sailfishos-mirror/libaio"
+      "sailfishos-mirror/libaio",
+      "sailfishos-mirror/libarchive"
     ]
 
     git_repos_chromium_googlesource = [
