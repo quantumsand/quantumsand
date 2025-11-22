@@ -1802,7 +1802,8 @@ class QuantumsandLive
       "frameworks/extra-cmake-modules",
       "frameworks/karchive",
       "frameworks/kcalendarcore",
-      "frameworks/bluez-qt"
+      "frameworks/bluez-qt",
+      "plasma/plasma-mobile"
     ]
 
     git_repos_ffmpeg_org = [
