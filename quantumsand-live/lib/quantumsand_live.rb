@@ -1410,7 +1410,8 @@ class QuantumsandLive
       "JosephASG/codrops-cinematic-scroll-animations",
       "plotly/plotly.js",
       "plotly/plotly.py",
-      "plotly/plotly.R"
+      "plotly/plotly.R",
+      "qdrant/qdrant"
     ]
 
     git_repos_chromium_googlesource = [
