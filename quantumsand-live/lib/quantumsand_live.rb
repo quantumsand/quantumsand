@@ -1412,7 +1412,8 @@ class QuantumsandLive
       "plotly/plotly.py",
       "plotly/plotly.R",
       "qdrant/qdrant",
-      "libjxl/jxl-rs"
+      "libjxl/jxl-rs",
+      "libjxl/libjxl"
     ]
 
     git_repos_chromium_googlesource = [
