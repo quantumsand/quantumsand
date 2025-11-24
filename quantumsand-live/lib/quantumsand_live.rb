@@ -1443,7 +1443,8 @@ class QuantumsandLive
       "vesoft-inc/nebula-cpp",
       "facebook/fbthrift",
       "vesoft-inc/nebula-http-gateway",
-      "vesoft-inc/nebula-dashboard"
+      "vesoft-inc/nebula-dashboard",
+      "vesoft-inc/nebula-br"
     ]
 
     git_repos_chromium_googlesource = [
