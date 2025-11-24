@@ -1429,7 +1429,8 @@ class QuantumsandLive
       "sailfishos/libdbuslog",
       "sailfishos/libdmx",
       "sailfishos/libdres-ohm",
-      "sailfishos-mirror/drm"
+      "sailfishos-mirror/drm",
+      "sailfishos/libdsme"
     ]
 
     git_repos_chromium_googlesource = [
