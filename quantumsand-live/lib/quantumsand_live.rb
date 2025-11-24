@@ -1432,7 +1432,8 @@ class QuantumsandLive
       "sailfishos-mirror/drm",
       "sailfishos/libdsme",
       "sailfishos/libedit",
-      "root-project/root"
+      "root-project/root",
+      "Project-OSS-Revival/enca"
     ]
 
     git_repos_chromium_googlesource = [
