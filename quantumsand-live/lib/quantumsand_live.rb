@@ -1457,7 +1457,8 @@ class QuantumsandLive
       "libexif/gexif",
       "gphoto/gphoto2",
       "gphoto/libgphoto2",
-      "jim-easterbrook/python-gphoto2"
+      "jim-easterbrook/python-gphoto2",
+      "jim-easterbrook/python-exiv2"
     ]
 
     git_repos_chromium_googlesource = [
