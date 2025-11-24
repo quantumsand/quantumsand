@@ -1453,7 +1453,8 @@ class QuantumsandLive
       "libevent/libevent",
       "sailfishos-mirror/libexif",
       "libexif/libexif",
-      "libexif/exif"
+      "libexif/exif",
+      "libexif/gexif"
     ]
 
     git_repos_chromium_googlesource = [
