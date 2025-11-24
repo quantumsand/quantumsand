@@ -1434,7 +1434,8 @@ class QuantumsandLive
       "sailfishos/libedit",
       "root-project/root",
       "Project-OSS-Revival/enca",
-      "vesoft-inc/nebula"
+      "vesoft-inc/nebula",
+      "vesoft-inc/nebula-docs"
     ]
 
     git_repos_chromium_googlesource = [
