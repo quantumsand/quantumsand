@@ -1413,7 +1413,8 @@ class QuantumsandLive
       "plotly/plotly.R",
       "qdrant/qdrant",
       "libjxl/jxl-rs",
-      "libjxl/libjxl"
+      "libjxl/libjxl",
+      "sailfishos-mirror/libcanberra"
     ]
 
     git_repos_chromium_googlesource = [
