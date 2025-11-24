@@ -1420,7 +1420,8 @@ class QuantumsandLive
       "stevegrubb/libcap-ng",
       "sailfishos-mirror/libcgroup",
       "sailfishos/libcommhistory",
-      "sailfishos/libconnman-qt"
+      "sailfishos/libconnman-qt",
+      "sailfishos/libcontacts"
     ]
 
     git_repos_chromium_googlesource = [
