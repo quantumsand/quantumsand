@@ -1451,7 +1451,8 @@ class QuantumsandLive
       "sailfishos/liberation-fonts",
       "sailfishos/libev",
       "libevent/libevent",
-      "sailfishos-mirror/libexif"
+      "sailfishos-mirror/libexif",
+      "libexif/libexif"
     ]
 
     git_repos_chromium_googlesource = [
