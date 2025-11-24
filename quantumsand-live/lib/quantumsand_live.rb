@@ -1461,7 +1461,8 @@ class QuantumsandLive
       "jim-easterbrook/python-exiv2",
       "Exiv2/exiv2",
       "swig/swig",
-      "jim-easterbrook/Photini"
+      "jim-easterbrook/Photini",
+      "jim-easterbrook/pyctools-pal"
     ]
 
     git_repos_chromium_googlesource = [
