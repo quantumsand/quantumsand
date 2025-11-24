@@ -1433,7 +1433,8 @@ class QuantumsandLive
       "sailfishos/libdsme",
       "sailfishos/libedit",
       "root-project/root",
-      "Project-OSS-Revival/enca"
+      "Project-OSS-Revival/enca",
+      "vesoft-inc/nebula"
     ]
 
     git_repos_chromium_googlesource = [
