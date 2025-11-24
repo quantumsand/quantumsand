@@ -1425,7 +1425,8 @@ class QuantumsandLive
       "sailfishos/libcontentaction",
       "sailfishos/libcreds3",
       "sailfishos-mirror/libcroco",
-      "sailfishos/libdbusaccess"
+      "sailfishos/libdbusaccess",
+      "sailfishos/libdbuslog"
     ]
 
     git_repos_chromium_googlesource = [
