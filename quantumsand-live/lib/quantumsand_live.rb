@@ -1464,7 +1464,8 @@ class QuantumsandLive
       "jim-easterbrook/Photini",
       "jim-easterbrook/pyctools-pal",
       "jim-easterbrook/pyctools",
-      "jim-easterbrook/pywws"
+      "jim-easterbrook/pywws",
+      "KhronosGroup/Vulkan-Site"
     ]
 
     git_repos_chromium_googlesource = [
