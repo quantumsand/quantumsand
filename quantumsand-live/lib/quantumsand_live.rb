@@ -1463,7 +1463,8 @@ class QuantumsandLive
       "linux/kernel/git/legion/kbd",
       "linux/kernel/git/stable/linux",
       "linux/kernel/git/dhowells/keyutils",
-      "utils/kernel/kmod/kmod"
+      "utils/kernel/kmod/kmod",
+      "libs/libcap/libcap"
     ]
 
     git_repos_isc_org_gitlab = [
