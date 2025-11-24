@@ -1454,7 +1454,8 @@ class QuantumsandLive
       "sailfishos-mirror/libexif",
       "libexif/libexif",
       "libexif/exif",
-      "libexif/gexif"
+      "libexif/gexif",
+      "gphoto/gphoto2"
     ]
 
     git_repos_chromium_googlesource = [
