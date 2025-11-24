@@ -1423,7 +1423,8 @@ class QuantumsandLive
       "sailfishos/libconnman-qt",
       "sailfishos/libcontacts",
       "sailfishos/libcontentaction",
-      "sailfishos/libcreds3"
+      "sailfishos/libcreds3",
+      "sailfishos-mirror/libcroco"
     ]
 
     git_repos_chromium_googlesource = [
