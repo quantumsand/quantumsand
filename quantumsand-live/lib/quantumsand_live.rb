@@ -1781,7 +1781,8 @@ class QuantumsandLive
       "chrisn/waveform-data.js",
       "chrisn/audio_waveform-ruby",
       "tenacityteam/tenacity",
-      "comaps/comaps"
+      "comaps/comaps",
+      "microcad/microcad"
     ]
 
     git_repos_kde_invent = [
