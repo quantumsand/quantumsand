@@ -1430,7 +1430,8 @@ class QuantumsandLive
       "sailfishos/libdmx",
       "sailfishos/libdres-ohm",
       "sailfishos-mirror/drm",
-      "sailfishos/libdsme"
+      "sailfishos/libdsme",
+      "sailfishos/libedit"
     ]
 
     git_repos_chromium_googlesource = [
