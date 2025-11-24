@@ -1466,7 +1466,8 @@ class QuantumsandLive
       "jim-easterbrook/pyctools",
       "jim-easterbrook/pywws",
       "KhronosGroup/Vulkan-Site",
-      "KhronosGroup/antora-ui-khronos"
+      "KhronosGroup/antora-ui-khronos",
+      "gulpjs/gulp"
     ]
 
     git_repos_chromium_googlesource = [
