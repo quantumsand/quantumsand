@@ -1446,7 +1446,8 @@ class QuantumsandLive
       "vesoft-inc/nebula-dashboard",
       "vesoft-inc/nebula-br",
       "vesoft-inc/nebula-rust",
-      "rockset/rocksdb-cloud"
+      "rockset/rocksdb-cloud",
+      "facebook/rocksdb"
     ]
 
     git_repos_chromium_googlesource = [
