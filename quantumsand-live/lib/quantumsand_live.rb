@@ -1851,7 +1851,8 @@ class QuantumsandLive
       "frameworks/kcalendarcore",
       "frameworks/bluez-qt",
       "plasma/plasma-mobile",
-      "plasma/plasma-nano"
+      "plasma/plasma-nano",
+      "graphics/digikam"
     ]
 
     git_repos_ffmpeg_org = [
