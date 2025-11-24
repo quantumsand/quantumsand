@@ -1930,7 +1930,8 @@ class QuantumsandLive
       "gnuplot/gnuplot-main",
       "maxima/code",
       "giflib/code",
-      "linuxptp/code"
+      "linuxptp/code",
+      "libcg/libcg"
     ]
 
     git_repos_salsa_debian_org = [
