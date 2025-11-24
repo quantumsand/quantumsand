@@ -1437,7 +1437,8 @@ class QuantumsandLive
       "vesoft-inc/nebula",
       "vesoft-inc/nebula-docs",
       "vesoft-inc/nebula-operator",
-      "vesoft-inc/nebula-python"
+      "vesoft-inc/nebula-python",
+      "vesoft-inc/nebula-importer"
     ]
 
     git_repos_chromium_googlesource = [
