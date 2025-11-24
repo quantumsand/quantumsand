@@ -1421,7 +1421,8 @@ class QuantumsandLive
       "sailfishos-mirror/libcgroup",
       "sailfishos/libcommhistory",
       "sailfishos/libconnman-qt",
-      "sailfishos/libcontacts"
+      "sailfishos/libcontacts",
+      "sailfishos/libcontentaction"
     ]
 
     git_repos_chromium_googlesource = [
