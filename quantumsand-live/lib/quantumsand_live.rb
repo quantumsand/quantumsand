@@ -1416,7 +1416,8 @@ class QuantumsandLive
       "libjxl/libjxl",
       "sailfishos-mirror/libcanberra",
       "sailfishos-mirror/libcap",
-      "sailfishos-mirror/libcap-ng"
+      "sailfishos-mirror/libcap-ng",
+      "stevegrubb/libcap-ng"
     ]
 
     git_repos_chromium_googlesource = [
