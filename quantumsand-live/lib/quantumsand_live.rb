@@ -1447,7 +1447,8 @@ class QuantumsandLive
       "vesoft-inc/nebula-br",
       "vesoft-inc/nebula-rust",
       "rockset/rocksdb-cloud",
-      "facebook/rocksdb"
+      "facebook/rocksdb",
+      "sailfishos/liberation-fonts"
     ]
 
     git_repos_chromium_googlesource = [
