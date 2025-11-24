@@ -1449,7 +1449,8 @@ class QuantumsandLive
       "rockset/rocksdb-cloud",
       "facebook/rocksdb",
       "sailfishos/liberation-fonts",
-      "sailfishos/libev"
+      "sailfishos/libev",
+      "libevent/libevent"
     ]
 
     git_repos_chromium_googlesource = [
