@@ -1468,7 +1468,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Site",
       "KhronosGroup/antora-ui-khronos",
       "gulpjs/gulp",
-      "Zaczero/osm-shortlink"
+      "Zaczero/osm-shortlink",
+      "dkuku/osm_shortlink"
     ]
 
     git_repos_chromium_googlesource = [
