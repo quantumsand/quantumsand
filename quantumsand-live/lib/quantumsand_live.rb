@@ -1471,7 +1471,8 @@ class QuantumsandLive
       "Zaczero/osm-shortlink",
       "dkuku/osm_shortlink",
       "stefanb/osmshortlink-go",
-      "openstreetmap-ng/openstreetmap-ng"
+      "openstreetmap-ng/openstreetmap-ng",
+      "openstreetmap/openstreetmap-website"
     ]
 
     git_repos_chromium_googlesource = [
