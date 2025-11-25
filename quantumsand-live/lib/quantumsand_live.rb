@@ -1469,7 +1469,8 @@ class QuantumsandLive
       "KhronosGroup/antora-ui-khronos",
       "gulpjs/gulp",
       "Zaczero/osm-shortlink",
-      "dkuku/osm_shortlink"
+      "dkuku/osm_shortlink",
+      "stefanb/osmshortlink-go"
     ]
 
     git_repos_chromium_googlesource = [
