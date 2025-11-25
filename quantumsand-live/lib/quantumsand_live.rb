@@ -1470,7 +1470,8 @@ class QuantumsandLive
       "gulpjs/gulp",
       "Zaczero/osm-shortlink",
       "dkuku/osm_shortlink",
-      "stefanb/osmshortlink-go"
+      "stefanb/osmshortlink-go",
+      "openstreetmap-ng/openstreetmap-ng"
     ]
 
     git_repos_chromium_googlesource = [
