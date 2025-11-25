@@ -1467,7 +1467,8 @@ class QuantumsandLive
       "jim-easterbrook/pywws",
       "KhronosGroup/Vulkan-Site",
       "KhronosGroup/antora-ui-khronos",
-      "gulpjs/gulp"
+      "gulpjs/gulp",
+      "Zaczero/osm-shortlink"
     ]
 
     git_repos_chromium_googlesource = [
