@@ -2047,6 +2047,10 @@ class QuantumsandLive
       "sdcc/code/trunk"
     ]
 
+    bazaar_repos_code_launchpad_net = [
+      "pyopengl"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
