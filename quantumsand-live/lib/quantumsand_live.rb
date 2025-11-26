@@ -1540,7 +1540,8 @@ class QuantumsandLive
     ]
 
     git_xet_hf_download_huggingface_co = [
-      "opencv/qrcode_wechatqrcode"
+      "opencv/qrcode_wechatqrcode",
+      "miromind-ai/MiroThinker-v1.0-8B"
     ]
 
     git_repos_pagure_io = [
