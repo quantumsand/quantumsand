@@ -1489,7 +1489,8 @@ class QuantumsandLive
       "opencv/jetson-screencasts-sources",
       "opencv/opencv-python",
       "opencv/opencv_benchmarks",
-      "opencv/opencv_contrib"
+      "opencv/opencv_contrib",
+      "opencv/opencv_extra"
     ]
 
     git_repos_chromium_googlesource = [
