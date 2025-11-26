@@ -1482,7 +1482,8 @@ class QuantumsandLive
       "paramiko/paramiko",
       "fabric/fabric",
       "fabric/patchwork",
-      "python-pillow/Pillow"
+      "python-pillow/Pillow",
+      "python-pillow/Sane"
     ]
 
     git_repos_chromium_googlesource = [
