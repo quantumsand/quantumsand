@@ -2088,7 +2088,8 @@ class QuantumsandLive
       "sys-process/btop",
       "sys-process/htop",
       "dev-util/intltool",
-      "dev-lang/lua"
+      "dev-lang/lua",
+      "dev-python/pyqt6"
     ]
 
     eselect_repository_add = {
