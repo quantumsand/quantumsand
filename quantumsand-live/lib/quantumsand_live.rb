@@ -2079,7 +2079,8 @@ class QuantumsandLive
       "sys-apps/help2man",
       "sys-process/btop",
       "sys-process/htop",
-      "dev-util/intltool"
+      "dev-util/intltool",
+      "dev-lang/lua"
     ]
 
     eselect_repository_add = {
