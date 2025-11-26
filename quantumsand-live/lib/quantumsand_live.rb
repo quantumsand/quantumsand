@@ -1485,7 +1485,8 @@ class QuantumsandLive
       "python-pillow/Pillow",
       "python-pillow/Sane",
       "opencv/opencv",
-      "opencv/ade"
+      "opencv/ade",
+      "opencv/jetson-screencasts-sources"
     ]
 
     git_repos_chromium_googlesource = [
