@@ -1518,7 +1518,8 @@ class QuantumsandLive
       "rolkar/x3f",
       "sailfishos-mirror/libffi",
       "libffi/libffi",
-      "sailfishos/libfontenc"
+      "sailfishos/libfontenc",
+      "sailfishos-mirror/libgcrypt"
     ]
 
     git_repos_chromium_googlesource = [
