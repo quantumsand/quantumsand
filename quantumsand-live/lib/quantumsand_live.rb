@@ -1491,7 +1491,8 @@ class QuantumsandLive
       "opencv/opencv_benchmarks",
       "opencv/opencv_contrib",
       "opencv/opencv_extra",
-      "opencv/opencv_zoo"
+      "opencv/opencv_zoo",
+      "glassechidna/zxing-cpp"
     ]
 
     git_repos_chromium_googlesource = [
