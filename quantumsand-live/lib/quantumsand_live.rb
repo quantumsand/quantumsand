@@ -1499,7 +1499,8 @@ class QuantumsandLive
       "photoshell/rawkit",
       "letmaik/rawpy",
       "LibRaw/LibRaw",
-      "LibRaw/LibRaw-cmake"
+      "LibRaw/LibRaw-cmake",
+      "darktable-org/rawspeed"
     ]
 
     git_repos_chromium_googlesource = [
