@@ -1477,7 +1477,8 @@ class QuantumsandLive
       "pyusb/pyusb",
       "vpelletier/python-libusb1",
       "linshuqin329/UPS-Lite",
-      "pimoroni/inky"
+      "pimoroni/inky",
+      "waveshareteam/e-Paper"
     ]
 
     git_repos_chromium_googlesource = [
