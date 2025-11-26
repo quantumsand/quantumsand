@@ -1490,7 +1490,8 @@ class QuantumsandLive
       "opencv/opencv-python",
       "opencv/opencv_benchmarks",
       "opencv/opencv_contrib",
-      "opencv/opencv_extra"
+      "opencv/opencv_extra",
+      "opencv/opencv_zoo"
     ]
 
     git_repos_chromium_googlesource = [
