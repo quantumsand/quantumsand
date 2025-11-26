@@ -1511,7 +1511,8 @@ class QuantumsandLive
       "darktable-org/camera-support",
       "darktable-org/rawspeed.rs",
       "darktable-org/rawspeed-clang-tidy-module",
-      "LibRaw/DOFCalc"
+      "LibRaw/DOFCalc",
+      "LibRaw/LibRaw-demosaic-pack-GPL2"
     ]
 
     git_repos_chromium_googlesource = [
