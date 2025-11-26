@@ -1503,7 +1503,8 @@ class QuantumsandLive
       "darktable-org/rawspeed",
       "darktable-org/darktable",
       "darktable-org/darktable-tests",
-      "darktable-org/lua-scripts"
+      "darktable-org/lua-scripts",
+      "darktable-org/dtdocs"
     ]
 
     git_repos_chromium_googlesource = [
