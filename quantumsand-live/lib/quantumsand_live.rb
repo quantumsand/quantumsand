@@ -1509,7 +1509,8 @@ class QuantumsandLive
       "darktable-org/luadocs",
       "Kozea/WeasyPrint",
       "darktable-org/camera-support",
-      "darktable-org/rawspeed.rs"
+      "darktable-org/rawspeed.rs",
+      "darktable-org/rawspeed-clang-tidy-module"
     ]
 
     git_repos_chromium_googlesource = [
