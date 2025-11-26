@@ -2098,12 +2098,16 @@ class QuantumsandLive
       "app-portage/layman"
     ]
 
-    eselect_repository_add = {
+    gentoo_eselect_repository_add = {
       cosmic_overlay: "https://github.com/fsvm88/cosmic-overlay.git"
     }
 
-    custom_overlay_emerge = [
+    gentoo_custom_overlay_emerge = [
       "cosmic-meta pop-theme-meta"
+    ]
+
+    gentoo_layman_add = [
+      "bazaar"
     ]
 
     # TODO: Create KDE deps directory and install kdesrc-build there
