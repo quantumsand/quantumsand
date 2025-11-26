@@ -1479,7 +1479,8 @@ class QuantumsandLive
       "linshuqin329/UPS-Lite",
       "pimoroni/inky",
       "waveshareteam/e-Paper",
-      "paramiko/paramiko"
+      "paramiko/paramiko",
+      "fabric/fabric"
     ]
 
     git_repos_chromium_googlesource = [
