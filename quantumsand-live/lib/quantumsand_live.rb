@@ -1517,7 +1517,8 @@ class QuantumsandLive
       "LibRaw/LibRaw-contrib",
       "rolkar/x3f",
       "sailfishos-mirror/libffi",
-      "libffi/libffi"
+      "libffi/libffi",
+      "sailfishos/libfontenc"
     ]
 
     git_repos_chromium_googlesource = [
