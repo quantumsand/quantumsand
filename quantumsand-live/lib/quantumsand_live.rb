@@ -1475,7 +1475,8 @@ class QuantumsandLive
       "openstreetmap/openstreetmap-website",
       "openstreetmap/iD",
       "pyusb/pyusb",
-      "vpelletier/python-libusb1"
+      "vpelletier/python-libusb1",
+      "linshuqin329/UPS-Lite"
     ]
 
     git_repos_chromium_googlesource = [
