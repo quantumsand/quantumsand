@@ -1496,7 +1496,8 @@ class QuantumsandLive
       "glassechidna/lastkeypair",
       "opencv/open_vision_capsules",
       "cython/cython",
-      "photoshell/rawkit"
+      "photoshell/rawkit",
+      "letmaik/rawpy"
     ]
 
     git_repos_chromium_googlesource = [
