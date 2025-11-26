@@ -1508,7 +1508,8 @@ class QuantumsandLive
       "gohugoio/hugo",
       "darktable-org/luadocs",
       "Kozea/WeasyPrint",
-      "darktable-org/camera-support"
+      "darktable-org/camera-support",
+      "darktable-org/rawspeed.rs"
     ]
 
     git_repos_chromium_googlesource = [
