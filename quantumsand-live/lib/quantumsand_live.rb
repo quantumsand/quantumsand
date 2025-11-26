@@ -1483,7 +1483,8 @@ class QuantumsandLive
       "fabric/fabric",
       "fabric/patchwork",
       "python-pillow/Pillow",
-      "python-pillow/Sane"
+      "python-pillow/Sane",
+      "opencv/opencv"
     ]
 
     git_repos_chromium_googlesource = [
