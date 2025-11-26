@@ -1478,7 +1478,8 @@ class QuantumsandLive
       "vpelletier/python-libusb1",
       "linshuqin329/UPS-Lite",
       "pimoroni/inky",
-      "waveshareteam/e-Paper"
+      "waveshareteam/e-Paper",
+      "paramiko/paramiko"
     ]
 
     git_repos_chromium_googlesource = [
