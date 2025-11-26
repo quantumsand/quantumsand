@@ -1502,7 +1502,8 @@ class QuantumsandLive
       "LibRaw/LibRaw-cmake",
       "darktable-org/rawspeed",
       "darktable-org/darktable",
-      "darktable-org/darktable-tests"
+      "darktable-org/darktable-tests",
+      "darktable-org/lua-scripts"
     ]
 
     git_repos_chromium_googlesource = [
