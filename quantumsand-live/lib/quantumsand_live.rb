@@ -1481,7 +1481,8 @@ class QuantumsandLive
       "waveshareteam/e-Paper",
       "paramiko/paramiko",
       "fabric/fabric",
-      "fabric/patchwork"
+      "fabric/patchwork",
+      "psf/requests"
     ]
 
     git_repos_chromium_googlesource = [
