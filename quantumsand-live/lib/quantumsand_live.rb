@@ -1516,7 +1516,8 @@ class QuantumsandLive
       "LibRaw/LibRaw-demosaic-pack-GPL3",
       "LibRaw/LibRaw-contrib",
       "rolkar/x3f",
-      "sailfishos-mirror/libffi"
+      "sailfishos-mirror/libffi",
+      "libffi/libffi"
     ]
 
     git_repos_chromium_googlesource = [
