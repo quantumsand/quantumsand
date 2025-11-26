@@ -1498,7 +1498,8 @@ class QuantumsandLive
       "cython/cython",
       "photoshell/rawkit",
       "letmaik/rawpy",
-      "LibRaw/LibRaw"
+      "LibRaw/LibRaw",
+      "LibRaw/LibRaw-cmake"
     ]
 
     git_repos_chromium_googlesource = [
