@@ -1553,7 +1553,8 @@ class QuantumsandLive
     git_repos_dev_gnupg_org = [
       "gnupg",
       "gpgme",
-      "libassuan"
+      "libassuan",
+      "libgcrypt"
     ]
 
     git_repos_code_qt_io = [
