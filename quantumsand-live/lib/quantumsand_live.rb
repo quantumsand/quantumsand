@@ -1519,7 +1519,8 @@ class QuantumsandLive
       "sailfishos-mirror/libffi",
       "libffi/libffi",
       "sailfishos/libfontenc",
-      "sailfishos-mirror/libgcrypt"
+      "sailfishos-mirror/libgcrypt",
+      "sailfishos-mirror/libgdata"
     ]
 
     git_repos_chromium_googlesource = [
