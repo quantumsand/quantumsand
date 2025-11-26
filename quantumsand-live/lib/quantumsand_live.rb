@@ -1522,7 +1522,8 @@ class QuantumsandLive
       "sailfishos-mirror/libgcrypt",
       "sailfishos-mirror/libgdata",
       "x42/liboauth",
-      "Ardour/ardour"
+      "Ardour/ardour",
+      "Qiskit/qiskit"
     ]
 
     git_repos_chromium_googlesource = [
