@@ -2048,7 +2048,8 @@ class QuantumsandLive
     ]
 
     bazaar_repos_code_launchpad_net = [
-      "pyopengl"
+      "pyopengl",
+      "bzr"
     ]
 
     gentoo_emerge_packages = [
