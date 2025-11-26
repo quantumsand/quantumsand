@@ -1508,6 +1508,10 @@ class QuantumsandLive
       "gn"
     ]
 
+    git_xet_hf_download_huggingface_co = [
+      "opencv/qrcode_wechatqrcode"
+    ]
+
     git_repos_pagure_io = [
       "libaio"
     ]
