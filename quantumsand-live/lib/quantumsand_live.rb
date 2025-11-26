@@ -1505,7 +1505,8 @@ class QuantumsandLive
       "darktable-org/darktable-tests",
       "darktable-org/lua-scripts",
       "darktable-org/dtdocs",
-      "gohugoio/hugo"
+      "gohugoio/hugo",
+      "darktable-org/luadocs"
     ]
 
     git_repos_chromium_googlesource = [
