@@ -1513,7 +1513,8 @@ class QuantumsandLive
       "darktable-org/rawspeed-clang-tidy-module",
       "LibRaw/DOFCalc",
       "LibRaw/LibRaw-demosaic-pack-GPL2",
-      "LibRaw/LibRaw-demosaic-pack-GPL3"
+      "LibRaw/LibRaw-demosaic-pack-GPL3",
+      "LibRaw/LibRaw-contrib"
     ]
 
     git_repos_chromium_googlesource = [
