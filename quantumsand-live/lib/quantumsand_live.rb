@@ -1514,7 +1514,8 @@ class QuantumsandLive
       "LibRaw/DOFCalc",
       "LibRaw/LibRaw-demosaic-pack-GPL2",
       "LibRaw/LibRaw-demosaic-pack-GPL3",
-      "LibRaw/LibRaw-contrib"
+      "LibRaw/LibRaw-contrib",
+      "rolkar/x3f"
     ]
 
     git_repos_chromium_googlesource = [
