@@ -1497,7 +1497,8 @@ class QuantumsandLive
       "opencv/open_vision_capsules",
       "cython/cython",
       "photoshell/rawkit",
-      "letmaik/rawpy"
+      "letmaik/rawpy",
+      "LibRaw/LibRaw"
     ]
 
     git_repos_chromium_googlesource = [
