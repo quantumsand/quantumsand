@@ -1473,7 +1473,8 @@ class QuantumsandLive
       "stefanb/osmshortlink-go",
       "openstreetmap-ng/openstreetmap-ng",
       "openstreetmap/openstreetmap-website",
-      "openstreetmap/iD"
+      "openstreetmap/iD",
+      "pyusb/pyusb"
     ]
 
     git_repos_chromium_googlesource = [
