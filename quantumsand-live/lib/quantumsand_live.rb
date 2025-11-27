@@ -1542,7 +1542,8 @@ class QuantumsandLive
       "gmgeo/osmic",
       "enzet/map-machine",
       "Leaflet/Leaflet",
-      "mapnik/mapnik"
+      "mapnik/mapnik",
+      "mapnik/test-data"
     ]
 
     git_repos_chromium_googlesource = [
