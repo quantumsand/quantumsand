@@ -1534,7 +1534,8 @@ class QuantumsandLive
       "MessagePack-CSharp/MessagePack-CSharp",
       "dotnet/aspire",
       "dotnet/docs",
-      "unicode-org/cldr-json"
+      "unicode-org/cldr-json",
+      "osmlab/editor-layer-index"
     ]
 
     git_repos_chromium_googlesource = [
