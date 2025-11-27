@@ -1553,7 +1553,8 @@ class QuantumsandLive
       "osmcode/pyosmium",
       "madler/zlib",
       "scikit-build/scikit-build-sample-projects",
-      "osmcode/osmcoastline"
+      "osmcode/osmcoastline",
+      "jgm/pandoc"
     ]
 
     git_repos_chromium_googlesource = [
