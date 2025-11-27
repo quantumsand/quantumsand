@@ -2164,7 +2164,8 @@ class QuantumsandLive
       "dev-db/spatialite",
       "dev-lang/ghc",
       "sys-apps/hdparm",
-      "sys-apps/nvme-cli"
+      "sys-apps/nvme-cli",
+      "sys-apps/coreutils"
     ]
 
     gentoo_eselect_repository_add = {
