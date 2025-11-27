@@ -1550,7 +1550,8 @@ class QuantumsandLive
       "mapbox/protozero",
       "osmcode/libosmium",
       "osmcode/osmium-tool",
-      "osmcode/pyosmium"
+      "osmcode/pyosmium",
+      "madler/zlib"
     ]
 
     git_repos_chromium_googlesource = [
