@@ -1538,7 +1538,8 @@ class QuantumsandLive
       "osmlab/editor-layer-index",
       "FortAwesome/Font-Awesome",
       "mapbox/maki",
-      "rapideditor/temaki"
+      "rapideditor/temaki",
+      "gmgeo/osmic"
     ]
 
     git_repos_chromium_googlesource = [
