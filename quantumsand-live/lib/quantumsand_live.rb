@@ -1561,7 +1561,8 @@ class QuantumsandLive
       "maplibre/demotiles",
       "openmaptiles/osm-bright-gl-style",
       "maplibre/maputnik",
-      "openmaptiles/positron-gl-style"
+      "openmaptiles/positron-gl-style",
+      "cypress-io/cypress"
     ]
 
     git_repos_chromium_googlesource = [
