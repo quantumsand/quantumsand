@@ -1540,7 +1540,8 @@ class QuantumsandLive
       "mapbox/maki",
       "rapideditor/temaki",
       "gmgeo/osmic",
-      "enzet/map-machine"
+      "enzet/map-machine",
+      "Leaflet/Leaflet"
     ]
 
     git_repos_chromium_googlesource = [
