@@ -1558,7 +1558,8 @@ class QuantumsandLive
       "osmcode/osmium-contrib",
       "osmcode/osm-testdata",
       "mapbox/mapbox-gl-native",
-      "maplibre/demotiles"
+      "maplibre/demotiles",
+      "openmaptiles/osm-bright-gl-style"
     ]
 
     git_repos_chromium_googlesource = [
