@@ -1556,7 +1556,8 @@ class QuantumsandLive
       "osmcode/osmcoastline",
       "jgm/pandoc",
       "osmcode/osmium-contrib",
-      "osmcode/osm-testdata"
+      "osmcode/osm-testdata",
+      "mapbox/mapbox-gl-native"
     ]
 
     git_repos_chromium_googlesource = [
