@@ -1568,7 +1568,8 @@ class QuantumsandLive
       "tukaani-project/xz",
       "tukaani-project/xz-embedded",
       "rails/action_push_native",
-      "SaschaWillems/Vulkan"
+      "SaschaWillems/Vulkan",
+      "linux-nvme/nvme-cli"
     ]
 
     git_repos_chromium_googlesource = [
