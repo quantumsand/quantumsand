@@ -1524,7 +1524,8 @@ class QuantumsandLive
       "Ardour/ardour",
       "Qiskit/qiskit",
       "MiroMindAI/MiroThinker",
-      "dotnet/runtime"
+      "dotnet/runtime",
+      "dotnet/roslyn"
     ]
 
     git_repos_chromium_googlesource = [
