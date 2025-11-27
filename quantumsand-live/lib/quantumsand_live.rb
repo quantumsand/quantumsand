@@ -2146,7 +2146,8 @@ class QuantumsandLive
       "dev-lang/lua",
       "dev-python/pyqt6",
       "app-portage/layman",
-      "dev-db/spatialite"
+      "dev-db/spatialite",
+      "dev-lang/ghc"
     ]
 
     gentoo_eselect_repository_add = {
