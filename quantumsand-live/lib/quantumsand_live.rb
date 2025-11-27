@@ -1554,7 +1554,8 @@ class QuantumsandLive
       "madler/zlib",
       "scikit-build/scikit-build-sample-projects",
       "osmcode/osmcoastline",
-      "jgm/pandoc"
+      "jgm/pandoc",
+      "osmcode/osmium-contrib"
     ]
 
     git_repos_chromium_googlesource = [
