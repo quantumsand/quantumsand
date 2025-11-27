@@ -1555,7 +1555,8 @@ class QuantumsandLive
       "scikit-build/scikit-build-sample-projects",
       "osmcode/osmcoastline",
       "jgm/pandoc",
-      "osmcode/osmium-contrib"
+      "osmcode/osmium-contrib",
+      "osmcode/osm-testdata"
     ]
 
     git_repos_chromium_googlesource = [
