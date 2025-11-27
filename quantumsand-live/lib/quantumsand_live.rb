@@ -1543,7 +1543,8 @@ class QuantumsandLive
       "enzet/map-machine",
       "Leaflet/Leaflet",
       "mapnik/mapnik",
-      "mapnik/test-data"
+      "mapnik/test-data",
+      "mapnik/test-data-visual"
     ]
 
     git_repos_chromium_googlesource = [
