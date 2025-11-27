@@ -1564,7 +1564,8 @@ class QuantumsandLive
       "openmaptiles/positron-gl-style",
       "cypress-io/cypress",
       "zlib-ng/zlib-ng",
-      "zlib-ng/minizip-ng"
+      "zlib-ng/minizip-ng",
+      "tukaani-project/xz"
     ]
 
     git_repos_chromium_googlesource = [
