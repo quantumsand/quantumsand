@@ -1541,7 +1541,8 @@ class QuantumsandLive
       "rapideditor/temaki",
       "gmgeo/osmic",
       "enzet/map-machine",
-      "Leaflet/Leaflet"
+      "Leaflet/Leaflet",
+      "mapnik/mapnik"
     ]
 
     git_repos_chromium_googlesource = [
