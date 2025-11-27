@@ -1557,7 +1557,8 @@ class QuantumsandLive
       "jgm/pandoc",
       "osmcode/osmium-contrib",
       "osmcode/osm-testdata",
-      "mapbox/mapbox-gl-native"
+      "mapbox/mapbox-gl-native",
+      "maplibre/demotiles"
     ]
 
     git_repos_chromium_googlesource = [
