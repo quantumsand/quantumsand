@@ -2163,7 +2163,8 @@ class QuantumsandLive
       "app-portage/layman",
       "dev-db/spatialite",
       "dev-lang/ghc",
-      "sys-apps/hdparm"
+      "sys-apps/hdparm",
+      "sys-apps/nvme-cli"
     ]
 
     gentoo_eselect_repository_add = {
