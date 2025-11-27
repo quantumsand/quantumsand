@@ -1537,7 +1537,8 @@ class QuantumsandLive
       "unicode-org/cldr-json",
       "osmlab/editor-layer-index",
       "FortAwesome/Font-Awesome",
-      "mapbox/maki"
+      "mapbox/maki",
+      "rapideditor/temaki"
     ]
 
     git_repos_chromium_googlesource = [
