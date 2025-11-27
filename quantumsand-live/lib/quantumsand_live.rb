@@ -1533,7 +1533,8 @@ class QuantumsandLive
       "aspnet/MessagePack-CSharp",
       "MessagePack-CSharp/MessagePack-CSharp",
       "dotnet/aspire",
-      "dotnet/docs"
+      "dotnet/docs",
+      "unicode-org/cldr-json"
     ]
 
     git_repos_chromium_googlesource = [
