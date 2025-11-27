@@ -1547,7 +1547,8 @@ class QuantumsandLive
       "mapnik/test-data-visual",
       "mapbox/variant",
       "mapbox/geometry.hpp",
-      "mapbox/protozero"
+      "mapbox/protozero",
+      "osmcode/libosmium"
     ]
 
     git_repos_chromium_googlesource = [
