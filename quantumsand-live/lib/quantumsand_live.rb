@@ -1535,7 +1535,8 @@ class QuantumsandLive
       "dotnet/aspire",
       "dotnet/docs",
       "unicode-org/cldr-json",
-      "osmlab/editor-layer-index"
+      "osmlab/editor-layer-index",
+      "FortAwesome/Font-Awesome"
     ]
 
     git_repos_chromium_googlesource = [
