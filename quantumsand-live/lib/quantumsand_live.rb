@@ -1560,7 +1560,8 @@ class QuantumsandLive
       "mapbox/mapbox-gl-native",
       "maplibre/demotiles",
       "openmaptiles/osm-bright-gl-style",
-      "maplibre/maputnik"
+      "maplibre/maputnik",
+      "openmaptiles/positron-gl-style"
     ]
 
     git_repos_chromium_googlesource = [
