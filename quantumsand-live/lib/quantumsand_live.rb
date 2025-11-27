@@ -246,7 +246,6 @@ class QuantumsandLive
       "elixir-lang/elixir",
       "elixir-lang/ex_doc",
       "elixir-lang/gen_stage",
-      "ziglang/zig",
       "lexical-lsp/vscode-lexical",
       "elixir-lang/expert",
       "casey/just",
@@ -1897,7 +1896,8 @@ class QuantumsandLive
       "chrisn/audio_waveform-ruby",
       "tenacityteam/tenacity",
       "comaps/comaps",
-      "microcad/microcad"
+      "microcad/microcad",
+      "ziglang/zig"
     ]
 
     git_repos_kde_invent = [
