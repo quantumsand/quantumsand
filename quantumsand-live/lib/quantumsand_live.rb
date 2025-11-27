@@ -1539,7 +1539,8 @@ class QuantumsandLive
       "FortAwesome/Font-Awesome",
       "mapbox/maki",
       "rapideditor/temaki",
-      "gmgeo/osmic"
+      "gmgeo/osmic",
+      "enzet/map-machine"
     ]
 
     git_repos_chromium_googlesource = [
