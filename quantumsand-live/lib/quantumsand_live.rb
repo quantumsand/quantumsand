@@ -1563,7 +1563,8 @@ class QuantumsandLive
       "maplibre/maputnik",
       "openmaptiles/positron-gl-style",
       "cypress-io/cypress",
-      "zlib-ng/zlib-ng"
+      "zlib-ng/zlib-ng",
+      "zlib-ng/minizip-ng"
     ]
 
     git_repos_chromium_googlesource = [
