@@ -1525,7 +1525,8 @@ class QuantumsandLive
       "Qiskit/qiskit",
       "MiroMindAI/MiroThinker",
       "dotnet/runtime",
-      "dotnet/roslyn"
+      "dotnet/roslyn",
+      "dotnet/csharplang"
     ]
 
     git_repos_chromium_googlesource = [
