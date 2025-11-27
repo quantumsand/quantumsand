@@ -1624,7 +1624,8 @@ class QuantumsandLive
       "binutils-gdb",
       "bzip2",
       "debugedit",
-      "elfutils"
+      "elfutils",
+      "glibc"
     ]
 
     git_repos_libssh_org = [
