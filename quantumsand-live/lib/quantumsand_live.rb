@@ -1523,7 +1523,8 @@ class QuantumsandLive
       "x42/liboauth",
       "Ardour/ardour",
       "Qiskit/qiskit",
-      "MiroMindAI/MiroThinker"
+      "MiroMindAI/MiroThinker",
+      "dotnet/runtime"
     ]
 
     git_repos_chromium_googlesource = [
