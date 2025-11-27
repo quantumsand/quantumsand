@@ -1593,6 +1593,10 @@ class QuantumsandLive
       "libgcrypt"
     ]
 
+    git_repos_haskell_org_gitlab = [
+      "ghc/ghc"
+    ]
+
     git_repos_code_qt_io = [
       "qt/qtwebengine"
     ]
