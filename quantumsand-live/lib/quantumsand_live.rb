@@ -1531,7 +1531,8 @@ class QuantumsandLive
       "dotnet/csharplang",
       "dotnet/aspnetcore",
       "aspnet/MessagePack-CSharp",
-      "MessagePack-CSharp/MessagePack-CSharp"
+      "MessagePack-CSharp/MessagePack-CSharp",
+      "dotnet/aspire"
     ]
 
     git_repos_chromium_googlesource = [
