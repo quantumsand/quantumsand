@@ -1565,7 +1565,8 @@ class QuantumsandLive
       "cypress-io/cypress",
       "zlib-ng/zlib-ng",
       "zlib-ng/minizip-ng",
-      "tukaani-project/xz"
+      "tukaani-project/xz",
+      "tukaani-project/xz-embedded"
     ]
 
     git_repos_chromium_googlesource = [
