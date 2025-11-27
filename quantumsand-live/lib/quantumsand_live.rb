@@ -1528,7 +1528,8 @@ class QuantumsandLive
       "dotnet/roslyn",
       "dotnet/csharplang",
       "dotnet/vblang",
-      "dotnet/csharplang"
+      "dotnet/csharplang",
+      "dotnet/aspnetcore"
     ]
 
     git_repos_chromium_googlesource = [
