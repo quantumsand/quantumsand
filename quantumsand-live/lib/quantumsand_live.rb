@@ -1544,7 +1544,8 @@ class QuantumsandLive
       "Leaflet/Leaflet",
       "mapnik/mapnik",
       "mapnik/test-data",
-      "mapnik/test-data-visual"
+      "mapnik/test-data-visual",
+      "mapbox/variant"
     ]
 
     git_repos_chromium_googlesource = [
