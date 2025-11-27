@@ -1567,7 +1567,8 @@ class QuantumsandLive
       "zlib-ng/minizip-ng",
       "tukaani-project/xz",
       "tukaani-project/xz-embedded",
-      "rails/action_push_native"
+      "rails/action_push_native",
+      "SaschaWillems/Vulkan"
     ]
 
     git_repos_chromium_googlesource = [
