@@ -1574,7 +1574,8 @@ class QuantumsandLive
       "muon-build/muon",
       "microsoft/vscode",
       "electron/electron",
-      "sailfishos-mirror/libgee"
+      "sailfishos-mirror/libgee",
+      "MIPI-Alliance/ccs-tools"
     ]
 
     git_repos_chromium_googlesource = [
