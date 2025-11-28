@@ -1571,7 +1571,8 @@ class QuantumsandLive
       "SaschaWillems/Vulkan",
       "linux-nvme/nvme-cli",
       "michaelforney/samurai",
-      "muon-build/muon"
+      "muon-build/muon",
+      "microsoft/vscode"
     ]
 
     git_repos_chromium_googlesource = [
