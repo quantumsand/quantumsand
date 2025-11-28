@@ -1591,7 +1591,8 @@ class QuantumsandLive
       "libical/tzdbics",
       "sailfishos-mirror/libid3tag",
       "sailfishos/libidn",
-      "linux-surface/linux-surface"
+      "linux-surface/linux-surface",
+      "sailfishos/libiodata"
     ]
 
     git_repos_chromium_googlesource = [
