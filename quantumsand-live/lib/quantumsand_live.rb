@@ -1576,7 +1576,8 @@ class QuantumsandLive
       "electron/electron",
       "sailfishos-mirror/libgee",
       "MIPI-Alliance/ccs-tools",
-      "sailfishos/libglibutil"
+      "sailfishos/libglibutil",
+      "sailfishos/libgofono"
     ]
 
     git_repos_chromium_googlesource = [
