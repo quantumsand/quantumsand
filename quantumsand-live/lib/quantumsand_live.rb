@@ -1573,7 +1573,8 @@ class QuantumsandLive
       "michaelforney/samurai",
       "muon-build/muon",
       "microsoft/vscode",
-      "electron/electron"
+      "electron/electron",
+      "sailfishos-mirror/libgee"
     ]
 
     git_repos_chromium_googlesource = [
