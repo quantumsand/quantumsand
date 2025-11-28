@@ -1615,7 +1615,8 @@ class QuantumsandLive
       "gnupg",
       "gpgme",
       "libassuan",
-      "libgcrypt"
+      "libgcrypt",
+      "libgpg-error"
     ]
 
     git_repos_haskell_org_gitlab = [
