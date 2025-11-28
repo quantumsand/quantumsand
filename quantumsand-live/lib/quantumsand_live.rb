@@ -1593,7 +1593,8 @@ class QuantumsandLive
       "sailfishos/libidn",
       "linux-surface/linux-surface",
       "sailfishos/libiodata",
-      "sailfishos/libiphb"
+      "sailfishos/libiphb",
+      "sailfishos-mirror/libiptcdata"
     ]
 
     git_repos_chromium_googlesource = [
