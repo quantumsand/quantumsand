@@ -1697,7 +1697,8 @@ class QuantumsandLive
       "grep",
       "groff",
       "gzip",
-      "libidn"
+      "libidn",
+      "libidn/libidn2"
     ]
 
     git_repos_gnu_org_ua = [
