@@ -1575,7 +1575,8 @@ class QuantumsandLive
       "microsoft/vscode",
       "electron/electron",
       "sailfishos-mirror/libgee",
-      "MIPI-Alliance/ccs-tools"
+      "MIPI-Alliance/ccs-tools",
+      "sailfishos/libglibutil"
     ]
 
     git_repos_chromium_googlesource = [
