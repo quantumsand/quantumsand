@@ -1976,7 +1976,8 @@ class QuantumsandLive
       "tenacityteam/tenacity",
       "comaps/comaps",
       "microcad/microcad",
-      "ziglang/zig"
+      "ziglang/zig",
+      "tenacityteam/libid3tag"
     ]
 
     git_repos_kde_invent = [
