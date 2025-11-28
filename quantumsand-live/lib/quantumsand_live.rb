@@ -1696,7 +1696,8 @@ class QuantumsandLive
       "gperf",
       "grep",
       "groff",
-      "gzip"
+      "gzip",
+      "libidn"
     ]
 
     git_repos_gnu_org_ua = [
