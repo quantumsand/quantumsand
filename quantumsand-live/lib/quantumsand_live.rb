@@ -1584,7 +1584,8 @@ class QuantumsandLive
       "sailfishos-mirror/libgsf",
       "sailfishos/libgsupplicant",
       "sailfishos-mirror/libgudev",
-      "sailfishos-mirror/libical"
+      "sailfishos-mirror/libical",
+      "libical/libical"
     ]
 
     git_repos_chromium_googlesource = [
