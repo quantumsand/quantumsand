@@ -1596,7 +1596,8 @@ class QuantumsandLive
       "sailfishos/libiphb",
       "sailfishos-mirror/libiptcdata",
       "sailfishos-mirror/libksba",
-      "sailfishos/libmce-glib"
+      "sailfishos/libmce-glib",
+      "sailfishos/libmce-qt"
     ]
 
     git_repos_chromium_googlesource = [
