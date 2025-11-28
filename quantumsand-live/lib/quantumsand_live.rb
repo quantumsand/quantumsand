@@ -1598,7 +1598,8 @@ class QuantumsandLive
       "sailfishos-mirror/libksba",
       "sailfishos/libmce-glib",
       "sailfishos/libmce-qt",
-      "sailfishos-mirror/libmediaart"
+      "sailfishos-mirror/libmediaart",
+      "traefik/traefik"
     ]
 
     git_repos_chromium_googlesource = [
