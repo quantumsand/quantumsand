@@ -1588,7 +1588,8 @@ class QuantumsandLive
       "libical/libical",
       "eggert/tz",
       "libical/vzic",
-      "libical/tzdbics"
+      "libical/tzdbics",
+      "sailfishos-mirror/libid3tag"
     ]
 
     git_repos_chromium_googlesource = [
