@@ -1798,7 +1798,8 @@ class QuantumsandLive
       "libopenraw/libopenraw-viewer",
       "farstream/farstream",
       "fontconfig/fontconfig",
-      "geoclue/geoclue"
+      "geoclue/geoclue",
+      "camera/libcamera"
     ]
 
     git_repos_xfce_gitlab = [
