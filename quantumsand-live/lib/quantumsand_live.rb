@@ -1587,7 +1587,8 @@ class QuantumsandLive
       "sailfishos-mirror/libical",
       "libical/libical",
       "eggert/tz",
-      "libical/vzic"
+      "libical/vzic",
+      "libical/tzdbics"
     ]
 
     git_repos_chromium_googlesource = [
