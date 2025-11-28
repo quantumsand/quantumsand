@@ -1800,7 +1800,8 @@ class QuantumsandLive
       "fontconfig/fontconfig",
       "geoclue/geoclue",
       "camera/libcamera",
-      "camera/camshark"
+      "camera/camshark",
+      "camera/ccs-static-data"
     ]
 
     git_repos_xfce_gitlab = [
