@@ -1802,7 +1802,8 @@ class QuantumsandLive
       "geoclue/geoclue",
       "camera/libcamera",
       "camera/camshark",
-      "camera/ccs-static-data"
+      "camera/ccs-static-data",
+      "camera/uvc-gadget"
     ]
 
     git_repos_xfce_gitlab = [
