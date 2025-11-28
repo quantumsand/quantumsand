@@ -1579,7 +1579,8 @@ class QuantumsandLive
       "sailfishos/libglibutil",
       "sailfishos/libgofono",
       "sailfishos/libgofonoext",
-      "sailfishos-mirror/libgpg-error"
+      "sailfishos-mirror/libgpg-error",
+      "sailfishos/libgrilio"
     ]
 
     git_repos_chromium_googlesource = [
