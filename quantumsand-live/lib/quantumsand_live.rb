@@ -1799,7 +1799,8 @@ class QuantumsandLive
       "farstream/farstream",
       "fontconfig/fontconfig",
       "geoclue/geoclue",
-      "camera/libcamera"
+      "camera/libcamera",
+      "camera/camshark"
     ]
 
     git_repos_xfce_gitlab = [
