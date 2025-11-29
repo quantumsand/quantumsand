@@ -1603,7 +1603,8 @@ class QuantumsandLive
       "tauri-apps/tauri",
       "cilium/cilium",
       "YaLTeR/niri",
-      "pytest-dev/pytest-cov"
+      "pytest-dev/pytest-cov",
+      "huggingface/diffusers"
     ]
 
     git_repos_chromium_googlesource = [
