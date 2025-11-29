@@ -2217,7 +2217,8 @@ class QuantumsandLive
       "sys-apps/hdparm",
       "sys-apps/nvme-cli",
       "sys-apps/coreutils",
-      "sys-libs/timezone-data"
+      "sys-libs/timezone-data",
+      "dev-lang/R"
     ]
 
     gentoo_eselect_repository_add = {
