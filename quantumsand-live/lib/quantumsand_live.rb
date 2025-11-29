@@ -1604,7 +1604,8 @@ class QuantumsandLive
       "cilium/cilium",
       "YaLTeR/niri",
       "pytest-dev/pytest-cov",
-      "huggingface/diffusers"
+      "huggingface/diffusers",
+      "huggingface/peft"
     ]
 
     git_repos_chromium_googlesource = [
