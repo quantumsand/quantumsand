@@ -1599,7 +1599,8 @@ class QuantumsandLive
       "sailfishos/libmce-glib",
       "sailfishos/libmce-qt",
       "sailfishos-mirror/libmediaart",
-      "traefik/traefik"
+      "traefik/traefik",
+      "tauri-apps/tauri"
     ]
 
     git_repos_chromium_googlesource = [
