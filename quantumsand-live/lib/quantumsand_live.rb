@@ -1600,7 +1600,8 @@ class QuantumsandLive
       "sailfishos/libmce-qt",
       "sailfishos-mirror/libmediaart",
       "traefik/traefik",
-      "tauri-apps/tauri"
+      "tauri-apps/tauri",
+      "cilium/cilium"
     ]
 
     git_repos_chromium_googlesource = [
