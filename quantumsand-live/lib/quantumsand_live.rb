@@ -1607,7 +1607,8 @@ class QuantumsandLive
       "huggingface/diffusers",
       "huggingface/peft",
       "BenjaminBossan/pytest-guide",
-      "AlchemillaHQ/Sylve"
+      "AlchemillaHQ/Sylve",
+      "audacity/audacity"
     ]
 
     git_repos_chromium_googlesource = [
