@@ -1606,7 +1606,8 @@ class QuantumsandLive
       "pytest-dev/pytest-cov",
       "huggingface/diffusers",
       "huggingface/peft",
-      "BenjaminBossan/pytest-guide"
+      "BenjaminBossan/pytest-guide",
+      "AlchemillaHQ/Sylve"
     ]
 
     git_repos_chromium_googlesource = [
