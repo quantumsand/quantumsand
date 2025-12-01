@@ -1630,7 +1630,8 @@ class QuantumsandLive
       "fwupd/fwupd",
       "fwupd/fwupd-efi",
       "itzmeanjan/sha3",
-      "google/gtest-parallel"
+      "google/gtest-parallel",
+      "itzmeanjan/subtle"
     ]
 
     git_repos_chromium_googlesource = [
