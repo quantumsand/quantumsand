@@ -1638,7 +1638,8 @@ class QuantumsandLive
       "sailfishos/libmlocale",
       "sailfishos/libmng",
       "sailfishos-mirror/libmnl",
-      "sailfishos/libnfcdef"
+      "sailfishos/libnfcdef",
+      "sailfishos/libngf"
     ]
 
     git_repos_chromium_googlesource = [
