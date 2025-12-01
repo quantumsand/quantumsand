@@ -1610,7 +1610,8 @@ class QuantumsandLive
       "AlchemillaHQ/Sylve",
       "audacity/audacity",
       "PQClean/PQClean",
-      "open-quantum-safe/liboqs"
+      "open-quantum-safe/liboqs",
+      "open-quantum-safe/boringssl"
     ]
 
     git_repos_chromium_googlesource = [
