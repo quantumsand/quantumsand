@@ -2015,7 +2015,8 @@ class QuantumsandLive
       "GNOME/libgsf",
       "GNOME/libgudev",
       "GNOME/libmediaart",
-      "GNOME/jhbuild"
+      "GNOME/jhbuild",
+      "GNOME/gupnp-igd"
     ]
 
     git_repos_postgresql_org = [
