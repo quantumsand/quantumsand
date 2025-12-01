@@ -1645,7 +1645,8 @@ class QuantumsandLive
       "sailfishos-mirror/libnl",
       "thom311/libnl",
       "xtermjs/xterm.js",
-      "billchurch/webssh2"
+      "billchurch/webssh2",
+      "coder/ghostty-web"
     ]
 
     git_repos_chromium_googlesource = [
