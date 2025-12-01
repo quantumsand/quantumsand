@@ -1642,7 +1642,8 @@ class QuantumsandLive
       "sailfishos/libngf",
       "sailfishos/libngf-qt",
       "sailfishos-mirror/libnice",
-      "sailfishos-mirror/libnl"
+      "sailfishos-mirror/libnl",
+      "thom311/libnl"
     ]
 
     git_repos_chromium_googlesource = [
