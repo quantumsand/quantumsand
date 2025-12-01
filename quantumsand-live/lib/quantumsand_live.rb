@@ -1998,7 +1998,8 @@ class QuantumsandLive
       "GNOME/libgee",
       "GNOME/libgsf",
       "GNOME/libgudev",
-      "GNOME/libmediaart"
+      "GNOME/libmediaart",
+      "GNOME/jhbuild"
     ]
 
     git_repos_postgresql_org = [
