@@ -1860,7 +1860,8 @@ class QuantumsandLive
       "camera/libcamera",
       "camera/camshark",
       "camera/ccs-static-data",
-      "camera/uvc-gadget"
+      "camera/uvc-gadget",
+      "tartan/tartan"
     ]
 
     git_repos_xfce_gitlab = [
