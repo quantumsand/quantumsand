@@ -1632,7 +1632,8 @@ class QuantumsandLive
       "itzmeanjan/sha3",
       "google/gtest-parallel",
       "itzmeanjan/subtle",
-      "itzmeanjan/RandomShake"
+      "itzmeanjan/RandomShake",
+      "itzmeanjan/ml-dsa"
     ]
 
     git_repos_chromium_googlesource = [
