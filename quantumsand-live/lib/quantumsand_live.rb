@@ -1627,7 +1627,9 @@ class QuantumsandLive
       "open-quantum-safe/oqs-provider",
       "open-quantum-safe/profiling",
       "itzmeanjan/ml-kem",
-      "fwupd/fwupd"
+      "fwupd/fwupd",
+      "fwupd/fwupd-efi",
+      "itzmeanjan/sha3"
     ]
 
     git_repos_chromium_googlesource = [
@@ -1861,8 +1863,7 @@ class QuantumsandLive
       "camera/camshark",
       "camera/ccs-static-data",
       "camera/uvc-gadget",
-      "tartan/tartan",
-      "fwupd/fwupd-efi"
+      "tartan/tartan"
     ]
 
     git_repos_xfce_gitlab = [
