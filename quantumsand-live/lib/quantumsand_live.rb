@@ -1608,7 +1608,8 @@ class QuantumsandLive
       "huggingface/peft",
       "BenjaminBossan/pytest-guide",
       "AlchemillaHQ/Sylve",
-      "audacity/audacity"
+      "audacity/audacity",
+      "PQClean/PQClean"
     ]
 
     git_repos_chromium_googlesource = [
