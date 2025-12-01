@@ -1634,7 +1634,8 @@ class QuantumsandLive
       "itzmeanjan/subtle",
       "itzmeanjan/RandomShake",
       "itzmeanjan/ml-dsa",
-      "itzmeanjan/ascon"
+      "itzmeanjan/ascon",
+      "sailfishos/libmlocale"
     ]
 
     git_repos_chromium_googlesource = [
