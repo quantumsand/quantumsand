@@ -1661,7 +1661,8 @@ class QuantumsandLive
     git_xet_hf_download_huggingface_co = [
       "opencv/qrcode_wechatqrcode",
       "miromind-ai/MiroThinker-v1.0-8B",
-      "deepseek-ai/DeepSeek-Math-V2"
+      "deepseek-ai/DeepSeek-Math-V2",
+      "deepseek-ai/DeepSeek-V3.2"
     ]
 
     git_repos_pagure_io = [
