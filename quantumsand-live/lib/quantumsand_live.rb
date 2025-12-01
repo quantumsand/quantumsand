@@ -1609,7 +1609,8 @@ class QuantumsandLive
       "BenjaminBossan/pytest-guide",
       "AlchemillaHQ/Sylve",
       "audacity/audacity",
-      "PQClean/PQClean"
+      "PQClean/PQClean",
+      "open-quantum-safe/liboqs"
     ]
 
     git_repos_chromium_googlesource = [
