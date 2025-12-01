@@ -1613,7 +1613,8 @@ class QuantumsandLive
       "open-quantum-safe/liboqs",
       "open-quantum-safe/boringssl",
       "open-quantum-safe/liboqs-cpp",
-      "open-quantum-safe/liboqs-cupqc-meta"
+      "open-quantum-safe/liboqs-cupqc-meta",
+      "open-quantum-safe/liboqs-go"
     ]
 
     git_repos_chromium_googlesource = [
