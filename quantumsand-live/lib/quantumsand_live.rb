@@ -1611,7 +1611,8 @@ class QuantumsandLive
       "audacity/audacity",
       "PQClean/PQClean",
       "open-quantum-safe/liboqs",
-      "open-quantum-safe/boringssl"
+      "open-quantum-safe/boringssl",
+      "open-quantum-safe/liboqs-cpp"
     ]
 
     git_repos_chromium_googlesource = [
