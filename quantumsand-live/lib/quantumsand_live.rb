@@ -1624,7 +1624,8 @@ class QuantumsandLive
       "open-quantum-safe/openssl",
       "open-quantum-safe/oqs-demos",
       "open-quantum-safe/oqs-engine",
-      "open-quantum-safe/oqs-provider"
+      "open-quantum-safe/oqs-provider",
+      "open-quantum-safe/profiling"
     ]
 
     git_repos_chromium_googlesource = [
