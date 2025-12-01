@@ -1615,7 +1615,8 @@ class QuantumsandLive
       "open-quantum-safe/liboqs-cpp",
       "open-quantum-safe/liboqs-cupqc-meta",
       "open-quantum-safe/liboqs-go",
-      "go-git/go-git"
+      "go-git/go-git",
+      "open-quantum-safe/liboqs-python"
     ]
 
     git_repos_chromium_googlesource = [
