@@ -1637,7 +1637,8 @@ class QuantumsandLive
       "itzmeanjan/ascon",
       "sailfishos/libmlocale",
       "sailfishos/libmng",
-      "sailfishos-mirror/libmnl"
+      "sailfishos-mirror/libmnl",
+      "sailfishos/libnfcdef"
     ]
 
     git_repos_chromium_googlesource = [
