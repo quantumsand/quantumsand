@@ -1636,7 +1636,8 @@ class QuantumsandLive
       "itzmeanjan/ml-dsa",
       "itzmeanjan/ascon",
       "sailfishos/libmlocale",
-      "sailfishos/libmng"
+      "sailfishos/libmng",
+      "sailfishos-mirror/libmnl"
     ]
 
     git_repos_chromium_googlesource = [
