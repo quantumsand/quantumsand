@@ -1621,7 +1621,8 @@ class QuantumsandLive
       "open-quantum-safe/libssh",
       "open-quantum-safe/openssh",
       "openssh/openssh-portable",
-      "open-quantum-safe/openssl"
+      "open-quantum-safe/openssl",
+      "open-quantum-safe/oqs-demos"
     ]
 
     git_repos_chromium_googlesource = [
