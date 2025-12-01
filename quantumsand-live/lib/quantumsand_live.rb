@@ -1861,7 +1861,8 @@ class QuantumsandLive
       "camera/camshark",
       "camera/ccs-static-data",
       "camera/uvc-gadget",
-      "tartan/tartan"
+      "tartan/tartan",
+      "fwupd/fwupd-efi"
     ]
 
     git_repos_xfce_gitlab = [
