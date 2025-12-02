@@ -1650,7 +1650,8 @@ class QuantumsandLive
       "ghostty-org/ghostty",
       "LaurentMazare/tch-rs",
       "LaurentMazare/diffusers-rs",
-      "elixir-ecto/ecto"
+      "elixir-ecto/ecto",
+      "phoenixframework/phoenix"
     ]
 
     git_repos_chromium_googlesource = [
