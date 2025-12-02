@@ -1647,7 +1647,8 @@ class QuantumsandLive
       "xtermjs/xterm.js",
       "billchurch/webssh2",
       "coder/ghostty-web",
-      "ghostty-org/ghostty"
+      "ghostty-org/ghostty",
+      "LaurentMazare/tch-rs"
     ]
 
     git_repos_chromium_googlesource = [
