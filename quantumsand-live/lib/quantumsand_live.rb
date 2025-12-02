@@ -1648,7 +1648,8 @@ class QuantumsandLive
       "billchurch/webssh2",
       "coder/ghostty-web",
       "ghostty-org/ghostty",
-      "LaurentMazare/tch-rs"
+      "LaurentMazare/tch-rs",
+      "LaurentMazare/diffusers-rs"
     ]
 
     git_repos_chromium_googlesource = [
