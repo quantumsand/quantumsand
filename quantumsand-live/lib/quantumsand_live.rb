@@ -1649,7 +1649,8 @@ class QuantumsandLive
       "coder/ghostty-web",
       "ghostty-org/ghostty",
       "LaurentMazare/tch-rs",
-      "LaurentMazare/diffusers-rs"
+      "LaurentMazare/diffusers-rs",
+      "elixir-ecto/ecto"
     ]
 
     git_repos_chromium_googlesource = [
