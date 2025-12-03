@@ -1683,7 +1683,8 @@ class QuantumsandLive
       "connorlay/tree-sitter-surface",
       "phoenixframework/websock_adapter",
       "notofonts/noto-cjk",
-      "notofonts/arabic"
+      "notofonts/arabic",
+      "elixir-ecto/ecto_sql"
     ]
 
     git_repos_chromium_googlesource = [
