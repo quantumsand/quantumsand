@@ -2311,7 +2311,8 @@ class QuantumsandLive
       "sys-apps/nvme-cli",
       "sys-apps/coreutils",
       "sys-libs/timezone-data",
-      "dev-lang/R"
+      "dev-lang/R",
+      "app-office/libreoffice"
     ]
 
     gentoo_eselect_repository_add = {
