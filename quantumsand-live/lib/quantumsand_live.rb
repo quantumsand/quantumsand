@@ -1681,7 +1681,8 @@ class QuantumsandLive
       "summerwind/h2spec",
       "ninenines/cowboy",
       "connorlay/tree-sitter-surface",
-      "phoenixframework/websock_adapter"
+      "phoenixframework/websock_adapter",
+      "notofonts/noto-cjk"
     ]
 
     git_repos_chromium_googlesource = [
