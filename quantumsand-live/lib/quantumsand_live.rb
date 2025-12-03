@@ -1668,7 +1668,8 @@ class QuantumsandLive
       "phoenixframework/plds",
       "phoenixframework/tailwind",
       "phoenixframework/topbar",
-      "buunguyen/topbar"
+      "buunguyen/topbar",
+      "phoenixframework/tree-sitter-heex"
     ]
 
     git_repos_chromium_googlesource = [
