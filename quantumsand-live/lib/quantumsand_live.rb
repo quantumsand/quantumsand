@@ -1693,7 +1693,8 @@ class QuantumsandLive
       "lifthrasiir/rust-encoding",
       "lifthrasiir/qr.js",
       "elixir-ecto/table",
-      "thesofproject/sof"
+      "thesofproject/sof",
+      "mistralai/mistral-common"
     ]
 
     git_repos_chromium_googlesource = [
