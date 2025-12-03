@@ -1679,7 +1679,8 @@ class QuantumsandLive
       "mtrudel/bandit",
       "crossbario/autobahn-testsuite",
       "summerwind/h2spec",
-      "ninenines/cowboy"
+      "ninenines/cowboy",
+      "connorlay/tree-sitter-surface"
     ]
 
     git_repos_chromium_googlesource = [
