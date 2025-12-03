@@ -1657,7 +1657,8 @@ class QuantumsandLive
       "phoenixframework/esbuild",
       "phoenixframework/flame",
       "phoenixframework/phoenix_ecto",
-      "phoenixframework/phoenix_html"
+      "phoenixframework/phoenix_html",
+      "phoenixframework/phoenix_html_helpers"
     ]
 
     git_repos_chromium_googlesource = [
