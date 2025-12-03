@@ -1653,7 +1653,8 @@ class QuantumsandLive
       "elixir-ecto/ecto",
       "phoenixframework/phoenix",
       "phoenixframework/phoenix_live_view",
-      "phoenixframework/dns_cluster"
+      "phoenixframework/dns_cluster",
+      "phoenixframework/esbuild"
     ]
 
     git_repos_chromium_googlesource = [
