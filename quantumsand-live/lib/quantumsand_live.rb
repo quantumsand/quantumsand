@@ -1680,7 +1680,8 @@ class QuantumsandLive
       "crossbario/autobahn-testsuite",
       "summerwind/h2spec",
       "ninenines/cowboy",
-      "connorlay/tree-sitter-surface"
+      "connorlay/tree-sitter-surface",
+      "phoenixframework/websock_adapter"
     ]
 
     git_repos_chromium_googlesource = [
