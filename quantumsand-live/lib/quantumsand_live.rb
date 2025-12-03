@@ -1675,7 +1675,8 @@ class QuantumsandLive
       "surface-ui/surface_formatter",
       "nvim-treesitter/nvim-treesitter",
       "phoenixframework/vscode-phoenix",
-      "phoenixframework/websock"
+      "phoenixframework/websock",
+      "mtrudel/bandit"
     ]
 
     git_repos_chromium_googlesource = [
