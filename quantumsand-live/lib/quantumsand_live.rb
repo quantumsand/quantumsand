@@ -1666,7 +1666,8 @@ class QuantumsandLive
       "phoenixframework/phoenix_template",
       "phoenixframework/phoenix_view",
       "phoenixframework/plds",
-      "phoenixframework/tailwind"
+      "phoenixframework/tailwind",
+      "phoenixframework/topbar"
     ]
 
     git_repos_chromium_googlesource = [
