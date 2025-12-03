@@ -1685,7 +1685,8 @@ class QuantumsandLive
       "notofonts/noto-cjk",
       "notofonts/arabic",
       "elixir-ecto/ecto_sql",
-      "elixir-ecto/postgrex"
+      "elixir-ecto/postgrex",
+      "elixir-ecto/tds"
     ]
 
     git_repos_chromium_googlesource = [
