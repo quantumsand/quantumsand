@@ -1676,7 +1676,8 @@ class QuantumsandLive
       "nvim-treesitter/nvim-treesitter",
       "phoenixframework/vscode-phoenix",
       "phoenixframework/websock",
-      "mtrudel/bandit"
+      "mtrudel/bandit",
+      "crossbario/autobahn-testsuite"
     ]
 
     git_repos_chromium_googlesource = [
