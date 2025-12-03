@@ -1684,7 +1684,8 @@ class QuantumsandLive
       "phoenixframework/websock_adapter",
       "notofonts/noto-cjk",
       "notofonts/arabic",
-      "elixir-ecto/ecto_sql"
+      "elixir-ecto/ecto_sql",
+      "elixir-ecto/postgrex"
     ]
 
     git_repos_chromium_googlesource = [
