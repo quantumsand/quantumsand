@@ -1688,7 +1688,8 @@ class QuantumsandLive
       "elixir-ecto/postgrex",
       "elixir-ecto/tds",
       "elixir-ecto/db_connection",
-      "elixir-ecto/connection"
+      "elixir-ecto/connection",
+      "elixir-ecto/excoding"
     ]
 
     git_repos_chromium_googlesource = [
