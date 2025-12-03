@@ -1689,7 +1689,8 @@ class QuantumsandLive
       "elixir-ecto/tds",
       "elixir-ecto/db_connection",
       "elixir-ecto/connection",
-      "elixir-ecto/excoding"
+      "elixir-ecto/excoding",
+      "lifthrasiir/rust-encoding"
     ]
 
     git_repos_chromium_googlesource = [
