@@ -1713,7 +1713,8 @@ class QuantumsandLive
       "opencv/qrcode_wechatqrcode",
       "miromind-ai/MiroThinker-v1.0-8B",
       "deepseek-ai/DeepSeek-Math-V2",
-      "deepseek-ai/DeepSeek-V3.2"
+      "deepseek-ai/DeepSeek-V3.2",
+      "mistralai/Ministral-3-3B-Instruct-2512"
     ]
 
     git_repos_pagure_io = [
