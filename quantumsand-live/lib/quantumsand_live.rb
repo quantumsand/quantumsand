@@ -1673,7 +1673,8 @@ class QuantumsandLive
       "connorlay/tree-sitter-eex",
       "surface-ui/surface",
       "surface-ui/surface_formatter",
-      "nvim-treesitter/nvim-treesitter"
+      "nvim-treesitter/nvim-treesitter",
+      "phoenixframework/vscode-phoenix"
     ]
 
     git_repos_chromium_googlesource = [
