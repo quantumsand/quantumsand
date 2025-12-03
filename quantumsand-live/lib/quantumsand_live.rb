@@ -1662,7 +1662,8 @@ class QuantumsandLive
       "phoenixframework/phoenix_live_dashboard",
       "phoenixframework/phoenix_live_reload",
       "phoenixframework/phoenix_pubsub",
-      "phoenixframework/phoenix_pubsub_redis"
+      "phoenixframework/phoenix_pubsub_redis",
+      "phoenixframework/phoenix_template"
     ]
 
     git_repos_chromium_googlesource = [
