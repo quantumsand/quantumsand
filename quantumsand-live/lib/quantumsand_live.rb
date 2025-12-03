@@ -1690,7 +1690,8 @@ class QuantumsandLive
       "elixir-ecto/db_connection",
       "elixir-ecto/connection",
       "elixir-ecto/excoding",
-      "lifthrasiir/rust-encoding"
+      "lifthrasiir/rust-encoding",
+      "lifthrasiir/qr.js"
     ]
 
     git_repos_chromium_googlesource = [
