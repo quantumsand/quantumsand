@@ -1670,7 +1670,8 @@ class QuantumsandLive
       "phoenixframework/topbar",
       "buunguyen/topbar",
       "phoenixframework/tree-sitter-heex",
-      "connorlay/tree-sitter-eex"
+      "connorlay/tree-sitter-eex",
+      "surface-ui/surface"
     ]
 
     git_repos_chromium_googlesource = [
