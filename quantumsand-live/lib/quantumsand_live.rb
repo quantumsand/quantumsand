@@ -2312,7 +2312,8 @@ class QuantumsandLive
       "sys-apps/coreutils",
       "sys-libs/timezone-data",
       "dev-lang/R",
-      "app-office/libreoffice"
+      "app-office/libreoffice",
+      "www-client/firefox"
     ]
 
     gentoo_eselect_repository_add = {
