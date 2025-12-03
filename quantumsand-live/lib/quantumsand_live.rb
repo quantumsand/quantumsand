@@ -1678,7 +1678,8 @@ class QuantumsandLive
       "phoenixframework/websock",
       "mtrudel/bandit",
       "crossbario/autobahn-testsuite",
-      "summerwind/h2spec"
+      "summerwind/h2spec",
+      "ninenines/cowboy"
     ]
 
     git_repos_chromium_googlesource = [
