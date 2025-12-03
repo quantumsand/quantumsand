@@ -1652,7 +1652,8 @@ class QuantumsandLive
       "LaurentMazare/diffusers-rs",
       "elixir-ecto/ecto",
       "phoenixframework/phoenix",
-      "phoenixframework/phoenix_live_view"
+      "phoenixframework/phoenix_live_view",
+      "phoenixframework/dns_cluster"
     ]
 
     git_repos_chromium_googlesource = [
