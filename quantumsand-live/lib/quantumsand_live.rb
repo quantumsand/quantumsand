@@ -1714,7 +1714,8 @@ class QuantumsandLive
       "rockdaboot/libpsl",
       "sailfishos/libpthread-stubs",
       "sailfishos/libpurple",
-      "sailfishos/libqofono"
+      "sailfishos/libqofono",
+      "sailfishos/libqofonoext"
     ]
 
     git_repos_chromium_googlesource = [
