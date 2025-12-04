@@ -1715,7 +1715,8 @@ class QuantumsandLive
       "sailfishos/libpthread-stubs",
       "sailfishos/libpurple",
       "sailfishos/libqofono",
-      "sailfishos/libqofonoext"
+      "sailfishos/libqofonoext",
+      "sailfishos/libqtsparql"
     ]
 
     git_repos_chromium_googlesource = [
