@@ -1733,7 +1733,8 @@ class QuantumsandLive
       "vexflow/vexflow-docs",
       "vexflow/vexflow-fonts-gonville",
       "Rockbox/rockbox",
-      "electric-sql/pglite"
+      "electric-sql/pglite",
+      "hotwired/stimulus-rails"
     ]
 
     git_repos_chromium_googlesource = [
