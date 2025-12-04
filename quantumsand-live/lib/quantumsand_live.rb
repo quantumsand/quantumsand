@@ -1694,7 +1694,8 @@ class QuantumsandLive
       "lifthrasiir/qr.js",
       "elixir-ecto/table",
       "thesofproject/sof",
-      "mistralai/mistral-common"
+      "mistralai/mistral-common",
+      "sailfishos-mirror/libnvme"
     ]
 
     git_repos_chromium_googlesource = [
