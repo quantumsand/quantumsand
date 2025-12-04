@@ -1736,7 +1736,8 @@ class QuantumsandLive
       "electric-sql/pglite",
       "hotwired/stimulus-rails",
       "hotwired/stimulus",
-      "LMMS/lmms"
+      "LMMS/lmms",
+      "Smithay/smithay"
     ]
 
     git_repos_chromium_googlesource = [
