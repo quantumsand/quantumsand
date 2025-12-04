@@ -1740,7 +1740,8 @@ class QuantumsandLive
       "Smithay/smithay",
       "axboe/liburing",
       "nubskr/walrus",
-      "octopii-rs/octopii"
+      "octopii-rs/octopii",
+      "micropython/micropython"
     ]
 
     git_repos_chromium_googlesource = [
