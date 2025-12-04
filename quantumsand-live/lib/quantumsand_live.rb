@@ -1742,7 +1742,8 @@ class QuantumsandLive
       "nubskr/walrus",
       "octopii-rs/octopii",
       "micropython/micropython",
-      "prawnpdf/prawn"
+      "prawnpdf/prawn",
+      "FormidableLabs/spectacle"
     ]
 
     git_repos_chromium_googlesource = [
