@@ -1695,7 +1695,8 @@ class QuantumsandLive
       "elixir-ecto/table",
       "thesofproject/sof",
       "mistralai/mistral-common",
-      "sailfishos-mirror/libnvme"
+      "sailfishos-mirror/libnvme",
+      "linux-nvme/libnvme"
     ]
 
     git_repos_chromium_googlesource = [
