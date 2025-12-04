@@ -1710,7 +1710,8 @@ class QuantumsandLive
       "sailfishos/libprofile-qt",
       "sailfishos/libprolog",
       "sailfishos-mirror/libps",
-      "publicsuffix/list"
+      "publicsuffix/list",
+      "rockdaboot/libpsl"
     ]
 
     git_repos_chromium_googlesource = [
