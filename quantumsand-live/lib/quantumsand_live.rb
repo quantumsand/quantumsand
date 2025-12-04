@@ -1712,7 +1712,8 @@ class QuantumsandLive
       "sailfishos-mirror/libps",
       "publicsuffix/list",
       "rockdaboot/libpsl",
-      "sailfishos/libpthread-stubs"
+      "sailfishos/libpthread-stubs",
+      "sailfishos/libpurple"
     ]
 
     git_repos_chromium_googlesource = [
