@@ -1730,7 +1730,8 @@ class QuantumsandLive
       "vexflow/vexflow-examples",
       "vexflow/vexflow-sandbox",
       "11ty/eleventy",
-      "vexflow/vexflow-docs"
+      "vexflow/vexflow-docs",
+      "vexflow/vexflow-fonts-gonville"
     ]
 
     git_repos_chromium_googlesource = [
