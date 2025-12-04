@@ -2102,7 +2102,8 @@ class QuantumsandLive
       "GNOME/libgudev",
       "GNOME/libmediaart",
       "GNOME/jhbuild",
-      "GNOME/gupnp-igd"
+      "GNOME/gupnp-igd",
+      "GNOME/librest"
     ]
 
     git_repos_postgresql_org = [
