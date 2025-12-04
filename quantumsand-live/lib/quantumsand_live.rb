@@ -1719,7 +1719,8 @@ class QuantumsandLive
       "sailfishos/libqtsparql",
       "sailfishos-mirror/quazip",
       "stachenov/quazip",
-      "sailfishos/libresource"
+      "sailfishos/libresource",
+      "sailfishos/libresourceqt"
     ]
 
     git_repos_chromium_googlesource = [
