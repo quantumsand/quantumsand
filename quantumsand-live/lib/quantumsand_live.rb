@@ -2345,7 +2345,8 @@ class QuantumsandLive
       "dev-lang/R",
       "app-office/libreoffice",
       "www-client/firefox",
-      "www-client/chromium"
+      "www-client/chromium",
+      "media-libs/libquvi"
     ]
 
     gentoo_eselect_repository_add = {
