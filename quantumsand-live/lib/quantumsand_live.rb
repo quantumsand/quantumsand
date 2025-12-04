@@ -2260,7 +2260,8 @@ class QuantumsandLive
     ]
 
     svn_repos_code_sf_net = [
-      "sdcc/code/trunk"
+      "sdcc/code/trunk",
+      "liboauth/code/trunk"
     ]
 
     bazaar_repos_code_launchpad_net = [
