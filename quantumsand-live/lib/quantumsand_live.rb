@@ -1702,7 +1702,8 @@ class QuantumsandLive
       "kcat/openal-soft",
       "sailfishos-mirror/libpcap",
       "sailfishos/libpciaccess",
-      "sailfishos-mirror/libphonenumber"
+      "sailfishos-mirror/libphonenumber",
+      "google/libphonenumber"
     ]
 
     git_repos_chromium_googlesource = [
