@@ -1705,7 +1705,8 @@ class QuantumsandLive
       "sailfishos-mirror/libphonenumber",
       "google/libphonenumber",
       "sailfishos-mirror/libpng",
-      "pnggroup/libpng"
+      "pnggroup/libpng",
+      "sailfishos/libpng15-compat"
     ]
 
     git_repos_chromium_googlesource = [
