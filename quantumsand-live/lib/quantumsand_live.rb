@@ -1735,7 +1735,8 @@ class QuantumsandLive
       "Rockbox/rockbox",
       "electric-sql/pglite",
       "hotwired/stimulus-rails",
-      "hotwired/stimulus"
+      "hotwired/stimulus",
+      "LMMS/lmms"
     ]
 
     git_repos_chromium_googlesource = [
