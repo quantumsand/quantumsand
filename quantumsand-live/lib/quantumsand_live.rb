@@ -1708,7 +1708,8 @@ class QuantumsandLive
       "pnggroup/libpng",
       "sailfishos/libpng15-compat",
       "sailfishos/libprofile-qt",
-      "sailfishos/libprolog"
+      "sailfishos/libprolog",
+      "sailfishos-mirror/libps"
     ]
 
     git_repos_chromium_googlesource = [
