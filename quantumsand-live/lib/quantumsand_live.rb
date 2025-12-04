@@ -1696,7 +1696,8 @@ class QuantumsandLive
       "thesofproject/sof",
       "mistralai/mistral-common",
       "sailfishos-mirror/libnvme",
-      "linux-nvme/libnvme"
+      "linux-nvme/libnvme",
+      "sailfishos-mirror/ogg"
     ]
 
     git_repos_chromium_googlesource = [
