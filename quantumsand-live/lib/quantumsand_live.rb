@@ -1738,7 +1738,8 @@ class QuantumsandLive
       "hotwired/stimulus",
       "LMMS/lmms",
       "Smithay/smithay",
-      "axboe/liburing"
+      "axboe/liburing",
+      "nubskr/walrus"
     ]
 
     git_repos_chromium_googlesource = [
