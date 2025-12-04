@@ -1698,7 +1698,8 @@ class QuantumsandLive
       "sailfishos-mirror/libnvme",
       "linux-nvme/libnvme",
       "sailfishos-mirror/ogg",
-      "sailfishos-mirror/openal-soft"
+      "sailfishos-mirror/openal-soft",
+      "kcat/openal-soft"
     ]
 
     git_repos_chromium_googlesource = [
