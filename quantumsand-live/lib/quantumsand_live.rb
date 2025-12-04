@@ -1737,7 +1737,8 @@ class QuantumsandLive
       "hotwired/stimulus-rails",
       "hotwired/stimulus",
       "LMMS/lmms",
-      "Smithay/smithay"
+      "Smithay/smithay",
+      "axboe/liburing"
     ]
 
     git_repos_chromium_googlesource = [
