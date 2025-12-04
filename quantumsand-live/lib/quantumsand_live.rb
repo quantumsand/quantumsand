@@ -1725,7 +1725,8 @@ class QuantumsandLive
       "sailfishos-mirror/librsvg",
       "qtrest/qtrest",
       "trifectatechfoundation/zlib-rs",
-      "vexflow/vexflow"
+      "vexflow/vexflow",
+      "vexflow/vexflow-fonts"
     ]
 
     git_repos_chromium_googlesource = [
