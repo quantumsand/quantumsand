@@ -1723,7 +1723,8 @@ class QuantumsandLive
       "sailfishos/libresourceqt",
       "sailfishos-mirror/librest",
       "sailfishos-mirror/librsvg",
-      "qtrest/qtrest"
+      "qtrest/qtrest",
+      "trifectatechfoundation/zlib-rs"
     ]
 
     git_repos_chromium_googlesource = [
