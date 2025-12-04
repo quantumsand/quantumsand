@@ -1727,7 +1727,8 @@ class QuantumsandLive
       "trifectatechfoundation/zlib-rs",
       "vexflow/vexflow",
       "vexflow/vexflow-fonts",
-      "vexflow/vexflow-examples"
+      "vexflow/vexflow-examples",
+      "vexflow/vexflow-sandbox"
     ]
 
     git_repos_chromium_googlesource = [
