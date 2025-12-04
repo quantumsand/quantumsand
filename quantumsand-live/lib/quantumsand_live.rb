@@ -1739,7 +1739,8 @@ class QuantumsandLive
       "LMMS/lmms",
       "Smithay/smithay",
       "axboe/liburing",
-      "nubskr/walrus"
+      "nubskr/walrus",
+      "octopii-rs/octopii"
     ]
 
     git_repos_chromium_googlesource = [
