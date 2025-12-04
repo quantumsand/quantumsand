@@ -1741,7 +1741,8 @@ class QuantumsandLive
       "axboe/liburing",
       "nubskr/walrus",
       "octopii-rs/octopii",
-      "micropython/micropython"
+      "micropython/micropython",
+      "prawnpdf/prawn"
     ]
 
     git_repos_chromium_googlesource = [
