@@ -1743,7 +1743,8 @@ class QuantumsandLive
       "octopii-rs/octopii",
       "micropython/micropython",
       "prawnpdf/prawn",
-      "FormidableLabs/spectacle"
+      "FormidableLabs/spectacle",
+      "mltframework/mlt"
     ]
 
     git_repos_chromium_googlesource = [
