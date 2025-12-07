@@ -1747,7 +1747,8 @@ class QuantumsandLive
       "mltframework/mlt",
       "nicolargo/glances",
       "home-assistant/core",
-      "home-assistant/frontend"
+      "home-assistant/frontend",
+      "home-assistant/supervisor"
     ]
 
     git_repos_chromium_googlesource = [
