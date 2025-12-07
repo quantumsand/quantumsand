@@ -1744,7 +1744,8 @@ class QuantumsandLive
       "micropython/micropython",
       "prawnpdf/prawn",
       "FormidableLabs/spectacle",
-      "mltframework/mlt"
+      "mltframework/mlt",
+      "nicolargo/glances"
     ]
 
     git_repos_chromium_googlesource = [
