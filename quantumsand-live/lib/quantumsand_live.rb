@@ -1745,7 +1745,8 @@ class QuantumsandLive
       "prawnpdf/prawn",
       "FormidableLabs/spectacle",
       "mltframework/mlt",
-      "nicolargo/glances"
+      "nicolargo/glances",
+      "home-assistant/core"
     ]
 
     git_repos_chromium_googlesource = [
