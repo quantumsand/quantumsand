@@ -1748,7 +1748,8 @@ class QuantumsandLive
       "nicolargo/glances",
       "home-assistant/core",
       "home-assistant/frontend",
-      "home-assistant/supervisor"
+      "home-assistant/supervisor",
+      "home-assistant/operating-system"
     ]
 
     git_repos_chromium_googlesource = [
