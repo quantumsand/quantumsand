@@ -1759,7 +1759,8 @@ class QuantumsandLive
       "sailfishos/libsdl-gfx",
       "sailfishos-mirror/SDL_image",
       "libsdl-org/SDL_image",
-      "sailfishos-mirror/SDL_mixer"
+      "sailfishos-mirror/SDL_mixer",
+      "libsdl-org/SDL_mixer"
     ]
 
     git_repos_chromium_googlesource = [
