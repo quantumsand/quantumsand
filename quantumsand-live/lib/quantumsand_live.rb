@@ -1751,7 +1751,8 @@ class QuantumsandLive
       "home-assistant/supervisor",
       "home-assistant/operating-system",
       "iced-rs/iced",
-      "sailfishos/libsailfishapp"
+      "sailfishos/libsailfishapp",
+      "sailfishos/libsailfishkeyprovider"
     ]
 
     git_repos_chromium_googlesource = [
