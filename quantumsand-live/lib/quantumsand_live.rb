@@ -1753,7 +1753,8 @@ class QuantumsandLive
       "iced-rs/iced",
       "sailfishos/libsailfishapp",
       "sailfishos/libsailfishkeyprovider",
-      "sailfishos/libsatsolver"
+      "sailfishos/libsatsolver",
+      "sailfishos-mirror/SDL"
     ]
 
     git_repos_chromium_googlesource = [
