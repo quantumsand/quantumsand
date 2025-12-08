@@ -1771,7 +1771,8 @@ class QuantumsandLive
       "libsdl-org/freetype",
       "sammycage/plutosvg",
       "sammycage/plutovg",
-      "sailfishos-mirror/libseccomp"
+      "sailfishos-mirror/libseccomp",
+      "seccomp/libseccomp"
     ]
 
     git_repos_chromium_googlesource = [
