@@ -1782,7 +1782,8 @@ class QuantumsandLive
       "sailfishos-mirror/signond",
       "sailfishos-mirror/libsignon-glib",
       "sailfishos-mirror/libsndfile",
-      "libsndfile/libsndfile"
+      "libsndfile/libsndfile",
+      "sailfishos/libsocialcache"
     ]
 
     git_repos_chromium_googlesource = [
