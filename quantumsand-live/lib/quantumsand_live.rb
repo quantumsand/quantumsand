@@ -1750,7 +1750,8 @@ class QuantumsandLive
       "home-assistant/frontend",
       "home-assistant/supervisor",
       "home-assistant/operating-system",
-      "iced-rs/iced"
+      "iced-rs/iced",
+      "sailfishos/libsailfishapp"
     ]
 
     git_repos_chromium_googlesource = [
