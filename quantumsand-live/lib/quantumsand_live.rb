@@ -1773,7 +1773,9 @@ class QuantumsandLive
       "sammycage/plutovg",
       "sailfishos-mirror/libseccomp",
       "seccomp/libseccomp",
-      "seccomp/libseccomp-golang"
+      "seccomp/libseccomp-golang",
+      "sailfishos-mirror/selinux",
+      "sailfishos-mirror/shadow"
     ]
 
     git_repos_chromium_googlesource = [
@@ -1981,7 +1983,6 @@ class QuantumsandLive
       "cairo/cairomm",
       "cairo/cairo-traces",
       "pkg-config/pkg-config",
-      "sailfishos-mirror/selinux",
       "telepathy/telepathy-glib",
       "telepathy/telepathy-farstream",
       "telepathy/telepathy-gabble",
