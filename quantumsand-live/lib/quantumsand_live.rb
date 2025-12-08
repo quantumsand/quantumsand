@@ -1770,7 +1770,8 @@ class QuantumsandLive
       "libsdl-org/SDL_ttf",
       "libsdl-org/freetype",
       "sammycage/plutosvg",
-      "sammycage/plutovg"
+      "sammycage/plutovg",
+      "sailfishos-mirror/libseccomp"
     ]
 
     git_repos_chromium_googlesource = [
