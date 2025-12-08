@@ -2012,7 +2012,8 @@ class QuantumsandLive
       "camera/ccs-static-data",
       "camera/uvc-gadget",
       "tartan/tartan",
-      "libnice/libnice"
+      "libnice/libnice",
+      "freetype/freetype"
     ]
 
     git_repos_xfce_gitlab = [
