@@ -1762,7 +1762,8 @@ class QuantumsandLive
       "sailfishos-mirror/SDL_mixer",
       "libsdl-org/SDL_mixer",
       "AfaanBilal/NanoCore",
-      "sailfishos-mirror/SDL_net"
+      "sailfishos-mirror/SDL_net",
+      "libsdl-org/SDL_net"
     ]
 
     git_repos_chromium_googlesource = [
