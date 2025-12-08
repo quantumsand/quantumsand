@@ -1749,7 +1749,8 @@ class QuantumsandLive
       "home-assistant/core",
       "home-assistant/frontend",
       "home-assistant/supervisor",
-      "home-assistant/operating-system"
+      "home-assistant/operating-system",
+      "iced-rs/iced"
     ]
 
     git_repos_chromium_googlesource = [
