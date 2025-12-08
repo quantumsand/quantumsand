@@ -1768,7 +1768,8 @@ class QuantumsandLive
       "icculus/SDL_sound",
       "sailfishos-mirror/SDL_ttf",
       "libsdl-org/SDL_ttf",
-      "libsdl-org/freetype"
+      "libsdl-org/freetype",
+      "sammycage/plutosvg"
     ]
 
     git_repos_chromium_googlesource = [
