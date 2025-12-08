@@ -1775,7 +1775,8 @@ class QuantumsandLive
       "seccomp/libseccomp",
       "seccomp/libseccomp-golang",
       "sailfishos-mirror/selinux",
-      "sailfishos-mirror/shadow"
+      "sailfishos-mirror/shadow",
+      "shadow-maint/shadow"
     ]
 
     git_repos_chromium_googlesource = [
