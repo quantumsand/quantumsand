@@ -1961,7 +1961,8 @@ class QuantumsandLive
       "libtiff/libtiff",
       "accounts-sso/libaccounts-glib",
       "accounts-sso/accounts-qml-module",
-      "accounts-sso/libaccounts-qt"
+      "accounts-sso/libaccounts-qt",
+      "accounts-sso/signond"
     ]
 
     git_repos_freedesktop_gitlab = [
