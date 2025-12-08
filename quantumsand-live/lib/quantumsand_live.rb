@@ -1962,7 +1962,8 @@ class QuantumsandLive
       "accounts-sso/libaccounts-glib",
       "accounts-sso/accounts-qml-module",
       "accounts-sso/libaccounts-qt",
-      "accounts-sso/signond"
+      "accounts-sso/signond",
+      "accounts-sso/signon-dbus-specification"
     ]
 
     git_repos_freedesktop_gitlab = [
