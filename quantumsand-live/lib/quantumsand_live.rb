@@ -1778,7 +1778,8 @@ class QuantumsandLive
       "sailfishos-mirror/shadow",
       "shadow-maint/shadow",
       "sailfishos-mirror/libsigcplusplus",
-      "libsigcplusplus/libsigcplusplus"
+      "libsigcplusplus/libsigcplusplus",
+      "sailfishos-mirror/signond"
     ]
 
     git_repos_chromium_googlesource = [
