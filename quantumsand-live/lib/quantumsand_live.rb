@@ -1765,7 +1765,8 @@ class QuantumsandLive
       "sailfishos-mirror/SDL_net",
       "libsdl-org/SDL_net",
       "sailfishos-mirror/SDL_sound",
-      "icculus/SDL_sound"
+      "icculus/SDL_sound",
+      "sailfishos-mirror/SDL_ttf"
     ]
 
     git_repos_chromium_googlesource = [
