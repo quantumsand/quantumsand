@@ -1786,7 +1786,8 @@ class QuantumsandLive
       "sailfishos/libsocialcache",
       "sailfishos-mirror/libsoup",
       "sailfishos-mirror/libsrtp",
-      "cisco/libsrtp"
+      "cisco/libsrtp",
+      "sailfishos/libsysperf"
     ]
 
     git_repos_chromium_googlesource = [
