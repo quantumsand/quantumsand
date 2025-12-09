@@ -1789,7 +1789,8 @@ class QuantumsandLive
       "cisco/libsrtp",
       "sailfishos/libsysperf",
       "sailfishos/libsystrace",
-      "mer-tools/chromium-trace"
+      "mer-tools/chromium-trace",
+      "mer-tools/atrace"
     ]
 
     git_repos_chromium_googlesource = [
