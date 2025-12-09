@@ -1795,7 +1795,8 @@ class QuantumsandLive
       "mer-tools/atrace",
       "sailfishos/libtalloc",
       "sailfishos-mirror/libtasn1",
-      "sailfishos-mirror/theora"
+      "sailfishos-mirror/theora",
+      "sailfishos-mirror/libtiff"
     ]
 
     git_repos_chromium_googlesource = [
