@@ -2138,7 +2138,8 @@ class QuantumsandLive
 
     git_repos_xiph_org_gitlab = [
       "xiph/flac",
-      "xiph/ogg"
+      "xiph/ogg",
+      "xiph/theora"
     ]
 
     git_repos_einval_com = [
