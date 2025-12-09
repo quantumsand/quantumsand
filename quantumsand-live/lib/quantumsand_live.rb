@@ -2434,7 +2434,8 @@ class QuantumsandLive
       "www-client/firefox",
       "www-client/chromium",
       "media-libs/libquvi",
-      "sys-boot/syslinux"
+      "sys-boot/syslinux",
+      "app-text/texlive"
     ]
 
     gentoo_eselect_repository_add = {
