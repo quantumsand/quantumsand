@@ -1800,7 +1800,8 @@ class QuantumsandLive
       "sailfishos/libtool",
       "sailfishos/libtrace-ohm",
       "sailfishos-mirror/libusb-compat-0.1",
-      "sailfishos/libusb-moded-qt"
+      "sailfishos/libusb-moded-qt",
+      "sailfishos-mirror/libusb"
     ]
 
     git_repos_chromium_googlesource = [
