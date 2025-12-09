@@ -1794,7 +1794,8 @@ class QuantumsandLive
       "mer-tools/chromium-trace",
       "mer-tools/atrace",
       "sailfishos/libtalloc",
-      "sailfishos-mirror/libtasn1"
+      "sailfishos-mirror/libtasn1",
+      "sailfishos-mirror/theora"
     ]
 
     git_repos_chromium_googlesource = [
