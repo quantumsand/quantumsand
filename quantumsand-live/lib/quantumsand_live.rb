@@ -1803,7 +1803,8 @@ class QuantumsandLive
       "sailfishos/libusb-moded-qt",
       "sailfishos-mirror/libusb",
       "sailfishos-mirror/libuser",
-      "altlinux/libutempter"
+      "altlinux/libutempter",
+      "Libvisual/libvisual"
     ]
 
     git_repos_chromium_googlesource = [
