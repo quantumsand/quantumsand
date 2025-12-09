@@ -1814,7 +1814,8 @@ class QuantumsandLive
       "v8/v8",
       "chromium/tools/chrome-devtools-frontend",
       "chromium/tools/chromium-build",
-      "webm/libwebp"
+      "webm/libwebp",
+      "webm/libvpx"
     ]
 
     git_repos_gn_googlesource = [
