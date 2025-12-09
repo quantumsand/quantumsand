@@ -1814,7 +1814,8 @@ class QuantumsandLive
       "sailfishos-mirror/libxcrypt",
       "besser82/libxcrypt",
       "sailfishos-mirror/libxkbcommon",
-      "xkbcommon/libxkbcommon"
+      "xkbcommon/libxkbcommon",
+      "sailfishos-mirror/libxml2"
     ]
 
     git_repos_chromium_googlesource = [
