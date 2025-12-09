@@ -1796,7 +1796,8 @@ class QuantumsandLive
       "sailfishos/libtalloc",
       "sailfishos-mirror/libtasn1",
       "sailfishos-mirror/theora",
-      "sailfishos-mirror/libtiff"
+      "sailfishos-mirror/libtiff",
+      "sailfishos/libtool"
     ]
 
     git_repos_chromium_googlesource = [
