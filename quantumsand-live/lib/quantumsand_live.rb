@@ -1790,7 +1790,8 @@ class QuantumsandLive
       "sailfishos/libsysperf",
       "sailfishos/libsystrace",
       "mer-tools/chromium-trace",
-      "mer-tools/atrace"
+      "mer-tools/atrace",
+      "sailfishos/libtalloc"
     ]
 
     git_repos_chromium_googlesource = [
