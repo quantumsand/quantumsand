@@ -11,7 +11,7 @@ class QuantumsandLive
                           crash-handler display-manager wifi wayland openh264 libproxy jpegxl
                           jack hwaccel gnome-shell eme-free dbus telemetry system-av1
                           system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
-                          system-webp gmp-autoupdate clang classic extras python python3_13
+                          system-webp gmp-autoupdate clang classic extra extras python python3_13
                           offlinehelp stun debug full-xml sip sqlite zlib bullet color-management
                           cycles cycles-bin-kernels embree ffmpeg fftw fluid gmp jemalloc manifold
                           nanovdb oidn openexr opengl openmp openpgl opensubdiv openvdb otf
@@ -64,7 +64,9 @@ class QuantumsandLive
                           xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack excel
                           webagg cairo latex dvb tracer ocamlopt portmixer audiocom id3tag mpg123
                           sbsms vamp libgig soundio stk vst designer handbook policykit editor image mpd
-                          remote-fs search upower -branding -java).join(' ')
+                          remote-fs search upower cjk context games graphics humanities luatex metapost
+                          music pdfannotextractor pstricks publishers science tex4ht texi2html xetex
+                          -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     # Gentoo common flags
