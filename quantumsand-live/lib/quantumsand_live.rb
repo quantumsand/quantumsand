@@ -1817,7 +1817,8 @@ class QuantumsandLive
       "xkbcommon/libxkbcommon",
       "sailfishos-mirror/libxml2",
       "sailfishos-mirror/libxslt",
-      "sailfishos-mirror/libzypp"
+      "sailfishos-mirror/libzypp",
+      "openSUSE/libzypp"
     ]
 
     git_repos_chromium_googlesource = [
