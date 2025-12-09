@@ -1809,7 +1809,8 @@ class QuantumsandLive
       "sailfishos-mirror/libvpx",
       "sailfishos-mirror/libwbxml",
       "libwbxml/libwbxml",
-      "sailfishos-mirror/libwebp"
+      "sailfishos-mirror/libwebp",
+      "sailfishos/libwspcodec"
     ]
 
     git_repos_chromium_googlesource = [
