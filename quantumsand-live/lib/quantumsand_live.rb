@@ -1860,7 +1860,8 @@ class QuantumsandLive
       "linux/kernel/git/stable/linux",
       "linux/kernel/git/dhowells/keyutils",
       "utils/kernel/kmod/kmod",
-      "libs/libcap/libcap"
+      "libs/libcap/libcap",
+      "boot/syslinux/syslinux"
     ]
 
     git_repos_isc_org_gitlab = [
