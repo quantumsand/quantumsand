@@ -2429,7 +2429,8 @@ class QuantumsandLive
       "app-office/libreoffice",
       "www-client/firefox",
       "www-client/chromium",
-      "media-libs/libquvi"
+      "media-libs/libquvi",
+      "sys-boot/syslinux"
     ]
 
     gentoo_eselect_repository_add = {
