@@ -1812,7 +1812,8 @@ class QuantumsandLive
       "sailfishos-mirror/libwebp",
       "sailfishos/libwspcodec",
       "sailfishos-mirror/libxcrypt",
-      "besser82/libxcrypt"
+      "besser82/libxcrypt",
+      "sailfishos-mirror/libxkbcommon"
     ]
 
     git_repos_chromium_googlesource = [
