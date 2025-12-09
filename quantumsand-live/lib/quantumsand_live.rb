@@ -1807,7 +1807,8 @@ class QuantumsandLive
       "Libvisual/libvisual",
       "sailfishos-mirror/vorbis",
       "sailfishos-mirror/libvpx",
-      "sailfishos-mirror/libwbxml"
+      "sailfishos-mirror/libwbxml",
+      "libwbxml/libwbxml"
     ]
 
     git_repos_chromium_googlesource = [
