@@ -1836,7 +1836,8 @@ class QuantumsandLive
       "sailfishos-mirror/maliit-framework",
       "maliit/keyboard",
       "maliit/framework",
-      "maliit/inputcontext-gtk"
+      "maliit/inputcontext-gtk",
+      "maliit/plugins"
     ]
 
     git_repos_chromium_googlesource = [
