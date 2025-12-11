@@ -1840,7 +1840,8 @@ class QuantumsandLive
       "maliit/plugins",
       "sailfishos/mapplauncherd",
       "sailfishos/mapplauncherd-booster-browser",
-      "sailfishos/mapplauncherd-booster-firejail"
+      "sailfishos/mapplauncherd-booster-firejail",
+      "sailfishos/mapplauncherd-booster-qtcomponents"
     ]
 
     git_repos_chromium_googlesource = [
