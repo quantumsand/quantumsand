@@ -1837,7 +1837,8 @@ class QuantumsandLive
       "maliit/keyboard",
       "maliit/framework",
       "maliit/inputcontext-gtk",
-      "maliit/plugins"
+      "maliit/plugins",
+      "sailfishos/mapplauncherd"
     ]
 
     git_repos_chromium_googlesource = [
