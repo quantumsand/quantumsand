@@ -2481,7 +2481,8 @@ class QuantumsandLive
       "media-libs/libquvi",
       "sys-boot/syslinux",
       "app-text/texlive",
-      "dev-libs/lzo"
+      "dev-libs/lzo",
+      "app-arch/lzop"
     ]
 
     gentoo_eselect_repository_add = {
