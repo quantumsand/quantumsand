@@ -1912,7 +1912,8 @@ class QuantumsandLive
       "bzip2",
       "debugedit",
       "elfutils",
-      "glibc"
+      "glibc",
+      "lvm2"
     ]
 
     git_repos_libssh_org = [
