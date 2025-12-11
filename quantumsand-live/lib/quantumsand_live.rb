@@ -1826,7 +1826,8 @@ class QuantumsandLive
       "sailfishos-mirror/lsof",
       "lsof-org/lsof",
       "sailfishos-mirror/ltrace",
-      "luaposix/luaposix"
+      "luaposix/luaposix",
+      "sailfishos-mirror/lvm2"
     ]
 
     git_repos_chromium_googlesource = [
