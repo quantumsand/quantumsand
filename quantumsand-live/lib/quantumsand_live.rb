@@ -2012,7 +2012,8 @@ class QuantumsandLive
       "accounts-sso/libaccounts-qt",
       "accounts-sso/signond",
       "accounts-sso/signon-dbus-specification",
-      "accounts-sso/libsignon-glib"
+      "accounts-sso/libsignon-glib",
+      "cespedes/ltrace"
     ]
 
     git_repos_freedesktop_gitlab = [
