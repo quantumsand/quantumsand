@@ -1952,7 +1952,8 @@ class QuantumsandLive
       "groff",
       "gzip",
       "libidn",
-      "libidn/libidn2"
+      "libidn/libidn2",
+      "m4"
     ]
 
     git_repos_gnu_org_ua = [
