@@ -1822,7 +1822,8 @@ class QuantumsandLive
       "sailfishos/lipstick",
       "sailfishos-mirror/lksctp-tools",
       "sctp/lksctp-tools",
-      "sailfishos-mirror/localsearch"
+      "sailfishos-mirror/localsearch",
+      "sailfishos-mirror/lsof"
     ]
 
     git_repos_chromium_googlesource = [
