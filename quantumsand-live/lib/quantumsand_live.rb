@@ -1845,7 +1845,8 @@ class QuantumsandLive
       "sailfishos/mapplauncherd-booster-silica",
       "sailfishos/mapplauncherd-qt",
       "sailfishos/mce",
-      "sailfishos/mce-dev"
+      "sailfishos/mce-dev",
+      "sailfishos/meego-lsb"
     ]
 
     git_repos_chromium_googlesource = [
