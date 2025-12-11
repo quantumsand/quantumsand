@@ -1830,7 +1830,8 @@ class QuantumsandLive
       "sailfishos-mirror/lvm2",
       "sailfishos-mirror/lxc",
       "lxc/lxc",
-      "sailfishos-mirror/lz4"
+      "sailfishos-mirror/lz4",
+      "sailfishos/mailcap"
     ]
 
     git_repos_chromium_googlesource = [
