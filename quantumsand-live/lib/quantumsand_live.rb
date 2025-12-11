@@ -1823,7 +1823,8 @@ class QuantumsandLive
       "sailfishos-mirror/lksctp-tools",
       "sctp/lksctp-tools",
       "sailfishos-mirror/localsearch",
-      "sailfishos-mirror/lsof"
+      "sailfishos-mirror/lsof",
+      "lsof-org/lsof"
     ]
 
     git_repos_chromium_googlesource = [
