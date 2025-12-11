@@ -1842,7 +1842,8 @@ class QuantumsandLive
       "sailfishos/mapplauncherd-booster-browser",
       "sailfishos/mapplauncherd-booster-firejail",
       "sailfishos/mapplauncherd-booster-qtcomponents",
-      "sailfishos/mapplauncherd-booster-silica"
+      "sailfishos/mapplauncherd-booster-silica",
+      "sailfishos/mapplauncherd-qt"
     ]
 
     git_repos_chromium_googlesource = [
