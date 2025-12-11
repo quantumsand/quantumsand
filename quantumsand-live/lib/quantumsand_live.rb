@@ -1848,7 +1848,8 @@ class QuantumsandLive
       "sailfishos/mce-dev",
       "sailfishos/meego-lsb",
       "sailfishos/mer-gfx-tests",
-      "sailfishos/mer-kernel-checks"
+      "sailfishos/mer-kernel-checks",
+      "libhybris/libhybris"
     ]
 
     git_repos_chromium_googlesource = [
