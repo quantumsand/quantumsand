@@ -2480,7 +2480,8 @@ class QuantumsandLive
       "www-client/chromium",
       "media-libs/libquvi",
       "sys-boot/syslinux",
-      "app-text/texlive"
+      "app-text/texlive",
+      "dev-libs/lzo"
     ]
 
     gentoo_eselect_repository_add = {
