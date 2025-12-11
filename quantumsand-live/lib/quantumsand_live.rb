@@ -1829,7 +1829,8 @@ class QuantumsandLive
       "luaposix/luaposix",
       "sailfishos-mirror/lvm2",
       "sailfishos-mirror/lxc",
-      "lxc/lxc"
+      "lxc/lxc",
+      "sailfishos-mirror/lz4"
     ]
 
     git_repos_chromium_googlesource = [
