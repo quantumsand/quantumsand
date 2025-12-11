@@ -1851,7 +1851,8 @@ class QuantumsandLive
       "sailfishos/mer-kernel-checks",
       "libhybris/libhybris",
       "sailfishos-mirror/messagingframework",
-      "qt-labs/messagingframework"
+      "qt-labs/messagingframework",
+      "qt-labs/qtvehicleservices"
     ]
 
     git_repos_chromium_googlesource = [
