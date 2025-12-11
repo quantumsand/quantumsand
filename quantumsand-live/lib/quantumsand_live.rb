@@ -1839,7 +1839,8 @@ class QuantumsandLive
       "maliit/inputcontext-gtk",
       "maliit/plugins",
       "sailfishos/mapplauncherd",
-      "sailfishos/mapplauncherd-booster-browser"
+      "sailfishos/mapplauncherd-booster-browser",
+      "sailfishos/mapplauncherd-booster-firejail"
     ]
 
     git_repos_chromium_googlesource = [
