@@ -1819,7 +1819,8 @@ class QuantumsandLive
       "sailfishos-mirror/libxslt",
       "sailfishos-mirror/libzypp",
       "openSUSE/libzypp",
-      "sailfishos/lipstick"
+      "sailfishos/lipstick",
+      "sailfishos-mirror/lksctp-tools"
     ]
 
     git_repos_chromium_googlesource = [
