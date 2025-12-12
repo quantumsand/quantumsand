@@ -2267,7 +2267,8 @@ class QuantumsandLive
       "World/Phosh/phosh",
       "sophie-h/gst-thumbnailers",
       "GNOME/libxslt",
-      "GNOME/localsearch"
+      "GNOME/localsearch",
+      "GNOME/mobile-broadband-provider-info"
     ]
 
     git_repos_postgresql_org = [
