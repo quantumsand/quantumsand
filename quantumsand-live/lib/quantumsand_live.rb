@@ -1871,7 +1871,8 @@ class QuantumsandLive
       "servo/mozjs",
       "sailfishos-mirror/mpc",
       "sailfishos/mpfr",
-      "sailfishos-mirror/mtdev"
+      "sailfishos-mirror/mtdev",
+      "sailfishos/multi_c_rehash"
     ]
 
     git_repos_chromium_googlesource = [
