@@ -34,6 +34,7 @@ import VirtualKeyboard from "./pages/VirtualKeyboard/VirtualKeyboard";
 import Pins from "./pages/Pins/Pins";
 import Cards from "./pages/Cards/Cards";
 import VideogameDialogueSubtitles from "./pages/Videogame/VideogameDialogueSubtitles";
+import Notifications from "./pages/Notifications/Notifications";
 
 const mathsSlides = [
     {
@@ -107,6 +108,7 @@ function App() {
           <Route path="pins" element={<Pins />} />
           <Route path="cards" element={<Cards />} />
           <Route path="videogame-dialogue-subtitles" element={<VideogameDialogueSubtitles />} />
+          <Route path="notifications" element={<Notifications />} />
           <Route path="*" element={<NoPage />} />
         </Route>
       </Routes>

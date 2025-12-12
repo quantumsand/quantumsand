@@ -1,0 +1,18 @@
+.notifications {
+  height: 180px;
+  min-width: 500px;
+}
+
+.notification {
+  display: flex;
+  align-items: center;
+}
+
+.notification > p {
+  padding-left: 5px;
+}
+
+.Toastify__toast-container--top-right {
+  top: 0.6em !important;
+  right: 0.6em !important;
+}
