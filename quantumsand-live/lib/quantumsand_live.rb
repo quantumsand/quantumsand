@@ -1892,7 +1892,8 @@ class QuantumsandLive
       "sailfishos/nemo-qml-plugin-devicelock",
       "fkhadra/react-toastify",
       "LinusU/p-sleep",
-      "comfyanonymous/ComfyUI"
+      "comfyanonymous/ComfyUI",
+      "Comfy-Org/workflow_templates"
     ]
 
     git_repos_chromium_googlesource = [
