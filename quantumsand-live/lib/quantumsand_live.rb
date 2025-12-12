@@ -1869,7 +1869,8 @@ class QuantumsandLive
       "sailfishos/module-init-tools",
       "sailfishos/mozjs",
       "servo/mozjs",
-      "sailfishos-mirror/mpc"
+      "sailfishos-mirror/mpc",
+      "sailfishos/mpfr"
     ]
 
     git_repos_chromium_googlesource = [
