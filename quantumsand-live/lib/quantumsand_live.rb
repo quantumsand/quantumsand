@@ -1880,7 +1880,8 @@ class QuantumsandLive
       "sailfishos/nemo-keepalive",
       "sailfishos/nemo-qml-plugin-accounts",
       "sailfishos/nemo-qml-plugin-alarms",
-      "sailfishos/nemo-qml-plugin-calendar"
+      "sailfishos/nemo-qml-plugin-calendar",
+      "wojtekmaj/react-calendar"
     ]
 
     git_repos_chromium_googlesource = [
