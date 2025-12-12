@@ -2664,9 +2664,6 @@ class QuantumsandLive
     # TODO: DeepSeek
     # TODO: Fire-Flyer File System (3FS)
     # TODO: MiniMax-M1
-    # TODO: comfyanonymous/ComfyUI
-    # TODO: Comfy-Org/workflow_templates
-    # TODO: Comfy-Org/comfy-cli
     # TODO: nvidia/parakeet-tdt-0.6b-v2
     # TODO: xai-org/grok-2
     # TODO: Wan-Video/Wan2.2; Wan: Open and Advanced Large-Scale Video Generative Models
