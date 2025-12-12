@@ -1866,7 +1866,8 @@ class QuantumsandLive
       "mer-hybris/hybris-boot",
       "sailfishos/mms-engine",
       "sailfishos-mirror/mobile-broadband-provider-info",
-      "sailfishos/module-init-tools"
+      "sailfishos/module-init-tools",
+      "sailfishos/mozjs"
     ]
 
     git_repos_chromium_googlesource = [
