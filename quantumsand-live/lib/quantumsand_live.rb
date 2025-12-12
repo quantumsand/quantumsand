@@ -1861,7 +1861,8 @@ class QuantumsandLive
       "sailfishos/mkdevnodes",
       "sailfishos/mkinitrd",
       "sailfishos/mlite",
-      "sailfishos/mlsdb-data"
+      "sailfishos/mlsdb-data",
+      "mer-hybris/geoclue-providers-mlsdb"
     ]
 
     git_repos_chromium_googlesource = [
