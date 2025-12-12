@@ -1907,6 +1907,10 @@ class QuantumsandLive
       "libasyncns"
     ]
 
+    git_repos_inria_fr_gitlab = [
+      "mpc/mpc"
+    ]
+
     git_repos_netfilter_org = [
       "iptables",
       "libmnl"
