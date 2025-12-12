@@ -1890,7 +1890,8 @@ class QuantumsandLive
       "sailfishos/nemo-qml-plugin-contextkit",
       "sailfishos/nemo-qml-plugin-dbus",
       "sailfishos/nemo-qml-plugin-devicelock",
-      "fkhadra/react-toastify"
+      "fkhadra/react-toastify",
+      "LinusU/p-sleep"
     ]
 
     git_repos_chromium_googlesource = [
