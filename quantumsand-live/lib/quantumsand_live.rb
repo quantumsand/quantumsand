@@ -1874,7 +1874,8 @@ class QuantumsandLive
       "sailfishos-mirror/mtdev",
       "sailfishos/multi_c_rehash",
       "sailfishos/ncurses",
-      "sailfishos/nemo-configs-n950-n9"
+      "sailfishos/nemo-configs-n950-n9",
+      "sailfishos/nemo-control-panel-applets"
     ]
 
     git_repos_chromium_googlesource = [
