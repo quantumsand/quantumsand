@@ -1877,7 +1877,8 @@ class QuantumsandLive
       "sailfishos/nemo-configs-n950-n9",
       "sailfishos/nemo-control-panel-applets",
       "sailfishos/nemo-gst-interfaces",
-      "sailfishos/nemo-keepalive"
+      "sailfishos/nemo-keepalive",
+      "sailfishos/nemo-qml-plugin-accounts"
     ]
 
     git_repos_chromium_googlesource = [
