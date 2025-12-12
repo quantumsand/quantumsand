@@ -1887,7 +1887,8 @@ class QuantumsandLive
       "sailfishos/nemo-qml-plugin-configuration",
       "sailfishos/nemo-qml-plugin-connectivity",
       "sailfishos/nemo-qml-plugin-contacts",
-      "sailfishos/nemo-qml-plugin-contextkit"
+      "sailfishos/nemo-qml-plugin-contextkit",
+      "sailfishos/nemo-qml-plugin-dbus"
     ]
 
     git_repos_chromium_googlesource = [
