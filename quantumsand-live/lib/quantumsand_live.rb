@@ -1860,7 +1860,8 @@ class QuantumsandLive
       "sailfishos/mkcal",
       "sailfishos/mkdevnodes",
       "sailfishos/mkinitrd",
-      "sailfishos/mlite"
+      "sailfishos/mlite",
+      "sailfishos/mlsdb-data"
     ]
 
     git_repos_chromium_googlesource = [
