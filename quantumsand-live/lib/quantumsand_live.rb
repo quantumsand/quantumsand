@@ -1858,7 +1858,8 @@ class QuantumsandLive
       "sailfishos/mingetty",
       "sailfishos/minui",
       "sailfishos/mkcal",
-      "sailfishos/mkdevnodes"
+      "sailfishos/mkdevnodes",
+      "sailfishos/mkinitrd"
     ]
 
     git_repos_chromium_googlesource = [
