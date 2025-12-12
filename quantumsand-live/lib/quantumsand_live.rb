@@ -1864,7 +1864,8 @@ class QuantumsandLive
       "sailfishos/mlsdb-data",
       "mer-hybris/geoclue-providers-mlsdb",
       "mer-hybris/hybris-boot",
-      "sailfishos/mms-engine"
+      "sailfishos/mms-engine",
+      "sailfishos-mirror/mobile-broadband-provider-info"
     ]
 
     git_repos_chromium_googlesource = [
