@@ -1893,7 +1893,8 @@ class QuantumsandLive
       "fkhadra/react-toastify",
       "LinusU/p-sleep",
       "comfyanonymous/ComfyUI",
-      "Comfy-Org/workflow_templates"
+      "Comfy-Org/workflow_templates",
+      "Comfy-Org/comfy-cli"
     ]
 
     git_repos_chromium_googlesource = [
