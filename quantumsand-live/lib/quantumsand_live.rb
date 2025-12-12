@@ -1868,7 +1868,8 @@ class QuantumsandLive
       "sailfishos-mirror/mobile-broadband-provider-info",
       "sailfishos/module-init-tools",
       "sailfishos/mozjs",
-      "servo/mozjs"
+      "servo/mozjs",
+      "sailfishos-mirror/mpc"
     ]
 
     git_repos_chromium_googlesource = [
