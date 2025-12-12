@@ -2528,7 +2528,8 @@ class QuantumsandLive
       "sys-boot/syslinux",
       "app-text/texlive",
       "dev-libs/lzo",
-      "app-arch/lzop"
+      "app-arch/lzop",
+      "media-sound/mpg123"
     ]
 
     gentoo_eselect_repository_add = {
