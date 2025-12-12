@@ -1884,7 +1884,8 @@ class QuantumsandLive
       "wojtekmaj/react-calendar",
       "typicode/husky",
       "typicode/json-server",
-      "sailfishos/nemo-qml-plugin-configuration"
+      "sailfishos/nemo-qml-plugin-configuration",
+      "sailfishos/nemo-qml-plugin-connectivity"
     ]
 
     git_repos_chromium_googlesource = [
