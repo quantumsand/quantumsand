@@ -1999,7 +1999,8 @@ class QuantumsandLive
       "gzip",
       "libidn",
       "libidn/libidn2",
-      "m4"
+      "m4",
+      "nano"
     ]
 
     git_repos_gnu_org_ua = [
