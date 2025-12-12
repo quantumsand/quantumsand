@@ -1855,7 +1855,8 @@ class QuantumsandLive
       "qt-labs/qtvehicleservices",
       "qt-labs/vscodeext",
       "sailfishos/mic",
-      "sailfishos/mingetty"
+      "sailfishos/mingetty",
+      "sailfishos/minui"
     ]
 
     git_repos_chromium_googlesource = [
