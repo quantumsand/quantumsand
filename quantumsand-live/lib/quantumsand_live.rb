@@ -1894,7 +1894,8 @@ class QuantumsandLive
       "LinusU/p-sleep",
       "comfyanonymous/ComfyUI",
       "Comfy-Org/workflow_templates",
-      "Comfy-Org/comfy-cli"
+      "Comfy-Org/comfy-cli",
+      "oracle/bpftune"
     ]
 
     git_repos_chromium_googlesource = [
