@@ -1899,7 +1899,8 @@ class QuantumsandLive
       "ShadowBlip/ayaneo-platform",
       "ShadowBlip/InputPlumber",
       "ValveSoftware/gamescope",
-      "electric-sql/postgres-pglite"
+      "electric-sql/postgres-pglite",
+      "NVIDIA/open-gpu-kernel-modules"
     ]
 
     git_repos_chromium_googlesource = [
