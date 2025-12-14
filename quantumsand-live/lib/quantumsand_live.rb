@@ -1898,7 +1898,8 @@ class QuantumsandLive
       "oracle/bpftune",
       "ShadowBlip/ayaneo-platform",
       "ShadowBlip/InputPlumber",
-      "ValveSoftware/gamescope"
+      "ValveSoftware/gamescope",
+      "electric-sql/postgres-pglite"
     ]
 
     git_repos_chromium_googlesource = [
