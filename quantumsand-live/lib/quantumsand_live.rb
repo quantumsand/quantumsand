@@ -1895,7 +1895,8 @@ class QuantumsandLive
       "comfyanonymous/ComfyUI",
       "Comfy-Org/workflow_templates",
       "Comfy-Org/comfy-cli",
-      "oracle/bpftune"
+      "oracle/bpftune",
+      "ShadowBlip/ayaneo-platform"
     ]
 
     git_repos_chromium_googlesource = [
