@@ -1897,7 +1897,8 @@ class QuantumsandLive
       "Comfy-Org/comfy-cli",
       "oracle/bpftune",
       "ShadowBlip/ayaneo-platform",
-      "ShadowBlip/InputPlumber"
+      "ShadowBlip/InputPlumber",
+      "ValveSoftware/gamescope"
     ]
 
     git_repos_chromium_googlesource = [
