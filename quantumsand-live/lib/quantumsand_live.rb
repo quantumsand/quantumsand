@@ -1900,7 +1900,8 @@ class QuantumsandLive
       "ShadowBlip/InputPlumber",
       "ValveSoftware/gamescope",
       "electric-sql/postgres-pglite",
-      "NVIDIA/open-gpu-kernel-modules"
+      "NVIDIA/open-gpu-kernel-modules",
+      "orhun/git-cliff"
     ]
 
     git_repos_chromium_googlesource = [
