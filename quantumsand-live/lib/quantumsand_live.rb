@@ -2591,7 +2591,8 @@ class QuantumsandLive
       "media-sound/mpg123",
       "sys-fs/e2fsprogs",
       "sys-apps/net-tools",
-      "net-misc/ntp"
+      "net-misc/ntp",
+      "dev-lang/elixir"
     ]
 
     gentoo_eselect_repository_add = {
@@ -2737,8 +2738,6 @@ class QuantumsandLive
     # TODO: Firefox
     # TODO: Chromium
     # TODO: VLC
-    # TODO: dev-lang/erlang
-    # TODO: dev-lang/elixir
     # TODO: ejabberd
     # TODO: GStreamer
     # TODO: dev-cpp/gtest; Google C++ Testing Framework
