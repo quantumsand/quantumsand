@@ -1917,7 +1917,8 @@ class QuantumsandLive
       "sailfishos/net-tools",
       "ecki/net-tools",
       "sailfishos/nfcd",
-      "sailfishos/ngfd"
+      "sailfishos/ngfd",
+      "sailfishos/ngfd-plugin-pulse"
     ]
 
     git_repos_chromium_googlesource = [
