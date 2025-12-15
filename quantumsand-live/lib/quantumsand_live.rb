@@ -1919,7 +1919,8 @@ class QuantumsandLive
       "sailfishos/nfcd",
       "sailfishos/ngfd",
       "sailfishos/ngfd-plugin-pulse",
-      "mruby/mruby"
+      "mruby/mruby",
+      "rvm/rvm"
     ]
 
     git_repos_chromium_googlesource = [
