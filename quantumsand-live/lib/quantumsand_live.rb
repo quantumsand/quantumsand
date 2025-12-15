@@ -1915,7 +1915,8 @@ class QuantumsandLive
       "sailfishos/nemo-qml-plugin-time",
       "sailfishos/nemo-qtmultimedia-plugins",
       "sailfishos/net-tools",
-      "ecki/net-tools"
+      "ecki/net-tools",
+      "sailfishos/nfcd"
     ]
 
     git_repos_chromium_googlesource = [
