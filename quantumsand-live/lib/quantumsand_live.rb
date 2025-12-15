@@ -2590,7 +2590,8 @@ class QuantumsandLive
       "app-arch/lzop",
       "media-sound/mpg123",
       "sys-fs/e2fsprogs",
-      "sys-apps/net-tools"
+      "sys-apps/net-tools",
+      "net-misc/ntp"
     ]
 
     gentoo_eselect_repository_add = {
