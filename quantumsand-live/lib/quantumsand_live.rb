@@ -1933,7 +1933,8 @@ class QuantumsandLive
       "sailfishos/obex-capability",
       "sailfishos/ohm",
       "sailfishos/ohm-plugins-misc",
-      "sailfishos/ohm-rule-engine"
+      "sailfishos/ohm-rule-engine",
+      "sailfishos/oneshot"
     ]
 
     git_repos_chromium_googlesource = [
