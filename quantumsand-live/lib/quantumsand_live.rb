@@ -2515,6 +2515,10 @@ class QuantumsandLive
       "iso-codes-team/iso-codes"
     ]
 
+    git_repos_gentoo_org = [
+      "gentoo"
+    ]
+
     fossil_repos_sqlite_org = [
       "src"
     ]
