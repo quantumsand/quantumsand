@@ -1936,7 +1936,8 @@ class QuantumsandLive
       "sailfishos/ohm-rule-engine",
       "sailfishos/oneshot",
       "sailfishos-mirror/openconnect",
-      "moby/moby"
+      "moby/moby",
+      "docker/compose"
     ]
 
     git_repos_chromium_googlesource = [
