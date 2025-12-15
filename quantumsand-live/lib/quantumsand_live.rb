@@ -2135,7 +2135,8 @@ class QuantumsandLive
       "cespedes/ltrace",
       "openconnect/openconnect",
       "openconnect/openconnect-gui",
-      "openconnect/protocol"
+      "openconnect/protocol",
+      "openconnect/recipes"
     ]
 
     git_repos_freedesktop_gitlab = [
