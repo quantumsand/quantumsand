@@ -2008,7 +2008,8 @@ class QuantumsandLive
       "utils/kernel/kmod/kmod",
       "libs/libcap/libcap",
       "boot/syslinux/syslinux",
-      "bluetooth/obexd"
+      "bluetooth/obexd",
+      "network/ofono/ofono"
     ]
 
     git_repos_isc_org_gitlab = [
