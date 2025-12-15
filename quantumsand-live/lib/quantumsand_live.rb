@@ -1927,7 +1927,8 @@ class QuantumsandLive
       "sailfishos/nspr",
       "sailfishos-mirror/nss",
       "nss-dev/nss",
-      "sailfishos-mirror/nss-pem"
+      "sailfishos-mirror/nss-pem",
+      "kdudka/nss-pem"
     ]
 
     git_repos_chromium_googlesource = [
