@@ -1904,7 +1904,8 @@ class QuantumsandLive
       "orhun/git-cliff",
       "sailfishos/nemo-qml-plugin-email",
       "sailfishos/nemo-qml-plugin-filemanager",
-      "sailfishos/nemo-qml-plugin-messages"
+      "sailfishos/nemo-qml-plugin-messages",
+      "sailfishos/nemo-qml-plugin-models"
     ]
 
     git_repos_chromium_googlesource = [
