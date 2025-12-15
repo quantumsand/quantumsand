@@ -1902,7 +1902,8 @@ class QuantumsandLive
       "electric-sql/postgres-pglite",
       "NVIDIA/open-gpu-kernel-modules",
       "orhun/git-cliff",
-      "sailfishos/nemo-qml-plugin-email"
+      "sailfishos/nemo-qml-plugin-email",
+      "sailfishos/nemo-qml-plugin-filemanager"
     ]
 
     git_repos_chromium_googlesource = [
