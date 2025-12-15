@@ -1922,7 +1922,8 @@ class QuantumsandLive
       "mruby/mruby",
       "rvm/rvm",
       "h2o/neverbleed",
-      "sailfishos-mirror/nghttp2"
+      "sailfishos-mirror/nghttp2",
+      "nghttp2/nghttp2"
     ]
 
     git_repos_chromium_googlesource = [
