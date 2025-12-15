@@ -1901,7 +1901,8 @@ class QuantumsandLive
       "ValveSoftware/gamescope",
       "electric-sql/postgres-pglite",
       "NVIDIA/open-gpu-kernel-modules",
-      "orhun/git-cliff"
+      "orhun/git-cliff",
+      "sailfishos/nemo-qml-plugin-email"
     ]
 
     git_repos_chromium_googlesource = [
