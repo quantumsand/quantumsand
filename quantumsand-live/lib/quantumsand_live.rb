@@ -2007,7 +2007,8 @@ class QuantumsandLive
       "linux/kernel/git/dhowells/keyutils",
       "utils/kernel/kmod/kmod",
       "libs/libcap/libcap",
-      "boot/syslinux/syslinux"
+      "boot/syslinux/syslinux",
+      "bluetooth/obexd"
     ]
 
     git_repos_isc_org_gitlab = [
