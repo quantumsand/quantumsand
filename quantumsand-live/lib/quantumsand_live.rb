@@ -1903,7 +1903,8 @@ class QuantumsandLive
       "NVIDIA/open-gpu-kernel-modules",
       "orhun/git-cliff",
       "sailfishos/nemo-qml-plugin-email",
-      "sailfishos/nemo-qml-plugin-filemanager"
+      "sailfishos/nemo-qml-plugin-filemanager",
+      "sailfishos/nemo-qml-plugin-messages"
     ]
 
     git_repos_chromium_googlesource = [
