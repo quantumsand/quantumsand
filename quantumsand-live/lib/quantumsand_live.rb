@@ -1921,7 +1921,8 @@ class QuantumsandLive
       "sailfishos/ngfd-plugin-pulse",
       "mruby/mruby",
       "rvm/rvm",
-      "h2o/neverbleed"
+      "h2o/neverbleed",
+      "sailfishos-mirror/nghttp2"
     ]
 
     git_repos_chromium_googlesource = [
