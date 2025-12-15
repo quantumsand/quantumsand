@@ -1932,7 +1932,8 @@ class QuantumsandLive
       "sailfishos/ntp",
       "sailfishos/obex-capability",
       "sailfishos/ohm",
-      "sailfishos/ohm-plugins-misc"
+      "sailfishos/ohm-plugins-misc",
+      "sailfishos/ohm-rule-engine"
     ]
 
     git_repos_chromium_googlesource = [
