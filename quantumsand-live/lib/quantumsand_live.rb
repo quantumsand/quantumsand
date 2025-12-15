@@ -1934,7 +1934,8 @@ class QuantumsandLive
       "sailfishos/ohm",
       "sailfishos/ohm-plugins-misc",
       "sailfishos/ohm-rule-engine",
-      "sailfishos/oneshot"
+      "sailfishos/oneshot",
+      "sailfishos-mirror/openconnect"
     ]
 
     git_repos_chromium_googlesource = [
