@@ -1910,7 +1910,8 @@ class QuantumsandLive
       "sailfishos/nemo-qml-plugin-policy",
       "sailfishos/nemo-qml-plugin-signon",
       "sailfishos/nemo-qml-plugin-social",
-      "sailfishos/nemo-qml-plugin-systemsettings"
+      "sailfishos/nemo-qml-plugin-systemsettings",
+      "sailfishos/nemo-qml-plugin-thumbnailer"
     ]
 
     git_repos_chromium_googlesource = [
