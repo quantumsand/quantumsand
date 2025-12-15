@@ -2576,7 +2576,8 @@ class QuantumsandLive
       "dev-libs/lzo",
       "app-arch/lzop",
       "media-sound/mpg123",
-      "sys-fs/e2fsprogs"
+      "sys-fs/e2fsprogs",
+      "sys-apps/net-tools"
     ]
 
     gentoo_eselect_repository_add = {
