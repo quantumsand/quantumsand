@@ -2137,7 +2137,8 @@ class QuantumsandLive
       "openconnect/openconnect-gui",
       "openconnect/protocol",
       "openconnect/recipes",
-      "openconnect/vpnc-scripts"
+      "openconnect/vpnc-scripts",
+      "openconnect/ocserv"
     ]
 
     git_repos_freedesktop_gitlab = [
