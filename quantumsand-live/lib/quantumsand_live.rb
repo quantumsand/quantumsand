@@ -1925,7 +1925,8 @@ class QuantumsandLive
       "sailfishos-mirror/nghttp2",
       "nghttp2/nghttp2",
       "sailfishos/nspr",
-      "sailfishos-mirror/nss"
+      "sailfishos-mirror/nss",
+      "nss-dev/nss"
     ]
 
     git_repos_chromium_googlesource = [
