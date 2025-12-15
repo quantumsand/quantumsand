@@ -1924,7 +1924,8 @@ class QuantumsandLive
       "h2o/neverbleed",
       "sailfishos-mirror/nghttp2",
       "nghttp2/nghttp2",
-      "sailfishos/nspr"
+      "sailfishos/nspr",
+      "sailfishos-mirror/nss"
     ]
 
     git_repos_chromium_googlesource = [
