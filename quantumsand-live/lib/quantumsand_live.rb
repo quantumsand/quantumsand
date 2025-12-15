@@ -2132,7 +2132,8 @@ class QuantumsandLive
       "accounts-sso/signond",
       "accounts-sso/signon-dbus-specification",
       "accounts-sso/libsignon-glib",
-      "cespedes/ltrace"
+      "cespedes/ltrace",
+      "openconnect/openconnect"
     ]
 
     git_repos_freedesktop_gitlab = [
