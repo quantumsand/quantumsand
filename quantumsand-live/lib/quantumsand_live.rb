@@ -1943,7 +1943,8 @@ class QuantumsandLive
       "sailfishos-mirror/openjpeg",
       "uclouvain/openjpeg",
       "uclouvain/openjpeg-data",
-      "sailfishos-mirror/openobex"
+      "sailfishos-mirror/openobex",
+      "sailfishos-mirror/openssh-portable"
     ]
 
     git_repos_chromium_googlesource = [
