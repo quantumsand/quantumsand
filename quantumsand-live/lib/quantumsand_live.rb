@@ -1949,7 +1949,8 @@ class QuantumsandLive
       "krb5/krb5",
       "gost-engine/engine",
       "provider-corner/libprov",
-      "C2SP/wycheproof"
+      "C2SP/wycheproof",
+      "tlsfuzzer/tlsfuzzer"
     ]
 
     git_repos_chromium_googlesource = [
