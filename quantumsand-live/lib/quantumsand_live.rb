@@ -1969,7 +1969,8 @@ class QuantumsandLive
       "p11-glue/pkcs11-json",
       "p11-glue/p11-glue",
       "p11-glue/pkcs11-trust-assertions",
-      "sailfishos/p7zip"
+      "sailfishos/p7zip",
+      "sailfishos/PackageKit"
     ]
 
     git_repos_chromium_googlesource = [
