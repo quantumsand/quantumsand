@@ -2052,7 +2052,8 @@ class QuantumsandLive
       "libs/libcap/libcap",
       "boot/syslinux/syslinux",
       "bluetooth/obexd",
-      "network/ofono/ofono"
+      "network/ofono/ofono",
+      "network/connman/pacrunner"
     ]
 
     git_repos_isc_org_gitlab = [
