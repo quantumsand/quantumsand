@@ -1954,7 +1954,8 @@ class QuantumsandLive
       "tlsfuzzer/tlslite-ng",
       "tlsfuzzer/python-ecdsa",
       "openssl/fuzz-corpora",
-      "latchset/pkcs11-provider"
+      "latchset/pkcs11-provider",
+      "vosen/ZLUDA"
     ]
 
     git_repos_chromium_googlesource = [
