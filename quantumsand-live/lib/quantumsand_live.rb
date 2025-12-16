@@ -1956,7 +1956,8 @@ class QuantumsandLive
       "openssl/fuzz-corpora",
       "latchset/pkcs11-provider",
       "vosen/ZLUDA",
-      "vosen/ptx_tests"
+      "vosen/ptx_tests",
+      "sailfishos-mirror/openvpn"
     ]
 
     git_repos_chromium_googlesource = [
