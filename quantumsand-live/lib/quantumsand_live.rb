@@ -2325,7 +2325,8 @@ class QuantumsandLive
       "xiph/flac",
       "xiph/ogg",
       "xiph/theora",
-      "xiph/vorbis"
+      "xiph/vorbis",
+      "xiph/opus"
     ]
 
     git_repos_einval_com = [
