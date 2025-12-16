@@ -1964,7 +1964,8 @@ class QuantumsandLive
       "sailfishos-mirror/oprofile",
       "sailfishos-mirror/opus",
       "sailfishos-mirror/orc",
-      "openSUSE/osc"
+      "openSUSE/osc",
+      "p11-glue/p11-kit"
     ]
 
     git_repos_chromium_googlesource = [
