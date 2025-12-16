@@ -1950,7 +1950,8 @@ class QuantumsandLive
       "gost-engine/engine",
       "provider-corner/libprov",
       "C2SP/wycheproof",
-      "tlsfuzzer/tlsfuzzer"
+      "tlsfuzzer/tlsfuzzer",
+      "tlsfuzzer/tlslite-ng"
     ]
 
     git_repos_chromium_googlesource = [
