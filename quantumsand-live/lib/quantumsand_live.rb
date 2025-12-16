@@ -1975,7 +1975,8 @@ class QuantumsandLive
       "PackageKit/PackageKit",
       "sailfishos-mirror/pacrunner",
       "ggml-org/llama.cpp",
-      "ggml-org/ggml"
+      "ggml-org/ggml",
+      "microsoft/monaco-editor"
     ]
 
     git_repos_chromium_googlesource = [
