@@ -1952,7 +1952,8 @@ class QuantumsandLive
       "C2SP/wycheproof",
       "tlsfuzzer/tlsfuzzer",
       "tlsfuzzer/tlslite-ng",
-      "tlsfuzzer/python-ecdsa"
+      "tlsfuzzer/python-ecdsa",
+      "openssl/fuzz-corpora"
     ]
 
     git_repos_chromium_googlesource = [
