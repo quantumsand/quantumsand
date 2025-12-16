@@ -1948,7 +1948,8 @@ class QuantumsandLive
       "pyca/cryptography",
       "krb5/krb5",
       "gost-engine/engine",
-      "provider-corner/libprov"
+      "provider-corner/libprov",
+      "C2SP/wycheproof"
     ]
 
     git_repos_chromium_googlesource = [
