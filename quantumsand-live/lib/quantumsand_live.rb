@@ -1942,7 +1942,8 @@ class QuantumsandLive
       "adrienverge/openfortivpn",
       "sailfishos-mirror/openjpeg",
       "uclouvain/openjpeg",
-      "uclouvain/openjpeg-data"
+      "uclouvain/openjpeg-data",
+      "sailfishos-mirror/openobex"
     ]
 
     git_repos_chromium_googlesource = [
