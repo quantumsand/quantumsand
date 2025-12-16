@@ -1940,7 +1940,8 @@ class QuantumsandLive
       "docker/compose",
       "sailfishos-mirror/openfortivpn",
       "adrienverge/openfortivpn",
-      "sailfishos-mirror/openjpeg"
+      "sailfishos-mirror/openjpeg",
+      "uclouvain/openjpeg"
     ]
 
     git_repos_chromium_googlesource = [
