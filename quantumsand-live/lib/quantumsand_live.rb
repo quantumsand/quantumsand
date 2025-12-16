@@ -1973,7 +1973,8 @@ class QuantumsandLive
       "sailfishos/PackageKit",
       "PackageKit/PackageKit-Qt",
       "PackageKit/PackageKit",
-      "sailfishos-mirror/pacrunner"
+      "sailfishos-mirror/pacrunner",
+      "ggml-org/llama.cpp"
     ]
 
     git_repos_chromium_googlesource = [
