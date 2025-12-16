@@ -1976,7 +1976,8 @@ class QuantumsandLive
       "sailfishos-mirror/pacrunner",
       "ggml-org/llama.cpp",
       "ggml-org/ggml",
-      "microsoft/monaco-editor"
+      "microsoft/monaco-editor",
+      "suren-atoyan/monaco-react"
     ]
 
     git_repos_chromium_googlesource = [
