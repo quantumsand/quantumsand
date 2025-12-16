@@ -1937,7 +1937,8 @@ class QuantumsandLive
       "sailfishos/oneshot",
       "sailfishos-mirror/openconnect",
       "moby/moby",
-      "docker/compose"
+      "docker/compose",
+      "sailfishos-mirror/openfortivpn"
     ]
 
     git_repos_chromium_googlesource = [
