@@ -1961,7 +1961,8 @@ class QuantumsandLive
       "OpenVPN/openvpn",
       "OpenVPN/easy-rsa",
       "OpenVPN/openvpn3",
-      "sailfishos-mirror/oprofile"
+      "sailfishos-mirror/oprofile",
+      "sailfishos-mirror/opus"
     ]
 
     git_repos_chromium_googlesource = [
