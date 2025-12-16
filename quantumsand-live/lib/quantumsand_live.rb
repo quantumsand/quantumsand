@@ -1959,7 +1959,8 @@ class QuantumsandLive
       "vosen/ptx_tests",
       "sailfishos-mirror/openvpn",
       "OpenVPN/openvpn",
-      "OpenVPN/easy-rsa"
+      "OpenVPN/easy-rsa",
+      "OpenVPN/openvpn3"
     ]
 
     git_repos_chromium_googlesource = [
