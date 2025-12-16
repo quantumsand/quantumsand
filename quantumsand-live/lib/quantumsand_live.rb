@@ -1951,7 +1951,8 @@ class QuantumsandLive
       "provider-corner/libprov",
       "C2SP/wycheproof",
       "tlsfuzzer/tlsfuzzer",
-      "tlsfuzzer/tlslite-ng"
+      "tlsfuzzer/tlslite-ng",
+      "tlsfuzzer/python-ecdsa"
     ]
 
     git_repos_chromium_googlesource = [
