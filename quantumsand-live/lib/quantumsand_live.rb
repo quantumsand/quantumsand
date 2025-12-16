@@ -1972,7 +1972,8 @@ class QuantumsandLive
       "sailfishos/p7zip",
       "sailfishos/PackageKit",
       "PackageKit/PackageKit-Qt",
-      "PackageKit/PackageKit"
+      "PackageKit/PackageKit",
+      "sailfishos-mirror/pacrunner"
     ]
 
     git_repos_chromium_googlesource = [
