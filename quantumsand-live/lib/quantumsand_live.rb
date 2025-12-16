@@ -1947,7 +1947,8 @@ class QuantumsandLive
       "sailfishos-mirror/openssh-portable",
       "pyca/cryptography",
       "krb5/krb5",
-      "gost-engine/engine"
+      "gost-engine/engine",
+      "provider-corner/libprov"
     ]
 
     git_repos_chromium_googlesource = [
