@@ -1957,7 +1957,8 @@ class QuantumsandLive
       "latchset/pkcs11-provider",
       "vosen/ZLUDA",
       "vosen/ptx_tests",
-      "sailfishos-mirror/openvpn"
+      "sailfishos-mirror/openvpn",
+      "OpenVPN/openvpn"
     ]
 
     git_repos_chromium_googlesource = [
