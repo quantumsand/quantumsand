@@ -2113,7 +2113,8 @@ class QuantumsandLive
       "libidn",
       "libidn/libidn2",
       "m4",
-      "nano"
+      "nano",
+      "patch"
     ]
 
     git_repos_gnu_org_ua = [
