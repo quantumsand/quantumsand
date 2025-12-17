@@ -1998,7 +1998,8 @@ class QuantumsandLive
       "OpenSC/OpenSC",
       "OpenSC/pam_p11",
       "OpenSC/pam_pkcs11",
-      "OpenSC/Wiki"
+      "OpenSC/Wiki",
+      "pkgconf/pkgconf"
     ]
 
     git_repos_chromium_googlesource = [
