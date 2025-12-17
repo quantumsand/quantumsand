@@ -2013,7 +2013,8 @@ class QuantumsandLive
       "popovec/epass2003_sim",
       "apple/containerization",
       "swiftlang/swiftly",
-      "swiftlang/swift"
+      "swiftlang/swift",
+      "swiftlang/swift-docc"
     ]
 
     git_repos_chromium_googlesource = [
