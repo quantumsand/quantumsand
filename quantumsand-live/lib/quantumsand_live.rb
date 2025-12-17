@@ -2017,7 +2017,8 @@ class QuantumsandLive
       "swiftlang/swift-docc",
       "swiftlang/swift-syntax",
       "swiftlang/swift-format",
-      "swiftlang/vscode-swift"
+      "swiftlang/vscode-swift",
+      "ml-jku/neural-gyrokinetics"
     ]
 
     git_repos_chromium_googlesource = [
