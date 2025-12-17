@@ -2274,7 +2274,8 @@ class QuantumsandLive
       "libnice/libnice",
       "freetype/freetype",
       "freetype/docwriter",
-      "pixman/pixman"
+      "pixman/pixman",
+      "spice/libcacard"
     ]
 
     git_repos_xfce_gitlab = [
