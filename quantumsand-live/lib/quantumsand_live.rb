@@ -1979,7 +1979,8 @@ class QuantumsandLive
       "microsoft/monaco-editor",
       "suren-atoyan/monaco-react",
       "sailfishos/pacrunner-cutes",
-      "sailfishos-mirror/pam"
+      "sailfishos-mirror/pam",
+      "linux-pam/linux-pam"
     ]
 
     git_repos_chromium_googlesource = [
