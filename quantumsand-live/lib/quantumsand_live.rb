@@ -1994,7 +1994,8 @@ class QuantumsandLive
       "madler/pigz",
       "OpenSC/pkcs11-helper",
       "OpenSC/libp11",
-      "OpenSC/openct"
+      "OpenSC/openct",
+      "OpenSC/OpenSC"
     ]
 
     git_repos_chromium_googlesource = [
