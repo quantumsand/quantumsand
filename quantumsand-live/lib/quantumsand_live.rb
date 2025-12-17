@@ -1985,7 +1985,8 @@ class QuantumsandLive
       "NixOS/patchelf",
       "libwww-perl/HTML-Parser",
       "libwww-perl/HTML-Tagset",
-      "libwww-perl/libwww-perl"
+      "libwww-perl/libwww-perl",
+      "perl-pod/test-pod"
     ]
 
     git_repos_chromium_googlesource = [
