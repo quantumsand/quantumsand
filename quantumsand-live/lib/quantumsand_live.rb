@@ -2276,7 +2276,8 @@ class QuantumsandLive
       "freetype/docwriter",
       "pixman/pixman",
       "spice/libcacard",
-      "spice/spice-common"
+      "spice/spice-common",
+      "spice/spice"
     ]
 
     git_repos_xfce_gitlab = [
