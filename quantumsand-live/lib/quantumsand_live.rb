@@ -2008,7 +2008,8 @@ class QuantumsandLive
       "popovec/oseid",
       "popovec/upditool",
       "popovec/tpdu-logger",
-      "popovec/ut70d"
+      "popovec/ut70d",
+      "popovec/pcb2g"
     ]
 
     git_repos_chromium_googlesource = [
