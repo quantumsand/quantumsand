@@ -2015,7 +2015,8 @@ class QuantumsandLive
       "swiftlang/swiftly",
       "swiftlang/swift",
       "swiftlang/swift-docc",
-      "swiftlang/swift-syntax"
+      "swiftlang/swift-syntax",
+      "swiftlang/swift-format"
     ]
 
     git_repos_chromium_googlesource = [
