@@ -2823,7 +2823,6 @@ class QuantumsandLive
     # TODO: NVIDIA Linux driver
     # TODO: CUDA
     # TODO: ROCm
-    # TODO: MONAI; PyTorch-based, open-source framework for deep learning in healthcare imaging
     # TODO: cornerstonejs/cornerstone3D; Cornerstone is a set of JavaScript libraries that can be used to build web-based medical imaging applications
     # TODO: luminal-ai/luminal; Deep learning at the speed of light
     # TODO; Evidently AI monitoring
