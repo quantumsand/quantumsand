@@ -2835,7 +2835,6 @@ class QuantumsandLive
     # TODO: Docker; Snippet; /etc/kernel/config.d/docker-linux6-11-10.config
     # TODO: goharbor/harbor; open source trusted cloud native registry project that stores, signs, and scans content
     # TODO: Krita
-    # TODO: GIMP
     # TODO: Inkscape
     # TODO: Linux kernel; CONFIG_X86_NATIVE_CPU
     # TODO: FFmpeg
