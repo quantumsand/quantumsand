@@ -2399,7 +2399,8 @@ class QuantumsandLive
       "sophie-h/gst-thumbnailers",
       "GNOME/libxslt",
       "GNOME/localsearch",
-      "GNOME/mobile-broadband-provider-info"
+      "GNOME/mobile-broadband-provider-info",
+      "GNOME/pango"
     ]
 
     git_repos_postgresql_org = [
