@@ -2010,7 +2010,8 @@ class QuantumsandLive
       "popovec/tpdu-logger",
       "popovec/ut70d",
       "popovec/pcb2g",
-      "popovec/epass2003_sim"
+      "popovec/epass2003_sim",
+      "apple/containerization"
     ]
 
     git_repos_chromium_googlesource = [
