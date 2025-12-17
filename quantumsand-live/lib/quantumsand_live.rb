@@ -2261,7 +2261,8 @@ class QuantumsandLive
       "tartan/tartan",
       "libnice/libnice",
       "freetype/freetype",
-      "freetype/docwriter"
+      "freetype/docwriter",
+      "pixman/pixman"
     ]
 
     git_repos_xfce_gitlab = [
