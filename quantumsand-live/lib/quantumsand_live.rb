@@ -2007,7 +2007,8 @@ class QuantumsandLive
       "dogtagpki/coolkey",
       "popovec/oseid",
       "popovec/upditool",
-      "popovec/tpdu-logger"
+      "popovec/tpdu-logger",
+      "popovec/ut70d"
     ]
 
     git_repos_chromium_googlesource = [
