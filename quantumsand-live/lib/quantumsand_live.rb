@@ -1982,7 +1982,8 @@ class QuantumsandLive
       "sailfishos-mirror/pam",
       "linux-pam/linux-pam",
       "sailfishos/password-manager",
-      "NixOS/patchelf"
+      "NixOS/patchelf",
+      "libwww-perl/HTML-Parser"
     ]
 
     git_repos_chromium_googlesource = [
