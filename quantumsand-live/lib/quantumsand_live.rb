@@ -2277,7 +2277,8 @@ class QuantumsandLive
       "pixman/pixman",
       "spice/libcacard",
       "spice/spice-common",
-      "spice/spice"
+      "spice/spice",
+      "spice/linux/vd_agent"
     ]
 
     git_repos_xfce_gitlab = [
