@@ -2011,7 +2011,8 @@ class QuantumsandLive
     ]
 
     git_repos_pagure_io = [
-      "libaio"
+      "libaio",
+      "passwd"
     ]
 
     git_repos_0pointer_de = [
