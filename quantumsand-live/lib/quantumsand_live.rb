@@ -1980,7 +1980,8 @@ class QuantumsandLive
       "suren-atoyan/monaco-react",
       "sailfishos/pacrunner-cutes",
       "sailfishos-mirror/pam",
-      "linux-pam/linux-pam"
+      "linux-pam/linux-pam",
+      "sailfishos/password-manager"
     ]
 
     git_repos_chromium_googlesource = [
