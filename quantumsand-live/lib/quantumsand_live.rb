@@ -1986,7 +1986,8 @@ class QuantumsandLive
       "libwww-perl/HTML-Parser",
       "libwww-perl/HTML-Tagset",
       "libwww-perl/libwww-perl",
-      "perl-pod/test-pod"
+      "perl-pod/test-pod",
+      "atoomic/perl-TimeDate"
     ]
 
     git_repos_chromium_googlesource = [
