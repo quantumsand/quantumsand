@@ -2002,7 +2002,8 @@ class QuantumsandLive
       "pkgconf/pkgconf",
       "Jakuje/virt_cacard",
       "frankmorgner/vsmartcard",
-      "nfc-tools/libnfc"
+      "nfc-tools/libnfc",
+      "nfc-tools/libfreefare"
     ]
 
     git_repos_chromium_googlesource = [
