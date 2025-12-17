@@ -1999,7 +1999,8 @@ class QuantumsandLive
       "OpenSC/pam_p11",
       "OpenSC/pam_pkcs11",
       "OpenSC/Wiki",
-      "pkgconf/pkgconf"
+      "pkgconf/pkgconf",
+      "Jakuje/virt_cacard"
     ]
 
     git_repos_chromium_googlesource = [
