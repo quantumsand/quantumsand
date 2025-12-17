@@ -1992,7 +1992,8 @@ class QuantumsandLive
       "shlomif/perl-XML-LibXML",
       "cpan-authors/XML-Parser",
       "madler/pigz",
-      "OpenSC/pkcs11-helper"
+      "OpenSC/pkcs11-helper",
+      "OpenSC/libp11"
     ]
 
     git_repos_chromium_googlesource = [
