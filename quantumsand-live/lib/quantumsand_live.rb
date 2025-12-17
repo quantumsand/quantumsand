@@ -2046,7 +2046,8 @@ class QuantumsandLive
       "mistralai/Ministral-3-3B-Reasoning-2512",
       "mistralai/Ministral-3-3B-Base-2512",
       "ml-jku/gyroswin_small",
-      "ml-jku/gyroswin_medium"
+      "ml-jku/gyroswin_medium",
+      "ml-jku/gyroswin_large"
     ]
 
     git_repos_pagure_io = [
