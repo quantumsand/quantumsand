@@ -2005,7 +2005,8 @@ class QuantumsandLive
       "nfc-tools/libnfc",
       "nfc-tools/libfreefare",
       "dogtagpki/coolkey",
-      "popovec/oseid"
+      "popovec/oseid",
+      "popovec/upditool"
     ]
 
     git_repos_chromium_googlesource = [
