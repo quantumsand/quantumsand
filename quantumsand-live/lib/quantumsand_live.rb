@@ -2014,7 +2014,8 @@ class QuantumsandLive
       "apple/containerization",
       "swiftlang/swiftly",
       "swiftlang/swift",
-      "swiftlang/swift-docc"
+      "swiftlang/swift-docc",
+      "swiftlang/swift-syntax"
     ]
 
     git_repos_chromium_googlesource = [
