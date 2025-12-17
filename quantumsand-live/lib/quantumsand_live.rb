@@ -2004,7 +2004,8 @@ class QuantumsandLive
       "frankmorgner/vsmartcard",
       "nfc-tools/libnfc",
       "nfc-tools/libfreefare",
-      "dogtagpki/coolkey"
+      "dogtagpki/coolkey",
+      "popovec/oseid"
     ]
 
     git_repos_chromium_googlesource = [
