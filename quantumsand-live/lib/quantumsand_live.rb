@@ -1988,7 +1988,8 @@ class QuantumsandLive
       "libwww-perl/libwww-perl",
       "perl-pod/test-pod",
       "atoomic/perl-TimeDate",
-      "libwww-perl/URI"
+      "libwww-perl/URI",
+      "shlomif/perl-XML-LibXML"
     ]
 
     git_repos_chromium_googlesource = [
