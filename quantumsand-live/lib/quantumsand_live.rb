@@ -1995,7 +1995,8 @@ class QuantumsandLive
       "OpenSC/pkcs11-helper",
       "OpenSC/libp11",
       "OpenSC/openct",
-      "OpenSC/OpenSC"
+      "OpenSC/OpenSC",
+      "OpenSC/pam_p11"
     ]
 
     git_repos_chromium_googlesource = [
