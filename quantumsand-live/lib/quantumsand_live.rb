@@ -2011,7 +2011,8 @@ class QuantumsandLive
       "popovec/ut70d",
       "popovec/pcb2g",
       "popovec/epass2003_sim",
-      "apple/containerization"
+      "apple/containerization",
+      "swiftlang/swiftly"
     ]
 
     git_repos_chromium_googlesource = [
