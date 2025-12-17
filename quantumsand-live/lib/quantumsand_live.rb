@@ -1983,7 +1983,8 @@ class QuantumsandLive
       "linux-pam/linux-pam",
       "sailfishos/password-manager",
       "NixOS/patchelf",
-      "libwww-perl/HTML-Parser"
+      "libwww-perl/HTML-Parser",
+      "libwww-perl/HTML-Tagset"
     ]
 
     git_repos_chromium_googlesource = [
