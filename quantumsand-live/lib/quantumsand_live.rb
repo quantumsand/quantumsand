@@ -1981,7 +1981,8 @@ class QuantumsandLive
       "sailfishos/pacrunner-cutes",
       "sailfishos-mirror/pam",
       "linux-pam/linux-pam",
-      "sailfishos/password-manager"
+      "sailfishos/password-manager",
+      "NixOS/patchelf"
     ]
 
     git_repos_chromium_googlesource = [
