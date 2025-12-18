@@ -2023,7 +2023,8 @@ class QuantumsandLive
       "mrclputra/bevy_tracksat",
       "neuromorphicsystems/sgp4",
       "wasmerio/sgp4",
-      "rdkit/rdkit"
+      "rdkit/rdkit",
+      "davidedmundson/kiot"
     ]
 
     git_repos_chromium_googlesource = [
