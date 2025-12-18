@@ -2021,7 +2021,8 @@ class QuantumsandLive
       "ml-jku/neural-gyrokinetics",
       "mrclputra/bevy_WeaverGen_V3",
       "mrclputra/bevy_tracksat",
-      "neuromorphicsystems/sgp4"
+      "neuromorphicsystems/sgp4",
+      "wasmerio/sgp4"
     ]
 
     git_repos_chromium_googlesource = [
