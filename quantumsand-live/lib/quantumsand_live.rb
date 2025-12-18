@@ -2018,7 +2018,8 @@ class QuantumsandLive
       "swiftlang/swift-syntax",
       "swiftlang/swift-format",
       "swiftlang/vscode-swift",
-      "ml-jku/neural-gyrokinetics"
+      "ml-jku/neural-gyrokinetics",
+      "mrclputra/bevy_WeaverGen_V3"
     ]
 
     git_repos_chromium_googlesource = [
