@@ -2024,7 +2024,8 @@ class QuantumsandLive
       "neuromorphicsystems/sgp4",
       "wasmerio/sgp4",
       "rdkit/rdkit",
-      "davidedmundson/kiot"
+      "davidedmundson/kiot",
+      "orhun/tuitar"
     ]
 
     git_repos_chromium_googlesource = [
