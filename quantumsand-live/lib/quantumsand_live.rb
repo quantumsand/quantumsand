@@ -2510,7 +2510,8 @@ class QuantumsandLive
       "frameworks/bluez-qt",
       "plasma/plasma-mobile",
       "plasma/plasma-nano",
-      "graphics/digikam"
+      "graphics/digikam",
+      "multimedia/kdenlive"
     ]
 
     git_repos_ffmpeg_org = [
