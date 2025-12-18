@@ -2020,7 +2020,8 @@ class QuantumsandLive
       "swiftlang/vscode-swift",
       "ml-jku/neural-gyrokinetics",
       "mrclputra/bevy_WeaverGen_V3",
-      "mrclputra/bevy_tracksat"
+      "mrclputra/bevy_tracksat",
+      "neuromorphicsystems/sgp4"
     ]
 
     git_repos_chromium_googlesource = [
