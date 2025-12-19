@@ -2042,7 +2042,8 @@ class QuantumsandLive
       "sailfishos/policy-settings-common",
       "sailfishos-mirror/polkit",
       "polkit-org/polkit",
-      "sailfishos/polkit-qt-1"
+      "sailfishos/polkit-qt-1",
+      "sailfishos-mirror/poppler"
     ]
 
     git_repos_chromium_googlesource = [
