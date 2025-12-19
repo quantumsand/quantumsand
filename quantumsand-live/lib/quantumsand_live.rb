@@ -2049,7 +2049,8 @@ class QuantumsandLive
       "rpm-software-management/popt",
       "ppp-project/ppp",
       "sailfishos/pptp",
-      "sailfishos/prelink"
+      "sailfishos/prelink",
+      "sailfishos/profiled"
     ]
 
     git_repos_chromium_googlesource = [
