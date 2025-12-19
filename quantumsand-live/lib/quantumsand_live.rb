@@ -2029,7 +2029,8 @@ class QuantumsandLive
       "documentdb/documentdb",
       "mongodb/mongo-python-driver",
       "rthalley/dnspython",
-      "mongodb/mongo-ruby-driver"
+      "mongodb/mongo-ruby-driver",
+      "mongodb/mongo-rust-driver"
     ]
 
     git_repos_chromium_googlesource = [
