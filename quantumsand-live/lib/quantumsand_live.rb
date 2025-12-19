@@ -2044,7 +2044,8 @@ class QuantumsandLive
       "polkit-org/polkit",
       "sailfishos/polkit-qt-1",
       "sailfishos-mirror/poppler",
-      "buildbot/buildbot"
+      "buildbot/buildbot",
+      "touilleMan/godot-python"
     ]
 
     git_repos_chromium_googlesource = [
