@@ -2026,7 +2026,8 @@ class QuantumsandLive
       "rdkit/rdkit",
       "davidedmundson/kiot",
       "orhun/tuitar",
-      "documentdb/documentdb"
+      "documentdb/documentdb",
+      "mongodb/mongo-python-driver"
     ]
 
     git_repos_chromium_googlesource = [
