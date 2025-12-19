@@ -2346,7 +2346,8 @@ class QuantumsandLive
       "spice/linux/vd_agent",
       "poppler/poppler",
       "poppler/poppler-glibmm",
-      "poppler/poppler-data"
+      "poppler/poppler-data",
+      "pulseaudio/pulseaudio"
     ]
 
     git_repos_xfce_gitlab = [
