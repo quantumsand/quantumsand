@@ -2048,7 +2048,8 @@ class QuantumsandLive
       "touilleMan/godot-python",
       "rpm-software-management/popt",
       "ppp-project/ppp",
-      "sailfishos/pptp"
+      "sailfishos/pptp",
+      "sailfishos/prelink"
     ]
 
     git_repos_chromium_googlesource = [
