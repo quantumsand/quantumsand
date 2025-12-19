@@ -2035,7 +2035,8 @@ class QuantumsandLive
       "zookzook/elixir-mongodb-driver",
       "elixir-mongo/mongodb_ecto",
       "comtihon/mongodb-erlang",
-      "mongodb/mongo-cxx-driver"
+      "mongodb/mongo-cxx-driver",
+      "h4kbas/pgcalendar"
     ]
 
     git_repos_chromium_googlesource = [
