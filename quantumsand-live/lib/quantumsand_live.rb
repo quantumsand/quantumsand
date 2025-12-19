@@ -2185,6 +2185,10 @@ class QuantumsandLive
       "patch"
     ]
 
+    git_repos_savannah_nongnu_org = [
+      "ppl"
+    ]
+
     git_repos_gnu_org_ua = [
       "gdbm"
     ]
