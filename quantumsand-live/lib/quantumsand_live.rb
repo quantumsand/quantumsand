@@ -2039,7 +2039,8 @@ class QuantumsandLive
       "h4kbas/pgcalendar",
       "sailfishos/plymouth-lite",
       "sailfishos/pm-utils",
-      "sailfishos/policy-settings-common"
+      "sailfishos/policy-settings-common",
+      "sailfishos-mirror/polkit"
     ]
 
     git_repos_chromium_googlesource = [
