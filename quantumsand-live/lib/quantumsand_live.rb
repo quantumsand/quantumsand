@@ -2031,7 +2031,8 @@ class QuantumsandLive
       "rthalley/dnspython",
       "mongodb/mongo-ruby-driver",
       "mongodb/mongo-rust-driver",
-      "mongodb/mongo-go-driver"
+      "mongodb/mongo-go-driver",
+      "zookzook/elixir-mongodb-driver"
     ]
 
     git_repos_chromium_googlesource = [
