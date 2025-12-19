@@ -2112,7 +2112,8 @@ class QuantumsandLive
       "libassuan",
       "libgcrypt",
       "libgpg-error",
-      "libksba"
+      "libksba",
+      "npth"
     ]
 
     git_repos_haskell_org_gitlab = [
