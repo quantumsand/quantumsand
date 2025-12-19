@@ -2036,7 +2036,8 @@ class QuantumsandLive
       "elixir-mongo/mongodb_ecto",
       "comtihon/mongodb-erlang",
       "mongodb/mongo-cxx-driver",
-      "h4kbas/pgcalendar"
+      "h4kbas/pgcalendar",
+      "sailfishos/plymouth-lite"
     ]
 
     git_repos_chromium_googlesource = [
