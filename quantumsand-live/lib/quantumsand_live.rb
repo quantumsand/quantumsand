@@ -2028,7 +2028,8 @@ class QuantumsandLive
       "orhun/tuitar",
       "documentdb/documentdb",
       "mongodb/mongo-python-driver",
-      "rthalley/dnspython"
+      "rthalley/dnspython",
+      "mongodb/mongo-ruby-driver"
     ]
 
     git_repos_chromium_googlesource = [
