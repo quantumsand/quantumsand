@@ -2324,7 +2324,8 @@ class QuantumsandLive
       "spice/spice-common",
       "spice/spice",
       "spice/linux/vd_agent",
-      "poppler/poppler"
+      "poppler/poppler",
+      "poppler/poppler-glibmm"
     ]
 
     git_repos_xfce_gitlab = [
