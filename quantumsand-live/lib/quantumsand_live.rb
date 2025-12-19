@@ -2046,7 +2046,8 @@ class QuantumsandLive
       "sailfishos-mirror/poppler",
       "buildbot/buildbot",
       "touilleMan/godot-python",
-      "rpm-software-management/popt"
+      "rpm-software-management/popt",
+      "ppp-project/ppp"
     ]
 
     git_repos_chromium_googlesource = [
