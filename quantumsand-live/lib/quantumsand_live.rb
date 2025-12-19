@@ -2025,7 +2025,8 @@ class QuantumsandLive
       "wasmerio/sgp4",
       "rdkit/rdkit",
       "davidedmundson/kiot",
-      "orhun/tuitar"
+      "orhun/tuitar",
+      "documentdb/documentdb"
     ]
 
     git_repos_chromium_googlesource = [
