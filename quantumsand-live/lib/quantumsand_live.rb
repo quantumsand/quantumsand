@@ -2271,7 +2271,8 @@ class QuantumsandLive
       "openobex/mainline",
       "kicad/code/kicad",
       "cryptsetup/cryptsetup_fuzzing",
-      "procps-ng/procps"
+      "procps-ng/procps",
+      "psmisc/psmisc"
     ]
 
     git_repos_freedesktop_gitlab = [
