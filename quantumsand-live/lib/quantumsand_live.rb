@@ -2050,7 +2050,8 @@ class QuantumsandLive
       "ppp-project/ppp",
       "sailfishos/pptp",
       "sailfishos/prelink",
-      "sailfishos/profiled"
+      "sailfishos/profiled",
+      "protocolbuffers/protobuf-javascript"
     ]
 
     git_repos_chromium_googlesource = [
