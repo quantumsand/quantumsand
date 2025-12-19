@@ -2038,7 +2038,8 @@ class QuantumsandLive
       "mongodb/mongo-cxx-driver",
       "h4kbas/pgcalendar",
       "sailfishos/plymouth-lite",
-      "sailfishos/pm-utils"
+      "sailfishos/pm-utils",
+      "sailfishos/policy-settings-common"
     ]
 
     git_repos_chromium_googlesource = [
