@@ -2055,7 +2055,8 @@ class QuantumsandLive
       "protocolbuffers/protobuf-go",
       "protocolbuffers/protoscope",
       "sailfishos/provisioning-service",
-      "rrthomas/psutils"
+      "rrthomas/psutils",
+      "sailfishos/pth"
     ]
 
     git_repos_chromium_googlesource = [
