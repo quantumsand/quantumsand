@@ -2033,7 +2033,8 @@ class QuantumsandLive
       "mongodb/mongo-rust-driver",
       "mongodb/mongo-go-driver",
       "zookzook/elixir-mongodb-driver",
-      "elixir-mongo/mongodb_ecto"
+      "elixir-mongo/mongodb_ecto",
+      "comtihon/mongodb-erlang"
     ]
 
     git_repos_chromium_googlesource = [
