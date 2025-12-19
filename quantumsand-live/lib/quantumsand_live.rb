@@ -2236,7 +2236,8 @@ class QuantumsandLive
       "openconnect/vpnc-scripts",
       "openconnect/ocserv",
       "openobex/mainline",
-      "kicad/code/kicad"
+      "kicad/code/kicad",
+      "cryptsetup/cryptsetup_fuzzing"
     ]
 
     git_repos_freedesktop_gitlab = [
