@@ -2057,7 +2057,8 @@ class QuantumsandLive
       "sailfishos/provisioning-service",
       "rrthomas/psutils",
       "sailfishos/pth",
-      "videojs/http-streaming"
+      "videojs/http-streaming",
+      "cookpete/react-player"
     ]
 
     git_repos_chromium_googlesource = [
