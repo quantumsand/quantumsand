@@ -2059,7 +2059,8 @@ class QuantumsandLive
       "sailfishos/pth",
       "videojs/http-streaming",
       "cookpete/react-player",
-      "videojs/mux.js"
+      "videojs/mux.js",
+      "videojs/mpd-parser"
     ]
 
     git_repos_chromium_googlesource = [
