@@ -2060,7 +2060,8 @@ class QuantumsandLive
       "videojs/http-streaming",
       "cookpete/react-player",
       "videojs/mux.js",
-      "videojs/mpd-parser"
+      "videojs/mpd-parser",
+      "videojs/m3u8-parser"
     ]
 
     git_repos_chromium_googlesource = [
