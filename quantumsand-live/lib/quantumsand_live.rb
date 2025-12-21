@@ -2062,7 +2062,8 @@ class QuantumsandLive
       "videojs/mux.js",
       "videojs/mpd-parser",
       "videojs/m3u8-parser",
-      "videojs/aes-decrypter"
+      "videojs/aes-decrypter",
+      "mullvad/gotatun"
     ]
 
     git_repos_chromium_googlesource = [
