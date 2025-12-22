@@ -2066,7 +2066,8 @@ class QuantumsandLive
       "mullvad/gotatun",
       "gentoo/cpuid2cpuflags",
       "rex-rs/rex",
-      "aya-rs/book"
+      "aya-rs/book",
+      "aya-rs/aya"
     ]
 
     git_repos_chromium_googlesource = [
