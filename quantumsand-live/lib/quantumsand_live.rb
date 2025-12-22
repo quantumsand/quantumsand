@@ -2064,7 +2064,8 @@ class QuantumsandLive
       "videojs/m3u8-parser",
       "videojs/aes-decrypter",
       "mullvad/gotatun",
-      "gentoo/cpuid2cpuflags"
+      "gentoo/cpuid2cpuflags",
+      "rex-rs/rex"
     ]
 
     git_repos_chromium_googlesource = [
