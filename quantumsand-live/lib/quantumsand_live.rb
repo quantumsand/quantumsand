@@ -2065,7 +2065,8 @@ class QuantumsandLive
       "videojs/aes-decrypter",
       "mullvad/gotatun",
       "gentoo/cpuid2cpuflags",
-      "rex-rs/rex"
+      "rex-rs/rex",
+      "aya-rs/book"
     ]
 
     git_repos_chromium_googlesource = [
