@@ -2780,7 +2780,8 @@ class QuantumsandLive
       "net-misc/ntp",
       "dev-lang/elixir",
       "app-containers/docker-compose",
-      "app-portage/cpuid2cpuflags"
+      "app-portage/cpuid2cpuflags",
+      "sys-devel/crossdev"
     ]
 
     gentoo_eselect_repository_add = {
