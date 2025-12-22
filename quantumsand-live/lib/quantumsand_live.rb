@@ -2067,7 +2067,8 @@ class QuantumsandLive
       "gentoo/cpuid2cpuflags",
       "rex-rs/rex",
       "aya-rs/book",
-      "aya-rs/aya"
+      "aya-rs/aya",
+      "aya-rs/aya-template"
     ]
 
     git_repos_chromium_googlesource = [
