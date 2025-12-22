@@ -2073,7 +2073,8 @@ class QuantumsandLive
       "qdrant/go-client",
       "qdrant/rust-client",
       "qdrant/qdrant-client",
-      "patterns-ai-core/qdrant-ruby"
+      "patterns-ai-core/qdrant-ruby",
+      "marinac-dev/qdrant"
     ]
 
     git_repos_chromium_googlesource = [
