@@ -2069,7 +2069,8 @@ class QuantumsandLive
       "aya-rs/book",
       "aya-rs/aya",
       "aya-rs/aya-template",
-      "sagemath/sage"
+      "sagemath/sage",
+      "qdrant/go-client"
     ]
 
     git_repos_chromium_googlesource = [
