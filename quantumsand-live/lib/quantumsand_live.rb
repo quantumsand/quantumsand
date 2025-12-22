@@ -2355,7 +2355,8 @@ class QuantumsandLive
       "poppler/poppler",
       "poppler/poppler-glibmm",
       "poppler/poppler-data",
-      "pulseaudio/pulseaudio"
+      "pulseaudio/pulseaudio",
+      "wayland/weston"
     ]
 
     git_repos_xfce_gitlab = [
