@@ -2071,7 +2071,8 @@ class QuantumsandLive
       "aya-rs/aya-template",
       "sagemath/sage",
       "qdrant/go-client",
-      "qdrant/rust-client"
+      "qdrant/rust-client",
+      "qdrant/qdrant-client"
     ]
 
     git_repos_chromium_googlesource = [
