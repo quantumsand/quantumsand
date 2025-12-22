@@ -2072,7 +2072,8 @@ class QuantumsandLive
       "sagemath/sage",
       "qdrant/go-client",
       "qdrant/rust-client",
-      "qdrant/qdrant-client"
+      "qdrant/qdrant-client",
+      "patterns-ai-core/qdrant-ruby"
     ]
 
     git_repos_chromium_googlesource = [
