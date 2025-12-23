@@ -2079,7 +2079,8 @@ class QuantumsandLive
       "sched-ext/scx",
       "sailfishos/pulseaudio-module-keepalive",
       "sailfishos/pulseaudio-modules-bluez4",
-      "sailfishos/pulseaudio-modules-nemo"
+      "sailfishos/pulseaudio-modules-nemo",
+      "sailfishos/pulseaudio-policy-enforcement"
     ]
 
     git_repos_chromium_googlesource = [
