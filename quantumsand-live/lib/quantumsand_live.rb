@@ -2788,7 +2788,8 @@ class QuantumsandLive
       "app-containers/docker-compose",
       "app-portage/cpuid2cpuflags",
       "sys-devel/crossdev",
-      "sys-kernel/scx"
+      "sys-kernel/scx",
+      "sys-libs/libseccomp"
     ]
 
     gentoo_eselect_repository_add = {
