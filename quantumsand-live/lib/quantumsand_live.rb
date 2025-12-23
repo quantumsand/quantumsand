@@ -2108,7 +2108,8 @@ class QuantumsandLive
       "CheetahTemplate3/cheetah3",
       "benoitc/gunicorn",
       "pasteorg/paste",
-      "pylons/webob"
+      "pylons/webob",
+      "cherrypy/cheroot"
     ]
 
     git_repos_chromium_googlesource = [
