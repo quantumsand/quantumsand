@@ -2376,7 +2376,8 @@ class QuantumsandLive
       "wayland/weston",
       "wayland/wayland",
       "wayland/wayland-protocols",
-      "wayland/wayland-utils"
+      "wayland/wayland-utils",
+      "pulseaudio/paprefs"
     ]
 
     git_repos_xfce_gitlab = [
