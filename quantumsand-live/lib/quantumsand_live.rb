@@ -2098,7 +2098,8 @@ class QuantumsandLive
       "killercup/cargo-edit",
       "rust-lang/cargo",
       "rust-lang/rfcs",
-      "toml-lang/toml"
+      "toml-lang/toml",
+      "tox-dev/pipdeptree"
     ]
 
     git_repos_chromium_googlesource = [
