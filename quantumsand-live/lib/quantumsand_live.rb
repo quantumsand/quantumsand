@@ -2102,7 +2102,8 @@ class QuantumsandLive
       "tox-dev/pipdeptree",
       "fedora-python/tox-current-env",
       "python/cpython",
-      "glyph/automat"
+      "glyph/automat",
+      "bottlepy/bottle"
     ]
 
     git_repos_chromium_googlesource = [
