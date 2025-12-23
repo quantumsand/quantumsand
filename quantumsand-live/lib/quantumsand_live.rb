@@ -2086,7 +2086,8 @@ class QuantumsandLive
       "thp/psmoveapi",
       "thp/urlwatch",
       "python-poetry/poetry",
-      "python-poetry/cleo"
+      "python-poetry/cleo",
+      "python-poetry/crashtest"
     ]
 
     git_repos_chromium_googlesource = [
