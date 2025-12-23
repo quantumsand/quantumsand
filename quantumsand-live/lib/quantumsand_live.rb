@@ -2084,7 +2084,8 @@ class QuantumsandLive
       "pykickstart/pykickstart",
       "thp/pyotherside",
       "thp/psmoveapi",
-      "thp/urlwatch"
+      "thp/urlwatch",
+      "python-poetry/poetry"
     ]
 
     git_repos_chromium_googlesource = [
