@@ -2107,7 +2107,8 @@ class QuantumsandLive
       "sqlalchemy/mako",
       "CheetahTemplate3/cheetah3",
       "benoitc/gunicorn",
-      "pasteorg/paste"
+      "pasteorg/paste",
+      "pylons/webob"
     ]
 
     git_repos_chromium_googlesource = [
