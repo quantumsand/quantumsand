@@ -2111,7 +2111,8 @@ class QuantumsandLive
       "pylons/webob",
       "cherrypy/cheroot",
       "cherrypy/cherrypy",
-      "github/gitignore"
+      "github/gitignore",
+      "frescobaldi/frescobaldi"
     ]
 
     git_repos_chromium_googlesource = [
