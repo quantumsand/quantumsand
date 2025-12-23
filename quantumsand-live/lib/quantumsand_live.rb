@@ -2097,7 +2097,8 @@ class QuantumsandLive
       "LeopoldArkham/Molten",
       "killercup/cargo-edit",
       "rust-lang/cargo",
-      "rust-lang/rfcs"
+      "rust-lang/rfcs",
+      "toml-lang/toml"
     ]
 
     git_repos_chromium_googlesource = [
