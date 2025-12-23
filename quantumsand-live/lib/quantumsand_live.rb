@@ -2076,7 +2076,8 @@ class QuantumsandLive
       "patterns-ai-core/qdrant-ruby",
       "marinac-dev/qdrant",
       "eunomia-bpf/gpu_ext",
-      "sched-ext/scx"
+      "sched-ext/scx",
+      "sailfishos/pulseaudio-module-keepalive"
     ]
 
     git_repos_chromium_googlesource = [
