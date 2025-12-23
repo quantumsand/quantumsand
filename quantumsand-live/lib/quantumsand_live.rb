@@ -2093,7 +2093,8 @@ class QuantumsandLive
       "python-poetry/poetry-plugin-export",
       "python-poetry/poetry-plugin-shell",
       "python-poetry/test-fixture-vcs-repository",
-      "python-poetry/tomlkit"
+      "python-poetry/tomlkit",
+      "LeopoldArkham/Molten"
     ]
 
     git_repos_chromium_googlesource = [
