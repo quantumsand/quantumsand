@@ -2104,7 +2104,8 @@ class QuantumsandLive
       "python/cpython",
       "glyph/automat",
       "bottlepy/bottle",
-      "sqlalchemy/mako"
+      "sqlalchemy/mako",
+      "CheetahTemplate3/cheetah3"
     ]
 
     git_repos_chromium_googlesource = [
