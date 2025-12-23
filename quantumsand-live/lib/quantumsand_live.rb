@@ -2092,7 +2092,8 @@ class QuantumsandLive
       "python-poetry/poetry-plugin-bundle",
       "python-poetry/poetry-plugin-export",
       "python-poetry/poetry-plugin-shell",
-      "python-poetry/test-fixture-vcs-repository"
+      "python-poetry/test-fixture-vcs-repository",
+      "python-poetry/tomlkit"
     ]
 
     git_repos_chromium_googlesource = [
