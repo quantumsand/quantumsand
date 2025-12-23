@@ -2109,7 +2109,8 @@ class QuantumsandLive
       "benoitc/gunicorn",
       "pasteorg/paste",
       "pylons/webob",
-      "cherrypy/cheroot"
+      "cherrypy/cheroot",
+      "cherrypy/cherrypy"
     ]
 
     git_repos_chromium_googlesource = [
