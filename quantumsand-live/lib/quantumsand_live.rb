@@ -2253,7 +2253,8 @@ class QuantumsandLive
       "libidn/libidn2",
       "m4",
       "nano",
-      "patch"
+      "patch",
+      "lilypond"
     ]
 
     git_repos_savannah_nongnu_org = [
