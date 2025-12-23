@@ -2787,7 +2787,8 @@ class QuantumsandLive
       "dev-lang/elixir",
       "app-containers/docker-compose",
       "app-portage/cpuid2cpuflags",
-      "sys-devel/crossdev"
+      "sys-devel/crossdev",
+      "sys-kernel/scx"
     ]
 
     gentoo_eselect_repository_add = {
