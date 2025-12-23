@@ -2789,7 +2789,8 @@ class QuantumsandLive
       "app-portage/cpuid2cpuflags",
       "sys-devel/crossdev",
       "sys-kernel/scx",
-      "sys-libs/libseccomp"
+      "sys-libs/libseccomp",
+      "dev-libs/protobuf"
     ]
 
     gentoo_eselect_repository_add = {
