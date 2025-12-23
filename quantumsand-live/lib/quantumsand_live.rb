@@ -2082,7 +2082,8 @@ class QuantumsandLive
       "sailfishos/pulseaudio-modules-nemo",
       "sailfishos/pulseaudio-policy-enforcement",
       "pykickstart/pykickstart",
-      "thp/pyotherside"
+      "thp/pyotherside",
+      "thp/psmoveapi"
     ]
 
     git_repos_chromium_googlesource = [
