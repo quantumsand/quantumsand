@@ -2103,7 +2103,8 @@ class QuantumsandLive
       "fedora-python/tox-current-env",
       "python/cpython",
       "glyph/automat",
-      "bottlepy/bottle"
+      "bottlepy/bottle",
+      "sqlalchemy/mako"
     ]
 
     git_repos_chromium_googlesource = [
