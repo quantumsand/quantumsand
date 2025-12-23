@@ -2078,7 +2078,8 @@ class QuantumsandLive
       "eunomia-bpf/gpu_ext",
       "sched-ext/scx",
       "sailfishos/pulseaudio-module-keepalive",
-      "sailfishos/pulseaudio-modules-bluez4"
+      "sailfishos/pulseaudio-modules-bluez4",
+      "sailfishos/pulseaudio-modules-nemo"
     ]
 
     git_repos_chromium_googlesource = [
