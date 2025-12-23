@@ -2083,7 +2083,8 @@ class QuantumsandLive
       "sailfishos/pulseaudio-policy-enforcement",
       "pykickstart/pykickstart",
       "thp/pyotherside",
-      "thp/psmoveapi"
+      "thp/psmoveapi",
+      "thp/urlwatch"
     ]
 
     git_repos_chromium_googlesource = [
