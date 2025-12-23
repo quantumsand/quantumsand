@@ -2106,7 +2106,8 @@ class QuantumsandLive
       "bottlepy/bottle",
       "sqlalchemy/mako",
       "CheetahTemplate3/cheetah3",
-      "benoitc/gunicorn"
+      "benoitc/gunicorn",
+      "pasteorg/paste"
     ]
 
     git_repos_chromium_googlesource = [
