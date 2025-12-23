@@ -2088,7 +2088,8 @@ class QuantumsandLive
       "python-poetry/poetry",
       "python-poetry/cleo",
       "python-poetry/crashtest",
-      "python-poetry/poetry-core"
+      "python-poetry/poetry-core",
+      "python-poetry/poetry-plugin-bundle"
     ]
 
     git_repos_chromium_googlesource = [
