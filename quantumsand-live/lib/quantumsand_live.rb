@@ -2074,7 +2074,8 @@ class QuantumsandLive
       "qdrant/rust-client",
       "qdrant/qdrant-client",
       "patterns-ai-core/qdrant-ruby",
-      "marinac-dev/qdrant"
+      "marinac-dev/qdrant",
+      "eunomia-bpf/gpu_ext"
     ]
 
     git_repos_chromium_googlesource = [
