@@ -2094,7 +2094,8 @@ class QuantumsandLive
       "python-poetry/poetry-plugin-shell",
       "python-poetry/test-fixture-vcs-repository",
       "python-poetry/tomlkit",
-      "LeopoldArkham/Molten"
+      "LeopoldArkham/Molten",
+      "killercup/cargo-edit"
     ]
 
     git_repos_chromium_googlesource = [
