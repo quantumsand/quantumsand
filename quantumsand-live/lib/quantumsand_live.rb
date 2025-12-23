@@ -2100,7 +2100,8 @@ class QuantumsandLive
       "rust-lang/rfcs",
       "toml-lang/toml",
       "tox-dev/pipdeptree",
-      "fedora-python/tox-current-env"
+      "fedora-python/tox-current-env",
+      "python/cpython"
     ]
 
     git_repos_chromium_googlesource = [
