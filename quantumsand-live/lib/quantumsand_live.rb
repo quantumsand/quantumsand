@@ -2139,7 +2139,8 @@ class QuantumsandLive
       "pygments/pygments-plugin-scaffolding",
       "sailfishos/python-sample",
       "python/typing_extensions",
-      "yaml/pyyaml"
+      "yaml/pyyaml",
+      "yaml/go-yaml"
     ]
 
     git_repos_chromium_googlesource = [
