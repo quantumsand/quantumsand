@@ -2155,7 +2155,8 @@ class QuantumsandLive
       "geographiclib/geographiclib-python",
       "geographiclib/geographiclib-fortran",
       "geographiclib/geographiclib-octave",
-      "geographiclib/geographiclib-js"
+      "geographiclib/geographiclib-js",
+      "mavlink/rust-mavlink"
     ]
 
     git_repos_chromium_googlesource = [
