@@ -2880,7 +2880,8 @@ class QuantumsandLive
       "sys-devel/crossdev",
       "sys-kernel/scx",
       "sys-libs/libseccomp",
-      "dev-libs/protobuf"
+      "dev-libs/protobuf",
+      "media-libs/vulkan-loader"
     ]
 
     gentoo_eselect_repository_add = {
