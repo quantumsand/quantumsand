@@ -2140,7 +2140,8 @@ class QuantumsandLive
       "sailfishos/python-sample",
       "python/typing_extensions",
       "yaml/pyyaml",
-      "yaml/go-yaml"
+      "yaml/go-yaml",
+      "yaml/yaml-spec"
     ]
 
     git_repos_chromium_googlesource = [
