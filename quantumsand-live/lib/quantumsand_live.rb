@@ -2120,7 +2120,8 @@ class QuantumsandLive
       "pallets/flask",
       "pallets/werkzeug",
       "pallets/click",
-      "pallets/quart"
+      "pallets/quart",
+      "twisted/klein"
     ]
 
     git_repos_chromium_googlesource = [
