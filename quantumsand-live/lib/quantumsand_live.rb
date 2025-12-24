@@ -2133,7 +2133,8 @@ class QuantumsandLive
       "pyca/pyopenssl",
       "pypa/packaging",
       "dabeaz/ply",
-      "eliben/pycparser"
+      "eliben/pycparser",
+      "pygments/pygments"
     ]
 
     git_repos_chromium_googlesource = [
