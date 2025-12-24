@@ -2151,7 +2151,8 @@ class QuantumsandLive
       "OSGeo/grass",
       "OSGeo/libgeotiff",
       "OSGeo/gdal-grass",
-      "OSGeo/grass-addons"
+      "OSGeo/grass-addons",
+      "geographiclib/geographiclib-python"
     ]
 
     git_repos_chromium_googlesource = [
