@@ -2135,7 +2135,8 @@ class QuantumsandLive
       "dabeaz/ply",
       "eliben/pycparser",
       "pygments/pygments",
-      "pygments/pygments.rb"
+      "pygments/pygments.rb",
+      "pygments/pygments-plugin-scaffolding"
     ]
 
     git_repos_chromium_googlesource = [
