@@ -2123,7 +2123,8 @@ class QuantumsandLive
       "pallets/quart",
       "twisted/klein",
       "twisted/treq",
-      "hamcrest/PyHamcrest"
+      "hamcrest/PyHamcrest",
+      "python-hyper/hyperlink"
     ]
 
     git_repos_chromium_googlesource = [
