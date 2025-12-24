@@ -2352,7 +2352,8 @@ class QuantumsandLive
       "kicad/code/kicad",
       "cryptsetup/cryptsetup_fuzzing",
       "procps-ng/procps",
-      "psmisc/psmisc"
+      "psmisc/psmisc",
+      "m2crypto/m2crypto"
     ]
 
     git_repos_freedesktop_gitlab = [
