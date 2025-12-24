@@ -2115,7 +2115,8 @@ class QuantumsandLive
       "frescobaldi/frescobaldi",
       "pygobject/pycairo",
       "python-cffi/cffi",
-      "twisted/constantly"
+      "twisted/constantly",
+      "twisted/twisted"
     ]
 
     git_repos_chromium_googlesource = [
