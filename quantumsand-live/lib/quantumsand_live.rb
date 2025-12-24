@@ -2132,7 +2132,8 @@ class QuantumsandLive
       "sqlalchemy/sqlalchemy",
       "pyca/pyopenssl",
       "pypa/packaging",
-      "dabeaz/ply"
+      "dabeaz/ply",
+      "eliben/pycparser"
     ]
 
     git_repos_chromium_googlesource = [
