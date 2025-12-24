@@ -2130,7 +2130,8 @@ class QuantumsandLive
       "lxml/lxml",
       "abelcheung/types-lxml",
       "sqlalchemy/sqlalchemy",
-      "pyca/pyopenssl"
+      "pyca/pyopenssl",
+      "pypa/packaging"
     ]
 
     git_repos_chromium_googlesource = [
