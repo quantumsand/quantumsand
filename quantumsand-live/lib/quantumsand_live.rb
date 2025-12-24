@@ -2116,7 +2116,8 @@ class QuantumsandLive
       "pygobject/pycairo",
       "python-cffi/cffi",
       "twisted/constantly",
-      "twisted/twisted"
+      "twisted/twisted",
+      "pallets/flask"
     ]
 
     git_repos_chromium_googlesource = [
