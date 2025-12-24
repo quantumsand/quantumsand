@@ -2158,7 +2158,8 @@ class QuantumsandLive
       "geographiclib/geographiclib-js",
       "mavlink/rust-mavlink",
       "KhronosGroup/Vulkan-Loader",
-      "microsoft/WSL"
+      "microsoft/WSL",
+      "microsoft/wslg"
     ]
 
     git_repos_chromium_googlesource = [
