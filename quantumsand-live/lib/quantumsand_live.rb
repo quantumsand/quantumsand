@@ -2117,7 +2117,8 @@ class QuantumsandLive
       "python-cffi/cffi",
       "twisted/constantly",
       "twisted/twisted",
-      "pallets/flask"
+      "pallets/flask",
+      "pallets/werkzeug"
     ]
 
     git_repos_chromium_googlesource = [
