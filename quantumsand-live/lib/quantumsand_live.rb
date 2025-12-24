@@ -2141,7 +2141,8 @@ class QuantumsandLive
       "python/typing_extensions",
       "yaml/pyyaml",
       "yaml/go-yaml",
-      "yaml/yaml-spec"
+      "yaml/yaml-spec",
+      "mavlink/qgroundcontrol"
     ]
 
     git_repos_chromium_googlesource = [
