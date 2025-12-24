@@ -2127,7 +2127,8 @@ class QuantumsandLive
       "python-hyper/hyperlink",
       "twisted/incremental",
       "autocracy/python-ipy",
-      "lxml/lxml"
+      "lxml/lxml",
+      "abelcheung/types-lxml"
     ]
 
     git_repos_chromium_googlesource = [
