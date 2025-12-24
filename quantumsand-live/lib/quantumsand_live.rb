@@ -2126,7 +2126,8 @@ class QuantumsandLive
       "hamcrest/PyHamcrest",
       "python-hyper/hyperlink",
       "twisted/incremental",
-      "autocracy/python-ipy"
+      "autocracy/python-ipy",
+      "lxml/lxml"
     ]
 
     git_repos_chromium_googlesource = [
