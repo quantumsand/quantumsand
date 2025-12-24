@@ -2143,7 +2143,8 @@ class QuantumsandLive
       "yaml/go-yaml",
       "yaml/yaml-spec",
       "mavlink/qgroundcontrol",
-      "mavlink/mavlink"
+      "mavlink/mavlink",
+      "mavlink/mavros"
     ]
 
     git_repos_chromium_googlesource = [
