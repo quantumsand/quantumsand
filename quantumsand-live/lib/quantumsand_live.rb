@@ -2156,7 +2156,8 @@ class QuantumsandLive
       "geographiclib/geographiclib-fortran",
       "geographiclib/geographiclib-octave",
       "geographiclib/geographiclib-js",
-      "mavlink/rust-mavlink"
+      "mavlink/rust-mavlink",
+      "KhronosGroup/Vulkan-Loader"
     ]
 
     git_repos_chromium_googlesource = [
