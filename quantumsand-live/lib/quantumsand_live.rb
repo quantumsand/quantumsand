@@ -2382,7 +2382,8 @@ class QuantumsandLive
       "cryptsetup/cryptsetup_fuzzing",
       "procps-ng/procps",
       "psmisc/psmisc",
-      "m2crypto/m2crypto"
+      "m2crypto/m2crypto",
+      "qemu-project/qemu"
     ]
 
     git_repos_freedesktop_gitlab = [
