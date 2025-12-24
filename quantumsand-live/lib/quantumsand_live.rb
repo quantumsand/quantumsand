@@ -2136,7 +2136,8 @@ class QuantumsandLive
       "eliben/pycparser",
       "pygments/pygments",
       "pygments/pygments.rb",
-      "pygments/pygments-plugin-scaffolding"
+      "pygments/pygments-plugin-scaffolding",
+      "sailfishos/python-sample"
     ]
 
     git_repos_chromium_googlesource = [
