@@ -2128,7 +2128,8 @@ class QuantumsandLive
       "twisted/incremental",
       "autocracy/python-ipy",
       "lxml/lxml",
-      "abelcheung/types-lxml"
+      "abelcheung/types-lxml",
+      "sqlalchemy/sqlalchemy"
     ]
 
     git_repos_chromium_googlesource = [
