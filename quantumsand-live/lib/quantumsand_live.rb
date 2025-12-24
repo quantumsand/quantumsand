@@ -2145,7 +2145,8 @@ class QuantumsandLive
       "mavlink/qgroundcontrol",
       "mavlink/mavlink",
       "mavlink/mavros",
-      "geographiclib/geographiclib"
+      "geographiclib/geographiclib",
+      "geographiclib/geographiclib-c"
     ]
 
     git_repos_chromium_googlesource = [
