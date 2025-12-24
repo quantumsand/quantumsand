@@ -2148,7 +2148,8 @@ class QuantumsandLive
       "geographiclib/geographiclib",
       "geographiclib/geographiclib-c",
       "OSGeo/PROJ",
-      "OSGeo/grass"
+      "OSGeo/grass",
+      "OSGeo/libgeotiff"
     ]
 
     git_repos_chromium_googlesource = [
