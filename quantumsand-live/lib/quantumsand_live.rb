@@ -2424,7 +2424,8 @@ class QuantumsandLive
       "qemu-project/vgabios",
       "libvirt/cirrus-run",
       "libvirt/libvirt",
-      "libvirt/libvirt-ci"
+      "libvirt/libvirt-ci",
+      "libvirt/libvirt-console-proxy"
     ]
 
     git_repos_freedesktop_gitlab = [
