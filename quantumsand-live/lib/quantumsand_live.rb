@@ -2168,7 +2168,8 @@ class QuantumsandLive
       "microsoftdocs/wsl",
       "capstone-engine/capstone",
       "capstone-engine/llvm-capstone",
-      "Masterminds/glide"
+      "Masterminds/glide",
+      "Masterminds/squirrel"
     ]
 
     git_repos_chromium_googlesource = [
