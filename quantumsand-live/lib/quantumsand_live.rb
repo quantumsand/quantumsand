@@ -2403,7 +2403,8 @@ class QuantumsandLive
       "qemu-project/libslirp",
       "qemu-project/libvfio-user",
       "qemu-project/openbios",
-      "qemu-project/opensbi"
+      "qemu-project/opensbi",
+      "qemu-project/python-qemu-qmp"
     ]
 
     git_repos_freedesktop_gitlab = [
