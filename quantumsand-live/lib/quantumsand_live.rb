@@ -2398,7 +2398,8 @@ class QuantumsandLive
       "qemu-project/buildigvm",
       "qemu-project/dtc",
       "qemu-project/edk2",
-      "qemu-project/ipxe"
+      "qemu-project/ipxe",
+      "qemu-project/keycodemapdb"
     ]
 
     git_repos_freedesktop_gitlab = [
