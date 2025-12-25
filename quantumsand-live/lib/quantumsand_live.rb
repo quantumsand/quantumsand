@@ -2388,7 +2388,8 @@ class QuantumsandLive
       "psmisc/psmisc",
       "m2crypto/m2crypto",
       "qemu-project/qemu",
-      "qemu-project/berkeley-softfloat-3"
+      "qemu-project/berkeley-softfloat-3",
+      "qemu-project/berkeley-testfloat-3"
     ]
 
     git_repos_freedesktop_gitlab = [
