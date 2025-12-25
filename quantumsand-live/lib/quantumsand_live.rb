@@ -2896,7 +2896,8 @@ class QuantumsandLive
       "sys-libs/libseccomp",
       "dev-libs/protobuf",
       "media-libs/vulkan-loader",
-      "x11-drivers/nvidia-drivers"
+      "x11-drivers/nvidia-drivers",
+      "dev-lang/ruby"
     ]
 
     gentoo_eselect_repository_add = {
