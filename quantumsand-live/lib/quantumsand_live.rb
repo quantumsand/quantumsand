@@ -2160,7 +2160,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Loader",
       "microsoft/WSL",
       "microsoft/wslg",
-      "microsoft/WSL2-Linux-Kernel"
+      "microsoft/WSL2-Linux-Kernel",
+      "microsoftdocs/wsl"
     ]
 
     git_repos_chromium_googlesource = [
