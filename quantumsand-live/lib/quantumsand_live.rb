@@ -2411,7 +2411,8 @@ class QuantumsandLive
       "qemu-project/seabios",
       "qemu-project/seabios-hppa",
       "qemu-project/sgabios",
-      "qemu-project/skiboot"
+      "qemu-project/skiboot",
+      "qemu-project/SLOF"
     ]
 
     git_repos_freedesktop_gitlab = [
