@@ -2406,7 +2406,8 @@ class QuantumsandLive
       "qemu-project/opensbi",
       "qemu-project/python-qemu-qmp",
       "qemu-project/qboot",
-      "qemu-project/qemu-palcode"
+      "qemu-project/qemu-palcode",
+      "qemu-project/QemuMacDrivers"
     ]
 
     git_repos_freedesktop_gitlab = [
