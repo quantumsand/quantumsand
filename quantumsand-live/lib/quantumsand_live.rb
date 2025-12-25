@@ -2421,7 +2421,8 @@ class QuantumsandLive
       "qemu-project/vbootrom",
       "qemu-project/vgabios",
       "libvirt/cirrus-run",
-      "libvirt/libvirt"
+      "libvirt/libvirt",
+      "libvirt/libvirt-ci"
     ]
 
     git_repos_freedesktop_gitlab = [
