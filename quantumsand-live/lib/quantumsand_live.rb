@@ -2399,7 +2399,8 @@ class QuantumsandLive
       "qemu-project/dtc",
       "qemu-project/edk2",
       "qemu-project/ipxe",
-      "qemu-project/keycodemapdb"
+      "qemu-project/keycodemapdb",
+      "qemu-project/libslirp"
     ]
 
     git_repos_freedesktop_gitlab = [
