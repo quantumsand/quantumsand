@@ -2425,7 +2425,8 @@ class QuantumsandLive
       "libvirt/cirrus-run",
       "libvirt/libvirt",
       "libvirt/libvirt-ci",
-      "libvirt/libvirt-console-proxy"
+      "libvirt/libvirt-console-proxy",
+      "libvirt/libvirt-csharp"
     ]
 
     git_repos_freedesktop_gitlab = [
