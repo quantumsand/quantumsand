@@ -2410,7 +2410,8 @@ class QuantumsandLive
       "qemu-project/QemuMacDrivers",
       "qemu-project/seabios",
       "qemu-project/seabios-hppa",
-      "qemu-project/sgabios"
+      "qemu-project/sgabios",
+      "qemu-project/skiboot"
     ]
 
     git_repos_freedesktop_gitlab = [
