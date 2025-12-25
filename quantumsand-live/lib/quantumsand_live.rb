@@ -2426,7 +2426,8 @@ class QuantumsandLive
       "libvirt/libvirt",
       "libvirt/libvirt-ci",
       "libvirt/libvirt-console-proxy",
-      "libvirt/libvirt-csharp"
+      "libvirt/libvirt-csharp",
+      "libvirt/libvirt-dbus"
     ]
 
     git_repos_freedesktop_gitlab = [
