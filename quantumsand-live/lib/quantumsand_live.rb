@@ -2162,7 +2162,8 @@ class QuantumsandLive
       "microsoft/wslg",
       "microsoft/WSL2-Linux-Kernel",
       "microsoftdocs/wsl",
-      "capstone-engine/capstone"
+      "capstone-engine/capstone",
+      "capstone-engine/llvm-capstone"
     ]
 
     git_repos_chromium_googlesource = [
