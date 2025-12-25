@@ -89,7 +89,7 @@ class QuantumsandLive
     gentoo_cf_risc_v = "-march=rv64imafdc_zicsr_zba_zbb -mcpu=sifive-u74 -mtune=sifive-7-series -O2 -pipe"
 
     # unverified; need to test; AYANEO Pocket DS (Qualcomm Snapdragon G3x Gen 2; ARMv8-A Kryo)
-    gentoo_cf_arm64_armv8_a_kryo ="-march=armv8-a -mcpu=cortex-a77 -mtune=cortex-a77 -mfloat-abi=hard -mfpu=neon-fp-armv8 -mneon-for-64bits -O3 -flto"
+    gentoo_cf_arm64_armv8_a_kryo = "-march=armv8-a -mcpu=cortex-a77 -mtune=cortex-a77 -mfloat-abi=hard -mfpu=neon-fp-armv8 -mneon-for-64bits -O3 -flto"
 
     gentoo_common_flags = {
       gentoo_cf_intel_alder_lake: gentoo_cf_intel_alder_lake,
