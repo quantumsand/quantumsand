@@ -2415,7 +2415,8 @@ class QuantumsandLive
       "qemu-project/SLOF",
       "qemu-project/u-boot-sam460ex",
       "qemu-project/vbootrom",
-      "qemu-project/vgabios"
+      "qemu-project/vgabios",
+      "libvirt/cirrus-run"
     ]
 
     git_repos_freedesktop_gitlab = [
