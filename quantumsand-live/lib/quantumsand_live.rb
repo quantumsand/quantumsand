@@ -2413,7 +2413,8 @@ class QuantumsandLive
       "qemu-project/sgabios",
       "qemu-project/skiboot",
       "qemu-project/SLOF",
-      "qemu-project/u-boot-sam460ex"
+      "qemu-project/u-boot-sam460ex",
+      "qemu-project/vbootrom"
     ]
 
     git_repos_freedesktop_gitlab = [
