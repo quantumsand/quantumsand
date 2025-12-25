@@ -2396,7 +2396,8 @@ class QuantumsandLive
       "qemu-project/biosbits-grub",
       "qemu-project/biosbits-libffi",
       "qemu-project/buildigvm",
-      "qemu-project/dtc"
+      "qemu-project/dtc",
+      "qemu-project/edk2"
     ]
 
     git_repos_freedesktop_gitlab = [
