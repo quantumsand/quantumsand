@@ -2392,7 +2392,8 @@ class QuantumsandLive
       "qemu-project/berkeley-testfloat-3",
       "qemu-project/biosbits-bits",
       "qemu-project/biosbits-grub",
-      "qemu-project/biosbits-libffi"
+      "qemu-project/biosbits-libffi",
+      "qemu-project/buildigvm"
     ]
 
     git_repos_freedesktop_gitlab = [
