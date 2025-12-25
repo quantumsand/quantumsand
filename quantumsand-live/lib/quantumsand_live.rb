@@ -2387,7 +2387,8 @@ class QuantumsandLive
       "procps-ng/procps",
       "psmisc/psmisc",
       "m2crypto/m2crypto",
-      "qemu-project/qemu"
+      "qemu-project/qemu",
+      "qemu-project/berkeley-softfloat-3"
     ]
 
     git_repos_freedesktop_gitlab = [
