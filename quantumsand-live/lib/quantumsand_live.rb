@@ -2405,7 +2405,8 @@ class QuantumsandLive
       "qemu-project/openbios",
       "qemu-project/opensbi",
       "qemu-project/python-qemu-qmp",
-      "qemu-project/qboot"
+      "qemu-project/qboot",
+      "qemu-project/qemu-palcode"
     ]
 
     git_repos_freedesktop_gitlab = [
