@@ -2408,7 +2408,8 @@ class QuantumsandLive
       "qemu-project/qboot",
       "qemu-project/qemu-palcode",
       "qemu-project/QemuMacDrivers",
-      "qemu-project/seabios"
+      "qemu-project/seabios",
+      "qemu-project/seabios-hppa"
     ]
 
     git_repos_freedesktop_gitlab = [
