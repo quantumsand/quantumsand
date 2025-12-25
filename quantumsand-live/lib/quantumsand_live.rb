@@ -2159,7 +2159,8 @@ class QuantumsandLive
       "mavlink/rust-mavlink",
       "KhronosGroup/Vulkan-Loader",
       "microsoft/WSL",
-      "microsoft/wslg"
+      "microsoft/wslg",
+      "microsoft/WSL2-Linux-Kernel"
     ]
 
     git_repos_chromium_googlesource = [
