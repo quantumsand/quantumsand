@@ -2400,7 +2400,8 @@ class QuantumsandLive
       "qemu-project/edk2",
       "qemu-project/ipxe",
       "qemu-project/keycodemapdb",
-      "qemu-project/libslirp"
+      "qemu-project/libslirp",
+      "qemu-project/libvfio-user"
     ]
 
     git_repos_freedesktop_gitlab = [
