@@ -2401,7 +2401,8 @@ class QuantumsandLive
       "qemu-project/ipxe",
       "qemu-project/keycodemapdb",
       "qemu-project/libslirp",
-      "qemu-project/libvfio-user"
+      "qemu-project/libvfio-user",
+      "qemu-project/openbios"
     ]
 
     git_repos_freedesktop_gitlab = [
