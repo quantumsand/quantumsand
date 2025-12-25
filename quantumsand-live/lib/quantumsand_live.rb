@@ -2407,7 +2407,8 @@ class QuantumsandLive
       "qemu-project/python-qemu-qmp",
       "qemu-project/qboot",
       "qemu-project/qemu-palcode",
-      "qemu-project/QemuMacDrivers"
+      "qemu-project/QemuMacDrivers",
+      "qemu-project/seabios"
     ]
 
     git_repos_freedesktop_gitlab = [
