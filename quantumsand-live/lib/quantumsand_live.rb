@@ -2190,7 +2190,8 @@ class QuantumsandLive
       "zopefoundation/zopetoolkit",
       "sergey-dryabzhinsky/python-zstd",
       "python-trio/async_generator",
-      "idank/bashlex"
+      "idank/bashlex",
+      "certifi/python-certifi"
     ]
 
     git_repos_chromium_googlesource = [
