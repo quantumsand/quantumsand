@@ -2186,7 +2186,8 @@ class QuantumsandLive
       "micropython/axtls",
       "zopefoundation/zope.interface",
       "zopefoundation/Zope",
-      "zopefoundation/ZODB"
+      "zopefoundation/ZODB",
+      "zopefoundation/zopetoolkit"
     ]
 
     git_repos_chromium_googlesource = [
