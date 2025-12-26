@@ -2192,7 +2192,8 @@ class QuantumsandLive
       "python-trio/async_generator",
       "idank/bashlex",
       "certifi/python-certifi",
-      "chardet/chardet"
+      "chardet/chardet",
+      "jawah/charset_normalizer"
     ]
 
     git_repos_chromium_googlesource = [
