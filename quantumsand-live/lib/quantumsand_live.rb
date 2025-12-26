@@ -2447,7 +2447,8 @@ class QuantumsandLive
       "libvirt/libvirt-ruby",
       "libvirt/libvirt-rust",
       "libvirt/libvirt-rust-xml",
-      "libvirt/libvirt-security-notice"
+      "libvirt/libvirt-security-notice",
+      "libvirt/libvirt-tck"
     ]
 
     git_repos_freedesktop_gitlab = [
