@@ -2449,7 +2449,8 @@ class QuantumsandLive
       "libvirt/libvirt-rust-xml",
       "libvirt/libvirt-security-notice",
       "libvirt/libvirt-tck",
-      "libvirt/libvirt-test-API"
+      "libvirt/libvirt-test-API",
+      "libvirt/libvirt-wiki"
     ]
 
     git_repos_freedesktop_gitlab = [
