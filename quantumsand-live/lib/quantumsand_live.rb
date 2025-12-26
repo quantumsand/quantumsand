@@ -2942,7 +2942,8 @@ class QuantumsandLive
       "dev-libs/protobuf",
       "media-libs/vulkan-loader",
       "x11-drivers/nvidia-drivers",
-      "dev-lang/ruby"
+      "dev-lang/ruby",
+      "dev-lang/ocaml"
     ]
 
     gentoo_eselect_repository_add = {
