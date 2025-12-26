@@ -2188,7 +2188,8 @@ class QuantumsandLive
       "zopefoundation/Zope",
       "zopefoundation/ZODB",
       "zopefoundation/zopetoolkit",
-      "sergey-dryabzhinsky/python-zstd"
+      "sergey-dryabzhinsky/python-zstd",
+      "python-trio/async_generator"
     ]
 
     git_repos_chromium_googlesource = [
