@@ -2177,7 +2177,8 @@ class QuantumsandLive
       "ocaml/merlin",
       "ocaml/dune",
       "ocaml/ocaml.org",
-      "ocaml/ocaml-lsp"
+      "ocaml/ocaml-lsp",
+      "NVIDIA/nvidia-installer"
     ]
 
     git_repos_chromium_googlesource = [
