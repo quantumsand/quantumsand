@@ -2179,7 +2179,8 @@ class QuantumsandLive
       "ocaml/ocaml.org",
       "ocaml/ocaml-lsp",
       "NVIDIA/nvidia-installer",
-      "NVIDIA/nvidia-modprobe"
+      "NVIDIA/nvidia-modprobe",
+      "NVIDIA/nvidia-persistenced"
     ]
 
     git_repos_chromium_googlesource = [
