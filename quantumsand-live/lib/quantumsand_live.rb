@@ -2170,7 +2170,8 @@ class QuantumsandLive
       "capstone-engine/llvm-capstone",
       "Masterminds/glide",
       "Masterminds/squirrel",
-      "NVIDIA/cuda-tile"
+      "NVIDIA/cuda-tile",
+      "ocaml/ocaml"
     ]
 
     git_repos_chromium_googlesource = [
