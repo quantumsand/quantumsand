@@ -2193,7 +2193,8 @@ class QuantumsandLive
       "idank/bashlex",
       "certifi/python-certifi",
       "chardet/chardet",
-      "jawah/charset_normalizer"
+      "jawah/charset_normalizer",
+      "python-distro/distro"
     ]
 
     git_repos_chromium_googlesource = [
