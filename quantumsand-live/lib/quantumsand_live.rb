@@ -2442,7 +2442,8 @@ class QuantumsandLive
       "libvirt/libvirt-go-xml-module",
       "libvirt/libvirt-media",
       "libvirt/libvirt-ocaml",
-      "libvirt/libvirt-perl"
+      "libvirt/libvirt-perl",
+      "libvirt/libvirt-python"
     ]
 
     git_repos_freedesktop_gitlab = [
