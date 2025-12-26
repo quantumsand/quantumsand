@@ -2175,7 +2175,8 @@ class QuantumsandLive
       "ocaml/opam",
       "ocaml/opam-repository",
       "ocaml/merlin",
-      "ocaml/dune"
+      "ocaml/dune",
+      "ocaml/ocaml.org"
     ]
 
     git_repos_chromium_googlesource = [
