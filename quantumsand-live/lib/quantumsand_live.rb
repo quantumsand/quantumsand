@@ -2182,7 +2182,8 @@ class QuantumsandLive
       "NVIDIA/nvidia-modprobe",
       "NVIDIA/nvidia-persistenced",
       "NVIDIA/nvidia-settings",
-      "NVIDIA/nvidia-xconfig"
+      "NVIDIA/nvidia-xconfig",
+      "micropython/axtls"
     ]
 
     git_repos_chromium_googlesource = [
