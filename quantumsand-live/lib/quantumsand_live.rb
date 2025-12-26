@@ -2195,7 +2195,8 @@ class QuantumsandLive
       "chardet/chardet",
       "jawah/charset_normalizer",
       "python-distro/distro",
-      "libfuse/python-fuse"
+      "libfuse/python-fuse",
+      "libfuse/pyfuse3"
     ]
 
     git_repos_chromium_googlesource = [
