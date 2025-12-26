@@ -2433,7 +2433,8 @@ class QuantumsandLive
       "libvirt/libvirt-gitlab-executor",
       "libvirt/libvirt-go-module",
       "libvirt/libvirt-go-xml-module",
-      "libvirt/libvirt-media"
+      "libvirt/libvirt-media",
+      "libvirt/libvirt-ocaml"
     ]
 
     git_repos_freedesktop_gitlab = [
