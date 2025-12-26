@@ -2181,7 +2181,8 @@ class QuantumsandLive
       "NVIDIA/nvidia-installer",
       "NVIDIA/nvidia-modprobe",
       "NVIDIA/nvidia-persistenced",
-      "NVIDIA/nvidia-settings"
+      "NVIDIA/nvidia-settings",
+      "NVIDIA/nvidia-xconfig"
     ]
 
     git_repos_chromium_googlesource = [
