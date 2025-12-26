@@ -2173,7 +2173,8 @@ class QuantumsandLive
       "NVIDIA/cuda-tile",
       "ocaml/ocaml",
       "ocaml/opam",
-      "ocaml/opam-repository"
+      "ocaml/opam-repository",
+      "ocaml/merlin"
     ]
 
     git_repos_chromium_googlesource = [
