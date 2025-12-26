@@ -2184,7 +2184,8 @@ class QuantumsandLive
       "NVIDIA/nvidia-settings",
       "NVIDIA/nvidia-xconfig",
       "micropython/axtls",
-      "zopefoundation/zope.interface"
+      "zopefoundation/zope.interface",
+      "zopefoundation/Zope"
     ]
 
     git_repos_chromium_googlesource = [
