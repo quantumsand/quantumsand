@@ -2431,7 +2431,8 @@ class QuantumsandLive
       "libvirt/libvirt-dbus",
       "libvirt/libvirt-glib",
       "libvirt/libvirt-gitlab-executor",
-      "libvirt/libvirt-go-module"
+      "libvirt/libvirt-go-module",
+      "libvirt/libvirt-go-xml-module"
     ]
 
     git_repos_freedesktop_gitlab = [
