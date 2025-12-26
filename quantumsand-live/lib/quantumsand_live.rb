@@ -2266,7 +2266,8 @@ class QuantumsandLive
       "boot/syslinux/syslinux",
       "bluetooth/obexd",
       "network/ofono/ofono",
-      "network/connman/pacrunner"
+      "network/connman/pacrunner",
+      "utils/pciutils/pciutils"
     ]
 
     git_repos_isc_org_gitlab = [
