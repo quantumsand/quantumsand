@@ -2171,7 +2171,8 @@ class QuantumsandLive
       "Masterminds/glide",
       "Masterminds/squirrel",
       "NVIDIA/cuda-tile",
-      "ocaml/ocaml"
+      "ocaml/ocaml",
+      "ocaml/opam"
     ]
 
     git_repos_chromium_googlesource = [
