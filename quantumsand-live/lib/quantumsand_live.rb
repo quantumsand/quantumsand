@@ -2187,7 +2187,8 @@ class QuantumsandLive
       "zopefoundation/zope.interface",
       "zopefoundation/Zope",
       "zopefoundation/ZODB",
-      "zopefoundation/zopetoolkit"
+      "zopefoundation/zopetoolkit",
+      "sergey-dryabzhinsky/python-zstd"
     ]
 
     git_repos_chromium_googlesource = [
