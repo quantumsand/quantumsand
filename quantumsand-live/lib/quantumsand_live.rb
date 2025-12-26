@@ -2191,7 +2191,8 @@ class QuantumsandLive
       "sergey-dryabzhinsky/python-zstd",
       "python-trio/async_generator",
       "idank/bashlex",
-      "certifi/python-certifi"
+      "certifi/python-certifi",
+      "chardet/chardet"
     ]
 
     git_repos_chromium_googlesource = [
