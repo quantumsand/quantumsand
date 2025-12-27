@@ -2199,7 +2199,8 @@ class QuantumsandLive
       "libfuse/pyfuse3",
       "libfuse/sshfs",
       "bfollington/use-control",
-      "dead/react-js-spatial-navigation"
+      "dead/react-js-spatial-navigation",
+      "luke-chang/js-spatial-navigation"
     ]
 
     git_repos_chromium_googlesource = [
