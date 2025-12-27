@@ -2197,7 +2197,8 @@ class QuantumsandLive
       "python-distro/distro",
       "libfuse/python-fuse",
       "libfuse/pyfuse3",
-      "libfuse/sshfs"
+      "libfuse/sshfs",
+      "bfollington/use-control"
     ]
 
     git_repos_chromium_googlesource = [
