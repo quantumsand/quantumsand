@@ -2291,7 +2291,8 @@ class QuantumsandLive
       "bluetooth/obexd",
       "network/ofono/ofono",
       "network/connman/pacrunner",
-      "utils/pciutils/pciutils"
+      "utils/pciutils/pciutils",
+      "linux/kernel/git/firmware/linux-firmware"
     ]
 
     git_repos_isc_org_gitlab = [
