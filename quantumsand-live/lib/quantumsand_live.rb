@@ -2203,7 +2203,8 @@ class QuantumsandLive
       "luke-chang/js-spatial-navigation",
       "harfbuzz/harfrust",
       "NVIDIA/cdt-gdb-adapter",
-      "NVIDIA/nsight-vscode-edition"
+      "NVIDIA/nsight-vscode-edition",
+      "googlefonts/fontations"
     ]
 
     git_repos_chromium_googlesource = [
