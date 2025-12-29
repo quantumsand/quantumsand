@@ -2228,7 +2228,8 @@ class QuantumsandLive
       "atomiks/tippyjs-react",
       "floating-ui/floating-ui",
       "Astik-2002/pyAircraftIden",
-      "ArduPilot/WebTools"
+      "ArduPilot/WebTools",
+      "ArduPilot/mavlink"
     ]
 
     git_repos_chromium_googlesource = [
