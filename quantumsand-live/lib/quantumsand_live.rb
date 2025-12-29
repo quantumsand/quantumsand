@@ -2243,7 +2243,8 @@ class QuantumsandLive
       "PX4/PX4-Autopilot",
       "mavlink/MAVSDK",
       "mavlink/MAVSDK-Proto",
-      "gnu-octave/octave"
+      "gnu-octave/octave",
+      "gnu-octave/octave-mqtt"
     ]
 
     git_repos_chromium_googlesource = [
