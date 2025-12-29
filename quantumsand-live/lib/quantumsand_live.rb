@@ -2229,7 +2229,8 @@ class QuantumsandLive
       "floating-ui/floating-ui",
       "Astik-2002/pyAircraftIden",
       "ArduPilot/WebTools",
-      "ArduPilot/mavlink"
+      "ArduPilot/mavlink",
+      "ArduPilot/ChibiOS"
     ]
 
     git_repos_chromium_googlesource = [
