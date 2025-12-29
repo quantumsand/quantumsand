@@ -2220,7 +2220,8 @@ class QuantumsandLive
       "ArduPilot/CustomBuild",
       "ArduPilot/MissionPlanner",
       "Williangalvani/JsDataflashParser",
-      "indutny/fft.js"
+      "indutny/fft.js",
+      "moment/luxon"
     ]
 
     git_repos_chromium_googlesource = [
