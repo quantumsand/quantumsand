@@ -2218,7 +2218,8 @@ class QuantumsandLive
       "ArduPilot/MAVProxy",
       "ArduPilot/ardupilot_wiki",
       "ArduPilot/CustomBuild",
-      "ArduPilot/MissionPlanner"
+      "ArduPilot/MissionPlanner",
+      "Williangalvani/JsDataflashParser"
     ]
 
     git_repos_chromium_googlesource = [
