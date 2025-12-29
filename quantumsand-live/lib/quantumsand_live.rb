@@ -2219,7 +2219,8 @@ class QuantumsandLive
       "ArduPilot/ardupilot_wiki",
       "ArduPilot/CustomBuild",
       "ArduPilot/MissionPlanner",
-      "Williangalvani/JsDataflashParser"
+      "Williangalvani/JsDataflashParser",
+      "indutny/fft.js"
     ]
 
     git_repos_chromium_googlesource = [
