@@ -2204,7 +2204,8 @@ class QuantumsandLive
       "harfbuzz/harfrust",
       "NVIDIA/cdt-gdb-adapter",
       "NVIDIA/nsight-vscode-edition",
-      "googlefonts/fontations"
+      "googlefonts/fontations",
+      "mavlink/c_library_v1"
     ]
 
     git_repos_chromium_googlesource = [
