@@ -2224,7 +2224,8 @@ class QuantumsandLive
       "moment/luxon",
       "mljs/matrix",
       "olifolkerd/tabulator",
-      "atomiks/tippyjs"
+      "atomiks/tippyjs",
+      "atomiks/tippyjs-react"
     ]
 
     git_repos_chromium_googlesource = [
