@@ -2216,7 +2216,8 @@ class QuantumsandLive
       "ArduPilot/ChibiOS.svn",
       "ArduPilot/MAVCesium",
       "ArduPilot/MAVProxy",
-      "ArduPilot/ardupilot_wiki"
+      "ArduPilot/ardupilot_wiki",
+      "ArduPilot/CustomBuild"
     ]
 
     git_repos_chromium_googlesource = [
