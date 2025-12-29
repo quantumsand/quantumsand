@@ -2208,7 +2208,8 @@ class QuantumsandLive
       "mavlink/c_library_v1",
       "mavlink/c_library_v2",
       "mavlink/c_uart_interface_example",
-      "mavlink/dev.qgroundcontrol.com"
+      "mavlink/dev.qgroundcontrol.com",
+      "mavlink/libevents"
     ]
 
     git_repos_chromium_googlesource = [
