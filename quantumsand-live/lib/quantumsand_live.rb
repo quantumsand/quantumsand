@@ -2241,7 +2241,8 @@ class QuantumsandLive
       "facontidavide/PlotJuggler",
       "ArduPilot/plotjuggler-apbin-plugins",
       "PX4/PX4-Autopilot",
-      "mavlink/MAVSDK"
+      "mavlink/MAVSDK",
+      "mavlink/MAVSDK-Proto"
     ]
 
     git_repos_chromium_googlesource = [
