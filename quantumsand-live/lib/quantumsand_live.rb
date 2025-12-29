@@ -2223,7 +2223,8 @@ class QuantumsandLive
       "indutny/fft.js",
       "moment/luxon",
       "mljs/matrix",
-      "olifolkerd/tabulator"
+      "olifolkerd/tabulator",
+      "atomiks/tippyjs"
     ]
 
     git_repos_chromium_googlesource = [
