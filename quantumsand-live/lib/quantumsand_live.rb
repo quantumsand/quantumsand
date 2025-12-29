@@ -2225,7 +2225,8 @@ class QuantumsandLive
       "mljs/matrix",
       "olifolkerd/tabulator",
       "atomiks/tippyjs",
-      "atomiks/tippyjs-react"
+      "atomiks/tippyjs-react",
+      "floating-ui/floating-ui"
     ]
 
     git_repos_chromium_googlesource = [
