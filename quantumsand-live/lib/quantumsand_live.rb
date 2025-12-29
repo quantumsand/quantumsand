@@ -2212,7 +2212,8 @@ class QuantumsandLive
       "mavlink/libevents",
       "ardupilot/pymavlink",
       "ArduPilot/ardupilot",
-      "ArduPilot/MethodicConfigurator"
+      "ArduPilot/MethodicConfigurator",
+      "ArduPilot/ChibiOS.svn"
     ]
 
     git_repos_chromium_googlesource = [
