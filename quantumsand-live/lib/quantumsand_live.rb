@@ -2235,7 +2235,8 @@ class QuantumsandLive
       "ArduPilot/ardupilot_vscode_devenv",
       "ArduPilot/ardupilot_gazebo",
       "ArduPilot/UDPProxy",
-      "ArduPilot/ardupilot_gz"
+      "ArduPilot/ardupilot_gz",
+      "gazebosim/ros_gz_project_template"
     ]
 
     git_repos_chromium_googlesource = [
