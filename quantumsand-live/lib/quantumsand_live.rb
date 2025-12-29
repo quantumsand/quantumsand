@@ -2244,7 +2244,8 @@ class QuantumsandLive
       "mavlink/MAVSDK",
       "mavlink/MAVSDK-Proto",
       "gnu-octave/octave",
-      "gnu-octave/octave-mqtt"
+      "gnu-octave/octave-mqtt",
+      "eclipse-paho/paho.mqtt.c"
     ]
 
     git_repos_chromium_googlesource = [
