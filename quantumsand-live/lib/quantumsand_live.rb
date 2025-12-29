@@ -2222,7 +2222,8 @@ class QuantumsandLive
       "Williangalvani/JsDataflashParser",
       "indutny/fft.js",
       "moment/luxon",
-      "mljs/matrix"
+      "mljs/matrix",
+      "olifolkerd/tabulator"
     ]
 
     git_repos_chromium_googlesource = [
