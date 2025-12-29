@@ -2217,7 +2217,8 @@ class QuantumsandLive
       "ArduPilot/MAVCesium",
       "ArduPilot/MAVProxy",
       "ArduPilot/ardupilot_wiki",
-      "ArduPilot/CustomBuild"
+      "ArduPilot/CustomBuild",
+      "ArduPilot/MissionPlanner"
     ]
 
     git_repos_chromium_googlesource = [
