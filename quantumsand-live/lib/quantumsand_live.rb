@@ -2207,7 +2207,8 @@ class QuantumsandLive
       "googlefonts/fontations",
       "mavlink/c_library_v1",
       "mavlink/c_library_v2",
-      "mavlink/c_uart_interface_example"
+      "mavlink/c_uart_interface_example",
+      "mavlink/dev.qgroundcontrol.com"
     ]
 
     git_repos_chromium_googlesource = [
