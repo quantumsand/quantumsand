@@ -2226,7 +2226,8 @@ class QuantumsandLive
       "olifolkerd/tabulator",
       "atomiks/tippyjs",
       "atomiks/tippyjs-react",
-      "floating-ui/floating-ui"
+      "floating-ui/floating-ui",
+      "Astik-2002/pyAircraftIden"
     ]
 
     git_repos_chromium_googlesource = [
