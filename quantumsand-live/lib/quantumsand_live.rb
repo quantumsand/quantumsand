@@ -2202,7 +2202,8 @@ class QuantumsandLive
       "dead/react-js-spatial-navigation",
       "luke-chang/js-spatial-navigation",
       "harfbuzz/harfrust",
-      "NVIDIA/cdt-gdb-adapter"
+      "NVIDIA/cdt-gdb-adapter",
+      "NVIDIA/nsight-vscode-edition"
     ]
 
     git_repos_chromium_googlesource = [
