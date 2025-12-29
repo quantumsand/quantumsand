@@ -2231,7 +2231,8 @@ class QuantumsandLive
       "ArduPilot/WebTools",
       "ArduPilot/mavlink",
       "ArduPilot/ChibiOS",
-      "ArduPilot/ParameterRepository"
+      "ArduPilot/ParameterRepository",
+      "ArduPilot/ardupilot_vscode_devenv"
     ]
 
     git_repos_chromium_googlesource = [
