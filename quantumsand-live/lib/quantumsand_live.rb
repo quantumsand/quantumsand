@@ -2201,7 +2201,8 @@ class QuantumsandLive
       "bfollington/use-control",
       "dead/react-js-spatial-navigation",
       "luke-chang/js-spatial-navigation",
-      "harfbuzz/harfrust"
+      "harfbuzz/harfrust",
+      "NVIDIA/cdt-gdb-adapter"
     ]
 
     git_repos_chromium_googlesource = [
