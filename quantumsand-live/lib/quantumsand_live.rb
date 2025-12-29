@@ -2230,7 +2230,8 @@ class QuantumsandLive
       "Astik-2002/pyAircraftIden",
       "ArduPilot/WebTools",
       "ArduPilot/mavlink",
-      "ArduPilot/ChibiOS"
+      "ArduPilot/ChibiOS",
+      "ArduPilot/ParameterRepository"
     ]
 
     git_repos_chromium_googlesource = [
