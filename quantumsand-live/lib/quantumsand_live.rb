@@ -2234,7 +2234,8 @@ class QuantumsandLive
       "ArduPilot/ParameterRepository",
       "ArduPilot/ardupilot_vscode_devenv",
       "ArduPilot/ardupilot_gazebo",
-      "ArduPilot/UDPProxy"
+      "ArduPilot/UDPProxy",
+      "ArduPilot/ardupilot_gz"
     ]
 
     git_repos_chromium_googlesource = [
