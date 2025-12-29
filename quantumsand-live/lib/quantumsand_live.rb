@@ -2247,7 +2247,8 @@ class QuantumsandLive
       "gnu-octave/octave-mqtt",
       "eclipse-paho/paho.mqtt.c",
       "hyprwm/hyprland-protocols",
-      "canihavesomecoffee/udis86"
+      "canihavesomecoffee/udis86",
+      "wolfpld/tracy"
     ]
 
     git_repos_chromium_googlesource = [
