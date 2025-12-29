@@ -2238,7 +2238,8 @@ class QuantumsandLive
       "ArduPilot/ardupilot_gz",
       "gazebosim/ros_gz_project_template",
       "ArduPilot/UAVLogViewer",
-      "facontidavide/PlotJuggler"
+      "facontidavide/PlotJuggler",
+      "ArduPilot/plotjuggler-apbin-plugins"
     ]
 
     git_repos_chromium_googlesource = [
