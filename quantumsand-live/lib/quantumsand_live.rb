@@ -2209,7 +2209,8 @@ class QuantumsandLive
       "mavlink/c_library_v2",
       "mavlink/c_uart_interface_example",
       "mavlink/dev.qgroundcontrol.com",
-      "mavlink/libevents"
+      "mavlink/libevents",
+      "ardupilot/pymavlink"
     ]
 
     git_repos_chromium_googlesource = [
