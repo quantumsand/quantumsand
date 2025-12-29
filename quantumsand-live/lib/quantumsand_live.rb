@@ -2205,7 +2205,8 @@ class QuantumsandLive
       "NVIDIA/cdt-gdb-adapter",
       "NVIDIA/nsight-vscode-edition",
       "googlefonts/fontations",
-      "mavlink/c_library_v1"
+      "mavlink/c_library_v1",
+      "mavlink/c_library_v2"
     ]
 
     git_repos_chromium_googlesource = [
