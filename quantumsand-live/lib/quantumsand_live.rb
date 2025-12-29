@@ -2237,7 +2237,8 @@ class QuantumsandLive
       "ArduPilot/UDPProxy",
       "ArduPilot/ardupilot_gz",
       "gazebosim/ros_gz_project_template",
-      "ArduPilot/UAVLogViewer"
+      "ArduPilot/UAVLogViewer",
+      "facontidavide/PlotJuggler"
     ]
 
     git_repos_chromium_googlesource = [
