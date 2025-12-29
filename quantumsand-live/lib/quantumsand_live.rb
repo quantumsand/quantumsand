@@ -2214,7 +2214,8 @@ class QuantumsandLive
       "ArduPilot/ardupilot",
       "ArduPilot/MethodicConfigurator",
       "ArduPilot/ChibiOS.svn",
-      "ArduPilot/MAVCesium"
+      "ArduPilot/MAVCesium",
+      "ArduPilot/MAVProxy"
     ]
 
     git_repos_chromium_googlesource = [
