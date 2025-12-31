@@ -2293,7 +2293,8 @@ class QuantumsandLive
       "maplibre/martin",
       "mapbox/mapbox-gl-draw",
       "qbittorrent/qBittorrent",
-      "qbittorrent/search-plugins"
+      "qbittorrent/search-plugins",
+      "webtorrent/webtorrent"
     ]
 
     git_repos_chromium_googlesource = [
