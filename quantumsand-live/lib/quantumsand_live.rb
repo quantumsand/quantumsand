@@ -2248,7 +2248,8 @@ class QuantumsandLive
       "eclipse-paho/paho.mqtt.c",
       "hyprwm/hyprland-protocols",
       "canihavesomecoffee/udis86",
-      "wolfpld/tracy"
+      "wolfpld/tracy",
+      "mltframework/shotcut"
     ]
 
     git_repos_chromium_googlesource = [
