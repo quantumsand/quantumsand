@@ -2251,7 +2251,8 @@ class QuantumsandLive
       "wolfpld/tracy",
       "mltframework/shotcut",
       "mltframework/webvfx",
-      "mavlink/MAVSDK-Python"
+      "mavlink/MAVSDK-Python",
+      "mavlink/MAVSDK-Swift"
     ]
 
     git_repos_chromium_googlesource = [
