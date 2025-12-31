@@ -2250,7 +2250,8 @@ class QuantumsandLive
       "canihavesomecoffee/udis86",
       "wolfpld/tracy",
       "mltframework/shotcut",
-      "mltframework/webvfx"
+      "mltframework/webvfx",
+      "mavlink/MAVSDK-Python"
     ]
 
     git_repos_chromium_googlesource = [
