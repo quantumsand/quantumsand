@@ -2268,7 +2268,8 @@ class QuantumsandLive
       "JustusAdam/mustache",
       "dart-lang/sdk",
       "dart-lang/ecosystem",
-      "dart-lang/build"
+      "dart-lang/build",
+      "dart-lang/http"
     ]
 
     git_repos_chromium_googlesource = [
