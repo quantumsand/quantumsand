@@ -2854,7 +2854,8 @@ class QuantumsandLive
       "plasma/plasma-nano",
       "graphics/digikam",
       "multimedia/kdenlive",
-      "network/ktorrent"
+      "network/ktorrent",
+      "network/libktorrent"
     ]
 
     git_repos_ffmpeg_org = [
