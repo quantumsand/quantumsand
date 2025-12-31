@@ -2262,7 +2262,8 @@ class QuantumsandLive
       "schultyy/Mustache.ex",
       "yanick/Template-Mustache",
       "StubbleOrg/Stubble",
-      "no1msd/mstch"
+      "no1msd/mstch",
+      "cbroglie/mustache"
     ]
 
     git_repos_chromium_googlesource = [
