@@ -2291,7 +2291,8 @@ class QuantumsandLive
       "nickel-org/nickel.rs",
       "rgrinberg/ocaml-mustache",
       "maplibre/martin",
-      "mapbox/mapbox-gl-draw"
+      "mapbox/mapbox-gl-draw",
+      "qbittorrent/qBittorrent"
     ]
 
     git_repos_chromium_googlesource = [
