@@ -2283,7 +2283,8 @@ class QuantumsandLive
       "GregoryConrad/native_toolchain_rust",
       "rack/rack",
       "dart-lang/shelf",
-      "dart-lang/test"
+      "dart-lang/test",
+      "dart-lang/webdev"
     ]
 
     git_repos_chromium_googlesource = [
