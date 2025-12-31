@@ -2281,7 +2281,8 @@ class QuantumsandLive
       "csnewman/flutter-go-bridge",
       "irondash/native_toolchain_rust",
       "GregoryConrad/native_toolchain_rust",
-      "rack/rack"
+      "rack/rack",
+      "dart-lang/shelf"
     ]
 
     git_repos_chromium_googlesource = [
