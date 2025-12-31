@@ -2258,7 +2258,8 @@ class QuantumsandLive
       "janl/mustache.js",
       "noahmorrison/chevron",
       "mustache/spec",
-      "mojombo/mustache.erl"
+      "mojombo/mustache.erl",
+      "schultyy/Mustache.ex"
     ]
 
     git_repos_chromium_googlesource = [
