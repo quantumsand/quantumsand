@@ -2264,7 +2264,8 @@ class QuantumsandLive
       "StubbleOrg/Stubble",
       "no1msd/mstch",
       "cbroglie/mustache",
-      "Olivine-Labs/lustache"
+      "Olivine-Labs/lustache",
+      "JustusAdam/mustache"
     ]
 
     git_repos_chromium_googlesource = [
