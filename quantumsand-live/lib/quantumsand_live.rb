@@ -2254,7 +2254,8 @@ class QuantumsandLive
       "mavlink/MAVSDK-Python",
       "mavlink/MAVSDK-Swift",
       "realm/jazzy",
-      "mustache/mustache"
+      "mustache/mustache",
+      "janl/mustache.js"
     ]
 
     git_repos_chromium_googlesource = [
