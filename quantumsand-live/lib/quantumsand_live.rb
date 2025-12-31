@@ -2269,7 +2269,8 @@ class QuantumsandLive
       "dart-lang/sdk",
       "dart-lang/ecosystem",
       "dart-lang/build",
-      "dart-lang/http"
+      "dart-lang/http",
+      "dart-lang/core"
     ]
 
     git_repos_chromium_googlesource = [
