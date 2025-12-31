@@ -2275,7 +2275,8 @@ class QuantumsandLive
       "dart-lang/labs",
       "dart-lang/i18n",
       "dart-lang/leak_tracker",
-      "dart-lang/language"
+      "dart-lang/language",
+      "dart-lang/native"
     ]
 
     git_repos_chromium_googlesource = [
