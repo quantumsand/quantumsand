@@ -2277,7 +2277,8 @@ class QuantumsandLive
       "dart-lang/leak_tracker",
       "dart-lang/language",
       "dart-lang/native",
-      "rainyl/native_toolchain_cmake"
+      "rainyl/native_toolchain_cmake",
+      "csnewman/flutter-go-bridge"
     ]
 
     git_repos_chromium_googlesource = [
