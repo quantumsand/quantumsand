@@ -2280,7 +2280,8 @@ class QuantumsandLive
       "rainyl/native_toolchain_cmake",
       "csnewman/flutter-go-bridge",
       "irondash/native_toolchain_rust",
-      "GregoryConrad/native_toolchain_rust"
+      "GregoryConrad/native_toolchain_rust",
+      "rack/rack"
     ]
 
     git_repos_chromium_googlesource = [
