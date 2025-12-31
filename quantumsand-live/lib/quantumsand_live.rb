@@ -2276,7 +2276,8 @@ class QuantumsandLive
       "dart-lang/i18n",
       "dart-lang/leak_tracker",
       "dart-lang/language",
-      "dart-lang/native"
+      "dart-lang/native",
+      "rainyl/native_toolchain_cmake"
     ]
 
     git_repos_chromium_googlesource = [
