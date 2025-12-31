@@ -2290,7 +2290,8 @@ class QuantumsandLive
       "nickel-org/rust-mustache",
       "nickel-org/nickel.rs",
       "rgrinberg/ocaml-mustache",
-      "maplibre/martin"
+      "maplibre/martin",
+      "mapbox/mapbox-gl-draw"
     ]
 
     git_repos_chromium_googlesource = [
