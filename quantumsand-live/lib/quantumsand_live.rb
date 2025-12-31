@@ -2249,7 +2249,8 @@ class QuantumsandLive
       "hyprwm/hyprland-protocols",
       "canihavesomecoffee/udis86",
       "wolfpld/tracy",
-      "mltframework/shotcut"
+      "mltframework/shotcut",
+      "mltframework/webvfx"
     ]
 
     git_repos_chromium_googlesource = [
