@@ -2265,7 +2265,8 @@ class QuantumsandLive
       "no1msd/mstch",
       "cbroglie/mustache",
       "Olivine-Labs/lustache",
-      "JustusAdam/mustache"
+      "JustusAdam/mustache",
+      "dart-lang/sdk"
     ]
 
     git_repos_chromium_googlesource = [
