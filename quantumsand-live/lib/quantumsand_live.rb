@@ -2253,7 +2253,8 @@ class QuantumsandLive
       "mltframework/webvfx",
       "mavlink/MAVSDK-Python",
       "mavlink/MAVSDK-Swift",
-      "realm/jazzy"
+      "realm/jazzy",
+      "mustache/mustache"
     ]
 
     git_repos_chromium_googlesource = [
