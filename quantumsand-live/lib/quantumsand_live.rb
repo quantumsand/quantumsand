@@ -2287,7 +2287,8 @@ class QuantumsandLive
       "dart-lang/webdev",
       "valotas/mustache4dart",
       "nadako/hxmustache",
-      "nickel-org/rust-mustache"
+      "nickel-org/rust-mustache",
+      "nickel-org/nickel.rs"
     ]
 
     git_repos_chromium_googlesource = [
