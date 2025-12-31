@@ -2278,7 +2278,8 @@ class QuantumsandLive
       "dart-lang/language",
       "dart-lang/native",
       "rainyl/native_toolchain_cmake",
-      "csnewman/flutter-go-bridge"
+      "csnewman/flutter-go-bridge",
+      "irondash/native_toolchain_rust"
     ]
 
     git_repos_chromium_googlesource = [
