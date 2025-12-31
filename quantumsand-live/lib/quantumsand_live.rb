@@ -2282,7 +2282,8 @@ class QuantumsandLive
       "irondash/native_toolchain_rust",
       "GregoryConrad/native_toolchain_rust",
       "rack/rack",
-      "dart-lang/shelf"
+      "dart-lang/shelf",
+      "dart-lang/test"
     ]
 
     git_repos_chromium_googlesource = [
