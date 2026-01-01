@@ -2340,7 +2340,8 @@ class QuantumsandLive
       "matplotlib/mplcairo",
       "matplotlib/ipympl",
       "matplotlib/mplfinance",
-      "matplotlib/pytest-mpl"
+      "matplotlib/pytest-mpl",
+      "matplotlib/matplotlib-extension-cookiecutter"
     ]
 
     git_repos_chromium_googlesource = [
