@@ -2349,7 +2349,8 @@ class QuantumsandLive
       "EmiOnGit/warbler_grass",
       "ElliottjPierce/noiz",
       "avianphysics/avian",
-      "avianphysics/bevy_heavy"
+      "avianphysics/bevy_heavy",
+      "avianphysics/avian_asset_files"
     ]
 
     git_repos_chromium_googlesource = [
