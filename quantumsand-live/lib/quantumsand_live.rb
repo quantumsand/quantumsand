@@ -2350,7 +2350,8 @@ class QuantumsandLive
       "ElliottjPierce/noiz",
       "avianphysics/avian",
       "avianphysics/bevy_heavy",
-      "avianphysics/avian_asset_files"
+      "avianphysics/avian_asset_files",
+      "voxell-tech/motiongfx"
     ]
 
     git_repos_chromium_googlesource = [
