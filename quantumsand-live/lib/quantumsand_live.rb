@@ -2315,7 +2315,8 @@ class QuantumsandLive
       "webtorrent/parse-torrent",
       "webtorrent/torrent-discovery",
       "webtorrent/webtorrent-desktop",
-      "webtorrent/webtorrent-cli"
+      "webtorrent/webtorrent-cli",
+      "webtorrent/instant.io"
     ]
 
     git_repos_chromium_googlesource = [
