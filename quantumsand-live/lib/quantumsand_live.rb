@@ -3123,7 +3123,8 @@ class QuantumsandLive
       "x11-drivers/nvidia-drivers",
       "dev-lang/ruby",
       "dev-lang/ocaml",
-      "net-fs/sshfs"
+      "net-fs/sshfs",
+      "dev-python/matplotlib"
     ]
 
     gentoo_eselect_repository_add = {
