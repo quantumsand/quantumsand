@@ -2301,7 +2301,8 @@ class QuantumsandLive
       "mafintosh/playback",
       "mafintosh/peerflix",
       "mafintosh/torrent-stream",
-      "webtorrent/bittorrent-dht"
+      "webtorrent/bittorrent-dht",
+      "browserify/browserify"
     ]
 
     git_repos_chromium_googlesource = [
