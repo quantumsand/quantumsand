@@ -2343,7 +2343,8 @@ class QuantumsandLive
       "matplotlib/pytest-mpl",
       "matplotlib/matplotlib-extension-cookiecutter",
       "BillyDM/Firewheel",
-      "pdeljanov/Symphonia"
+      "pdeljanov/Symphonia",
+      "NicoZweifel/bevy_feronia"
     ]
 
     git_repos_chromium_googlesource = [
