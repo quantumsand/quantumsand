@@ -2347,7 +2347,8 @@ class QuantumsandLive
       "NicoZweifel/bevy_feronia",
       "jadedbay/bevy_procedural_grass",
       "EmiOnGit/warbler_grass",
-      "ElliottjPierce/noiz"
+      "ElliottjPierce/noiz",
+      "avianphysics/avian"
     ]
 
     git_repos_chromium_googlesource = [
