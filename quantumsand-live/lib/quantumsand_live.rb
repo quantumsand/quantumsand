@@ -2873,7 +2873,8 @@ class QuantumsandLive
       "microcad/microcad",
       "ziglang/zig",
       "tenacityteam/libid3tag",
-      "OpenVPN/openvpn3-linux"
+      "OpenVPN/openvpn3-linux",
+      "Meadowlark/symphonium"
     ]
 
     git_repos_kde_invent = [
