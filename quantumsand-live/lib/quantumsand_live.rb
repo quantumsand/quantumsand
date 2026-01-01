@@ -2352,7 +2352,8 @@ class QuantumsandLive
       "avianphysics/bevy_heavy",
       "avianphysics/avian_asset_files",
       "voxell-tech/motiongfx",
-      "voxell-tech/field_path"
+      "voxell-tech/field_path",
+      "kirillsurkov/bevy-clipmap"
     ]
 
     git_repos_chromium_googlesource = [
