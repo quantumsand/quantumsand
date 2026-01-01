@@ -2344,7 +2344,8 @@ class QuantumsandLive
       "matplotlib/matplotlib-extension-cookiecutter",
       "BillyDM/Firewheel",
       "pdeljanov/Symphonia",
-      "NicoZweifel/bevy_feronia"
+      "NicoZweifel/bevy_feronia",
+      "jadedbay/bevy_procedural_grass"
     ]
 
     git_repos_chromium_googlesource = [
