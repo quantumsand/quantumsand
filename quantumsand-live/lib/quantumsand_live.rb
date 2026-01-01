@@ -2351,7 +2351,8 @@ class QuantumsandLive
       "avianphysics/avian",
       "avianphysics/bevy_heavy",
       "avianphysics/avian_asset_files",
-      "voxell-tech/motiongfx"
+      "voxell-tech/motiongfx",
+      "voxell-tech/field_path"
     ]
 
     git_repos_chromium_googlesource = [
