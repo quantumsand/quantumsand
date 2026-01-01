@@ -2357,7 +2357,8 @@ class QuantumsandLive
       "atlv24/glizmo",
       "zeromq/libzmq",
       "zeromq/pyzmq",
-      "zeromq/cppzmq"
+      "zeromq/cppzmq",
+      "fukuchi/libqrencode"
     ]
 
     git_repos_chromium_googlesource = [
