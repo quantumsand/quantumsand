@@ -2311,7 +2311,8 @@ class QuantumsandLive
       "webtorrent/bittorrent-tracker",
       "webtorrent/bittorrent-lsd",
       "webtorrent/create-torrent",
-      "webtorrent/magnet-uri"
+      "webtorrent/magnet-uri",
+      "webtorrent/parse-torrent"
     ]
 
     git_repos_chromium_googlesource = [
