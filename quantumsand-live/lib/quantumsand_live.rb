@@ -2358,7 +2358,8 @@ class QuantumsandLive
       "zeromq/libzmq",
       "zeromq/pyzmq",
       "zeromq/cppzmq",
-      "fukuchi/libqrencode"
+      "fukuchi/libqrencode",
+      "dlbeer/quirc"
     ]
 
     git_repos_chromium_googlesource = [
