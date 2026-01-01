@@ -2334,7 +2334,8 @@ class QuantumsandLive
       "mafintosh/abstract-encoding",
       "webtorrent/node-bencode",
       "mafintosh/read-torrent",
-      "webtorrent/renovate-config"
+      "webtorrent/renovate-config",
+      "matplotlib/matplotlib"
     ]
 
     git_repos_chromium_googlesource = [
