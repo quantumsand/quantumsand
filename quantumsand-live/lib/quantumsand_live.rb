@@ -2337,7 +2337,8 @@ class QuantumsandLive
       "webtorrent/renovate-config",
       "matplotlib/matplotlib",
       "matplotlib/cheatsheets",
-      "matplotlib/mplcairo"
+      "matplotlib/mplcairo",
+      "matplotlib/ipympl"
     ]
 
     git_repos_chromium_googlesource = [
