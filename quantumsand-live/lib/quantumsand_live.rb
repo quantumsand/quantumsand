@@ -2338,7 +2338,8 @@ class QuantumsandLive
       "matplotlib/matplotlib",
       "matplotlib/cheatsheets",
       "matplotlib/mplcairo",
-      "matplotlib/ipympl"
+      "matplotlib/ipympl",
+      "matplotlib/mplfinance"
     ]
 
     git_repos_chromium_googlesource = [
