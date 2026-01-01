@@ -2299,7 +2299,8 @@ class QuantumsandLive
       "AsahiLinux/u-boot",
       "go-gitea/gitea",
       "mafintosh/playback",
-      "mafintosh/peerflix"
+      "mafintosh/peerflix",
+      "mafintosh/torrent-stream"
     ]
 
     git_repos_chromium_googlesource = [
