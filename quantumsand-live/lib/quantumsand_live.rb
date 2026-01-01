@@ -2319,7 +2319,8 @@ class QuantumsandLive
       "webtorrent/instant.io",
       "webtorrent/addr-to-ip-port",
       "watson/airplay-protocol",
-      "watson/airplayer"
+      "watson/airplayer",
+      "webtorrent/bep53-range"
     ]
 
     git_repos_chromium_googlesource = [
