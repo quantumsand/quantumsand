@@ -2300,7 +2300,8 @@ class QuantumsandLive
       "go-gitea/gitea",
       "mafintosh/playback",
       "mafintosh/peerflix",
-      "mafintosh/torrent-stream"
+      "mafintosh/torrent-stream",
+      "webtorrent/bittorrent-dht"
     ]
 
     git_repos_chromium_googlesource = [
