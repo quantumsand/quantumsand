@@ -2294,7 +2294,8 @@ class QuantumsandLive
       "mapbox/mapbox-gl-draw",
       "qbittorrent/qBittorrent",
       "qbittorrent/search-plugins",
-      "webtorrent/webtorrent"
+      "webtorrent/webtorrent",
+      "AsahiLinux/linux"
     ]
 
     git_repos_chromium_googlesource = [
