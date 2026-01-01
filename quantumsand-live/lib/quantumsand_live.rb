@@ -2324,7 +2324,8 @@ class QuantumsandLive
       "mafintosh/abstract-chunk-store",
       "webtorrent/fs-access-chunk-store",
       "webtorrent/fs-chunk-store",
-      "browserify/http-browserify"
+      "browserify/http-browserify",
+      "feross/chrome-net"
     ]
 
     git_repos_chromium_googlesource = [
