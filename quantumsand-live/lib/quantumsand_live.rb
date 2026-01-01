@@ -2321,7 +2321,8 @@ class QuantumsandLive
       "watson/airplay-protocol",
       "watson/airplayer",
       "webtorrent/bep53-range",
-      "mafintosh/abstract-chunk-store"
+      "mafintosh/abstract-chunk-store",
+      "webtorrent/fs-access-chunk-store"
     ]
 
     git_repos_chromium_googlesource = [
