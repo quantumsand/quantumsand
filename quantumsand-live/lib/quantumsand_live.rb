@@ -2355,7 +2355,8 @@ class QuantumsandLive
       "voxell-tech/field_path",
       "kirillsurkov/bevy-clipmap",
       "atlv24/glizmo",
-      "zeromq/libzmq"
+      "zeromq/libzmq",
+      "zeromq/pyzmq"
     ]
 
     git_repos_chromium_googlesource = [
