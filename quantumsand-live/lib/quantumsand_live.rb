@@ -2308,7 +2308,8 @@ class QuantumsandLive
       "webtorrent/ut_metadata",
       "webtorrent/ut_pex",
       "webtorrent/bittorrent-protocol",
-      "webtorrent/bittorrent-tracker"
+      "webtorrent/bittorrent-tracker",
+      "webtorrent/bittorrent-lsd"
     ]
 
     git_repos_chromium_googlesource = [
