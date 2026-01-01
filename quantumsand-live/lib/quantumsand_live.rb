@@ -2297,7 +2297,8 @@ class QuantumsandLive
       "webtorrent/webtorrent",
       "AsahiLinux/linux",
       "AsahiLinux/u-boot",
-      "go-gitea/gitea"
+      "go-gitea/gitea",
+      "mafintosh/playback"
     ]
 
     git_repos_chromium_googlesource = [
