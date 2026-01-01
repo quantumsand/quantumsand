@@ -2305,7 +2305,8 @@ class QuantumsandLive
       "browserify/browserify",
       "npm/node-semver",
       "webtorrent/bittorrent-peerid",
-      "webtorrent/ut_metadata"
+      "webtorrent/ut_metadata",
+      "webtorrent/ut_pex"
     ]
 
     git_repos_chromium_googlesource = [
