@@ -2341,7 +2341,8 @@ class QuantumsandLive
       "matplotlib/ipympl",
       "matplotlib/mplfinance",
       "matplotlib/pytest-mpl",
-      "matplotlib/matplotlib-extension-cookiecutter"
+      "matplotlib/matplotlib-extension-cookiecutter",
+      "BillyDM/Firewheel"
     ]
 
     git_repos_chromium_googlesource = [
