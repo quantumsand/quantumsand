@@ -2333,7 +2333,8 @@ class QuantumsandLive
       "webtorrent/multicast-dns",
       "mafintosh/abstract-encoding",
       "webtorrent/node-bencode",
-      "mafintosh/read-torrent"
+      "mafintosh/read-torrent",
+      "webtorrent/renovate-config"
     ]
 
     git_repos_chromium_googlesource = [
