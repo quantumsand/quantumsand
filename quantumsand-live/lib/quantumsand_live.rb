@@ -2335,7 +2335,8 @@ class QuantumsandLive
       "webtorrent/node-bencode",
       "mafintosh/read-torrent",
       "webtorrent/renovate-config",
-      "matplotlib/matplotlib"
+      "matplotlib/matplotlib",
+      "matplotlib/cheatsheets"
     ]
 
     git_repos_chromium_googlesource = [
