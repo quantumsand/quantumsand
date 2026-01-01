@@ -2320,7 +2320,8 @@ class QuantumsandLive
       "webtorrent/addr-to-ip-port",
       "watson/airplay-protocol",
       "watson/airplayer",
-      "webtorrent/bep53-range"
+      "webtorrent/bep53-range",
+      "mafintosh/abstract-chunk-store"
     ]
 
     git_repos_chromium_googlesource = [
