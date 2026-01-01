@@ -2345,7 +2345,8 @@ class QuantumsandLive
       "BillyDM/Firewheel",
       "pdeljanov/Symphonia",
       "NicoZweifel/bevy_feronia",
-      "jadedbay/bevy_procedural_grass"
+      "jadedbay/bevy_procedural_grass",
+      "EmiOnGit/warbler_grass"
     ]
 
     git_repos_chromium_googlesource = [
