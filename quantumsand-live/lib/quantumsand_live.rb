@@ -2296,7 +2296,8 @@ class QuantumsandLive
       "qbittorrent/search-plugins",
       "webtorrent/webtorrent",
       "AsahiLinux/linux",
-      "AsahiLinux/u-boot"
+      "AsahiLinux/u-boot",
+      "go-gitea/gitea"
     ]
 
     git_repos_chromium_googlesource = [
