@@ -2329,7 +2329,8 @@ class QuantumsandLive
       "webtorrent/http-node",
       "webtorrent/idb-chunk-store",
       "webtorrent/load-ip-set",
-      "webtorrent/lt_donthave"
+      "webtorrent/lt_donthave",
+      "webtorrent/multicast-dns"
     ]
 
     git_repos_chromium_googlesource = [
