@@ -2323,7 +2323,8 @@ class QuantumsandLive
       "webtorrent/bep53-range",
       "mafintosh/abstract-chunk-store",
       "webtorrent/fs-access-chunk-store",
-      "webtorrent/fs-chunk-store"
+      "webtorrent/fs-chunk-store",
+      "browserify/http-browserify"
     ]
 
     git_repos_chromium_googlesource = [
