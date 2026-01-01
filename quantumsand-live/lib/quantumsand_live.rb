@@ -2327,7 +2327,8 @@ class QuantumsandLive
       "browserify/http-browserify",
       "feross/chrome-net",
       "webtorrent/http-node",
-      "webtorrent/idb-chunk-store"
+      "webtorrent/idb-chunk-store",
+      "webtorrent/load-ip-set"
     ]
 
     git_repos_chromium_googlesource = [
