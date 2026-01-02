@@ -2386,7 +2386,8 @@ class QuantumsandLive
       "hraban/opus",
       "gavv/opus",
       "mesilliac/pulse-simple",
-      "youpy/go-wav"
+      "youpy/go-wav",
+      "adalkiran/distributed-inference"
     ]
 
     git_repos_chromium_googlesource = [
