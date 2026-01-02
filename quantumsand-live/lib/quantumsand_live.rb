@@ -2387,7 +2387,8 @@ class QuantumsandLive
       "gavv/opus",
       "mesilliac/pulse-simple",
       "youpy/go-wav",
-      "adalkiran/distributed-inference"
+      "adalkiran/distributed-inference",
+      "influxdata/influxdb"
     ]
 
     git_repos_chromium_googlesource = [
