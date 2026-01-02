@@ -2362,7 +2362,8 @@ class QuantumsandLive
       "dlbeer/quirc",
       "OpenRC/openrc",
       "webtorrent/semantic-release-config",
-      "webtorrent/string2compact"
+      "webtorrent/string2compact",
+      "webtorrent/torrent-piece"
     ]
 
     git_repos_chromium_googlesource = [
