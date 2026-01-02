@@ -2380,7 +2380,8 @@ class QuantumsandLive
       "go-chi/render",
       "go-chi/docgen",
       "coder/websocket",
-      "pion/example-webrtc-applications"
+      "pion/example-webrtc-applications",
+      "gavv/webrtc-cli"
     ]
 
     git_repos_chromium_googlesource = [
