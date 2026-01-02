@@ -2372,7 +2372,8 @@ class QuantumsandLive
       "mafintosh/webcat",
       "mafintosh/signalhub",
       "feross/lxjs-chat",
-      "feross/whiteboard"
+      "feross/whiteboard",
+      "pion/webrtc"
     ]
 
     git_repos_chromium_googlesource = [
