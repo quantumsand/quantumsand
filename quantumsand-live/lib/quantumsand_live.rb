@@ -2385,7 +2385,8 @@ class QuantumsandLive
       "proemergotech/chrome-webrtc-packet-log-parser",
       "hraban/opus",
       "gavv/opus",
-      "mesilliac/pulse-simple"
+      "mesilliac/pulse-simple",
+      "youpy/go-wav"
     ]
 
     git_repos_chromium_googlesource = [
