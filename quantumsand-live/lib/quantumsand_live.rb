@@ -2365,7 +2365,8 @@ class QuantumsandLive
       "webtorrent/string2compact",
       "webtorrent/torrent-piece",
       "webtorrent/webtorrent-fixtures",
-      "webtorrent/webtorrent-hybrid"
+      "webtorrent/webtorrent-hybrid",
+      "webtorrent/webtorrent.io"
     ]
 
     git_repos_chromium_googlesource = [
