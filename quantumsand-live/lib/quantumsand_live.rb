@@ -2397,7 +2397,8 @@ class QuantumsandLive
       "hybridgroup/gobot",
       "Ragnar-H/TelloGo",
       "oliverpool/tello-webrtc-fpv",
-      "deepch/RTSPtoWSMP4f"
+      "deepch/RTSPtoWSMP4f",
+      "deepch/RTSPtoWeb"
     ]
 
     git_repos_chromium_googlesource = [
