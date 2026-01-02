@@ -2394,7 +2394,8 @@ class QuantumsandLive
       "chrisingenhaag/broadcastbox-webhookserver",
       "glimesh/broadcast-box",
       "ashellunts/ffmpeg-to-webrtc",
-      "hybridgroup/gobot"
+      "hybridgroup/gobot",
+      "Ragnar-H/TelloGo"
     ]
 
     git_repos_chromium_googlesource = [
