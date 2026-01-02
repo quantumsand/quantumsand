@@ -2410,6 +2410,10 @@ class QuantumsandLive
       "src"
     ]
 
+    git_repos_go_googlesource = [
+      "time"
+    ]
+
     git_xet_hf_download_huggingface_co = [
       "opencv/qrcode_wechatqrcode",
       "miromind-ai/MiroThinker-v1.0-8B",
