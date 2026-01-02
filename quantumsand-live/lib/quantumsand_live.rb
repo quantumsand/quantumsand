@@ -2370,7 +2370,8 @@ class QuantumsandLive
       "feross/simple-peer",
       "socketio/socket.io-p2p",
       "mafintosh/webcat",
-      "mafintosh/signalhub"
+      "mafintosh/signalhub",
+      "feross/lxjs-chat"
     ]
 
     git_repos_chromium_googlesource = [
