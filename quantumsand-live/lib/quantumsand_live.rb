@@ -2411,7 +2411,8 @@ class QuantumsandLive
     ]
 
     git_repos_go_googlesource = [
-      "time"
+      "time",
+      "go"
     ]
 
     git_xet_hf_download_huggingface_co = [
