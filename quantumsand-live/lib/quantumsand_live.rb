@@ -2389,7 +2389,8 @@ class QuantumsandLive
       "youpy/go-wav",
       "adalkiran/distributed-inference",
       "influxdata/influxdb",
-      "prometheus/prometheus"
+      "prometheus/prometheus",
+      "influxdata/telegraf"
     ]
 
     git_repos_chromium_googlesource = [
