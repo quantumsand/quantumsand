@@ -2360,7 +2360,8 @@ class QuantumsandLive
       "zeromq/cppzmq",
       "fukuchi/libqrencode",
       "dlbeer/quirc",
-      "OpenRC/openrc"
+      "OpenRC/openrc",
+      "webtorrent/semantic-release-config"
     ]
 
     git_repos_chromium_googlesource = [
