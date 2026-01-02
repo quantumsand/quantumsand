@@ -2375,7 +2375,8 @@ class QuantumsandLive
       "feross/whiteboard",
       "pion/webrtc",
       "pion/turn",
-      "pion/dtls"
+      "pion/dtls",
+      "go-chi/chi"
     ]
 
     git_repos_chromium_googlesource = [
