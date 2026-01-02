@@ -2377,7 +2377,8 @@ class QuantumsandLive
       "pion/turn",
       "pion/dtls",
       "go-chi/chi",
-      "go-chi/render"
+      "go-chi/render",
+      "go-chi/docgen"
     ]
 
     git_repos_chromium_googlesource = [
