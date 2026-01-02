@@ -2392,7 +2392,8 @@ class QuantumsandLive
       "prometheus/prometheus",
       "influxdata/telegraf",
       "chrisingenhaag/broadcastbox-webhookserver",
-      "glimesh/broadcast-box"
+      "glimesh/broadcast-box",
+      "ashellunts/ffmpeg-to-webrtc"
     ]
 
     git_repos_chromium_googlesource = [
