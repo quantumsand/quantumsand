@@ -2395,7 +2395,8 @@ class QuantumsandLive
       "glimesh/broadcast-box",
       "ashellunts/ffmpeg-to-webrtc",
       "hybridgroup/gobot",
-      "Ragnar-H/TelloGo"
+      "Ragnar-H/TelloGo",
+      "oliverpool/tello-webrtc-fpv"
     ]
 
     git_repos_chromium_googlesource = [
