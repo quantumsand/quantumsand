@@ -2378,7 +2378,8 @@ class QuantumsandLive
       "pion/dtls",
       "go-chi/chi",
       "go-chi/render",
-      "go-chi/docgen"
+      "go-chi/docgen",
+      "coder/websocket"
     ]
 
     git_repos_chromium_googlesource = [
