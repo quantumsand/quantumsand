@@ -2371,7 +2371,8 @@ class QuantumsandLive
       "socketio/socket.io-p2p",
       "mafintosh/webcat",
       "mafintosh/signalhub",
-      "feross/lxjs-chat"
+      "feross/lxjs-chat",
+      "feross/whiteboard"
     ]
 
     git_repos_chromium_googlesource = [
