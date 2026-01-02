@@ -2393,7 +2393,8 @@ class QuantumsandLive
       "influxdata/telegraf",
       "chrisingenhaag/broadcastbox-webhookserver",
       "glimesh/broadcast-box",
-      "ashellunts/ffmpeg-to-webrtc"
+      "ashellunts/ffmpeg-to-webrtc",
+      "hybridgroup/gobot"
     ]
 
     git_repos_chromium_googlesource = [
