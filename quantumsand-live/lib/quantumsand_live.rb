@@ -2396,7 +2396,8 @@ class QuantumsandLive
       "ashellunts/ffmpeg-to-webrtc",
       "hybridgroup/gobot",
       "Ragnar-H/TelloGo",
-      "oliverpool/tello-webrtc-fpv"
+      "oliverpool/tello-webrtc-fpv",
+      "deepch/RTSPtoWSMP4f"
     ]
 
     git_repos_chromium_googlesource = [
