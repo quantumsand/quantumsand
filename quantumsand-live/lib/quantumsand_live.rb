@@ -2367,7 +2367,8 @@ class QuantumsandLive
       "webtorrent/webtorrent-fixtures",
       "webtorrent/webtorrent-hybrid",
       "webtorrent/webtorrent.io",
-      "feross/simple-peer"
+      "feross/simple-peer",
+      "socketio/socket.io-p2p"
     ]
 
     git_repos_chromium_googlesource = [
