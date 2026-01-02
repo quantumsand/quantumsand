@@ -2361,7 +2361,8 @@ class QuantumsandLive
       "fukuchi/libqrencode",
       "dlbeer/quirc",
       "OpenRC/openrc",
-      "webtorrent/semantic-release-config"
+      "webtorrent/semantic-release-config",
+      "webtorrent/string2compact"
     ]
 
     git_repos_chromium_googlesource = [
