@@ -2374,7 +2374,8 @@ class QuantumsandLive
       "feross/lxjs-chat",
       "feross/whiteboard",
       "pion/webrtc",
-      "pion/turn"
+      "pion/turn",
+      "pion/dtls"
     ]
 
     git_repos_chromium_googlesource = [
