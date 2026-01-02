@@ -2390,7 +2390,8 @@ class QuantumsandLive
       "adalkiran/distributed-inference",
       "influxdata/influxdb",
       "prometheus/prometheus",
-      "influxdata/telegraf"
+      "influxdata/telegraf",
+      "chrisingenhaag/broadcastbox-webhookserver"
     ]
 
     git_repos_chromium_googlesource = [
