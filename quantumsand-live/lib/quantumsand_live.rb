@@ -2364,7 +2364,8 @@ class QuantumsandLive
       "webtorrent/semantic-release-config",
       "webtorrent/string2compact",
       "webtorrent/torrent-piece",
-      "webtorrent/webtorrent-fixtures"
+      "webtorrent/webtorrent-fixtures",
+      "webtorrent/webtorrent-hybrid"
     ]
 
     git_repos_chromium_googlesource = [
