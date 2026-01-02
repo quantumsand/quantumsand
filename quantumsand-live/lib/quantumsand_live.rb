@@ -2383,7 +2383,8 @@ class QuantumsandLive
       "pion/example-webrtc-applications",
       "gavv/webrtc-cli",
       "proemergotech/chrome-webrtc-packet-log-parser",
-      "hraban/opus"
+      "hraban/opus",
+      "gavv/opus"
     ]
 
     git_repos_chromium_googlesource = [
