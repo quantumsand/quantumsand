@@ -2456,7 +2456,8 @@ class QuantumsandLive
     ]
 
     git_repos_winehq_org_gitlab = [
-      "wine/wine"
+      "wine/wine",
+      "wine/fontforge"
     ]
 
     git_repos_netfilter_org = [
