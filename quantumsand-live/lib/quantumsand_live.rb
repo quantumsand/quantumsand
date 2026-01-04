@@ -2455,6 +2455,10 @@ class QuantumsandLive
       "mpc/mpc"
     ]
 
+    git_repos_winehq_org_gitlab = [
+      "wine/wine"
+    ]
+
     git_repos_netfilter_org = [
       "iptables",
       "libmnl"
