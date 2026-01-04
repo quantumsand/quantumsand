@@ -2399,7 +2399,8 @@ class QuantumsandLive
       "oliverpool/tello-webrtc-fpv",
       "deepch/RTSPtoWSMP4f",
       "deepch/RTSPtoWeb",
-      "fjall-rs/fjall"
+      "fjall-rs/fjall",
+      "furiosa-ai/furiosa-sdk"
     ]
 
     git_repos_chromium_googlesource = [
