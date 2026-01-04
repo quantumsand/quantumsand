@@ -3196,7 +3196,8 @@ class QuantumsandLive
       "dev-lang/ruby",
       "dev-lang/ocaml",
       "net-fs/sshfs",
-      "dev-python/matplotlib"
+      "dev-python/matplotlib",
+      "sys-fs/ddrescue"
     ]
 
     gentoo_eselect_repository_add = {
