@@ -2398,7 +2398,8 @@ class QuantumsandLive
       "Ragnar-H/TelloGo",
       "oliverpool/tello-webrtc-fpv",
       "deepch/RTSPtoWSMP4f",
-      "deepch/RTSPtoWeb"
+      "deepch/RTSPtoWeb",
+      "fjall-rs/fjall"
     ]
 
     git_repos_chromium_googlesource = [
