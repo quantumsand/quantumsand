@@ -2437,7 +2437,8 @@ class QuantumsandLive
       "peer-calls/peer-calls",
       "reduxjs/redux",
       "reduxjs/react-redux",
-      "reduxjs/reselect"
+      "reduxjs/reselect",
+      "reduxjs/redux-toolkit"
     ]
 
     git_repos_chromium_googlesource = [
