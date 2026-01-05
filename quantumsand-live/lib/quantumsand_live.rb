@@ -2413,7 +2413,8 @@ class QuantumsandLive
       "porjo/babelcast",
       "porjo/mumblet",
       "mumble-voip/mumble",
-      "mumble-voip/libmumble"
+      "mumble-voip/libmumble",
+      "mumble-voip/libxound"
     ]
 
     git_repos_chromium_googlesource = [
