@@ -2416,7 +2416,8 @@ class QuantumsandLive
       "mumble-voip/libmumble",
       "mumble-voip/libxound",
       "microsoft/vcpkg",
-      "zeroc-ice/ice"
+      "zeroc-ice/ice",
+      "rviscarra/webrtc-remote-screen"
     ]
 
     git_repos_chromium_googlesource = [
