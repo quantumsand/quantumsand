@@ -2422,7 +2422,8 @@ class QuantumsandLive
       "gorilla/websocket",
       "fletcherist/webtrc-voice-chat",
       "lyricat/mornin.fm",
-      "vuejs/core"
+      "vuejs/core",
+      "vuejs/docs"
     ]
 
     git_repos_chromium_googlesource = [
