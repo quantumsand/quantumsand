@@ -2418,7 +2418,8 @@ class QuantumsandLive
       "microsoft/vcpkg",
       "zeroc-ice/ice",
       "rviscarra/webrtc-remote-screen",
-      "rviscarra/webrtc-speech-to-text"
+      "rviscarra/webrtc-speech-to-text",
+      "gorilla/websocket"
     ]
 
     git_repos_chromium_googlesource = [
