@@ -2430,7 +2430,8 @@ class QuantumsandLive
       "vuejs/router",
       "vuejs/pinia",
       "vuejs/devtools",
-      "vuejs/vue-jsx-vapor"
+      "vuejs/vue-jsx-vapor",
+      "vuejs/apollo"
     ]
 
     git_repos_chromium_googlesource = [
