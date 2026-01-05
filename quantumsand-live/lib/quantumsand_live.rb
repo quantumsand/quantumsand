@@ -2433,7 +2433,8 @@ class QuantumsandLive
       "vuejs/vue-jsx-vapor",
       "vuejs/apollo",
       "vuejs/create-eslint-config",
-      "vuejs/eslint-plugin-vue"
+      "vuejs/eslint-plugin-vue",
+      "peer-calls/peer-calls"
     ]
 
     git_repos_chromium_googlesource = [
