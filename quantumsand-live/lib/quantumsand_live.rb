@@ -2409,7 +2409,8 @@ class QuantumsandLive
       "nareix/joy5",
       "kdevb0x/quikface",
       "pion/rtwatch",
-      "pion/webrtc-voicemail"
+      "pion/webrtc-voicemail",
+      "porjo/babelcast"
     ]
 
     git_repos_chromium_googlesource = [
