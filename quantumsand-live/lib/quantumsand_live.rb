@@ -2407,7 +2407,8 @@ class QuantumsandLive
       "deepch/RTSPtoHLSLL",
       "nareix/joy4",
       "nareix/joy5",
-      "kdevb0x/quikface"
+      "kdevb0x/quikface",
+      "pion/rtwatch"
     ]
 
     git_repos_chromium_googlesource = [
