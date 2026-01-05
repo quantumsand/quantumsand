@@ -2414,7 +2414,8 @@ class QuantumsandLive
       "porjo/mumblet",
       "mumble-voip/mumble",
       "mumble-voip/libmumble",
-      "mumble-voip/libxound"
+      "mumble-voip/libxound",
+      "microsoft/vcpkg"
     ]
 
     git_repos_chromium_googlesource = [
