@@ -2431,7 +2431,8 @@ class QuantumsandLive
       "vuejs/pinia",
       "vuejs/devtools",
       "vuejs/vue-jsx-vapor",
-      "vuejs/apollo"
+      "vuejs/apollo",
+      "vuejs/create-eslint-config"
     ]
 
     git_repos_chromium_googlesource = [
