@@ -2405,7 +2405,8 @@ class QuantumsandLive
       "deepch/RTSPtoImage",
       "deepch/RTSPtoHLS",
       "deepch/RTSPtoHLSLL",
-      "nareix/joy4"
+      "nareix/joy4",
+      "nareix/joy5"
     ]
 
     git_repos_chromium_googlesource = [
