@@ -2410,7 +2410,8 @@ class QuantumsandLive
       "kdevb0x/quikface",
       "pion/rtwatch",
       "pion/webrtc-voicemail",
-      "porjo/babelcast"
+      "porjo/babelcast",
+      "porjo/mumblet"
     ]
 
     git_repos_chromium_googlesource = [
