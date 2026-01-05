@@ -2424,7 +2424,8 @@ class QuantumsandLive
       "lyricat/mornin.fm",
       "vuejs/core",
       "vuejs/docs",
-      "vuejs/theme"
+      "vuejs/theme",
+      "vuejs/create-vue"
     ]
 
     git_repos_chromium_googlesource = [
