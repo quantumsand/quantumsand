@@ -2408,7 +2408,8 @@ class QuantumsandLive
       "nareix/joy4",
       "nareix/joy5",
       "kdevb0x/quikface",
-      "pion/rtwatch"
+      "pion/rtwatch",
+      "pion/webrtc-voicemail"
     ]
 
     git_repos_chromium_googlesource = [
