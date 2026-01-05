@@ -2412,7 +2412,8 @@ class QuantumsandLive
       "pion/webrtc-voicemail",
       "porjo/babelcast",
       "porjo/mumblet",
-      "mumble-voip/mumble"
+      "mumble-voip/mumble",
+      "mumble-voip/libmumble"
     ]
 
     git_repos_chromium_googlesource = [
