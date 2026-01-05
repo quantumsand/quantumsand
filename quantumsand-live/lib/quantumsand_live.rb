@@ -2425,7 +2425,8 @@ class QuantumsandLive
       "vuejs/core",
       "vuejs/docs",
       "vuejs/theme",
-      "vuejs/create-vue"
+      "vuejs/create-vue",
+      "vuejs/create-vue-templates"
     ]
 
     git_repos_chromium_googlesource = [
