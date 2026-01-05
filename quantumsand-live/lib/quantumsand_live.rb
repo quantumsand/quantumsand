@@ -2443,7 +2443,8 @@ class QuantumsandLive
       "gfx-rs/wgpu",
       "gfx-rs/metal-rs",
       "lgkonline/react-bootstrap-ribbon",
-      "react-bootstrap/react-bootstrap"
+      "react-bootstrap/react-bootstrap",
+      "twbs/bootstrap"
     ]
 
     git_repos_chromium_googlesource = [
