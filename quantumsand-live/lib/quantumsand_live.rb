@@ -2435,7 +2435,8 @@ class QuantumsandLive
       "vuejs/create-eslint-config",
       "vuejs/eslint-plugin-vue",
       "peer-calls/peer-calls",
-      "reduxjs/redux"
+      "reduxjs/redux",
+      "reduxjs/react-redux"
     ]
 
     git_repos_chromium_googlesource = [
