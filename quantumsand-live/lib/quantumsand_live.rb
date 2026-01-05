@@ -2706,7 +2706,8 @@ class QuantumsandLive
       "libvirt/libvirt-tck",
       "libvirt/libvirt-test-API",
       "libvirt/libvirt-wiki",
-      "libvirt/test"
+      "libvirt/test",
+      "tslocum/harmony"
     ]
 
     git_repos_freedesktop_gitlab = [
