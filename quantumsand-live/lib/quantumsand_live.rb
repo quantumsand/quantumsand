@@ -2415,7 +2415,8 @@ class QuantumsandLive
       "mumble-voip/mumble",
       "mumble-voip/libmumble",
       "mumble-voip/libxound",
-      "microsoft/vcpkg"
+      "microsoft/vcpkg",
+      "zeroc-ice/ice"
     ]
 
     git_repos_chromium_googlesource = [
