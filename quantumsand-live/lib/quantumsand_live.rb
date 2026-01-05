@@ -2403,7 +2403,8 @@ class QuantumsandLive
       "furiosa-ai/furiosa-sdk",
       "deepch/RTSPtoWebRTC",
       "deepch/RTSPtoImage",
-      "deepch/RTSPtoHLS"
+      "deepch/RTSPtoHLS",
+      "deepch/RTSPtoHLSLL"
     ]
 
     git_repos_chromium_googlesource = [
