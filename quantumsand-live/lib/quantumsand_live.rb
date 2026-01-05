@@ -2401,7 +2401,8 @@ class QuantumsandLive
       "deepch/RTSPtoWeb",
       "fjall-rs/fjall",
       "furiosa-ai/furiosa-sdk",
-      "deepch/RTSPtoWebRTC"
+      "deepch/RTSPtoWebRTC",
+      "deepch/RTSPtoImage"
     ]
 
     git_repos_chromium_googlesource = [
