@@ -2438,7 +2438,8 @@ class QuantumsandLive
       "reduxjs/redux",
       "reduxjs/react-redux",
       "reduxjs/reselect",
-      "reduxjs/redux-toolkit"
+      "reduxjs/redux-toolkit",
+      "reduxjs/redux-templates"
     ]
 
     git_repos_chromium_googlesource = [
