@@ -2922,7 +2922,8 @@ class QuantumsandLive
       "redox-os/redox",
       "redox-os/bootloader",
       "redox-os/book",
-      "redox-os/binutils"
+      "redox-os/binutils",
+      "redox-os/acid"
     ]
 
     git_repos_freebsd_org = [
