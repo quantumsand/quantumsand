@@ -2447,7 +2447,8 @@ class QuantumsandLive
       "gfx-rs/wgpu-native",
       "google/pica",
       "usebruno/bruno",
-      "color-js/color.js"
+      "color-js/color.js",
+      "jrouwe/JoltPhysics"
     ]
 
     git_repos_chromium_googlesource = [
