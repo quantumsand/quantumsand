@@ -2450,7 +2450,8 @@ class QuantumsandLive
       "color-js/color.js",
       "jrouwe/JoltPhysics",
       "jrouwe/JoltPhysics.js",
-      "jrouwe/JoltPhysicsDocs"
+      "jrouwe/JoltPhysicsDocs",
+      "martijnversluis/ChordSheetJS"
     ]
 
     git_repos_chromium_googlesource = [
