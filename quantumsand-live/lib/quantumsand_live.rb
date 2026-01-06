@@ -2448,7 +2448,8 @@ class QuantumsandLive
       "google/pica",
       "usebruno/bruno",
       "color-js/color.js",
-      "jrouwe/JoltPhysics"
+      "jrouwe/JoltPhysics",
+      "jrouwe/JoltPhysics.js"
     ]
 
     git_repos_chromium_googlesource = [
