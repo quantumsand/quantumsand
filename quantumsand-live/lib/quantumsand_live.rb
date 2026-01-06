@@ -2445,7 +2445,8 @@ class QuantumsandLive
       "lgkonline/react-bootstrap-ribbon",
       "react-bootstrap/react-bootstrap",
       "gfx-rs/wgpu-native",
-      "google/pica"
+      "google/pica",
+      "usebruno/bruno"
     ]
 
     git_repos_chromium_googlesource = [
