@@ -2921,7 +2921,8 @@ class QuantumsandLive
       "redox-os/cookbook",
       "redox-os/redox",
       "redox-os/bootloader",
-      "redox-os/book"
+      "redox-os/book",
+      "redox-os/binutils"
     ]
 
     git_repos_freebsd_org = [
