@@ -2453,7 +2453,8 @@ class QuantumsandLive
       "jrouwe/JoltPhysicsDocs",
       "martijnversluis/ChordSheetJS",
       "playcanvas/model-viewer",
-      "recharts/recharts"
+      "recharts/recharts",
+      "nats-io/nats.js"
     ]
 
     git_repos_chromium_googlesource = [
