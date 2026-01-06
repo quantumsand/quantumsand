@@ -2446,7 +2446,8 @@ class QuantumsandLive
       "react-bootstrap/react-bootstrap",
       "gfx-rs/wgpu-native",
       "google/pica",
-      "usebruno/bruno"
+      "usebruno/bruno",
+      "color-js/color.js"
     ]
 
     git_repos_chromium_googlesource = [
