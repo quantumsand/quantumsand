@@ -2444,7 +2444,8 @@ class QuantumsandLive
       "gfx-rs/metal-rs",
       "lgkonline/react-bootstrap-ribbon",
       "react-bootstrap/react-bootstrap",
-      "gfx-rs/wgpu-native"
+      "gfx-rs/wgpu-native",
+      "google/pica"
     ]
 
     git_repos_chromium_googlesource = [
