@@ -2449,7 +2449,8 @@ class QuantumsandLive
       "usebruno/bruno",
       "color-js/color.js",
       "jrouwe/JoltPhysics",
-      "jrouwe/JoltPhysics.js"
+      "jrouwe/JoltPhysics.js",
+      "jrouwe/JoltPhysicsDocs"
     ]
 
     git_repos_chromium_googlesource = [
