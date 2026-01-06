@@ -2919,7 +2919,8 @@ class QuantumsandLive
 
     git_repos_redox_os_gitlab = [
       "redox-os/cookbook",
-      "redox-os/redox"
+      "redox-os/redox",
+      "redox-os/bootloader"
     ]
 
     git_repos_freebsd_org = [
