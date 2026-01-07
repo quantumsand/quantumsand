@@ -2456,7 +2456,8 @@ class QuantumsandLive
       "recharts/recharts",
       "nats-io/nats.js",
       "actix/actix-web",
-      "actix/actix"
+      "actix/actix",
+      "tokio-rs/tokio"
     ]
 
     git_repos_chromium_googlesource = [
