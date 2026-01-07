@@ -2474,7 +2474,8 @@ class QuantumsandLive
       "hyperium/http-body",
       "hyperium/hyper-util",
       "awslabs/duvet",
-      "quinn-rs/quinn"
+      "quinn-rs/quinn",
+      "rustls/rustls"
     ]
 
     git_repos_chromium_googlesource = [
