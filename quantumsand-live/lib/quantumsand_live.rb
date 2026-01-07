@@ -2480,7 +2480,8 @@ class QuantumsandLive
       "briansmith/ring",
       "aws/aws-lc-rs",
       "aws/aws-lc",
-      "aws/s2n-quic"
+      "aws/s2n-quic",
+      "diffblue/cbmc"
     ]
 
     git_repos_chromium_googlesource = [
