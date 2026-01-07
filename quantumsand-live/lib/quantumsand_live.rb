@@ -2485,7 +2485,8 @@ class QuantumsandLive
       "awslabs/aws-verification-model-for-libcrypto",
       "hyperium/tonic",
       "tokio-rs/prost",
-      "serde-rs/serde"
+      "serde-rs/serde",
+      "serde-rs/json"
     ]
 
     git_repos_chromium_googlesource = [
