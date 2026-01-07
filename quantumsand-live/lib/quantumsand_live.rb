@@ -2491,7 +2491,8 @@ class QuantumsandLive
       "serde-rs/json-benchmark",
       "simd-lite/simd-json",
       "simdjson/simdjson",
-      "simd-lite/value-trait"
+      "simd-lite/value-trait",
+      "simd-lite/simd-json-derive"
     ]
 
     git_repos_chromium_googlesource = [
