@@ -3005,7 +3005,8 @@ class QuantumsandLive
       "ziglang/zig",
       "tenacityteam/libid3tag",
       "OpenVPN/openvpn3-linux",
-      "Meadowlark/symphonium"
+      "Meadowlark/symphonium",
+      "forgejo/forgejo"
     ]
 
     git_repos_kde_invent = [
