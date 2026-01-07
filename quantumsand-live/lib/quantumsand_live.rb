@@ -2478,7 +2478,8 @@ class QuantumsandLive
       "rustls/rustls",
       "rustls/rustls-ffi",
       "briansmith/ring",
-      "aws/aws-lc-rs"
+      "aws/aws-lc-rs",
+      "aws/aws-lc"
     ]
 
     git_repos_chromium_googlesource = [
