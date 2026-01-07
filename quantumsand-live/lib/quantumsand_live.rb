@@ -2461,7 +2461,8 @@ class QuantumsandLive
       "actix/actix-net",
       "actix/actix-extras",
       "tokio-rs/axum",
-      "tower-rs/tower"
+      "tower-rs/tower",
+      "tower-rs/tower-http"
     ]
 
     git_repos_chromium_googlesource = [
