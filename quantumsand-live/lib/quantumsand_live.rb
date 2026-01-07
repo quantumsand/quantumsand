@@ -2466,7 +2466,8 @@ class QuantumsandLive
       "hyperium/http",
       "hyperium/hyper",
       "seanmonstar/reqwest",
-      "seanmonstar/warp"
+      "seanmonstar/warp",
+      "seanmonstar/httparse"
     ]
 
     git_repos_chromium_googlesource = [
