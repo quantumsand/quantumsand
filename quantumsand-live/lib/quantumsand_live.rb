@@ -2476,7 +2476,8 @@ class QuantumsandLive
       "awslabs/duvet",
       "quinn-rs/quinn",
       "rustls/rustls",
-      "rustls/rustls-ffi"
+      "rustls/rustls-ffi",
+      "briansmith/ring"
     ]
 
     git_repos_chromium_googlesource = [
