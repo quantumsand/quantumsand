@@ -2943,7 +2943,8 @@ class QuantumsandLive
       "redox-os/actix-web",
       "redox-os/app-dirs-rs",
       "redox-os/area8051",
-      "redox-os/arg-parser"
+      "redox-os/arg-parser",
+      "redox-os/assets"
     ]
 
     git_repos_freebsd_org = [
