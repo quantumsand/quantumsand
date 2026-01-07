@@ -2471,7 +2471,8 @@ class QuantumsandLive
       "seanmonstar/num_cpus",
       "hyperium/h2",
       "hyperium/headers",
-      "hyperium/http-body"
+      "hyperium/http-body",
+      "hyperium/hyper-util"
     ]
 
     git_repos_chromium_googlesource = [
