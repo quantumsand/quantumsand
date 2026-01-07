@@ -2455,7 +2455,8 @@ class QuantumsandLive
       "playcanvas/model-viewer",
       "recharts/recharts",
       "nats-io/nats.js",
-      "actix/actix-web"
+      "actix/actix-web",
+      "actix/actix"
     ]
 
     git_repos_chromium_googlesource = [
