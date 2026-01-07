@@ -3306,7 +3306,8 @@ class QuantumsandLive
       "dev-lang/ocaml",
       "net-fs/sshfs",
       "dev-python/matplotlib",
-      "sys-fs/ddrescue"
+      "sys-fs/ddrescue",
+      "sci-geosciences/osm2pgsql"
     ]
 
     gentoo_eselect_repository_add = {
