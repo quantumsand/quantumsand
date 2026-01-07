@@ -2483,7 +2483,8 @@ class QuantumsandLive
       "aws/s2n-quic",
       "diffblue/cbmc",
       "awslabs/aws-verification-model-for-libcrypto",
-      "hyperium/tonic"
+      "hyperium/tonic",
+      "tokio-rs/prost"
     ]
 
     git_repos_chromium_googlesource = [
