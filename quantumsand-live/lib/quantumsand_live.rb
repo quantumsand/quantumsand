@@ -2486,7 +2486,8 @@ class QuantumsandLive
       "hyperium/tonic",
       "tokio-rs/prost",
       "serde-rs/serde",
-      "serde-rs/json"
+      "serde-rs/json",
+      "rust-embedded-community/serde-json-core"
     ]
 
     git_repos_chromium_googlesource = [
