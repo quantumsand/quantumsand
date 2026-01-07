@@ -2940,7 +2940,8 @@ class QuantumsandLive
       "redox-os/binutils",
       "redox-os/acid",
       "redox-os/actix",
-      "redox-os/actix-web"
+      "redox-os/actix-web",
+      "redox-os/app-dirs-rs"
     ]
 
     git_repos_freebsd_org = [
