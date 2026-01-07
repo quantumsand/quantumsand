@@ -2454,7 +2454,8 @@ class QuantumsandLive
       "martijnversluis/ChordSheetJS",
       "playcanvas/model-viewer",
       "recharts/recharts",
-      "nats-io/nats.js"
+      "nats-io/nats.js",
+      "actix/actix-web"
     ]
 
     git_repos_chromium_googlesource = [
