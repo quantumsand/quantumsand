@@ -2459,7 +2459,8 @@ class QuantumsandLive
       "actix/actix",
       "tokio-rs/tokio",
       "actix/actix-net",
-      "actix/actix-extras"
+      "actix/actix-extras",
+      "tokio-rs/axum"
     ]
 
     git_repos_chromium_googlesource = [
