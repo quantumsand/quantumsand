@@ -2481,7 +2481,8 @@ class QuantumsandLive
       "aws/aws-lc-rs",
       "aws/aws-lc",
       "aws/s2n-quic",
-      "diffblue/cbmc"
+      "diffblue/cbmc",
+      "awslabs/aws-verification-model-for-libcrypto"
     ]
 
     git_repos_chromium_googlesource = [
