@@ -2488,7 +2488,8 @@ class QuantumsandLive
       "serde-rs/serde",
       "serde-rs/json",
       "rust-embedded-community/serde-json-core",
-      "serde-rs/json-benchmark"
+      "serde-rs/json-benchmark",
+      "simd-lite/simd-json"
     ]
 
     git_repos_chromium_googlesource = [
