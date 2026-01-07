@@ -2463,7 +2463,8 @@ class QuantumsandLive
       "tokio-rs/axum",
       "tower-rs/tower",
       "tower-rs/tower-http",
-      "hyperium/http"
+      "hyperium/http",
+      "hyperium/hyper"
     ]
 
     git_repos_chromium_googlesource = [
