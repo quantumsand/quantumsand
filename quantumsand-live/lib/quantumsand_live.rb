@@ -2493,7 +2493,8 @@ class QuantumsandLive
       "simdjson/simdjson",
       "simd-lite/value-trait",
       "simd-lite/simd-json-derive",
-      "tokio-rs/tracing"
+      "tokio-rs/tracing",
+      "osm-search/Nominatim"
     ]
 
     git_repos_chromium_googlesource = [
