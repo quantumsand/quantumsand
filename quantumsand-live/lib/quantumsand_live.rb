@@ -2484,7 +2484,8 @@ class QuantumsandLive
       "diffblue/cbmc",
       "awslabs/aws-verification-model-for-libcrypto",
       "hyperium/tonic",
-      "tokio-rs/prost"
+      "tokio-rs/prost",
+      "serde-rs/serde"
     ]
 
     git_repos_chromium_googlesource = [
