@@ -2523,7 +2523,8 @@ class QuantumsandLive
       "masa-koz/msquic-async-rs",
       "microsoft/msquic",
       "aws/s2n-tls",
-      "rustls/rustls-openssl-compat"
+      "rustls/rustls-openssl-compat",
+      "rustls/hyper-rustls"
     ]
 
     git_repos_chromium_googlesource = [
