@@ -2516,7 +2516,8 @@ class QuantumsandLive
       "TkTech/pysimdjson",
       "gerrymanoim/libpy_simdjson",
       "ericniebler/range-v3",
-      "NVIDIA/stdexec"
+      "NVIDIA/stdexec",
+      "SunDoge/simdjson-rust"
     ]
 
     git_repos_chromium_googlesource = [
