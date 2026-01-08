@@ -2499,7 +2499,8 @@ class QuantumsandLive
       "InternLM/InternBootcamp",
       "open-thought/reasoning-gym",
       "lilakk/BLEUBERI",
-      "lilakk/PostMark"
+      "lilakk/PostMark",
+      "tokio-rs/mio"
     ]
 
     git_repos_chromium_googlesource = [
