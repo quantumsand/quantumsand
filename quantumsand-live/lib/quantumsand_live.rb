@@ -2514,7 +2514,8 @@ class QuantumsandLive
       "minio/simdjson-go",
       "quantopian/libpy",
       "TkTech/pysimdjson",
-      "gerrymanoim/libpy_simdjson"
+      "gerrymanoim/libpy_simdjson",
+      "ericniebler/range-v3"
     ]
 
     git_repos_chromium_googlesource = [
