@@ -2522,7 +2522,8 @@ class QuantumsandLive
       "saka1/simdjson_ruby",
       "masa-koz/msquic-async-rs",
       "microsoft/msquic",
-      "aws/s2n-tls"
+      "aws/s2n-tls",
+      "rustls/rustls-openssl-compat"
     ]
 
     git_repos_chromium_googlesource = [
