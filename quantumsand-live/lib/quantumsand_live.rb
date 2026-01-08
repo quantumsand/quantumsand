@@ -2989,7 +2989,8 @@ class QuantumsandLive
       "redox-os/assets",
       "redox-os/atty",
       "redox-os/backgrounds",
-      "redox-os/base"
+      "redox-os/base",
+      "redox-os/benchmarks"
     ]
 
     git_repos_freebsd_org = [
