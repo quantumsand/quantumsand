@@ -2508,7 +2508,8 @@ class QuantumsandLive
       "michalmuskala/jason",
       "devinus/poison",
       "nst/JSONTestSuite",
-      "davisp/jiffy"
+      "davisp/jiffy",
+      "lpil/thoas"
     ]
 
     git_repos_chromium_googlesource = [
