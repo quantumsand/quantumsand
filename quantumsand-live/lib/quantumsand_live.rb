@@ -2519,7 +2519,8 @@ class QuantumsandLive
       "NVIDIA/stdexec",
       "SunDoge/simdjson-rust",
       "anilmaurya/fast_jsonparser",
-      "saka1/simdjson_ruby"
+      "saka1/simdjson_ruby",
+      "masa-koz/msquic-async-rs"
     ]
 
     git_repos_chromium_googlesource = [
