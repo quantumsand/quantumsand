@@ -2521,7 +2521,8 @@ class QuantumsandLive
       "anilmaurya/fast_jsonparser",
       "saka1/simdjson_ruby",
       "masa-koz/msquic-async-rs",
-      "microsoft/msquic"
+      "microsoft/msquic",
+      "aws/s2n-tls"
     ]
 
     git_repos_chromium_googlesource = [
