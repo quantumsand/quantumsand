@@ -2515,7 +2515,8 @@ class QuantumsandLive
       "quantopian/libpy",
       "TkTech/pysimdjson",
       "gerrymanoim/libpy_simdjson",
-      "ericniebler/range-v3"
+      "ericniebler/range-v3",
+      "NVIDIA/stdexec"
     ]
 
     git_repos_chromium_googlesource = [
