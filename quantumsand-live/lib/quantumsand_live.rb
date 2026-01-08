@@ -2510,7 +2510,8 @@ class QuantumsandLive
       "nst/JSONTestSuite",
       "davisp/jiffy",
       "lpil/thoas",
-      "ChomperT/simdjson_erlang"
+      "ChomperT/simdjson_erlang",
+      "minio/simdjson-go"
     ]
 
     git_repos_chromium_googlesource = [
