@@ -2784,7 +2784,8 @@ class QuantumsandLive
       "libvirt/libvirt-test-API",
       "libvirt/libvirt-wiki",
       "libvirt/test",
-      "tslocum/harmony"
+      "tslocum/harmony",
+      "depesz/pg_csv_loader"
     ]
 
     git_repos_freedesktop_gitlab = [
