@@ -2520,7 +2520,8 @@ class QuantumsandLive
       "SunDoge/simdjson-rust",
       "anilmaurya/fast_jsonparser",
       "saka1/simdjson_ruby",
-      "masa-koz/msquic-async-rs"
+      "masa-koz/msquic-async-rs",
+      "microsoft/msquic"
     ]
 
     git_repos_chromium_googlesource = [
