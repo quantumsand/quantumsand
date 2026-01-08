@@ -2530,7 +2530,8 @@ class QuantumsandLive
       "EmbarkStudios/blender-tools",
       "EmbarkStudios/kajiya",
       "Rust-GPU/rust-gpu",
-      "ron-rs/ron"
+      "ron-rs/ron",
+      "scribusproject/scribus-dev"
     ]
 
     git_repos_chromium_googlesource = [
