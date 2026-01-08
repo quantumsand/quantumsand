@@ -2524,7 +2524,8 @@ class QuantumsandLive
       "microsoft/msquic",
       "aws/s2n-tls",
       "rustls/rustls-openssl-compat",
-      "rustls/hyper-rustls"
+      "rustls/hyper-rustls",
+      "hyperium/h3"
     ]
 
     git_repos_chromium_googlesource = [
