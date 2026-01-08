@@ -2513,7 +2513,8 @@ class QuantumsandLive
       "ChomperT/simdjson_erlang",
       "minio/simdjson-go",
       "quantopian/libpy",
-      "TkTech/pysimdjson"
+      "TkTech/pysimdjson",
+      "gerrymanoim/libpy_simdjson"
     ]
 
     git_repos_chromium_googlesource = [
