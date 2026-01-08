@@ -2535,7 +2535,8 @@ class QuantumsandLive
       "ml-jku/gyroswin_small",
       "ml-jku/gyroswin_medium",
       "ml-jku/gyroswin_large",
-      "Qwen/Qwen-Image-2512"
+      "Qwen/Qwen-Image-2512",
+      "NousResearch/NousCoder-14B"
     ]
 
     git_repos_pagure_io = [
