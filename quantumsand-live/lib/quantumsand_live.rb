@@ -2518,7 +2518,8 @@ class QuantumsandLive
       "ericniebler/range-v3",
       "NVIDIA/stdexec",
       "SunDoge/simdjson-rust",
-      "anilmaurya/fast_jsonparser"
+      "anilmaurya/fast_jsonparser",
+      "saka1/simdjson_ruby"
     ]
 
     git_repos_chromium_googlesource = [
