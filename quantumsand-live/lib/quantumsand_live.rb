@@ -2511,7 +2511,8 @@ class QuantumsandLive
       "davisp/jiffy",
       "lpil/thoas",
       "ChomperT/simdjson_erlang",
-      "minio/simdjson-go"
+      "minio/simdjson-go",
+      "quantopian/libpy"
     ]
 
     git_repos_chromium_googlesource = [
