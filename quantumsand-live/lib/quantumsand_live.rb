@@ -2503,7 +2503,8 @@ class QuantumsandLive
       "tokio-rs/mio",
       "tokio-rs/bytes",
       "tokio-rs/loom",
-      "TeskaLabs/cysimdjson"
+      "TeskaLabs/cysimdjson",
+      "saleyn/simdjsone"
     ]
 
     git_repos_chromium_googlesource = [
