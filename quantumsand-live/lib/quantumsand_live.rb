@@ -2501,7 +2501,8 @@ class QuantumsandLive
       "lilakk/BLEUBERI",
       "lilakk/PostMark",
       "tokio-rs/mio",
-      "tokio-rs/bytes"
+      "tokio-rs/bytes",
+      "tokio-rs/loom"
     ]
 
     git_repos_chromium_googlesource = [
