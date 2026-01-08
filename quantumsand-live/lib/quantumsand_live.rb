@@ -3307,7 +3307,8 @@ class QuantumsandLive
       "net-fs/sshfs",
       "dev-python/matplotlib",
       "sys-fs/ddrescue",
-      "sci-geosciences/osm2pgsql"
+      "sci-geosciences/osm2pgsql",
+      "app-containers/docker"
     ]
 
     gentoo_eselect_repository_add = {
