@@ -2497,7 +2497,8 @@ class QuantumsandLive
       "osm-search/Nominatim",
       "NousResearch/atropos",
       "InternLM/InternBootcamp",
-      "open-thought/reasoning-gym"
+      "open-thought/reasoning-gym",
+      "lilakk/BLEUBERI"
     ]
 
     git_repos_chromium_googlesource = [
