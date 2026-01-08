@@ -2500,7 +2500,8 @@ class QuantumsandLive
       "open-thought/reasoning-gym",
       "lilakk/BLEUBERI",
       "lilakk/PostMark",
-      "tokio-rs/mio"
+      "tokio-rs/mio",
+      "tokio-rs/bytes"
     ]
 
     git_repos_chromium_googlesource = [
