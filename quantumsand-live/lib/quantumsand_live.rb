@@ -2495,7 +2495,8 @@ class QuantumsandLive
       "simd-lite/simd-json-derive",
       "tokio-rs/tracing",
       "osm-search/Nominatim",
-      "NousResearch/atropos"
+      "NousResearch/atropos",
+      "InternLM/InternBootcamp"
     ]
 
     git_repos_chromium_googlesource = [
