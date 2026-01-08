@@ -2498,7 +2498,8 @@ class QuantumsandLive
       "NousResearch/atropos",
       "InternLM/InternBootcamp",
       "open-thought/reasoning-gym",
-      "lilakk/BLEUBERI"
+      "lilakk/BLEUBERI",
+      "lilakk/PostMark"
     ]
 
     git_repos_chromium_googlesource = [
