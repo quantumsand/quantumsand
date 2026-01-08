@@ -2506,7 +2506,8 @@ class QuantumsandLive
       "TeskaLabs/cysimdjson",
       "saleyn/simdjsone",
       "michalmuskala/jason",
-      "devinus/poison"
+      "devinus/poison",
+      "nst/JSONTestSuite"
     ]
 
     git_repos_chromium_googlesource = [
