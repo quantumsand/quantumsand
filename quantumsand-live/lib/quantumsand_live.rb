@@ -3352,7 +3352,8 @@ class QuantumsandLive
       "sys-fs/ddrescue",
       "sci-geosciences/osm2pgsql",
       "app-containers/docker",
-      "app-containers/docker-cli"
+      "app-containers/docker-cli",
+      "app-office/scribus"
     ]
 
     gentoo_eselect_repository_add = {
