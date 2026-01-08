@@ -2502,7 +2502,8 @@ class QuantumsandLive
       "lilakk/PostMark",
       "tokio-rs/mio",
       "tokio-rs/bytes",
-      "tokio-rs/loom"
+      "tokio-rs/loom",
+      "TeskaLabs/cysimdjson"
     ]
 
     git_repos_chromium_googlesource = [
