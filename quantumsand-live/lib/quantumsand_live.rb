@@ -2496,7 +2496,8 @@ class QuantumsandLive
       "tokio-rs/tracing",
       "osm-search/Nominatim",
       "NousResearch/atropos",
-      "InternLM/InternBootcamp"
+      "InternLM/InternBootcamp",
+      "open-thought/reasoning-gym"
     ]
 
     git_repos_chromium_googlesource = [
