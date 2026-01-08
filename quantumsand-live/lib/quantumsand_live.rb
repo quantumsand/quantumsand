@@ -2527,7 +2527,8 @@ class QuantumsandLive
       "rustls/hyper-rustls",
       "hyperium/h3",
       "quic-interop/quic-interop-runner",
-      "EmbarkStudios/blender-tools"
+      "EmbarkStudios/blender-tools",
+      "EmbarkStudios/kajiya"
     ]
 
     git_repos_chromium_googlesource = [
