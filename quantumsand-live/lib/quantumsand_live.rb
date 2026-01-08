@@ -2529,7 +2529,8 @@ class QuantumsandLive
       "quic-interop/quic-interop-runner",
       "EmbarkStudios/blender-tools",
       "EmbarkStudios/kajiya",
-      "EmbarkStudios/rust-gpu"
+      "Rust-GPU/rust-gpu",
+      "ron-rs/ron"
     ]
 
     git_repos_chromium_googlesource = [
