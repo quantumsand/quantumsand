@@ -2509,7 +2509,8 @@ class QuantumsandLive
       "devinus/poison",
       "nst/JSONTestSuite",
       "davisp/jiffy",
-      "lpil/thoas"
+      "lpil/thoas",
+      "ChomperT/simdjson_erlang"
     ]
 
     git_repos_chromium_googlesource = [
