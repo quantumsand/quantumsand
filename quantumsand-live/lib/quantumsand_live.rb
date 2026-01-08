@@ -2525,7 +2525,8 @@ class QuantumsandLive
       "aws/s2n-tls",
       "rustls/rustls-openssl-compat",
       "rustls/hyper-rustls",
-      "hyperium/h3"
+      "hyperium/h3",
+      "quic-interop/quic-interop-runner"
     ]
 
     git_repos_chromium_googlesource = [
