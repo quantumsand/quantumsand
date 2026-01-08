@@ -2532,7 +2532,8 @@ class QuantumsandLive
       "Rust-GPU/rust-gpu",
       "ron-rs/ron",
       "scribusproject/scribus-dev",
-      "scribusproject/scribus"
+      "scribusproject/scribus",
+      "scribusproject/scribus-tools"
     ]
 
     git_repos_chromium_googlesource = [
