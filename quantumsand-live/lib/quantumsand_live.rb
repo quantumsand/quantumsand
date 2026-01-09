@@ -2558,7 +2558,8 @@ class QuantumsandLive
       "Python-Markdown/markdown",
       "rspeer/ordered-set",
       "dabeaz/curio",
-      "python-trio/outcome"
+      "python-trio/outcome",
+      "tornadoweb/tornado"
     ]
 
     git_repos_chromium_googlesource = [
