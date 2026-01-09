@@ -2540,7 +2540,8 @@ class QuantumsandLive
       "superfly/litefs",
       "ArduPilot/dronecan-webtools",
       "ArduPilot/SITL_Models",
-      "ArduPilot/node-mavlink"
+      "ArduPilot/node-mavlink",
+      "ArduPilot/node-mavlink-mappings"
     ]
 
     git_repos_chromium_googlesource = [
