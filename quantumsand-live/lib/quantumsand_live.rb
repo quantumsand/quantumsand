@@ -3051,7 +3051,8 @@ class QuantumsandLive
       "redox-os/bootloader-efi",
       "redox-os/calc",
       "redox-os/cargo",
-      "redox-os/cbindgen"
+      "redox-os/cbindgen",
+      "redox-os/cbitset"
     ]
 
     git_repos_freebsd_org = [
