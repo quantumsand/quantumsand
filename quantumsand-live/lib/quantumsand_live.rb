@@ -2541,7 +2541,8 @@ class QuantumsandLive
       "ArduPilot/dronecan-webtools",
       "ArduPilot/SITL_Models",
       "ArduPilot/node-mavlink",
-      "ArduPilot/node-mavlink-mappings"
+      "ArduPilot/node-mavlink-mappings",
+      "ArduPilot/ardupilot_dev_docker"
     ]
 
     git_repos_chromium_googlesource = [
