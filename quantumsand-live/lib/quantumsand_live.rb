@@ -2538,7 +2538,8 @@ class QuantumsandLive
       "getsentry/milksnake",
       "superfly/corrosion",
       "superfly/litefs",
-      "ArduPilot/dronecan-webtools"
+      "ArduPilot/dronecan-webtools",
+      "ArduPilot/SITL_Models"
     ]
 
     git_repos_chromium_googlesource = [
