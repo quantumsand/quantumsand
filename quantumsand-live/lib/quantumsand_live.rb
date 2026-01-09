@@ -2565,7 +2565,8 @@ class QuantumsandLive
       "mbr/shutilwhich",
       "benjaminp/six",
       "python-trio/sniffio",
-      "grantjenks/python-sortedcontainers"
+      "grantjenks/python-sortedcontainers",
+      "uiri/toml"
     ]
 
     git_repos_chromium_googlesource = [
