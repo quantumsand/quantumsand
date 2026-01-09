@@ -2555,7 +2555,8 @@ class QuantumsandLive
       "mavlink/MAVSDK-Go",
       "mavlink/MAVSDK-JavaScript",
       "kjd/idna",
-      "Python-Markdown/markdown"
+      "Python-Markdown/markdown",
+      "rspeer/ordered-set"
     ]
 
     git_repos_chromium_googlesource = [
