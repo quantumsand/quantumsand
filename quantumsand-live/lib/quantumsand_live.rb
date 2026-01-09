@@ -2562,7 +2562,8 @@ class QuantumsandLive
       "tornadoweb/tornado",
       "pycurl/pycurl",
       "stub42/pytz",
-      "mbr/shutilwhich"
+      "mbr/shutilwhich",
+      "benjaminp/six"
     ]
 
     git_repos_chromium_googlesource = [
