@@ -2568,7 +2568,8 @@ class QuantumsandLive
       "grantjenks/python-sortedcontainers",
       "uiri/toml",
       "rpm-software-management/urlgrabber",
-      "urllib3/urllib3"
+      "urllib3/urllib3",
+      "sailfishos/python3-zypp"
     ]
 
     git_repos_chromium_googlesource = [
