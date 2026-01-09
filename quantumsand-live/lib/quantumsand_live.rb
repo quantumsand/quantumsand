@@ -2548,7 +2548,8 @@ class QuantumsandLive
       "mavlink/mavlink-camera-manager",
       "mavlink/mavlink-devguide",
       "mavlink/mavlink-gbp-release",
-      "mavlink/mavlink-ivy-interface"
+      "mavlink/mavlink-ivy-interface",
+      "ivy-llc/ivy"
     ]
 
     git_repos_chromium_googlesource = [
