@@ -2534,7 +2534,8 @@ class QuantumsandLive
       "scribusproject/scribus-dev",
       "scribusproject/scribus",
       "scribusproject/scribus-tools",
-      "EmbarkStudios/quilkin"
+      "EmbarkStudios/quilkin",
+      "getsentry/milksnake"
     ]
 
     git_repos_chromium_googlesource = [
