@@ -3052,7 +3052,8 @@ class QuantumsandLive
       "redox-os/calc",
       "redox-os/cargo",
       "redox-os/cbindgen",
-      "redox-os/cbitset"
+      "redox-os/cbitset",
+      "redox-os/cbloom"
     ]
 
     git_repos_freebsd_org = [
