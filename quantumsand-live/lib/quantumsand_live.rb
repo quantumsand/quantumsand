@@ -2553,7 +2553,8 @@ class QuantumsandLive
       "paparazzi/paparazzi",
       "mavlink/mavlink2rest",
       "mavlink/MAVSDK-Go",
-      "mavlink/MAVSDK-JavaScript"
+      "mavlink/MAVSDK-JavaScript",
+      "kjd/idna"
     ]
 
     git_repos_chromium_googlesource = [
