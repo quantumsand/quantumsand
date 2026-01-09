@@ -3391,7 +3391,8 @@ class QuantumsandLive
       "sci-geosciences/osm2pgsql",
       "app-containers/docker",
       "app-containers/docker-cli",
-      "app-office/scribus"
+      "app-office/scribus",
+      "dev-python/pytz"
     ]
 
     gentoo_eselect_repository_add = {
