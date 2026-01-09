@@ -2557,7 +2557,8 @@ class QuantumsandLive
       "kjd/idna",
       "Python-Markdown/markdown",
       "rspeer/ordered-set",
-      "dabeaz/curio"
+      "dabeaz/curio",
+      "python-trio/outcome"
     ]
 
     git_repos_chromium_googlesource = [
