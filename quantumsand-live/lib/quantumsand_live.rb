@@ -2539,7 +2539,8 @@ class QuantumsandLive
       "superfly/corrosion",
       "superfly/litefs",
       "ArduPilot/dronecan-webtools",
-      "ArduPilot/SITL_Models"
+      "ArduPilot/SITL_Models",
+      "ArduPilot/node-mavlink"
     ]
 
     git_repos_chromium_googlesource = [
