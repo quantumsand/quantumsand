@@ -2564,7 +2564,8 @@ class QuantumsandLive
       "stub42/pytz",
       "mbr/shutilwhich",
       "benjaminp/six",
-      "python-trio/sniffio"
+      "python-trio/sniffio",
+      "grantjenks/python-sortedcontainers"
     ]
 
     git_repos_chromium_googlesource = [
