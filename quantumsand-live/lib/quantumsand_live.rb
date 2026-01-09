@@ -2563,7 +2563,8 @@ class QuantumsandLive
       "pycurl/pycurl",
       "stub42/pytz",
       "mbr/shutilwhich",
-      "benjaminp/six"
+      "benjaminp/six",
+      "python-trio/sniffio"
     ]
 
     git_repos_chromium_googlesource = [
