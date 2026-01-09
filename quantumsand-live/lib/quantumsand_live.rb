@@ -2543,7 +2543,8 @@ class QuantumsandLive
       "ArduPilot/node-mavlink",
       "ArduPilot/node-mavlink-mappings",
       "ArduPilot/ardupilot_dev_docker",
-      "ArduPilot/apm_planner"
+      "ArduPilot/apm_planner",
+      "ArduPilot/lwip"
     ]
 
     git_repos_chromium_googlesource = [
