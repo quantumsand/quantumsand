@@ -2549,7 +2549,8 @@ class QuantumsandLive
       "mavlink/mavlink-devguide",
       "mavlink/mavlink-gbp-release",
       "mavlink/mavlink-ivy-interface",
-      "ivy-llc/ivy"
+      "ivy-llc/ivy",
+      "paparazzi/paparazzi"
     ]
 
     git_repos_chromium_googlesource = [
