@@ -3028,7 +3028,8 @@ class QuantumsandLive
       "redox-os/benchmarks",
       "redox-os/binutils-gdb",
       "redox-os/bootloader-coreboot",
-      "redox-os/bootloader-efi"
+      "redox-os/bootloader-efi",
+      "redox-os/calc"
     ]
 
     git_repos_freebsd_org = [
