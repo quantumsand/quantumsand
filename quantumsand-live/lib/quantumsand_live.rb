@@ -2533,7 +2533,8 @@ class QuantumsandLive
       "ron-rs/ron",
       "scribusproject/scribus-dev",
       "scribusproject/scribus",
-      "scribusproject/scribus-tools"
+      "scribusproject/scribus-tools",
+      "EmbarkStudios/quilkin"
     ]
 
     git_repos_chromium_googlesource = [
