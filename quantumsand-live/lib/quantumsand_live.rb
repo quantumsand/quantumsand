@@ -2545,7 +2545,8 @@ class QuantumsandLive
       "ArduPilot/ardupilot_dev_docker",
       "ArduPilot/apm_planner",
       "ArduPilot/lwip",
-      "mavlink/mavlink-camera-manager"
+      "mavlink/mavlink-camera-manager",
+      "mavlink/mavlink-devguide"
     ]
 
     git_repos_chromium_googlesource = [
