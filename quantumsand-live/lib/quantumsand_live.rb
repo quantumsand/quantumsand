@@ -2567,7 +2567,8 @@ class QuantumsandLive
       "python-trio/sniffio",
       "grantjenks/python-sortedcontainers",
       "uiri/toml",
-      "rpm-software-management/urlgrabber"
+      "rpm-software-management/urlgrabber",
+      "urllib3/urllib3"
     ]
 
     git_repos_chromium_googlesource = [
