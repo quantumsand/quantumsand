@@ -2554,7 +2554,8 @@ class QuantumsandLive
       "mavlink/mavlink2rest",
       "mavlink/MAVSDK-Go",
       "mavlink/MAVSDK-JavaScript",
-      "kjd/idna"
+      "kjd/idna",
+      "Python-Markdown/markdown"
     ]
 
     git_repos_chromium_googlesource = [
