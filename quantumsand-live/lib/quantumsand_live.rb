@@ -2940,7 +2940,8 @@ class QuantumsandLive
       "wayland/wayland-utils",
       "pulseaudio/paprefs",
       "pulseaudio/pavucontrol",
-      "pulseaudio/webrtc-audio-processing"
+      "pulseaudio/webrtc-audio-processing",
+      "xdg/pyxdg"
     ]
 
     git_repos_xfce_gitlab = [
