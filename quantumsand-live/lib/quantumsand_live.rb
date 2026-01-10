@@ -2571,7 +2571,8 @@ class QuantumsandLive
       "urllib3/urllib3",
       "sailfishos/python3-zypp",
       "tmux/tmux",
-      "abougouffa/pyIslam"
+      "abougouffa/pyIslam",
+      "abougouffa/ndtpso_slam"
     ]
 
     git_repos_chromium_googlesource = [
