@@ -2572,7 +2572,8 @@ class QuantumsandLive
       "sailfishos/python3-zypp",
       "tmux/tmux",
       "abougouffa/pyIslam",
-      "abougouffa/ndtpso_slam"
+      "abougouffa/ndtpso_slam",
+      "IDEC-ezWheel/swd_ros_controllers"
     ]
 
     git_repos_chromium_googlesource = [
