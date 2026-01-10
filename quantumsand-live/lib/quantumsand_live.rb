@@ -2573,7 +2573,8 @@ class QuantumsandLive
       "tmux/tmux",
       "abougouffa/pyIslam",
       "abougouffa/ndtpso_slam",
-      "IDEC-ezWheel/swd_ros_controllers"
+      "IDEC-ezWheel/swd_ros_controllers",
+      "IDEC-ezWheel/swd_ros2_controllers"
     ]
 
     git_repos_chromium_googlesource = [
