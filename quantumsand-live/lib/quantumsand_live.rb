@@ -3409,7 +3409,8 @@ class QuantumsandLive
       "app-office/scribus",
       "dev-python/pytz",
       "net-misc/openssh",
-      "net-misc/dhcpcd"
+      "net-misc/dhcpcd",
+      "sci-geosciences/gpsd"
     ]
 
     gentoo_eselect_repository_add = {
