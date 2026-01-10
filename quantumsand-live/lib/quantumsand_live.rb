@@ -2570,7 +2570,8 @@ class QuantumsandLive
       "rpm-software-management/urlgrabber",
       "urllib3/urllib3",
       "sailfishos/python3-zypp",
-      "tmux/tmux"
+      "tmux/tmux",
+      "abougouffa/pyIslam"
     ]
 
     git_repos_chromium_googlesource = [
