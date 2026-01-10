@@ -3408,7 +3408,8 @@ class QuantumsandLive
       "app-containers/docker-cli",
       "app-office/scribus",
       "dev-python/pytz",
-      "net-misc/openssh"
+      "net-misc/openssh",
+      "net-misc/dhcpcd"
     ]
 
     gentoo_eselect_repository_add = {
