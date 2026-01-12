@@ -2595,7 +2595,8 @@ class QuantumsandLive
       "sxjack/unix_rid_capture",
       "vsergeev/c-periphery",
       "AdnanHodzic/auto-cpufreq",
-      "isl-org/Open3D"
+      "isl-org/Open3D",
+      "isl-org/Open3D-ML"
     ]
 
     git_repos_chromium_googlesource = [
