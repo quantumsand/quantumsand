@@ -2583,7 +2583,8 @@ class QuantumsandLive
       "dronecan/libcanard",
       "dronecan/dronecan_dsdlc",
       "dronecan/pydronecan",
-      "nccgroup/Sniffle"
+      "nccgroup/Sniffle",
+      "pyserial/pyserial"
     ]
 
     git_repos_chromium_googlesource = [
