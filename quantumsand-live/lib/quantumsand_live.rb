@@ -2609,7 +2609,8 @@ class QuantumsandLive
       "DragonFlyBSD/DragonFlyBSD",
       "DragonFlyBSD/rust-bootstrap-dragonfly",
       "DragonFlyBSD/DeltaPorts",
-      "DragonFlyBSD/DPorts"
+      "DragonFlyBSD/DPorts",
+      "EmbarkStudios/skyhook"
     ]
 
     git_repos_chromium_googlesource = [
