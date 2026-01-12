@@ -2579,7 +2579,8 @@ class QuantumsandLive
       "ArduPilot/ArduRemoteID",
       "opendroneid/opendroneid-core-c",
       "dronecan/DSDL",
-      "dergraaf/avr-can-lib"
+      "dergraaf/avr-can-lib",
+      "dronecan/libcanard"
     ]
 
     git_repos_chromium_googlesource = [
