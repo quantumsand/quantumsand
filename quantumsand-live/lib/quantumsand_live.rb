@@ -2612,7 +2612,8 @@ class QuantumsandLive
       "DragonFlyBSD/DPorts",
       "EmbarkStudios/skyhook",
       "oli-obk/cargo_metadata",
-      "EmbarkStudios/krates"
+      "EmbarkStudios/krates",
+      "EmbarkStudios/tryhard"
     ]
 
     git_repos_chromium_googlesource = [
