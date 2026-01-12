@@ -2585,7 +2585,8 @@ class QuantumsandLive
       "dronecan/pydronecan",
       "nccgroup/Sniffle",
       "pyserial/pyserial",
-      "ElectronicCats/CatSniffer"
+      "ElectronicCats/CatSniffer",
+      "opendroneid/receiver-android"
     ]
 
     git_repos_chromium_googlesource = [
