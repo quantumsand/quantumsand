@@ -2605,7 +2605,8 @@ class QuantumsandLive
       "ArduPilot/companion",
       "mavlink/MAVSDK-Swift-Example",
       "mavlink/MAVSDK-Rust",
-      "mavlink/mavsdk.mavlink.io"
+      "mavlink/mavsdk.mavlink.io",
+      "DragonFlyBSD/DragonFlyBSD"
     ]
 
     git_repos_chromium_googlesource = [
