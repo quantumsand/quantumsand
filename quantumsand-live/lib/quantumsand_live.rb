@@ -2575,7 +2575,8 @@ class QuantumsandLive
       "abougouffa/ndtpso_slam",
       "IDEC-ezWheel/swd_ros_controllers",
       "IDEC-ezWheel/swd_ros2_controllers",
-      "rust-lang/compiler-builtins"
+      "rust-lang/compiler-builtins",
+      "ArduPilot/ArduRemoteID"
     ]
 
     git_repos_chromium_googlesource = [
