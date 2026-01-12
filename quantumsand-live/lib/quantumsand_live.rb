@@ -2596,7 +2596,8 @@ class QuantumsandLive
       "vsergeev/c-periphery",
       "AdnanHodzic/auto-cpufreq",
       "isl-org/Open3D",
-      "isl-org/Open3D-ML"
+      "isl-org/Open3D-ML",
+      "ArduPilot/Schematics"
     ]
 
     git_repos_chromium_googlesource = [
