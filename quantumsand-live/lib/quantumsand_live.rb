@@ -3082,7 +3082,8 @@ class QuantumsandLive
       "redox-os/compiler-builtins",
       "redox-os/conc",
       "redox-os/contain",
-      "redox-os/coreboot-fs"
+      "redox-os/coreboot-fs",
+      "redox-os/coreboot-table"
     ]
 
     git_repos_freebsd_org = [
