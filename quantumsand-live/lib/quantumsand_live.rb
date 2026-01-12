@@ -2600,7 +2600,8 @@ class QuantumsandLive
       "ArduPilot/Schematics",
       "ArduPilot/ardupilot_ros",
       "ArduPilot/ardupilot-mavsdk",
-      "ArduPilot/Datasheets"
+      "ArduPilot/Datasheets",
+      "ArduPilot/SiK"
     ]
 
     git_repos_chromium_googlesource = [
