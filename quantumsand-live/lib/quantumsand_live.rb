@@ -2604,7 +2604,8 @@ class QuantumsandLive
       "ArduPilot/SiK",
       "ArduPilot/companion",
       "mavlink/MAVSDK-Swift-Example",
-      "mavlink/MAVSDK-Rust"
+      "mavlink/MAVSDK-Rust",
+      "mavlink/mavsdk.mavlink.io"
     ]
 
     git_repos_chromium_googlesource = [
