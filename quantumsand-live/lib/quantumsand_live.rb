@@ -2581,7 +2581,8 @@ class QuantumsandLive
       "dronecan/DSDL",
       "dergraaf/avr-can-lib",
       "dronecan/libcanard",
-      "dronecan/dronecan_dsdlc"
+      "dronecan/dronecan_dsdlc",
+      "dronecan/pydronecan"
     ]
 
     git_repos_chromium_googlesource = [
