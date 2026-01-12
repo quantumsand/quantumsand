@@ -2580,7 +2580,8 @@ class QuantumsandLive
       "opendroneid/opendroneid-core-c",
       "dronecan/DSDL",
       "dergraaf/avr-can-lib",
-      "dronecan/libcanard"
+      "dronecan/libcanard",
+      "dronecan/dronecan_dsdlc"
     ]
 
     git_repos_chromium_googlesource = [
