@@ -3080,7 +3080,8 @@ class QuantumsandLive
       "redox-os/chashmap",
       "redox-os/cleye",
       "redox-os/compiler-builtins",
-      "redox-os/conc"
+      "redox-os/conc",
+      "redox-os/contain"
     ]
 
     git_repos_freebsd_org = [
