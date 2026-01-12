@@ -2597,7 +2597,8 @@ class QuantumsandLive
       "AdnanHodzic/auto-cpufreq",
       "isl-org/Open3D",
       "isl-org/Open3D-ML",
-      "ArduPilot/Schematics"
+      "ArduPilot/Schematics",
+      "ArduPilot/ardupilot_ros"
     ]
 
     git_repos_chromium_googlesource = [
