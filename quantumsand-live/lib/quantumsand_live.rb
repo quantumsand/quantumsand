@@ -2607,7 +2607,8 @@ class QuantumsandLive
       "mavlink/MAVSDK-Rust",
       "mavlink/mavsdk.mavlink.io",
       "DragonFlyBSD/DragonFlyBSD",
-      "DragonFlyBSD/rust-bootstrap-dragonfly"
+      "DragonFlyBSD/rust-bootstrap-dragonfly",
+      "DragonFlyBSD/DeltaPorts"
     ]
 
     git_repos_chromium_googlesource = [
