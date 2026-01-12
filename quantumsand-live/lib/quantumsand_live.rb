@@ -2593,7 +2593,8 @@ class QuantumsandLive
       "sxjack/remote_id_bt5",
       "sxjack/spektrum_telemetry",
       "sxjack/unix_rid_capture",
-      "vsergeev/c-periphery"
+      "vsergeev/c-periphery",
+      "AdnanHodzic/auto-cpufreq"
     ]
 
     git_repos_chromium_googlesource = [
