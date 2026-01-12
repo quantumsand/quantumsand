@@ -2592,7 +2592,8 @@ class QuantumsandLive
       "sxjack/uav_electronic_ids",
       "sxjack/remote_id_bt5",
       "sxjack/spektrum_telemetry",
-      "sxjack/unix_rid_capture"
+      "sxjack/unix_rid_capture",
+      "vsergeev/c-periphery"
     ]
 
     git_repos_chromium_googlesource = [
