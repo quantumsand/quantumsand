@@ -2599,7 +2599,8 @@ class QuantumsandLive
       "isl-org/Open3D-ML",
       "ArduPilot/Schematics",
       "ArduPilot/ardupilot_ros",
-      "ArduPilot/ardupilot-mavsdk"
+      "ArduPilot/ardupilot-mavsdk",
+      "ArduPilot/Datasheets"
     ]
 
     git_repos_chromium_googlesource = [
