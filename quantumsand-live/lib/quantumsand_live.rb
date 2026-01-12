@@ -2576,7 +2576,8 @@ class QuantumsandLive
       "IDEC-ezWheel/swd_ros_controllers",
       "IDEC-ezWheel/swd_ros2_controllers",
       "rust-lang/compiler-builtins",
-      "ArduPilot/ArduRemoteID"
+      "ArduPilot/ArduRemoteID",
+      "opendroneid/opendroneid-core-c"
     ]
 
     git_repos_chromium_googlesource = [
