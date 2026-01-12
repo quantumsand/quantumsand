@@ -2591,7 +2591,8 @@ class QuantumsandLive
       "ElectronicCats/CatSniffer-Tools",
       "sxjack/uav_electronic_ids",
       "sxjack/remote_id_bt5",
-      "sxjack/spektrum_telemetry"
+      "sxjack/spektrum_telemetry",
+      "sxjack/unix_rid_capture"
     ]
 
     git_repos_chromium_googlesource = [
