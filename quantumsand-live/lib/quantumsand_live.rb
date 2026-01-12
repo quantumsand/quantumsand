@@ -2588,7 +2588,8 @@ class QuantumsandLive
       "ElectronicCats/CatSniffer",
       "opendroneid/receiver-android",
       "ElectronicCats/CatSniffer-Firmware",
-      "ElectronicCats/CatSniffer-Tools"
+      "ElectronicCats/CatSniffer-Tools",
+      "sxjack/uav_electronic_ids"
     ]
 
     git_repos_chromium_googlesource = [
