@@ -2578,7 +2578,8 @@ class QuantumsandLive
       "rust-lang/compiler-builtins",
       "ArduPilot/ArduRemoteID",
       "opendroneid/opendroneid-core-c",
-      "dronecan/DSDL"
+      "dronecan/DSDL",
+      "dergraaf/avr-can-lib"
     ]
 
     git_repos_chromium_googlesource = [
