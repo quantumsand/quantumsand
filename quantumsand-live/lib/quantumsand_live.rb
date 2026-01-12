@@ -2594,7 +2594,8 @@ class QuantumsandLive
       "sxjack/spektrum_telemetry",
       "sxjack/unix_rid_capture",
       "vsergeev/c-periphery",
-      "AdnanHodzic/auto-cpufreq"
+      "AdnanHodzic/auto-cpufreq",
+      "isl-org/Open3D"
     ]
 
     git_repos_chromium_googlesource = [
