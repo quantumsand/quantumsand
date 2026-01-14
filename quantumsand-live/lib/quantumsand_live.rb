@@ -2628,7 +2628,8 @@ class QuantumsandLive
       "RustAudio/lewton",
       "RustAudio/dasp",
       "RustAudio/rust-portaudio",
-      "RustAudio/rust-jack"
+      "RustAudio/rust-jack",
+      "jackaudio/jack2"
     ]
 
     git_repos_chromium_googlesource = [
