@@ -2618,7 +2618,8 @@ class QuantumsandLive
       "intel/intel-graphics-compiler",
       "intel/opencl-clang",
       "KhronosGroup/SPIRV-LLVM-Translator",
-      "KhronosGroup/SPIRV-Tools"
+      "KhronosGroup/SPIRV-Tools",
+      "intel/vc-intrinsics"
     ]
 
     git_repos_chromium_googlesource = [
