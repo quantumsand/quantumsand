@@ -3143,7 +3143,8 @@ class QuantumsandLive
       "redox-os/coreboot-table",
       "redox-os/core_io",
       "dahc/extrautils",
-      "redox-os/cpal"
+      "redox-os/cpal",
+      "redox-os/curl"
     ]
 
     git_repos_freebsd_org = [
