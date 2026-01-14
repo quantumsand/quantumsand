@@ -3145,7 +3145,8 @@ class QuantumsandLive
       "dahc/extrautils",
       "redox-os/cpal",
       "redox-os/curl",
-      "redox-os/curl-rust"
+      "redox-os/curl-rust",
+      "redox-os/dash"
     ]
 
     git_repos_freebsd_org = [
