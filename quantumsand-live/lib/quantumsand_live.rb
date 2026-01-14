@@ -2614,7 +2614,8 @@ class QuantumsandLive
       "oli-obk/cargo_metadata",
       "EmbarkStudios/krates",
       "EmbarkStudios/tryhard",
-      "intel/gmmlib"
+      "intel/gmmlib",
+      "intel/intel-graphics-compiler"
     ]
 
     git_repos_chromium_googlesource = [
