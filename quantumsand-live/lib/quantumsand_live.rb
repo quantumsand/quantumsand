@@ -2644,7 +2644,8 @@ class QuantumsandLive
       "eProsima/Micro-CDR",
       "wolfSSL/wolfssl",
       "ArduPilot/APWeb",
-      "ArduPilot/AP_Cloud"
+      "ArduPilot/AP_Cloud",
+      "ArduPilot/ArduConfigurator"
     ]
 
     git_repos_chromium_googlesource = [
