@@ -2632,7 +2632,8 @@ class QuantumsandLive
       "jackaudio/jack2",
       "jackaudio/jack-example-tools",
       "jackaudio/a2jmidid",
-      "jackaudio/new-session-manager"
+      "jackaudio/new-session-manager",
+      "apache/airflow"
     ]
 
     git_repos_chromium_googlesource = [
