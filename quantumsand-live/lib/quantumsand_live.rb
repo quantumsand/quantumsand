@@ -2640,7 +2640,8 @@ class QuantumsandLive
       "ArduPilot/dema-rc",
       "c-util/c-ini",
       "c-util/c-stdaux",
-      "ArduPilot/plot3d"
+      "ArduPilot/plot3d",
+      "eProsima/Micro-CDR"
     ]
 
     git_repos_chromium_googlesource = [
