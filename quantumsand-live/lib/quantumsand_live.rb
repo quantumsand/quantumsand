@@ -2635,7 +2635,8 @@ class QuantumsandLive
       "jackaudio/new-session-manager",
       "apache/airflow",
       "apache/superset",
-      "apache/echarts"
+      "apache/echarts",
+      "ArduPilot/mavesp8266"
     ]
 
     git_repos_chromium_googlesource = [
