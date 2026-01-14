@@ -2622,7 +2622,8 @@ class QuantumsandLive
       "intel/vc-intrinsics",
       "RustAudio/cpal",
       "RustAudio/rodio",
-      "lieff/minimp3"
+      "lieff/minimp3",
+      "ruuda/hound"
     ]
 
     git_repos_chromium_googlesource = [
