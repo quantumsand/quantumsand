@@ -2638,7 +2638,8 @@ class QuantumsandLive
       "apache/echarts",
       "ArduPilot/mavesp8266",
       "ArduPilot/dema-rc",
-      "c-util/c-ini"
+      "c-util/c-ini",
+      "c-util/c-stdaux"
     ]
 
     git_repos_chromium_googlesource = [
