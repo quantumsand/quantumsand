@@ -2651,7 +2651,8 @@ class QuantumsandLive
       "ArduPilot/OMC",
       "ArduPilot/CrashDebug",
       "X-Omni-Team/X-Omni",
-      "zai-org/GLM-Image"
+      "zai-org/GLM-Image",
+      "rspec/rspec"
     ]
 
     git_repos_chromium_googlesource = [
