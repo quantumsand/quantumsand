@@ -3474,7 +3474,8 @@ class QuantumsandLive
       "dev-python/pytz",
       "net-misc/openssh",
       "net-misc/dhcpcd",
-      "sci-geosciences/gpsd"
+      "sci-geosciences/gpsd",
+      "media-sound/jack2"
     ]
 
     gentoo_eselect_repository_add = {
