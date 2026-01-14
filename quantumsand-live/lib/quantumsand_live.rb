@@ -2625,7 +2625,8 @@ class QuantumsandLive
       "lieff/minimp3",
       "ruuda/hound",
       "ruuda/claxon",
-      "RustAudio/lewton"
+      "RustAudio/lewton",
+      "RustAudio/dasp"
     ]
 
     git_repos_chromium_googlesource = [
