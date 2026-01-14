@@ -2616,7 +2616,8 @@ class QuantumsandLive
       "EmbarkStudios/tryhard",
       "intel/gmmlib",
       "intel/intel-graphics-compiler",
-      "intel/opencl-clang"
+      "intel/opencl-clang",
+      "KhronosGroup/SPIRV-LLVM-Translator"
     ]
 
     git_repos_chromium_googlesource = [
