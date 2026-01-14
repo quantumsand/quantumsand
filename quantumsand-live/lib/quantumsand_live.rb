@@ -2645,7 +2645,8 @@ class QuantumsandLive
       "wolfSSL/wolfssl",
       "ArduPilot/APWeb",
       "ArduPilot/AP_Cloud",
-      "ArduPilot/ArduConfigurator"
+      "ArduPilot/ArduConfigurator",
+      "dronecan/libuavcan"
     ]
 
     git_repos_chromium_googlesource = [
