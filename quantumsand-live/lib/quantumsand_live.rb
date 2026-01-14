@@ -2636,7 +2636,8 @@ class QuantumsandLive
       "apache/airflow",
       "apache/superset",
       "apache/echarts",
-      "ArduPilot/mavesp8266"
+      "ArduPilot/mavesp8266",
+      "ArduPilot/dema-rc"
     ]
 
     git_repos_chromium_googlesource = [
