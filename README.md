@@ -50,6 +50,8 @@ Quantum Sand can be distributed via a Live USB stick. This should help women and
 
 ## Video clip of Quantum Sand
 
+[![Quantum Sand Doggo video](https://img.youtube.com/vi/ECUVyTuz-cA/0.jpg)](https://www.youtube.com/watch?v=ECUVyTuz-cA)
+
 [![Quantum Sand Doggo video](https://img.youtube.com/vi/Wk7m_2sVfvQ/0.jpg)](https://www.youtube.com/watch?v=Wk7m_2sVfvQ)
 
 [![Quantum Sand video](https://img.youtube.com/vi/8nM9mLc6RTU/0.jpg)](https://www.youtube.com/watch?v=8nM9mLc6RTU)
