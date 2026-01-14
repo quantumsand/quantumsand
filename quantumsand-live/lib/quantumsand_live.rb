@@ -2650,7 +2650,8 @@ class QuantumsandLive
       "espressif/esp-idf",
       "ArduPilot/OMC",
       "ArduPilot/CrashDebug",
-      "X-Omni-Team/X-Omni"
+      "X-Omni-Team/X-Omni",
+      "zai-org/GLM-Image"
     ]
 
     git_repos_chromium_googlesource = [
