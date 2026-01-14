@@ -2620,7 +2620,8 @@ class QuantumsandLive
       "KhronosGroup/SPIRV-LLVM-Translator",
       "KhronosGroup/SPIRV-Tools",
       "intel/vc-intrinsics",
-      "RustAudio/cpal"
+      "RustAudio/cpal",
+      "RustAudio/rodio"
     ]
 
     git_repos_chromium_googlesource = [
