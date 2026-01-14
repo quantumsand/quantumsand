@@ -2613,7 +2613,8 @@ class QuantumsandLive
       "EmbarkStudios/skyhook",
       "oli-obk/cargo_metadata",
       "EmbarkStudios/krates",
-      "EmbarkStudios/tryhard"
+      "EmbarkStudios/tryhard",
+      "intel/gmmlib"
     ]
 
     git_repos_chromium_googlesource = [
