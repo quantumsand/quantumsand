@@ -2647,7 +2647,8 @@ class QuantumsandLive
       "ArduPilot/AP_Cloud",
       "ArduPilot/ArduConfigurator",
       "dronecan/libuavcan",
-      "espressif/esp-idf"
+      "espressif/esp-idf",
+      "ArduPilot/OMC"
     ]
 
     git_repos_chromium_googlesource = [
