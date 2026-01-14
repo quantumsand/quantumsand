@@ -2631,7 +2631,8 @@ class QuantumsandLive
       "RustAudio/rust-jack",
       "jackaudio/jack2",
       "jackaudio/jack-example-tools",
-      "jackaudio/a2jmidid"
+      "jackaudio/a2jmidid",
+      "jackaudio/new-session-manager"
     ]
 
     git_repos_chromium_googlesource = [
