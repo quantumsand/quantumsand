@@ -2657,7 +2657,8 @@ class QuantumsandLive
       "alexcrichton/filetime",
       "ArduPilot/mri",
       "adamgreen/mri",
-      "adamgreen/CppUTest"
+      "adamgreen/CppUTest",
+      "ArduPilot/CrashCatcher"
     ]
 
     git_repos_chromium_googlesource = [
