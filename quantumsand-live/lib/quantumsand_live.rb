@@ -2681,7 +2681,8 @@ class QuantumsandLive
       "sowbug/weblight",
       "webadb/webadb.js",
       "webusb/arduino",
-      "micropython/mynewt-nimble"
+      "micropython/mynewt-nimble",
+      "apache/mynewt-nimble"
     ]
 
     git_repos_chromium_googlesource = [
