@@ -2669,7 +2669,8 @@ class QuantumsandLive
       "micropython/stm32lib",
       "NordicSemiconductor/nrfx",
       "Mbed-TLS/mbedtls",
-      "Mbed-TLS/mbedtls-framework"
+      "Mbed-TLS/mbedtls-framework",
+      "Mbed-TLS/TF-PSA-Crypto"
     ]
 
     git_repos_chromium_googlesource = [
