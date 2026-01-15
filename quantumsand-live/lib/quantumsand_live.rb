@@ -2672,7 +2672,8 @@ class QuantumsandLive
       "Mbed-TLS/mbedtls-framework",
       "Mbed-TLS/TF-PSA-Crypto",
       "adafruit/asf4",
-      "adafruit/circuitpython"
+      "adafruit/circuitpython",
+      "hathach/tinyusb"
     ]
 
     git_repos_chromium_googlesource = [
