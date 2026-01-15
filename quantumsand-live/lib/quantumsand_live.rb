@@ -2653,7 +2653,8 @@ class QuantumsandLive
       "X-Omni-Team/X-Omni",
       "zai-org/GLM-Image",
       "rspec/rspec",
-      "rspec/rspec-rails"
+      "rspec/rspec-rails",
+      "alexcrichton/filetime"
     ]
 
     git_repos_chromium_googlesource = [
