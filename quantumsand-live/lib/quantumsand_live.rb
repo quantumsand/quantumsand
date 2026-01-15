@@ -2666,7 +2666,8 @@ class QuantumsandLive
       "ArduPilot/jsbsim",
       "JSBSim-Team/jsbsim",
       "micropython/berkeley-db-1.xx",
-      "micropython/stm32lib"
+      "micropython/stm32lib",
+      "NordicSemiconductor/nrfx"
     ]
 
     git_repos_chromium_googlesource = [
