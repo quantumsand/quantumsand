@@ -2654,7 +2654,8 @@ class QuantumsandLive
       "zai-org/GLM-Image",
       "rspec/rspec",
       "rspec/rspec-rails",
-      "alexcrichton/filetime"
+      "alexcrichton/filetime",
+      "ArduPilot/mri"
     ]
 
     git_repos_chromium_googlesource = [
