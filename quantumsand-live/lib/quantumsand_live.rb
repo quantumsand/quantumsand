@@ -2656,7 +2656,8 @@ class QuantumsandLive
       "rspec/rspec-rails",
       "alexcrichton/filetime",
       "ArduPilot/mri",
-      "adamgreen/mri"
+      "adamgreen/mri",
+      "adamgreen/CppUTest"
     ]
 
     git_repos_chromium_googlesource = [
