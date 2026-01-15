@@ -3178,7 +3178,8 @@ class QuantumsandLive
       "redox-os/docgen",
       "redox-os/dynamic-example",
       "redox-os/escalated",
-      "redox-os/event"
+      "redox-os/event",
+      "redox-os/exampled"
     ]
 
     git_repos_freebsd_org = [
