@@ -2667,7 +2667,8 @@ class QuantumsandLive
       "JSBSim-Team/jsbsim",
       "micropython/berkeley-db-1.xx",
       "micropython/stm32lib",
-      "NordicSemiconductor/nrfx"
+      "NordicSemiconductor/nrfx",
+      "Mbed-TLS/mbedtls"
     ]
 
     git_repos_chromium_googlesource = [
