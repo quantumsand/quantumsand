@@ -2683,7 +2683,8 @@ class QuantumsandLive
       "webusb/arduino",
       "micropython/mynewt-nimble",
       "apache/mynewt-nimble",
-      "bluekitchen/btstack"
+      "bluekitchen/btstack",
+      "micropython/nxp_driver"
     ]
 
     git_repos_chromium_googlesource = [
