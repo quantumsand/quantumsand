@@ -3183,7 +3183,8 @@ class QuantumsandLive
       "redox-os/exampled",
       "redox-os/extrautils",
       "redox-os/f80",
-      "redox-os/filetime"
+      "redox-os/filetime",
+      "redox-os/findutils"
     ]
 
     git_repos_freebsd_org = [
