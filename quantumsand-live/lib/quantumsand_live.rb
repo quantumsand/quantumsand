@@ -2682,7 +2682,8 @@ class QuantumsandLive
       "webadb/webadb.js",
       "webusb/arduino",
       "micropython/mynewt-nimble",
-      "apache/mynewt-nimble"
+      "apache/mynewt-nimble",
+      "bluekitchen/btstack"
     ]
 
     git_repos_chromium_googlesource = [
