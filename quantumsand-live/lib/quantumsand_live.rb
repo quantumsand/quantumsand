@@ -2663,7 +2663,8 @@ class QuantumsandLive
       "ArduPilot/OMC-docs",
       "ArduPilot/useralerts",
       "ArduPilot/alceosd",
-      "ArduPilot/jsbsim"
+      "ArduPilot/jsbsim",
+      "JSBSim-Team/jsbsim"
     ]
 
     git_repos_chromium_googlesource = [
