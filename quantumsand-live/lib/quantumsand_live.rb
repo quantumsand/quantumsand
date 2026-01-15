@@ -2679,7 +2679,8 @@ class QuantumsandLive
       "hathach/mynewt-tinyusb-example",
       "WICG/webusb",
       "sowbug/weblight",
-      "webadb/webadb.js"
+      "webadb/webadb.js",
+      "webusb/arduino"
     ]
 
     git_repos_chromium_googlesource = [
