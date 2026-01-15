@@ -2677,7 +2677,8 @@ class QuantumsandLive
       "RT-Thread/rt-thread",
       "RT-Thread-packages/tinyusb",
       "hathach/mynewt-tinyusb-example",
-      "WICG/webusb"
+      "WICG/webusb",
+      "sowbug/weblight"
     ]
 
     git_repos_chromium_googlesource = [
