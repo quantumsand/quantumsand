@@ -3172,7 +3172,8 @@ class QuantumsandLive
       "redox-os/dash",
       "redox-os/dces-rust",
       "redox-os/dces-guide",
-      "redox-os/design"
+      "redox-os/design",
+      "redox-os/dlmalloc-rs"
     ]
 
     git_repos_freebsd_org = [
