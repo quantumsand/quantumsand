@@ -2675,7 +2675,8 @@ class QuantumsandLive
       "adafruit/circuitpython",
       "hathach/tinyusb",
       "RT-Thread/rt-thread",
-      "RT-Thread-packages/tinyusb"
+      "RT-Thread-packages/tinyusb",
+      "hathach/mynewt-tinyusb-example"
     ]
 
     git_repos_chromium_googlesource = [
