@@ -2659,7 +2659,8 @@ class QuantumsandLive
       "adamgreen/mri",
       "adamgreen/CppUTest",
       "ArduPilot/CrashCatcher",
-      "ArduPilot/gSOAP"
+      "ArduPilot/gSOAP",
+      "ArduPilot/OMC-docs"
     ]
 
     git_repos_chromium_googlesource = [
