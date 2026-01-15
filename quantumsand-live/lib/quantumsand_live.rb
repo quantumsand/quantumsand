@@ -2670,7 +2670,8 @@ class QuantumsandLive
       "NordicSemiconductor/nrfx",
       "Mbed-TLS/mbedtls",
       "Mbed-TLS/mbedtls-framework",
-      "Mbed-TLS/TF-PSA-Crypto"
+      "Mbed-TLS/TF-PSA-Crypto",
+      "adafruit/asf4"
     ]
 
     git_repos_chromium_googlesource = [
