@@ -2662,7 +2662,8 @@ class QuantumsandLive
       "ArduPilot/gSOAP",
       "ArduPilot/OMC-docs",
       "ArduPilot/useralerts",
-      "ArduPilot/alceosd"
+      "ArduPilot/alceosd",
+      "ArduPilot/jsbsim"
     ]
 
     git_repos_chromium_googlesource = [
