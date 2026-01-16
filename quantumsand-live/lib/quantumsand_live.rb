@@ -2706,7 +2706,8 @@ class QuantumsandLive
       "rust-lang/git2-rs",
       "oracle/dtrace-utils",
       "sailfishos/qmllive",
-      "sailfishos/qr-filter-qml-plugin"
+      "sailfishos/qr-filter-qml-plugin",
+      "zxing-cpp/zxing-cpp"
     ]
 
     git_repos_chromium_googlesource = [
