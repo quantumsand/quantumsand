@@ -2684,7 +2684,8 @@ class QuantumsandLive
       "micropython/mynewt-nimble",
       "apache/mynewt-nimble",
       "bluekitchen/btstack",
-      "micropython/nxp_driver"
+      "micropython/nxp_driver",
+      "tracel-ai/burn"
     ]
 
     git_repos_chromium_googlesource = [
