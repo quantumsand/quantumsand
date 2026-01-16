@@ -2691,7 +2691,8 @@ class QuantumsandLive
       "ggml-org/whisper.cpp",
       "ggml-org/llama.vscode",
       "ggml-org/llama.vim",
-      "servo/gaol"
+      "servo/gaol",
+      "luser/rust-gdb-remote-protocol"
     ]
 
     git_repos_chromium_googlesource = [
