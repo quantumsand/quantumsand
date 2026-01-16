@@ -2864,7 +2864,8 @@ class QuantumsandLive
       "nano",
       "patch",
       "lilypond",
-      "lwip"
+      "lwip",
+      "config"
     ]
 
     git_repos_savannah_nongnu_org = [
