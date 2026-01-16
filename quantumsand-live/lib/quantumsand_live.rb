@@ -3231,7 +3231,8 @@ class QuantumsandLive
       "redox-os/gawk",
       "redox-os/gcc",
       "redox-os/gdb-protocol",
-      "redox-os/gdbserver"
+      "redox-os/gdbserver",
+      "redox-os/generaluser-gs"
     ]
 
     git_repos_freebsd_org = [
