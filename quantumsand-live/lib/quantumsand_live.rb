@@ -3242,7 +3242,8 @@ class QuantumsandLive
       "redox-os/gdb-protocol",
       "redox-os/gdbserver",
       "redox-os/generaluser-gs",
-      "redox-os/gigalomania"
+      "redox-os/gigalomania",
+      "redox-os/git2-rs"
     ]
 
     git_repos_freebsd_org = [
