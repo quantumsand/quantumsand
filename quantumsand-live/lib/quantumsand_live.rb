@@ -2687,7 +2687,8 @@ class QuantumsandLive
       "micropython/nxp_driver",
       "tracel-ai/burn",
       "tracel-ai/cubecl",
-      "tracel-ai/models"
+      "tracel-ai/models",
+      "ggml-org/whisper.cpp"
     ]
 
     git_repos_chromium_googlesource = [
