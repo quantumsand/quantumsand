@@ -2698,7 +2698,8 @@ class QuantumsandLive
       "trusche/httplog",
       "ruby-git/ruby-git",
       "haml/haml",
-      "haml/haml-rails"
+      "haml/haml-rails",
+      "rails/thor"
     ]
 
     git_repos_chromium_googlesource = [
