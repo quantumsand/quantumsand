@@ -2712,7 +2712,8 @@ class QuantumsandLive
       "sailfishos/qt-mobility-haptics-ffmemless",
       "adrian-thurston/colm",
       "adrian-thurston/ragel",
-      "sailfishos-mirror/re2c"
+      "sailfishos-mirror/re2c",
+      "OpenMathLib/OpenBLAS"
     ]
 
     git_repos_chromium_googlesource = [
