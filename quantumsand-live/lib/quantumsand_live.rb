@@ -2688,7 +2688,8 @@ class QuantumsandLive
       "tracel-ai/burn",
       "tracel-ai/cubecl",
       "tracel-ai/models",
-      "ggml-org/whisper.cpp"
+      "ggml-org/whisper.cpp",
+      "ggml-org/llama.vscode"
     ]
 
     git_repos_chromium_googlesource = [
