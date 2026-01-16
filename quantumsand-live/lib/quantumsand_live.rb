@@ -2686,7 +2686,8 @@ class QuantumsandLive
       "bluekitchen/btstack",
       "micropython/nxp_driver",
       "tracel-ai/burn",
-      "tracel-ai/cubecl"
+      "tracel-ai/cubecl",
+      "tracel-ai/models"
     ]
 
     git_repos_chromium_googlesource = [
