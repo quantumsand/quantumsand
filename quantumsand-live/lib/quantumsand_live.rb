@@ -2710,7 +2710,8 @@ class QuantumsandLive
       "zxing-cpp/zxing-cpp",
       "zint/zint",
       "sailfishos/qt-mobility-haptics-ffmemless",
-      "adrian-thurston/colm"
+      "adrian-thurston/colm",
+      "adrian-thurston/ragel"
     ]
 
     git_repos_chromium_googlesource = [
