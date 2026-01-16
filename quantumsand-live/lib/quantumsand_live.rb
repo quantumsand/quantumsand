@@ -2694,7 +2694,8 @@ class QuantumsandLive
       "servo/gaol",
       "luser/rust-gdb-remote-protocol",
       "ggerman/libgd-gis",
-      "tranhuucanh/fast_resize"
+      "tranhuucanh/fast_resize",
+      "trusche/httplog"
     ]
 
     git_repos_chromium_googlesource = [
