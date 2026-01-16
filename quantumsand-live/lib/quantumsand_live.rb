@@ -2690,7 +2690,8 @@ class QuantumsandLive
       "tracel-ai/models",
       "ggml-org/whisper.cpp",
       "ggml-org/llama.vscode",
-      "ggml-org/llama.vim"
+      "ggml-org/llama.vim",
+      "servo/gaol"
     ]
 
     git_repos_chromium_googlesource = [
