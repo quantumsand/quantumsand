@@ -2697,7 +2697,8 @@ class QuantumsandLive
       "tranhuucanh/fast_resize",
       "trusche/httplog",
       "ruby-git/ruby-git",
-      "haml/haml"
+      "haml/haml",
+      "haml/haml-rails"
     ]
 
     git_repos_chromium_googlesource = [
