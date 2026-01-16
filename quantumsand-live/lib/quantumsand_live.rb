@@ -3587,7 +3587,8 @@ class QuantumsandLive
       "net-misc/openssh",
       "net-misc/dhcpcd",
       "sci-geosciences/gpsd",
-      "media-sound/jack2"
+      "media-sound/jack2",
+      "dev-debug/dtrace"
     ]
 
     gentoo_eselect_repository_add = {
