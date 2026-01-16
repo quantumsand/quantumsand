@@ -2696,7 +2696,8 @@ class QuantumsandLive
       "ggerman/libgd-gis",
       "tranhuucanh/fast_resize",
       "trusche/httplog",
-      "ruby-git/ruby-git"
+      "ruby-git/ruby-git",
+      "haml/haml"
     ]
 
     git_repos_chromium_googlesource = [
