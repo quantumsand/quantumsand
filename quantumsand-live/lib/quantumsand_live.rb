@@ -2875,7 +2875,8 @@ class QuantumsandLive
     ]
 
     git_repos_savannah_nongnu_org = [
-      "ppl"
+      "ppl",
+      "quilt"
     ]
 
     git_repos_gnu_org_ua = [
