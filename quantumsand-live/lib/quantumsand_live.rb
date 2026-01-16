@@ -2695,7 +2695,8 @@ class QuantumsandLive
       "luser/rust-gdb-remote-protocol",
       "ggerman/libgd-gis",
       "tranhuucanh/fast_resize",
-      "trusche/httplog"
+      "trusche/httplog",
+      "ruby-git/ruby-git"
     ]
 
     git_repos_chromium_googlesource = [
