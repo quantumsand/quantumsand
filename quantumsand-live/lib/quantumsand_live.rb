@@ -3223,7 +3223,8 @@ class QuantumsandLive
       "redox-os/findutils",
       "redox-os/freedoom",
       "redox-os/freepats",
-      "redox-os/fs2-rs"
+      "redox-os/fs2-rs",
+      "redox-os/games"
     ]
 
     git_repos_freebsd_org = [
