@@ -2692,7 +2692,8 @@ class QuantumsandLive
       "ggml-org/llama.vscode",
       "ggml-org/llama.vim",
       "servo/gaol",
-      "luser/rust-gdb-remote-protocol"
+      "luser/rust-gdb-remote-protocol",
+      "ggerman/libgd-gis"
     ]
 
     git_repos_chromium_googlesource = [
