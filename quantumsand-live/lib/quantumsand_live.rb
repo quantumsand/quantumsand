@@ -3228,7 +3228,8 @@ class QuantumsandLive
       "redox-os/games",
       "redox-os/gaol",
       "redox-os/gawk",
-      "redox-os/gcc"
+      "redox-os/gcc",
+      "redox-os/gdb-protocol"
     ]
 
     git_repos_freebsd_org = [
