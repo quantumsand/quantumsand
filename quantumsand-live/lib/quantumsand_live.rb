@@ -2708,7 +2708,8 @@ class QuantumsandLive
       "sailfishos/qmllive",
       "sailfishos/qr-filter-qml-plugin",
       "zxing-cpp/zxing-cpp",
-      "zint/zint"
+      "zint/zint",
+      "sailfishos/qt-mobility-haptics-ffmemless"
     ]
 
     git_repos_chromium_googlesource = [
