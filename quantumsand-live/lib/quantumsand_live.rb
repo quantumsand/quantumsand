@@ -2701,7 +2701,8 @@ class QuantumsandLive
       "haml/haml-rails",
       "rails/thor",
       "whomwah/rqrcode",
-      "whomwah/rqrcode_core"
+      "whomwah/rqrcode_core",
+      "libgit2/libgit2"
     ]
 
     git_repos_chromium_googlesource = [
