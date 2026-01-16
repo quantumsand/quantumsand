@@ -2711,7 +2711,8 @@ class QuantumsandLive
       "zint/zint",
       "sailfishos/qt-mobility-haptics-ffmemless",
       "adrian-thurston/colm",
-      "adrian-thurston/ragel"
+      "adrian-thurston/ragel",
+      "sailfishos-mirror/re2c"
     ]
 
     git_repos_chromium_googlesource = [
