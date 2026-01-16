@@ -2704,7 +2704,8 @@ class QuantumsandLive
       "whomwah/rqrcode_core",
       "libgit2/libgit2",
       "rust-lang/git2-rs",
-      "oracle/dtrace-utils"
+      "oracle/dtrace-utils",
+      "sailfishos/qmllive"
     ]
 
     git_repos_chromium_googlesource = [
