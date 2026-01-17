@@ -2713,7 +2713,8 @@ class QuantumsandLive
       "adrian-thurston/colm",
       "adrian-thurston/ragel",
       "sailfishos-mirror/re2c",
-      "OpenMathLib/OpenBLAS"
+      "OpenMathLib/OpenBLAS",
+      "withastro/astro"
     ]
 
     git_repos_chromium_googlesource = [
