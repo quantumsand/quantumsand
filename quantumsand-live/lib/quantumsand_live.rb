@@ -2714,7 +2714,8 @@ class QuantumsandLive
       "adrian-thurston/ragel",
       "sailfishos-mirror/re2c",
       "OpenMathLib/OpenBLAS",
-      "withastro/astro"
+      "withastro/astro",
+      "electronicarts/ShaderToHuman"
     ]
 
     git_repos_chromium_googlesource = [
