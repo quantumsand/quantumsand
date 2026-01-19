@@ -2743,7 +2743,8 @@ class QuantumsandLive
       "CHINMAYVIVEK/rust-jpl",
       "benhoyt/inih",
       "azahar-emu/ext-libressl-portable",
-      "mozilla/cubeb"
+      "mozilla/cubeb",
+      "arsenm/sanitizers-cmake"
     ]
 
     git_repos_chromium_googlesource = [
