@@ -3264,7 +3264,8 @@ class QuantumsandLive
       "redox-os/gitrepoman",
       "redox-os/glium",
       "redox-os/glutin",
-      "redox-os/gnu-config"
+      "redox-os/gnu-config",
+      "redox-os/gpt"
     ]
 
     git_repos_freebsd_org = [
