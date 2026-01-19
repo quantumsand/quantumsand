@@ -2730,7 +2730,8 @@ class QuantumsandLive
       "micropython/micropython-lib",
       "protobuf-c/protobuf-c",
       "OpenAMP/open-amp",
-      "OpenAMP/libmetal"
+      "OpenAMP/libmetal",
+      "arduino/arduino-lib-mpy"
     ]
 
     git_repos_chromium_googlesource = [
