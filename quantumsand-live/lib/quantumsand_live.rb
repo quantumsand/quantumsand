@@ -2720,7 +2720,8 @@ class QuantumsandLive
       "stepancheg/rust-http2",
       "PistonDevelopers/piston",
       "djc/hostname",
-      "hyperium/hyper-tls"
+      "hyperium/hyper-tls",
+      "snwh/moka-icon-theme"
     ]
 
     git_repos_chromium_googlesource = [
