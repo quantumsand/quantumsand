@@ -2738,7 +2738,8 @@ class QuantumsandLive
       "azahar-emu/dynarmic",
       "herumi/xbyak",
       "lsalzman/enet",
-      "godotengine/godot-vscode-plugin"
+      "godotengine/godot-vscode-plugin",
+      "godotengine/godot-csharp-vscode"
     ]
 
     git_repos_chromium_googlesource = [
