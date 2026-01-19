@@ -2722,7 +2722,8 @@ class QuantumsandLive
       "djc/hostname",
       "hyperium/hyper-tls",
       "snwh/moka-icon-theme",
-      "jedisct1/libhydrogen"
+      "jedisct1/libhydrogen",
+      "raspberrypi/pico-sdk"
     ]
 
     git_repos_chromium_googlesource = [
