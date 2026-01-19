@@ -2729,7 +2729,8 @@ class QuantumsandLive
       "Wiznet/ioLibrary_Driver",
       "micropython/micropython-lib",
       "protobuf-c/protobuf-c",
-      "OpenAMP/open-amp"
+      "OpenAMP/open-amp",
+      "OpenAMP/libmetal"
     ]
 
     git_repos_chromium_googlesource = [
