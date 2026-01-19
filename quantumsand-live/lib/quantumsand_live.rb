@@ -2734,7 +2734,8 @@ class QuantumsandLive
       "arduino/arduino-lib-mpy",
       "azahar-emu/ext-boost",
       "neobrain/nihstro",
-      "azahar-emu/soundtouch"
+      "azahar-emu/soundtouch",
+      "azahar-emu/dynarmic"
     ]
 
     git_repos_chromium_googlesource = [
