@@ -3273,7 +3273,8 @@ class QuantumsandLive
       "redox-os/handbook",
       "redox-os/helix",
       "redox-os/hematite",
-      "redox-os/home"
+      "redox-os/home",
+      "redox-os/homebrew-gcc_cross_compilers"
     ]
 
     git_repos_freebsd_org = [
