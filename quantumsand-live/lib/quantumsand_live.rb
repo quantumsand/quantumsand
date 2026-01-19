@@ -3277,7 +3277,8 @@ class QuantumsandLive
       "redox-os/home",
       "redox-os/homebrew-gcc_cross_compilers",
       "redox-os/hostname",
-      "redox-os/hwio"
+      "redox-os/hwio",
+      "redox-os/hyper"
     ]
 
     git_repos_freebsd_org = [
