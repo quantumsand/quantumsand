@@ -2731,7 +2731,8 @@ class QuantumsandLive
       "protobuf-c/protobuf-c",
       "OpenAMP/open-amp",
       "OpenAMP/libmetal",
-      "arduino/arduino-lib-mpy"
+      "arduino/arduino-lib-mpy",
+      "azahar-emu/ext-boost"
     ]
 
     git_repos_chromium_googlesource = [
