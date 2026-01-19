@@ -3272,7 +3272,8 @@ class QuantumsandLive
       "redox-os/h2",
       "redox-os/handbook",
       "redox-os/helix",
-      "redox-os/hematite"
+      "redox-os/hematite",
+      "redox-os/home"
     ]
 
     git_repos_freebsd_org = [
