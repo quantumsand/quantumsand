@@ -2737,7 +2737,8 @@ class QuantumsandLive
       "azahar-emu/soundtouch",
       "azahar-emu/dynarmic",
       "herumi/xbyak",
-      "lsalzman/enet"
+      "lsalzman/enet",
+      "godotengine/godot-vscode-plugin"
     ]
 
     git_repos_chromium_googlesource = [
