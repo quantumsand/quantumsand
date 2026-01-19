@@ -2725,7 +2725,8 @@ class QuantumsandLive
       "jedisct1/libhydrogen",
       "raspberrypi/pico-sdk",
       "raspberrypi/pico-extras",
-      "raspberrypi/pico-examples"
+      "raspberrypi/pico-examples",
+      "Wiznet/ioLibrary_Driver"
     ]
 
     git_repos_chromium_googlesource = [
