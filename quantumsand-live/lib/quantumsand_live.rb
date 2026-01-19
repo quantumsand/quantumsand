@@ -3269,7 +3269,8 @@ class QuantumsandLive
       "redox-os/gnu-config",
       "redox-os/gpt",
       "redox-os/h2",
-      "redox-os/handbook"
+      "redox-os/handbook",
+      "redox-os/helix"
     ]
 
     git_repos_freebsd_org = [
