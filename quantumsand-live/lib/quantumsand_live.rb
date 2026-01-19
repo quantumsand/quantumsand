@@ -2741,7 +2741,8 @@ class QuantumsandLive
       "godotengine/godot-vscode-plugin",
       "godotengine/godot-csharp-vscode",
       "CHINMAYVIVEK/rust-jpl",
-      "benhoyt/inih"
+      "benhoyt/inih",
+      "azahar-emu/ext-libressl-portable"
     ]
 
     git_repos_chromium_googlesource = [
