@@ -2724,7 +2724,8 @@ class QuantumsandLive
       "snwh/moka-icon-theme",
       "jedisct1/libhydrogen",
       "raspberrypi/pico-sdk",
-      "raspberrypi/pico-extras"
+      "raspberrypi/pico-extras",
+      "raspberrypi/pico-examples"
     ]
 
     git_repos_chromium_googlesource = [
