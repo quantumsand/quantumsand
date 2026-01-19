@@ -2721,7 +2721,8 @@ class QuantumsandLive
       "PistonDevelopers/piston",
       "djc/hostname",
       "hyperium/hyper-tls",
-      "snwh/moka-icon-theme"
+      "snwh/moka-icon-theme",
+      "jedisct1/libhydrogen"
     ]
 
     git_repos_chromium_googlesource = [
