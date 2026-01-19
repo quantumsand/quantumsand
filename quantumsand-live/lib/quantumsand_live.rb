@@ -2717,7 +2717,8 @@ class QuantumsandLive
       "withastro/astro",
       "electronicarts/ShaderToHuman",
       "mlalic/solicit",
-      "stepancheg/rust-http2"
+      "stepancheg/rust-http2",
+      "PistonDevelopers/piston"
     ]
 
     git_repos_chromium_googlesource = [
