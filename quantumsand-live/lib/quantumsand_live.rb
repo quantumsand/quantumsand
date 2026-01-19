@@ -3283,7 +3283,8 @@ class QuantumsandLive
       "redox-os/hyper",
       "redox-os/hyper-tls",
       "redox-os/iced",
-      "redox-os/icons"
+      "redox-os/icons",
+      "redox-os/installer"
     ]
 
     git_repos_freebsd_org = [
