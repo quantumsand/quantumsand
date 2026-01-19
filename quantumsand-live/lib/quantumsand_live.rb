@@ -2745,7 +2745,8 @@ class QuantumsandLive
       "azahar-emu/ext-libressl-portable",
       "mozilla/cubeb",
       "arsenm/sanitizers-cmake",
-      "mozilla/cubeb-coreaudio-rs"
+      "mozilla/cubeb-coreaudio-rs",
+      "mozilla/cubeb-pulse-rs"
     ]
 
     git_repos_chromium_googlesource = [
