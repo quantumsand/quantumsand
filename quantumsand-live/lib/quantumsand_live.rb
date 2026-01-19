@@ -2719,7 +2719,8 @@ class QuantumsandLive
       "mlalic/solicit",
       "stepancheg/rust-http2",
       "PistonDevelopers/piston",
-      "djc/hostname"
+      "djc/hostname",
+      "hyperium/hyper-tls"
     ]
 
     git_repos_chromium_googlesource = [
