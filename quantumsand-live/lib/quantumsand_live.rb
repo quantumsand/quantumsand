@@ -2739,7 +2739,8 @@ class QuantumsandLive
       "herumi/xbyak",
       "lsalzman/enet",
       "godotengine/godot-vscode-plugin",
-      "godotengine/godot-csharp-vscode"
+      "godotengine/godot-csharp-vscode",
+      "CHINMAYVIVEK/rust-jpl"
     ]
 
     git_repos_chromium_googlesource = [
