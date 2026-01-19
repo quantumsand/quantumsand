@@ -2727,7 +2727,8 @@ class QuantumsandLive
       "raspberrypi/pico-extras",
       "raspberrypi/pico-examples",
       "Wiznet/ioLibrary_Driver",
-      "micropython/micropython-lib"
+      "micropython/micropython-lib",
+      "protobuf-c/protobuf-c"
     ]
 
     git_repos_chromium_googlesource = [
