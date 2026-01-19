@@ -2716,7 +2716,8 @@ class QuantumsandLive
       "OpenMathLib/OpenBLAS",
       "withastro/astro",
       "electronicarts/ShaderToHuman",
-      "mlalic/solicit"
+      "mlalic/solicit",
+      "stepancheg/rust-http2"
     ]
 
     git_repos_chromium_googlesource = [
