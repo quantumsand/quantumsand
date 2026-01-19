@@ -2715,7 +2715,8 @@ class QuantumsandLive
       "sailfishos-mirror/re2c",
       "OpenMathLib/OpenBLAS",
       "withastro/astro",
-      "electronicarts/ShaderToHuman"
+      "electronicarts/ShaderToHuman",
+      "mlalic/solicit"
     ]
 
     git_repos_chromium_googlesource = [
