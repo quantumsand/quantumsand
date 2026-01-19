@@ -2736,7 +2736,8 @@ class QuantumsandLive
       "neobrain/nihstro",
       "azahar-emu/soundtouch",
       "azahar-emu/dynarmic",
-      "herumi/xbyak"
+      "herumi/xbyak",
+      "lsalzman/enet"
     ]
 
     git_repos_chromium_googlesource = [
