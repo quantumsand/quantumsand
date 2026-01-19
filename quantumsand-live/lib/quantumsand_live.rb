@@ -3280,7 +3280,8 @@ class QuantumsandLive
       "redox-os/hostname",
       "redox-os/hwio",
       "redox-os/hyper",
-      "redox-os/hyper-tls"
+      "redox-os/hyper-tls",
+      "redox-os/iced"
     ]
 
     git_repos_freebsd_org = [
