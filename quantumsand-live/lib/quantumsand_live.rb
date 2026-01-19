@@ -2718,7 +2718,8 @@ class QuantumsandLive
       "electronicarts/ShaderToHuman",
       "mlalic/solicit",
       "stepancheg/rust-http2",
-      "PistonDevelopers/piston"
+      "PistonDevelopers/piston",
+      "djc/hostname"
     ]
 
     git_repos_chromium_googlesource = [
