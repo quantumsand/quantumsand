@@ -2732,7 +2732,8 @@ class QuantumsandLive
       "OpenAMP/open-amp",
       "OpenAMP/libmetal",
       "arduino/arduino-lib-mpy",
-      "azahar-emu/ext-boost"
+      "azahar-emu/ext-boost",
+      "neobrain/nihstro"
     ]
 
     git_repos_chromium_googlesource = [
