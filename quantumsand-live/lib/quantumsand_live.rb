@@ -2746,7 +2746,8 @@ class QuantumsandLive
       "mozilla/cubeb",
       "arsenm/sanitizers-cmake",
       "mozilla/cubeb-coreaudio-rs",
-      "mozilla/cubeb-pulse-rs"
+      "mozilla/cubeb-pulse-rs",
+      "azahar-emu/discord-rpc"
     ]
 
     git_repos_chromium_googlesource = [
