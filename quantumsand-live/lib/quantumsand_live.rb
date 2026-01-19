@@ -2742,7 +2742,8 @@ class QuantumsandLive
       "godotengine/godot-csharp-vscode",
       "CHINMAYVIVEK/rust-jpl",
       "benhoyt/inih",
-      "azahar-emu/ext-libressl-portable"
+      "azahar-emu/ext-libressl-portable",
+      "mozilla/cubeb"
     ]
 
     git_repos_chromium_googlesource = [
