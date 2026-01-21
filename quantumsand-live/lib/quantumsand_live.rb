@@ -2764,7 +2764,8 @@ class QuantumsandLive
       "azahar-emu/compatibility-list",
       "Cyan4973/xxHash",
       "pop-os/libcosmic",
-      "pop-os/iced"
+      "pop-os/iced",
+      "pop-os/cosmic-icons"
     ]
 
     git_repos_chromium_googlesource = [
