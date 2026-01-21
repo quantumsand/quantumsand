@@ -3345,7 +3345,8 @@ class QuantumsandLive
       "redox-os/keyboard-sfx",
       "redox-os/kprofiling",
       "redox-os/libc-artifacts",
-      "redox-os/libcosmic"
+      "redox-os/libcosmic",
+      "redox-os/libc-test"
     ]
 
     git_repos_freebsd_org = [
