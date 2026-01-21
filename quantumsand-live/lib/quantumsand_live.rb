@@ -2761,7 +2761,8 @@ class QuantumsandLive
       "azahar-emu/ext-library-headers",
       "bylaws/libadrenotools",
       "merryhime/oaknut",
-      "azahar-emu/compatibility-list"
+      "azahar-emu/compatibility-list",
+      "Cyan4973/xxHash"
     ]
 
     git_repos_chromium_googlesource = [
