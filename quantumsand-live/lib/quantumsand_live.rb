@@ -2757,7 +2757,8 @@ class QuantumsandLive
       "septag/dds-ktx",
       "azahar-emu/sirit",
       "knik0/faad2",
-      "mstorsjo/fdk-aac"
+      "mstorsjo/fdk-aac",
+      "azahar-emu/ext-library-headers"
     ]
 
     git_repos_chromium_googlesource = [
