@@ -3604,6 +3604,10 @@ class QuantumsandLive
       "bzr"
     ]
 
+    gentoo_emerge_packages_oneshot = [
+      "net-misc/rsync"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
