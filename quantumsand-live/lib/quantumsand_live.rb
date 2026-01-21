@@ -2874,7 +2874,8 @@ class QuantumsandLive
       "network/ofono/ofono",
       "network/connman/pacrunner",
       "utils/pciutils/pciutils",
-      "linux/kernel/git/firmware/linux-firmware"
+      "linux/kernel/git/firmware/linux-firmware",
+      "linux/kernel/git/jberg/rfkill"
     ]
 
     git_repos_isc_org_gitlab = [
