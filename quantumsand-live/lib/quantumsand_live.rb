@@ -3334,7 +3334,8 @@ class QuantumsandLive
       "redox-os/ion-vim",
       "redox-os/iovec",
       "redox-os/isolinux",
-      "redox-os/jobserver-rs"
+      "redox-os/jobserver-rs",
+      "redox-os/jpeg-decoder"
     ]
 
     git_repos_freebsd_org = [
