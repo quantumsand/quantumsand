@@ -3329,7 +3329,8 @@ class QuantumsandLive
       "redox-os/installer-gui",
       "redox-os/intelflash",
       "redox-os/ion",
-      "redox-os/ion_lsp"
+      "redox-os/ion_lsp",
+      "redox-os/ion-plugins"
     ]
 
     git_repos_freebsd_org = [
