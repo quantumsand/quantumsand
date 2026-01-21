@@ -2762,7 +2762,8 @@ class QuantumsandLive
       "bylaws/libadrenotools",
       "merryhime/oaknut",
       "azahar-emu/compatibility-list",
-      "Cyan4973/xxHash"
+      "Cyan4973/xxHash",
+      "pop-os/libcosmic"
     ]
 
     git_repos_chromium_googlesource = [
