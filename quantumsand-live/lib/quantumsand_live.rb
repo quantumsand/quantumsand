@@ -3339,7 +3339,8 @@ class QuantumsandLive
       "redox-os/kernel",
       "redox-os/rmm",
       "redox-os/redox-path",
-      "redox-os/keyboard-sfx"
+      "redox-os/keyboard-sfx",
+      "redox-os/kprofiling"
     ]
 
     git_repos_freebsd_org = [
