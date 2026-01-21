@@ -3332,7 +3332,8 @@ class QuantumsandLive
       "redox-os/ion_lsp",
       "redox-os/ion-plugins",
       "redox-os/ion-vim",
-      "redox-os/iovec"
+      "redox-os/iovec",
+      "redox-os/isolinux"
     ]
 
     git_repos_freebsd_org = [
