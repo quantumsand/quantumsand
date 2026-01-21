@@ -3337,7 +3337,8 @@ class QuantumsandLive
       "redox-os/jobserver-rs",
       "redox-os/jpeg-decoder",
       "redox-os/kernel",
-      "redox-os/rmm"
+      "redox-os/rmm",
+      "redox-os/redox-path"
     ]
 
     git_repos_freebsd_org = [
