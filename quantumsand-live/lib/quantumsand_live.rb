@@ -2766,7 +2766,8 @@ class QuantumsandLive
       "pop-os/libcosmic",
       "pop-os/iced",
       "pop-os/cosmic-icons",
-      "sailfishos-mirror/Recode"
+      "sailfishos-mirror/Recode",
+      "sailfishos/RemoteDisplay"
     ]
 
     git_repos_chromium_googlesource = [
