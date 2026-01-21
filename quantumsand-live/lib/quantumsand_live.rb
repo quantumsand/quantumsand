@@ -2760,7 +2760,8 @@ class QuantumsandLive
       "mstorsjo/fdk-aac",
       "azahar-emu/ext-library-headers",
       "bylaws/libadrenotools",
-      "merryhime/oaknut"
+      "merryhime/oaknut",
+      "azahar-emu/compatibility-list"
     ]
 
     git_repos_chromium_googlesource = [
