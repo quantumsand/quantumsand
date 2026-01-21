@@ -2763,7 +2763,8 @@ class QuantumsandLive
       "merryhime/oaknut",
       "azahar-emu/compatibility-list",
       "Cyan4973/xxHash",
-      "pop-os/libcosmic"
+      "pop-os/libcosmic",
+      "pop-os/iced"
     ]
 
     git_repos_chromium_googlesource = [
