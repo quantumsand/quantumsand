@@ -2768,7 +2768,8 @@ class QuantumsandLive
       "pop-os/cosmic-icons",
       "sailfishos-mirror/Recode",
       "sailfishos/RemoteDisplay",
-      "RsyncProject/rsync"
+      "RsyncProject/rsync",
+      "ruby/ruby"
     ]
 
     git_repos_chromium_googlesource = [
