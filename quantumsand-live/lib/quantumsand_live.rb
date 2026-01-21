@@ -2927,7 +2927,8 @@ class QuantumsandLive
       "patch",
       "lilypond",
       "lwip",
-      "config"
+      "config",
+      "readline"
     ]
 
     git_repos_savannah_nongnu_org = [
