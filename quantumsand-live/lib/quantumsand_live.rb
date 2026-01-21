@@ -2755,7 +2755,8 @@ class QuantumsandLive
       "abdes/cryptopp-cmake",
       "weidai11/cryptopp",
       "septag/dds-ktx",
-      "azahar-emu/sirit"
+      "azahar-emu/sirit",
+      "knik0/faad2"
     ]
 
     git_repos_chromium_googlesource = [
