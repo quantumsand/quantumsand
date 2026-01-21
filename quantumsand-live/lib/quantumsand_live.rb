@@ -2756,7 +2756,8 @@ class QuantumsandLive
       "weidai11/cryptopp",
       "septag/dds-ktx",
       "azahar-emu/sirit",
-      "knik0/faad2"
+      "knik0/faad2",
+      "mstorsjo/fdk-aac"
     ]
 
     git_repos_chromium_googlesource = [
