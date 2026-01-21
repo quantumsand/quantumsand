@@ -2750,7 +2750,8 @@ class QuantumsandLive
       "azahar-emu/discord-rpc",
       "arun11299/cpp-jwt",
       "wwylele/teakra",
-      "lvandeve/lodepng"
+      "lvandeve/lodepng",
+      "lemenkov/libyuv"
     ]
 
     git_repos_chromium_googlesource = [
