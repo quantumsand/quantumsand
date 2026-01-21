@@ -2759,7 +2759,8 @@ class QuantumsandLive
       "knik0/faad2",
       "mstorsjo/fdk-aac",
       "azahar-emu/ext-library-headers",
-      "bylaws/libadrenotools"
+      "bylaws/libadrenotools",
+      "merryhime/oaknut"
     ]
 
     git_repos_chromium_googlesource = [
