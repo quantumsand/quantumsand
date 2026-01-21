@@ -2749,7 +2749,8 @@ class QuantumsandLive
       "mozilla/cubeb-pulse-rs",
       "azahar-emu/discord-rpc",
       "arun11299/cpp-jwt",
-      "wwylele/teakra"
+      "wwylele/teakra",
+      "lvandeve/lodepng"
     ]
 
     git_repos_chromium_googlesource = [
