@@ -2753,7 +2753,8 @@ class QuantumsandLive
       "lvandeve/lodepng",
       "lemenkov/libyuv",
       "abdes/cryptopp-cmake",
-      "weidai11/cryptopp"
+      "weidai11/cryptopp",
+      "septag/dds-ktx"
     ]
 
     git_repos_chromium_googlesource = [
