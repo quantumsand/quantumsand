@@ -3348,7 +3348,8 @@ class QuantumsandLive
       "redox-os/libcosmic",
       "redox-os/libc-test",
       "redox-os/libextra",
-      "redox-os/libgit2"
+      "redox-os/libgit2",
+      "redox-os/liblibc"
     ]
 
     git_repos_freebsd_org = [
