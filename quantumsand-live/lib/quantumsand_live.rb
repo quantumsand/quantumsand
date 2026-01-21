@@ -3338,7 +3338,8 @@ class QuantumsandLive
       "redox-os/jpeg-decoder",
       "redox-os/kernel",
       "redox-os/rmm",
-      "redox-os/redox-path"
+      "redox-os/redox-path",
+      "redox-os/keyboard-sfx"
     ]
 
     git_repos_freebsd_org = [
