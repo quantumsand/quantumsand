@@ -3327,7 +3327,8 @@ class QuantumsandLive
       "redox-os/icons",
       "redox-os/installer",
       "redox-os/installer-gui",
-      "redox-os/intelflash"
+      "redox-os/intelflash",
+      "redox-os/ion"
     ]
 
     git_repos_freebsd_org = [
