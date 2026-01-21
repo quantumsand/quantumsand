@@ -2748,7 +2748,8 @@ class QuantumsandLive
       "mozilla/cubeb-coreaudio-rs",
       "mozilla/cubeb-pulse-rs",
       "azahar-emu/discord-rpc",
-      "arun11299/cpp-jwt"
+      "arun11299/cpp-jwt",
+      "wwylele/teakra"
     ]
 
     git_repos_chromium_googlesource = [
