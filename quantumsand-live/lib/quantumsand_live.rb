@@ -2754,7 +2754,8 @@ class QuantumsandLive
       "lemenkov/libyuv",
       "abdes/cryptopp-cmake",
       "weidai11/cryptopp",
-      "septag/dds-ktx"
+      "septag/dds-ktx",
+      "azahar-emu/sirit"
     ]
 
     git_repos_chromium_googlesource = [
