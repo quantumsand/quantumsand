@@ -3360,7 +3360,8 @@ class QuantumsandLive
       "redox-os/libgit2",
       "redox-os/liblibc",
       "redox-os/liborbital",
-      "redox-os/orbclient"
+      "redox-os/orbclient",
+      "redox-os/libpager"
     ]
 
     git_repos_freebsd_org = [
