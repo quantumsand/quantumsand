@@ -3371,7 +3371,8 @@ class QuantumsandLive
       "redox-os/llvm",
       "redox-os/llvm-project",
       "redox-os/lz4",
-      "redox-os/mdBook"
+      "redox-os/mdBook",
+      "redox-os/memmap-rs"
     ]
 
     git_repos_freebsd_org = [
