@@ -2779,7 +2779,8 @@ class QuantumsandLive
       "littlefs-project/littlefs",
       "eProsima/Micro-XRCE-DDS-Client",
       "ArduPilot/OctomapPlanner",
-      "ArduPilot/redtail"
+      "ArduPilot/redtail",
+      "NVIDIA-AI-IOT/redtail"
     ]
 
     git_repos_chromium_googlesource = [
