@@ -2784,7 +2784,8 @@ class QuantumsandLive
       "mtbsteve/redtail",
       "ArduPilot/terraingen",
       "ros2/ament_cmake_ros",
-      "ros2/apex_rostest"
+      "ros2/apex_rostest",
+      "ros2/buildfarm_perf_tests"
     ]
 
     git_repos_chromium_googlesource = [
