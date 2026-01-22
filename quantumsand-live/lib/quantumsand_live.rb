@@ -2785,7 +2785,8 @@ class QuantumsandLive
       "ArduPilot/terraingen",
       "ros2/ament_cmake_ros",
       "ros2/apex_rostest",
-      "ros2/buildfarm_perf_tests"
+      "ros2/buildfarm_perf_tests",
+      "ros2/cartographer"
     ]
 
     git_repos_chromium_googlesource = [
