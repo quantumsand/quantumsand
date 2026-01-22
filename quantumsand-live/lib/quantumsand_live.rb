@@ -2774,7 +2774,8 @@ class QuantumsandLive
       "miroslavpejic85/mirotalk",
       "mozilla/angle",
       "meta-pytorch/MSLK",
-      "ArduPilot/littlefs"
+      "ArduPilot/littlefs",
+      "trussed-dev/littlefs2"
     ]
 
     git_repos_chromium_googlesource = [
