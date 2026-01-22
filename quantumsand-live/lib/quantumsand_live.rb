@@ -2781,7 +2781,8 @@ class QuantumsandLive
       "ArduPilot/OctomapPlanner",
       "ArduPilot/redtail",
       "NVIDIA-AI-IOT/redtail",
-      "mtbsteve/redtail"
+      "mtbsteve/redtail",
+      "ArduPilot/terraingen"
     ]
 
     git_repos_chromium_googlesource = [
