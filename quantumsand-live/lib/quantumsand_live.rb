@@ -2771,7 +2771,8 @@ class QuantumsandLive
       "RsyncProject/rsync",
       "ruby/ruby",
       "lily-x/PAWS-public",
-      "miroslavpejic85/mirotalk"
+      "miroslavpejic85/mirotalk",
+      "mozilla/angle"
     ]
 
     git_repos_chromium_googlesource = [
