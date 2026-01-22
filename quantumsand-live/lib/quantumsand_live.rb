@@ -3369,7 +3369,8 @@ class QuantumsandLive
       "redox-os/liner",
       "redox-os/linked-list-allocator",
       "redox-os/llvm",
-      "redox-os/llvm-project"
+      "redox-os/llvm-project",
+      "redox-os/lz4"
     ]
 
     git_repos_freebsd_org = [
