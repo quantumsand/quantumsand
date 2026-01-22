@@ -3380,7 +3380,8 @@ class QuantumsandLive
       "redox-os/mio",
       "redox-os/mio-uds",
       "redox-os/miow",
-      "redox-os/mozangle"
+      "redox-os/mozangle",
+      "redox-os/net2-rs"
     ]
 
     git_repos_freebsd_org = [
