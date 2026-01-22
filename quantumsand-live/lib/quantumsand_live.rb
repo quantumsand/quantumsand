@@ -2790,7 +2790,8 @@ class QuantumsandLive
       "cartographer-project/cartographer",
       "ros2/cartographer_ros",
       "cartographer-project/cartographer_ros",
-      "ceres-solver/ceres-solver"
+      "ceres-solver/ceres-solver",
+      "abseil/abseil-cpp"
     ]
 
     git_repos_chromium_googlesource = [
