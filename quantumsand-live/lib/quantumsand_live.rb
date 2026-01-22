@@ -2955,7 +2955,8 @@ class QuantumsandLive
 
     git_repos_git_sr_ht = [
       "~sircmpwn/scdoc",
-      "~mulling/zssh"
+      "~mulling/zssh",
+      "~kerrick/ratatui_ruby"
     ]
 
     git_repos_review_haiku_os_org = [
