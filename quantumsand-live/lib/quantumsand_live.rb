@@ -2789,7 +2789,8 @@ class QuantumsandLive
       "ros2/cartographer",
       "cartographer-project/cartographer",
       "ros2/cartographer_ros",
-      "cartographer-project/cartographer_ros"
+      "cartographer-project/cartographer_ros",
+      "ceres-solver/ceres-solver"
     ]
 
     git_repos_chromium_googlesource = [
