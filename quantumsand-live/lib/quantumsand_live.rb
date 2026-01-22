@@ -3375,7 +3375,8 @@ class QuantumsandLive
       "redox-os/memmap-rs",
       "redox-os/mesa",
       "redox-os/miniserve",
-      "redox-os/mio"
+      "redox-os/mio",
+      "redox-os/mio-uds"
     ]
 
     git_repos_freebsd_org = [
