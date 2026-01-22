@@ -2781,7 +2781,8 @@ class QuantumsandLive
       "chromium/tools/chromium-build",
       "webm/libwebp",
       "webm/libvpx",
-      "aosp/platform/external/uwb"
+      "aosp/platform/external/uwb",
+      "angle/angle"
     ]
 
     git_repos_gn_googlesource = [
