@@ -3366,7 +3366,8 @@ class QuantumsandLive
       "redox-os/libtest",
       "redox-os/libtool",
       "redox-os/light-bytemuck-derive",
-      "redox-os/liner"
+      "redox-os/liner",
+      "redox-os/linked-list-allocator"
     ]
 
     git_repos_freebsd_org = [
