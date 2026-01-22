@@ -2773,7 +2773,8 @@ class QuantumsandLive
       "lily-x/PAWS-public",
       "miroslavpejic85/mirotalk",
       "mozilla/angle",
-      "meta-pytorch/MSLK"
+      "meta-pytorch/MSLK",
+      "ArduPilot/littlefs"
     ]
 
     git_repos_chromium_googlesource = [
