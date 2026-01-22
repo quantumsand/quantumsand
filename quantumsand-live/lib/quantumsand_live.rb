@@ -2788,7 +2788,8 @@ class QuantumsandLive
       "ros2/buildfarm_perf_tests",
       "ros2/cartographer",
       "cartographer-project/cartographer",
-      "ros2/cartographer_ros"
+      "ros2/cartographer_ros",
+      "cartographer-project/cartographer_ros"
     ]
 
     git_repos_chromium_googlesource = [
