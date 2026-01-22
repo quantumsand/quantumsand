@@ -2769,7 +2769,8 @@ class QuantumsandLive
       "sailfishos-mirror/Recode",
       "sailfishos/RemoteDisplay",
       "RsyncProject/rsync",
-      "ruby/ruby"
+      "ruby/ruby",
+      "lily-x/PAWS-public"
     ]
 
     git_repos_chromium_googlesource = [
