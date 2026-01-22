@@ -2783,7 +2783,8 @@ class QuantumsandLive
       "NVIDIA-AI-IOT/redtail",
       "mtbsteve/redtail",
       "ArduPilot/terraingen",
-      "ros2/ament_cmake_ros"
+      "ros2/ament_cmake_ros",
+      "ros2/apex_rostest"
     ]
 
     git_repos_chromium_googlesource = [
