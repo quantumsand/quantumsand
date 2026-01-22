@@ -2776,7 +2776,8 @@ class QuantumsandLive
       "meta-pytorch/MSLK",
       "ArduPilot/littlefs",
       "trussed-dev/littlefs2",
-      "littlefs-project/littlefs"
+      "littlefs-project/littlefs",
+      "eProsima/Micro-XRCE-DDS-Client"
     ]
 
     git_repos_chromium_googlesource = [
