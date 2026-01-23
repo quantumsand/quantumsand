@@ -3100,7 +3100,8 @@ class QuantumsandLive
       "libvirt/test",
       "tslocum/harmony",
       "depesz/pg_csv_loader",
-      "graphviz/graphviz"
+      "graphviz/graphviz",
+      "sortix/os-test"
     ]
 
     git_repos_freedesktop_gitlab = [
