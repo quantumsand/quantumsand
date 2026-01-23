@@ -2792,7 +2792,8 @@ class QuantumsandLive
       "cartographer-project/cartographer_ros",
       "ceres-solver/ceres-solver",
       "abseil/abseil-cpp",
-      "ros2/common_interfaces"
+      "ros2/common_interfaces",
+      "NVIDIA/VisRTX"
     ]
 
     git_repos_chromium_googlesource = [
