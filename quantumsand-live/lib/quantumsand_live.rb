@@ -3412,7 +3412,8 @@ class QuantumsandLive
       "redox-os/netsurf",
       "redox-os/netutils",
       "redox-os/openlibm",
-      "redox-os/openposixtestsuite"
+      "redox-os/openposixtestsuite",
+      "redox-os/openssl"
     ]
 
     git_repos_freebsd_org = [
