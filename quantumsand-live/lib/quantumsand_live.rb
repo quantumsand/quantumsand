@@ -2810,7 +2810,8 @@ class QuantumsandLive
       "rusterlium/rebar3_cargo",
       "rusterlium/erlang-cargo",
       "rusterlium/juicy",
-      "rusterlium/html5ever_elixir"
+      "rusterlium/html5ever_elixir",
+      "servo/stylo"
     ]
 
     git_repos_chromium_googlesource = [
