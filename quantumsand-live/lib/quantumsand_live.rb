@@ -3408,7 +3408,8 @@ class QuantumsandLive
       "redox-os/mozangle",
       "redox-os/net2-rs",
       "redox-os/netdb",
-      "redox-os/netsurf"
+      "redox-os/netsurf",
+      "redox-os/netutils"
     ]
 
     git_repos_freebsd_org = [
