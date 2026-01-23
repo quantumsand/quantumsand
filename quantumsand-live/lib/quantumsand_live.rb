@@ -2802,7 +2802,8 @@ class QuantumsandLive
       "rusterlium/rustler",
       "html5lib/html5lib-tests",
       "Ygg01/xml5lib-tests",
-      "servo/html5ever"
+      "servo/html5ever",
+      "servo/webrender"
     ]
 
     git_repos_chromium_googlesource = [
