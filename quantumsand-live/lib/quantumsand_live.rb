@@ -2800,7 +2800,8 @@ class QuantumsandLive
       "GPUOpen-LibrariesAndSDKs/RadeonProRenderANARI",
       "JuliaLang/julia",
       "rusterlium/rustler",
-      "html5lib/html5lib-tests"
+      "html5lib/html5lib-tests",
+      "Ygg01/xml5lib-tests"
     ]
 
     git_repos_chromium_googlesource = [
