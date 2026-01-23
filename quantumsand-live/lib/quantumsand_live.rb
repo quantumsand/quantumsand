@@ -2798,7 +2798,8 @@ class QuantumsandLive
       "KhronosGroup/ANARI-SDK",
       "ospray/anari-ospray",
       "GPUOpen-LibrariesAndSDKs/RadeonProRenderANARI",
-      "JuliaLang/julia"
+      "JuliaLang/julia",
+      "rusterlium/rustler"
     ]
 
     git_repos_chromium_googlesource = [
