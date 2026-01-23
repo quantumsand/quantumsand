@@ -2817,7 +2817,8 @@ class QuantumsandLive
       "ros2/cookbook",
       "pjreddie/darknet",
       "ros2/darknet_vendor",
-      "ros2/demos"
+      "ros2/demos",
+      "tr1xem/alienfx-linux"
     ]
 
     git_repos_chromium_googlesource = [
