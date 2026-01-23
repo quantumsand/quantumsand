@@ -2796,7 +2796,8 @@ class QuantumsandLive
       "NVIDIA/VisRTX",
       "RenderKit/ospray",
       "KhronosGroup/ANARI-SDK",
-      "ospray/anari-ospray"
+      "ospray/anari-ospray",
+      "GPUOpen-LibrariesAndSDKs/RadeonProRenderANARI"
     ]
 
     git_repos_chromium_googlesource = [
