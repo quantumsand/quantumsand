@@ -2806,7 +2806,8 @@ class QuantumsandLive
       "servo/webrender",
       "geolessel/react-phoenix",
       "fidr/phoenix_live_react",
-      "rusterlium/NifIo"
+      "rusterlium/NifIo",
+      "rusterlium/rebar3_cargo"
     ]
 
     git_repos_chromium_googlesource = [
