@@ -3418,7 +3418,8 @@ class QuantumsandLive
       "redox-os/openttd-openmsx",
       "redox-os/openttd-opensfx",
       "redox-os/orbaudio",
-      "redox-os/orbcalculator"
+      "redox-os/orbcalculator",
+      "redox-os/orbdata"
     ]
 
     git_repos_freebsd_org = [
