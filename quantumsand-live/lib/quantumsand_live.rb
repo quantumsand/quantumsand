@@ -3424,7 +3424,8 @@ class QuantumsandLive
       "redox-os/orbimage",
       "redox-os/orbital",
       "redox-os/orbutils",
-      "redox-os/osmesa-rs"
+      "redox-os/osmesa-rs",
+      "redox-os/os-test-relibc"
     ]
 
     git_repos_freebsd_org = [
