@@ -2794,7 +2794,8 @@ class QuantumsandLive
       "abseil/abseil-cpp",
       "ros2/common_interfaces",
       "NVIDIA/VisRTX",
-      "RenderKit/ospray"
+      "RenderKit/ospray",
+      "KhronosGroup/ANARI-SDK"
     ]
 
     git_repos_chromium_googlesource = [
