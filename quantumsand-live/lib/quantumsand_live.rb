@@ -3554,7 +3554,8 @@ class QuantumsandLive
       "multimedia/kdenlive",
       "network/ktorrent",
       "network/libktorrent",
-      "graphics/drawy"
+      "graphics/drawy",
+      "graphics/okular"
     ]
 
     git_repos_ffmpeg_org = [
