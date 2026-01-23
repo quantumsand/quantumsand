@@ -2799,7 +2799,8 @@ class QuantumsandLive
       "ospray/anari-ospray",
       "GPUOpen-LibrariesAndSDKs/RadeonProRenderANARI",
       "JuliaLang/julia",
-      "rusterlium/rustler"
+      "rusterlium/rustler",
+      "html5lib/html5lib-tests"
     ]
 
     git_repos_chromium_googlesource = [
