@@ -3416,7 +3416,8 @@ class QuantumsandLive
       "redox-os/openssl",
       "redox-os/openttd-opengfx",
       "redox-os/openttd-openmsx",
-      "redox-os/openttd-opensfx"
+      "redox-os/openttd-opensfx",
+      "redox-os/orbaudio"
     ]
 
     git_repos_freebsd_org = [
