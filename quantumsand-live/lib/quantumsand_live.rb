@@ -3410,7 +3410,8 @@ class QuantumsandLive
       "redox-os/net2-rs",
       "redox-os/netdb",
       "redox-os/netsurf",
-      "redox-os/netutils"
+      "redox-os/netutils",
+      "redox-os/openlibm"
     ]
 
     git_repos_freebsd_org = [
