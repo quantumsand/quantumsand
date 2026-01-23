@@ -2795,7 +2795,8 @@ class QuantumsandLive
       "ros2/common_interfaces",
       "NVIDIA/VisRTX",
       "RenderKit/ospray",
-      "KhronosGroup/ANARI-SDK"
+      "KhronosGroup/ANARI-SDK",
+      "ospray/anari-ospray"
     ]
 
     git_repos_chromium_googlesource = [
