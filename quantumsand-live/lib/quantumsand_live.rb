@@ -2814,7 +2814,8 @@ class QuantumsandLive
       "servo/stylo",
       "servo/rust-cssparser",
       "servo/ipc-channel",
-      "ros2/cookbook"
+      "ros2/cookbook",
+      "pjreddie/darknet"
     ]
 
     git_repos_chromium_googlesource = [
