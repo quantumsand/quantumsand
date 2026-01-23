@@ -2816,7 +2816,8 @@ class QuantumsandLive
       "servo/ipc-channel",
       "ros2/cookbook",
       "pjreddie/darknet",
-      "ros2/darknet_vendor"
+      "ros2/darknet_vendor",
+      "ros2/demos"
     ]
 
     git_repos_chromium_googlesource = [
