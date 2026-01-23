@@ -2808,7 +2808,8 @@ class QuantumsandLive
       "fidr/phoenix_live_react",
       "rusterlium/NifIo",
       "rusterlium/rebar3_cargo",
-      "rusterlium/erlang-cargo"
+      "rusterlium/erlang-cargo",
+      "rusterlium/juicy"
     ]
 
     git_repos_chromium_googlesource = [
