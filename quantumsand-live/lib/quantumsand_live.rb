@@ -3420,7 +3420,8 @@ class QuantumsandLive
       "redox-os/orbaudio",
       "redox-os/orbcalculator",
       "redox-os/orbdata",
-      "redox-os/orbfont"
+      "redox-os/orbfont",
+      "redox-os/orbimage"
     ]
 
     git_repos_freebsd_org = [
