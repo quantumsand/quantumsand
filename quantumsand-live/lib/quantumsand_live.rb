@@ -2793,7 +2793,8 @@ class QuantumsandLive
       "ceres-solver/ceres-solver",
       "abseil/abseil-cpp",
       "ros2/common_interfaces",
-      "NVIDIA/VisRTX"
+      "NVIDIA/VisRTX",
+      "RenderKit/ospray"
     ]
 
     git_repos_chromium_googlesource = [
