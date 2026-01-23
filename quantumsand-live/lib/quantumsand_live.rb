@@ -2812,7 +2812,8 @@ class QuantumsandLive
       "rusterlium/juicy",
       "rusterlium/html5ever_elixir",
       "servo/stylo",
-      "servo/rust-cssparser"
+      "servo/rust-cssparser",
+      "servo/ipc-channel"
     ]
 
     git_repos_chromium_googlesource = [
