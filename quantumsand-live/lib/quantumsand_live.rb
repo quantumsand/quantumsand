@@ -3422,7 +3422,8 @@ class QuantumsandLive
       "redox-os/orbdata",
       "redox-os/orbfont",
       "redox-os/orbimage",
-      "redox-os/orbital"
+      "redox-os/orbital",
+      "redox-os/orbutils"
     ]
 
     git_repos_freebsd_org = [
