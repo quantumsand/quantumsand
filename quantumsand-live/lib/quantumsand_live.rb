@@ -3121,7 +3121,8 @@ class QuantumsandLive
       "tslocum/harmony",
       "depesz/pg_csv_loader",
       "graphviz/graphviz",
-      "sortix/os-test"
+      "sortix/os-test",
+      "AOMediaCodec/SVT-AV1"
     ]
 
     git_repos_freedesktop_gitlab = [
