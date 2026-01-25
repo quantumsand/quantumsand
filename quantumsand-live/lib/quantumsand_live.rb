@@ -3122,7 +3122,8 @@ class QuantumsandLive
       "depesz/pg_csv_loader",
       "graphviz/graphviz",
       "sortix/os-test",
-      "AOMediaCodec/SVT-AV1"
+      "AOMediaCodec/SVT-AV1",
+      "AOMediaCodec/argon-streams"
     ]
 
     git_repos_freedesktop_gitlab = [
