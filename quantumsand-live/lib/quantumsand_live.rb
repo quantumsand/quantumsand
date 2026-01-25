@@ -3124,7 +3124,8 @@ class QuantumsandLive
       "sortix/os-test",
       "AOMediaCodec/SVT-AV1",
       "AOMediaCodec/argon-streams",
-      "AOMediaCodec/avm"
+      "AOMediaCodec/avm",
+      "AOMediaCodec/aom-testing"
     ]
 
     git_repos_freedesktop_gitlab = [
