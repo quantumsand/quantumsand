@@ -3123,7 +3123,8 @@ class QuantumsandLive
       "graphviz/graphviz",
       "sortix/os-test",
       "AOMediaCodec/SVT-AV1",
-      "AOMediaCodec/argon-streams"
+      "AOMediaCodec/argon-streams",
+      "AOMediaCodec/avm"
     ]
 
     git_repos_freedesktop_gitlab = [
