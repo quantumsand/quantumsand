@@ -3476,7 +3476,8 @@ class QuantumsandLive
       "redox-os/posix-regex",
       "redox-os/profiled",
       "redox-os/pthreads-emb",
-      "redox-os/range-tree"
+      "redox-os/range-tree",
+      "redox-os/ransid"
     ]
 
     git_repos_freebsd_org = [
