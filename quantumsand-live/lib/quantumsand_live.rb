@@ -3457,7 +3457,8 @@ class QuantumsandLive
       "redox-os/partitionlib",
       "redox-os/drivers",
       "redox-os/pastel",
-      "redox-os/pathfinder"
+      "redox-os/pathfinder",
+      "redox-os/pb"
     ]
 
     git_repos_freebsd_org = [
