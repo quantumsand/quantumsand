@@ -3454,7 +3454,8 @@ class QuantumsandLive
       "redox-os/os-test-relibc",
       "redox-os/relibc",
       "redox-os/partitionlib",
-      "redox-os/drivers"
+      "redox-os/drivers",
+      "redox-os/pastel"
     ]
 
     git_repos_freebsd_org = [
