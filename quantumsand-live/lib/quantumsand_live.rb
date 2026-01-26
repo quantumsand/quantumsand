@@ -3472,7 +3472,8 @@ class QuantumsandLive
       "redox-os/pkgar",
       "redox-os/pkgutils",
       "redox-os/platform-info",
-      "redox-os/playbot"
+      "redox-os/playbot",
+      "redox-os/posix-regex"
     ]
 
     git_repos_freebsd_org = [
