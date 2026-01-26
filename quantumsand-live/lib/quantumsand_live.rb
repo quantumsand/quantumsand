@@ -3479,7 +3479,8 @@ class QuantumsandLive
       "redox-os/range-tree",
       "redox-os/ransid",
       "redox-os/reagent",
-      "redox-os/redos"
+      "redox-os/redos",
+      "redox-os/rust"
     ]
 
     git_repos_freebsd_org = [
