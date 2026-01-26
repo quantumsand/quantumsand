@@ -3471,7 +3471,8 @@ class QuantumsandLive
       "redox-os/piston-glutin-window",
       "redox-os/pkgar",
       "redox-os/pkgutils",
-      "redox-os/platform-info"
+      "redox-os/platform-info",
+      "redox-os/playbot"
     ]
 
     git_repos_freebsd_org = [
