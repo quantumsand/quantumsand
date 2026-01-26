@@ -2825,7 +2825,8 @@ class QuantumsandLive
       "uutils/platform-info",
       "uutils/findutils",
       "tavianator/bfs",
-      "uutils/diffutils"
+      "uutils/diffutils",
+      "uutils/util-linux"
     ]
 
     git_repos_chromium_googlesource = [
