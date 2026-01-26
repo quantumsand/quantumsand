@@ -2836,7 +2836,8 @@ class QuantumsandLive
       "ros-perception/pointcloud_to_laserscan",
       "ros-perception/perception_pcl",
       "ros2/design",
-      "ros2/detection_visualizer"
+      "ros2/detection_visualizer",
+      "ros2/domain_bridge"
     ]
 
     git_repos_chromium_googlesource = [
