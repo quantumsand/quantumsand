@@ -3474,7 +3474,8 @@ class QuantumsandLive
       "redox-os/platform-info",
       "redox-os/playbot",
       "redox-os/posix-regex",
-      "redox-os/profiled"
+      "redox-os/profiled",
+      "redox-os/pthreads-emb"
     ]
 
     git_repos_freebsd_org = [
