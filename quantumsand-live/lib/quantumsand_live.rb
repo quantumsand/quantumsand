@@ -2841,7 +2841,8 @@ class QuantumsandLive
       "colcon/colcon-core",
       "ros2/eigen3_cmake_module",
       "ros2/examples",
-      "ros2/example_interfaces"
+      "ros2/example_interfaces",
+      "ros2/freertps"
     ]
 
     git_repos_chromium_googlesource = [
