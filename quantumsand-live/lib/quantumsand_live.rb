@@ -2827,7 +2827,8 @@ class QuantumsandLive
       "tavianator/bfs",
       "uutils/diffutils",
       "uutils/util-linux",
-      "uutils/procps"
+      "uutils/procps",
+      "Ticki/mars"
     ]
 
     git_repos_chromium_googlesource = [
