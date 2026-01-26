@@ -2818,7 +2818,8 @@ class QuantumsandLive
       "pjreddie/darknet",
       "ros2/darknet_vendor",
       "ros2/demos",
-      "tr1xem/alienfx-linux"
+      "tr1xem/alienfx-linux",
+      "GraphiteEditor/Graphite"
     ]
 
     git_repos_chromium_googlesource = [
@@ -3997,7 +3998,6 @@ class QuantumsandLive
     # TODO: jketterl/openwebrx
     # TODO: Automattic/harper; English grammar checker
     # TODO: sonic-pi-net/sonic-pi
-    # TODO: GraphiteEditor/Graphite
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
     # TODO: digiKam
