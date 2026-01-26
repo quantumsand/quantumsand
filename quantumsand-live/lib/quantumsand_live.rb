@@ -3462,7 +3462,8 @@ class QuantumsandLive
       "redox-os/pb",
       "redox-os/periodictable",
       "redox-os/piston-glutin-window",
-      "redox-os/pkgar"
+      "redox-os/pkgar",
+      "redox-os/pkgutils"
     ]
 
     git_repos_freebsd_org = [
