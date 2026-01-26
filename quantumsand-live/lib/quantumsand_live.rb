@@ -2837,7 +2837,8 @@ class QuantumsandLive
       "ros-perception/perception_pcl",
       "ros2/design",
       "ros2/detection_visualizer",
-      "ros2/domain_bridge"
+      "ros2/domain_bridge",
+      "colcon/colcon-core"
     ]
 
     git_repos_chromium_googlesource = [
