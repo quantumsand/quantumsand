@@ -2822,7 +2822,8 @@ class QuantumsandLive
       "GraphiteEditor/Graphite",
       "servo/pathfinder",
       "a8m/pb",
-      "uutils/platform-info"
+      "uutils/platform-info",
+      "uutils/findutils"
     ]
 
     git_repos_chromium_googlesource = [
