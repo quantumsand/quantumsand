@@ -2819,7 +2819,8 @@ class QuantumsandLive
       "ros2/darknet_vendor",
       "ros2/demos",
       "tr1xem/alienfx-linux",
-      "GraphiteEditor/Graphite"
+      "GraphiteEditor/Graphite",
+      "servo/pathfinder"
     ]
 
     git_repos_chromium_googlesource = [
