@@ -2821,7 +2821,8 @@ class QuantumsandLive
       "tr1xem/alienfx-linux",
       "GraphiteEditor/Graphite",
       "servo/pathfinder",
-      "a8m/pb"
+      "a8m/pb",
+      "uutils/platform-info"
     ]
 
     git_repos_chromium_googlesource = [
