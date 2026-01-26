@@ -3478,7 +3478,8 @@ class QuantumsandLive
       "redox-os/pthreads-emb",
       "redox-os/range-tree",
       "redox-os/ransid",
-      "redox-os/reagent"
+      "redox-os/reagent",
+      "redox-os/redos"
     ]
 
     git_repos_freebsd_org = [
