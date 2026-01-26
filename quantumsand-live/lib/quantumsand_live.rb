@@ -2840,7 +2840,8 @@ class QuantumsandLive
       "ros2/domain_bridge",
       "colcon/colcon-core",
       "ros2/eigen3_cmake_module",
-      "ros2/examples"
+      "ros2/examples",
+      "ros2/example_interfaces"
     ]
 
     git_repos_chromium_googlesource = [
