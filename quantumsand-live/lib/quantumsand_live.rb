@@ -2823,7 +2823,8 @@ class QuantumsandLive
       "servo/pathfinder",
       "a8m/pb",
       "uutils/platform-info",
-      "uutils/findutils"
+      "uutils/findutils",
+      "tavianator/bfs"
     ]
 
     git_repos_chromium_googlesource = [
