@@ -2828,7 +2828,8 @@ class QuantumsandLive
       "uutils/diffutils",
       "uutils/util-linux",
       "uutils/procps",
-      "Ticki/mars"
+      "Ticki/mars",
+      "ros-perception/depthimage_to_laserscan"
     ]
 
     git_repos_chromium_googlesource = [
