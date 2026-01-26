@@ -2833,7 +2833,8 @@ class QuantumsandLive
       "ros-perception/image_pipeline",
       "ros-perception/slam_gmapping",
       "ros-perception/vision_opencv",
-      "ros-perception/pointcloud_to_laserscan"
+      "ros-perception/pointcloud_to_laserscan",
+      "ros-perception/perception_pcl"
     ]
 
     git_repos_chromium_googlesource = [
