@@ -3481,7 +3481,8 @@ class QuantumsandLive
       "redox-os/reagent",
       "redox-os/redos",
       "redox-os/rust",
-      "redox-os/redox-buffer-pool"
+      "redox-os/redox-buffer-pool",
+      "redox-os/redoxer"
     ]
 
     git_repos_freebsd_org = [
