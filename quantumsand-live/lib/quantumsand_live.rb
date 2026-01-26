@@ -3480,7 +3480,8 @@ class QuantumsandLive
       "redox-os/ransid",
       "redox-os/reagent",
       "redox-os/redos",
-      "redox-os/rust"
+      "redox-os/rust",
+      "redox-os/redox-buffer-pool"
     ]
 
     git_repos_freebsd_org = [
