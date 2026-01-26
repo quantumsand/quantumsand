@@ -2831,7 +2831,8 @@ class QuantumsandLive
       "Ticki/mars",
       "ros-perception/depthimage_to_laserscan",
       "ros-perception/image_pipeline",
-      "ros-perception/slam_gmapping"
+      "ros-perception/slam_gmapping",
+      "ros-perception/vision_opencv"
     ]
 
     git_repos_chromium_googlesource = [
