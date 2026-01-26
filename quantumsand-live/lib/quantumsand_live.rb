@@ -2820,7 +2820,8 @@ class QuantumsandLive
       "ros2/demos",
       "tr1xem/alienfx-linux",
       "GraphiteEditor/Graphite",
-      "servo/pathfinder"
+      "servo/pathfinder",
+      "a8m/pb"
     ]
 
     git_repos_chromium_googlesource = [
