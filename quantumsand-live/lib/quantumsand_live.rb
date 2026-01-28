@@ -2851,7 +2851,8 @@ class QuantumsandLive
       "sfackler/rust-native-tls",
       "BurntSushi/ripgrep",
       "ros2/ifcfg_vendor",
-      "ros-drivers/joystick_drivers"
+      "ros-drivers/joystick_drivers",
+      "amyami187/effective_dimension"
     ]
 
     git_repos_chromium_googlesource = [
