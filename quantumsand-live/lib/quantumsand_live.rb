@@ -3511,7 +3511,8 @@ class QuantumsandLive
       "redox-os/redox-loader",
       "redox-os/redox-log",
       "redox-os/parallel",
-      "redox-os/redox-posix-tests"
+      "redox-os/redox-posix-tests",
+      "redox-os/redox-scheme"
     ]
 
     git_repos_freebsd_org = [
