@@ -2852,7 +2852,8 @@ class QuantumsandLive
       "BurntSushi/ripgrep",
       "ros2/ifcfg_vendor",
       "ros-drivers/joystick_drivers",
-      "amyami187/effective_dimension"
+      "amyami187/effective_dimension",
+      "amyami187/QiskitML"
     ]
 
     git_repos_chromium_googlesource = [
