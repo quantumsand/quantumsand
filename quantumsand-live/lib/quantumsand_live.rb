@@ -3311,7 +3311,8 @@ class QuantumsandLive
       "apps/xfce4-terminal",
       "apps/xfce4-volumed-pulse",
       "apps/xfdashboard",
-      "apps/xfmpc"
+      "apps/xfmpc",
+      "kelnos/xfwl4"
     ]
 
     git_repos_kitware_gitlab = [
