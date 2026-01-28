@@ -2849,7 +2849,8 @@ class QuantumsandLive
       "Rust-for-Linux/klint",
       "rust-openssl/rust-openssl",
       "sfackler/rust-native-tls",
-      "BurntSushi/ripgrep"
+      "BurntSushi/ripgrep",
+      "ros2/ifcfg_vendor"
     ]
 
     git_repos_chromium_googlesource = [
