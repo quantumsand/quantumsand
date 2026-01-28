@@ -2845,7 +2845,8 @@ class QuantumsandLive
       "ros2/freertps",
       "ros2/geometry2",
       "not-elm/bevy_cef",
-      "TigerVNC/tigervnc"
+      "TigerVNC/tigervnc",
+      "Rust-for-Linux/klint"
     ]
 
     git_repos_chromium_googlesource = [
