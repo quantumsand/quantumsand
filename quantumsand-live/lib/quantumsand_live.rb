@@ -3523,7 +3523,8 @@ class QuantumsandLive
       "redox-os/resolv-conf",
       "redox-os/rfcs",
       "redox-os/ring",
-      "redox-os/ring-buffers-WG"
+      "redox-os/ring-buffers-WG",
+      "redox-os/ripgrep"
     ]
 
     git_repos_freebsd_org = [
