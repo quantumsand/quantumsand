@@ -2844,7 +2844,8 @@ class QuantumsandLive
       "ros2/example_interfaces",
       "ros2/freertps",
       "ros2/geometry2",
-      "not-elm/bevy_cef"
+      "not-elm/bevy_cef",
+      "TigerVNC/tigervnc"
     ]
 
     git_repos_chromium_googlesource = [
