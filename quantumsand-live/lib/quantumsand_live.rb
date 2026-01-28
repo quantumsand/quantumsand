@@ -2850,7 +2850,8 @@ class QuantumsandLive
       "rust-openssl/rust-openssl",
       "sfackler/rust-native-tls",
       "BurntSushi/ripgrep",
-      "ros2/ifcfg_vendor"
+      "ros2/ifcfg_vendor",
+      "ros-drivers/joystick_drivers"
     ]
 
     git_repos_chromium_googlesource = [
