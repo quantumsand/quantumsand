@@ -2854,7 +2854,8 @@ class QuantumsandLive
       "ros-drivers/joystick_drivers",
       "amyami187/effective_dimension",
       "amyami187/QiskitML",
-      "dennybritz/nn-from-scratch"
+      "dennybritz/nn-from-scratch",
+      "ros/kdl_parser"
     ]
 
     git_repos_chromium_googlesource = [
