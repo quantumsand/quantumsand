@@ -3517,7 +3517,8 @@ class QuantumsandLive
       "redox-os/redox-scheme",
       "redox-os/redox-ssh",
       "redox-os/rehid",
-      "redox-os/reqwest"
+      "redox-os/reqwest",
+      "redox-os/resist"
     ]
 
     git_repos_freebsd_org = [
