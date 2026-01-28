@@ -2862,7 +2862,8 @@ class QuantumsandLive
       "ros2/message_filters",
       "ros2/rmw",
       "ros2/rmw_implementation",
-      "ros2/rosidl"
+      "ros2/rosidl",
+      "ros2/rosidl_typesupport"
     ]
 
     git_repos_chromium_googlesource = [
