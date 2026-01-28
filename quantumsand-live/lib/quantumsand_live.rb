@@ -3510,7 +3510,8 @@ class QuantumsandLive
       "redox-os/redox-keymap",
       "redox-os/redox-loader",
       "redox-os/redox-log",
-      "redox-os/parallel"
+      "redox-os/parallel",
+      "redox-os/redox-posix-tests"
     ]
 
     git_repos_freebsd_org = [
