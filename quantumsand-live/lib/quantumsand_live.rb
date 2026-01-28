@@ -3856,7 +3856,8 @@ class QuantumsandLive
       "net-misc/dhcpcd",
       "sci-geosciences/gpsd",
       "media-sound/jack2",
-      "dev-debug/dtrace"
+      "dev-debug/dtrace",
+      "dev-tcltk/expect"
     ]
 
     gentoo_eselect_repository_add = {
