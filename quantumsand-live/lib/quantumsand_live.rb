@@ -2847,7 +2847,8 @@ class QuantumsandLive
       "not-elm/bevy_cef",
       "TigerVNC/tigervnc",
       "Rust-for-Linux/klint",
-      "rust-openssl/rust-openssl"
+      "rust-openssl/rust-openssl",
+      "sfackler/rust-native-tls"
     ]
 
     git_repos_chromium_googlesource = [
