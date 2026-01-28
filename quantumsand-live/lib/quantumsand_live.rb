@@ -3507,7 +3507,8 @@ class QuantumsandLive
       "redox-os/redoxfs",
       "redox-os/redox-input",
       "redox-os/redox-iou",
-      "redox-os/redox-keymap"
+      "redox-os/redox-keymap",
+      "redox-os/redox-loader"
     ]
 
     git_repos_freebsd_org = [
