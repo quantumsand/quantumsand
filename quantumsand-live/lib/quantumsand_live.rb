@@ -2855,7 +2855,8 @@ class QuantumsandLive
       "amyami187/effective_dimension",
       "amyami187/QiskitML",
       "dennybritz/nn-from-scratch",
-      "ros/kdl_parser"
+      "ros/kdl_parser",
+      "ros2/launch"
     ]
 
     git_repos_chromium_googlesource = [
