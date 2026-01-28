@@ -2858,7 +2858,8 @@ class QuantumsandLive
       "ros/kdl_parser",
       "ros2/launch",
       "ros2/launch_ros",
-      "ros2/libyaml_vendor"
+      "ros2/libyaml_vendor",
+      "ros2/message_filters"
     ]
 
     git_repos_chromium_googlesource = [
