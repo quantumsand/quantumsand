@@ -2848,7 +2848,8 @@ class QuantumsandLive
       "TigerVNC/tigervnc",
       "Rust-for-Linux/klint",
       "rust-openssl/rust-openssl",
-      "sfackler/rust-native-tls"
+      "sfackler/rust-native-tls",
+      "BurntSushi/ripgrep"
     ]
 
     git_repos_chromium_googlesource = [
