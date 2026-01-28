@@ -3504,7 +3504,8 @@ class QuantumsandLive
       "redox-os/redoxer",
       "redox-os/redox-fatfs",
       "redox-os/tfs",
-      "redox-os/redoxfs"
+      "redox-os/redoxfs",
+      "redox-os/redox-input"
     ]
 
     git_repos_freebsd_org = [
