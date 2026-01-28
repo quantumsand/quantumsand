@@ -3519,7 +3519,8 @@ class QuantumsandLive
       "redox-os/rehid",
       "redox-os/reqwest",
       "redox-os/resist",
-      "redox-os/resize"
+      "redox-os/resize",
+      "redox-os/resolv-conf"
     ]
 
     git_repos_freebsd_org = [
