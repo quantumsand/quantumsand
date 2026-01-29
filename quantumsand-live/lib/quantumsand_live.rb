@@ -3545,7 +3545,8 @@ class QuantumsandLive
       "redox-os/ring-buffers-WG",
       "redox-os/ripgrep",
       "redox-os/rodioplay",
-      "redox-os/rs-nes"
+      "redox-os/rs-nes",
+      "redox-os/rust64"
     ]
 
     git_repos_freebsd_org = [
