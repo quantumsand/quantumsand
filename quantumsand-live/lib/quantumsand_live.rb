@@ -2874,7 +2874,8 @@ class QuantumsandLive
       "alexheretic/glyph-brush",
       "servo/rust-url",
       "slint-ui/slint",
-      "ros2/rosidl_typesupport_fastrtps"
+      "ros2/rosidl_typesupport_fastrtps",
+      "eclipse-cyclonedds/cyclonedds"
     ]
 
     git_repos_chromium_googlesource = [
