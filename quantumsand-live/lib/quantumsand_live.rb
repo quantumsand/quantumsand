@@ -3552,7 +3552,8 @@ class QuantumsandLive
       "redox-os/rust64",
       "redox-os/rust-cairo",
       "redox-os/rust-cairo-demo",
-      "redox-os/rust_libloading"
+      "redox-os/rust_libloading",
+      "redox-os/rusttype"
     ]
 
     git_repos_freebsd_org = [
