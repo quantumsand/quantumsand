@@ -2869,7 +2869,8 @@ class QuantumsandLive
       "ros2/rmw_fastrtps",
       "Klaus2m5/6502_65C02_functional_tests",
       "emoon/rust_minifb",
-      "Rust-SDL2/rust-sdl2"
+      "Rust-SDL2/rust-sdl2",
+      "nagisa/rust_libloading"
     ]
 
     git_repos_chromium_googlesource = [
