@@ -3567,7 +3567,8 @@ class QuantumsandLive
       "redox-os/seahash",
       "redox-os/servo",
       "redox-os/shared_library",
-      "redox-os/shellstorm"
+      "redox-os/shellstorm",
+      "redox-os/simple-endian"
     ]
 
     git_repos_freebsd_org = [
