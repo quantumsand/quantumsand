@@ -3179,7 +3179,8 @@ class QuantumsandLive
       "AOMediaCodec/SVT-AV1",
       "AOMediaCodec/argon-streams",
       "AOMediaCodec/avm",
-      "AOMediaCodec/aom-testing"
+      "AOMediaCodec/aom-testing",
+      "samba-team/samba"
     ]
 
     git_repos_freedesktop_gitlab = [
