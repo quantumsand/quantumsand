@@ -2866,7 +2866,8 @@ class QuantumsandLive
       "ros2/rosidl_typesupport",
       "ros2/rosidl_defaults",
       "eProsima/Fast-DDS",
-      "ros2/rmw_fastrtps"
+      "ros2/rmw_fastrtps",
+      "Klaus2m5/6502_65C02_functional_tests"
     ]
 
     git_repos_chromium_googlesource = [
