@@ -2872,7 +2872,8 @@ class QuantumsandLive
       "Rust-SDL2/rust-sdl2",
       "nagisa/rust_libloading",
       "alexheretic/glyph-brush",
-      "servo/rust-url"
+      "servo/rust-url",
+      "slint-ui/slint"
     ]
 
     git_repos_chromium_googlesource = [
