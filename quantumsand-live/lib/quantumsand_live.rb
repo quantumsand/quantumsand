@@ -3561,7 +3561,8 @@ class QuantumsandLive
       "redox-os/rust-url",
       "redox-os/samba",
       "redox-os/sdl1.2",
-      "redox-os/sdl2"
+      "redox-os/sdl2",
+      "redox-os/SDL-mirror"
     ]
 
     git_repos_freebsd_org = [
