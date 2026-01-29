@@ -3915,7 +3915,8 @@ class QuantumsandLive
       "sci-geosciences/gpsd",
       "media-sound/jack2",
       "dev-debug/dtrace",
-      "dev-tcltk/expect"
+      "dev-tcltk/expect",
+      "media-video/ffmpeg"
     ]
 
     gentoo_eselect_repository_add = {
