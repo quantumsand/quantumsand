@@ -5,7 +5,25 @@ use bevy::{
     light::{CascadeShadowConfigBuilder, DirectionalLightShadowMap, VolumetricLight},
     prelude::*,
 };
-use std::f32::consts::*;
+use std::{f32::consts::*, time::Duration};
+
+/* 
+
+Known issue with loading Blender animated glTF:
+
+WARN bevy_ecs::hierarchy: 
+warning[B0004]: Entity 17v0 with the InheritedVisibility component 
+has a parent (18v0) without InheritedVisibility.
+
+Report: https://github.com/bevyengine/bevy/issues/21666
+Apparent fix: https://github.com/bevyengine/bevy/pull/22675
+
+Replace validate_parent_has_component with ValidateParentHasComponentPlugin. #22675
+Currently not tested.
+
+*/
+
+const DOGGO_CHARACTER_PATH: &str = "models/doggo-character.gltf";
 
 // Define a struct to store parameters for the point light's movement.
 #[derive(Component)]
@@ -20,15 +38,38 @@ fn main() {
         .insert_resource(DirectionalLightShadowMap { size: 4096 })
         .add_plugins(DefaultPlugins)
         .add_systems(Startup, setup)
+        .add_systems(Update, setup_scene_once_loaded)
         .add_systems(Update, animate_light_direction)
         .add_systems(Update, move_point_light)
         .run();
 }
 
-fn setup(mut commands: Commands, asset_server: Res<AssetServer>) {
-    commands.spawn((
-        // Camera3d::default(), // currently we are loading the camera from the Blender gltf.
-    ));
+#[derive(Resource)]
+struct Animations {
+    animations: Vec<AnimationNodeIndex>,
+    graph_handle: Handle<AnimationGraph>,
+}
+
+fn setup(mut commands: Commands, 
+    asset_server: Res<AssetServer>,
+    mut graphs: ResMut<Assets<AnimationGraph>>,
+) {
+    // commands.spawn((
+    //     // Camera3d::default(), // currently we are loading the camera from the Blender gltf.
+    // ));
+
+    // Build the animation graph
+    let (graph, node_indices) = AnimationGraph::from_clips([
+        asset_server.load(GltfAssetLabel::Animation(0).from_asset(DOGGO_CHARACTER_PATH)),
+    ]);
+
+    // Keep our animation graph in a Resource so that it can be inserted onto
+    // the correct entity once the scene actually loads.
+    let graph_handle = graphs.add(graph);
+    commands.insert_resource(Animations {
+        animations: node_indices,
+        graph_handle,
+    });
 
     commands.spawn((
         DirectionalLight {
@@ -49,6 +90,12 @@ fn setup(mut commands: Commands, asset_server: Res<AssetServer>) {
     commands.spawn(SceneRoot(asset_server.load(
         GltfAssetLabel::Scene(0).from_asset("models/hakoniwa-level-001.gltf"),
     )));
+
+    // Doggo character
+    commands.spawn(SceneRoot(
+        asset_server.load(GltfAssetLabel::Scene(0).from_asset(DOGGO_CHARACTER_PATH)),
+    ));
+
     // Add the point light
     commands.spawn((
         Transform::from_xyz(3.0, 3.0, 5.0),
@@ -66,6 +113,31 @@ fn setup(mut commands: Commands, asset_server: Res<AssetServer>) {
             speed: -2.0,
         },
     ));
+}
+
+// An `AnimationPlayer` is automatically added to the scene when it's ready.
+// When the player is added, start the animation.
+fn setup_scene_once_loaded(
+    mut commands: Commands,
+    animations: Res<Animations>,
+    mut players: Query<(Entity, &mut AnimationPlayer), Added<AnimationPlayer>>,
+) {
+    for (entity, mut player) in &mut players {
+        let mut transitions = AnimationTransitions::new();
+
+        // Make sure to start the animation via the `AnimationTransitions`
+        // component. The `AnimationTransitions` component wants to manage all
+        // the animations and will get confused if the animations are started
+        // directly via the `AnimationPlayer`.
+        transitions
+            .play(&mut player, animations.animations[0], Duration::ZERO)
+            .repeat();
+
+        commands
+            .entity(entity)
+            .insert(AnimationGraphHandle(animations.graph_handle.clone()))
+            .insert(transitions);
+    }
 }
 
 fn animate_light_direction(
