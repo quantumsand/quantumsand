@@ -2877,7 +2877,8 @@ class QuantumsandLive
       "ros2/rosidl_typesupport_fastrtps",
       "eclipse-cyclonedds/cyclonedds",
       "ros2/rmw_cyclonedds",
-      "ros2/rmw_connext"
+      "ros2/rmw_connext",
+      "ros2/rmw_connextdds"
     ]
 
     git_repos_chromium_googlesource = [
