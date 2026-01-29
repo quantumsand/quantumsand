@@ -2870,7 +2870,8 @@ class QuantumsandLive
       "Klaus2m5/6502_65C02_functional_tests",
       "emoon/rust_minifb",
       "Rust-SDL2/rust-sdl2",
-      "nagisa/rust_libloading"
+      "nagisa/rust_libloading",
+      "alexheretic/glyph-brush"
     ]
 
     git_repos_chromium_googlesource = [
