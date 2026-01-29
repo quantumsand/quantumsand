@@ -2875,7 +2875,8 @@ class QuantumsandLive
       "servo/rust-url",
       "slint-ui/slint",
       "ros2/rosidl_typesupport_fastrtps",
-      "eclipse-cyclonedds/cyclonedds"
+      "eclipse-cyclonedds/cyclonedds",
+      "ros2/rmw_cyclonedds"
     ]
 
     git_repos_chromium_googlesource = [
