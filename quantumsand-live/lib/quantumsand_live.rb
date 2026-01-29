@@ -3565,7 +3565,8 @@ class QuantumsandLive
       "redox-os/SDL-mirror",
       "redox-os/sdl-player",
       "redox-os/seahash",
-      "redox-os/servo"
+      "redox-os/servo",
+      "redox-os/shared_library"
     ]
 
     git_repos_freebsd_org = [
