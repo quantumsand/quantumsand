@@ -3549,7 +3549,8 @@ class QuantumsandLive
       "redox-os/rodioplay",
       "redox-os/rs-nes",
       "redox-os/rust64",
-      "redox-os/rust-cairo"
+      "redox-os/rust-cairo",
+      "redox-os/rust-cairo-demo"
     ]
 
     git_repos_freebsd_org = [
