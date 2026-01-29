@@ -2884,7 +2884,8 @@ class QuantumsandLive
       "ros2/rcl_logging",
       "ros2/rcl_interfaces",
       "ros2/rclcpp",
-      "ros2/rclpy"
+      "ros2/rclpy",
+      "ros2/rosidl_python"
     ]
 
     git_repos_chromium_googlesource = [
