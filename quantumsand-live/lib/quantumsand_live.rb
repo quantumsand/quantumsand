@@ -2871,7 +2871,8 @@ class QuantumsandLive
       "emoon/rust_minifb",
       "Rust-SDL2/rust-sdl2",
       "nagisa/rust_libloading",
-      "alexheretic/glyph-brush"
+      "alexheretic/glyph-brush",
+      "servo/rust-url"
     ]
 
     git_repos_chromium_googlesource = [
