@@ -2888,7 +2888,8 @@ class QuantumsandLive
       "ros2/rosidl_python",
       "ros2/rosidl_runtime_py",
       "ros2/Mimick",
-      "Snaipe/Mimick"
+      "Snaipe/Mimick",
+      "ros2/mimick_vendor"
     ]
 
     git_repos_chromium_googlesource = [
