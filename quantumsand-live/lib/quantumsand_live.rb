@@ -3591,7 +3591,8 @@ class QuantumsandLive
       "redox-os/slint_orbclient",
       "redox-os/slint_redox_template",
       "redox-os/small",
-      "redox-os/smallstring"
+      "redox-os/smallstring",
+      "redox-os/Smith"
     ]
 
     git_repos_freebsd_org = [
