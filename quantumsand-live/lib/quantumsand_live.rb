@@ -3598,7 +3598,8 @@ class QuantumsandLive
       "redox-os/socket2-rs",
       "redox-os/sodium",
       "redox-os/softbuffer",
-      "redox-os/sokoban-rs"
+      "redox-os/sokoban-rs",
+      "redox-os/speck"
     ]
 
     git_repos_freebsd_org = [
