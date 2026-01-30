@@ -2903,7 +2903,8 @@ class QuantumsandLive
       "ros-navigation/navigation2_dynamic",
       "ros2/netperf",
       "ros2/openrobotics_darknet_ros",
-      "WongKinYiu/yolov7"
+      "WongKinYiu/yolov7",
+      "orocos/orocos_kinematics_dynamics"
     ]
 
     git_repos_chromium_googlesource = [
