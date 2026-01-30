@@ -2911,7 +2911,8 @@ class QuantumsandLive
       "ros2/performance_test_fixture",
       "pocoproject/poco",
       "pocoproject/poco-dnssd",
-      "pocoproject/cmake-sample"
+      "pocoproject/cmake-sample",
+      "ros2/poco_vendor"
     ]
 
     git_repos_chromium_googlesource = [
