@@ -2891,7 +2891,8 @@ class QuantumsandLive
       "Snaipe/Mimick",
       "ros2/mimick_vendor",
       "wasmerio/wasmer",
-      "smoltcp-rs/smoltcp"
+      "smoltcp-rs/smoltcp",
+      "alexcrichton/tar-rs"
     ]
 
     git_repos_chromium_googlesource = [
