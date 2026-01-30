@@ -3600,7 +3600,8 @@ class QuantumsandLive
       "redox-os/softbuffer",
       "redox-os/sokoban-rs",
       "redox-os/speck",
-      "redox-os/stb_truetype-rs"
+      "redox-os/stb_truetype-rs",
+      "redox-os/strace-redox"
     ]
 
     git_repos_freebsd_org = [
