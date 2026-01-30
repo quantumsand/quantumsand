@@ -3592,7 +3592,8 @@ class QuantumsandLive
       "redox-os/slint_redox_template",
       "redox-os/small",
       "redox-os/smallstring",
-      "redox-os/Smith"
+      "redox-os/Smith",
+      "redox-os/smoltcp"
     ]
 
     git_repos_freebsd_org = [
