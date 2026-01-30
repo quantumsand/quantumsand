@@ -3602,7 +3602,8 @@ class QuantumsandLive
       "redox-os/speck",
       "redox-os/stb_truetype-rs",
       "redox-os/strace-redox",
-      "redox-os/syscall"
+      "redox-os/syscall",
+      "redox-os/syscall.rs"
     ]
 
     git_repos_freebsd_org = [
