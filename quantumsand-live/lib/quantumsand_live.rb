@@ -2893,7 +2893,8 @@ class QuantumsandLive
       "wasmerio/wasmer",
       "smoltcp-rs/smoltcp",
       "alexcrichton/tar-rs",
-      "time-rs/time"
+      "time-rs/time",
+      "ros-navigation/navigation2"
     ]
 
     git_repos_chromium_googlesource = [
