@@ -3588,7 +3588,8 @@ class QuantumsandLive
       "redox-os/shellstorm",
       "redox-os/simple-endian",
       "redox-os/slab_allocator",
-      "redox-os/slint_orbclient"
+      "redox-os/slint_orbclient",
+      "redox-os/slint_redox_template"
     ]
 
     git_repos_freebsd_org = [
