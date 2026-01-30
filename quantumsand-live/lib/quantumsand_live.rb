@@ -2907,7 +2907,8 @@ class QuantumsandLive
       "orocos/orocos_kinematics_dynamics",
       "ros2/orocos_kdl_vendor",
       "ros2/orocos_kinematics_dynamics",
-      "ros2/performance_test"
+      "ros2/performance_test",
+      "ros2/performance_test_fixture"
     ]
 
     git_repos_chromium_googlesource = [
