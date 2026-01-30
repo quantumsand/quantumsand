@@ -3973,7 +3973,8 @@ class QuantumsandLive
       "media-sound/jack2",
       "dev-debug/dtrace",
       "dev-tcltk/expect",
-      "media-video/ffmpeg"
+      "media-video/ffmpeg",
+      "net-dns/avahi"
     ]
 
     gentoo_eselect_repository_add = {
