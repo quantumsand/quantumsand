@@ -3590,7 +3590,8 @@ class QuantumsandLive
       "redox-os/slab_allocator",
       "redox-os/slint_orbclient",
       "redox-os/slint_redox_template",
-      "redox-os/small"
+      "redox-os/small",
+      "redox-os/smallstring"
     ]
 
     git_repos_freebsd_org = [
