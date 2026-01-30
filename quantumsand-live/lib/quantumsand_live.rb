@@ -2900,7 +2900,8 @@ class QuantumsandLive
       "ros-navigation/api.nav2.org",
       "ros-navigation/navigation2_auxiliary",
       "ros-navigation/nav2_minimal_turtlebot_simulation",
-      "ros-navigation/navigation2_dynamic"
+      "ros-navigation/navigation2_dynamic",
+      "ros2/netperf"
     ]
 
     git_repos_chromium_googlesource = [
