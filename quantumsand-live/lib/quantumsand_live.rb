@@ -3606,7 +3606,8 @@ class QuantumsandLive
       "redox-os/syscall",
       "redox-os/syscall.rs",
       "redox-os/tar-rs",
-      "redox-os/tempfile"
+      "redox-os/tempfile",
+      "redox-os/termion"
     ]
 
     git_repos_freebsd_org = [
