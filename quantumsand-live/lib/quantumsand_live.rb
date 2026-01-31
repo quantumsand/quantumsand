@@ -2913,7 +2913,8 @@ class QuantumsandLive
       "pocoproject/poco-dnssd",
       "pocoproject/cmake-sample",
       "ros2/poco_vendor",
-      "ankeetmaini/react-infinite-scroll-component"
+      "ankeetmaini/react-infinite-scroll-component",
+      "chromiumembedded/cef"
     ]
 
     git_repos_chromium_googlesource = [
