@@ -2912,7 +2912,8 @@ class QuantumsandLive
       "pocoproject/poco",
       "pocoproject/poco-dnssd",
       "pocoproject/cmake-sample",
-      "ros2/poco_vendor"
+      "ros2/poco_vendor",
+      "ankeetmaini/react-infinite-scroll-component"
     ]
 
     git_repos_chromium_googlesource = [
