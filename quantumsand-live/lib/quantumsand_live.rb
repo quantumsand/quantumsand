@@ -2917,7 +2917,8 @@ class QuantumsandLive
       "chromiumembedded/cef",
       "NetBSDfr/smolBSD",
       "NetBSDfr/sailor",
-      "nokyan/resources"
+      "nokyan/resources",
+      "react-syntax-highlighter/react-syntax-highlighter"
     ]
 
     git_repos_chromium_googlesource = [
