@@ -2915,7 +2915,8 @@ class QuantumsandLive
       "ros2/poco_vendor",
       "ankeetmaini/react-infinite-scroll-component",
       "chromiumembedded/cef",
-      "NetBSDfr/smolBSD"
+      "NetBSDfr/smolBSD",
+      "NetBSDfr/sailor"
     ]
 
     git_repos_chromium_googlesource = [
