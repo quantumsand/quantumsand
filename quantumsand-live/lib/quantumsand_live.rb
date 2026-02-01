@@ -2914,7 +2914,8 @@ class QuantumsandLive
       "pocoproject/cmake-sample",
       "ros2/poco_vendor",
       "ankeetmaini/react-infinite-scroll-component",
-      "chromiumembedded/cef"
+      "chromiumembedded/cef",
+      "NetBSDfr/smolBSD"
     ]
 
     git_repos_chromium_googlesource = [
