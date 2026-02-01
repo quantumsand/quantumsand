@@ -2916,7 +2916,8 @@ class QuantumsandLive
       "ankeetmaini/react-infinite-scroll-component",
       "chromiumembedded/cef",
       "NetBSDfr/smolBSD",
-      "NetBSDfr/sailor"
+      "NetBSDfr/sailor",
+      "nokyan/resources"
     ]
 
     git_repos_chromium_googlesource = [
