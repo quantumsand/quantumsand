@@ -2918,7 +2918,8 @@ class QuantumsandLive
       "NetBSDfr/smolBSD",
       "NetBSDfr/sailor",
       "nokyan/resources",
-      "react-syntax-highlighter/react-syntax-highlighter"
+      "react-syntax-highlighter/react-syntax-highlighter",
+      "bvaughn/react-virtualized"
     ]
 
     git_repos_chromium_googlesource = [
