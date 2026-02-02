@@ -3644,7 +3644,8 @@ class QuantumsandLive
       "redox-os/timidity",
       "redox-os/tokio",
       "redox-os/tokio-core",
-      "redox-os/tokio-proto"
+      "redox-os/tokio-proto",
+      "redox-os/tokio-signal"
     ]
 
     git_repos_freebsd_org = [
