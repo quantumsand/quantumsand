@@ -2925,7 +2925,8 @@ class QuantumsandLive
       "hickory-dns/hickory-dns",
       "rust-windowing/winit",
       "ros2/pybind11_vendor",
-      "ros2/python_cmake_module"
+      "ros2/python_cmake_module",
+      "ros2/rclc"
     ]
 
     git_repos_chromium_googlesource = [
