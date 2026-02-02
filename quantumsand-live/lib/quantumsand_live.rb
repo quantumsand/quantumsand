@@ -2938,7 +2938,8 @@ class QuantumsandLive
       "eclipse-iceoryx/iceoryx",
       "ros2/rmw_opensplice",
       "ADLINK-IST/opensplice",
-      "ros2/rmw_zenoh"
+      "ros2/rmw_zenoh",
+      "ros2/urdf"
     ]
 
     git_repos_chromium_googlesource = [
