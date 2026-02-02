@@ -3645,7 +3645,8 @@ class QuantumsandLive
       "redox-os/tokio",
       "redox-os/tokio-core",
       "redox-os/tokio-proto",
-      "redox-os/tokio-signal"
+      "redox-os/tokio-signal",
+      "redox-os/tokio-tls"
     ]
 
     git_repos_freebsd_org = [
