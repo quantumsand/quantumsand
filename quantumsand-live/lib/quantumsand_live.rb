@@ -4241,7 +4241,6 @@ class QuantumsandLive
     # TODO: sonic-pi-net/sonic-pi
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
-    # TODO: digiKam
     # TODO: Audacity
     # TODO: Ardour
     # TODO: LMMS
