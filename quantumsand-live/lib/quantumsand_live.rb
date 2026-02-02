@@ -2941,7 +2941,8 @@ class QuantumsandLive
       "ros2/rmw_zenoh",
       "ros2/urdf",
       "ros/robot_state_publisher",
-      "ros2/ros1_bridge"
+      "ros2/ros1_bridge",
+      "ros2/ros2cli"
     ]
 
     git_repos_chromium_googlesource = [
