@@ -2922,7 +2922,8 @@ class QuantumsandLive
       "bvaughn/react-virtualized",
       "jxnblk/mdx-deck",
       "tower-rs/tokio-tower",
-      "hickory-dns/hickory-dns"
+      "hickory-dns/hickory-dns",
+      "rust-windowing/winit"
     ]
 
     git_repos_chromium_googlesource = [
