@@ -2940,7 +2940,8 @@ class QuantumsandLive
       "ADLINK-IST/opensplice",
       "ros2/rmw_zenoh",
       "ros2/urdf",
-      "ros/robot_state_publisher"
+      "ros/robot_state_publisher",
+      "ros2/ros1_bridge"
     ]
 
     git_repos_chromium_googlesource = [
