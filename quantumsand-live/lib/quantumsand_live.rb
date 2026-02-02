@@ -3650,7 +3650,8 @@ class QuantumsandLive
       "redox-os/tokio-tls",
       "redox-os/trust-dns",
       "redox-os/uefi",
-      "redox-os/users"
+      "redox-os/users",
+      "redox-os/userutils"
     ]
 
     git_repos_freebsd_org = [
