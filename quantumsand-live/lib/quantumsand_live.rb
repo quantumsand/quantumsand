@@ -2924,7 +2924,8 @@ class QuantumsandLive
       "tower-rs/tokio-tower",
       "hickory-dns/hickory-dns",
       "rust-windowing/winit",
-      "ros2/pybind11_vendor"
+      "ros2/pybind11_vendor",
+      "ros2/python_cmake_module"
     ]
 
     git_repos_chromium_googlesource = [
