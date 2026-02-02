@@ -2943,7 +2943,8 @@ class QuantumsandLive
       "ros/robot_state_publisher",
       "ros2/ros1_bridge",
       "ros2/ros2cli",
-      "ros2/ros2cli_common_extensions"
+      "ros2/ros2cli_common_extensions",
+      "ros2/ros2doc"
     ]
 
     git_repos_chromium_googlesource = [
