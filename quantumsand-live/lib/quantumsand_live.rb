@@ -2927,7 +2927,8 @@ class QuantumsandLive
       "ros2/pybind11_vendor",
       "ros2/python_cmake_module",
       "ros2/rclc",
-      "ros2/rcpputils"
+      "ros2/rcpputils",
+      "ros2/rcutils"
     ]
 
     git_repos_chromium_googlesource = [
