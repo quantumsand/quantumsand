@@ -2923,7 +2923,8 @@ class QuantumsandLive
       "jxnblk/mdx-deck",
       "tower-rs/tokio-tower",
       "hickory-dns/hickory-dns",
-      "rust-windowing/winit"
+      "rust-windowing/winit",
+      "ros2/pybind11_vendor"
     ]
 
     git_repos_chromium_googlesource = [
