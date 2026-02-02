@@ -2950,7 +2950,8 @@ class QuantumsandLive
       "ros2/ros2_embedded_freertos",
       "FreeRTOS/FreeRTOS-Kernel",
       "FreeRTOS/FreeRTOS",
-      "FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports"
+      "FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports",
+      "FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports"
     ]
 
     git_repos_chromium_googlesource = [
