@@ -2932,7 +2932,8 @@ class QuantumsandLive
       "ros2/realtime_support",
       "ros2/rmw_dds_common",
       "ros2/rmw_dps",
-      "ros2/rmw_freertps"
+      "ros2/rmw_freertps",
+      "ros2/rmw_gurumdds"
     ]
 
     git_repos_chromium_googlesource = [
