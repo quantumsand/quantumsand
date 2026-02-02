@@ -2935,7 +2935,8 @@ class QuantumsandLive
       "ros2/rmw_freertps",
       "ros2/rmw_gurumdds",
       "ros2/rmw_iceoryx",
-      "eclipse-iceoryx/iceoryx"
+      "eclipse-iceoryx/iceoryx",
+      "ros2/rmw_opensplice"
     ]
 
     git_repos_chromium_googlesource = [
