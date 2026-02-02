@@ -2930,7 +2930,8 @@ class QuantumsandLive
       "ros2/rcpputils",
       "ros2/rcutils",
       "ros2/realtime_support",
-      "ros2/rmw_dds_common"
+      "ros2/rmw_dds_common",
+      "ros2/rmw_dps"
     ]
 
     git_repos_chromium_googlesource = [
