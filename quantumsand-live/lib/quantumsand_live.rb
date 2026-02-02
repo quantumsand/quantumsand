@@ -3648,7 +3648,8 @@ class QuantumsandLive
       "redox-os/tokio-proto",
       "redox-os/tokio-signal",
       "redox-os/tokio-tls",
-      "redox-os/trust-dns"
+      "redox-os/trust-dns",
+      "redox-os/uefi"
     ]
 
     git_repos_freebsd_org = [
