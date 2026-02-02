@@ -3652,7 +3652,8 @@ class QuantumsandLive
       "redox-os/uefi",
       "redox-os/users",
       "redox-os/userutils",
-      "redox-os/va_list-rs"
+      "redox-os/va_list-rs",
+      "redox-os/wayland"
     ]
 
     git_repos_freebsd_org = [
