@@ -3639,7 +3639,8 @@ class QuantumsandLive
       "redox-os/termios",
       "redox-os/termsize",
       "redox-os/thrussh",
-      "redox-os/time"
+      "redox-os/time",
+      "redox-os/timidity"
     ]
 
     git_repos_freebsd_org = [
