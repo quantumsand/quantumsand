@@ -2920,7 +2920,8 @@ class QuantumsandLive
       "nokyan/resources",
       "react-syntax-highlighter/react-syntax-highlighter",
       "bvaughn/react-virtualized",
-      "jxnblk/mdx-deck"
+      "jxnblk/mdx-deck",
+      "tower-rs/tokio-tower"
     ]
 
     git_repos_chromium_googlesource = [
