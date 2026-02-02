@@ -4258,7 +4258,6 @@ class QuantumsandLive
     # TODO: sys-fs/dosfstools; FAT userspace utilities
     # TODO: sys-fs/exfatprogs; exFAT file system
     # TODO: sys-fs/diskdev_cmds; a port of HFS/HFS+ utilities from OpenDarwin
-    # TODO: uutils/coreutils; Cross-platform Rust rewrite of the GNU coreutils
     # TODO: huggingface/huggingface_hub; official Python client for the Huggingface Hub
     # TODO: torchgeo/torchgeo; TorchGeo is a PyTorch domain library
     # TODO: n0-computer/iroh
