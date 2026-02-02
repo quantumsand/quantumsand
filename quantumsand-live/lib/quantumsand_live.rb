@@ -2953,7 +2953,8 @@ class QuantumsandLive
       "FreeRTOS/FreeRTOS-Kernel-Partner-Supported-Ports",
       "FreeRTOS/FreeRTOS-Kernel-Community-Supported-Ports",
       "ros2/ros2_embedded_nuttx",
-      "ros2/stlink"
+      "ros2/stlink",
+      "stlink-org/stlink"
     ]
 
     git_repos_chromium_googlesource = [
