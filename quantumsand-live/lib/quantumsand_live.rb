@@ -656,7 +656,6 @@ class QuantumsandLive
       "LiberTEM/LiberTEM",
       "gnuradio/gnuradio",
       "OpenSpace/Spice",
-      "CelestiaProject/Celestia",
       "jupytercad/JupyterCAD",
       "FreeCAD/FreeCAD",
       "y-crdt/pycrdt",
@@ -4262,7 +4261,6 @@ class QuantumsandLive
     # TODO: tipragot/godot-iroh; peer-to-peer multiplayer extension for Godot based on Iroh
     # TODO: app-shells/fish
     # TODO: uzu/strudel
-    # TODO: Celestia
     # TODO: triton-lang/triton; Triton language and compiler
     # TODO: Handheld Daemon; provides hardware enablement for Windows handhelds
     # TODO: x86-simd-sort; C++ template library for high performance SIMD based sorting algorithms
