@@ -3654,7 +3654,8 @@ class QuantumsandLive
       "redox-os/userutils",
       "redox-os/va_list-rs",
       "redox-os/wayland",
-      "redox-os/webrender"
+      "redox-os/webrender",
+      "redox-os/winit"
     ]
 
     git_repos_freebsd_org = [
