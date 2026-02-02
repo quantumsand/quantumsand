@@ -2921,7 +2921,8 @@ class QuantumsandLive
       "react-syntax-highlighter/react-syntax-highlighter",
       "bvaughn/react-virtualized",
       "jxnblk/mdx-deck",
-      "tower-rs/tokio-tower"
+      "tower-rs/tokio-tower",
+      "hickory-dns/hickory-dns"
     ]
 
     git_repos_chromium_googlesource = [
