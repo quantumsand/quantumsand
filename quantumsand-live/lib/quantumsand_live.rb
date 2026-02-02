@@ -4237,7 +4237,6 @@ class QuantumsandLive
     # TODO: Opendigitalradio/mmbtools-doc
     # TODO: jketterl/openwebrx
     # TODO: Automattic/harper; English grammar checker
-    # TODO: sonic-pi-net/sonic-pi
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
     # TODO: Audacity
