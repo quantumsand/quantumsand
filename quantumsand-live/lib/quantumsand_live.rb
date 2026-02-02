@@ -2948,7 +2948,8 @@ class QuantumsandLive
       "ros2/ros2_dds_profiles_examples",
       "ros2/ros2_documentation",
       "ros2/ros2_embedded_freertos",
-      "FreeRTOS/FreeRTOS-Kernel"
+      "FreeRTOS/FreeRTOS-Kernel",
+      "FreeRTOS/FreeRTOS"
     ]
 
     git_repos_chromium_googlesource = [
