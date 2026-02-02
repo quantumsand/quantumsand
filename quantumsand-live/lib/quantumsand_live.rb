@@ -3651,7 +3651,8 @@ class QuantumsandLive
       "redox-os/trust-dns",
       "redox-os/uefi",
       "redox-os/users",
-      "redox-os/userutils"
+      "redox-os/userutils",
+      "redox-os/va_list-rs"
     ]
 
     git_repos_freebsd_org = [
