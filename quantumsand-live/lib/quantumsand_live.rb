@@ -2956,7 +2956,8 @@ class QuantumsandLive
       "stlink-org/stlink",
       "ros2/tinq-core",
       "ros2/ros2_embedded_riot",
-      "RIOT-OS/RIOT"
+      "RIOT-OS/RIOT",
+      "atomvm/AtomVM"
     ]
 
     git_repos_chromium_googlesource = [
