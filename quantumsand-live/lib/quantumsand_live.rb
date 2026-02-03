@@ -4171,7 +4171,6 @@ class QuantumsandLive
     # TODO: NVIDIA/NeMo-speech-data-processor; A toolkit for processing speech data and creating speech datasets
     # TODO: nvidia/Granary; Speech Recognition and Translation Dataset in 25 European Languages
     # TODO: scm_breeze
-    # TODO: VSCodium
     # TODO: Docker; Snippet; /etc/kernel/config.d/docker-linux6-11-10.config
     # TODO: goharbor/harbor; open source trusted cloud native registry project that stores, signs, and scans content
     # TODO: Krita
