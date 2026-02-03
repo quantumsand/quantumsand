@@ -2959,7 +2959,8 @@ class QuantumsandLive
       "RIOT-OS/RIOT",
       "atomvm/AtomVM",
       "crewAIInc/crewAI",
-      "adenhq/hive"
+      "adenhq/hive",
+      "williamtroup/Heat.js"
     ]
 
     git_repos_chromium_googlesource = [
