@@ -2960,7 +2960,8 @@ class QuantumsandLive
       "atomvm/AtomVM",
       "crewAIInc/crewAI",
       "adenhq/hive",
-      "williamtroup/Heat.js"
+      "williamtroup/Heat.js",
+      "dayflow-js/calendar"
     ]
 
     git_repos_chromium_googlesource = [
