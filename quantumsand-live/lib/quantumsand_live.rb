@@ -2957,7 +2957,8 @@ class QuantumsandLive
       "ros2/tinq-core",
       "ros2/ros2_embedded_riot",
       "RIOT-OS/RIOT",
-      "atomvm/AtomVM"
+      "atomvm/AtomVM",
+      "crewAIInc/crewAI"
     ]
 
     git_repos_chromium_googlesource = [
