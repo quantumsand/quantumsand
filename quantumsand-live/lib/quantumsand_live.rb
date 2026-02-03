@@ -2961,7 +2961,8 @@ class QuantumsandLive
       "crewAIInc/crewAI",
       "adenhq/hive",
       "williamtroup/Heat.js",
-      "dayflow-js/calendar"
+      "dayflow-js/calendar",
+      "VSCodium/vscodium"
     ]
 
     git_repos_chromium_googlesource = [
