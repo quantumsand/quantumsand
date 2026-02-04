@@ -2986,7 +2986,8 @@ class QuantumsandLive
       "ros2/rpyutils",
       "OGRECave/ogre",
       "ros2/rviz",
-      "zeux/pugixml"
+      "zeux/pugixml",
+      "assimp/assimp"
     ]
 
     git_repos_chromium_googlesource = [
