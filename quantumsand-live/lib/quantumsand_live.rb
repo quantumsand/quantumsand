@@ -2965,7 +2965,8 @@ class QuantumsandLive
       "VSCodium/vscodium",
       "ros2/ros2_generate_interface_docs",
       "ros2/ros2_tracing",
-      "ros-tracing/tracetools_analysis"
+      "ros-tracing/tracetools_analysis",
+      "ros2/rosbag2"
     ]
 
     git_repos_chromium_googlesource = [
