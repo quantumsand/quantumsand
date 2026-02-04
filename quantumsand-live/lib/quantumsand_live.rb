@@ -2980,7 +2980,8 @@ class QuantumsandLive
       "ros2/ros_astra_camera",
       "ros2/ros_buildfarm_config",
       "ros-infrastructure/ros_buildfarm",
-      "ros2/ros_network_viz"
+      "ros2/ros_network_viz",
+      "ros2/ros_testing"
     ]
 
     git_repos_chromium_googlesource = [
