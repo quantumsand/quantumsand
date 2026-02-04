@@ -2975,7 +2975,7 @@ class QuantumsandLive
       "ros2/rosidl_dds",
       "ros2/rosidl_dynamic_typesupport",
       "ros2/rosidl_dynamic_typesupport_fastrtps",
-      "ros2/rosidl_python"
+      "ros2/rosidl_typesupport_gurumdds"
     ]
 
     git_repos_chromium_googlesource = [
