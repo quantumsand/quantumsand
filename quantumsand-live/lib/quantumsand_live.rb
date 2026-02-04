@@ -3020,7 +3020,8 @@ class QuantumsandLive
       "openigtlink/OpenIGTLinkSimulator",
       "lassoan/pyigtl",
       "Slicer/Slicer",
-      "SlicerIGT/SlicerIGT"
+      "SlicerIGT/SlicerIGT",
+      "PlusToolkit/PlusLib"
     ]
 
     git_repos_chromium_googlesource = [
