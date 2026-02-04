@@ -3014,7 +3014,8 @@ class QuantumsandLive
       "IRCAD/sight",
       "openigtlink/OpenIGTLink",
       "openigtlink/ROS-IGTL-Bridge",
-      "openigtlink/SlicerOpenIGTLink"
+      "openigtlink/SlicerOpenIGTLink",
+      "openigtlink/ros2_igtl_bridge"
     ]
 
     git_repos_chromium_googlesource = [
