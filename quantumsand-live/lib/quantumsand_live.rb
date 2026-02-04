@@ -2968,7 +2968,8 @@ class QuantumsandLive
       "ros-tracing/tracetools_analysis",
       "ros2/rosbag2",
       "ros2/rosbag2_bag_v2",
-      "ros2/rosbridge_suite"
+      "ros2/rosbridge_suite",
+      "ros/rosdistro"
     ]
 
     git_repos_chromium_googlesource = [
