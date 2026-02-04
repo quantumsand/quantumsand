@@ -3023,7 +3023,8 @@ class QuantumsandLive
       "SlicerIGT/SlicerIGT",
       "PlusToolkit/PlusLib",
       "PlusToolkit/PlusDoc",
-      "PlusToolkit/PlusLibData"
+      "PlusToolkit/PlusLibData",
+      "PlusToolkit/PlusBuild"
     ]
 
     git_repos_chromium_googlesource = [
