@@ -3021,7 +3021,8 @@ class QuantumsandLive
       "lassoan/pyigtl",
       "Slicer/Slicer",
       "SlicerIGT/SlicerIGT",
-      "PlusToolkit/PlusLib"
+      "PlusToolkit/PlusLib",
+      "PlusToolkit/PlusDoc"
     ]
 
     git_repos_chromium_googlesource = [
