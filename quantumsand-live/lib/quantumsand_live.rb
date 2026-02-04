@@ -2998,7 +2998,8 @@ class QuantumsandLive
       "RigsOfRods/ror-server",
       "RigsOfRods/ogre-pagedgeometry",
       "gazebosim/ros_gz",
-      "The-OpenROAD-Project/OpenROAD"
+      "The-OpenROAD-Project/OpenROAD",
+      "The-OpenROAD-Project/OpenROAD-flow-scripts"
     ]
 
     git_repos_chromium_googlesource = [
