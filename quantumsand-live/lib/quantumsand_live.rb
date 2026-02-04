@@ -2979,7 +2979,8 @@ class QuantumsandLive
       "ros2/rosidl_typesupport_opensplice",
       "ros2/ros_astra_camera",
       "ros2/ros_buildfarm_config",
-      "ros-infrastructure/ros_buildfarm"
+      "ros-infrastructure/ros_buildfarm",
+      "ros2/ros_network_viz"
     ]
 
     git_repos_chromium_googlesource = [
