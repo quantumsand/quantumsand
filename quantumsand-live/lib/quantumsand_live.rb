@@ -2969,7 +2969,8 @@ class QuantumsandLive
       "ros2/rosbag2",
       "ros2/rosbag2_bag_v2",
       "ros2/rosbridge_suite",
-      "ros/rosdistro"
+      "ros/rosdistro",
+      "ros2/rosidl"
     ]
 
     git_repos_chromium_googlesource = [
