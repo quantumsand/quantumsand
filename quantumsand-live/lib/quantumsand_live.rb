@@ -2991,7 +2991,8 @@ class QuantumsandLive
       "bulletphysics/bullet3",
       "erwincoumans/pybullet_robots",
       "stuntrally/stuntrally",
-      "RigsOfRods/rigs-of-rods"
+      "RigsOfRods/rigs-of-rods",
+      "RigsOfRods/content"
     ]
 
     git_repos_chromium_googlesource = [
