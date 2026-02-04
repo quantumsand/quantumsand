@@ -2990,7 +2990,8 @@ class QuantumsandLive
       "assimp/assimp",
       "bulletphysics/bullet3",
       "erwincoumans/pybullet_robots",
-      "stuntrally/stuntrally"
+      "stuntrally/stuntrally",
+      "RigsOfRods/rigs-of-rods"
     ]
 
     git_repos_chromium_googlesource = [
