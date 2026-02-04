@@ -2963,7 +2963,8 @@ class QuantumsandLive
       "williamtroup/Heat.js",
       "dayflow-js/calendar",
       "VSCodium/vscodium",
-      "ros2/ros2_generate_interface_docs"
+      "ros2/ros2_generate_interface_docs",
+      "ros2/ros2_tracing"
     ]
 
     git_repos_chromium_googlesource = [
