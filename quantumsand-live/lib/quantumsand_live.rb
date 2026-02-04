@@ -2983,7 +2983,8 @@ class QuantumsandLive
       "ros2/ros_network_viz",
       "ros2/ros_testing",
       "ros2/ros_workspace",
-      "ros2/rpyutils"
+      "ros2/rpyutils",
+      "OGRECave/ogre"
     ]
 
     git_repos_chromium_googlesource = [
