@@ -3007,7 +3007,8 @@ class QuantumsandLive
       "Germanunkol/OgreOculusSample",
       "ros-visualization/interactive_markers",
       "bjornblissing/osgoculusviewer",
-      "nigels-com/glew"
+      "nigels-com/glew",
+      "ros-visualization/python_qt_binding"
     ]
 
     git_repos_chromium_googlesource = [
