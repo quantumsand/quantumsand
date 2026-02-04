@@ -2997,7 +2997,8 @@ class QuantumsandLive
       "RigsOfRods/ogre-caelum",
       "RigsOfRods/ror-server",
       "RigsOfRods/ogre-pagedgeometry",
-      "gazebosim/ros_gz"
+      "gazebosim/ros_gz",
+      "The-OpenROAD-Project/OpenROAD"
     ]
 
     git_repos_chromium_googlesource = [
