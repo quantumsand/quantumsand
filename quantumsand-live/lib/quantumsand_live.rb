@@ -3008,7 +3008,8 @@ class QuantumsandLive
       "ros-visualization/interactive_markers",
       "bjornblissing/osgoculusviewer",
       "nigels-com/glew",
-      "ros-visualization/python_qt_binding"
+      "ros-visualization/python_qt_binding",
+      "ros-visualization/qt_gui_core"
     ]
 
     git_repos_chromium_googlesource = [
