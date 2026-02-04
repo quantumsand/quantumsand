@@ -3015,7 +3015,8 @@ class QuantumsandLive
       "openigtlink/OpenIGTLink",
       "openigtlink/ROS-IGTL-Bridge",
       "openigtlink/SlicerOpenIGTLink",
-      "openigtlink/ros2_igtl_bridge"
+      "openigtlink/ros2_igtl_bridge",
+      "openigtlink/OpenIGTLinkIF"
     ]
 
     git_repos_chromium_googlesource = [
