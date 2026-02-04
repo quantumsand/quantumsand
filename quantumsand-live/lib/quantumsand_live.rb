@@ -3010,7 +3010,8 @@ class QuantumsandLive
       "nigels-com/glew",
       "ros-visualization/python_qt_binding",
       "ros-visualization/qt_gui_core",
-      "ros-visualization/rqt_robot_dashboard"
+      "ros-visualization/rqt_robot_dashboard",
+      "IRCAD/sight"
     ]
 
     git_repos_chromium_googlesource = [
