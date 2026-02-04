@@ -2988,7 +2988,8 @@ class QuantumsandLive
       "ros2/rviz",
       "zeux/pugixml",
       "assimp/assimp",
-      "bulletphysics/bullet3"
+      "bulletphysics/bullet3",
+      "erwincoumans/pybullet_robots"
     ]
 
     git_repos_chromium_googlesource = [
