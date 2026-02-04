@@ -3009,7 +3009,8 @@ class QuantumsandLive
       "bjornblissing/osgoculusviewer",
       "nigels-com/glew",
       "ros-visualization/python_qt_binding",
-      "ros-visualization/qt_gui_core"
+      "ros-visualization/qt_gui_core",
+      "ros-visualization/rqt_robot_dashboard"
     ]
 
     git_repos_chromium_googlesource = [
