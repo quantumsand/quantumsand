@@ -3005,7 +3005,8 @@ class QuantumsandLive
       "ros-visualization/rqt",
       "ros-visualization/oculus_rviz_plugins",
       "Germanunkol/OgreOculusSample",
-      "ros-visualization/interactive_markers"
+      "ros-visualization/interactive_markers",
+      "bjornblissing/osgoculusviewer"
     ]
 
     git_repos_chromium_googlesource = [
