@@ -2994,7 +2994,8 @@ class QuantumsandLive
       "RigsOfRods/rigs-of-rods",
       "RigsOfRods/content",
       "RigsOfRods/socketw",
-      "RigsOfRods/ogre-caelum"
+      "RigsOfRods/ogre-caelum",
+      "RigsOfRods/ror-server"
     ]
 
     git_repos_chromium_googlesource = [
