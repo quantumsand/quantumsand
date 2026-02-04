@@ -3024,7 +3024,8 @@ class QuantumsandLive
       "PlusToolkit/PlusLib",
       "PlusToolkit/PlusDoc",
       "PlusToolkit/PlusLibData",
-      "PlusToolkit/PlusBuild"
+      "PlusToolkit/PlusBuild",
+      "PlusToolkit/PlusApp"
     ]
 
     git_repos_chromium_googlesource = [
