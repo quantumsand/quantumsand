@@ -2977,7 +2977,8 @@ class QuantumsandLive
       "ros2/rosidl_dynamic_typesupport_fastrtps",
       "ros2/rosidl_typesupport_gurumdds",
       "ros2/rosidl_typesupport_opensplice",
-      "ros2/ros_astra_camera"
+      "ros2/ros_astra_camera",
+      "ros2/ros_buildfarm_config"
     ]
 
     git_repos_chromium_googlesource = [
