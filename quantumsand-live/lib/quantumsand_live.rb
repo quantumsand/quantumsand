@@ -3000,7 +3000,8 @@ class QuantumsandLive
       "gazebosim/ros_gz",
       "The-OpenROAD-Project/OpenROAD",
       "The-OpenROAD-Project/OpenROAD-flow-scripts",
-      "ros-visualization/rviz"
+      "ros-visualization/rviz",
+      "ros-visualization/visualization_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
