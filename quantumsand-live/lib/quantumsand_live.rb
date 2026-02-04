@@ -2993,7 +2993,8 @@ class QuantumsandLive
       "stuntrally/stuntrally",
       "RigsOfRods/rigs-of-rods",
       "RigsOfRods/content",
-      "RigsOfRods/socketw"
+      "RigsOfRods/socketw",
+      "RigsOfRods/ogre-caelum"
     ]
 
     git_repos_chromium_googlesource = [
