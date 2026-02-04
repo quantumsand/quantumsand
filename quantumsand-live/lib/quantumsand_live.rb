@@ -3025,7 +3025,8 @@ class QuantumsandLive
       "PlusToolkit/PlusDoc",
       "PlusToolkit/PlusLibData",
       "PlusToolkit/PlusBuild",
-      "PlusToolkit/PlusApp"
+      "PlusToolkit/PlusApp",
+      "Trouv/bevy_ecs_ldtk"
     ]
 
     git_repos_chromium_googlesource = [
