@@ -3012,7 +3012,8 @@ class QuantumsandLive
       "ros-visualization/qt_gui_core",
       "ros-visualization/rqt_robot_dashboard",
       "IRCAD/sight",
-      "openigtlink/OpenIGTLink"
+      "openigtlink/OpenIGTLink",
+      "openigtlink/ROS-IGTL-Bridge"
     ]
 
     git_repos_chromium_googlesource = [
