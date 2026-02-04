@@ -3002,7 +3002,8 @@ class QuantumsandLive
       "The-OpenROAD-Project/OpenROAD-flow-scripts",
       "ros-visualization/rviz",
       "ros-visualization/visualization_tutorials",
-      "ros-visualization/rqt"
+      "ros-visualization/rqt",
+      "ros-visualization/oculus_rviz_plugins"
     ]
 
     git_repos_chromium_googlesource = [
