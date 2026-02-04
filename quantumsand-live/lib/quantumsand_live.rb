@@ -2982,7 +2982,8 @@ class QuantumsandLive
       "ros-infrastructure/ros_buildfarm",
       "ros2/ros_network_viz",
       "ros2/ros_testing",
-      "ros2/ros_workspace"
+      "ros2/ros_workspace",
+      "ros2/rpyutils"
     ]
 
     git_repos_chromium_googlesource = [
