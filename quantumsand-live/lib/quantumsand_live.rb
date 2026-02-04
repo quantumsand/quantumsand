@@ -2989,7 +2989,8 @@ class QuantumsandLive
       "zeux/pugixml",
       "assimp/assimp",
       "bulletphysics/bullet3",
-      "erwincoumans/pybullet_robots"
+      "erwincoumans/pybullet_robots",
+      "stuntrally/stuntrally"
     ]
 
     git_repos_chromium_googlesource = [
