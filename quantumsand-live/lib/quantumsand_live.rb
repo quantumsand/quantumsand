@@ -2964,7 +2964,8 @@ class QuantumsandLive
       "dayflow-js/calendar",
       "VSCodium/vscodium",
       "ros2/ros2_generate_interface_docs",
-      "ros2/ros2_tracing"
+      "ros2/ros2_tracing",
+      "ros-tracing/tracetools_analysis"
     ]
 
     git_repos_chromium_googlesource = [
