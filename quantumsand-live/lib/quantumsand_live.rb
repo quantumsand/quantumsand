@@ -4233,7 +4233,6 @@ class QuantumsandLive
     # TODO: sys-devel/distcc
     # TODO: jdx/mise; dev tools, env vars, task runner
     # TODO: QEMU
-    # TODO: Valkey
     # TODO: Noto Color Emoji
     # TODO: PostgreSQL
     # TODO: POSTGRES_MULTIPLE_EXTENSIONS=postgis,hstore,postgis_topology,postgis_raster,pgrouting,h3,h3_postgis,ogr_fdw
