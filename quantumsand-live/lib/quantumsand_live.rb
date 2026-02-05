@@ -3050,7 +3050,8 @@ class QuantumsandLive
       "ros2/tinyxml_vendor",
       "ros2/tlsf",
       "facebook/jemalloc",
-      "emeryberger/Hoard"
+      "emeryberger/Hoard",
+      "emeryberger/DieHard"
     ]
 
     git_repos_chromium_googlesource = [
