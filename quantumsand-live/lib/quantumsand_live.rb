@@ -3029,7 +3029,8 @@ class QuantumsandLive
       "Trouv/bevy_ecs_ldtk",
       "Canop/bacon",
       "Canop/dysk",
-      "microsoft/litebox"
+      "microsoft/litebox",
+      "ros2/slide_show"
     ]
 
     git_repos_chromium_googlesource = [
