@@ -3061,7 +3061,8 @@ class QuantumsandLive
       "ros2/unique_identifier_msgs",
       "ros/collada_urdf",
       "ros/joint_state_publisher",
-      "ros/urdf"
+      "ros/urdf",
+      "ros/robot_model"
     ]
 
     git_repos_chromium_googlesource = [
