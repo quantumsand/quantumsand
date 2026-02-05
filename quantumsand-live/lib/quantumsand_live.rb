@@ -3054,7 +3054,8 @@ class QuantumsandLive
       "emeryberger/DieHard",
       "brendangregg/FlameGraph",
       "plasma-umass/Mesh",
-      "emeryberger/Malloc-Implementations"
+      "emeryberger/Malloc-Implementations",
+      "ros2/turtlebot2_demo"
     ]
 
     git_repos_chromium_googlesource = [
