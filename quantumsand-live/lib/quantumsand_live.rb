@@ -3040,7 +3040,8 @@ class QuantumsandLive
       "ros-teleop/twist_mux",
       "ThomasDickey/ncurses-snapshots",
       "ros-teleop/teleop_twist_joy",
-      "ros-teleop/twist_mux_msgs"
+      "ros-teleop/twist_mux_msgs",
+      'ros-teleop/teleop_twist_keyboard'
     ]
 
     git_repos_chromium_googlesource = [
