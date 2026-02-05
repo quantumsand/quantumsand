@@ -3070,7 +3070,8 @@ class QuantumsandLive
       "ros-perception/ar_track_alvar",
       "ros-perception/calibration",
       "ros-perception/camera_info_manager_py",
-      "ros-perception/camera_pose"
+      "ros-perception/camera_pose",
+      "ros-perception/graft"
     ]
 
     git_repos_chromium_googlesource = [
