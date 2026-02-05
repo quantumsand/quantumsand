@@ -3030,7 +3030,8 @@ class QuantumsandLive
       "Canop/bacon",
       "Canop/dysk",
       "microsoft/litebox",
-      "ros2/slide_show"
+      "ros2/slide_show",
+      "gabime/spdlog"
     ]
 
     git_repos_chromium_googlesource = [
