@@ -3043,7 +3043,8 @@ class QuantumsandLive
       "ros-teleop/twist_mux_msgs",
       "ros-teleop/teleop_twist_keyboard",
       "ros2/teleop_twist_keyboard",
-      "ros2/test_interface_files"
+      "ros2/test_interface_files",
+      "ros2/tinydir_vendor"
     ]
 
     git_repos_chromium_googlesource = [
