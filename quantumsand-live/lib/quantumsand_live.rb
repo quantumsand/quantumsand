@@ -3069,7 +3069,8 @@ class QuantumsandLive
       "ros2/yaml_cpp_vendor",
       "ros-perception/ar_track_alvar",
       "ros-perception/calibration",
-      "ros-perception/camera_info_manager_py"
+      "ros-perception/camera_info_manager_py",
+      "ros-perception/camera_pose"
     ]
 
     git_repos_chromium_googlesource = [
