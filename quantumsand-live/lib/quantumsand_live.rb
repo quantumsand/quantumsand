@@ -3048,7 +3048,8 @@ class QuantumsandLive
       "cxong/tinydir",
       "ros2/tinyxml2_vendor",
       "ros2/tinyxml_vendor",
-      "ros2/tlsf"
+      "ros2/tlsf",
+      "facebook/jemalloc"
     ]
 
     git_repos_chromium_googlesource = [
