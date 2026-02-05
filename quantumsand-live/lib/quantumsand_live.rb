@@ -3072,7 +3072,8 @@ class QuantumsandLive
       "ros-perception/camera_info_manager_py",
       "ros-perception/camera_pose",
       "ros-perception/graft",
-      "ros-perception/image_common"
+      "ros-perception/image_common",
+      "ros-perception/image_transport_plugins"
     ]
 
     git_repos_chromium_googlesource = [
