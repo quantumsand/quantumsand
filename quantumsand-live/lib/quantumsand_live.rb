@@ -3031,7 +3031,8 @@ class QuantumsandLive
       "Canop/dysk",
       "microsoft/litebox",
       "ros2/slide_show",
-      "gabime/spdlog"
+      "gabime/spdlog",
+      "ros2/spdlog_vendor"
     ]
 
     git_repos_chromium_googlesource = [
