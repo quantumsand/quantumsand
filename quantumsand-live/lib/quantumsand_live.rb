@@ -3046,7 +3046,8 @@ class QuantumsandLive
       "ros2/test_interface_files",
       "ros2/tinydir_vendor",
       "cxong/tinydir",
-      "ros2/tinyxml2_vendor"
+      "ros2/tinyxml2_vendor",
+      "ros2/tinyxml_vendor"
     ]
 
     git_repos_chromium_googlesource = [
