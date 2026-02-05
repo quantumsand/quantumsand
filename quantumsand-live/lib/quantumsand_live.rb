@@ -4373,7 +4373,6 @@ class QuantumsandLive
     # TODO: sys-fs/exfatprogs; exFAT file system
     # TODO: sys-fs/diskdev_cmds; a port of HFS/HFS+ utilities from OpenDarwin
     # TODO: huggingface/huggingface_hub; official Python client for the Huggingface Hub
-    # TODO: torchgeo/torchgeo; TorchGeo is a PyTorch domain library
     # TODO: n0-computer/iroh
     # TODO: tipragot/godot-iroh; peer-to-peer multiplayer extension for Godot based on Iroh
     # TODO: app-shells/fish
