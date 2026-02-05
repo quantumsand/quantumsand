@@ -3033,7 +3033,8 @@ class QuantumsandLive
       "ros2/slide_show",
       "gabime/spdlog",
       "ros2/spdlog_vendor",
-      "ros2/sros2"
+      "ros2/sros2",
+      "ros2/system_tests"
     ]
 
     git_repos_chromium_googlesource = [
