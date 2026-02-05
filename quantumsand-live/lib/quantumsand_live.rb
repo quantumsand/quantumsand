@@ -3074,7 +3074,8 @@ class QuantumsandLive
       "ros-perception/graft",
       "ros-perception/image_common",
       "ros-perception/image_transport_plugins",
-      "ros-perception/image_transport_tutorials"
+      "ros-perception/image_transport_tutorials",
+      "ros-perception/imu_pipeline"
     ]
 
     git_repos_chromium_googlesource = [
