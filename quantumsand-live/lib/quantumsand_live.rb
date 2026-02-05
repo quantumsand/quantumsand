@@ -3076,7 +3076,8 @@ class QuantumsandLive
       "ros-perception/image_transport_plugins",
       "ros-perception/image_transport_tutorials",
       "ros-perception/imu_pipeline",
-      "ros-perception/laser_assembler"
+      "ros-perception/laser_assembler",
+      "ros-perception/laser_filters"
     ]
 
     git_repos_chromium_googlesource = [
