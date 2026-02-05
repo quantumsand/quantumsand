@@ -3032,7 +3032,8 @@ class QuantumsandLive
       "microsoft/litebox",
       "ros2/slide_show",
       "gabime/spdlog",
-      "ros2/spdlog_vendor"
+      "ros2/spdlog_vendor",
+      "ros2/sros2"
     ]
 
     git_repos_chromium_googlesource = [
