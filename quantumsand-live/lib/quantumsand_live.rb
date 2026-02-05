@@ -3056,7 +3056,8 @@ class QuantumsandLive
       "plasma-umass/Mesh",
       "emeryberger/Malloc-Implementations",
       "ros2/turtlebot2_demo",
-      "ros2/tutorials"
+      "ros2/tutorials",
+      "ros2/unique_identifier"
     ]
 
     git_repos_chromium_googlesource = [
