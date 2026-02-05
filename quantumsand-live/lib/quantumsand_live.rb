@@ -4360,7 +4360,6 @@ class QuantumsandLive
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
     # TODO: Audacity
-    # TODO: Ardour
     # TODO: LMMS
     # TODO: GParted
     # TODO: OpenChemistry/avogadrolibs; 3D rendering, visualization, analysis and data processing
