@@ -3073,7 +3073,8 @@ class QuantumsandLive
       "ros-perception/camera_pose",
       "ros-perception/graft",
       "ros-perception/image_common",
-      "ros-perception/image_transport_plugins"
+      "ros-perception/image_transport_plugins",
+      "ros-perception/image_transport_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
