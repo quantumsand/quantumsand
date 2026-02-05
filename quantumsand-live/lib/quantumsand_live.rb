@@ -3034,7 +3034,8 @@ class QuantumsandLive
       "gabime/spdlog",
       "ros2/spdlog_vendor",
       "ros2/sros2",
-      "ros2/system_tests"
+      "ros2/system_tests",
+      "ros2/teleop_twist_joy"
     ]
 
     git_repos_chromium_googlesource = [
