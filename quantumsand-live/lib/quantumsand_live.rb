@@ -3052,7 +3052,8 @@ class QuantumsandLive
       "facebook/jemalloc",
       "emeryberger/Hoard",
       "emeryberger/DieHard",
-      "brendangregg/FlameGraph"
+      "brendangregg/FlameGraph",
+      "plasma-umass/Mesh"
     ]
 
     git_repos_chromium_googlesource = [
