@@ -3063,7 +3063,8 @@ class QuantumsandLive
       "ros/joint_state_publisher",
       "ros/urdf",
       "ros/robot_model",
-      "ros/urdfdom"
+      "ros/urdfdom",
+      "ros/urdfdom_headers"
     ]
 
     git_repos_chromium_googlesource = [
