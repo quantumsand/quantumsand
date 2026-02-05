@@ -3058,7 +3058,8 @@ class QuantumsandLive
       "ros2/turtlebot2_demo",
       "ros2/tutorials",
       "ros2/unique_identifier",
-      "ros2/unique_identifier_msgs"
+      "ros2/unique_identifier_msgs",
+      "ros/collada_urdf"
     ]
 
     git_repos_chromium_googlesource = [
