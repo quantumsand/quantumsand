@@ -3067,7 +3067,8 @@ class QuantumsandLive
       "ros/urdfdom_headers",
       "ros2/variants",
       "ros2/yaml_cpp_vendor",
-      "ros-perception/ar_track_alvar"
+      "ros-perception/ar_track_alvar",
+      "ros-perception/calibration"
     ]
 
     git_repos_chromium_googlesource = [
