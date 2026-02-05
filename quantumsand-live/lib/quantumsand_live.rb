@@ -3027,7 +3027,8 @@ class QuantumsandLive
       "PlusToolkit/PlusBuild",
       "PlusToolkit/PlusApp",
       "Trouv/bevy_ecs_ldtk",
-      "Canop/bacon"
+      "Canop/bacon",
+      "Canop/dysk"
     ]
 
     git_repos_chromium_googlesource = [
