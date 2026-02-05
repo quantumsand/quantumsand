@@ -3036,7 +3036,8 @@ class QuantumsandLive
       "ros2/sros2",
       "ros2/system_tests",
       "ros2/teleop_twist_joy",
-      "ros-teleop/teleop_tools"
+      "ros-teleop/teleop_tools",
+      "ros-teleop/twist_mux"
     ]
 
     git_repos_chromium_googlesource = [
