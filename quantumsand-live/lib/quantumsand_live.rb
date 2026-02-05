@@ -3045,7 +3045,8 @@ class QuantumsandLive
       "ros2/teleop_twist_keyboard",
       "ros2/test_interface_files",
       "ros2/tinydir_vendor",
-      "cxong/tinydir"
+      "cxong/tinydir",
+      "ros2/tinyxml2_vendor"
     ]
 
     git_repos_chromium_googlesource = [
