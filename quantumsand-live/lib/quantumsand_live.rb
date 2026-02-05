@@ -3057,7 +3057,8 @@ class QuantumsandLive
       "emeryberger/Malloc-Implementations",
       "ros2/turtlebot2_demo",
       "ros2/tutorials",
-      "ros2/unique_identifier"
+      "ros2/unique_identifier",
+      "ros2/unique_identifier_msgs"
     ]
 
     git_repos_chromium_googlesource = [
