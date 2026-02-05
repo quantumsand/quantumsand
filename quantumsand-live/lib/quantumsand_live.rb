@@ -4359,7 +4359,6 @@ class QuantumsandLive
     # TODO: Automattic/harper; English grammar checker
     # TODO: vlang/v
     # TODO: ZetloStudio/ZeQLplus
-    # TODO: Audacity
     # TODO: LMMS
     # TODO: GParted
     # TODO: OpenChemistry/avogadrolibs; 3D rendering, visualization, analysis and data processing
