@@ -3065,7 +3065,8 @@ class QuantumsandLive
       "ros/robot_model",
       "ros/urdfdom",
       "ros/urdfdom_headers",
-      "ros2/variants"
+      "ros2/variants",
+      "ros2/yaml_cpp_vendor"
     ]
 
     git_repos_chromium_googlesource = [
