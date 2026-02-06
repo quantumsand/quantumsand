@@ -4210,7 +4210,8 @@ class QuantumsandLive
       "dev-tcltk/expect",
       "media-video/ffmpeg",
       "net-dns/avahi",
-      "sci-physics/root"
+      "sci-physics/root",
+      "dev-cpp/gtest"
     ]
 
     gentoo_eselect_repository_add = {
