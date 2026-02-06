@@ -3118,7 +3118,8 @@ class QuantumsandLive
       "spree/spree",
       "picoruby/picoruby",
       "mrubyc/mrubyc",
-      "mruby/microcontroller-peripheral-interface-guide"
+      "mruby/microcontroller-peripheral-interface-guide",
+      "picoruby/prk_firmware"
     ]
 
     git_repos_chromium_googlesource = [
