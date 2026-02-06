@@ -3970,7 +3970,8 @@ class QuantumsandLive
       "network/libktorrent",
       "graphics/drawy",
       "graphics/okular",
-      "utilities/atelier"
+      "utilities/atelier",
+      "libraries/atcore"
     ]
 
     git_repos_ffmpeg_org = [
