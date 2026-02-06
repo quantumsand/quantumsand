@@ -3087,7 +3087,8 @@ class QuantumsandLive
       "ros-perception/openslam_gmapping",
       "ros-perception/open_karto",
       "ros-perception/pcl-fuerte",
-      "ros-perception/pcl_msgs"
+      "ros-perception/pcl_msgs",
+      "ros-perception/perception_open3d"
     ]
 
     git_repos_chromium_googlesource = [
