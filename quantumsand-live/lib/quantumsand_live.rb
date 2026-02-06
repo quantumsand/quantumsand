@@ -3126,7 +3126,8 @@ class QuantumsandLive
       "wardencommunity/sinatra_warden",
       "sinatra/sinatra",
       "alexch/rerun",
-      "wardencommunity/rails_warden"
+      "wardencommunity/rails_warden",
+      "Shopify/liquid"
     ]
 
     git_repos_chromium_googlesource = [
