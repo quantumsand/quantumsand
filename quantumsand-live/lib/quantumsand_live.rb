@@ -3109,7 +3109,8 @@ class QuantumsandLive
       "budziq/rust-skeptic",
       "HellRok/Taylor",
       "chroma-core/chroma",
-      "huacnlee/rucaptcha"
+      "huacnlee/rucaptcha",
+      "alexheretic/ab-glyph"
     ]
 
     git_repos_chromium_googlesource = [
