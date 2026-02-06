@@ -3099,7 +3099,8 @@ class QuantumsandLive
       "ros-perception/sparse_bundle_adjustment",
       "ros-perception/vision_msgs",
       "ros-drivers/ackermann_msgs",
-      "ros-drivers/advanced_navigation_driver"
+      "ros-drivers/advanced_navigation_driver",
+      "ros-drivers/ati_netft_ros_driver"
     ]
 
     git_repos_chromium_googlesource = [
