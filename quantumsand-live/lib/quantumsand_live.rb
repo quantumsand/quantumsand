@@ -4352,7 +4352,6 @@ class QuantumsandLive
     # TODO: VLC
     # TODO: ejabberd
     # TODO: GStreamer
-    # TODO: dev-cpp/gtest; Google C++ Testing Framework
     # TODO: audio_waveform-ruby + peaks.js + audiowaveform
     # TODO: Quantum Sand deps
     # TODO: Customised Qt6 + Quantum Sand + OpenTelemetry + MapLibre GL JS
