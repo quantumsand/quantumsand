@@ -3094,7 +3094,8 @@ class QuantumsandLive
       "ros-perception/point_cloud_transport_tutorial",
       "ros-perception/radar_msgs",
       "ros-perception/slam_gmapping_test_data",
-      "ros-perception/slam_karto"
+      "ros-perception/slam_karto",
+      "sudo-project/sudo"
     ]
 
     git_repos_chromium_googlesource = [
