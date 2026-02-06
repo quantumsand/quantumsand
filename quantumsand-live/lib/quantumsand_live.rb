@@ -3107,7 +3107,8 @@ class QuantumsandLive
       "sidekiq/sidekiq",
       "tfpk/mdbook-keeper",
       "budziq/rust-skeptic",
-      "HellRok/Taylor"
+      "HellRok/Taylor",
+      "chroma-core/chroma"
     ]
 
     git_repos_chromium_googlesource = [
