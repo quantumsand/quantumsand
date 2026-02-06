@@ -3108,7 +3108,8 @@ class QuantumsandLive
       "tfpk/mdbook-keeper",
       "budziq/rust-skeptic",
       "HellRok/Taylor",
-      "chroma-core/chroma"
+      "chroma-core/chroma",
+      "huacnlee/rucaptcha"
     ]
 
     git_repos_chromium_googlesource = [
