@@ -3908,7 +3908,8 @@ class QuantumsandLive
       "GNOME/localsearch",
       "GNOME/mobile-broadband-provider-info",
       "GNOME/pango",
-      "GNOME/glycin"
+      "GNOME/glycin",
+      "GNOME/mutter"
     ]
 
     git_repos_postgresql_org = [
