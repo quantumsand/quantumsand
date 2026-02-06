@@ -3112,7 +3112,8 @@ class QuantumsandLive
       "huacnlee/rucaptcha",
       "alexheretic/ab-glyph",
       "tilo/smarter_csv",
-      "tilo/ID3"
+      "tilo/ID3",
+      "svenfuchs/rails-i18n"
     ]
 
     git_repos_chromium_googlesource = [
