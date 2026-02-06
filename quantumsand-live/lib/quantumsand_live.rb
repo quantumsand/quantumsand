@@ -3105,7 +3105,8 @@ class QuantumsandLive
       "ros-drivers/audio_common",
       "ros-drivers/axis_camera",
       "sidekiq/sidekiq",
-      "tfpk/mdbook-keeper"
+      "tfpk/mdbook-keeper",
+      "budziq/rust-skeptic"
     ]
 
     git_repos_chromium_googlesource = [
