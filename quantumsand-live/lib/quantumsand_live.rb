@@ -3098,7 +3098,8 @@ class QuantumsandLive
       "sudo-project/sudo",
       "ros-perception/sparse_bundle_adjustment",
       "ros-perception/vision_msgs",
-      "ros-drivers/ackermann_msgs"
+      "ros-drivers/ackermann_msgs",
+      "ros-drivers/advanced_navigation_driver"
     ]
 
     git_repos_chromium_googlesource = [
