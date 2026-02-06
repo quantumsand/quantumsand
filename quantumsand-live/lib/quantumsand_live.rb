@@ -3089,7 +3089,8 @@ class QuantumsandLive
       "ros-perception/pcl-fuerte",
       "ros-perception/pcl_msgs",
       "ros-perception/perception_open3d",
-      "ros-perception/point_cloud_transport"
+      "ros-perception/point_cloud_transport",
+      "ros-perception/point_cloud_transport_plugins"
     ]
 
     git_repos_chromium_googlesource = [
