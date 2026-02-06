@@ -3113,7 +3113,8 @@ class QuantumsandLive
       "alexheretic/ab-glyph",
       "tilo/smarter_csv",
       "tilo/ID3",
-      "svenfuchs/rails-i18n"
+      "svenfuchs/rails-i18n",
+      "tilo/smarter_logging"
     ]
 
     git_repos_chromium_googlesource = [
