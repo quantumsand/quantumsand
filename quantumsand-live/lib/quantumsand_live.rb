@@ -3101,7 +3101,8 @@ class QuantumsandLive
       "ros-drivers/ackermann_msgs",
       "ros-drivers/advanced_navigation_driver",
       "ros-drivers/ati_netft_ros_driver",
-      "skohlbr/rtt_ros_control_example"
+      "skohlbr/rtt_ros_control_example",
+      "ros-drivers/audio_common"
     ]
 
     git_repos_chromium_googlesource = [
