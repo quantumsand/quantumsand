@@ -3100,7 +3100,8 @@ class QuantumsandLive
       "ros-perception/vision_msgs",
       "ros-drivers/ackermann_msgs",
       "ros-drivers/advanced_navigation_driver",
-      "ros-drivers/ati_netft_ros_driver"
+      "ros-drivers/ati_netft_ros_driver",
+      "skohlbr/rtt_ros_control_example"
     ]
 
     git_repos_chromium_googlesource = [
