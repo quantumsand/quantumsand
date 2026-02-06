@@ -3102,7 +3102,8 @@ class QuantumsandLive
       "ros-drivers/advanced_navigation_driver",
       "ros-drivers/ati_netft_ros_driver",
       "skohlbr/rtt_ros_control_example",
-      "ros-drivers/audio_common"
+      "ros-drivers/audio_common",
+      "ros-drivers/axis_camera"
     ]
 
     git_repos_chromium_googlesource = [
