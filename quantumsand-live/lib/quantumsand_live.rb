@@ -3110,7 +3110,8 @@ class QuantumsandLive
       "HellRok/Taylor",
       "chroma-core/chroma",
       "huacnlee/rucaptcha",
-      "alexheretic/ab-glyph"
+      "alexheretic/ab-glyph",
+      "tilo/smarter_csv"
     ]
 
     git_repos_chromium_googlesource = [
