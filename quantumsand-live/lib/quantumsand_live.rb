@@ -3096,7 +3096,8 @@ class QuantumsandLive
       "ros-perception/slam_gmapping_test_data",
       "ros-perception/slam_karto",
       "sudo-project/sudo",
-      "ros-perception/sparse_bundle_adjustment"
+      "ros-perception/sparse_bundle_adjustment",
+      "ros-perception/vision_msgs"
     ]
 
     git_repos_chromium_googlesource = [
