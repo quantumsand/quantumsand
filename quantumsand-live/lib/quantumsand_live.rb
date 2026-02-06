@@ -3084,7 +3084,8 @@ class QuantumsandLive
       "ros-perception/laser_proc",
       "ros-perception/megatree",
       "ros-perception/opencv_apps",
-      "ros-perception/openslam_gmapping"
+      "ros-perception/openslam_gmapping",
+      "ros-perception/open_karto"
     ]
 
     git_repos_chromium_googlesource = [
