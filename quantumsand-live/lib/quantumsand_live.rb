@@ -3117,7 +3117,8 @@ class QuantumsandLive
       "tilo/smarter_logging",
       "spree/spree",
       "picoruby/picoruby",
-      "mrubyc/mrubyc"
+      "mrubyc/mrubyc",
+      "mruby/microcontroller-peripheral-interface-guide"
     ]
 
     git_repos_chromium_googlesource = [
