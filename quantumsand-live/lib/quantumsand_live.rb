@@ -3081,7 +3081,8 @@ class QuantumsandLive
       "ros-perception/laser_geometry",
       "gnutls/nettle",
       "ros-perception/laser_pipeline",
-      "ros-perception/laser_proc"
+      "ros-perception/laser_proc",
+      "ros-perception/megatree"
     ]
 
     git_repos_chromium_googlesource = [
