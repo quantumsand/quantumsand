@@ -3115,7 +3115,8 @@ class QuantumsandLive
       "tilo/ID3",
       "svenfuchs/rails-i18n",
       "tilo/smarter_logging",
-      "spree/spree"
+      "spree/spree",
+      "picoruby/picoruby"
     ]
 
     git_repos_chromium_googlesource = [
