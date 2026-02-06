@@ -3227,7 +3227,8 @@ class QuantumsandLive
       "debugedit",
       "elfutils",
       "glibc",
-      "lvm2"
+      "lvm2",
+      "valgrind"
     ]
 
     git_repos_libssh_org = [
