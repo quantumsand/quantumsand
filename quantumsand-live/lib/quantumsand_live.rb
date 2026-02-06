@@ -3122,7 +3122,8 @@ class QuantumsandLive
       "picoruby/prk_firmware",
       "tilo/embedded_localization",
       "heartcombo/devise",
-      "wardencommunity/warden"
+      "wardencommunity/warden",
+      "wardencommunity/sinatra_warden"
     ]
 
     git_repos_chromium_googlesource = [
