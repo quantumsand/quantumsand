@@ -3111,7 +3111,8 @@ class QuantumsandLive
       "chroma-core/chroma",
       "huacnlee/rucaptcha",
       "alexheretic/ab-glyph",
-      "tilo/smarter_csv"
+      "tilo/smarter_csv",
+      "tilo/ID3"
     ]
 
     git_repos_chromium_googlesource = [
