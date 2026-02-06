@@ -3104,7 +3104,8 @@ class QuantumsandLive
       "skohlbr/rtt_ros_control_example",
       "ros-drivers/audio_common",
       "ros-drivers/axis_camera",
-      "sidekiq/sidekiq"
+      "sidekiq/sidekiq",
+      "tfpk/mdbook-keeper"
     ]
 
     git_repos_chromium_googlesource = [
