@@ -3123,7 +3123,8 @@ class QuantumsandLive
       "tilo/embedded_localization",
       "heartcombo/devise",
       "wardencommunity/warden",
-      "wardencommunity/sinatra_warden"
+      "wardencommunity/sinatra_warden",
+      "sinatra/sinatra"
     ]
 
     git_repos_chromium_googlesource = [
