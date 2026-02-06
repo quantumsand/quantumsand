@@ -3119,7 +3119,8 @@ class QuantumsandLive
       "picoruby/picoruby",
       "mrubyc/mrubyc",
       "mruby/microcontroller-peripheral-interface-guide",
-      "picoruby/prk_firmware"
+      "picoruby/prk_firmware",
+      "tilo/embedded_localization"
     ]
 
     git_repos_chromium_googlesource = [
