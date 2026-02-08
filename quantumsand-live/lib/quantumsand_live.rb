@@ -3127,7 +3127,8 @@ class QuantumsandLive
       "sinatra/sinatra",
       "alexch/rerun",
       "wardencommunity/rails_warden",
-      "Shopify/liquid"
+      "Shopify/liquid",
+      "ocornut/imgui"
     ]
 
     git_repos_chromium_googlesource = [
