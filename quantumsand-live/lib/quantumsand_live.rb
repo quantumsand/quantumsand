@@ -3128,7 +3128,8 @@ class QuantumsandLive
       "alexch/rerun",
       "wardencommunity/rails_warden",
       "Shopify/liquid",
-      "ocornut/imgui"
+      "ocornut/imgui",
+      "dreamworksanimation/openmoonray"
     ]
 
     git_repos_chromium_googlesource = [
