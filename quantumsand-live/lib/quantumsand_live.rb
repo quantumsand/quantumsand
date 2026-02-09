@@ -3139,7 +3139,8 @@ class QuantumsandLive
       "dreamworksanimation/moonshine",
       "flipperdevices/flipperzero-firmware",
       "flipperdevices/qFlipper",
-      "flipperdevices/flipperzero-ufbt"
+      "flipperdevices/flipperzero-ufbt",
+      "dreamworksanimation/moonshine_usd"
     ]
 
     git_repos_chromium_googlesource = [
