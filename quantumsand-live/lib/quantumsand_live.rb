@@ -3129,7 +3129,8 @@ class QuantumsandLive
       "wardencommunity/rails_warden",
       "Shopify/liquid",
       "ocornut/imgui",
-      "dreamworksanimation/openmoonray"
+      "dreamworksanimation/openmoonray",
+      "tiran/defusedxml"
     ]
 
     git_repos_chromium_googlesource = [
