@@ -3174,7 +3174,8 @@ class QuantumsandLive
       "ob-encoder/obe-rt",
       "mossmann/libopencm3",
       "greatscottgadgets/gsg-kicad-lib",
-      "csdvb/hackrf"
+      "csdvb/hackrf",
+      "greatscottgadgets/hackrf"
     ]
 
     git_repos_chromium_googlesource = [
