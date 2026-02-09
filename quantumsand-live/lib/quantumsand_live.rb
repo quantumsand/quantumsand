@@ -4216,7 +4216,8 @@ class QuantumsandLive
       "dev-cpp/gtest",
       "dev-util/nvidia-cuda-toolkit",
       "dev-util/nsight-compute",
-      "dev-util/nsight-systems"
+      "dev-util/nsight-systems",
+      "sys-cluster/rdma-core"
     ]
 
     gentoo_eselect_repository_add = {
