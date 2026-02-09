@@ -4214,7 +4214,8 @@ class QuantumsandLive
       "net-dns/avahi",
       "sci-physics/root",
       "dev-cpp/gtest",
-      "dev-util/nvidia-cuda-toolkit"
+      "dev-util/nvidia-cuda-toolkit",
+      "dev-util/nsight-compute"
     ]
 
     gentoo_eselect_repository_add = {
