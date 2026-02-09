@@ -3171,7 +3171,8 @@ class QuantumsandLive
       "gfto/libtsfuncs",
       "csdvb/libmpegts",
       "kierank/libmpegts",
-      "ob-encoder/obe-rt"
+      "ob-encoder/obe-rt",
+      "mossmann/libopencm3"
     ]
 
     git_repos_chromium_googlesource = [
