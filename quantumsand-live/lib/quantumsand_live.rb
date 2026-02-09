@@ -3158,7 +3158,8 @@ class QuantumsandLive
       "myriadrf/LMS7002M-docs",
       "myriadrf/LimeSuiteNG",
       "gqrx-sdr/gqrx",
-      "gqrx-sdr/gr-osmosdr"
+      "gqrx-sdr/gr-osmosdr",
+      "myriadrf/handbook"
     ]
 
     git_repos_chromium_googlesource = [
