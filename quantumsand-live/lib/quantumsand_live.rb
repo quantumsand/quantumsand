@@ -3134,7 +3134,8 @@ class QuantumsandLive
       "dreamworksanimation/minicoord",
       "dreamworksanimation/arras4_core",
       "dreamworksanimation/scene_rdl2",
-      "dreamworksanimation/mcrt_denoise"
+      "dreamworksanimation/mcrt_denoise",
+      "dreamworksanimation/moonray"
     ]
 
     git_repos_chromium_googlesource = [
