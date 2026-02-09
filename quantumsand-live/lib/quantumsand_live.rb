@@ -3131,7 +3131,8 @@ class QuantumsandLive
       "ocornut/imgui",
       "dreamworksanimation/openmoonray",
       "tiran/defusedxml",
-      "dreamworksanimation/minicoord"
+      "dreamworksanimation/minicoord",
+      "dreamworksanimation/arras4_core"
     ]
 
     git_repos_chromium_googlesource = [
