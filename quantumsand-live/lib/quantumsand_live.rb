@@ -3162,7 +3162,8 @@ class QuantumsandLive
       "myriadrf/handbook",
       "Hamlib/Hamlib",
       "csete/remotesdrclient-ns",
-      "csete/gpredict"
+      "csete/gpredict",
+      "csdvb/dvbs2_tx"
     ]
 
     git_repos_chromium_googlesource = [
