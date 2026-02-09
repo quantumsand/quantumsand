@@ -3177,7 +3177,8 @@ class QuantumsandLive
       "csdvb/hackrf",
       "greatscottgadgets/hackrf",
       "Homebrew/brew",
-      "Homebrew/homebrew-core"
+      "Homebrew/homebrew-core",
+      "Homebrew/install"
     ]
 
     git_repos_chromium_googlesource = [
