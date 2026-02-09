@@ -3166,7 +3166,8 @@ class QuantumsandLive
       "csdvb/dvbs2_tx",
       "csdvb/avc2ts",
       "csdvb/mptsd",
-      "gfto/mptsd"
+      "gfto/mptsd",
+      "gfto/libfuncs"
     ]
 
     git_repos_chromium_googlesource = [
