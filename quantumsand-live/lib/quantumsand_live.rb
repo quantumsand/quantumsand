@@ -3155,7 +3155,8 @@ class QuantumsandLive
       "dreamworksanimation/rats",
       "myriadrf/LimeSuite",
       "myriadrf/gr-limesdr",
-      "myriadrf/LMS7002M-docs"
+      "myriadrf/LMS7002M-docs",
+      "myriadrf/LimeSuiteNG"
     ]
 
     git_repos_chromium_googlesource = [
