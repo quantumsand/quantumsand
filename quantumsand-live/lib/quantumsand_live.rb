@@ -3151,7 +3151,8 @@ class QuantumsandLive
       "dreamworksanimation/cmake_modules",
       "dreamworksanimation/moonray_sdr_plugins",
       "dreamworksanimation/moonray_dcc_plugins",
-      "dreamworksanimation/render_profile_viewer"
+      "dreamworksanimation/render_profile_viewer",
+      "dreamworksanimation/rats"
     ]
 
     git_repos_chromium_googlesource = [
