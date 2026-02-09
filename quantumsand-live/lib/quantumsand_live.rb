@@ -3143,7 +3143,8 @@ class QuantumsandLive
       "dreamworksanimation/moonshine_usd",
       "dreamworksanimation/mcrt_dataio",
       "dreamworksanimation/mcrt_computation",
-      "dreamworksanimation/mcrt_messages"
+      "dreamworksanimation/mcrt_messages",
+      "dreamworksanimation/moonray_gui"
     ]
 
     git_repos_chromium_googlesource = [
