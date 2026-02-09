@@ -3169,7 +3169,8 @@ class QuantumsandLive
       "gfto/mptsd",
       "gfto/libfuncs",
       "gfto/libtsfuncs",
-      "csdvb/libmpegts"
+      "csdvb/libmpegts",
+      "kierank/libmpegts"
     ]
 
     git_repos_chromium_googlesource = [
