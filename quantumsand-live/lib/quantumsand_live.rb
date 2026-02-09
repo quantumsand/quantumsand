@@ -3178,7 +3178,8 @@ class QuantumsandLive
       "greatscottgadgets/hackrf",
       "Homebrew/brew",
       "Homebrew/homebrew-core",
-      "Homebrew/install"
+      "Homebrew/install",
+      "Homebrew/homebrew-cask"
     ]
 
     git_repos_chromium_googlesource = [
