@@ -3170,7 +3170,8 @@ class QuantumsandLive
       "gfto/libfuncs",
       "gfto/libtsfuncs",
       "csdvb/libmpegts",
-      "kierank/libmpegts"
+      "kierank/libmpegts",
+      "ob-encoder/obe-rt"
     ]
 
     git_repos_chromium_googlesource = [
