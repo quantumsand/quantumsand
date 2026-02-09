@@ -3160,7 +3160,8 @@ class QuantumsandLive
       "gqrx-sdr/gqrx",
       "gqrx-sdr/gr-osmosdr",
       "myriadrf/handbook",
-      "Hamlib/Hamlib"
+      "Hamlib/Hamlib",
+      "csete/remotesdrclient-ns"
     ]
 
     git_repos_chromium_googlesource = [
