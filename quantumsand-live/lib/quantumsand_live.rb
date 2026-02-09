@@ -3146,7 +3146,8 @@ class QuantumsandLive
       "dreamworksanimation/mcrt_messages",
       "dreamworksanimation/moonray_gui",
       "dreamworksanimation/hdMoonray",
-      "dreamworksanimation/arras_render"
+      "dreamworksanimation/arras_render",
+      "dreamworksanimation/arras4_node"
     ]
 
     git_repos_chromium_googlesource = [
