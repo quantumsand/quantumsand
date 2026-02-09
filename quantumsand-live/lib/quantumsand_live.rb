@@ -3165,7 +3165,8 @@ class QuantumsandLive
       "csete/gpredict",
       "csdvb/dvbs2_tx",
       "csdvb/avc2ts",
-      "csdvb/mptsd"
+      "csdvb/mptsd",
+      "gfto/mptsd"
     ]
 
     git_repos_chromium_googlesource = [
