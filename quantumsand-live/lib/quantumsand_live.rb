@@ -3137,7 +3137,8 @@ class QuantumsandLive
       "dreamworksanimation/mcrt_denoise",
       "dreamworksanimation/moonray",
       "dreamworksanimation/moonshine",
-      "flipperdevices/flipperzero-firmware"
+      "flipperdevices/flipperzero-firmware",
+      "flipperdevices/qFlipper"
     ]
 
     git_repos_chromium_googlesource = [
