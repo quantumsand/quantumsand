@@ -4213,7 +4213,8 @@ class QuantumsandLive
       "media-video/ffmpeg",
       "net-dns/avahi",
       "sci-physics/root",
-      "dev-cpp/gtest"
+      "dev-cpp/gtest",
+      "dev-util/nvidia-cuda-toolkit"
     ]
 
     gentoo_eselect_repository_add = {
