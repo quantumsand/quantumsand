@@ -3130,7 +3130,8 @@ class QuantumsandLive
       "Shopify/liquid",
       "ocornut/imgui",
       "dreamworksanimation/openmoonray",
-      "tiran/defusedxml"
+      "tiran/defusedxml",
+      "dreamworksanimation/minicoord"
     ]
 
     git_repos_chromium_googlesource = [
