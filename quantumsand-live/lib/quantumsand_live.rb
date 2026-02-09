@@ -3152,7 +3152,8 @@ class QuantumsandLive
       "dreamworksanimation/moonray_sdr_plugins",
       "dreamworksanimation/moonray_dcc_plugins",
       "dreamworksanimation/render_profile_viewer",
-      "dreamworksanimation/rats"
+      "dreamworksanimation/rats",
+      "myriadrf/LimeSuite"
     ]
 
     git_repos_chromium_googlesource = [
