@@ -3163,7 +3163,8 @@ class QuantumsandLive
       "Hamlib/Hamlib",
       "csete/remotesdrclient-ns",
       "csete/gpredict",
-      "csdvb/dvbs2_tx"
+      "csdvb/dvbs2_tx",
+      "csdvb/avc2ts"
     ]
 
     git_repos_chromium_googlesource = [
