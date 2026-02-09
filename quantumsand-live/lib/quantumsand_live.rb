@@ -3176,7 +3176,8 @@ class QuantumsandLive
       "greatscottgadgets/gsg-kicad-lib",
       "csdvb/hackrf",
       "greatscottgadgets/hackrf",
-      "Homebrew/brew"
+      "Homebrew/brew",
+      "Homebrew/homebrew-core"
     ]
 
     git_repos_chromium_googlesource = [
