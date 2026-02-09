@@ -3173,7 +3173,8 @@ class QuantumsandLive
       "kierank/libmpegts",
       "ob-encoder/obe-rt",
       "mossmann/libopencm3",
-      "greatscottgadgets/gsg-kicad-lib"
+      "greatscottgadgets/gsg-kicad-lib",
+      "csdvb/hackrf"
     ]
 
     git_repos_chromium_googlesource = [
