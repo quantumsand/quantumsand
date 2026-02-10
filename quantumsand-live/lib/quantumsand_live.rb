@@ -3181,7 +3181,8 @@ class QuantumsandLive
       "Homebrew/install",
       "Homebrew/homebrew-cask",
       "Homebrew/formulae.brew.sh",
-      "anthropics/claudes-c-compiler"
+      "anthropics/claudes-c-compiler",
+      "ruby/prism"
     ]
 
     git_repos_chromium_googlesource = [
