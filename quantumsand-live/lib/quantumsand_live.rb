@@ -3180,7 +3180,8 @@ class QuantumsandLive
       "Homebrew/homebrew-core",
       "Homebrew/install",
       "Homebrew/homebrew-cask",
-      "Homebrew/formulae.brew.sh"
+      "Homebrew/formulae.brew.sh",
+      "anthropics/claudes-c-compiler"
     ]
 
     git_repos_chromium_googlesource = [
