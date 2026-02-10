@@ -3182,7 +3182,8 @@ class QuantumsandLive
       "Homebrew/homebrew-cask",
       "Homebrew/formulae.brew.sh",
       "anthropics/claudes-c-compiler",
-      "ruby/prism"
+      "ruby/prism",
+      "shaka-project/shaka-player"
     ]
 
     git_repos_chromium_googlesource = [
