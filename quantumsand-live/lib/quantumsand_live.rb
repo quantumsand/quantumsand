@@ -3219,7 +3219,8 @@ class QuantumsandLive
       "hrydgard/ppsspp-lua",
       "hrydgard/freetype",
       "hrydgard/nanosvg",
-      "Kethen/aemu_postoffice"
+      "Kethen/aemu_postoffice",
+      "ARM-software/vulkan_best_practice_for_mobile_developers"
     ]
 
     git_repos_chromium_googlesource = [
