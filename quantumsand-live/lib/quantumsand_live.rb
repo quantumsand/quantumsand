@@ -3223,7 +3223,8 @@ class QuantumsandLive
       "ARM-software/vulkan_best_practice_for_mobile_developers",
       "zeux/volk",
       "ARM-software/libGPUCounters",
-      "ARM-software/astc-encoder"
+      "ARM-software/astc-encoder",
+      "vit-vit/CTPL"
     ]
 
     git_repos_chromium_googlesource = [
