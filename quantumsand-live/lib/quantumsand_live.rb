@@ -3208,7 +3208,8 @@ class QuantumsandLive
       "hrydgard/ppsspp-mac-sdl",
       "unknownbrackets/ppsspp-debugger",
       "google/cpu_features",
-      "RetroAchievements/rcheevos"
+      "RetroAchievements/rcheevos",
+      "erkkah/naett"
     ]
 
     git_repos_chromium_googlesource = [
