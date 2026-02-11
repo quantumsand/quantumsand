@@ -3226,7 +3226,8 @@ class QuantumsandLive
       "ARM-software/astc-encoder",
       "vit-vit/CTPL",
       "docopt/docopt.cpp",
-      "bellard/mquickjs"
+      "bellard/mquickjs",
+      "github/copilot-sdk"
     ]
 
     git_repos_chromium_googlesource = [
