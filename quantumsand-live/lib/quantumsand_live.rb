@@ -3222,7 +3222,8 @@ class QuantumsandLive
       "Kethen/aemu_postoffice",
       "ARM-software/vulkan_best_practice_for_mobile_developers",
       "zeux/volk",
-      "ARM-software/libGPUCounters"
+      "ARM-software/libGPUCounters",
+      "ARM-software/astc-encoder"
     ]
 
     git_repos_chromium_googlesource = [
