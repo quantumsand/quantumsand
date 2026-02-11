@@ -3209,7 +3209,8 @@ class QuantumsandLive
       "unknownbrackets/ppsspp-debugger",
       "google/cpu_features",
       "RetroAchievements/rcheevos",
-      "erkkah/naett"
+      "erkkah/naett",
+      "rtissera/libchdr"
     ]
 
     git_repos_chromium_googlesource = [
