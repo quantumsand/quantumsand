@@ -3188,7 +3188,8 @@ class QuantumsandLive
       "lioncash/dynarmic",
       "lat9nq/tzdb_to_nx",
       "brofield/simpleini",
-      "KhronosGroup/Vulkan-Utility-Libraries"
+      "KhronosGroup/Vulkan-Utility-Libraries",
+      "LunarG/VulkanSamples"
     ]
 
     git_repos_chromium_googlesource = [
