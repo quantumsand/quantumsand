@@ -3222,6 +3222,10 @@ class QuantumsandLive
       "go"
     ]
 
+    git_repos_skia_googlesource = [
+      "skia"
+    ]
+
     git_xet_hf_download_huggingface_co = [
       "opencv/qrcode_wechatqrcode",
       "miromind-ai/MiroThinker-v1.0-8B",
