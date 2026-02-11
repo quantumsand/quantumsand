@@ -3186,7 +3186,8 @@ class QuantumsandLive
       "shaka-project/shaka-player",
       "cpm-cmake/CPM.cmake",
       "lioncash/dynarmic",
-      "lat9nq/tzdb_to_nx"
+      "lat9nq/tzdb_to_nx",
+      "brofield/simpleini"
     ]
 
     git_repos_chromium_googlesource = [
