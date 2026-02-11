@@ -3201,7 +3201,8 @@ class QuantumsandLive
       "Tencent/AngelSlim",
       "Kingcom/filesystem",
       "Kingcom/armips",
-      "hrydgard/glslang"
+      "hrydgard/glslang",
+      "KhronosGroup/SPIRV-Cross"
     ]
 
     git_repos_chromium_googlesource = [
