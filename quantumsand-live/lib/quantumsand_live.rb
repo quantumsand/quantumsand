@@ -3225,7 +3225,8 @@ class QuantumsandLive
       "ARM-software/libGPUCounters",
       "ARM-software/astc-encoder",
       "vit-vit/CTPL",
-      "docopt/docopt.cpp"
+      "docopt/docopt.cpp",
+      "bellard/mquickjs"
     ]
 
     git_repos_chromium_googlesource = [
