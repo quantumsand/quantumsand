@@ -3185,7 +3185,8 @@ class QuantumsandLive
       "ruby/prism",
       "shaka-project/shaka-player",
       "cpm-cmake/CPM.cmake",
-      "lioncash/dynarmic"
+      "lioncash/dynarmic",
+      "lat9nq/tzdb_to_nx"
     ]
 
     git_repos_chromium_googlesource = [
