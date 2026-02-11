@@ -3190,7 +3190,8 @@ class QuantumsandLive
       "brofield/simpleini",
       "KhronosGroup/Vulkan-Utility-Libraries",
       "LunarG/VulkanSamples",
-      "google/filament"
+      "google/filament",
+      "DustinHLand/vkDOOM3"
     ]
 
     git_repos_chromium_googlesource = [
