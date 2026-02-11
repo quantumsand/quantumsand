@@ -3221,7 +3221,8 @@ class QuantumsandLive
       "hrydgard/nanosvg",
       "Kethen/aemu_postoffice",
       "ARM-software/vulkan_best_practice_for_mobile_developers",
-      "zeux/volk"
+      "zeux/volk",
+      "ARM-software/libGPUCounters"
     ]
 
     git_repos_chromium_googlesource = [
