@@ -3207,7 +3207,8 @@ class QuantumsandLive
       "miniupnp/miniupnp",
       "hrydgard/ppsspp-mac-sdl",
       "unknownbrackets/ppsspp-debugger",
-      "google/cpu_features"
+      "google/cpu_features",
+      "RetroAchievements/rcheevos"
     ]
 
     git_repos_chromium_googlesource = [
