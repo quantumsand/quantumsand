@@ -3198,7 +3198,8 @@ class QuantumsandLive
       "hrydgard/pspautotests",
       "FFmpeg/gas-preprocessor",
       "hrydgard/ppsspp-ffmpeg",
-      "Tencent/AngelSlim"
+      "Tencent/AngelSlim",
+      "Kingcom/filesystem"
     ]
 
     git_repos_chromium_googlesource = [
