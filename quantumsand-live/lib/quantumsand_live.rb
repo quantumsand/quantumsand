@@ -3194,7 +3194,8 @@ class QuantumsandLive
       "DustinHLand/vkDOOM3",
       "mackron/miniaudio",
       "turanszkij/WickedEngine",
-      "libretro/libretro-common"
+      "libretro/libretro-common",
+      "hrydgard/pspautotests"
     ]
 
     git_repos_chromium_googlesource = [
