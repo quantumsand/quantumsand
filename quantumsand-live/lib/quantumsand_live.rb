@@ -3224,7 +3224,8 @@ class QuantumsandLive
       "zeux/volk",
       "ARM-software/libGPUCounters",
       "ARM-software/astc-encoder",
-      "vit-vit/CTPL"
+      "vit-vit/CTPL",
+      "docopt/docopt.cpp"
     ]
 
     git_repos_chromium_googlesource = [
