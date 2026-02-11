@@ -3205,7 +3205,8 @@ class QuantumsandLive
       "KhronosGroup/SPIRV-Cross",
       "discord/discord-rpc",
       "miniupnp/miniupnp",
-      "hrydgard/ppsspp-mac-sdl"
+      "hrydgard/ppsspp-mac-sdl",
+      "unknownbrackets/ppsspp-debugger"
     ]
 
     git_repos_chromium_googlesource = [
