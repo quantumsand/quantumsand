@@ -3206,7 +3206,8 @@ class QuantumsandLive
       "discord/discord-rpc",
       "miniupnp/miniupnp",
       "hrydgard/ppsspp-mac-sdl",
-      "unknownbrackets/ppsspp-debugger"
+      "unknownbrackets/ppsspp-debugger",
+      "google/cpu_features"
     ]
 
     git_repos_chromium_googlesource = [
