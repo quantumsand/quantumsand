@@ -3203,7 +3203,8 @@ class QuantumsandLive
       "Kingcom/armips",
       "hrydgard/glslang",
       "KhronosGroup/SPIRV-Cross",
-      "discord/discord-rpc"
+      "discord/discord-rpc",
+      "miniupnp/miniupnp"
     ]
 
     git_repos_chromium_googlesource = [
