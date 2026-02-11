@@ -3197,7 +3197,8 @@ class QuantumsandLive
       "libretro/libretro-common",
       "hrydgard/pspautotests",
       "FFmpeg/gas-preprocessor",
-      "hrydgard/ppsspp-ffmpeg"
+      "hrydgard/ppsspp-ffmpeg",
+      "Tencent/AngelSlim"
     ]
 
     git_repos_chromium_googlesource = [
