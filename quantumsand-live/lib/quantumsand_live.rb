@@ -3184,7 +3184,8 @@ class QuantumsandLive
       "anthropics/claudes-c-compiler",
       "ruby/prism",
       "shaka-project/shaka-player",
-      "cpm-cmake/CPM.cmake"
+      "cpm-cmake/CPM.cmake",
+      "lioncash/dynarmic"
     ]
 
     git_repos_chromium_googlesource = [
