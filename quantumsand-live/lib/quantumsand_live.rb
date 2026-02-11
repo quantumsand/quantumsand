@@ -3192,7 +3192,8 @@ class QuantumsandLive
       "LunarG/VulkanSamples",
       "google/filament",
       "DustinHLand/vkDOOM3",
-      "mackron/miniaudio"
+      "mackron/miniaudio",
+      "turanszkij/WickedEngine"
     ]
 
     git_repos_chromium_googlesource = [
