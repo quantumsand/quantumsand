@@ -3214,7 +3214,8 @@ class QuantumsandLive
       "bylaws/liblinkernsbypass",
       "KhronosGroup/OpenXR-SDK",
       "KhronosGroup/OpenXR-SDK-Source",
-      "hrydgard/ppsspp-moltenvk"
+      "hrydgard/ppsspp-moltenvk",
+      "KhronosGroup/MoltenVK"
     ]
 
     git_repos_chromium_googlesource = [
