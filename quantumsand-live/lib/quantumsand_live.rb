@@ -3195,7 +3195,8 @@ class QuantumsandLive
       "mackron/miniaudio",
       "turanszkij/WickedEngine",
       "libretro/libretro-common",
-      "hrydgard/pspautotests"
+      "hrydgard/pspautotests",
+      "FFmpeg/gas-preprocessor"
     ]
 
     git_repos_chromium_googlesource = [
