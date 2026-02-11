@@ -3213,7 +3213,8 @@ class QuantumsandLive
       "rtissera/libchdr",
       "bylaws/liblinkernsbypass",
       "KhronosGroup/OpenXR-SDK",
-      "KhronosGroup/OpenXR-SDK-Source"
+      "KhronosGroup/OpenXR-SDK-Source",
+      "hrydgard/ppsspp-moltenvk"
     ]
 
     git_repos_chromium_googlesource = [
