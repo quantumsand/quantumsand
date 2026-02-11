@@ -3210,7 +3210,8 @@ class QuantumsandLive
       "google/cpu_features",
       "RetroAchievements/rcheevos",
       "erkkah/naett",
-      "rtissera/libchdr"
+      "rtissera/libchdr",
+      "bylaws/liblinkernsbypass"
     ]
 
     git_repos_chromium_googlesource = [
