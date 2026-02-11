@@ -3196,7 +3196,8 @@ class QuantumsandLive
       "turanszkij/WickedEngine",
       "libretro/libretro-common",
       "hrydgard/pspautotests",
-      "FFmpeg/gas-preprocessor"
+      "FFmpeg/gas-preprocessor",
+      "hrydgard/ppsspp-ffmpeg"
     ]
 
     git_repos_chromium_googlesource = [
