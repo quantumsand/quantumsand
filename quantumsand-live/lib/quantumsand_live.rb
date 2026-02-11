@@ -3189,7 +3189,8 @@ class QuantumsandLive
       "lat9nq/tzdb_to_nx",
       "brofield/simpleini",
       "KhronosGroup/Vulkan-Utility-Libraries",
-      "LunarG/VulkanSamples"
+      "LunarG/VulkanSamples",
+      "google/filament"
     ]
 
     git_repos_chromium_googlesource = [
