@@ -3200,7 +3200,8 @@ class QuantumsandLive
       "hrydgard/ppsspp-ffmpeg",
       "Tencent/AngelSlim",
       "Kingcom/filesystem",
-      "Kingcom/armips"
+      "Kingcom/armips",
+      "hrydgard/glslang"
     ]
 
     git_repos_chromium_googlesource = [
