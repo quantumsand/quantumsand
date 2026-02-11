@@ -3227,7 +3227,8 @@ class QuantumsandLive
       "vit-vit/CTPL",
       "docopt/docopt.cpp",
       "bellard/mquickjs",
-      "github/copilot-sdk"
+      "github/copilot-sdk",
+      "webmachinelearning/webnn-samples"
     ]
 
     git_repos_chromium_googlesource = [
