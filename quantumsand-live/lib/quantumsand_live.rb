@@ -3211,7 +3211,8 @@ class QuantumsandLive
       "RetroAchievements/rcheevos",
       "erkkah/naett",
       "rtissera/libchdr",
-      "bylaws/liblinkernsbypass"
+      "bylaws/liblinkernsbypass",
+      "KhronosGroup/OpenXR-SDK"
     ]
 
     git_repos_chromium_googlesource = [
