@@ -3216,7 +3216,8 @@ class QuantumsandLive
       "KhronosGroup/OpenXR-SDK-Source",
       "hrydgard/ppsspp-moltenvk",
       "KhronosGroup/MoltenVK",
-      "hrydgard/ppsspp-lua"
+      "hrydgard/ppsspp-lua",
+      "hrydgard/freetype"
     ]
 
     git_repos_chromium_googlesource = [
