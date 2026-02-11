@@ -3193,7 +3193,8 @@ class QuantumsandLive
       "google/filament",
       "DustinHLand/vkDOOM3",
       "mackron/miniaudio",
-      "turanszkij/WickedEngine"
+      "turanszkij/WickedEngine",
+      "libretro/libretro-common"
     ]
 
     git_repos_chromium_googlesource = [
