@@ -3187,7 +3187,8 @@ class QuantumsandLive
       "cpm-cmake/CPM.cmake",
       "lioncash/dynarmic",
       "lat9nq/tzdb_to_nx",
-      "brofield/simpleini"
+      "brofield/simpleini",
+      "KhronosGroup/Vulkan-Utility-Libraries"
     ]
 
     git_repos_chromium_googlesource = [
