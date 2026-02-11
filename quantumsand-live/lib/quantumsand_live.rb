@@ -3197,7 +3197,8 @@ class QuantumsandLive
       "webm/libwebp",
       "webm/libvpx",
       "aosp/platform/external/uwb",
-      "angle/angle"
+      "angle/angle",
+      "breakpad/breakpad"
     ]
 
     git_repos_gn_googlesource = [
