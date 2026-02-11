@@ -3217,7 +3217,8 @@ class QuantumsandLive
       "hrydgard/ppsspp-moltenvk",
       "KhronosGroup/MoltenVK",
       "hrydgard/ppsspp-lua",
-      "hrydgard/freetype"
+      "hrydgard/freetype",
+      "hrydgard/nanosvg"
     ]
 
     git_repos_chromium_googlesource = [
