@@ -3271,7 +3271,8 @@ class QuantumsandLive
       "asmjit/asmjit",
       "RPCS3/yaml-cpp",
       "FNA-XNA/FAudio",
-      "minitest/minitest-rails"
+      "minitest/minitest-rails",
+      "CelestiaProject/celestia-gaia-stardb"
     ]
 
     git_repos_chromium_googlesource = [
