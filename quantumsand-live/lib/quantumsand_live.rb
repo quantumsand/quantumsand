@@ -3243,7 +3243,8 @@ class QuantumsandLive
       "F5OEO/dvbsdr",
       "myriadrf/ExtIO_LimeSDR",
       "myriadrf/FreeSRP",
-      "myriadrf/FreeSRP_GW"
+      "myriadrf/FreeSRP_GW",
+      "myriadrf/FreeSRP_FX3"
     ]
 
     git_repos_chromium_googlesource = [
