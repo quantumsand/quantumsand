@@ -3246,7 +3246,8 @@ class QuantumsandLive
       "myriadrf/FreeSRP_GW",
       "myriadrf/FreeSRP_FX3",
       "myriadrf/front-end-modules",
-      "myriadrf/gpredict"
+      "myriadrf/gpredict",
+      "myriadrf/kalibrate-lms"
     ]
 
     git_repos_chromium_googlesource = [
