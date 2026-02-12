@@ -3321,7 +3321,8 @@ class QuantumsandLive
     ]
 
     git_repos_eden_emu_dev = [
-      "eden-emu/eden"
+      "eden-emu/eden",
+      "eden-emu/dynarmic"
     ]
 
     git_repos_pagure_io = [
