@@ -3258,7 +3258,8 @@ class QuantumsandLive
       "open5gs/open5gs",
       "open5gs/freeDiameter",
       "IETF-OPSAWG-WG/draft-ietf-opsawg-pcap",
-      "open5gs/libtins"
+      "open5gs/libtins",
+      "mfontanini/libtins"
     ]
 
     git_repos_chromium_googlesource = [
