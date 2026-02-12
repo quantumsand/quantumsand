@@ -3230,7 +3230,8 @@ class QuantumsandLive
       "github/copilot-sdk",
       "webmachinelearning/webnn-samples",
       "webmachinelearning/webnn",
-      "berkeleydb/libdb"
+      "berkeleydb/libdb",
+      "EttusResearch/uhd"
     ]
 
     git_repos_chromium_googlesource = [
