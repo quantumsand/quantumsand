@@ -3244,7 +3244,8 @@ class QuantumsandLive
       "myriadrf/ExtIO_LimeSDR",
       "myriadrf/FreeSRP",
       "myriadrf/FreeSRP_GW",
-      "myriadrf/FreeSRP_FX3"
+      "myriadrf/FreeSRP_FX3",
+      "myriadrf/front-end-modules"
     ]
 
     git_repos_chromium_googlesource = [
