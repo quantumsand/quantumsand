@@ -3229,7 +3229,8 @@ class QuantumsandLive
       "bellard/mquickjs",
       "github/copilot-sdk",
       "webmachinelearning/webnn-samples",
-      "webmachinelearning/webnn"
+      "webmachinelearning/webnn",
+      "berkeleydb/libdb"
     ]
 
     git_repos_chromium_googlesource = [
