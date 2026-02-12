@@ -3239,7 +3239,8 @@ class QuantumsandLive
       "myriadrf/clock-tamer",
       "myriadrf/component-libraries",
       "myriadrf/crowdcell-workshop",
-      "myriadrf/docs-limenet"
+      "myriadrf/docs-limenet",
+      "F5OEO/dvbsdr"
     ]
 
     git_repos_chromium_googlesource = [
