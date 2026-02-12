@@ -3319,6 +3319,10 @@ class QuantumsandLive
       "X-Omni/X-Omni-En"
     ]
 
+    git_repos_eden_emu_dev = [
+      "eden-emu/eden"
+    ]
+
     git_repos_pagure_io = [
       "libaio",
       "passwd"
