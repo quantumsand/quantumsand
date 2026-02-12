@@ -3264,7 +3264,8 @@ class QuantumsandLive
       "open5gs/prometheus-client-c",
       "srsran/srsRAN_Project_docs",
       "KhronosGroup/Vulkan-Samples-Assets",
-      "RPCS3/ffmpeg-core"
+      "RPCS3/ffmpeg-core",
+      "yuzu-emu-mirror/yuzu"
     ]
 
     git_repos_chromium_googlesource = [
