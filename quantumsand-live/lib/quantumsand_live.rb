@@ -3250,7 +3250,8 @@ class QuantumsandLive
       "myriadrf/kalibrate-lms",
       "myriadrf/lc-rfe",
       "myriadrf/lc-ansible-collection",
-      "myriadrf/lc-b3-mpa"
+      "myriadrf/lc-b3-mpa",
+      "myriadrf/srsRAN_4G"
     ]
 
     git_repos_chromium_googlesource = [
