@@ -3268,7 +3268,8 @@ class QuantumsandLive
       "yuzu-emu-mirror/yuzu",
       "hrydgard/ppsspp",
       "azahar-emu/azahar",
-      "asmjit/asmjit"
+      "asmjit/asmjit",
+      "RPCS3/yaml-cpp"
     ]
 
     git_repos_chromium_googlesource = [
