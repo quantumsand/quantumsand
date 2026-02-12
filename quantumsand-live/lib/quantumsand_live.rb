@@ -3253,7 +3253,8 @@ class QuantumsandLive
       "myriadrf/lc-b3-mpa",
       "myriadrf/srsRAN_4G",
       "srsran/srsRAN_4G",
-      "srsran/srsran_project"
+      "srsran/srsran_project",
+      "jbeder/yaml-cpp"
     ]
 
     git_repos_chromium_googlesource = [
