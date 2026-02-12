@@ -3257,7 +3257,8 @@ class QuantumsandLive
       "jbeder/yaml-cpp",
       "open5gs/open5gs",
       "open5gs/freeDiameter",
-      "IETF-OPSAWG-WG/draft-ietf-opsawg-pcap"
+      "IETF-OPSAWG-WG/draft-ietf-opsawg-pcap",
+      "open5gs/libtins"
     ]
 
     git_repos_chromium_googlesource = [
