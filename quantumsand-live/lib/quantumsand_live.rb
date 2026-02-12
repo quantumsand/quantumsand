@@ -3262,7 +3262,8 @@ class QuantumsandLive
       "mfontanini/libtins",
       "open5gs/asn1c",
       "open5gs/prometheus-client-c",
-      "srsran/srsRAN_Project_docs"
+      "srsran/srsRAN_Project_docs",
+      "KhronosGroup/Vulkan-Samples-Assets"
     ]
 
     git_repos_chromium_googlesource = [
