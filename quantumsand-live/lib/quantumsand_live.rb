@@ -3260,7 +3260,8 @@ class QuantumsandLive
       "IETF-OPSAWG-WG/draft-ietf-opsawg-pcap",
       "open5gs/libtins",
       "mfontanini/libtins",
-      "open5gs/asn1c"
+      "open5gs/asn1c",
+      "open5gs/prometheus-client-c"
     ]
 
     git_repos_chromium_googlesource = [
