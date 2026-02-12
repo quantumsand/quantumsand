@@ -3269,7 +3269,8 @@ class QuantumsandLive
       "hrydgard/ppsspp",
       "azahar-emu/azahar",
       "asmjit/asmjit",
-      "RPCS3/yaml-cpp"
+      "RPCS3/yaml-cpp",
+      "FNA-XNA/FAudio"
     ]
 
     git_repos_chromium_googlesource = [
