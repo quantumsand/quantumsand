@@ -3263,7 +3263,8 @@ class QuantumsandLive
       "open5gs/asn1c",
       "open5gs/prometheus-client-c",
       "srsran/srsRAN_Project_docs",
-      "KhronosGroup/Vulkan-Samples-Assets"
+      "KhronosGroup/Vulkan-Samples-Assets",
+      "RPCS3/ffmpeg-core"
     ]
 
     git_repos_chromium_googlesource = [
