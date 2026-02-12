@@ -3270,7 +3270,8 @@ class QuantumsandLive
       "azahar-emu/azahar",
       "asmjit/asmjit",
       "RPCS3/yaml-cpp",
-      "FNA-XNA/FAudio"
+      "FNA-XNA/FAudio",
+      "minitest/minitest-rails"
     ]
 
     git_repos_chromium_googlesource = [
