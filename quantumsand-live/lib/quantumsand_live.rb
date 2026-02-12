@@ -3234,7 +3234,8 @@ class QuantumsandLive
       "EttusResearch/uhd",
       "myriadrf/A2300",
       "myriadrf/Altium-lib",
-      "myriadrf/Altium-Test"
+      "myriadrf/Altium-Test",
+      "myriadrf/cellular-network-configs"
     ]
 
     git_repos_chromium_googlesource = [
