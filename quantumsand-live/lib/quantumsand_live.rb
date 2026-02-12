@@ -3266,7 +3266,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Samples-Assets",
       "RPCS3/ffmpeg-core",
       "yuzu-emu-mirror/yuzu",
-      "hrydgard/ppsspp"
+      "hrydgard/ppsspp",
+      "azahar-emu/azahar"
     ]
 
     git_repos_chromium_googlesource = [
