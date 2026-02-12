@@ -3240,7 +3240,8 @@ class QuantumsandLive
       "myriadrf/component-libraries",
       "myriadrf/crowdcell-workshop",
       "myriadrf/docs-limenet",
-      "F5OEO/dvbsdr"
+      "F5OEO/dvbsdr",
+      "myriadrf/ExtIO_LimeSDR"
     ]
 
     git_repos_chromium_googlesource = [
