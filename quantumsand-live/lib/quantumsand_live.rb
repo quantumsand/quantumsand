@@ -3255,7 +3255,8 @@ class QuantumsandLive
       "srsran/srsRAN_4G",
       "srsran/srsran_project",
       "jbeder/yaml-cpp",
-      "open5gs/open5gs"
+      "open5gs/open5gs",
+      "open5gs/freeDiameter"
     ]
 
     git_repos_chromium_googlesource = [
