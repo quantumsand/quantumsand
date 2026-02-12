@@ -3238,7 +3238,8 @@ class QuantumsandLive
       "myriadrf/cellular-network-configs",
       "myriadrf/clock-tamer",
       "myriadrf/component-libraries",
-      "myriadrf/crowdcell-workshop"
+      "myriadrf/crowdcell-workshop",
+      "myriadrf/docs-limenet"
     ]
 
     git_repos_chromium_googlesource = [
