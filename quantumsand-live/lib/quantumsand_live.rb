@@ -3235,7 +3235,8 @@ class QuantumsandLive
       "myriadrf/A2300",
       "myriadrf/Altium-lib",
       "myriadrf/Altium-Test",
-      "myriadrf/cellular-network-configs"
+      "myriadrf/cellular-network-configs",
+      "myriadrf/clock-tamer"
     ]
 
     git_repos_chromium_googlesource = [
