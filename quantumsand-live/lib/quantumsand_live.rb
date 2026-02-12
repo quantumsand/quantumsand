@@ -4340,7 +4340,8 @@ class QuantumsandLive
       "dev-util/nsight-systems",
       "sys-cluster/rdma-core",
       "sys-fs/dosfstools",
-      "sys-libs/db"
+      "sys-libs/db",
+      "sci-electronics/kicad"
     ]
 
     gentoo_eselect_repository_add = {
