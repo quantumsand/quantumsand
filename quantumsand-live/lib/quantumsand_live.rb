@@ -3261,7 +3261,8 @@ class QuantumsandLive
       "open5gs/libtins",
       "mfontanini/libtins",
       "open5gs/asn1c",
-      "open5gs/prometheus-client-c"
+      "open5gs/prometheus-client-c",
+      "srsran/srsRAN_Project_docs"
     ]
 
     git_repos_chromium_googlesource = [
