@@ -4323,7 +4323,8 @@ class QuantumsandLive
       "dev-util/nsight-compute",
       "dev-util/nsight-systems",
       "sys-cluster/rdma-core",
-      "sys-fs/dosfstools"
+      "sys-fs/dosfstools",
+      "sys-libs/db"
     ]
 
     gentoo_eselect_repository_add = {
