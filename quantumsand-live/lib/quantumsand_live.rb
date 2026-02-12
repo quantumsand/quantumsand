@@ -3249,7 +3249,8 @@ class QuantumsandLive
       "myriadrf/gpredict",
       "myriadrf/kalibrate-lms",
       "myriadrf/lc-rfe",
-      "myriadrf/lc-ansible-collection"
+      "myriadrf/lc-ansible-collection",
+      "myriadrf/lc-b3-mpa"
     ]
 
     git_repos_chromium_googlesource = [
