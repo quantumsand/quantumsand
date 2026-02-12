@@ -3265,7 +3265,8 @@ class QuantumsandLive
       "srsran/srsRAN_Project_docs",
       "KhronosGroup/Vulkan-Samples-Assets",
       "RPCS3/ffmpeg-core",
-      "yuzu-emu-mirror/yuzu"
+      "yuzu-emu-mirror/yuzu",
+      "hrydgard/ppsspp"
     ]
 
     git_repos_chromium_googlesource = [
