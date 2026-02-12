@@ -3254,7 +3254,8 @@ class QuantumsandLive
       "myriadrf/srsRAN_4G",
       "srsran/srsRAN_4G",
       "srsran/srsran_project",
-      "jbeder/yaml-cpp"
+      "jbeder/yaml-cpp",
+      "open5gs/open5gs"
     ]
 
     git_repos_chromium_googlesource = [
