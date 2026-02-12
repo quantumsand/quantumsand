@@ -3252,7 +3252,8 @@ class QuantumsandLive
       "myriadrf/lc-ansible-collection",
       "myriadrf/lc-b3-mpa",
       "myriadrf/srsRAN_4G",
-      "srsran/srsRAN_4G"
+      "srsran/srsRAN_4G",
+      "srsran/srsran_project"
     ]
 
     git_repos_chromium_googlesource = [
