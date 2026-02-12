@@ -3267,7 +3267,8 @@ class QuantumsandLive
       "RPCS3/ffmpeg-core",
       "yuzu-emu-mirror/yuzu",
       "hrydgard/ppsspp",
-      "azahar-emu/azahar"
+      "azahar-emu/azahar",
+      "asmjit/asmjit"
     ]
 
     git_repos_chromium_googlesource = [
