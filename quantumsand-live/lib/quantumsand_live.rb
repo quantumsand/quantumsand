@@ -3232,7 +3232,8 @@ class QuantumsandLive
       "webmachinelearning/webnn",
       "berkeleydb/libdb",
       "EttusResearch/uhd",
-      "myriadrf/A2300"
+      "myriadrf/A2300",
+      "myriadrf/Altium-lib"
     ]
 
     git_repos_chromium_googlesource = [
