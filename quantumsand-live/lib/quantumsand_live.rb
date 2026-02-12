@@ -3256,7 +3256,8 @@ class QuantumsandLive
       "srsran/srsran_project",
       "jbeder/yaml-cpp",
       "open5gs/open5gs",
-      "open5gs/freeDiameter"
+      "open5gs/freeDiameter",
+      "IETF-OPSAWG-WG/draft-ietf-opsawg-pcap"
     ]
 
     git_repos_chromium_googlesource = [
