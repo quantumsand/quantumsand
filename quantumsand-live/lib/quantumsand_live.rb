@@ -3298,7 +3298,8 @@ class QuantumsandLive
       "osmocom/rtl-sdr",
       "osmocom/pysim",
       "Legrandin/pycryptodome",
-      "LudovicRousseau/pyscard"
+      "LudovicRousseau/pyscard",
+      "LudovicRousseau/PCSC"
     ]
 
     git_repos_chromium_googlesource = [
