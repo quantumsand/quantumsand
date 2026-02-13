@@ -3294,7 +3294,8 @@ class QuantumsandLive
       "osmocom/osmo-bts",
       "osmocom/osmo-msc",
       "osmocom/osmo-sgsn",
-      "osmocom/osmo-bsc"
+      "osmocom/osmo-bsc",
+      "osmocom/rtl-sdr"
     ]
 
     git_repos_chromium_googlesource = [
