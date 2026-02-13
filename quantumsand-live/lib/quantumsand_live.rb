@@ -3304,7 +3304,8 @@ class QuantumsandLive
       "hologram-io/smpp.pdu",
       "jab/bidict",
       "python-cmd2/cmd2",
-      "borntyping/python-colorlog"
+      "borntyping/python-colorlog",
+      "construct/construct"
     ]
 
     git_repos_chromium_googlesource = [
