@@ -4384,7 +4384,8 @@ class QuantumsandLive
       "sys-cluster/rdma-core",
       "sys-fs/dosfstools",
       "sys-libs/db",
-      "sci-electronics/kicad"
+      "sci-electronics/kicad",
+      "games-util/gamemode"
     ]
 
     gentoo_eselect_repository_add = {
