@@ -3310,7 +3310,8 @@ class QuantumsandLive
       "timgabets/pytlv",
       "myriadrf/lc-ci-docker",
       "myriadrf/lc-ci-mechanical",
-      "myriadrf/lc-clock"
+      "myriadrf/lc-clock",
+      "myriadrf/lc-configs"
     ]
 
     git_repos_chromium_googlesource = [
