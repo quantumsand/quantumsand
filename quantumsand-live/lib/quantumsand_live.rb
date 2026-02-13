@@ -3305,7 +3305,8 @@ class QuantumsandLive
       "jab/bidict",
       "python-cmd2/cmd2",
       "borntyping/python-colorlog",
-      "construct/construct"
+      "construct/construct",
+      "termcolor/termcolor"
     ]
 
     git_repos_chromium_googlesource = [
