@@ -3286,7 +3286,8 @@ class QuantumsandLive
       "srsran/srsRAN_4G_docs",
       "srsran/srsGUI",
       "srsran/srsRAN_Project_helm",
-      "srsran/srsRAN_matlab"
+      "srsran/srsRAN_matlab",
+      "sagemath/sagecell"
     ]
 
     git_repos_chromium_googlesource = [
