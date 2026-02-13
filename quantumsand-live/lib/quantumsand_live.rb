@@ -3290,7 +3290,8 @@ class QuantumsandLive
       "sagemath/sagecell",
       "sagemath/sagetex",
       "myriadrf/lc-ci",
-      "osmocom/osmo-ci"
+      "osmocom/osmo-ci",
+      "osmocom/osmo-bts"
     ]
 
     git_repos_chromium_googlesource = [
