@@ -3301,7 +3301,8 @@ class QuantumsandLive
       "LudovicRousseau/pyscard",
       "LudovicRousseau/PCSC",
       "h2non/jsonpath-ng",
-      "hologram-io/smpp.pdu"
+      "hologram-io/smpp.pdu",
+      "jab/bidict"
     ]
 
     git_repos_chromium_googlesource = [
