@@ -3275,7 +3275,8 @@ class QuantumsandLive
       "CelestiaProject/celestia-gaia-stardb",
       "yjs/yjs",
       "zai-org/GLM-5",
-      "RPCS3/soundtouch"
+      "RPCS3/soundtouch",
+      "thestk/rtmidi"
     ]
 
     git_repos_chromium_googlesource = [
