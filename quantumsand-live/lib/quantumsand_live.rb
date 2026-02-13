@@ -3274,7 +3274,8 @@ class QuantumsandLive
       "minitest/minitest-rails",
       "CelestiaProject/celestia-gaia-stardb",
       "yjs/yjs",
-      "zai-org/GLM-5"
+      "zai-org/GLM-5",
+      "RPCS3/soundtouch"
     ]
 
     git_repos_chromium_googlesource = [
