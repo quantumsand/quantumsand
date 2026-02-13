@@ -3293,7 +3293,8 @@ class QuantumsandLive
       "osmocom/osmo-ci",
       "osmocom/osmo-bts",
       "osmocom/osmo-msc",
-      "osmocom/osmo-sgsn"
+      "osmocom/osmo-sgsn",
+      "osmocom/osmo-bsc"
     ]
 
     git_repos_chromium_googlesource = [
