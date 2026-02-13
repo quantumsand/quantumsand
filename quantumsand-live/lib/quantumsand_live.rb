@@ -3276,7 +3276,8 @@ class QuantumsandLive
       "yjs/yjs",
       "zai-org/GLM-5",
       "RPCS3/soundtouch",
-      "thestk/rtmidi"
+      "thestk/rtmidi",
+      "ip7z/7zip"
     ]
 
     git_repos_chromium_googlesource = [
