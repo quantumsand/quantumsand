@@ -3277,7 +3277,8 @@ class QuantumsandLive
       "zai-org/GLM-5",
       "RPCS3/soundtouch",
       "thestk/rtmidi",
-      "ip7z/7zip"
+      "ip7z/7zip",
+      "Megamouse/opencv_minimal"
     ]
 
     git_repos_chromium_googlesource = [
