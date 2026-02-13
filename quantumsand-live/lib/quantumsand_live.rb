@@ -3300,7 +3300,8 @@ class QuantumsandLive
       "Legrandin/pycryptodome",
       "LudovicRousseau/pyscard",
       "LudovicRousseau/PCSC",
-      "h2non/jsonpath-ng"
+      "h2non/jsonpath-ng",
+      "hologram-io/smpp.pdu"
     ]
 
     git_repos_chromium_googlesource = [
