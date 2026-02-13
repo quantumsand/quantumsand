@@ -3323,7 +3323,8 @@ class QuantumsandLive
       "Qwen/Qwen-Image-2512",
       "NousResearch/NousCoder-14B",
       "zai-org/GLM-Image",
-      "X-Omni/X-Omni-En"
+      "X-Omni/X-Omni-En",
+      "zai-org/GLM-5"
     ]
 
     git_repos_eden_emu_dev = [
