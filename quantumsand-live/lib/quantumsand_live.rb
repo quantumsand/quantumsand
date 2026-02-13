@@ -3292,7 +3292,8 @@ class QuantumsandLive
       "myriadrf/lc-ci",
       "osmocom/osmo-ci",
       "osmocom/osmo-bts",
-      "osmocom/osmo-msc"
+      "osmocom/osmo-msc",
+      "osmocom/osmo-sgsn"
     ]
 
     git_repos_chromium_googlesource = [
