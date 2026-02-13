@@ -3280,7 +3280,8 @@ class QuantumsandLive
       "ip7z/7zip",
       "Megamouse/opencv_minimal",
       "xioTechnologies/Fusion",
-      "Vestrel/discord-rpc"
+      "Vestrel/discord-rpc",
+      "FeralInteractive/gamemode"
     ]
 
     git_repos_chromium_googlesource = [
