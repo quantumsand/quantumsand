@@ -3296,7 +3296,8 @@ class QuantumsandLive
       "osmocom/osmo-sgsn",
       "osmocom/osmo-bsc",
       "osmocom/rtl-sdr",
-      "osmocom/pysim"
+      "osmocom/pysim",
+      "Legrandin/pycryptodome"
     ]
 
     git_repos_chromium_googlesource = [
