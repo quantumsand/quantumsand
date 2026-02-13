@@ -3299,7 +3299,8 @@ class QuantumsandLive
       "osmocom/pysim",
       "Legrandin/pycryptodome",
       "LudovicRousseau/pyscard",
-      "LudovicRousseau/PCSC"
+      "LudovicRousseau/PCSC",
+      "h2non/jsonpath-ng"
     ]
 
     git_repos_chromium_googlesource = [
