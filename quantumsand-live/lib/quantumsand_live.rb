@@ -3307,7 +3307,8 @@ class QuantumsandLive
       "borntyping/python-colorlog",
       "construct/construct",
       "termcolor/termcolor",
-      "timgabets/pytlv"
+      "timgabets/pytlv",
+      "myriadrf/lc-ci-docker"
     ]
 
     git_repos_chromium_googlesource = [
