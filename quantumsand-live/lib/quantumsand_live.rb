@@ -3283,7 +3283,8 @@ class QuantumsandLive
       "Vestrel/discord-rpc",
       "FeralInteractive/gamemode",
       "srsran/oran-sc-ric",
-      "srsran/srsRAN_4G_docs"
+      "srsran/srsRAN_4G_docs",
+      "srsran/srsGUI"
     ]
 
     git_repos_chromium_googlesource = [
