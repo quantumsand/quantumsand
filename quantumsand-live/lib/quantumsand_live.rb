@@ -3368,6 +3368,10 @@ class QuantumsandLive
       "zai-org/GLM-5"
     ]
 
+    git_repos_osmocom_org_gitea = [
+      "ims-volte-vowifi/strongswan-epdg"
+    ]
+
     git_repos_eden_emu_dev = [
       "eden-emu/eden",
       "eden-emu/dynarmic",
