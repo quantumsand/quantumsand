@@ -3284,7 +3284,8 @@ class QuantumsandLive
       "FeralInteractive/gamemode",
       "srsran/oran-sc-ric",
       "srsran/srsRAN_4G_docs",
-      "srsran/srsGUI"
+      "srsran/srsGUI",
+      "srsran/srsRAN_Project_helm"
     ]
 
     git_repos_chromium_googlesource = [
