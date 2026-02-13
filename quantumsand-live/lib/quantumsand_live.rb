@@ -3302,7 +3302,8 @@ class QuantumsandLive
       "LudovicRousseau/PCSC",
       "h2non/jsonpath-ng",
       "hologram-io/smpp.pdu",
-      "jab/bidict"
+      "jab/bidict",
+      "python-cmd2/cmd2"
     ]
 
     git_repos_chromium_googlesource = [
