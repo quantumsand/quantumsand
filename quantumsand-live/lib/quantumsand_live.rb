@@ -3312,7 +3312,8 @@ class QuantumsandLive
       "myriadrf/lc-ci-mechanical",
       "myriadrf/lc-clock",
       "myriadrf/lc-configs",
-      "myriadrf/lc-conio"
+      "myriadrf/lc-conio",
+      "myriadrf/lc-docker"
     ]
 
     git_repos_chromium_googlesource = [
