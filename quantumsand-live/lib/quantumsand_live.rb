@@ -3303,7 +3303,8 @@ class QuantumsandLive
       "h2non/jsonpath-ng",
       "hologram-io/smpp.pdu",
       "jab/bidict",
-      "python-cmd2/cmd2"
+      "python-cmd2/cmd2",
+      "borntyping/python-colorlog"
     ]
 
     git_repos_chromium_googlesource = [
