@@ -3281,7 +3281,8 @@ class QuantumsandLive
       "Megamouse/opencv_minimal",
       "xioTechnologies/Fusion",
       "Vestrel/discord-rpc",
-      "FeralInteractive/gamemode"
+      "FeralInteractive/gamemode",
+      "srsran/oran-sc-ric"
     ]
 
     git_repos_chromium_googlesource = [
