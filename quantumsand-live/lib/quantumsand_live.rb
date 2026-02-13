@@ -3289,7 +3289,8 @@ class QuantumsandLive
       "srsran/srsRAN_matlab",
       "sagemath/sagecell",
       "sagemath/sagetex",
-      "myriadrf/lc-ci"
+      "myriadrf/lc-ci",
+      "osmocom/osmo-ci"
     ]
 
     git_repos_chromium_googlesource = [
