@@ -3309,7 +3309,8 @@ class QuantumsandLive
       "termcolor/termcolor",
       "timgabets/pytlv",
       "myriadrf/lc-ci-docker",
-      "myriadrf/lc-ci-mechanical"
+      "myriadrf/lc-ci-mechanical",
+      "myriadrf/lc-clock"
     ]
 
     git_repos_chromium_googlesource = [
