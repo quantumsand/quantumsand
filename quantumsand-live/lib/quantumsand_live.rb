@@ -3273,7 +3273,8 @@ class QuantumsandLive
       "FNA-XNA/FAudio",
       "minitest/minitest-rails",
       "CelestiaProject/celestia-gaia-stardb",
-      "yjs/yjs"
+      "yjs/yjs",
+      "zai-org/GLM-5"
     ]
 
     git_repos_chromium_googlesource = [
