@@ -3279,7 +3279,8 @@ class QuantumsandLive
       "thestk/rtmidi",
       "ip7z/7zip",
       "Megamouse/opencv_minimal",
-      "xioTechnologies/Fusion"
+      "xioTechnologies/Fusion",
+      "Vestrel/discord-rpc"
     ]
 
     git_repos_chromium_googlesource = [
