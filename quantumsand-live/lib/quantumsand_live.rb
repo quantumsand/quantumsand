@@ -3278,7 +3278,8 @@ class QuantumsandLive
       "RPCS3/soundtouch",
       "thestk/rtmidi",
       "ip7z/7zip",
-      "Megamouse/opencv_minimal"
+      "Megamouse/opencv_minimal",
+      "xioTechnologies/Fusion"
     ]
 
     git_repos_chromium_googlesource = [
