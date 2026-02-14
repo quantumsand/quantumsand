@@ -3315,7 +3315,8 @@ class QuantumsandLive
       "myriadrf/lc-conio",
       "myriadrf/lc-docker",
       "herlesupreeth/docker_open5gs",
-      "ros-infrastructure/bloom"
+      "ros-infrastructure/bloom",
+      "lancedb/lancedb"
     ]
 
     git_repos_chromium_googlesource = [
