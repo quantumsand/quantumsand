@@ -1,0 +1,28 @@
+/*
+   Peaks.js styling within the NarrativeSync component
+*/
+#waveform-container {
+  margin: 24px 46px;
+  min-width: 768px;
+}
+
+#zoomview-container, #overview-container {
+  margin: 0 0 24px 0;
+  line-height: 0;
+  -moz-box-shadow: 3px 3px 20px #919191;
+  -webkit-box-shadow: 3px 3px 20px #919191;
+  box-shadow: 3px 3px 20px #919191;
+}
+
+#zoomview-container {
+  height: 200px;
+}
+
+#overview-container {
+  height: 85px;
+  width: 65wv;
+  min-width: 768px;
+}
+/*
+   Peaks.js styling within the NarrativeSync component
+*/
