@@ -147,6 +147,13 @@ Support for all locales is planned eventually. This should help with interfaith 
 * 👯 I’m looking to collaborate on Quantum Sand.
 * 🤔 I’m looking for help with building a community around Quantum Sand.
 
+## Recommended development hardware
+
+* Apple M1 and later (running macOS) is really easy for development of Quantum Sand. At the moment there is no Wayland or QtWayland. However, every separate component of Quantum Sand can run fine on macOS with no issues.
+
+* Dell Alienware desktops have a good amount of RAM for building components from source. Consider Google’s Chromium and Qt’s WebEngine, which both need a lot of resources for building from source. Additionally, cross-compilation to other cpu architectures like arm64, can be far more time efficient.
+
+* AYANEO Pocket DS; Currently untested. The 16GB RAM models should be able to run Quantum Sand correctly using the Mesa graphics drivers.
 
 ## Special thanks
 
