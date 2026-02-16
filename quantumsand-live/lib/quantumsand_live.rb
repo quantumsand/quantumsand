@@ -3317,7 +3317,8 @@ class QuantumsandLive
       "herlesupreeth/docker_open5gs",
       "ros-infrastructure/bloom",
       "lancedb/lancedb",
-      "lancedb/lancedb-c"
+      "lancedb/lancedb-c",
+      "dylibso/blextism"
     ]
 
     git_repos_chromium_googlesource = [
