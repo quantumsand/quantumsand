@@ -3320,7 +3320,8 @@ class QuantumsandLive
       "lancedb/lancedb-c",
       "dylibso/blextism",
       "extism/python-sdk",
-      "extism/extism"
+      "extism/extism",
+      "ultralytics/ultralytics"
     ]
 
     git_repos_chromium_googlesource = [
