@@ -3321,7 +3321,8 @@ class QuantumsandLive
       "dylibso/blextism",
       "extism/python-sdk",
       "extism/extism",
-      "ultralytics/ultralytics"
+      "ultralytics/ultralytics",
+      "lutris/lutris"
     ]
 
     git_repos_chromium_googlesource = [
