@@ -3318,7 +3318,8 @@ class QuantumsandLive
       "ros-infrastructure/bloom",
       "lancedb/lancedb",
       "lancedb/lancedb-c",
-      "dylibso/blextism"
+      "dylibso/blextism",
+      "extism/python-sdk"
     ]
 
     git_repos_chromium_googlesource = [
