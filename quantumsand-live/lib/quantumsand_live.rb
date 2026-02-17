@@ -3333,7 +3333,8 @@ class QuantumsandLive
       "extism/ruby-sdk",
       "extism/zig-sdk",
       "extism/cpp-sdk",
-      "extism/rust-pdk"
+      "extism/rust-pdk",
+      "extism/js-pdk"
     ]
 
     git_repos_chromium_googlesource = [
