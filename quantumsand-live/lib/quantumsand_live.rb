@@ -3325,7 +3325,8 @@ class QuantumsandLive
       "lutris/lutris",
       "extism/js-sdk",
       "extism/elixir-sdk",
-      "extism/go-sdk"
+      "extism/go-sdk",
+      "extism/haskell-sdk"
     ]
 
     git_repos_chromium_googlesource = [
