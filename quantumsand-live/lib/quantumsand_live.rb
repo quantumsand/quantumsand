@@ -3350,7 +3350,8 @@ class QuantumsandLive
       "extism/zig-pdk",
       "dylibso/xtp-bindgen",
       "dylibso/xtp-typescript-bindgen",
-      "dylibso/xtp-go-bindgen"
+      "dylibso/xtp-go-bindgen",
+      "dylibso/xtp-python-bindgen"
     ]
 
     git_repos_chromium_googlesource = [
