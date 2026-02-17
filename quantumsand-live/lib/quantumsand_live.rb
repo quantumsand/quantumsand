@@ -3341,7 +3341,8 @@ class QuantumsandLive
       "bytecodealliance/wizer",
       "extism/go-pdk",
       "extism/haskell-pdk",
-      "extism/assemblyscript-pdk"
+      "extism/assemblyscript-pdk",
+      "extism/dotnet-pdk"
     ]
 
     git_repos_chromium_googlesource = [
