@@ -3336,7 +3336,8 @@ class QuantumsandLive
       "extism/rust-pdk",
       "extism/js-pdk",
       "quickjs-ng/quickjs",
-      "DelSkayn/rquickjs"
+      "DelSkayn/rquickjs",
+      "ua-parser/uap-core"
     ]
 
     git_repos_chromium_googlesource = [
