@@ -3342,7 +3342,8 @@ class QuantumsandLive
       "extism/go-pdk",
       "extism/haskell-pdk",
       "extism/assemblyscript-pdk",
-      "extism/dotnet-pdk"
+      "extism/dotnet-pdk",
+      "WebAssembly/wasi-sdk"
     ]
 
     git_repos_chromium_googlesource = [
