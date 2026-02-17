@@ -3365,7 +3365,8 @@ class QuantumsandLive
       "myriadrf/libusb3380",
       "myriadrf/libxtrx",
       "myriadrf/libxtrxdsp",
-      "myriadrf/libxtrxll"
+      "myriadrf/libxtrxll",
+      "myriadrf/Lime-GPSDO_GW"
     ]
 
     git_repos_chromium_googlesource = [
