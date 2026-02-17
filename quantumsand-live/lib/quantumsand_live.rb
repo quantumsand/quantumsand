@@ -4146,7 +4146,8 @@ class QuantumsandLive
       "tenacityteam/libid3tag",
       "OpenVPN/openvpn3-linux",
       "Meadowlark/symphonium",
-      "forgejo/forgejo"
+      "forgejo/forgejo",
+      "gentoo/gentoo"
     ]
 
     git_repos_kde_invent = [
