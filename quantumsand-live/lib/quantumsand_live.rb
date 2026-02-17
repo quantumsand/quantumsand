@@ -3348,7 +3348,8 @@ class QuantumsandLive
       "WebAssembly/WASI",
       "extism/c-pdk",
       "extism/zig-pdk",
-      "dylibso/xtp-bindgen"
+      "dylibso/xtp-bindgen",
+      "dylibso/xtp-typescript-bindgen"
     ]
 
     git_repos_chromium_googlesource = [
