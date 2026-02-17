@@ -3355,7 +3355,8 @@ class QuantumsandLive
       "dylibso/xtp-rust-bindgen",
       "dylibso/xtp-csharp-bindgen",
       "dylibso/xtp-zig-bindgen",
-      "dylibso/xtp-cpp-bindgen"
+      "dylibso/xtp-cpp-bindgen",
+      "myriadrf/lc-filters"
     ]
 
     git_repos_chromium_googlesource = [
