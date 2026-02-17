@@ -3331,7 +3331,8 @@ class QuantumsandLive
       "extism/ocaml-sdk",
       "extism/perl-sdk",
       "extism/ruby-sdk",
-      "extism/zig-sdk"
+      "extism/zig-sdk",
+      "extism/cpp-sdk"
     ]
 
     git_repos_chromium_googlesource = [
