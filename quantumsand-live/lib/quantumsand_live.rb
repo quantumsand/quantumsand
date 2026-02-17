@@ -3361,7 +3361,8 @@ class QuantumsandLive
       "myriadrf/lc-rfe-mini",
       "myriadrf/lc-site-mechanical",
       "myriadrf/lc-website",
-      "myriadrf/libfreesrp"
+      "myriadrf/libfreesrp",
+      "myriadrf/libusb3380"
     ]
 
     git_repos_chromium_googlesource = [
