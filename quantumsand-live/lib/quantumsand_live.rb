@@ -3338,7 +3338,8 @@ class QuantumsandLive
       "quickjs-ng/quickjs",
       "DelSkayn/rquickjs",
       "ua-parser/uap-core",
-      "bytecodealliance/wizer"
+      "bytecodealliance/wizer",
+      "extism/go-pdk"
     ]
 
     git_repos_chromium_googlesource = [
