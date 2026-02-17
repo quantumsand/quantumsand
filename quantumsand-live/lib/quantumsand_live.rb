@@ -3352,7 +3352,8 @@ class QuantumsandLive
       "dylibso/xtp-typescript-bindgen",
       "dylibso/xtp-go-bindgen",
       "dylibso/xtp-python-bindgen",
-      "dylibso/xtp-rust-bindgen"
+      "dylibso/xtp-rust-bindgen",
+      "dylibso/xtp-csharp-bindgen"
     ]
 
     git_repos_chromium_googlesource = [
