@@ -3339,7 +3339,8 @@ class QuantumsandLive
       "DelSkayn/rquickjs",
       "ua-parser/uap-core",
       "bytecodealliance/wizer",
-      "extism/go-pdk"
+      "extism/go-pdk",
+      "extism/haskell-pdk"
     ]
 
     git_repos_chromium_googlesource = [
