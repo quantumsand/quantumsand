@@ -3405,7 +3405,8 @@ class QuantumsandLive
       "ics-jku/riscv-vp-plusplus",
       "ics-jku/wal",
       "LucasKl/wal-major-mode",
-      "orangeduck/mpc"
+      "orangeduck/mpc",
+      "wbhart/Cesium3"
     ]
 
     git_repos_chromium_googlesource = [
