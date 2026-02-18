@@ -3390,7 +3390,8 @@ class QuantumsandLive
       "enjoy-digital/litescope",
       "verilator/verilator",
       "verilator/rtlmeter",
-      "verilator/verilator_ext_tests"
+      "verilator/verilator_ext_tests",
+      "verilator/uvm"
     ]
 
     git_repos_chromium_googlesource = [
