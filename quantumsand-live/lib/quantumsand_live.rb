@@ -3411,7 +3411,8 @@ class QuantumsandLive
       "orangeduck/ptest",
       "agra-uni-bremen/virtual-bus",
       "agra-uni-bremen/virtual-breadboard-protocol",
-      "agra-uni-bremen/virtual-breadboard"
+      "agra-uni-bremen/virtual-breadboard",
+      "kunitoki/LuaBridge3"
     ]
 
     git_repos_chromium_googlesource = [
