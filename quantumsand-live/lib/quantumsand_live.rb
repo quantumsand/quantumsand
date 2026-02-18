@@ -3397,7 +3397,8 @@ class QuantumsandLive
       "chipsalliance/verible",
       "chipsalliance/riscv-dv",
       "verilator/example-systemverilog",
-      "steveicarus/iverilog"
+      "steveicarus/iverilog",
+      "jkarns275/f128"
     ]
 
     git_repos_chromium_googlesource = [
