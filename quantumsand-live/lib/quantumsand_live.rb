@@ -3400,7 +3400,8 @@ class QuantumsandLive
       "steveicarus/iverilog",
       "jkarns275/f128",
       "ics-jku/instruction-decoder",
-      "ics-jku/goldcrest-vp"
+      "ics-jku/goldcrest-vp",
+      "ics-jku/epex-formal-rv32-model"
     ]
 
     git_repos_chromium_googlesource = [
