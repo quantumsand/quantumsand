@@ -3373,7 +3373,8 @@ class QuantumsandLive
       "myriadrf/LimeDFB",
       "myriadrf/limedrv",
       "myriadrf/LimeDSP",
-      "myriadrf/LimeFEA-mPCIe"
+      "myriadrf/LimeFEA-mPCIe",
+      "myriadrf/LimeMicroAltiumLib"
     ]
 
     git_repos_chromium_googlesource = [
