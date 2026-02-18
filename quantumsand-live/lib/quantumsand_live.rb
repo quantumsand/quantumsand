@@ -3380,7 +3380,8 @@ class QuantumsandLive
       "myriadrf/LimeNET-Micro_GW",
       "myriadrf/LimeNET-Micro_SODIMM_Adapter",
       "myriadrf/LimePPSDO",
-      "enjoy-digital/LimeDFB"
+      "enjoy-digital/LimeDFB",
+      "enjoy-digital/litex_m2sdr"
     ]
 
     git_repos_chromium_googlesource = [
