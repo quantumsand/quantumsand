@@ -3404,7 +3404,8 @@ class QuantumsandLive
       "ics-jku/epex-formal-rv32-model",
       "ics-jku/riscv-vp-plusplus",
       "ics-jku/wal",
-      "LucasKl/wal-major-mode"
+      "LucasKl/wal-major-mode",
+      "orangeduck/mpc"
     ]
 
     git_repos_chromium_googlesource = [
