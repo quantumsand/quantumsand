@@ -3402,7 +3402,8 @@ class QuantumsandLive
       "ics-jku/instruction-decoder",
       "ics-jku/goldcrest-vp",
       "ics-jku/epex-formal-rv32-model",
-      "ics-jku/riscv-vp-plusplus"
+      "ics-jku/riscv-vp-plusplus",
+      "ics-jku/wal"
     ]
 
     git_repos_chromium_googlesource = [
