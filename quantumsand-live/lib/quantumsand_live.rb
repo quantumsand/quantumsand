@@ -3410,7 +3410,8 @@ class QuantumsandLive
       "agra-uni-bremen/vp-integration-tests",
       "orangeduck/ptest",
       "agra-uni-bremen/virtual-bus",
-      "agra-uni-bremen/virtual-breadboard-protocol"
+      "agra-uni-bremen/virtual-breadboard-protocol",
+      "agra-uni-bremen/virtual-breadboard"
     ]
 
     git_repos_chromium_googlesource = [
