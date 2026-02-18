@@ -3371,7 +3371,8 @@ class QuantumsandLive
       "ttsou/turbofec",
       "jamshidi3d/CosmicBlenderNodes",
       "myriadrf/LimeDFB",
-      "myriadrf/limedrv"
+      "myriadrf/limedrv",
+      "myriadrf/LimeDSP"
     ]
 
     git_repos_chromium_googlesource = [
