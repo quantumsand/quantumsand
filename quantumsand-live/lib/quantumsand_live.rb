@@ -3372,7 +3372,8 @@ class QuantumsandLive
       "jamshidi3d/CosmicBlenderNodes",
       "myriadrf/LimeDFB",
       "myriadrf/limedrv",
-      "myriadrf/LimeDSP"
+      "myriadrf/LimeDSP",
+      "myriadrf/LimeFEA-mPCIe"
     ]
 
     git_repos_chromium_googlesource = [
