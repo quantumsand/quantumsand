@@ -3399,7 +3399,8 @@ class QuantumsandLive
       "verilator/example-systemverilog",
       "steveicarus/iverilog",
       "jkarns275/f128",
-      "ics-jku/instruction-decoder"
+      "ics-jku/instruction-decoder",
+      "ics-jku/goldcrest-vp"
     ]
 
     git_repos_chromium_googlesource = [
