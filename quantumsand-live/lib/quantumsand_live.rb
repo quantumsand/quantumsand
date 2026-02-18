@@ -3409,7 +3409,8 @@ class QuantumsandLive
       "wbhart/Cesium3",
       "agra-uni-bremen/vp-integration-tests",
       "orangeduck/ptest",
-      "agra-uni-bremen/virtual-bus"
+      "agra-uni-bremen/virtual-bus",
+      "agra-uni-bremen/virtual-breadboard-protocol"
     ]
 
     git_repos_chromium_googlesource = [
