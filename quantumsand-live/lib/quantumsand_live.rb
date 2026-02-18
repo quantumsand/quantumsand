@@ -3392,7 +3392,8 @@ class QuantumsandLive
       "verilator/rtlmeter",
       "verilator/verilator_ext_tests",
       "verilator/uvm",
-      "chipsalliance/uvm-verilator"
+      "chipsalliance/uvm-verilator",
+      "chipsalliance/sv-tests"
     ]
 
     git_repos_chromium_googlesource = [
