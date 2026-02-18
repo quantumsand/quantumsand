@@ -3398,7 +3398,8 @@ class QuantumsandLive
       "chipsalliance/riscv-dv",
       "verilator/example-systemverilog",
       "steveicarus/iverilog",
-      "jkarns275/f128"
+      "jkarns275/f128",
+      "ics-jku/instruction-decoder"
     ]
 
     git_repos_chromium_googlesource = [
