@@ -3383,7 +3383,8 @@ class QuantumsandLive
       "enjoy-digital/LimeDFB",
       "enjoy-digital/litex_m2sdr",
       "enjoy-digital/litesata",
-      "enjoy-digital/liteeth"
+      "enjoy-digital/liteeth",
+      "enjoy-digital/litepcie"
     ]
 
     git_repos_chromium_googlesource = [
