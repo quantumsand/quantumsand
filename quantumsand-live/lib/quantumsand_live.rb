@@ -3395,7 +3395,8 @@ class QuantumsandLive
       "chipsalliance/uvm-verilator",
       "chipsalliance/sv-tests",
       "chipsalliance/verible",
-      "chipsalliance/riscv-dv"
+      "chipsalliance/riscv-dv",
+      "verilator/example-systemverilog"
     ]
 
     git_repos_chromium_googlesource = [
