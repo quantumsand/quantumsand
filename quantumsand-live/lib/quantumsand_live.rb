@@ -3401,7 +3401,8 @@ class QuantumsandLive
       "jkarns275/f128",
       "ics-jku/instruction-decoder",
       "ics-jku/goldcrest-vp",
-      "ics-jku/epex-formal-rv32-model"
+      "ics-jku/epex-formal-rv32-model",
+      "ics-jku/riscv-vp-plusplus"
     ]
 
     git_repos_chromium_googlesource = [
