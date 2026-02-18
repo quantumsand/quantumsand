@@ -3403,7 +3403,8 @@ class QuantumsandLive
       "ics-jku/goldcrest-vp",
       "ics-jku/epex-formal-rv32-model",
       "ics-jku/riscv-vp-plusplus",
-      "ics-jku/wal"
+      "ics-jku/wal",
+      "LucasKl/wal-major-mode"
     ]
 
     git_repos_chromium_googlesource = [
