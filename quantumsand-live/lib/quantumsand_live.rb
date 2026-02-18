@@ -3386,7 +3386,8 @@ class QuantumsandLive
       "enjoy-digital/liteeth",
       "enjoy-digital/litepcie",
       "enjoy-digital/litedram",
-      "enjoy-digital/litex"
+      "enjoy-digital/litex",
+      "enjoy-digital/litescope"
     ]
 
     git_repos_chromium_googlesource = [
