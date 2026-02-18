@@ -3407,7 +3407,8 @@ class QuantumsandLive
       "LucasKl/wal-major-mode",
       "orangeduck/mpc",
       "wbhart/Cesium3",
-      "agra-uni-bremen/vp-integration-tests"
+      "agra-uni-bremen/vp-integration-tests",
+      "orangeduck/ptest"
     ]
 
     git_repos_chromium_googlesource = [
