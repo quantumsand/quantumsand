@@ -3377,7 +3377,8 @@ class QuantumsandLive
       "myriadrf/LimeMicroAltiumLib",
       "myriadrf/LimeMM-X8-FMC",
       "myriadrf/LimeNET-Micro",
-      "myriadrf/LimeNET-Micro_GW"
+      "myriadrf/LimeNET-Micro_GW",
+      "myriadrf/LimeNET-Micro_SODIMM_Adapter"
     ]
 
     git_repos_chromium_googlesource = [
