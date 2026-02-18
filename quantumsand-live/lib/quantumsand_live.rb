@@ -3408,7 +3408,8 @@ class QuantumsandLive
       "orangeduck/mpc",
       "wbhart/Cesium3",
       "agra-uni-bremen/vp-integration-tests",
-      "orangeduck/ptest"
+      "orangeduck/ptest",
+      "agra-uni-bremen/virtual-bus"
     ]
 
     git_repos_chromium_googlesource = [
