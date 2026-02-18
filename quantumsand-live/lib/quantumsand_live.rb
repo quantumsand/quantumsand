@@ -3414,7 +3414,8 @@ class QuantumsandLive
       "agra-uni-bremen/virtual-breadboard",
       "kunitoki/LuaBridge3",
       "luau-lang/luau",
-      "dibyendumajumdar/ravi"
+      "dibyendumajumdar/ravi",
+      "datalayer/jupyter-ui"
     ]
 
     git_repos_chromium_googlesource = [
