@@ -3417,7 +3417,8 @@ class QuantumsandLive
       "dibyendumajumdar/ravi",
       "datalayer/jupyter-ui",
       "Aiven-Open/pghoard",
-      "apple/container"
+      "apple/container",
+      "deepnote/deepnote"
     ]
 
     git_repos_chromium_googlesource = [
