@@ -3415,7 +3415,8 @@ class QuantumsandLive
       "kunitoki/LuaBridge3",
       "luau-lang/luau",
       "dibyendumajumdar/ravi",
-      "datalayer/jupyter-ui"
+      "datalayer/jupyter-ui",
+      "Aiven-Open/pghoard"
     ]
 
     git_repos_chromium_googlesource = [
