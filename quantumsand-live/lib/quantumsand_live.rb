@@ -3420,7 +3420,8 @@ class QuantumsandLive
       "apple/container",
       "deepnote/deepnote",
       "deepnote/vscode-deepnote",
-      "deepnote/jupyterlab-deepnote"
+      "deepnote/jupyterlab-deepnote",
+      "deepnote/deepnote-toolkit"
     ]
 
     git_repos_chromium_googlesource = [
