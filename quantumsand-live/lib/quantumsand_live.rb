@@ -3418,7 +3418,8 @@ class QuantumsandLive
       "datalayer/jupyter-ui",
       "Aiven-Open/pghoard",
       "apple/container",
-      "deepnote/deepnote"
+      "deepnote/deepnote",
+      "deepnote/vscode-deepnote"
     ]
 
     git_repos_chromium_googlesource = [
