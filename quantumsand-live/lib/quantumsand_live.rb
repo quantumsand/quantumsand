@@ -3419,7 +3419,8 @@ class QuantumsandLive
       "Aiven-Open/pghoard",
       "apple/container",
       "deepnote/deepnote",
-      "deepnote/vscode-deepnote"
+      "deepnote/vscode-deepnote",
+      "deepnote/jupyterlab-deepnote"
     ]
 
     git_repos_chromium_googlesource = [
