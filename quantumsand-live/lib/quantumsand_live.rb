@@ -3416,7 +3416,8 @@ class QuantumsandLive
       "luau-lang/luau",
       "dibyendumajumdar/ravi",
       "datalayer/jupyter-ui",
-      "Aiven-Open/pghoard"
+      "Aiven-Open/pghoard",
+      "apple/container"
     ]
 
     git_repos_chromium_googlesource = [
