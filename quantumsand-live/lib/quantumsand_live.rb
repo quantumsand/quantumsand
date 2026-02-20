@@ -3456,7 +3456,8 @@ class QuantumsandLive
       "myriadrf/LimeSDR-XTRX_doc",
       "myriadrf/LimeSDR_GPIO_Board",
       "myriadrf/LimeSDR_GW",
-      "myriadrf/LimeSDR_Workshop"
+      "myriadrf/LimeSDR_Workshop",
+      "myriadrf/lms-suite"
     ]
 
     git_repos_chromium_googlesource = [
