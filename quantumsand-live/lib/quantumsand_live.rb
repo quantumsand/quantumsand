@@ -3425,7 +3425,8 @@ class QuantumsandLive
       "rocm/hipthreads",
       "myriadrf/LimePSB-RPCM",
       "myriadrf/LimePSB-RPCM_BSP",
-      "myriadrf/LimePSB_RPCM_GW"
+      "myriadrf/LimePSB_RPCM_GW",
+      "myriadrf/LimeRFE"
     ]
 
     git_repos_chromium_googlesource = [
