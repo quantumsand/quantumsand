@@ -3443,7 +3443,8 @@ class QuantumsandLive
       "myriadrf/LimeSDR-QPCIe",
       "myriadrf/LimeSDR-QPCIe_FX3_FW",
       "myriadrf/LimeSDR-QPCIe_GW",
-      "myriadrf/LimeSDR-USB"
+      "myriadrf/LimeSDR-USB",
+      "myriadrf/LimeSDR-USB_GW"
     ]
 
     git_repos_chromium_googlesource = [
