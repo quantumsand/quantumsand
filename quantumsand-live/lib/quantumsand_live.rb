@@ -4332,7 +4332,8 @@ class QuantumsandLive
       "graphics/drawy",
       "graphics/okular",
       "utilities/atelier",
-      "libraries/atcore"
+      "libraries/atcore",
+      "network/kio-extras"
     ]
 
     git_repos_ffmpeg_org = [
