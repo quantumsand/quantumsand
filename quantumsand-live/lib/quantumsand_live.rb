@@ -3467,7 +3467,8 @@ class QuantumsandLive
       "myriadrf/LMS8001-PLL-Sim",
       "myriadrf/LMS8001-docs",
       "myriadrf/LMS8001-Companion_FW",
-      "myriadrf/LoRa-SDR"
+      "myriadrf/LoRa-SDR",
+      "pothosware/SoapySDR"
     ]
 
     git_repos_chromium_googlesource = [
