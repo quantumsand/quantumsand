@@ -3441,7 +3441,8 @@ class QuantumsandLive
       "myriadrf/LimeSDR-PCIe_GW",
       "blair3sat/limesdr-pcie_xillybus_core",
       "myriadrf/LimeSDR-QPCIe",
-      "myriadrf/LimeSDR-QPCIe_FX3_FW"
+      "myriadrf/LimeSDR-QPCIe_FX3_FW",
+      "myriadrf/LimeSDR-QPCIe_GW"
     ]
 
     git_repos_chromium_googlesource = [
