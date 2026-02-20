@@ -3424,7 +3424,8 @@ class QuantumsandLive
       "deepnote/deepnote-toolkit",
       "rocm/hipthreads",
       "myriadrf/LimePSB-RPCM",
-      "myriadrf/LimePSB-RPCM_BSP"
+      "myriadrf/LimePSB-RPCM_BSP",
+      "myriadrf/LimePSB_RPCM_GW"
     ]
 
     git_repos_chromium_googlesource = [
