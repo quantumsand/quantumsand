@@ -3437,7 +3437,8 @@ class QuantumsandLive
       "myriadrf/LimeSDR-Mini-v2_GW",
       "myriadrf/LimeSDR-Mini_Acrylic_Case",
       "myriadrf/LimeSDR-Mini_GW",
-      "myriadrf/LimeSDR-PCIe"
+      "myriadrf/LimeSDR-PCIe",
+      "myriadrf/LimeSDR-PCIe_GW"
     ]
 
     git_repos_chromium_googlesource = [
