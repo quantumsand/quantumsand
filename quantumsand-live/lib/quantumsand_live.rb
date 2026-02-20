@@ -4334,7 +4334,8 @@ class QuantumsandLive
       "utilities/atelier",
       "libraries/atcore",
       "network/kio-extras",
-      "network/kio-zeroconf"
+      "network/kio-zeroconf",
+      "network/kio-s3"
     ]
 
     git_repos_ffmpeg_org = [
