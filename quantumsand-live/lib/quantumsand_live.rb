@@ -3433,7 +3433,8 @@ class QuantumsandLive
       "nxp-qoriq/la931x_iqplayer",
       "myriadrf/LimeSDR-Micro_VSPA",
       "myriadrf/LimeSDR-Mini",
-      "myriadrf/LimeSDR-Mini-v2"
+      "myriadrf/LimeSDR-Mini-v2",
+      "myriadrf/LimeSDR-Mini-v2_GW"
     ]
 
     git_repos_chromium_googlesource = [
