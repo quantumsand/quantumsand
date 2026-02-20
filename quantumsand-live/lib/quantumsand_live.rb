@@ -3464,7 +3464,8 @@ class QuantumsandLive
       "myriadrf/LMS7002M-driver",
       "myriadrf/LMS8001-Companion",
       "myriadrf/LMS8Suite",
-      "myriadrf/LMS8001-PLL-Sim"
+      "myriadrf/LMS8001-PLL-Sim",
+      "myriadrf/LMS8001-docs"
     ]
 
     git_repos_chromium_googlesource = [
