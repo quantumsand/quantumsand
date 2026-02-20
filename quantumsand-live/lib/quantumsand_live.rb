@@ -3428,7 +3428,8 @@ class QuantumsandLive
       "myriadrf/LimePSB_RPCM_GW",
       "myriadrf/LimeRFE",
       "myriadrf/LimeRFE-8001P",
-      "myriadrf/LimeRFE_FW"
+      "myriadrf/LimeRFE_FW",
+      "myriadrf/LimeSDR-Micro_FW"
     ]
 
     git_repos_chromium_googlesource = [
