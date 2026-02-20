@@ -3450,7 +3450,8 @@ class QuantumsandLive
       "myriadrf/LimeSDR-USB_Hacker_Case",
       "myriadrf/LimeSDR-X3",
       "myriadrf/LimeSDR-X3_GW",
-      "myriadrf/LimeSDR-XTRX_GW"
+      "myriadrf/LimeSDR-XTRX_GW",
+      "vbuitvydas/core_usb_uart"
     ]
 
     git_repos_chromium_googlesource = [
