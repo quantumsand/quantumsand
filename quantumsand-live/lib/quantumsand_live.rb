@@ -3595,7 +3595,8 @@ class QuantumsandLive
       "network/connman/pacrunner",
       "utils/pciutils/pciutils",
       "linux/kernel/git/firmware/linux-firmware",
-      "linux/kernel/git/jberg/rfkill"
+      "linux/kernel/git/jberg/rfkill",
+      "linux/kernel/git/tyhicks/ecryptfs"
     ]
 
     git_repos_isc_org_gitlab = [
