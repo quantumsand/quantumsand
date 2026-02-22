@@ -1,0 +1,12 @@
+.narrative__syncButtons {
+  margin-bottom: auto;
+  display: flex;
+  padding-top: 20px;
+}
+
+.narrative__syncButtons button {
+  background: #fff;
+  border: 1px solid #919191;
+  cursor: pointer;
+  margin: 5px 5px;
+}
