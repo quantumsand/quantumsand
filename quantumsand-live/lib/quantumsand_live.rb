@@ -3470,7 +3470,8 @@ class QuantumsandLive
       "myriadrf/LoRa-SDR",
       "pothosware/SoapySDR",
       "GSConnect/gnome-shell-extension-gsconnect",
-      "vadimdemedes/ink"
+      "vadimdemedes/ink",
+      "AOMediaCodec/oac"
     ]
 
     git_repos_chromium_googlesource = [
