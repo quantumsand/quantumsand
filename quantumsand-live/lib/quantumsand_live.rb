@@ -3469,7 +3469,8 @@ class QuantumsandLive
       "myriadrf/LMS8001-Companion_FW",
       "myriadrf/LoRa-SDR",
       "pothosware/SoapySDR",
-      "GSConnect/gnome-shell-extension-gsconnect"
+      "GSConnect/gnome-shell-extension-gsconnect",
+      "vadimdemedes/ink"
     ]
 
     git_repos_chromium_googlesource = [
