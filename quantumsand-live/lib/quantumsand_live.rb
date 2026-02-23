@@ -3561,7 +3561,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-hlr",
       "cellular-infrastructure/osmo-bsc",
       "cellular-infrastructure/osmo-trx",
-      "phone-side/osmocom-bb"
+      "phone-side/osmocom-bb",
+      "cellular-infrastructure/osmo-gbproxy"
     ]
 
     git_repos_eden_emu_dev = [
