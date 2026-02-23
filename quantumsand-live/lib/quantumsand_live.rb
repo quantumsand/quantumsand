@@ -3553,7 +3553,8 @@ class QuantumsandLive
       "ims-volte-vowifi/strongswan-epdg",
       "erlang/osmo-epdg",
       "cellular-infrastructure/osmo-gsm-tester",
-      "cellular-infrastructure/osmo-bts"
+      "cellular-infrastructure/osmo-bts",
+      "cellular-infrastructure/meta-telephony"
     ]
 
     git_repos_eden_emu_dev = [
