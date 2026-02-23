@@ -3494,7 +3494,8 @@ class QuantumsandLive
       "myriadrf/Novena-RF",
       "myriadrf/ofono",
       "redhat-performance/tuned",
-      "myriadrf/openairinterface5g"
+      "myriadrf/openairinterface5g",
+      "myriadrf/osmo-gsm-tester"
     ]
 
     git_repos_chromium_googlesource = [
