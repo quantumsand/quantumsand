@@ -3499,7 +3499,8 @@ class QuantumsandLive
       "deeptronix/dithering_halftoning",
       "deeptronix/epd42_library",
       "openvinotoolkit/openvino",
-      "PaddlePaddle/Paddle"
+      "PaddlePaddle/Paddle",
+      "mapeditor/rs-tiled"
     ]
 
     git_repos_chromium_googlesource = [
