@@ -3500,7 +3500,8 @@ class QuantumsandLive
       "deeptronix/epd42_library",
       "openvinotoolkit/openvino",
       "PaddlePaddle/Paddle",
-      "mapeditor/rs-tiled"
+      "mapeditor/rs-tiled",
+      "mapeditor/tiled-extensions"
     ]
 
     git_repos_chromium_googlesource = [
