@@ -3569,7 +3569,8 @@ class QuantumsandLive
     ]
 
     git_repos_eurecom_fr_gitlab = [
-      "mosaic5g/flexric"
+      "mosaic5g/flexric",
+      "oai/cn5g/oai-cn5g-common-ci"
     ]
 
     git_repos_inria_fr_gitlab = [
