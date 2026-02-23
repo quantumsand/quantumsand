@@ -3501,7 +3501,8 @@ class QuantumsandLive
       "openvinotoolkit/openvino",
       "PaddlePaddle/Paddle",
       "mapeditor/rs-tiled",
-      "mapeditor/tiled-extensions"
+      "mapeditor/tiled-extensions",
+      "mapeditor/tiled-to-godot-export"
     ]
 
     git_repos_chromium_googlesource = [
