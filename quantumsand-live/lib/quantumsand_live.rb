@@ -3567,7 +3567,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-msc",
       "cellular-infrastructure/osmo-gsm-manuals",
       "cellular-infrastructure/osmo-mgw",
-      "cellular-infrastructure/osmocom-analog"
+      "cellular-infrastructure/osmocom-analog",
+      "phone-side/osmocom-docs"
     ]
 
     git_repos_eden_emu_dev = [
