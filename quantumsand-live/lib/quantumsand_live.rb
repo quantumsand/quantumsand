@@ -3497,7 +3497,8 @@ class QuantumsandLive
       "myriadrf/openairinterface5g",
       "myriadrf/osmo-gsm-tester",
       "deeptronix/dithering_halftoning",
-      "deeptronix/epd42_library"
+      "deeptronix/epd42_library",
+      "openvinotoolkit/openvino"
     ]
 
     git_repos_chromium_googlesource = [
