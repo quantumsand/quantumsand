@@ -3474,7 +3474,8 @@ class QuantumsandLive
       "AOMediaCodec/oac",
       "pothosware/airspyhf",
       "airspy/airspyhf",
-      "pothosware/PothosCore"
+      "pothosware/PothosCore",
+      "solanmevbot/spuce"
     ]
 
     git_repos_chromium_googlesource = [
