@@ -3488,7 +3488,8 @@ class QuantumsandLive
       "pothosware/PothosAudio",
       "pothosware/PothosComms",
       "p12tic/libsimdpp",
-      "pothosware/SoapyRemote"
+      "pothosware/SoapyRemote",
+      "pothosware/SoapyRTLSDR"
     ]
 
     git_repos_chromium_googlesource = [
