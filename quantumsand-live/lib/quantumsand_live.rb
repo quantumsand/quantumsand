@@ -4463,7 +4463,8 @@ class QuantumsandLive
       "maxima/code",
       "giflib/code",
       "linuxptp/code",
-      "libcg/libcg"
+      "libcg/libcg",
+      "qwt/git"
     ]
 
     git_repos_salsa_debian_org = [
