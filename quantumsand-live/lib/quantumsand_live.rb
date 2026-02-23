@@ -3490,7 +3490,8 @@ class QuantumsandLive
       "p12tic/libsimdpp",
       "pothosware/SoapyRemote",
       "pothosware/SoapyRTLSDR",
-      "pothosware/SoapyHackRF"
+      "pothosware/SoapyHackRF",
+      "myriadrf/Novena-RF"
     ]
 
     git_repos_chromium_googlesource = [
