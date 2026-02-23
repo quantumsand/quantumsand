@@ -3479,7 +3479,8 @@ class QuantumsandLive
       "beltoforion/muparserx",
       "GauiStori/PyQt-Qwt",
       "pothosware/PothosPlotters",
-      "opencor/qwt"
+      "opencor/qwt",
+      "pothosware/PothosWidgets"
     ]
 
     git_repos_chromium_googlesource = [
