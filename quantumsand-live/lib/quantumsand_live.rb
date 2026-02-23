@@ -3498,7 +3498,8 @@ class QuantumsandLive
       "myriadrf/osmo-gsm-tester",
       "deeptronix/dithering_halftoning",
       "deeptronix/epd42_library",
-      "openvinotoolkit/openvino"
+      "openvinotoolkit/openvino",
+      "PaddlePaddle/Paddle"
     ]
 
     git_repos_chromium_googlesource = [
