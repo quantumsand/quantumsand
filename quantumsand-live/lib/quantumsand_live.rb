@@ -3475,7 +3475,8 @@ class QuantumsandLive
       "pothosware/airspyhf",
       "airspy/airspyhf",
       "pothosware/PothosCore",
-      "solanmevbot/spuce"
+      "solanmevbot/spuce",
+      "beltoforion/muparserx"
     ]
 
     git_repos_chromium_googlesource = [
