@@ -3471,7 +3471,8 @@ class QuantumsandLive
       "pothosware/SoapySDR",
       "GSConnect/gnome-shell-extension-gsconnect",
       "vadimdemedes/ink",
-      "AOMediaCodec/oac"
+      "AOMediaCodec/oac",
+      "pothosware/airspyhf"
     ]
 
     git_repos_chromium_googlesource = [
