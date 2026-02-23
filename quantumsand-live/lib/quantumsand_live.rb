@@ -3558,7 +3558,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-cbc",
       "cellular-infrastructure/osmo-hnbgw",
       "cellular-infrastructure/osmo-sgsn",
-      "cellular-infrastructure/osmo-hlr"
+      "cellular-infrastructure/osmo-hlr",
+      "cellular-infrastructure/osmo-bsc"
     ]
 
     git_repos_eden_emu_dev = [
