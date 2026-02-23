@@ -3483,7 +3483,8 @@ class QuantumsandLive
       "pothosware/PothosWidgets",
       "pothosware/PothosFlow",
       "pothosware/PothosSoapy",
-      "pothosware/PothosBlocks"
+      "pothosware/PothosBlocks",
+      "pothosware/PothosPython"
     ]
 
     git_repos_chromium_googlesource = [
