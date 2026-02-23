@@ -3491,7 +3491,8 @@ class QuantumsandLive
       "pothosware/SoapyRemote",
       "pothosware/SoapyRTLSDR",
       "pothosware/SoapyHackRF",
-      "myriadrf/Novena-RF"
+      "myriadrf/Novena-RF",
+      "myriadrf/ofono"
     ]
 
     git_repos_chromium_googlesource = [
