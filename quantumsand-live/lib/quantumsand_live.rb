@@ -3554,7 +3554,8 @@ class QuantumsandLive
       "erlang/osmo-epdg",
       "cellular-infrastructure/osmo-gsm-tester",
       "cellular-infrastructure/osmo-bts",
-      "cellular-infrastructure/meta-telephony"
+      "cellular-infrastructure/meta-telephony",
+      "cellular-infrastructure/osmo-cbc"
     ]
 
     git_repos_eden_emu_dev = [
