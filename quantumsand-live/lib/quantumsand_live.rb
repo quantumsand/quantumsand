@@ -3477,7 +3477,8 @@ class QuantumsandLive
       "pothosware/PothosCore",
       "solanmevbot/spuce",
       "beltoforion/muparserx",
-      "GauiStori/PyQt-Qwt"
+      "GauiStori/PyQt-Qwt",
+      "pothosware/PothosPlotters"
     ]
 
     git_repos_chromium_googlesource = [
