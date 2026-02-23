@@ -3473,7 +3473,8 @@ class QuantumsandLive
       "vadimdemedes/ink",
       "AOMediaCodec/oac",
       "pothosware/airspyhf",
-      "airspy/airspyhf"
+      "airspy/airspyhf",
+      "pothosware/PothosCore"
     ]
 
     git_repos_chromium_googlesource = [
