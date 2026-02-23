@@ -3480,7 +3480,8 @@ class QuantumsandLive
       "GauiStori/PyQt-Qwt",
       "pothosware/PothosPlotters",
       "opencor/qwt",
-      "pothosware/PothosWidgets"
+      "pothosware/PothosWidgets",
+      "pothosware/PothosFlow"
     ]
 
     git_repos_chromium_googlesource = [
