@@ -3551,7 +3551,8 @@ class QuantumsandLive
 
     git_repos_osmocom_org_gitea = [
       "ims-volte-vowifi/strongswan-epdg",
-      "erlang/osmo-epdg"
+      "erlang/osmo-epdg",
+      "cellular-infrastructure/osmo-gsm-tester"
     ]
 
     git_repos_eden_emu_dev = [
