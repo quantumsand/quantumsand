@@ -3472,7 +3472,8 @@ class QuantumsandLive
       "GSConnect/gnome-shell-extension-gsconnect",
       "vadimdemedes/ink",
       "AOMediaCodec/oac",
-      "pothosware/airspyhf"
+      "pothosware/airspyhf",
+      "airspy/airspyhf"
     ]
 
     git_repos_chromium_googlesource = [
