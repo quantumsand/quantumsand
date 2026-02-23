@@ -3486,7 +3486,8 @@ class QuantumsandLive
       "pothosware/PothosBlocks",
       "pothosware/PothosPython",
       "pothosware/PothosAudio",
-      "pothosware/PothosComms"
+      "pothosware/PothosComms",
+      "p12tic/libsimdpp"
     ]
 
     git_repos_chromium_googlesource = [
