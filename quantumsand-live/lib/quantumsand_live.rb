@@ -3568,6 +3568,10 @@ class QuantumsandLive
       "libasyncns"
     ]
 
+    git_repos_eurecom_fr_gitlab = [
+      "mosaic5g/flexric"
+    ]
+
     git_repos_inria_fr_gitlab = [
       "mpc/mpc"
     ]
