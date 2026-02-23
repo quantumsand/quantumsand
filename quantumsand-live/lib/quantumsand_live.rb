@@ -3478,7 +3478,8 @@ class QuantumsandLive
       "solanmevbot/spuce",
       "beltoforion/muparserx",
       "GauiStori/PyQt-Qwt",
-      "pothosware/PothosPlotters"
+      "pothosware/PothosPlotters",
+      "opencor/qwt"
     ]
 
     git_repos_chromium_googlesource = [
