@@ -3496,7 +3496,8 @@ class QuantumsandLive
       "redhat-performance/tuned",
       "myriadrf/openairinterface5g",
       "myriadrf/osmo-gsm-tester",
-      "deeptronix/dithering_halftoning"
+      "deeptronix/dithering_halftoning",
+      "deeptronix/epd42_library"
     ]
 
     git_repos_chromium_googlesource = [
