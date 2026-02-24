@@ -3586,6 +3586,10 @@ class QuantumsandLive
       "eden-emu/libadrenotools"
     ]
 
+    git_repos_zx2c4_com = [
+      "cgit"
+    ]
+
     git_repos_pagure_io = [
       "libaio",
       "passwd"
