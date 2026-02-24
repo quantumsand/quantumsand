@@ -3587,7 +3587,8 @@ class QuantumsandLive
     ]
 
     git_repos_zx2c4_com = [
-      "cgit"
+      "cgit",
+      "wireguard-linux"
     ]
 
     git_repos_pagure_io = [
