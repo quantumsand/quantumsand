@@ -3582,7 +3582,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-smlc",
       "cellular-infrastructure/osmo-ggsn",
       "cellular-infrastructure/libgtpnl",
-      "cellular-infrastructure/libsmpp34"
+      "cellular-infrastructure/libsmpp34",
+      "cellular-infrastructure/osmo-iuh"
     ]
 
     git_repos_eden_emu_dev = [
