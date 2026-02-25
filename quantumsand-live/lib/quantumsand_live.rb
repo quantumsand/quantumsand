@@ -3617,7 +3617,8 @@ class QuantumsandLive
       "phone-side/uboot-mt623x",
       "phone-side/libqmi-qmuxd",
       "phone-side/dct3-gsmtap",
-      "phone-side/ot290-gsmtap"
+      "phone-side/ot290-gsmtap",
+      "ims-volte-vowifi/ansible-prototype"
     ]
 
     git_repos_eden_emu_dev = [
