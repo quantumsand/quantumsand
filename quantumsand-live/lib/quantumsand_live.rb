@@ -3613,7 +3613,8 @@ class QuantumsandLive
       "cellular-infrastructure/imsi-pseudo",
       "phone-side/quectel-experiments",
       "phone-side/osmo-qcdiag",
-      "phone-side/nuttx-bb"
+      "phone-side/nuttx-bb",
+      "phone-side/uboot-mt623x"
     ]
 
     git_repos_eden_emu_dev = [
