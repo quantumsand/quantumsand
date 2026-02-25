@@ -3621,7 +3621,8 @@ class QuantumsandLive
       "ims-volte-vowifi/ansible-prototype",
       "ims-volte-vowifi/SWu-IKEv2",
       "ims-volte-vowifi/doubango",
-      "erlang/osmo-s1gw"
+      "erlang/osmo-s1gw",
+      "erlang/osmo_dia2gsup"
     ]
 
     git_repos_eden_emu_dev = [
