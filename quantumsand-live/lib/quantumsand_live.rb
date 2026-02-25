@@ -3615,7 +3615,8 @@ class QuantumsandLive
       "phone-side/osmo-qcdiag",
       "phone-side/nuttx-bb",
       "phone-side/uboot-mt623x",
-      "phone-side/libqmi-qmuxd"
+      "phone-side/libqmi-qmuxd",
+      "phone-side/dct3-gsmtap"
     ]
 
     git_repos_eden_emu_dev = [
