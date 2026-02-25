@@ -3502,7 +3502,8 @@ class QuantumsandLive
       "PaddlePaddle/Paddle",
       "mapeditor/rs-tiled",
       "mapeditor/tiled-extensions",
-      "mapeditor/tiled-to-godot-export"
+      "mapeditor/tiled-to-godot-export",
+      "josefbacik/systing"
     ]
 
     git_repos_chromium_googlesource = [
