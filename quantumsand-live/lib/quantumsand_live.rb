@@ -3594,7 +3594,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-e1-recorder",
       "cellular-infrastructure/gtp-load-gen",
       "cellular-infrastructure/openbsc",
-      "cellular-infrastructure/openggsn"
+      "cellular-infrastructure/openggsn",
+      "cellular-infrastructure/osmocom-analog-libraries"
     ]
 
     git_repos_eden_emu_dev = [
