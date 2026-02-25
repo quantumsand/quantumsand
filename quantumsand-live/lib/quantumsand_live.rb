@@ -3590,7 +3590,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-hnodeb",
       "cellular-infrastructure/mncc-python",
       "cellular-infrastructure/osmo-bsc-nat",
-      "cellular-infrastructure/libasn1c"
+      "cellular-infrastructure/libasn1c",
+      "cellular-infrastructure/osmo-e1-recorder"
     ]
 
     git_repos_eden_emu_dev = [
