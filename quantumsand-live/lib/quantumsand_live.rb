@@ -3612,7 +3612,8 @@ class QuantumsandLive
       "cellular-infrastructure/training-materials",
       "cellular-infrastructure/imsi-pseudo",
       "phone-side/quectel-experiments",
-      "phone-side/osmo-qcdiag"
+      "phone-side/osmo-qcdiag",
+      "phone-side/nuttx-bb"
     ]
 
     git_repos_eden_emu_dev = [
