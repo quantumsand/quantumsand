@@ -3595,7 +3595,8 @@ class QuantumsandLive
       "cellular-infrastructure/gtp-load-gen",
       "cellular-infrastructure/openbsc",
       "cellular-infrastructure/openggsn",
-      "cellular-infrastructure/osmocom-analog-libraries"
+      "cellular-infrastructure/osmocom-analog-libraries",
+      "cellular-infrastructure/cellmgr-ng"
     ]
 
     git_repos_eden_emu_dev = [
