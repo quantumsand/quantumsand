@@ -3597,7 +3597,8 @@ class QuantumsandLive
       "cellular-infrastructure/openggsn",
       "cellular-infrastructure/osmocom-analog-libraries",
       "cellular-infrastructure/cellmgr-ng",
-      "cellular-infrastructure/asn1_docextract"
+      "cellular-infrastructure/asn1_docextract",
+      "cellular-infrastructure/asn1-ss7"
     ]
 
     git_repos_eden_emu_dev = [
