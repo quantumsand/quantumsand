@@ -3607,7 +3607,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-gtp-kernel",
       "cellular-infrastructure/osmo-bts-amp",
       "cellular-infrastructure/osmo-auc",
-      "cellular-infrastructure/octphy-2g-headers"
+      "cellular-infrastructure/octphy-2g-headers",
+      "cellular-infrastructure/chan_openbsc"
     ]
 
     git_repos_eden_emu_dev = [
