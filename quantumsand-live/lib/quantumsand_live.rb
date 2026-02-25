@@ -3579,7 +3579,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-uecups",
       "cellular-infrastructure/osmo-sip-connector",
       "cellular-infrastructure/osmo-upf",
-      "cellular-infrastructure/osmo-smlc"
+      "cellular-infrastructure/osmo-smlc",
+      "cellular-infrastructure/osmo-ggsn"
     ]
 
     git_repos_eden_emu_dev = [
