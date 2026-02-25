@@ -3608,7 +3608,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-bts-amp",
       "cellular-infrastructure/osmo-auc",
       "cellular-infrastructure/octphy-2g-headers",
-      "cellular-infrastructure/chan_openbsc"
+      "cellular-infrastructure/chan_openbsc",
+      "cellular-infrastructure/training-materials"
     ]
 
     git_repos_eden_emu_dev = [
