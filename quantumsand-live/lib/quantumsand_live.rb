@@ -3600,7 +3600,8 @@ class QuantumsandLive
       "cellular-infrastructure/asn1_docextract",
       "cellular-infrastructure/asn1-ss7",
       "cellular-infrastructure/osmo-abi-check",
-      "cellular-infrastructure/osmo-oohmi"
+      "cellular-infrastructure/osmo-oohmi",
+      "cellular-infrastructure/osmocom-lcs"
     ]
 
     git_repos_eden_emu_dev = [
