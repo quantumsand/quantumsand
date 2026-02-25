@@ -3610,7 +3610,8 @@ class QuantumsandLive
       "cellular-infrastructure/octphy-2g-headers",
       "cellular-infrastructure/chan_openbsc",
       "cellular-infrastructure/training-materials",
-      "cellular-infrastructure/imsi-pseudo"
+      "cellular-infrastructure/imsi-pseudo",
+      "phone-side/quectel-experiments"
     ]
 
     git_repos_eden_emu_dev = [
