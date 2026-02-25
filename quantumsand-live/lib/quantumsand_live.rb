@@ -3587,7 +3587,8 @@ class QuantumsandLive
       "cellular-infrastructure/osmo-el2tpd",
       "cellular-infrastructure/osmo-python-tests",
       "cellular-infrastructure/upf-benchmark",
-      "cellular-infrastructure/osmo-hnodeb"
+      "cellular-infrastructure/osmo-hnodeb",
+      "cellular-infrastructure/mncc-python"
     ]
 
     git_repos_eden_emu_dev = [
