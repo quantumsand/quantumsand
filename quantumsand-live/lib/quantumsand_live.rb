@@ -3578,7 +3578,8 @@ class QuantumsandLive
       "phone-side/osmocom-docs",
       "cellular-infrastructure/osmo-uecups",
       "cellular-infrastructure/osmo-sip-connector",
-      "cellular-infrastructure/osmo-upf"
+      "cellular-infrastructure/osmo-upf",
+      "cellular-infrastructure/osmo-smlc"
     ]
 
     git_repos_eden_emu_dev = [
