@@ -3619,7 +3619,8 @@ class QuantumsandLive
       "phone-side/dct3-gsmtap",
       "phone-side/ot290-gsmtap",
       "ims-volte-vowifi/ansible-prototype",
-      "ims-volte-vowifi/SWu-IKEv2"
+      "ims-volte-vowifi/SWu-IKEv2",
+      "ims-volte-vowifi/doubango"
     ]
 
     git_repos_eden_emu_dev = [
