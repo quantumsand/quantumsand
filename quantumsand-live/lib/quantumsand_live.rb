@@ -3657,7 +3657,8 @@ class QuantumsandLive
       "sim-card/softsim",
       "sim-card/sam7-util",
       "sim-card/qemu",
-      "sim-card/osmo-sim-auth"
+      "sim-card/osmo-sim-auth",
+      "sim-card/openpcd"
     ]
 
     git_repos_eden_emu_dev = [
