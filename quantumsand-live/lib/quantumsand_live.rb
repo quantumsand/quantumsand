@@ -3649,7 +3649,8 @@ class QuantumsandLive
       "sim-card/simtrace2",
       "sim-card/hello-stk",
       "sim-card/aram-applet",
-      "sim-card/osmo-subscr-impex"
+      "sim-card/osmo-subscr-impex",
+      "sim-card/osmo-cos"
     ]
 
     git_repos_eden_emu_dev = [
