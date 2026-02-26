@@ -3644,7 +3644,8 @@ class QuantumsandLive
       "sim-card/pysim",
       "sim-card/euicc-manual",
       "sim-card/android-apdu-proxy",
-      "sim-card/simtrace2"
+      "sim-card/simtrace2",
+      "sim-card/hello-stk"
     ]
 
     git_repos_eden_emu_dev = [
