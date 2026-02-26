@@ -3505,7 +3505,8 @@ class QuantumsandLive
       "mapeditor/tiled-to-godot-export",
       "josefbacik/systing",
       "riii111/sabiql",
-      "msantos/pkt"
+      "msantos/pkt",
+      "msantos/epcap"
     ]
 
     git_repos_chromium_googlesource = [
