@@ -3782,7 +3782,8 @@ class QuantumsandLive
       "lilypond",
       "lwip",
       "config",
-      "readline"
+      "readline",
+      "indent"
     ]
 
     git_repos_savannah_nongnu_org = [
