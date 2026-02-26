@@ -3637,7 +3637,8 @@ class QuantumsandLive
       "erlang/osmo_smsc",
       "erlang/mgw_nat",
       "erlang/osmo_map",
-      "erlang/osmo_sccp"
+      "erlang/osmo_sccp",
+      "sim-card/osmo-ccid-firmware"
     ]
 
     git_repos_eden_emu_dev = [
