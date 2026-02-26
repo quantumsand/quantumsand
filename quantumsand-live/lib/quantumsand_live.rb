@@ -3512,7 +3512,8 @@ class QuantumsandLive
       "martinpaljak/ant-javacard",
       "KhronosGroup/Vulkan-Hpp",
       "leethomason/tinyxml2",
-      "KhronosGroup/Vulkan-Tutorial"
+      "KhronosGroup/Vulkan-Tutorial",
+      "shader-slang/slang"
     ]
 
     git_repos_chromium_googlesource = [
