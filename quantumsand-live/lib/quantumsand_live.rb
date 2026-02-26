@@ -3748,7 +3748,8 @@ class QuantumsandLive
       "utils/pciutils/pciutils",
       "linux/kernel/git/firmware/linux-firmware",
       "linux/kernel/git/jberg/rfkill",
-      "linux/kernel/git/tyhicks/ecryptfs"
+      "linux/kernel/git/tyhicks/ecryptfs",
+      "linux/kernel/git/vfs/vfs"
     ]
 
     git_repos_isc_org_gitlab = [
