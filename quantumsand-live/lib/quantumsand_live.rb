@@ -3511,7 +3511,8 @@ class QuantumsandLive
       "martinpaljak/oracle_javacard_sdks",
       "martinpaljak/ant-javacard",
       "KhronosGroup/Vulkan-Hpp",
-      "leethomason/tinyxml2"
+      "leethomason/tinyxml2",
+      "KhronosGroup/Vulkan-Tutorial"
     ]
 
     git_repos_chromium_googlesource = [
