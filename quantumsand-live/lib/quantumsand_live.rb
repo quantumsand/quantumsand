@@ -3628,7 +3628,8 @@ class QuantumsandLive
       "erlang/osmo_dia2gsup",
       "erlang/logger_gsmtap",
       "erlang/enftables",
-      "erlang/epcap"
+      "erlang/epcap",
+      "erlang/osmo_cap"
     ]
 
     git_repos_eden_emu_dev = [
