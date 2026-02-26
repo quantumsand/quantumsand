@@ -4008,7 +4008,8 @@ class QuantumsandLive
       "pulseaudio/webrtc-audio-processing",
       "xdg/pyxdg",
       "gstreamer/gst-integration-testsuites",
-      "gstreamer/cerbero"
+      "gstreamer/cerbero",
+      "gstreamer/gir-files-rs"
     ]
 
     git_repos_xfce_gitlab = [
