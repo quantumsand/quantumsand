@@ -3633,7 +3633,8 @@ class QuantumsandLive
       "erlang/osmo_ss7",
       "erlang/osmo_gsup",
       "erlang/signerl",
-      "erlang/osmo-map-masq"
+      "erlang/osmo-map-masq",
+      "erlang/osmo_smsc"
     ]
 
     git_repos_eden_emu_dev = [
