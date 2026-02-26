@@ -3750,7 +3750,8 @@ class QuantumsandLive
 
     git_repos_eclipse_org_gitlab = [
       "eclipse/titan/titan.core",
-      "eclipse/titan/titan.language-server"
+      "eclipse/titan/titan.language-server",
+      "eclipse/titan/titan.vs-code-extension"
     ]
 
     git_repos_sourceware_org = [
