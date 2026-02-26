@@ -3655,7 +3655,8 @@ class QuantumsandLive
       "sim-card/simtrace",
       "sim-card/gsma-esim-iot",
       "sim-card/softsim",
-      "sim-card/sam7-util"
+      "sim-card/sam7-util",
+      "sim-card/qemu"
     ]
 
     git_repos_eden_emu_dev = [
