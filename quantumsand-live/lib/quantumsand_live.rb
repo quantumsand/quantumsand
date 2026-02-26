@@ -3624,7 +3624,8 @@ class QuantumsandLive
       "ims-volte-vowifi/doubango",
       "erlang/osmo-s1gw",
       "erlang/osmo_dia2gsup",
-      "erlang/logger_gsmtap"
+      "erlang/logger_gsmtap",
+      "erlang/enftables"
     ]
 
     git_repos_eden_emu_dev = [
