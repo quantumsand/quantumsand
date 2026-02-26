@@ -3506,7 +3506,8 @@ class QuantumsandLive
       "josefbacik/systing",
       "riii111/sabiql",
       "msantos/pkt",
-      "msantos/epcap"
+      "msantos/epcap",
+      "alex-shpak/hugo-book"
     ]
 
     git_repos_chromium_googlesource = [
