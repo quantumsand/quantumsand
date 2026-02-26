@@ -3508,7 +3508,8 @@ class QuantumsandLive
       "msantos/pkt",
       "msantos/epcap",
       "alex-shpak/hugo-book",
-      "martinpaljak/oracle_javacard_sdks"
+      "martinpaljak/oracle_javacard_sdks",
+      "martinpaljak/ant-javacard"
     ]
 
     git_repos_chromium_googlesource = [
