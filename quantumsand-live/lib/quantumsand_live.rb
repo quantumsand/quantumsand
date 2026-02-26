@@ -3509,7 +3509,8 @@ class QuantumsandLive
       "msantos/epcap",
       "alex-shpak/hugo-book",
       "martinpaljak/oracle_javacard_sdks",
-      "martinpaljak/ant-javacard"
+      "martinpaljak/ant-javacard",
+      "KhronosGroup/Vulkan-Hpp"
     ]
 
     git_repos_chromium_googlesource = [
