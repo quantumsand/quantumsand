@@ -3640,7 +3640,8 @@ class QuantumsandLive
       "erlang/osmo_sccp",
       "sim-card/osmo-ccid-firmware",
       "sim-card/osmo-remsim",
-      "sim-card/pysim"
+      "sim-card/pysim",
+      "sim-card/euicc-manual"
     ]
 
     git_repos_eden_emu_dev = [
