@@ -3748,6 +3748,10 @@ class QuantumsandLive
       "isc-projects/bind9"
     ]
 
+    git_repos_eclipse_org_gitlab = [
+      "eclipse/titan/titan.core"
+    ]
+
     git_repos_sourceware_org = [
       "binutils-gdb",
       "bzip2",
