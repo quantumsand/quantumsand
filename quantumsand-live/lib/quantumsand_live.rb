@@ -3660,7 +3660,8 @@ class QuantumsandLive
       "sim-card/osmo-sim-auth",
       "sim-card/openpcd",
       "ttcn3/osmo-ttcn3-hacks",
-      "ttcn3/nas"
+      "ttcn3/nas",
+      "ttcn3/titan.TestPorts.SIPmsg"
     ]
 
     git_repos_eden_emu_dev = [
