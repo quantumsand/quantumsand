@@ -3653,7 +3653,8 @@ class QuantumsandLive
       "sim-card/osmo-cos",
       "sim-card/sim-tools",
       "sim-card/simtrace",
-      "sim-card/gsma-esim-iot"
+      "sim-card/gsma-esim-iot",
+      "sim-card/softsim"
     ]
 
     git_repos_eden_emu_dev = [
