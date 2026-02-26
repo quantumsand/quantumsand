@@ -4009,7 +4009,8 @@ class QuantumsandLive
       "xdg/pyxdg",
       "gstreamer/gst-integration-testsuites",
       "gstreamer/cerbero",
-      "gstreamer/gir-files-rs"
+      "gstreamer/gir-files-rs",
+      "gstreamer/gst-indent"
     ]
 
     git_repos_xfce_gitlab = [
