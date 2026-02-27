@@ -3702,7 +3702,8 @@ class QuantumsandLive
       "electronics/osmo-small-hardware",
       "electronics/osmo-rp2040-firmware",
       "electronics/ice40-usbtrace",
-      "electronics/attiny-wdt"
+      "electronics/attiny-wdt",
+      "electronics/osmo-opencm3-projects"
     ]
 
     git_repos_m_labs_hk = [
