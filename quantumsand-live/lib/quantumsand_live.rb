@@ -4559,7 +4559,8 @@ class QuantumsandLive
       "libraries/atcore",
       "network/kio-extras",
       "network/kio-zeroconf",
-      "network/kio-s3"
+      "network/kio-s3",
+      "utilities/konsole"
     ]
 
     git_repos_ffmpeg_org = [
