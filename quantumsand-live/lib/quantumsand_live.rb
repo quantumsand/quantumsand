@@ -3524,7 +3524,8 @@ class QuantumsandLive
       "m-labs/VexRiscv-verilog",
       "SpinalHDL/VexRiscv",
       "SpinalHDL/VexRiscvRegressionData",
-      "SpinalHDL/SpinalHDL"
+      "SpinalHDL/SpinalHDL",
+      "SpinalHDL/CocotbLib"
     ]
 
     git_repos_chromium_googlesource = [
