@@ -3704,6 +3704,10 @@ class QuantumsandLive
       "electronics/ice40-usbtrace"
     ]
 
+    git_repos_m_labs_hk = [
+      "M-Labs/misoc"
+    ]
+
     git_repos_eden_emu_dev = [
       "eden-emu/eden",
       "eden-emu/dynarmic",
