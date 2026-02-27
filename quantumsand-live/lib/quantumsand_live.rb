@@ -3685,7 +3685,8 @@ class QuantumsandLive
       "tnt/mISDN",
       "tnt/spandsp",
       "tnt/xmas-snoopy",
-      "tnt/bbb-utils"
+      "tnt/bbb-utils",
+      "tnt/iso7816-test"
     ]
 
     git_repos_eden_emu_dev = [
