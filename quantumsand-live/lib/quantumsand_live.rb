@@ -3519,7 +3519,8 @@ class QuantumsandLive
       "m-labs/migen",
       "m-labs/misoc",
       "no2fpga/no2usb",
-      "m-labs/lm32"
+      "m-labs/lm32",
+      "m-labs/mor1kx"
     ]
 
     git_repos_chromium_googlesource = [
