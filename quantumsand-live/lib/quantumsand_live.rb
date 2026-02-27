@@ -3517,7 +3517,8 @@ class QuantumsandLive
       "highlightjs/highlight.js",
       "OpenVizslaTNG/ov_ftdi",
       "m-labs/migen",
-      "m-labs/misoc"
+      "m-labs/misoc",
+      "no2fpga/no2usb"
     ]
 
     git_repos_chromium_googlesource = [
