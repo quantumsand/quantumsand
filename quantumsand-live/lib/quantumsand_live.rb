@@ -3704,7 +3704,8 @@ class QuantumsandLive
       "electronics/ice40-usbtrace",
       "electronics/attiny-wdt",
       "electronics/osmo-opencm3-projects",
-      "electronics/libopencm3"
+      "electronics/libopencm3",
+      "electronics/atmel-asf-projects"
     ]
 
     git_repos_m_labs_hk = [
