@@ -3528,7 +3528,8 @@ class QuantumsandLive
       "SpinalHDL/CocotbLib",
       "libopencm3/libopencm3",
       "libopencm3/libopencm3-examples",
-      "libopencm3/libopencm3-miniblink"
+      "libopencm3/libopencm3-miniblink",
+      "rage-rb/rage"
     ]
 
     git_repos_chromium_googlesource = [
