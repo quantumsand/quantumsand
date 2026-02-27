@@ -3685,6 +3685,10 @@ class QuantumsandLive
       "cti-tools/titan-test-system-framework"
     ]
 
+    git_repos_forge_etsi_org = [
+      "LIBS/LibCommon"
+    ]
+
     git_repos_pagure_io = [
       "libaio",
       "passwd"
