@@ -4560,7 +4560,8 @@ class QuantumsandLive
       "network/kio-extras",
       "network/kio-zeroconf",
       "network/kio-s3",
-      "utilities/konsole"
+      "utilities/konsole",
+      "utilities/kate"
     ]
 
     git_repos_ffmpeg_org = [
