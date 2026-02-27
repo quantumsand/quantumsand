@@ -3687,7 +3687,8 @@ class QuantumsandLive
       "tnt/xmas-snoopy",
       "tnt/bbb-utils",
       "tnt/iso7816-test",
-      "electronics/osmo-asf4-dfu"
+      "electronics/osmo-asf4-dfu",
+      "electronics/osmo-small-hardware"
     ]
 
     git_repos_eden_emu_dev = [
