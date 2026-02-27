@@ -3701,7 +3701,8 @@ class QuantumsandLive
       "electronics/osmo-asf4-dfu",
       "electronics/osmo-small-hardware",
       "electronics/osmo-rp2040-firmware",
-      "electronics/ice40-usbtrace"
+      "electronics/ice40-usbtrace",
+      "electronics/attiny-wdt"
     ]
 
     git_repos_m_labs_hk = [
