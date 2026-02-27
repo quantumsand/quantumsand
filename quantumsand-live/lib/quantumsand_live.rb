@@ -4570,7 +4570,8 @@ class QuantumsandLive
       "utilities/fielding",
       "utilities/notae",
       "utilities/powerplant",
-      "utilities/qrca"
+      "utilities/qrca",
+      "utilities/skanpage"
     ]
 
     git_repos_ffmpeg_org = [
