@@ -3681,6 +3681,10 @@ class QuantumsandLive
       "wireguard-tools"
     ]
 
+    git_repos_labs_etsi_org = [
+      "cti-tools/titan-test-system-framework"
+    ]
+
     git_repos_pagure_io = [
       "libaio",
       "passwd"
