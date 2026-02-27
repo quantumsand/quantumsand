@@ -3668,7 +3668,8 @@ class QuantumsandLive
       "ttcn3/nas",
       "ttcn3/titan.TestPorts.SIPmsg",
       "ttcn3/highlightjs-ttcn3",
-      "ttcn3/titan.ProtocolModules.BSSMAP"
+      "ttcn3/titan.ProtocolModules.BSSMAP",
+      "ttcn3/titan.ProtocolModules.MAP"
     ]
 
     git_repos_eden_emu_dev = [
