@@ -3525,7 +3525,8 @@ class QuantumsandLive
       "SpinalHDL/VexRiscv",
       "SpinalHDL/VexRiscvRegressionData",
       "SpinalHDL/SpinalHDL",
-      "SpinalHDL/CocotbLib"
+      "SpinalHDL/CocotbLib",
+      "libopencm3/libopencm3"
     ]
 
     git_repos_chromium_googlesource = [
