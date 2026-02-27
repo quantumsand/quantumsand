@@ -4569,7 +4569,8 @@ class QuantumsandLive
       "utilities/yakuake",
       "utilities/fielding",
       "utilities/notae",
-      "utilities/powerplant"
+      "utilities/powerplant",
+      "utilities/qrca"
     ]
 
     git_repos_ffmpeg_org = [
