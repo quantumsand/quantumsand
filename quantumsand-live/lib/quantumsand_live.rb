@@ -3521,7 +3521,8 @@ class QuantumsandLive
       "no2fpga/no2usb",
       "m-labs/lm32",
       "m-labs/mor1kx",
-      "m-labs/VexRiscv-verilog"
+      "m-labs/VexRiscv-verilog",
+      "SpinalHDL/VexRiscv"
     ]
 
     git_repos_chromium_googlesource = [
