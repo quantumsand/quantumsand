@@ -3520,7 +3520,8 @@ class QuantumsandLive
       "m-labs/misoc",
       "no2fpga/no2usb",
       "m-labs/lm32",
-      "m-labs/mor1kx"
+      "m-labs/mor1kx",
+      "m-labs/VexRiscv-verilog"
     ]
 
     git_repos_chromium_googlesource = [
