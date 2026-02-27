@@ -3515,7 +3515,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Tutorial",
       "shader-slang/slang",
       "highlightjs/highlight.js",
-      "OpenVizslaTNG/ov_ftdi"
+      "OpenVizslaTNG/ov_ftdi",
+      "m-labs/migen"
     ]
 
     git_repos_chromium_googlesource = [
