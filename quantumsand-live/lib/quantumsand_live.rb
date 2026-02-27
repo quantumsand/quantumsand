@@ -4562,7 +4562,8 @@ class QuantumsandLive
       "network/kio-s3",
       "utilities/konsole",
       "utilities/kate",
-      "utilities/kcalc"
+      "utilities/kcalc",
+      "utilities/krecorder"
     ]
 
     git_repos_ffmpeg_org = [
