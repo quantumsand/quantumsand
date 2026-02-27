@@ -3689,7 +3689,8 @@ class QuantumsandLive
       "tnt/iso7816-test",
       "electronics/osmo-asf4-dfu",
       "electronics/osmo-small-hardware",
-      "electronics/osmo-rp2040-firmware"
+      "electronics/osmo-rp2040-firmware",
+      "electronics/ice40-usbtrace"
     ]
 
     git_repos_eden_emu_dev = [
