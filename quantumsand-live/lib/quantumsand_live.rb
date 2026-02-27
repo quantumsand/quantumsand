@@ -3682,7 +3682,8 @@ class QuantumsandLive
       "cc/osmo-cc-cas-endpoint",
       "cc/osmo-cc-alsa-endpoint",
       "tnt/pkg-sl-modem",
-      "tnt/mISDN"
+      "tnt/mISDN",
+      "tnt/spandsp"
     ]
 
     git_repos_eden_emu_dev = [
