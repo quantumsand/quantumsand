@@ -3705,7 +3705,8 @@ class QuantumsandLive
     ]
 
     git_repos_m_labs_hk = [
-      "M-Labs/misoc"
+      "M-Labs/misoc",
+      "M-Labs/migen"
     ]
 
     git_repos_eden_emu_dev = [
