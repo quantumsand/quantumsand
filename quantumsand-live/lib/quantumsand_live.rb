@@ -3513,7 +3513,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-Hpp",
       "leethomason/tinyxml2",
       "KhronosGroup/Vulkan-Tutorial",
-      "shader-slang/slang"
+      "shader-slang/slang",
+      "highlightjs/highlight.js"
     ]
 
     git_repos_chromium_googlesource = [
