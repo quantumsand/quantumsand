@@ -4567,7 +4567,8 @@ class QuantumsandLive
       "multimedia/kamoso",
       "plasma-mobile/plasma-camera",
       "utilities/yakuake",
-      "utilities/fielding"
+      "utilities/fielding",
+      "utilities/notae"
     ]
 
     git_repos_ffmpeg_org = [
