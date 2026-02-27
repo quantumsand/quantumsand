@@ -3516,7 +3516,8 @@ class QuantumsandLive
       "shader-slang/slang",
       "highlightjs/highlight.js",
       "OpenVizslaTNG/ov_ftdi",
-      "m-labs/migen"
+      "m-labs/migen",
+      "m-labs/misoc"
     ]
 
     git_repos_chromium_googlesource = [
