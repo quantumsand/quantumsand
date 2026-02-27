@@ -3677,7 +3677,8 @@ class QuantumsandLive
       "cc/libosmo-cc",
       "cc/osmo-cc-sip-endpoint",
       "cc/osmo-cc-ss5-endpoint",
-      "cc/osmo-cc-pstn-endpoint"
+      "cc/osmo-cc-pstn-endpoint",
+      "cc/osmo-cc-misdn-endpoint"
     ]
 
     git_repos_eden_emu_dev = [
