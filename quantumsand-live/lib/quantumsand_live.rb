@@ -3672,7 +3672,8 @@ class QuantumsandLive
       "ttcn3/titan.ProtocolModules.MAP",
       "ttcn3/titan.TestPorts.AF_PACKET",
       "ttcn3/titan.TestPorts.USB",
-      "ttcn3/titan.TestPorts.E1"
+      "ttcn3/titan.TestPorts.E1",
+      "cc/osmo-cc-router"
     ]
 
     git_repos_eden_emu_dev = [
