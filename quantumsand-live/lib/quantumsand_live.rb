@@ -4564,7 +4564,8 @@ class QuantumsandLive
       "utilities/kate",
       "utilities/kcalc",
       "utilities/krecorder",
-      "multimedia/kamoso"
+      "multimedia/kamoso",
+      "plasma-mobile/plasma-camera"
     ]
 
     git_repos_ffmpeg_org = [
