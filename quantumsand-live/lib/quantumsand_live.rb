@@ -3688,7 +3688,8 @@ class QuantumsandLive
       "tnt/bbb-utils",
       "tnt/iso7816-test",
       "electronics/osmo-asf4-dfu",
-      "electronics/osmo-small-hardware"
+      "electronics/osmo-small-hardware",
+      "electronics/osmo-rp2040-firmware"
     ]
 
     git_repos_eden_emu_dev = [
