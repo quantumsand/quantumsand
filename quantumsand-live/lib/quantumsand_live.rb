@@ -3518,7 +3518,8 @@ class QuantumsandLive
       "OpenVizslaTNG/ov_ftdi",
       "m-labs/migen",
       "m-labs/misoc",
-      "no2fpga/no2usb"
+      "no2fpga/no2usb",
+      "m-labs/lm32"
     ]
 
     git_repos_chromium_googlesource = [
