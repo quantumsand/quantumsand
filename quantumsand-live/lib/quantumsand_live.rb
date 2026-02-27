@@ -3675,7 +3675,8 @@ class QuantumsandLive
       "ttcn3/titan.TestPorts.E1",
       "cc/osmo-cc-router",
       "cc/libosmo-cc",
-      "cc/osmo-cc-sip-endpoint"
+      "cc/osmo-cc-sip-endpoint",
+      "cc/osmo-cc-ss5-endpoint"
     ]
 
     git_repos_eden_emu_dev = [
