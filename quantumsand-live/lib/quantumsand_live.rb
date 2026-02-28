@@ -3539,7 +3539,8 @@ class QuantumsandLive
       "asnunes/mathjax3-react",
       "mathjax/MathJax-src",
       "openstreetmap/mod_tile",
-      "openstreetmap/tirex"
+      "openstreetmap/tirex",
+      "apache/httpd"
     ]
 
     git_repos_chromium_googlesource = [
