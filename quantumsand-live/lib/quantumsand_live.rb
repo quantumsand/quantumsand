@@ -3533,7 +3533,8 @@ class QuantumsandLive
       "ruby/psych",
       "meshtastic/firmware",
       "meshtastic/meshtastic",
-      "meshtastic/design"
+      "meshtastic/design",
+      "meshtastic/protobufs"
     ]
 
     git_repos_chromium_googlesource = [
