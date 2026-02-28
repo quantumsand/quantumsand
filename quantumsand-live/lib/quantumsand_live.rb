@@ -3536,7 +3536,8 @@ class QuantumsandLive
       "meshtastic/design",
       "meshtastic/protobufs",
       "meshtastic/meshTestic",
-      "asnunes/mathjax3-react"
+      "asnunes/mathjax3-react",
+      "mathjax/MathJax-src"
     ]
 
     git_repos_chromium_googlesource = [
