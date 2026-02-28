@@ -3531,7 +3531,8 @@ class QuantumsandLive
       "libopencm3/libopencm3-miniblink",
       "rage-rb/rage",
       "ruby/psych",
-      "meshtastic/firmware"
+      "meshtastic/firmware",
+      "meshtastic/meshtastic"
     ]
 
     git_repos_chromium_googlesource = [
