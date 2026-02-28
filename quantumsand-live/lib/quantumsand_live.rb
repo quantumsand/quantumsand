@@ -3534,7 +3534,8 @@ class QuantumsandLive
       "meshtastic/firmware",
       "meshtastic/meshtastic",
       "meshtastic/design",
-      "meshtastic/protobufs"
+      "meshtastic/protobufs",
+      "meshtastic/meshTestic"
     ]
 
     git_repos_chromium_googlesource = [
