@@ -4831,7 +4831,8 @@ class QuantumsandLive
       "sys-fs/dosfstools",
       "sys-libs/db",
       "sci-electronics/kicad",
-      "games-util/gamemode"
+      "games-util/gamemode",
+      "www-servers/apache"
     ]
 
     gentoo_eselect_repository_add = {
