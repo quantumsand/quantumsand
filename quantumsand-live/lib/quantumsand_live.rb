@@ -3537,7 +3537,8 @@ class QuantumsandLive
       "meshtastic/protobufs",
       "meshtastic/meshTestic",
       "asnunes/mathjax3-react",
-      "mathjax/MathJax-src"
+      "mathjax/MathJax-src",
+      "openstreetmap/mod_tile"
     ]
 
     git_repos_chromium_googlesource = [
