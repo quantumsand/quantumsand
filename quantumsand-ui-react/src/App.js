@@ -1,4 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { MathJaxContext } from 'better-react-mathjax';
+
 import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 import NoPage from "./pages/NoPage";
@@ -65,56 +67,65 @@ const mathsSlides = [
     id: 3, image: "/images/quantumsand-experimental-hourglass.svg", backgroundColor: "#fff"
   }]
 
+const mathjaxConfig = {
+                        loader: {
+                          paths: {
+                            fonts: '/mathjax-fonts',
+                        }
+                      }};
 
 function App() {
   return (
-    <BrowserRouter>
-      <Routes>
-        <Route path="/" element={<Layout debug={false} />}>
-          <Route index element={<Home />} />
-          {/* <Route path="sampleribbon" element={<SampleRibbonBar />} /> */}
-          <Route path="ribbon" element={<RibbonBarContext />} />
-          <Route path="context" element={<RibbonBarContext />} />
-          <Route path="avcontrols" element={<AVControls />} />
-          <Route path="barcode" element={<Barcode />} />
-          <Route path="subtitles" element={<Subtitles />} />
-          <Route path="adverts" element={<Adverts />} />
-          <Route path="grains" element={<Grains />} />
-          <Route path="ebook" element={<EBook />} />
-          <Route path="slides" element={<PresentationSlides stepper={true} />} />
-          <Route path="wallpaper" element={<Wallpaper />} />
-          <Route path="market" element={<Market />} />
-          <Route path="mail" element={<Mail />} />
-          <Route path="services" element={<Services />} />
-          <Route path="images" element={<Images />} />
-          <Route path="collaborate" element={<Collaborate />} />
-          <Route path="audio" element={<AudioPlayer/>} />       
-          <Route path="chirp" element={<Chirp />} />
-          <Route path="chat" element={<Chat /> } />
-          <Route path="video-narrative" element={<Video />} />
-          <Route path="av" element={<AV />} />
-          <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
-          <Route path="slides-thirdly" element={<PresentationSlides stepper={true} slides={mathsSlides} />} />
-          <Route path="narrator" element={<NarratorOverlay />} />
-          <Route path="loading" element={<Loading color="black"
-                                                  progress={20}
-                                                  message="Loading..."
-                                                  showDinar={false}
-                                                  backgroundSize={120}
-                                                  backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
-          <Route path="virtualglobe" element={<VirtualGlobe />} />
-          <Route path="virtualkeyboard" element={<VirtualKeyboard />} />
-          <Route path="wordcloud" element={<WordCloud />} />
-          <Route path="charts" element={<Charts />} />
-          <Route path="pins" element={<Pins />} />
-          <Route path="cards" element={<Cards />} />
-          <Route path="videogame-dialogue-subtitles" element={<VideogameDialogueSubtitles />} />
-          <Route path="notifications" element={<Notifications />} />
-          <Route path="narrativesync" element={<NarrativeSync />} />
-          <Route path="*" element={<NoPage />} />
-        </Route>
-      </Routes>
-    </BrowserRouter>
+    <MathJaxContext version={4} src={"/mathjax/tex-chtml.js"}
+                    config={mathjaxConfig}>
+      <BrowserRouter>
+        <Routes>
+          <Route path="/" element={<Layout debug={false} />}>
+            <Route index element={<Home />} />
+            {/* <Route path="sampleribbon" element={<SampleRibbonBar />} /> */}
+            <Route path="ribbon" element={<RibbonBarContext />} />
+            <Route path="context" element={<RibbonBarContext />} />
+            <Route path="avcontrols" element={<AVControls />} />
+            <Route path="barcode" element={<Barcode />} />
+            <Route path="subtitles" element={<Subtitles />} />
+            <Route path="adverts" element={<Adverts />} />
+            <Route path="grains" element={<Grains />} />
+            <Route path="ebook" element={<EBook />} />
+            <Route path="slides" element={<PresentationSlides stepper={true} />} />
+            <Route path="wallpaper" element={<Wallpaper />} />
+            <Route path="market" element={<Market />} />
+            <Route path="mail" element={<Mail />} />
+            <Route path="services" element={<Services />} />
+            <Route path="images" element={<Images />} />
+            <Route path="collaborate" element={<Collaborate />} />
+            <Route path="audio" element={<AudioPlayer/>} />       
+            <Route path="chirp" element={<Chirp />} />
+            <Route path="chat" element={<Chat /> } />
+            <Route path="video-narrative" element={<Video />} />
+            <Route path="av" element={<AV />} />
+            <Route path="slides-secondary" element={<Video url="/video/play-drawing-alpha.webm" />} />
+            <Route path="slides-thirdly" element={<PresentationSlides stepper={true} slides={mathsSlides} />} />
+            <Route path="narrator" element={<NarratorOverlay />} />
+            <Route path="loading" element={<Loading color="black"
+                                                    progress={20}
+                                                    message="Loading..."
+                                                    showDinar={false}
+                                                    backgroundSize={120}
+                                                    backgroundImageUrl="/images/qalb-boy-experimental.svg" />} />
+            <Route path="virtualglobe" element={<VirtualGlobe />} />
+            <Route path="virtualkeyboard" element={<VirtualKeyboard />} />
+            <Route path="wordcloud" element={<WordCloud />} />
+            <Route path="charts" element={<Charts />} />
+            <Route path="pins" element={<Pins />} />
+            <Route path="cards" element={<Cards />} />
+            <Route path="videogame-dialogue-subtitles" element={<VideogameDialogueSubtitles />} />
+            <Route path="notifications" element={<Notifications />} />
+            <Route path="narrativesync" element={<NarrativeSync />} />
+            <Route path="*" element={<NoPage />} />
+          </Route>
+        </Routes>
+      </BrowserRouter>
+    </MathJaxContext>
   );
 }
 

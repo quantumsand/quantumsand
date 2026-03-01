@@ -1,7 +1,7 @@
 import { Deck, Slide, Heading, Box, FlexBox, FullScreen, Progress, Image, CodePane, Appear, Stepper } from 'spectacle';
 import { useState, useEffect } from 'react';
 import VSDark from 'react-syntax-highlighter/dist/cjs/styles/prism/vs-dark';
-import { MathJaxProvider } from 'mathjax3-react';
+//import { MathJaxProvider } from 'mathjax3-react';
 import PresentationMathematics from './PresentationMathematics';
 import "./PresentationSlides.css";
 
@@ -72,14 +72,14 @@ export default function PresentationSlides({ stepper = false, slides = [
           </CodePane>}
 
           {slide.mathematics && <FlexBox flex={1} flexDirection='column' justifyContent='center'>
-            <MathJaxProvider options={{
+            {/* <MathJaxProvider options={{
                 tex: {
                   inlineMath: [
                     ['$', '$'],
                     ['\\(', '\\)'],
                   ],
                 },
-              }}>
+              }}> */}
 
             {slide.mathematics.map((math, index) => (
               // <Stepper key={index} tagName="div" alwaysVisible values={['complete']}>
@@ -90,7 +90,6 @@ export default function PresentationSlides({ stepper = false, slides = [
               //}
               // </Stepper>
             ))}
-            </MathJaxProvider>
           </FlexBox>
           }
         </Slide>

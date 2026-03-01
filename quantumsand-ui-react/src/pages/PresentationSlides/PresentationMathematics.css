@@ -24,17 +24,17 @@
 }
 
 .MathJax {
-  padding: 5px 0;
+  font-size: 160% !important;
 }
 
 /* .MathJax > svg {
   font-size: 280%;
 } */
 
-.MJX-TEX {
+/* .MJX-TEX {
   font-family: MJXZERO;
   font-size: 160%;
-}
+} */
 
 .presentation__mathematicsText {
   font-size: 35px;
