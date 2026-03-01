@@ -165,4 +165,5 @@ Vital for Quantum Sand;
 * Dedouze’s unique art style (inspired my own art style)
 * Blender (used for the art)
 * Twitter Emoji (Twemoji) are licensed under MIT, CC-BY-4.0 licenses.
+* MathJax is licensed under the Apache License 2.0
 * Hundreds of developers for all of the deps I am using.
