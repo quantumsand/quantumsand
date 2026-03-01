@@ -166,4 +166,5 @@ Vital for Quantum Sand;
 * Blender (used for the art)
 * Twitter Emoji (Twemoji) are licensed under MIT, CC-BY-4.0 licenses.
 * MathJax is licensed under the Apache License 2.0
+* Formidable’s spectacle is licensed under the MIT license.
 * Hundreds of developers for all of the deps I am using.
