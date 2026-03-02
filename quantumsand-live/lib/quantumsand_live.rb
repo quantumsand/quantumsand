@@ -3544,7 +3544,8 @@ class QuantumsandLive
       "fast-reflexes/better-react-mathjax",
       "daniel-thompson/librfn",
       "dl1ksv/gr-funcube",
-      "airspy/airspyone_host"
+      "airspy/airspyone_host",
+      "fairwaves/UHD-Fairwaves"
     ]
 
     git_repos_chromium_googlesource = [
