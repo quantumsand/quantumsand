@@ -3541,7 +3541,8 @@ class QuantumsandLive
       "openstreetmap/mod_tile",
       "openstreetmap/tirex",
       "apache/httpd",
-      "fast-reflexes/better-react-mathjax"
+      "fast-reflexes/better-react-mathjax",
+      "daniel-thompson/librfn"
     ]
 
     git_repos_chromium_googlesource = [
