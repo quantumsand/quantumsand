@@ -3732,7 +3732,8 @@ class QuantumsandLive
       "sdr/gr-osmosdr",
       "sdr/libusrp",
       "sdr/osmo-fl2k",
-      "sdr/libosmo-dsp"
+      "sdr/libosmo-dsp",
+      "sdr/gr-iqbal"
     ]
 
     git_repos_m_labs_hk = [
