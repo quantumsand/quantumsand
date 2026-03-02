@@ -3741,7 +3741,8 @@ class QuantumsandLive
       "sdr/gr-gsm",
       "sdr/sdrangelove",
       "sdr/osmo-sdr",
-      "sdr/osmo-adsb-gen"
+      "sdr/osmo-adsb-gen",
+      "sdr/ais-tx"
     ]
 
     git_repos_m_labs_hk = [
