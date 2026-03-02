@@ -3545,7 +3545,8 @@ class QuantumsandLive
       "daniel-thompson/librfn",
       "dl1ksv/gr-funcube",
       "airspy/airspyone_host",
-      "fairwaves/UHD-Fairwaves"
+      "fairwaves/UHD-Fairwaves",
+      "no2fpga/no2build"
     ]
 
     git_repos_chromium_googlesource = [
