@@ -3752,7 +3752,8 @@ class QuantumsandLive
       "retronetworking/dahdi-linux",
       "labuwx/strongswan-epdg",
       "retronetworking/capi-hacks",
-      "retronetworking/fax-services"
+      "retronetworking/fax-services",
+      "retronetworking/fax2fedi"
     ]
 
     git_repos_m_labs_hk = [
