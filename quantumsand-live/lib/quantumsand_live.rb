@@ -3730,7 +3730,8 @@ class QuantumsandLive
       "electronics/osmo-modbus",
       "sdr/rtl-sdr",
       "sdr/gr-osmosdr",
-      "sdr/libusrp"
+      "sdr/libusrp",
+      "sdr/osmo-fl2k"
     ]
 
     git_repos_m_labs_hk = [
