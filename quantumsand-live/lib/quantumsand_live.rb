@@ -3551,7 +3551,8 @@ class QuantumsandLive
       "no2fpga/no2misc",
       "no2fpga/no2e1",
       "yatevoip/yate",
-      "ceph/ceph-client"
+      "ceph/ceph-client",
+      "ares-emulator/ares"
     ]
 
     git_repos_chromium_googlesource = [
