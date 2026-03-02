@@ -3546,7 +3546,8 @@ class QuantumsandLive
       "dl1ksv/gr-funcube",
       "airspy/airspyone_host",
       "fairwaves/UHD-Fairwaves",
-      "no2fpga/no2build"
+      "no2fpga/no2build",
+      "no2fpga/no2ice40"
     ]
 
     git_repos_chromium_googlesource = [
