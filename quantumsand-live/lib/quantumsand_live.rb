@@ -3555,7 +3555,8 @@ class QuantumsandLive
       "ares-emulator/ares",
       "DragonMinded/libdragon",
       "Fast-64/fast64",
-      "rgeo/activerecord-postgis-adapter"
+      "rgeo/activerecord-postgis-adapter",
+      "rgeo/rgeo"
     ]
 
     git_repos_chromium_googlesource = [
