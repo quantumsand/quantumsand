@@ -3554,7 +3554,8 @@ class QuantumsandLive
       "ceph/ceph-client",
       "ares-emulator/ares",
       "DragonMinded/libdragon",
-      "Fast-64/fast64"
+      "Fast-64/fast64",
+      "rgeo/activerecord-postgis-adapter"
     ]
 
     git_repos_chromium_googlesource = [
