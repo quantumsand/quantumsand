@@ -3557,7 +3557,8 @@ class QuantumsandLive
       "Fast-64/fast64",
       "rgeo/activerecord-postgis-adapter",
       "rgeo/rgeo",
-      "rgeo/rgeo-proj4"
+      "rgeo/rgeo-proj4",
+      "rgeo/rgeo-geojson"
     ]
 
     git_repos_chromium_googlesource = [
