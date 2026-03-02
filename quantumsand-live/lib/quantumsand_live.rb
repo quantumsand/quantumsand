@@ -3737,7 +3737,8 @@ class QuantumsandLive
       "sdr/gr-fosphor",
       "sdr/osmo-rfds",
       "sdr/airprobe",
-      "sdr/libmirisdr"
+      "sdr/libmirisdr",
+      "sdr/gr-gsm"
     ]
 
     git_repos_m_labs_hk = [
