@@ -3725,7 +3725,8 @@ class QuantumsandLive
       "electronics/atmel-asf-projects",
       "electronics/osmo-clkgen-firmware",
       "electronics/osmo-modbus",
-      "sdr/rtl-sdr"
+      "sdr/rtl-sdr",
+      "sdr/gr-osmosdr"
     ]
 
     git_repos_m_labs_hk = [
