@@ -3749,7 +3749,8 @@ class QuantumsandLive
       "retronetworking/osmo-amr",
       "retronetworking/web-retronetworking",
       "retronetworking/osmo-e1d",
-      "retronetworking/dahdi-linux"
+      "retronetworking/dahdi-linux",
+      "labuwx/strongswan-epdg"
     ]
 
     git_repos_m_labs_hk = [
