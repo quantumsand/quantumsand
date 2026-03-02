@@ -3547,7 +3547,8 @@ class QuantumsandLive
       "airspy/airspyone_host",
       "fairwaves/UHD-Fairwaves",
       "no2fpga/no2build",
-      "no2fpga/no2ice40"
+      "no2fpga/no2ice40",
+      "no2fpga/no2misc"
     ]
 
     git_repos_chromium_googlesource = [
