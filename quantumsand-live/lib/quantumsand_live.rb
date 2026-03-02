@@ -3559,7 +3559,8 @@ class QuantumsandLive
       "rgeo/rgeo",
       "rgeo/rgeo-proj4",
       "rgeo/rgeo-geojson",
-      "rgeo/rgeo-shapefile"
+      "rgeo/rgeo-shapefile",
+      "rgeo/activerecord-spatialite-adapter"
     ]
 
     git_repos_chromium_googlesource = [
