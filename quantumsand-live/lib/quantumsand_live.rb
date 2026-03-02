@@ -3740,7 +3740,8 @@ class QuantumsandLive
       "sdr/libmirisdr",
       "sdr/gr-gsm",
       "ptrkrysik/test_data",
-      "ptrkrysik/examples"
+      "ptrkrysik/examples",
+      "sdr/sdrangelove"
     ]
 
     git_repos_m_labs_hk = [
