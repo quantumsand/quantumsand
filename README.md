@@ -155,6 +155,8 @@ Support for all locales is planned eventually. This should help with interfaith 
 
 * AYANEO Pocket DS; Currently untested. The 16GB RAM models should be able to run Quantum Sand correctly using the Mesa graphics drivers.
 
+* Slimbook Creative; Currently untested. This laptop should be able to run Quantum Sand correctly using the Mesa graphics drivers with the AMD Ryzen 7 8845HS, or the official proprietary NVIDIA drivers with the NVIDIA GeForce RTX 4070.
+
 ## Special thanks
 
 Vital for Quantum Sand;
