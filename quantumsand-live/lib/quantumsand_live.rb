@@ -3739,10 +3739,9 @@ class QuantumsandLive
       "sdr/airprobe",
       "sdr/libmirisdr",
       "sdr/gr-gsm",
-      "ptrkrysik/test_data",
-      "ptrkrysik/examples",
       "sdr/sdrangelove",
-      "sdr/osmo-sdr"
+      "sdr/osmo-sdr",
+      "sdr/osmo-adsb-gen"
     ]
 
     git_repos_m_labs_hk = [
