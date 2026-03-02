@@ -3561,7 +3561,8 @@ class QuantumsandLive
       "rgeo/rgeo-geojson",
       "rgeo/rgeo-shapefile",
       "rgeo/activerecord-spatialite-adapter",
-      "redis-rs/redis-rs"
+      "redis-rs/redis-rs",
+      "obabec/rust-mqtt"
     ]
 
     git_repos_chromium_googlesource = [
