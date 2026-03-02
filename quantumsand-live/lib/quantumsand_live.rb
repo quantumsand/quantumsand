@@ -3754,7 +3754,8 @@ class QuantumsandLive
       "retronetworking/capi-hacks",
       "retronetworking/fax-services",
       "retronetworking/fax2fedi",
-      "retronetworking/dahdi-tools"
+      "retronetworking/dahdi-tools",
+      "retronetworking/osmo-v5"
     ]
 
     git_repos_m_labs_hk = [
