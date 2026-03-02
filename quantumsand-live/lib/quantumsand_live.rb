@@ -3765,7 +3765,8 @@ class QuantumsandLive
       "retronetworking/wvdial",
       "retronetworking/yate",
       "retronetworking/x25-utils",
-      "retronetworking/osmo-isdntap"
+      "retronetworking/osmo-isdntap",
+      "retronetworking/isdn4linux-web"
     ]
 
     git_repos_m_labs_hk = [
