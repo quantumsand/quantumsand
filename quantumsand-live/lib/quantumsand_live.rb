@@ -3548,7 +3548,8 @@ class QuantumsandLive
       "fairwaves/UHD-Fairwaves",
       "no2fpga/no2build",
       "no2fpga/no2ice40",
-      "no2fpga/no2misc"
+      "no2fpga/no2misc",
+      "no2fpga/no2e1"
     ]
 
     git_repos_chromium_googlesource = [
