@@ -3724,7 +3724,8 @@ class QuantumsandLive
       "electronics/libopencm3",
       "electronics/atmel-asf-projects",
       "electronics/osmo-clkgen-firmware",
-      "electronics/osmo-modbus"
+      "electronics/osmo-modbus",
+      "sdr/rtl-sdr"
     ]
 
     git_repos_m_labs_hk = [
