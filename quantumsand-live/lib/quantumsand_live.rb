@@ -3543,7 +3543,8 @@ class QuantumsandLive
       "apache/httpd",
       "fast-reflexes/better-react-mathjax",
       "daniel-thompson/librfn",
-      "dl1ksv/gr-funcube"
+      "dl1ksv/gr-funcube",
+      "airspy/airspyone_host"
     ]
 
     git_repos_chromium_googlesource = [
