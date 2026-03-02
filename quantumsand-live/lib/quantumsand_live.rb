@@ -3550,7 +3550,8 @@ class QuantumsandLive
       "no2fpga/no2ice40",
       "no2fpga/no2misc",
       "no2fpga/no2e1",
-      "yatevoip/yate"
+      "yatevoip/yate",
+      "ceph/ceph-client"
     ]
 
     git_repos_chromium_googlesource = [
