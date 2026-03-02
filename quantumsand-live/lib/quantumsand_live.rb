@@ -3741,7 +3741,8 @@ class QuantumsandLive
       "sdr/gr-gsm",
       "ptrkrysik/test_data",
       "ptrkrysik/examples",
-      "sdr/sdrangelove"
+      "sdr/sdrangelove",
+      "sdr/osmo-sdr"
     ]
 
     git_repos_m_labs_hk = [
