@@ -3549,7 +3549,8 @@ class QuantumsandLive
       "no2fpga/no2build",
       "no2fpga/no2ice40",
       "no2fpga/no2misc",
-      "no2fpga/no2e1"
+      "no2fpga/no2e1",
+      "yatevoip/yate"
     ]
 
     git_repos_chromium_googlesource = [
