@@ -3759,7 +3759,8 @@ class QuantumsandLive
       "retronetworking/osmo-v5",
       "retronetworking/sfftools",
       "retronetworking/yate-ras",
-      "retronetworking/osmo-e1-hardware"
+      "retronetworking/osmo-e1-hardware",
+      "retronetworking/uk0"
     ]
 
     git_repos_m_labs_hk = [
