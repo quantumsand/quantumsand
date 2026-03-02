@@ -3553,7 +3553,8 @@ class QuantumsandLive
       "yatevoip/yate",
       "ceph/ceph-client",
       "ares-emulator/ares",
-      "DragonMinded/libdragon"
+      "DragonMinded/libdragon",
+      "Fast-64/fast64"
     ]
 
     git_repos_chromium_googlesource = [
