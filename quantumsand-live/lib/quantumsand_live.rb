@@ -3746,7 +3746,8 @@ class QuantumsandLive
       "sdr/osmo-sdr",
       "sdr/osmo-adsb-gen",
       "sdr/ais-tx",
-      "retronetworking/osmo-amr"
+      "retronetworking/osmo-amr",
+      "retronetworking/web-retronetworking"
     ]
 
     git_repos_m_labs_hk = [
