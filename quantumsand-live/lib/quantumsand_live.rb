@@ -3739,7 +3739,8 @@ class QuantumsandLive
       "sdr/airprobe",
       "sdr/libmirisdr",
       "sdr/gr-gsm",
-      "ptrkrysik/test_data"
+      "ptrkrysik/test_data",
+      "ptrkrysik/examples"
     ]
 
     git_repos_m_labs_hk = [
