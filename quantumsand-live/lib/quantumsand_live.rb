@@ -3792,7 +3792,8 @@ class QuantumsandLive
       "retronetworking/token-ring-hacks",
       "retronetworking/linmodem",
       "retronetworking/freeswitch",
-      "retronetworking/u-isdn"
+      "retronetworking/u-isdn",
+      "retronetworking/wanpipe"
     ]
 
     git_repos_m_labs_hk = [
