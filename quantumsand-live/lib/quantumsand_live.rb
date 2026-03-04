@@ -3803,7 +3803,8 @@ class QuantumsandLive
       "themwi/tw-e1abis-mgw",
       "themwi/ice1-trau-tester",
       "themwi/tw-common-hdr",
-      "themwi/twrtp-native"
+      "themwi/twrtp-native",
+      "themwi/tw-border-mgw"
     ]
 
     git_repos_m_labs_hk = [
