@@ -3821,7 +3821,8 @@ class QuantumsandLive
       "osmocom/libosmo-sccp",
       "osmocom/docker-playground",
       "osmocom/libosmo-pfcp",
-      "osmocom/gapk"
+      "osmocom/gapk",
+      "osmocom/libosmo-abis"
     ]
 
     git_repos_m_labs_hk = [
