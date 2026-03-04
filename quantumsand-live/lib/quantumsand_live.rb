@@ -3817,7 +3817,8 @@ class QuantumsandLive
       "osmocom/libosmocore",
       "osmocom/libosmo-netif",
       "osmocom/wireshark",
-      "osmocom/libosmo-sigtran"
+      "osmocom/libosmo-sigtran",
+      "osmocom/libosmo-sccp"
     ]
 
     git_repos_m_labs_hk = [
