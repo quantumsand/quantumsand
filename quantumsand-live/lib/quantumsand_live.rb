@@ -3810,7 +3810,8 @@ class QuantumsandLive
       "themwi/e1-fake-trau",
       "themwi/dummy-dl-frames",
       "themwi/themwi-interim",
-      "themwi/twrtp-proto"
+      "themwi/twrtp-proto",
+      "themwi/themwi-rtp-mgr"
     ]
 
     git_repos_m_labs_hk = [
