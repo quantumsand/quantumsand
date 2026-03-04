@@ -3812,7 +3812,8 @@ class QuantumsandLive
       "themwi/themwi-interim",
       "themwi/twrtp-proto",
       "themwi/themwi-rtp-mgr",
-      "themwi/themwi-nanp"
+      "themwi/themwi-nanp",
+      "themwi/e1-pcm-rtp"
     ]
 
     git_repos_m_labs_hk = [
