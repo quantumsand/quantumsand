@@ -4136,7 +4136,8 @@ class QuantumsandLive
       "AOMediaCodec/avm",
       "AOMediaCodec/aom-testing",
       "samba-team/samba",
-      "surfer-project/surfer"
+      "surfer-project/surfer",
+      "ocudu/ocudu"
     ]
 
     git_repos_freedesktop_gitlab = [
