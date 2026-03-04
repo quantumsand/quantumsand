@@ -3564,7 +3564,8 @@ class QuantumsandLive
       "redis-rs/redis-rs",
       "obabec/rust-mqtt",
       "ROCm/rocm-systems",
-      "EmbarkStudios/physx-rs"
+      "EmbarkStudios/physx-rs",
+      "nickvsnetworking/pyhss"
     ]
 
     git_repos_chromium_googlesource = [
