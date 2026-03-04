@@ -3813,7 +3813,8 @@ class QuantumsandLive
       "themwi/twrtp-proto",
       "themwi/themwi-rtp-mgr",
       "themwi/themwi-nanp",
-      "themwi/e1-pcm-rtp"
+      "themwi/e1-pcm-rtp",
+      "osmocom/libosmocore"
     ]
 
     git_repos_m_labs_hk = [
