@@ -3793,7 +3793,8 @@ class QuantumsandLive
       "retronetworking/linmodem",
       "retronetworking/freeswitch",
       "retronetworking/u-isdn",
-      "retronetworking/wanpipe"
+      "retronetworking/wanpipe",
+      "retronetworking/chan-capi"
     ]
 
     git_repos_m_labs_hk = [
