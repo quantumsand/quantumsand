@@ -3565,7 +3565,8 @@ class QuantumsandLive
       "obabec/rust-mqtt",
       "ROCm/rocm-systems",
       "EmbarkStudios/physx-rs",
-      "nickvsnetworking/pyhss"
+      "nickvsnetworking/pyhss",
+      "janbjorge/pgqueuer"
     ]
 
     git_repos_chromium_googlesource = [
