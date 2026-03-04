@@ -3797,7 +3797,8 @@ class QuantumsandLive
       "retronetworking/chan-capi",
       "retronetworking/lib-capi-adk",
       "retronetworking/APP-COMM-Capitel",
-      "retronetworking/bintec-capi-isdnlogin"
+      "retronetworking/bintec-capi-isdnlogin",
+      "retronetworking/capi4yaps"
     ]
 
     git_repos_m_labs_hk = [
