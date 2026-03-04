@@ -3782,7 +3782,8 @@ class QuantumsandLive
       "retronetworking/osmo-isdntap",
       "retronetworking/isdn4linux-web",
       "retronetworking/mISDN",
-      "retronetworking/mISDNuser"
+      "retronetworking/mISDNuser",
+      "retronetworking/capi4linux"
     ]
 
     git_repos_m_labs_hk = [
