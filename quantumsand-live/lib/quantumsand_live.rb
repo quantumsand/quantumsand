@@ -3814,7 +3814,8 @@ class QuantumsandLive
       "themwi/themwi-rtp-mgr",
       "themwi/themwi-nanp",
       "themwi/e1-pcm-rtp",
-      "osmocom/libosmocore"
+      "osmocom/libosmocore",
+      "osmocom/libosmo-netif"
     ]
 
     git_repos_m_labs_hk = [
