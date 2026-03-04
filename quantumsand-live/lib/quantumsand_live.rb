@@ -3823,7 +3823,8 @@ class QuantumsandLive
       "osmocom/libosmo-pfcp",
       "osmocom/gapk",
       "osmocom/libosmo-abis",
-      "osmocom/osmo-pcap"
+      "osmocom/osmo-pcap",
+      "osmocom/osmo-dev"
     ]
 
     git_repos_m_labs_hk = [
