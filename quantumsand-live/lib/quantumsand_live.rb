@@ -3819,7 +3819,8 @@ class QuantumsandLive
       "osmocom/wireshark",
       "osmocom/libosmo-sigtran",
       "osmocom/libosmo-sccp",
-      "osmocom/docker-playground"
+      "osmocom/docker-playground",
+      "osmocom/libosmo-pfcp"
     ]
 
     git_repos_m_labs_hk = [
