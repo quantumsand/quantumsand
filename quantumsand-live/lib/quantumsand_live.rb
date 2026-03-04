@@ -3566,7 +3566,8 @@ class QuantumsandLive
       "ROCm/rocm-systems",
       "EmbarkStudios/physx-rs",
       "nickvsnetworking/pyhss",
-      "janbjorge/pgqueuer"
+      "janbjorge/pgqueuer",
+      "dlom/bevy-async-ecs"
     ]
 
     git_repos_chromium_googlesource = [
