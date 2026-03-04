@@ -3808,7 +3808,8 @@ class QuantumsandLive
       "themwi/gsup-smsc-proto",
       "themwi/mgcp-test-client",
       "themwi/e1-fake-trau",
-      "themwi/dummy-dl-frames"
+      "themwi/dummy-dl-frames",
+      "themwi/themwi-interim"
     ]
 
     git_repos_m_labs_hk = [
