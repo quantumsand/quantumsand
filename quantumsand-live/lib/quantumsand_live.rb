@@ -3802,7 +3802,8 @@ class QuantumsandLive
       "retronetworking/itund",
       "themwi/tw-e1abis-mgw",
       "themwi/ice1-trau-tester",
-      "themwi/tw-common-hdr"
+      "themwi/tw-common-hdr",
+      "themwi/twrtp-native"
     ]
 
     git_repos_m_labs_hk = [
