@@ -3809,7 +3809,8 @@ class QuantumsandLive
       "themwi/mgcp-test-client",
       "themwi/e1-fake-trau",
       "themwi/dummy-dl-frames",
-      "themwi/themwi-interim"
+      "themwi/themwi-interim",
+      "themwi/twrtp-proto"
     ]
 
     git_repos_m_labs_hk = [
