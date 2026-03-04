@@ -3800,7 +3800,8 @@ class QuantumsandLive
       "retronetworking/bintec-capi-isdnlogin",
       "retronetworking/capi4yaps",
       "retronetworking/itund",
-      "themwi/tw-e1abis-mgw"
+      "themwi/tw-e1abis-mgw",
+      "themwi/ice1-trau-tester"
     ]
 
     git_repos_m_labs_hk = [
