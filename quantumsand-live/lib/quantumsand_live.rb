@@ -3811,7 +3811,8 @@ class QuantumsandLive
       "themwi/dummy-dl-frames",
       "themwi/themwi-interim",
       "themwi/twrtp-proto",
-      "themwi/themwi-rtp-mgr"
+      "themwi/themwi-rtp-mgr",
+      "themwi/themwi-nanp"
     ]
 
     git_repos_m_labs_hk = [
