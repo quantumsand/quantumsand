@@ -3816,7 +3816,8 @@ class QuantumsandLive
       "themwi/e1-pcm-rtp",
       "osmocom/libosmocore",
       "osmocom/libosmo-netif",
-      "osmocom/wireshark"
+      "osmocom/wireshark",
+      "osmocom/libosmo-sigtran"
     ]
 
     git_repos_m_labs_hk = [
