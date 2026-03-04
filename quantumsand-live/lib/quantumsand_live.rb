@@ -3787,7 +3787,8 @@ class QuantumsandLive
       "retronetworking/isdnfax",
       "retronetworking/isdn4k-utils",
       "retronetworking/isdn4linux",
-      "retronetworking/capisuite"
+      "retronetworking/capisuite",
+      "retronetworking/ant-phone"
     ]
 
     git_repos_m_labs_hk = [
