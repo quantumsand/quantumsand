@@ -3610,7 +3610,8 @@ class QuantumsandLive
       "Lightning-AI/litData",
       "Lightning-AI/lightning-thunder",
       "Lightning-AI/LitLogger",
-      "Lightning-AI/LitModels"
+      "Lightning-AI/LitModels",
+      "Lightning-AI/litAI"
     ]
 
     git_repos_chromium_googlesource = [
