@@ -3577,7 +3577,8 @@ class QuantumsandLive
       "Martinsos/edlib",
       "cjdoris/Edlib.jl",
       "evanbiederstedt/edlibR",
-      "r-lib/rlang"
+      "r-lib/rlang",
+      "wch/r-source"
     ]
 
     git_repos_chromium_googlesource = [
