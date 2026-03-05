@@ -3579,7 +3579,8 @@ class QuantumsandLive
       "evanbiederstedt/edlibR",
       "r-lib/rlang",
       "wch/r-source",
-      "kojix2/ruby-edlib"
+      "kojix2/ruby-edlib",
+      "sammycage/lunasvg"
     ]
 
     git_repos_chromium_googlesource = [
