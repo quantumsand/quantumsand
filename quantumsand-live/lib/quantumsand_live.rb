@@ -4695,7 +4695,8 @@ class QuantumsandLive
       "utilities/notae",
       "utilities/powerplant",
       "utilities/qrca",
-      "utilities/skanpage"
+      "utilities/skanpage",
+      "utilities/okteta"
     ]
 
     git_repos_ffmpeg_org = [
