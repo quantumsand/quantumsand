@@ -3586,7 +3586,8 @@ class QuantumsandLive
       "Etto48/HexPatch",
       "lcgamboa/picsimlab",
       "Siv3D/OpenSiv3D",
-      "carla-simulator/carla"
+      "carla-simulator/carla",
+      "sqlite/sqlite"
     ]
 
     git_repos_chromium_googlesource = [
