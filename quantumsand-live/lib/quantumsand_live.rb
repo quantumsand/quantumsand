@@ -3583,7 +3583,8 @@ class QuantumsandLive
       "sammycage/lunasvg",
       "plutoprint/plutobook",
       "plutoprint/plutoprint",
-      "Etto48/HexPatch"
+      "Etto48/HexPatch",
+      "lcgamboa/picsimlab"
     ]
 
     git_repos_chromium_googlesource = [
