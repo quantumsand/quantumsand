@@ -3599,7 +3599,8 @@ class QuantumsandLive
       "WerWolv/Disassembler",
       "mity/md4c",
       "dominickpastore/pymd4c",
-      "rsms/markdown-wasm"
+      "rsms/markdown-wasm",
+      "seanmiddleditch/libtelnet"
     ]
 
     git_repos_chromium_googlesource = [
