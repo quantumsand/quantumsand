@@ -3569,7 +3569,8 @@ class QuantumsandLive
       "janbjorge/pgqueuer",
       "dlom/bevy-async-ecs",
       "suma/rusthex",
-      "WerWolv/ImHex"
+      "WerWolv/ImHex",
+      "btzy/nativefiledialog-extended"
     ]
 
     git_repos_chromium_googlesource = [
