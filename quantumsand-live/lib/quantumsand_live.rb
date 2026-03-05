@@ -3604,7 +3604,8 @@ class QuantumsandLive
       "AOMediaCodec/libavif",
       "Lightning-AI/pytorch-lightning",
       "Lightning-AI/tutorials",
-      "Lightning-AI/torchmetrics"
+      "Lightning-AI/torchmetrics",
+      "Lightning-AI/litgpt"
     ]
 
     git_repos_chromium_googlesource = [
