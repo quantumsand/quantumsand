@@ -3571,7 +3571,8 @@ class QuantumsandLive
       "suma/rusthex",
       "WerWolv/ImHex",
       "btzy/nativefiledialog-extended",
-      "VirusTotal/yara"
+      "VirusTotal/yara",
+      "WerWolv/xdgpp"
     ]
 
     git_repos_chromium_googlesource = [
