@@ -3618,7 +3618,8 @@ class QuantumsandLive
       "ZFTurbo/segmentation_models_pytorch_3d",
       "qubvel-org/segmentation_models.pytorch",
       "ZFTurbo/segmentation_models_3D",
-      "containers/podman"
+      "containers/podman",
+      "containers/buildah"
     ]
 
     git_repos_chromium_googlesource = [
