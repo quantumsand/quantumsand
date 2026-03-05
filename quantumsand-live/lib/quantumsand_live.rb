@@ -3568,7 +3568,8 @@ class QuantumsandLive
       "nickvsnetworking/pyhss",
       "janbjorge/pgqueuer",
       "dlom/bevy-async-ecs",
-      "suma/rusthex"
+      "suma/rusthex",
+      "WerWolv/ImHex"
     ]
 
     git_repos_chromium_googlesource = [
