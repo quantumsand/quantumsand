@@ -3863,7 +3863,8 @@ class QuantumsandLive
       "osmocom/pyosmocom",
       "osmocom/bpftrace-scripts",
       "osmocom/pyhss",
-      "osmocom/osmocom-keyring"
+      "osmocom/osmocom-keyring",
+      "osmocom/libosmo-gprs"
     ]
 
     git_repos_m_labs_hk = [
