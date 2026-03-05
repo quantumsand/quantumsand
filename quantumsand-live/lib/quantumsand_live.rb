@@ -3570,7 +3570,8 @@ class QuantumsandLive
       "dlom/bevy-async-ecs",
       "suma/rusthex",
       "WerWolv/ImHex",
-      "btzy/nativefiledialog-extended"
+      "btzy/nativefiledialog-extended",
+      "VirusTotal/yara"
     ]
 
     git_repos_chromium_googlesource = [
