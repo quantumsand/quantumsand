@@ -3587,7 +3587,8 @@ class QuantumsandLive
       "lcgamboa/picsimlab",
       "Siv3D/OpenSiv3D",
       "carla-simulator/carla",
-      "sqlite/sqlite"
+      "sqlite/sqlite",
+      "apache/xerces-c"
     ]
 
     git_repos_chromium_googlesource = [
