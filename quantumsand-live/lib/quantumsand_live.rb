@@ -3624,7 +3624,8 @@ class QuantumsandLive
       "containers/crun",
       "containers/libocispec",
       "opencontainers/image-spec",
-      "containers/yajl"
+      "containers/yajl",
+      "containers/netavark"
     ]
 
     git_repos_chromium_googlesource = [
