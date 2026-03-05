@@ -3588,7 +3588,8 @@ class QuantumsandLive
       "Siv3D/OpenSiv3D",
       "carla-simulator/carla",
       "sqlite/sqlite",
-      "apache/xerces-c"
+      "apache/xerces-c",
+      "WerWolv/libromfs"
     ]
 
     git_repos_chromium_googlesource = [
