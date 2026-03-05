@@ -3591,7 +3591,8 @@ class QuantumsandLive
       "apache/xerces-c",
       "WerWolv/libromfs",
       "WerWolv/PatternLanguage",
-      "CLIUtils/CLI11"
+      "CLIUtils/CLI11",
+      "WerWolv/libwolv"
     ]
 
     git_repos_chromium_googlesource = [
