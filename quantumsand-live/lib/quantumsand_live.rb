@@ -3866,7 +3866,8 @@ class QuantumsandLive
       "osmocom/osmocom-keyring",
       "osmocom/libosmo-gprs",
       "osmocom/asn1c",
-      "osmocom/osmo-sysmon"
+      "osmocom/osmo-sysmon",
+      "osmocom/libosmo-sccp-legacy"
     ]
 
     git_repos_m_labs_hk = [
