@@ -3572,7 +3572,8 @@ class QuantumsandLive
       "WerWolv/ImHex",
       "btzy/nativefiledialog-extended",
       "VirusTotal/yara",
-      "WerWolv/xdgpp"
+      "WerWolv/xdgpp",
+      "tree-sitter/tree-sitter-cpp"
     ]
 
     git_repos_chromium_googlesource = [
