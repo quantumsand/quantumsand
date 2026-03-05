@@ -3589,7 +3589,8 @@ class QuantumsandLive
       "carla-simulator/carla",
       "sqlite/sqlite",
       "apache/xerces-c",
-      "WerWolv/libromfs"
+      "WerWolv/libromfs",
+      "WerWolv/PatternLanguage"
     ]
 
     git_repos_chromium_googlesource = [
