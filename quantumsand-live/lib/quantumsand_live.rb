@@ -3603,7 +3603,8 @@ class QuantumsandLive
       "seanmiddleditch/libtelnet",
       "AOMediaCodec/libavif",
       "Lightning-AI/pytorch-lightning",
-      "Lightning-AI/tutorials"
+      "Lightning-AI/tutorials",
+      "Lightning-AI/torchmetrics"
     ]
 
     git_repos_chromium_googlesource = [
