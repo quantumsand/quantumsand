@@ -3580,7 +3580,8 @@ class QuantumsandLive
       "r-lib/rlang",
       "wch/r-source",
       "kojix2/ruby-edlib",
-      "sammycage/lunasvg"
+      "sammycage/lunasvg",
+      "plutoprint/plutobook"
     ]
 
     git_repos_chromium_googlesource = [
