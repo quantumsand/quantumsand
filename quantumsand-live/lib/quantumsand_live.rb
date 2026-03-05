@@ -3867,7 +3867,8 @@ class QuantumsandLive
       "osmocom/libosmo-gprs",
       "osmocom/asn1c",
       "osmocom/osmo-sysmon",
-      "osmocom/libosmo-sccp-legacy"
+      "osmocom/libosmo-sccp-legacy",
+      "osmocom/osmocom-android-binaries"
     ]
 
     git_repos_m_labs_hk = [
