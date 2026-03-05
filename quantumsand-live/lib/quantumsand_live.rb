@@ -3573,7 +3573,8 @@ class QuantumsandLive
       "btzy/nativefiledialog-extended",
       "VirusTotal/yara",
       "WerWolv/xdgpp",
-      "tree-sitter/tree-sitter-cpp"
+      "tree-sitter/tree-sitter-cpp",
+      "Martinsos/edlib"
     ]
 
     git_repos_chromium_googlesource = [
