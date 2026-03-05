@@ -3596,7 +3596,8 @@ class QuantumsandLive
       "josuttis/jthread",
       "rockdreamer/throwing_ptr",
       "WerWolv/HashLibPlus",
-      "WerWolv/Disassembler"
+      "WerWolv/Disassembler",
+      "mity/md4c"
     ]
 
     git_repos_chromium_googlesource = [
