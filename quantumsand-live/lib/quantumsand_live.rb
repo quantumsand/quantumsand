@@ -3576,7 +3576,8 @@ class QuantumsandLive
       "tree-sitter/tree-sitter-cpp",
       "Martinsos/edlib",
       "cjdoris/Edlib.jl",
-      "evanbiederstedt/edlibR"
+      "evanbiederstedt/edlibR",
+      "r-lib/rlang"
     ]
 
     git_repos_chromium_googlesource = [
