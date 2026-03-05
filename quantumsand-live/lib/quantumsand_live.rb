@@ -3585,7 +3585,8 @@ class QuantumsandLive
       "plutoprint/plutoprint",
       "Etto48/HexPatch",
       "lcgamboa/picsimlab",
-      "Siv3D/OpenSiv3D"
+      "Siv3D/OpenSiv3D",
+      "carla-simulator/carla"
     ]
 
     git_repos_chromium_googlesource = [
