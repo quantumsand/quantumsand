@@ -3865,7 +3865,8 @@ class QuantumsandLive
       "osmocom/pyhss",
       "osmocom/osmocom-keyring",
       "osmocom/libosmo-gprs",
-      "osmocom/asn1c"
+      "osmocom/asn1c",
+      "osmocom/osmo-sysmon"
     ]
 
     git_repos_m_labs_hk = [
