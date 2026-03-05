@@ -3630,7 +3630,8 @@ class QuantumsandLive
       "podman-desktop/podman-desktop",
       "bootc-dev/bootc",
       "youki-dev/youki",
-      "opencontainers/runtime-tools"
+      "opencontainers/runtime-tools",
+      "opencontainers/runc"
     ]
 
     git_repos_chromium_googlesource = [
