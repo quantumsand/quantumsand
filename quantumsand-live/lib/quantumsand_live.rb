@@ -3590,7 +3590,8 @@ class QuantumsandLive
       "sqlite/sqlite",
       "apache/xerces-c",
       "WerWolv/libromfs",
-      "WerWolv/PatternLanguage"
+      "WerWolv/PatternLanguage",
+      "CLIUtils/CLI11"
     ]
 
     git_repos_chromium_googlesource = [
