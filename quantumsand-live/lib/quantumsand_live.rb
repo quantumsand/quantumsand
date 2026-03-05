@@ -3582,7 +3582,8 @@ class QuantumsandLive
       "kojix2/ruby-edlib",
       "sammycage/lunasvg",
       "plutoprint/plutobook",
-      "plutoprint/plutoprint"
+      "plutoprint/plutoprint",
+      "Etto48/HexPatch"
     ]
 
     git_repos_chromium_googlesource = [
