@@ -3592,7 +3592,8 @@ class QuantumsandLive
       "WerWolv/libromfs",
       "WerWolv/PatternLanguage",
       "CLIUtils/CLI11",
-      "WerWolv/libwolv"
+      "WerWolv/libwolv",
+      "josuttis/jthread"
     ]
 
     git_repos_chromium_googlesource = [
