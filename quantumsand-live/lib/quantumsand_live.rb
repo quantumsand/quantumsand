@@ -3627,7 +3627,8 @@ class QuantumsandLive
       "containers/yajl",
       "containers/netavark",
       "containers/ramalama",
-      "podman-desktop/podman-desktop"
+      "podman-desktop/podman-desktop",
+      "bootc-dev/bootc"
     ]
 
     git_repos_chromium_googlesource = [
