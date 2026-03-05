@@ -3601,7 +3601,8 @@ class QuantumsandLive
       "dominickpastore/pymd4c",
       "rsms/markdown-wasm",
       "seanmiddleditch/libtelnet",
-      "AOMediaCodec/libavif"
+      "AOMediaCodec/libavif",
+      "Lightning-AI/pytorch-lightning"
     ]
 
     git_repos_chromium_googlesource = [
