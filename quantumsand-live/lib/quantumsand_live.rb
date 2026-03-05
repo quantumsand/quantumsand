@@ -3614,7 +3614,8 @@ class QuantumsandLive
       "Lightning-AI/litAI",
       "pytorch/vision",
       "pytorch/tutorials",
-      "pytorch/examples"
+      "pytorch/examples",
+      "ZFTurbo/segmentation_models_pytorch_3d"
     ]
 
     git_repos_chromium_googlesource = [
