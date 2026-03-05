@@ -3873,7 +3873,8 @@ class QuantumsandLive
       "osmocom/osmo-codegen",
       "osmocom/libosmo-crypt-a53",
       "osmocom/osmo-pcap-reiniger",
-      "osmocom/vovida-gsml"
+      "osmocom/vovida-gsml",
+      "osmocom/libtelnet"
     ]
 
     git_repos_m_labs_hk = [
