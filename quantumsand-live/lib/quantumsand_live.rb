@@ -3593,7 +3593,8 @@ class QuantumsandLive
       "WerWolv/PatternLanguage",
       "CLIUtils/CLI11",
       "WerWolv/libwolv",
-      "josuttis/jthread"
+      "josuttis/jthread",
+      "rockdreamer/throwing_ptr"
     ]
 
     git_repos_chromium_googlesource = [
