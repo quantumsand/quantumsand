@@ -3615,7 +3615,8 @@ class QuantumsandLive
       "pytorch/vision",
       "pytorch/tutorials",
       "pytorch/examples",
-      "ZFTurbo/segmentation_models_pytorch_3d"
+      "ZFTurbo/segmentation_models_pytorch_3d",
+      "qubvel-org/segmentation_models.pytorch"
     ]
 
     git_repos_chromium_googlesource = [
