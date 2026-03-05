@@ -3869,7 +3869,8 @@ class QuantumsandLive
       "osmocom/osmo-sysmon",
       "osmocom/libosmo-sccp-legacy",
       "osmocom/osmocom-android-binaries",
-      "osmocom/wireshark-mate"
+      "osmocom/wireshark-mate",
+      "osmocom/osmo-codegen"
     ]
 
     git_repos_m_labs_hk = [
