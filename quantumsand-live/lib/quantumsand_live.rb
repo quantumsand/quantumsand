@@ -3623,7 +3623,8 @@ class QuantumsandLive
       "containers/skopeo",
       "containers/crun",
       "containers/libocispec",
-      "opencontainers/image-spec"
+      "opencontainers/image-spec",
+      "containers/yajl"
     ]
 
     git_repos_chromium_googlesource = [
