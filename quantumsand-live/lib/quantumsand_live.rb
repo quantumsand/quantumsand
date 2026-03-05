@@ -3597,7 +3597,8 @@ class QuantumsandLive
       "rockdreamer/throwing_ptr",
       "WerWolv/HashLibPlus",
       "WerWolv/Disassembler",
-      "mity/md4c"
+      "mity/md4c",
+      "dominickpastore/pymd4c"
     ]
 
     git_repos_chromium_googlesource = [
