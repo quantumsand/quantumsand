@@ -3574,7 +3574,8 @@ class QuantumsandLive
       "VirusTotal/yara",
       "WerWolv/xdgpp",
       "tree-sitter/tree-sitter-cpp",
-      "Martinsos/edlib"
+      "Martinsos/edlib",
+      "cjdoris/Edlib.jl"
     ]
 
     git_repos_chromium_googlesource = [
