@@ -3875,7 +3875,8 @@ class QuantumsandLive
       "osmocom/libosmo-crypt-a53",
       "osmocom/osmo-pcap-reiniger",
       "osmocom/vovida-gsml",
-      "osmocom/libtelnet"
+      "osmocom/libtelnet",
+      "ss7-in-c/libosmo-asn1-tcap"
     ]
 
     git_repos_m_labs_hk = [
