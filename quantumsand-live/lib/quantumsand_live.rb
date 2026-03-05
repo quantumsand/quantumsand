@@ -3598,7 +3598,8 @@ class QuantumsandLive
       "WerWolv/HashLibPlus",
       "WerWolv/Disassembler",
       "mity/md4c",
-      "dominickpastore/pymd4c"
+      "dominickpastore/pymd4c",
+      "rsms/markdown-wasm"
     ]
 
     git_repos_chromium_googlesource = [
