@@ -3600,7 +3600,8 @@ class QuantumsandLive
       "mity/md4c",
       "dominickpastore/pymd4c",
       "rsms/markdown-wasm",
-      "seanmiddleditch/libtelnet"
+      "seanmiddleditch/libtelnet",
+      "AOMediaCodec/libavif"
     ]
 
     git_repos_chromium_googlesource = [
