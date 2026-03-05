@@ -3871,7 +3871,8 @@ class QuantumsandLive
       "osmocom/osmocom-android-binaries",
       "osmocom/wireshark-mate",
       "osmocom/osmo-codegen",
-      "osmocom/libosmo-crypt-a53"
+      "osmocom/libosmo-crypt-a53",
+      "osmocom/osmo-pcap-reiniger"
     ]
 
     git_repos_m_labs_hk = [
