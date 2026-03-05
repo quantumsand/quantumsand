@@ -3870,7 +3870,8 @@ class QuantumsandLive
       "osmocom/libosmo-sccp-legacy",
       "osmocom/osmocom-android-binaries",
       "osmocom/wireshark-mate",
-      "osmocom/osmo-codegen"
+      "osmocom/osmo-codegen",
+      "osmocom/libosmo-crypt-a53"
     ]
 
     git_repos_m_labs_hk = [
