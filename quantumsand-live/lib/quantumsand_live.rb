@@ -3620,7 +3620,8 @@ class QuantumsandLive
       "ZFTurbo/segmentation_models_3D",
       "containers/podman",
       "containers/buildah",
-      "containers/skopeo"
+      "containers/skopeo",
+      "containers/crun"
     ]
 
     git_repos_chromium_googlesource = [
