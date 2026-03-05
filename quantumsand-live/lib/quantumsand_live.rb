@@ -3626,7 +3626,8 @@ class QuantumsandLive
       "opencontainers/image-spec",
       "containers/yajl",
       "containers/netavark",
-      "containers/ramalama"
+      "containers/ramalama",
+      "podman-desktop/podman-desktop"
     ]
 
     git_repos_chromium_googlesource = [
