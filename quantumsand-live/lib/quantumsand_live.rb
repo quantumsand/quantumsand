@@ -3612,7 +3612,8 @@ class QuantumsandLive
       "Lightning-AI/LitLogger",
       "Lightning-AI/LitModels",
       "Lightning-AI/litAI",
-      "pytorch/vision"
+      "pytorch/vision",
+      "pytorch/tutorials"
     ]
 
     git_repos_chromium_googlesource = [
