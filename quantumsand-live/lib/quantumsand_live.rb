@@ -3667,7 +3667,8 @@ class QuantumsandLive
       "Delgan/loguru",
       "scikit-learn/scikit-learn",
       "tensorflow/tfjs",
-      "infinitered/nsfwjs"
+      "infinitered/nsfwjs",
+      "gantman/nsfw_model"
     ]
 
     git_repos_chromium_googlesource = [
