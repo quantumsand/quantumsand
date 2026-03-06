@@ -3682,7 +3682,8 @@ class QuantumsandLive
       "jonkrohn/DLTFpT",
       "jonkrohn/NLP-with-LLMs",
       "cgal/cgal",
-      "CGAL/cgal-swig-bindings"
+      "CGAL/cgal-swig-bindings",
+      "CGAL/cgal-paraview-plugins"
     ]
 
     git_repos_chromium_googlesource = [
