@@ -4452,7 +4452,8 @@ class QuantumsandLive
       "vtk/textbook",
       "vtk/fides",
       "vtk/meshing/vtk-meshing-module",
-      "vtk/meshing/vespa"
+      "vtk/meshing/vespa",
+      "vtk/meshing/SlicerVESPA"
     ]
 
     git_repos_code_videolan_org = [
