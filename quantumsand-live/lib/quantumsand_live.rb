@@ -4268,7 +4268,8 @@ class QuantumsandLive
       "ocudu/ocudu",
       "es-de/emulationstation-de",
       "sfcgal/SFCGAL",
-      "sfcgal/pysfcgal"
+      "sfcgal/pysfcgal",
+      "sfcgal/qsfcgal"
     ]
 
     git_repos_freedesktop_gitlab = [
