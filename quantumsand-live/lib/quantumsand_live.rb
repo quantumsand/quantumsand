@@ -4444,7 +4444,8 @@ class QuantumsandLive
       "cmake/cmake",
       "paraview/paraview",
       "vtk/vtk",
-      "paraview/paraview-translations"
+      "paraview/paraview-translations",
+      "paraview/qttranslations"
     ]
 
     git_repos_code_videolan_org = [
