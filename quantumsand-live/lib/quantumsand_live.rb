@@ -3633,7 +3633,8 @@ class QuantumsandLive
       "opencontainers/runtime-tools",
       "opencontainers/runc",
       "ZFTurbo/volumentations",
-      "albumentations-team/albumentations"
+      "albumentations-team/albumentations",
+      "ashawkey/volumentations"
     ]
 
     git_repos_chromium_googlesource = [
