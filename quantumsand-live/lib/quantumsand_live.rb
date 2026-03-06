@@ -3674,7 +3674,8 @@ class QuantumsandLive
       "tensorflow/tpu",
       "tensorflow/datasets",
       "tensorflow/probability",
-      "tensorflow/tfx"
+      "tensorflow/tfx",
+      "tensorflow/text"
     ]
 
     git_repos_chromium_googlesource = [
