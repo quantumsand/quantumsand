@@ -3661,7 +3661,8 @@ class QuantumsandLive
       "scala/docs.scala-lang",
       "scala/scala-lang",
       "openjdk/jdk",
-      "openjdk/loom"
+      "openjdk/loom",
+      "openjdk/amber"
     ]
 
     git_repos_chromium_googlesource = [
