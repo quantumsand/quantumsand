@@ -3636,7 +3636,8 @@ class QuantumsandLive
       "albumentations-team/albumentations",
       "ashawkey/volumentations",
       "qubvel/classification_models",
-      "qubvel/keras-applications"
+      "qubvel/keras-applications",
+      "eriklindernoren/Keras-GAN"
     ]
 
     git_repos_chromium_googlesource = [
