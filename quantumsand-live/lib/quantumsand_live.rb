@@ -3643,7 +3643,8 @@ class QuantumsandLive
       "ZFTurbo/classification_models_3D",
       "ZFTurbo/timm_3d",
       "huggingface/pytorch-image-models",
-      "ZFTurbo/DrivenData-Alzheimer-Research-1st-place-solution"
+      "ZFTurbo/DrivenData-Alzheimer-Research-1st-place-solution",
+      "TorchIO-project/torchio"
     ]
 
     git_repos_chromium_googlesource = [
