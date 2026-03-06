@@ -3651,7 +3651,8 @@ class QuantumsandLive
       "tensorflow/tensorflow",
       "tensorflow/docs",
       "tensorflow/gnn",
-      "tensorflow/models"
+      "tensorflow/models",
+      "tensorflow/tflite-micro"
     ]
 
     git_repos_chromium_googlesource = [
