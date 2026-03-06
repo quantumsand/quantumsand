@@ -3675,7 +3675,8 @@ class QuantumsandLive
       "tensorflow/datasets",
       "tensorflow/probability",
       "tensorflow/tfx",
-      "tensorflow/text"
+      "tensorflow/text",
+      "jonkrohn/ML-foundations"
     ]
 
     git_repos_chromium_googlesource = [
