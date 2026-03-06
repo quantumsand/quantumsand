@@ -3666,7 +3666,8 @@ class QuantumsandLive
       "openjdk/valhalla",
       "Delgan/loguru",
       "scikit-learn/scikit-learn",
-      "tensorflow/tfjs"
+      "tensorflow/tfjs",
+      "infinitered/nsfwjs"
     ]
 
     git_repos_chromium_googlesource = [
