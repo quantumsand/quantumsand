@@ -3634,7 +3634,8 @@ class QuantumsandLive
       "opencontainers/runc",
       "ZFTurbo/volumentations",
       "albumentations-team/albumentations",
-      "ashawkey/volumentations"
+      "ashawkey/volumentations",
+      "qubvel/classification_models"
     ]
 
     git_repos_chromium_googlesource = [
