@@ -4454,7 +4454,8 @@ class QuantumsandLive
       "vtk/meshing/vtk-meshing-module",
       "vtk/meshing/vespa",
       "vtk/meshing/SlicerVESPA",
-      "vtk/lcl"
+      "vtk/lcl",
+      "vtk/MomentInvariants"
     ]
 
     git_repos_code_videolan_org = [
