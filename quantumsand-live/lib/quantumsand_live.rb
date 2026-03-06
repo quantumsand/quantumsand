@@ -3680,7 +3680,8 @@ class QuantumsandLive
       "the-deep-learners/deep-learning-illustrated",
       "the-deep-learners/TensorFlow-LiveLessons",
       "jonkrohn/DLTFpT",
-      "jonkrohn/NLP-with-LLMs"
+      "jonkrohn/NLP-with-LLMs",
+      "cgal/cgal"
     ]
 
     git_repos_chromium_googlesource = [
