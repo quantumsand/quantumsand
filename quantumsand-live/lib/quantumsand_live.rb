@@ -3659,7 +3659,8 @@ class QuantumsandLive
       "scala/scala3",
       "scala/scala",
       "scala/docs.scala-lang",
-      "scala/scala-lang"
+      "scala/scala-lang",
+      "openjdk/jdk"
     ]
 
     git_repos_chromium_googlesource = [
