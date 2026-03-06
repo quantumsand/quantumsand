@@ -3664,7 +3664,8 @@ class QuantumsandLive
       "openjdk/loom",
       "openjdk/amber",
       "openjdk/valhalla",
-      "Delgan/loguru"
+      "Delgan/loguru",
+      "scikit-learn/scikit-learn"
     ]
 
     git_repos_chromium_googlesource = [
