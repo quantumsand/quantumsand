@@ -4266,7 +4266,8 @@ class QuantumsandLive
       "samba-team/samba",
       "surfer-project/surfer",
       "ocudu/ocudu",
-      "es-de/emulationstation-de"
+      "es-de/emulationstation-de",
+      "sfcgal/SFCGAL"
     ]
 
     git_repos_freedesktop_gitlab = [
