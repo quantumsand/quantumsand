@@ -5023,7 +5023,8 @@ class QuantumsandLive
       "sys-libs/db",
       "sci-electronics/kicad",
       "games-util/gamemode",
-      "www-servers/apache"
+      "www-servers/apache",
+      "sys-fs/xfsprogs"
     ]
 
     gentoo_eselect_repository_add = {
