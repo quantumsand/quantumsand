@@ -3647,7 +3647,8 @@ class QuantumsandLive
       "TorchIO-project/torchio",
       "TorchIO-project/torchio-notebooks",
       "TorchIO-project/torchio-data",
-      "tensorflow/tensorboard"
+      "tensorflow/tensorboard",
+      "tensorflow/tensorflow"
     ]
 
     git_repos_chromium_googlesource = [
