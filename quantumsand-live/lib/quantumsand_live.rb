@@ -4448,7 +4448,8 @@ class QuantumsandLive
       "paraview/qttranslations",
       "paraview/catalyst-player",
       "paraview/paraview-docs",
-      "vtk/point-cloud"
+      "vtk/point-cloud",
+      "vtk/textbook"
     ]
 
     git_repos_code_videolan_org = [
