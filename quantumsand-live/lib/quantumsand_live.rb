@@ -3654,7 +3654,8 @@ class QuantumsandLive
       "tensorflow/models",
       "tensorflow/tflite-micro",
       "wandb/wandb",
-      "bazelbuild/bazel"
+      "bazelbuild/bazel",
+      "OpenXiangShan/XiangShan"
     ]
 
     git_repos_chromium_googlesource = [
