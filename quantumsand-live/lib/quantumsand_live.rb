@@ -3681,7 +3681,8 @@ class QuantumsandLive
       "the-deep-learners/TensorFlow-LiveLessons",
       "jonkrohn/DLTFpT",
       "jonkrohn/NLP-with-LLMs",
-      "cgal/cgal"
+      "cgal/cgal",
+      "CGAL/cgal-swig-bindings"
     ]
 
     git_repos_chromium_googlesource = [
