@@ -3658,7 +3658,8 @@ class QuantumsandLive
       "OpenXiangShan/XiangShan",
       "scala/scala3",
       "scala/scala",
-      "scala/docs.scala-lang"
+      "scala/docs.scala-lang",
+      "scala/scala-lang"
     ]
 
     git_repos_chromium_googlesource = [
