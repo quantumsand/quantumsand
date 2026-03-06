@@ -3656,7 +3656,8 @@ class QuantumsandLive
       "wandb/wandb",
       "bazelbuild/bazel",
       "OpenXiangShan/XiangShan",
-      "scala/scala3"
+      "scala/scala3",
+      "scala/scala"
     ]
 
     git_repos_chromium_googlesource = [
