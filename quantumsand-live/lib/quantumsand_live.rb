@@ -4269,7 +4269,8 @@ class QuantumsandLive
       "es-de/emulationstation-de",
       "sfcgal/SFCGAL",
       "sfcgal/pysfcgal",
-      "sfcgal/qsfcgal"
+      "sfcgal/qsfcgal",
+      "sfcgal/sfcgal.js"
     ]
 
     git_repos_freedesktop_gitlab = [
