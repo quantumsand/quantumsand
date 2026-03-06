@@ -3638,7 +3638,8 @@ class QuantumsandLive
       "qubvel/classification_models",
       "qubvel/keras-applications",
       "eriklindernoren/Keras-GAN",
-      "eriklindernoren/PyTorch-GAN"
+      "eriklindernoren/PyTorch-GAN",
+      "qubvel/segmentation_models"
     ]
 
     git_repos_chromium_googlesource = [
