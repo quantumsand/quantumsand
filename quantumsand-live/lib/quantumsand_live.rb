@@ -3637,7 +3637,8 @@ class QuantumsandLive
       "ashawkey/volumentations",
       "qubvel/classification_models",
       "qubvel/keras-applications",
-      "eriklindernoren/Keras-GAN"
+      "eriklindernoren/Keras-GAN",
+      "eriklindernoren/PyTorch-GAN"
     ]
 
     git_repos_chromium_googlesource = [
