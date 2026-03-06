@@ -3678,7 +3678,8 @@ class QuantumsandLive
       "tensorflow/text",
       "jonkrohn/ML-foundations",
       "the-deep-learners/deep-learning-illustrated",
-      "the-deep-learners/TensorFlow-LiveLessons"
+      "the-deep-learners/TensorFlow-LiveLessons",
+      "jonkrohn/DLTFpT"
     ]
 
     git_repos_chromium_googlesource = [
