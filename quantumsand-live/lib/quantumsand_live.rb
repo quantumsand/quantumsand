@@ -3672,7 +3672,8 @@ class QuantumsandLive
       "tensorflow/tflite-support",
       "tensorflow/io",
       "tensorflow/tpu",
-      "tensorflow/datasets"
+      "tensorflow/datasets",
+      "tensorflow/probability"
     ]
 
     git_repos_chromium_googlesource = [
