@@ -4451,7 +4451,8 @@ class QuantumsandLive
       "vtk/point-cloud",
       "vtk/textbook",
       "vtk/fides",
-      "vtk/meshing/vtk-meshing-module"
+      "vtk/meshing/vtk-meshing-module",
+      "vtk/meshing/vespa"
     ]
 
     git_repos_code_videolan_org = [
