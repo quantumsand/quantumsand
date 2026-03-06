@@ -4442,7 +4442,8 @@ class QuantumsandLive
 
     git_repos_kitware_gitlab = [
       "cmake/cmake",
-      "paraview/paraview"
+      "paraview/paraview",
+      "vtk/vtk"
     ]
 
     git_repos_code_videolan_org = [
