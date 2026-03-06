@@ -3650,7 +3650,8 @@ class QuantumsandLive
       "tensorflow/tensorboard",
       "tensorflow/tensorflow",
       "tensorflow/docs",
-      "tensorflow/gnn"
+      "tensorflow/gnn",
+      "tensorflow/models"
     ]
 
     git_repos_chromium_googlesource = [
