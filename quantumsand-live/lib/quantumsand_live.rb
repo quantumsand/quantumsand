@@ -3657,7 +3657,8 @@ class QuantumsandLive
       "bazelbuild/bazel",
       "OpenXiangShan/XiangShan",
       "scala/scala3",
-      "scala/scala"
+      "scala/scala",
+      "scala/docs.scala-lang"
     ]
 
     git_repos_chromium_googlesource = [
