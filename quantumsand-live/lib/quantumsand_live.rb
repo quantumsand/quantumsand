@@ -3671,7 +3671,8 @@ class QuantumsandLive
       "gantman/nsfw_model",
       "tensorflow/tflite-support",
       "tensorflow/io",
-      "tensorflow/tpu"
+      "tensorflow/tpu",
+      "tensorflow/datasets"
     ]
 
     git_repos_chromium_googlesource = [
