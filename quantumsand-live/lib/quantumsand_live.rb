@@ -3641,7 +3641,8 @@ class QuantumsandLive
       "eriklindernoren/PyTorch-GAN",
       "qubvel/segmentation_models",
       "ZFTurbo/classification_models_3D",
-      "ZFTurbo/timm_3d"
+      "ZFTurbo/timm_3d",
+      "huggingface/pytorch-image-models"
     ]
 
     git_repos_chromium_googlesource = [
