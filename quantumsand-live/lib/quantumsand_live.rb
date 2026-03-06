@@ -3632,7 +3632,8 @@ class QuantumsandLive
       "youki-dev/youki",
       "opencontainers/runtime-tools",
       "opencontainers/runc",
-      "ZFTurbo/volumentations"
+      "ZFTurbo/volumentations",
+      "albumentations-team/albumentations"
     ]
 
     git_repos_chromium_googlesource = [
