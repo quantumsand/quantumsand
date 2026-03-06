@@ -4450,7 +4450,8 @@ class QuantumsandLive
       "paraview/paraview-docs",
       "vtk/point-cloud",
       "vtk/textbook",
-      "vtk/fides"
+      "vtk/fides",
+      "vtk/meshing/vtk-meshing-module"
     ]
 
     git_repos_code_videolan_org = [
