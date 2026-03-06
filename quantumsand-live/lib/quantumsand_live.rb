@@ -3663,7 +3663,8 @@ class QuantumsandLive
       "openjdk/jdk",
       "openjdk/loom",
       "openjdk/amber",
-      "openjdk/valhalla"
+      "openjdk/valhalla",
+      "Delgan/loguru"
     ]
 
     git_repos_chromium_googlesource = [
