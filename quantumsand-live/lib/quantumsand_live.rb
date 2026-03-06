@@ -3676,7 +3676,8 @@ class QuantumsandLive
       "tensorflow/probability",
       "tensorflow/tfx",
       "tensorflow/text",
-      "jonkrohn/ML-foundations"
+      "jonkrohn/ML-foundations",
+      "the-deep-learners/deep-learning-illustrated"
     ]
 
     git_repos_chromium_googlesource = [
