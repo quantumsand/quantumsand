@@ -3635,7 +3635,8 @@ class QuantumsandLive
       "ZFTurbo/volumentations",
       "albumentations-team/albumentations",
       "ashawkey/volumentations",
-      "qubvel/classification_models"
+      "qubvel/classification_models",
+      "qubvel/keras-applications"
     ]
 
     git_repos_chromium_googlesource = [
