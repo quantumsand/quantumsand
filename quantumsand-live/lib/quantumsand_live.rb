@@ -3646,7 +3646,8 @@ class QuantumsandLive
       "ZFTurbo/DrivenData-Alzheimer-Research-1st-place-solution",
       "TorchIO-project/torchio",
       "TorchIO-project/torchio-notebooks",
-      "TorchIO-project/torchio-data"
+      "TorchIO-project/torchio-data",
+      "tensorflow/tensorboard"
     ]
 
     git_repos_chromium_googlesource = [
