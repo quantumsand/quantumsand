@@ -4267,7 +4267,8 @@ class QuantumsandLive
       "surfer-project/surfer",
       "ocudu/ocudu",
       "es-de/emulationstation-de",
-      "sfcgal/SFCGAL"
+      "sfcgal/SFCGAL",
+      "sfcgal/pysfcgal"
     ]
 
     git_repos_freedesktop_gitlab = [
