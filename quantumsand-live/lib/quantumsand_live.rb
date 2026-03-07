@@ -3685,7 +3685,8 @@ class QuantumsandLive
       "CGAL/cgal-swig-bindings",
       "CGAL/cgal-paraview-plugins",
       "jglaser/dfftlib",
-      "OriginQ/QPanda-2"
+      "OriginQ/QPanda-2",
+      "OriginQ/QPanda"
     ]
 
     git_repos_chromium_googlesource = [
