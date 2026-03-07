@@ -3690,7 +3690,8 @@ class QuantumsandLive
       "OriginQ/Quantum-programming-textbook",
       "OriginQ/Quantum_book",
       "OriginQ/pyqpanda-algorithm",
-      "OriginQ/QPanda3-doc"
+      "OriginQ/QPanda3-doc",
+      "OriginQ/pyChemiQ"
     ]
 
     git_repos_chromium_googlesource = [
