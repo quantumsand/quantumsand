@@ -3687,7 +3687,8 @@ class QuantumsandLive
       "jglaser/dfftlib",
       "OriginQ/QPanda-2",
       "OriginQ/QPanda",
-      "OriginQ/Quantum-programming-textbook"
+      "OriginQ/Quantum-programming-textbook",
+      "OriginQ/Quantum_book"
     ]
 
     git_repos_chromium_googlesource = [
