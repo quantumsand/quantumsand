@@ -39,7 +39,7 @@ export default function NarrativeSyncWaveform({ videoUrl, srcJson }) {
   }), [srcJson]);
 
   const handleResize = e => {
-    console.log('resized to: ', window.innerWidth, 'x', window.innerHeight);
+    console.log("resized to: ", window.innerWidth, "x", window.innerHeight, "y");
   }
 
   useEffect(() => {
