@@ -69,3 +69,8 @@ ffmpeg -i input.webm audio.wav
 ```bash
 ffmpeg -i input.mp4 audio.wav
 ```
+
+To generate audio waveform data in JSON format:
+```bash
+audiowaveform -i audio.wav -o audio.json -z 256 -b 8
+```
