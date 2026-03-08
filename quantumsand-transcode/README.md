@@ -60,3 +60,12 @@ To make a single image into a video:
 ```bash
 ffmpeg -loop 1 -i image.png -c:v libx264 -t 15 -pix_fmt yuv420p -vf scale=320:240 out.mp4
 ```
+
+To generate a wav audio file from a video webm/mp4:
+```bash
+ffmpeg -i input.webm audio.wav
+```
+
+```bash
+ffmpeg -i input.mp4 audio.wav
+```
