@@ -38,6 +38,13 @@ export default function NarrativeSyncWaveform({ videoUrl, srcJson }) {
     setPeaksInstance(peaks);
   }), [srcJson]);
 
+  const handleResize = e => {
+    console.log('resized to: ', window.innerWidth, 'x', window.innerHeight);
+  }
+
+  useEffect(() => {
+  }, window.addEventListener('resize', handleResize));
+
   const zoomIn = e => {
     e.preventDefault();
     console.log("zoom in");
