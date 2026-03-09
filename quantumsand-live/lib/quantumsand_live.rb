@@ -3711,7 +3711,8 @@ class QuantumsandLive
       "OpenXiangShan/riscv-isa-sim",
       "riscv-software-src/riscv-isa-sim",
       "OpenXiangShan/ready-to-run",
-      "OpenXiangShan/HuanCun"
+      "OpenXiangShan/HuanCun",
+      "OpenXiangShan/Utility"
     ]
 
     git_repos_chromium_googlesource = [
