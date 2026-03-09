@@ -3732,7 +3732,8 @@ class QuantumsandLive
       "myriadrf/STREAM",
       "myriadrf/touch-runner",
       "myriadrf/trx-lms7002m",
-      "myriadrf/vivaldi-antenna"
+      "myriadrf/vivaldi-antenna",
+      "myriadrf/xtrx-fpga-source"
     ]
 
     git_repos_chromium_googlesource = [
