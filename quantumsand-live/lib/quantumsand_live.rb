@@ -3997,7 +3997,8 @@ class QuantumsandLive
       "osmocom/libtelnet",
       "ss7-in-c/libosmo-asn1-tcap",
       "ss7-in-c/libosmo-tcap",
-      "ss7-in-c/libosmo-asn1-map"
+      "ss7-in-c/libosmo-asn1-map",
+      "ss7-in-c/osmo-tcap-map"
     ]
 
     git_repos_m_labs_hk = [
