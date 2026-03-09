@@ -3996,7 +3996,8 @@ class QuantumsandLive
       "osmocom/vovida-gsml",
       "osmocom/libtelnet",
       "ss7-in-c/libosmo-asn1-tcap",
-      "ss7-in-c/libosmo-tcap"
+      "ss7-in-c/libosmo-tcap",
+      "ss7-in-c/libosmo-asn1-map"
     ]
 
     git_repos_m_labs_hk = [
