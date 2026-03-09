@@ -3694,7 +3694,8 @@ class QuantumsandLive
       "OriginQ/pyChemiQ",
       "intel/intel-qs",
       "postgis/postgis-workshops",
-      "OpenXiangShan/rocket-chip"
+      "OpenXiangShan/rocket-chip",
+      "chipsalliance/rocket-chip"
     ]
 
     git_repos_chromium_googlesource = [
