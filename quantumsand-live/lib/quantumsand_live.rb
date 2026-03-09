@@ -3733,7 +3733,8 @@ class QuantumsandLive
       "myriadrf/touch-runner",
       "myriadrf/trx-lms7002m",
       "myriadrf/vivaldi-antenna",
-      "myriadrf/xtrx-fpga-source"
+      "myriadrf/xtrx-fpga-source",
+      "myriadrf/xtrx_linux_pcie_drv"
     ]
 
     git_repos_chromium_googlesource = [
