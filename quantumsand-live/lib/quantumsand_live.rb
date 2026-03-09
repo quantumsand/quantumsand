@@ -3708,7 +3708,8 @@ class QuantumsandLive
       "OpenXiangShan/NEMU",
       "shinezyy/SimPoint.3.2-fix",
       "OpenXiangShan/nexus-am",
-      "OpenXiangShan/riscv-isa-sim"
+      "OpenXiangShan/riscv-isa-sim",
+      "riscv-software-src/riscv-isa-sim"
     ]
 
     git_repos_chromium_googlesource = [
