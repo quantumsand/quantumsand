@@ -9,5 +9,4 @@ This will include:
 * HTTP JSON API (Ruby-on-Rails PostGIS API); persistent game state stored in PostgreSQL.
 * MQTT (RabbitMQ); wiring up all components so they can communicate with each other.
 * Valkey (forked from Redis); very fast temporary storage database/cache.
-* LDtk projects (bevy_ecs_ldtk); with some reused customisation.
-
+* Bevy LDtk game (bevy_ecs_ldtk); with some reused customisation.
