@@ -3709,7 +3709,8 @@ class QuantumsandLive
       "shinezyy/SimPoint.3.2-fix",
       "OpenXiangShan/nexus-am",
       "OpenXiangShan/riscv-isa-sim",
-      "riscv-software-src/riscv-isa-sim"
+      "riscv-software-src/riscv-isa-sim",
+      "OpenXiangShan/ready-to-run"
     ]
 
     git_repos_chromium_googlesource = [
