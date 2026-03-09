@@ -3725,7 +3725,8 @@ class QuantumsandLive
       "myriadrf/pyLMS7002Soapy",
       "myriadrf/pyLMS8001",
       "myriadrf/RASDR",
-      "bvacaliuc/fftw-calc"
+      "bvacaliuc/fftw-calc",
+      "myriadrf/reference-development-kit"
     ]
 
     git_repos_chromium_googlesource = [
