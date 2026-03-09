@@ -3731,7 +3731,8 @@ class QuantumsandLive
       "myriadrf/SNOWLeo-SDR",
       "myriadrf/STREAM",
       "myriadrf/touch-runner",
-      "myriadrf/trx-lms7002m"
+      "myriadrf/trx-lms7002m",
+      "myriadrf/vivaldi-antenna"
     ]
 
     git_repos_chromium_googlesource = [
