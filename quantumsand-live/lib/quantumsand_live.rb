@@ -3702,7 +3702,8 @@ class QuantumsandLive
       "chipsalliance/cde",
       "chipsalliance/chisel",
       "chipsalliance/diplomacy",
-      "ucb-bar/riscv-torture"
+      "ucb-bar/riscv-torture",
+      "riscv/riscv-test-env"
     ]
 
     git_repos_chromium_googlesource = [
