@@ -3696,7 +3696,8 @@ class QuantumsandLive
       "postgis/postgis-workshops",
       "OpenXiangShan/rocket-chip",
       "chipsalliance/rocket-chip",
-      "ucb-bar/berkeley-hardfloat"
+      "ucb-bar/berkeley-hardfloat",
+      "ucb-bar/berkeley-softfloat-3"
     ]
 
     git_repos_chromium_googlesource = [
