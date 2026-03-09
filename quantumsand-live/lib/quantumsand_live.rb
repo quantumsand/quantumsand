@@ -3706,7 +3706,8 @@ class QuantumsandLive
       "riscv/riscv-test-env",
       "OpenXiangShan/difftest",
       "OpenXiangShan/NEMU",
-      "shinezyy/SimPoint.3.2-fix"
+      "shinezyy/SimPoint.3.2-fix",
+      "OpenXiangShan/nexus-am"
     ]
 
     git_repos_chromium_googlesource = [
