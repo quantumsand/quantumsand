@@ -3698,7 +3698,8 @@ class QuantumsandLive
       "chipsalliance/rocket-chip",
       "ucb-bar/berkeley-hardfloat",
       "ucb-bar/berkeley-softfloat-3",
-      "ucb-bar/berkeley-testfloat-3"
+      "ucb-bar/berkeley-testfloat-3",
+      "chipsalliance/cde"
     ]
 
     git_repos_chromium_googlesource = [
