@@ -3728,7 +3728,8 @@ class QuantumsandLive
       "bvacaliuc/fftw-calc",
       "myriadrf/reference-development-kit",
       "myriadrf/ScratchRadio",
-      "myriadrf/SNOWLeo-SDR"
+      "myriadrf/SNOWLeo-SDR",
+      "myriadrf/STREAM"
     ]
 
     git_repos_chromium_googlesource = [
