@@ -3701,7 +3701,8 @@ class QuantumsandLive
       "ucb-bar/berkeley-testfloat-3",
       "chipsalliance/cde",
       "chipsalliance/chisel",
-      "chipsalliance/diplomacy"
+      "chipsalliance/diplomacy",
+      "ucb-bar/riscv-torture"
     ]
 
     git_repos_chromium_googlesource = [
