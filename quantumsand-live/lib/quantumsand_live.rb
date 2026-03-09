@@ -3721,7 +3721,8 @@ class QuantumsandLive
       "OpenXiangShan/ChiselIOPMP",
       "zero-day-labs/riscv-iopmp",
       "myriadrf/Parallella-RF",
-      "myriadrf/pyLMS7002M"
+      "myriadrf/pyLMS7002M",
+      "myriadrf/pyLMS7002Soapy"
     ]
 
     git_repos_chromium_googlesource = [
