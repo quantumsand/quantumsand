@@ -3736,7 +3736,8 @@ class QuantumsandLive
       "myriadrf/xtrx-fpga-source",
       "myriadrf/xtrx_linux_pcie_drv",
       "ros-drivers/camera1394",
-      "ros-drivers/camera_umd"
+      "ros-drivers/camera_umd",
+      "qt-labs/vs-debugtools"
     ]
 
     git_repos_chromium_googlesource = [
