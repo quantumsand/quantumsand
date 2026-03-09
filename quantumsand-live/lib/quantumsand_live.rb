@@ -5021,7 +5021,8 @@ class QuantumsandLive
       "giflib/code",
       "linuxptp/code",
       "libcg/libcg",
-      "qwt/git"
+      "qwt/git",
+      "libdc1394/code"
     ]
 
     git_repos_salsa_debian_org = [
