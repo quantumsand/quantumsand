@@ -3718,7 +3718,8 @@ class QuantumsandLive
       "OpenXiangShan/OpenLLC",
       "OpenXiangShan/OpenNCB",
       "OpenXiangShan/ChiselAIA",
-      "OpenXiangShan/ChiselIOPMP"
+      "OpenXiangShan/ChiselIOPMP",
+      "zero-day-labs/riscv-iopmp"
     ]
 
     git_repos_chromium_googlesource = [
