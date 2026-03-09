@@ -3700,7 +3700,8 @@ class QuantumsandLive
       "ucb-bar/berkeley-softfloat-3",
       "ucb-bar/berkeley-testfloat-3",
       "chipsalliance/cde",
-      "chipsalliance/chisel"
+      "chipsalliance/chisel",
+      "chipsalliance/diplomacy"
     ]
 
     git_repos_chromium_googlesource = [
