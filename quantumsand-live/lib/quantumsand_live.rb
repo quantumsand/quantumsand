@@ -3734,7 +3734,8 @@ class QuantumsandLive
       "myriadrf/trx-lms7002m",
       "myriadrf/vivaldi-antenna",
       "myriadrf/xtrx-fpga-source",
-      "myriadrf/xtrx_linux_pcie_drv"
+      "myriadrf/xtrx_linux_pcie_drv",
+      "ros-drivers/camera1394"
     ]
 
     git_repos_chromium_googlesource = [
