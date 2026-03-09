@@ -3703,7 +3703,8 @@ class QuantumsandLive
       "chipsalliance/chisel",
       "chipsalliance/diplomacy",
       "ucb-bar/riscv-torture",
-      "riscv/riscv-test-env"
+      "riscv/riscv-test-env",
+      "OpenXiangShan/difftest"
     ]
 
     git_repos_chromium_googlesource = [
