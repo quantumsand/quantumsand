@@ -3713,7 +3713,8 @@ class QuantumsandLive
       "OpenXiangShan/ready-to-run",
       "OpenXiangShan/HuanCun",
       "OpenXiangShan/Utility",
-      "OpenXiangShan/YunSuan"
+      "OpenXiangShan/YunSuan",
+      "OpenXiangShan/CoupledL2"
     ]
 
     git_repos_chromium_googlesource = [
