@@ -3730,7 +3730,8 @@ class QuantumsandLive
       "myriadrf/ScratchRadio",
       "myriadrf/SNOWLeo-SDR",
       "myriadrf/STREAM",
-      "myriadrf/touch-runner"
+      "myriadrf/touch-runner",
+      "myriadrf/trx-lms7002m"
     ]
 
     git_repos_chromium_googlesource = [
