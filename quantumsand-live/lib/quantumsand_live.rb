@@ -3739,7 +3739,8 @@ class QuantumsandLive
       "ros-drivers/camera_umd",
       "qt-labs/vs-debugtools",
       "baldurk/renderdoc",
-      "karpathy/autoresearch"
+      "karpathy/autoresearch",
+      "exfatprogs/exfatprogs"
     ]
 
     git_repos_chromium_googlesource = [
