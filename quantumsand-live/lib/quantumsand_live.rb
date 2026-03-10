@@ -5157,7 +5157,8 @@ class QuantumsandLive
       "sci-electronics/kicad",
       "games-util/gamemode",
       "www-servers/apache",
-      "sys-fs/xfsprogs"
+      "sys-fs/xfsprogs",
+      "media-video/vlc"
     ]
 
     gentoo_eselect_repository_add = {
