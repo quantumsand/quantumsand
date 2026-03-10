@@ -5160,7 +5160,8 @@ class QuantumsandLive
       "games-util/gamemode",
       "www-servers/apache",
       "sys-fs/xfsprogs",
-      "media-video/vlc"
+      "media-video/vlc",
+      "sys-fs/fuse"
     ]
 
     gentoo_eselect_repository_add = {
