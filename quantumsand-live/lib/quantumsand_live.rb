@@ -5187,12 +5187,12 @@ class QuantumsandLive
     # TODO: sudo-rs; a memory safe implementation of sudo and su
 
     gentoo_stage3_tar_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C #{dirpath}"
-    gentoo_stage3_url = QuantumsandLive::Resource.gentoo_stage3_url
+    gentoo_stage3_amd64_url = QuantumsandLive::Resource.gentoo_stage3_amd64_url
     # curl command
     # -L; if server reports that requested url has moved to a different location then redo request
     # -O; keep the same file name; file output to a local file named like the file name of the remote file
     # -C -; continue download if partially downloaded previously
-    gentoo_stage3_curl_command = "curl -L -O -C - #{gentoo_stage3_url}"
+    gentoo_stage3_curl_command = "curl -L -O -C - #{gentoo_stage3_amd64_url}"
     QuantumsandLive::TerminalCommand.terminal_pipe_user command: gentoo_stage3_curl_command
 
     res = QuantumsandLive::TerminalCommand.terminal_capture_sudo password: sudo_password, command: gentoo_stage3_tar_command
