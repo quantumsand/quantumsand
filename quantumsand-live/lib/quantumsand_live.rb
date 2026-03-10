@@ -3740,7 +3740,8 @@ class QuantumsandLive
       "qt-labs/vs-debugtools",
       "baldurk/renderdoc",
       "karpathy/autoresearch",
-      "exfatprogs/exfatprogs"
+      "exfatprogs/exfatprogs",
+      "relan/exfat"
     ]
 
     git_repos_chromium_googlesource = [
