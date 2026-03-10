@@ -5161,7 +5161,8 @@ class QuantumsandLive
       "www-servers/apache",
       "sys-fs/xfsprogs",
       "media-video/vlc",
-      "sys-fs/fuse"
+      "sys-fs/fuse",
+      "sys-kernel/gentoo-sources"
     ]
 
     gentoo_eselect_repository_add = {
