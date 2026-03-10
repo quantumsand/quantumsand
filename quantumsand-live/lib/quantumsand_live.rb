@@ -5187,7 +5187,13 @@ class QuantumsandLive
     # TODO: sudo-rs; a memory safe implementation of sudo and su
 
     gentoo_stage3_tar_command = "tar xpvf stage3-*.tar.xz --xattrs-include='*.*' --numeric-owner -C #{dirpath}"
+
+    # amd64 gentoo stage3
     gentoo_stage3_amd64_url = QuantumsandLive::Resource.gentoo_stage3_amd64_url
+
+    # arm64 gentoo stage3
+    gentoo_stage3_arm64_url = QuantumsandLive::Resource.gentoo_stage3_arm64_url
+
     # curl command
     # -L; if server reports that requested url has moved to a different location then redo request
     # -O; keep the same file name; file output to a local file named like the file name of the remote file
