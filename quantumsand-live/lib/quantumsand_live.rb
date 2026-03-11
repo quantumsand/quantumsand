@@ -3748,7 +3748,8 @@ class QuantumsandLive
       "ros-drivers/four_wheel_steering_msgs",
       "ros-drivers/freenect_stack",
       "ros-drivers/gps_umd",
-      "ros-drivers/gscam"
+      "ros-drivers/gscam",
+      "ros-drivers/hokuyo_node"
     ]
 
     git_repos_chromium_googlesource = [
