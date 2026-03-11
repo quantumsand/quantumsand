@@ -3790,7 +3790,8 @@ class QuantumsandLive
       "ouster-lidar/ouster-yolov5-demo",
       "ros-drivers/rosserial",
       "FastFlowLM/FastFlowLM",
-      "mlc-ai/tokenizers-cpp"
+      "mlc-ai/tokenizers-cpp",
+      "google/sentencepiece"
     ]
 
     git_repos_chromium_googlesource = [
