@@ -3757,7 +3757,8 @@ class QuantumsandLive
       "warp1337/rosleapmotion",
       "ros-drivers/libfreenect",
       "ros-drivers/libuvc_ros",
-      "ros-drivers/linux_peripheral_interfaces"
+      "ros-drivers/linux_peripheral_interfaces",
+      "ros-drivers/microstrain_3dmgx2_imu"
     ]
 
     git_repos_chromium_googlesource = [
