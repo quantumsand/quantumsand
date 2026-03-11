@@ -3786,7 +3786,8 @@ class QuantumsandLive
       "ouster-lidar/ouster-sdk",
       "ouster-lidar/ouster-ros-extras",
       "ouster-lidar/yolov5-ouster-lidar-data",
-      "ouster-lidar/yolov5-ouster-lidar-example"
+      "ouster-lidar/yolov5-ouster-lidar-example",
+      "ouster-lidar/ouster-yolov5-demo"
     ]
 
     git_repos_chromium_googlesource = [
