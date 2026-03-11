@@ -3783,7 +3783,8 @@ class QuantumsandLive
       "ros-drivers/rgbd_launch",
       "ros-drivers/ros2_ouster_drivers",
       "ouster-lidar/ouster-ros",
-      "ouster-lidar/ouster-sdk"
+      "ouster-lidar/ouster-sdk",
+      "ouster-lidar/ouster-ros-extras"
     ]
 
     git_repos_chromium_googlesource = [
