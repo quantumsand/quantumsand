@@ -3760,7 +3760,8 @@ class QuantumsandLive
       "ros-drivers/linux_peripheral_interfaces",
       "ros-drivers/microstrain_3dmgx2_imu",
       "ros-drivers/microstrain_mips",
-      "ros-drivers/mocap_optitrack"
+      "ros-drivers/mocap_optitrack",
+      "ros-drivers/nmea_comms"
     ]
 
     git_repos_chromium_googlesource = [
