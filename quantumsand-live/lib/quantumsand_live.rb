@@ -3806,7 +3806,8 @@ class QuantumsandLive
       "livekit/client-sdk-cpp",
       "livekit/client-sdk-js",
       "livekit/egress",
-      "livekit/ingress"
+      "livekit/ingress",
+      "cloudwebrtc/livekit-whip-bot"
     ]
 
     git_repos_chromium_googlesource = [
