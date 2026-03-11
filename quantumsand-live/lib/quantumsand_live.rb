@@ -3741,7 +3741,8 @@ class QuantumsandLive
       "baldurk/renderdoc",
       "karpathy/autoresearch",
       "exfatprogs/exfatprogs",
-      "relan/exfat"
+      "relan/exfat",
+      "ros-drivers/driver_common"
     ]
 
     git_repos_chromium_googlesource = [
