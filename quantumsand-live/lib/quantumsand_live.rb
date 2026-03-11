@@ -3792,7 +3792,8 @@ class QuantumsandLive
       "FastFlowLM/FastFlowLM",
       "mlc-ai/tokenizers-cpp",
       "google/sentencepiece",
-      "msgpack/msgpack-c"
+      "msgpack/msgpack-c",
+      "livekit/livekit"
     ]
 
     git_repos_chromium_googlesource = [
