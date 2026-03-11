@@ -3795,7 +3795,8 @@ class QuantumsandLive
       "msgpack/msgpack-c",
       "livekit/livekit",
       "livekit/agents",
-      "livekit/agents-js"
+      "livekit/agents-js",
+      "livekit/sip"
     ]
 
     git_repos_chromium_googlesource = [
