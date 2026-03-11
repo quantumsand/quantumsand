@@ -3779,7 +3779,8 @@ class QuantumsandLive
       "ros-drivers/prosilica_driver",
       "ros-drivers/prosilica_gige_sdk",
       "ros-drivers/razer_hydra",
-      "tauri-apps/cef-rs"
+      "tauri-apps/cef-rs",
+      "ros-drivers/rgbd_launch"
     ]
 
     git_repos_chromium_googlesource = [
