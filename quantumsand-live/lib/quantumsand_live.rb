@@ -3793,7 +3793,8 @@ class QuantumsandLive
       "mlc-ai/tokenizers-cpp",
       "google/sentencepiece",
       "msgpack/msgpack-c",
-      "livekit/livekit"
+      "livekit/livekit",
+      "livekit/agents"
     ]
 
     git_repos_chromium_googlesource = [
