@@ -3752,7 +3752,8 @@ class QuantumsandLive
       "ros-drivers/hokuyo_node",
       "ros-drivers/joystick_drivers_tutorials",
       "ros-drivers/korg_nanokontrol",
-      "ros-drivers/kvh_drivers"
+      "ros-drivers/kvh_drivers",
+      "ros-drivers/leap_motion"
     ]
 
     git_repos_chromium_googlesource = [
