@@ -3765,7 +3765,8 @@ class QuantumsandLive
       "ros-drivers/nmea_gps_driver",
       "ros-drivers/nmea_msgs",
       "ros-drivers/nmea_navsat_driver",
-      "ros-drivers/novatel_span_driver"
+      "ros-drivers/novatel_span_driver",
+      "ros-drivers/odva_ethernetip"
     ]
 
     git_repos_chromium_googlesource = [
