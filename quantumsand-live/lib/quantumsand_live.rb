@@ -3791,7 +3791,8 @@ class QuantumsandLive
       "ros-drivers/rosserial",
       "FastFlowLM/FastFlowLM",
       "mlc-ai/tokenizers-cpp",
-      "google/sentencepiece"
+      "google/sentencepiece",
+      "msgpack/msgpack-c"
     ]
 
     git_repos_chromium_googlesource = [
