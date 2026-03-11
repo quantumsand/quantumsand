@@ -3776,7 +3776,8 @@ class QuantumsandLive
       "ros-drivers/openni_tracker",
       "ros-drivers/phidgets_drivers",
       "ros-drivers/pointgrey_camera_driver",
-      "ros-drivers/prosilica_driver"
+      "ros-drivers/prosilica_driver",
+      "ros-drivers/prosilica_gige_sdk"
     ]
 
     git_repos_chromium_googlesource = [
