@@ -3802,7 +3802,8 @@ class QuantumsandLive
       "livekit/protocol",
       "livekit/rust-sdks",
       "livekit/python-sdks",
-      "livekit/server-sdk-go"
+      "livekit/server-sdk-go",
+      "livekit/client-sdk-cpp"
     ]
 
     git_repos_chromium_googlesource = [
