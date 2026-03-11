@@ -3744,7 +3744,8 @@ class QuantumsandLive
       "relan/exfat",
       "ros-drivers/driver_common",
       "ros-drivers/flir_camera_driver",
-      "ros-drivers/flir_ptu"
+      "ros-drivers/flir_ptu",
+      "ros-drivers/four_wheel_steering_msgs"
     ]
 
     git_repos_chromium_googlesource = [
