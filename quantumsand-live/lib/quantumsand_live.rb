@@ -3750,7 +3750,8 @@ class QuantumsandLive
       "ros-drivers/gps_umd",
       "ros-drivers/gscam",
       "ros-drivers/hokuyo_node",
-      "ros-drivers/joystick_drivers_tutorials"
+      "ros-drivers/joystick_drivers_tutorials",
+      "ros-drivers/korg_nanokontrol"
     ]
 
     git_repos_chromium_googlesource = [
