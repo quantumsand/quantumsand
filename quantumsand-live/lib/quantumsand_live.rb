@@ -3763,7 +3763,8 @@ class QuantumsandLive
       "ros-drivers/mocap_optitrack",
       "ros-drivers/nmea_comms",
       "ros-drivers/nmea_gps_driver",
-      "ros-drivers/nmea_msgs"
+      "ros-drivers/nmea_msgs",
+      "ros-drivers/nmea_navsat_driver"
     ]
 
     git_repos_chromium_googlesource = [
