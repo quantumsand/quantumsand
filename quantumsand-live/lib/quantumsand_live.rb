@@ -3762,7 +3762,8 @@ class QuantumsandLive
       "ros-drivers/microstrain_mips",
       "ros-drivers/mocap_optitrack",
       "ros-drivers/nmea_comms",
-      "ros-drivers/nmea_gps_driver"
+      "ros-drivers/nmea_gps_driver",
+      "ros-drivers/nmea_msgs"
     ]
 
     git_repos_chromium_googlesource = [
