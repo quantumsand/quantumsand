@@ -3769,7 +3769,8 @@ class QuantumsandLive
       "ros-drivers/odva_ethernetip",
       "ros-drivers/omron",
       "ros-drivers/openni2_camera",
-      "ros-drivers/openni2_launch"
+      "ros-drivers/openni2_launch",
+      "ros-drivers/openni2_tracker"
     ]
 
     git_repos_chromium_googlesource = [
