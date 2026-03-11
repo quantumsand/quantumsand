@@ -3773,7 +3773,8 @@ class QuantumsandLive
       "ros-drivers/openni2_tracker",
       "ros-drivers/openni_camera",
       "ros-drivers/openni_launch",
-      "ros-drivers/openni_tracker"
+      "ros-drivers/openni_tracker",
+      "ros-drivers/phidgets_drivers"
     ]
 
     git_repos_chromium_googlesource = [
