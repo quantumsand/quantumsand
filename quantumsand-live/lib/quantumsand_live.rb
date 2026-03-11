@@ -3781,7 +3781,8 @@ class QuantumsandLive
       "ros-drivers/razer_hydra",
       "tauri-apps/cef-rs",
       "ros-drivers/rgbd_launch",
-      "ros-drivers/ros2_ouster_drivers"
+      "ros-drivers/ros2_ouster_drivers",
+      "ouster-lidar/ouster-ros"
     ]
 
     git_repos_chromium_googlesource = [
