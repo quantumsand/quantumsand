@@ -10,3 +10,4 @@ This will include:
 * MQTT (RabbitMQ); wiring up all components so they can communicate with each other.
 * Valkey (forked from Redis); very fast temporary storage database/cache.
 * Bevy LDtk game (bevy_ecs_ldtk); with some reused customisation.
+* Bevy cef animated book (bevy_cef); render web pages into a 3d animated book using Bevy and CEF.
