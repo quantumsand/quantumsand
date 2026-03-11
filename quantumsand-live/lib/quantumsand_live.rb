@@ -3746,7 +3746,8 @@ class QuantumsandLive
       "ros-drivers/flir_camera_driver",
       "ros-drivers/flir_ptu",
       "ros-drivers/four_wheel_steering_msgs",
-      "ros-drivers/freenect_stack"
+      "ros-drivers/freenect_stack",
+      "ros-drivers/gps_umd"
     ]
 
     git_repos_chromium_googlesource = [
