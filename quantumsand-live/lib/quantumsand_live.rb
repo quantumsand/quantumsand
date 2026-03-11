@@ -3804,7 +3804,8 @@ class QuantumsandLive
       "livekit/python-sdks",
       "livekit/server-sdk-go",
       "livekit/client-sdk-cpp",
-      "livekit/client-sdk-js"
+      "livekit/client-sdk-js",
+      "livekit/egress"
     ]
 
     git_repos_chromium_googlesource = [
