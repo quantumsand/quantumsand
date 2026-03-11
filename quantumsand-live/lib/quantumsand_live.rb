@@ -3749,7 +3749,8 @@ class QuantumsandLive
       "ros-drivers/freenect_stack",
       "ros-drivers/gps_umd",
       "ros-drivers/gscam",
-      "ros-drivers/hokuyo_node"
+      "ros-drivers/hokuyo_node",
+      "ros-drivers/joystick_drivers_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
