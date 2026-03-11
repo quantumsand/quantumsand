@@ -3798,7 +3798,8 @@ class QuantumsandLive
       "livekit/agents-js",
       "livekit/sip",
       "livekit/components-js",
-      "livekit/server-sdk-ruby"
+      "livekit/server-sdk-ruby",
+      "livekit/protocol"
     ]
 
     git_repos_chromium_googlesource = [
