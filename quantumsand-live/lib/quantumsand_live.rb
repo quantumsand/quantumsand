@@ -3743,7 +3743,8 @@ class QuantumsandLive
       "exfatprogs/exfatprogs",
       "relan/exfat",
       "ros-drivers/driver_common",
-      "ros-drivers/flir_camera_driver"
+      "ros-drivers/flir_camera_driver",
+      "ros-drivers/flir_ptu"
     ]
 
     git_repos_chromium_googlesource = [
