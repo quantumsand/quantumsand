@@ -3782,7 +3782,8 @@ class QuantumsandLive
       "tauri-apps/cef-rs",
       "ros-drivers/rgbd_launch",
       "ros-drivers/ros2_ouster_drivers",
-      "ouster-lidar/ouster-ros"
+      "ouster-lidar/ouster-ros",
+      "ouster-lidar/ouster-sdk"
     ]
 
     git_repos_chromium_googlesource = [
