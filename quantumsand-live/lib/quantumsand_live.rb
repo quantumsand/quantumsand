@@ -3859,7 +3859,8 @@ class QuantumsandLive
       "emqx/mria",
       "ganlanyuan/tiny-slider",
       "jechav/tiny-slider-react",
-      "gcoro/react-qrcode-logo"
+      "gcoro/react-qrcode-logo",
+      "kazuhikoarase/qrcode-generator"
     ]
 
     git_repos_chromium_googlesource = [
