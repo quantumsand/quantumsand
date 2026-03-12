@@ -3833,7 +3833,8 @@ class QuantumsandLive
       "webrtc-sdk/webrtc-build",
       "livekit/livekit_composite",
       "livekit/uniffi-bindgen-node",
-      "nordSecurity/uniffi-bindgen-cpp"
+      "nordSecurity/uniffi-bindgen-cpp",
+      "NordSecurity/uniffi-bindgen-go"
     ]
 
     git_repos_chromium_googlesource = [
