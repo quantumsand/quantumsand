@@ -3831,7 +3831,8 @@ class QuantumsandLive
       "livekit/webrtc-xcframework",
       "webrtc-sdk/webrtc",
       "webrtc-sdk/webrtc-build",
-      "livekit/livekit_composite"
+      "livekit/livekit_composite",
+      "livekit/uniffi-bindgen-node"
     ]
 
     git_repos_chromium_googlesource = [
