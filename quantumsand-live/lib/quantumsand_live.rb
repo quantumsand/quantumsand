@@ -3850,7 +3850,8 @@ class QuantumsandLive
       "livekit/media-samples",
       "livekit/storage",
       "livekit/deploy",
-      "livekit/concentus"
+      "livekit/concentus",
+      "livekit/gst-go"
     ]
 
     git_repos_chromium_googlesource = [
