@@ -3848,7 +3848,8 @@ class QuantumsandLive
       "livekit/webrtc-vmaf",
       "livekit/livekit-uniffi-xcframework",
       "livekit/media-samples",
-      "livekit/storage"
+      "livekit/storage",
+      "livekit/deploy"
     ]
 
     git_repos_chromium_googlesource = [
