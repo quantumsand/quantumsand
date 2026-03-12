@@ -3863,7 +3863,8 @@ class QuantumsandLive
       "kazuhikoarase/qrcode-generator",
       "Stellarium/stellarium",
       "Stellarium/stellarium-addons",
-      "Stellarium/stellarium-dynamic-plugin"
+      "Stellarium/stellarium-dynamic-plugin",
+      "RenderKit/embree"
     ]
 
     git_repos_chromium_googlesource = [
