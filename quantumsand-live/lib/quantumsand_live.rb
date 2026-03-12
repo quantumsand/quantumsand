@@ -3840,7 +3840,8 @@ class QuantumsandLive
       "NordSecurity/uniffi-bindgen-cs",
       "livekit/sipgo",
       "emiago/sipgo",
-      "emiago/diago"
+      "emiago/diago",
+      "emiago/diagox"
     ]
 
     git_repos_chromium_googlesource = [
