@@ -3813,7 +3813,8 @@ class QuantumsandLive
       "dscripka/openWakeWord",
       "livekit/plugins-ai-coustics-python",
       "livekit/client-sdk-flutter",
-      "livekit/client-sdk-esp32"
+      "livekit/client-sdk-esp32",
+      "livekit/gstreamer-publisher"
     ]
 
     git_repos_chromium_googlesource = [
