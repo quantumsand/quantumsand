@@ -3823,7 +3823,8 @@ class QuantumsandLive
       "livekit/plugins-ai-coustics-node",
       "livekit/track-processors-js",
       "flutter/flutter",
-      "livekit/components-flutter"
+      "livekit/components-flutter",
+      "livekit/components-swift"
     ]
 
     git_repos_chromium_googlesource = [
