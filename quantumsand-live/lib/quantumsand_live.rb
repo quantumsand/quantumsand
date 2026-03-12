@@ -3841,7 +3841,8 @@ class QuantumsandLive
       "aosp/platform/external/uwb",
       "angle/angle",
       "breakpad/breakpad",
-      "libyuv/libyuv"
+      "libyuv/libyuv",
+      "external/webrtc"
     ]
 
     git_repos_gn_googlesource = [
