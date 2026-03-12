@@ -3815,7 +3815,8 @@ class QuantumsandLive
       "livekit/client-sdk-flutter",
       "livekit/client-sdk-esp32",
       "livekit/gstreamer-publisher",
-      "livekit/node-sdks"
+      "livekit/node-sdks",
+      "livekit/agents-playground"
     ]
 
     git_repos_chromium_googlesource = [
