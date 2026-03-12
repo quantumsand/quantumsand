@@ -3874,7 +3874,8 @@ class QuantumsandLive
       "SatDump/SatDump",
       "SatDump/Android-Dependencies",
       "rt-bishop/Look4Sat",
-      "krakenrf/discovery_drive"
+      "krakenrf/discovery_drive",
+      "krakenrf/heimdall_daq_fw"
     ]
 
     git_repos_chromium_googlesource = [
