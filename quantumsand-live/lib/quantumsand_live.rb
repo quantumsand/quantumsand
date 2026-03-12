@@ -3879,7 +3879,8 @@ class QuantumsandLive
       "krakenrf/discoverydish_docs",
       "krakenrf/krakensdr_doa",
       "krakenrf/krakensdr_docs",
-      "krakenrf/gr-krakensdr"
+      "krakenrf/gr-krakensdr",
+      "krakenrf/SatDump"
     ]
 
     git_repos_chromium_googlesource = [
