@@ -3865,7 +3865,8 @@ class QuantumsandLive
       "Stellarium/stellarium-addons",
       "Stellarium/stellarium-dynamic-plugin",
       "RenderKit/embree",
-      "Stellarium/stellarium_star_catalogs"
+      "Stellarium/stellarium_star_catalogs",
+      "henrysky/stellarium_star_catalogs"
     ]
 
     git_repos_chromium_googlesource = [
