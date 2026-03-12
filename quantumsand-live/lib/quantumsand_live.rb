@@ -3880,7 +3880,8 @@ class QuantumsandLive
       "krakenrf/krakensdr_doa",
       "krakenrf/krakensdr_docs",
       "krakenrf/gr-krakensdr",
-      "krakenrf/SatDump"
+      "krakenrf/SatDump",
+      "krakenrf/librtlsdr"
     ]
 
     git_repos_chromium_googlesource = [
