@@ -3809,7 +3809,8 @@ class QuantumsandLive
       "livekit/ingress",
       "cloudwebrtc/livekit-whip-bot",
       "livekit/livekit-cli",
-      "livekit/livekit-wakeword"
+      "livekit/livekit-wakeword",
+      "dscripka/openWakeWord"
     ]
 
     git_repos_chromium_googlesource = [
