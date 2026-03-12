@@ -3867,7 +3867,8 @@ class QuantumsandLive
       "RenderKit/embree",
       "Stellarium/stellarium_star_catalogs",
       "henrysky/stellarium_star_catalogs",
-      "Stellarium/stellarium-skyculture-converter"
+      "Stellarium/stellarium-skyculture-converter",
+      "Stellarium/stellarium-skycultures"
     ]
 
     git_repos_chromium_googlesource = [
