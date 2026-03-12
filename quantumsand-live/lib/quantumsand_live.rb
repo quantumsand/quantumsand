@@ -3810,7 +3810,8 @@ class QuantumsandLive
       "cloudwebrtc/livekit-whip-bot",
       "livekit/livekit-cli",
       "livekit/livekit-wakeword",
-      "dscripka/openWakeWord"
+      "dscripka/openWakeWord",
+      "livekit/plugins-ai-coustics-python"
     ]
 
     git_repos_chromium_googlesource = [
