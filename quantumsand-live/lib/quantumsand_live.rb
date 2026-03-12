@@ -3821,7 +3821,8 @@ class QuantumsandLive
       "livekit/server-sdk-kotlin",
       "livekit/mediatransportutil",
       "livekit/plugins-ai-coustics-node",
-      "livekit/track-processors-js"
+      "livekit/track-processors-js",
+      "flutter/flutter"
     ]
 
     git_repos_chromium_googlesource = [
