@@ -3816,7 +3816,8 @@ class QuantumsandLive
       "livekit/client-sdk-esp32",
       "livekit/gstreamer-publisher",
       "livekit/node-sdks",
-      "livekit/agents-playground"
+      "livekit/agents-playground",
+      "JetBrains/kotlin"
     ]
 
     git_repos_chromium_googlesource = [
