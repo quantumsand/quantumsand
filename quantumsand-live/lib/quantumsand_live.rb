@@ -3858,7 +3858,8 @@ class QuantumsandLive
       "kubernetes/test-infra",
       "emqx/mria",
       "ganlanyuan/tiny-slider",
-      "jechav/tiny-slider-react"
+      "jechav/tiny-slider-react",
+      "gcoro/react-qrcode-logo"
     ]
 
     git_repos_chromium_googlesource = [
