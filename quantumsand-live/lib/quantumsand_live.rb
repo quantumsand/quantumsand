@@ -3825,7 +3825,8 @@ class QuantumsandLive
       "flutter/flutter",
       "livekit/components-flutter",
       "livekit/components-swift",
-      "livekit/agent-skills"
+      "livekit/agent-skills",
+      "livekit/podspecs"
     ]
 
     git_repos_chromium_googlesource = [
