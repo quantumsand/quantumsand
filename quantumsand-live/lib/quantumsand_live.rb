@@ -3818,7 +3818,8 @@ class QuantumsandLive
       "livekit/node-sdks",
       "livekit/agents-playground",
       "JetBrains/kotlin",
-      "livekit/server-sdk-kotlin"
+      "livekit/server-sdk-kotlin",
+      "livekit/mediatransportutil"
     ]
 
     git_repos_chromium_googlesource = [
