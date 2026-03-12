@@ -3819,7 +3819,8 @@ class QuantumsandLive
       "livekit/agents-playground",
       "JetBrains/kotlin",
       "livekit/server-sdk-kotlin",
-      "livekit/mediatransportutil"
+      "livekit/mediatransportutil",
+      "livekit/plugins-ai-coustics-node"
     ]
 
     git_repos_chromium_googlesource = [
