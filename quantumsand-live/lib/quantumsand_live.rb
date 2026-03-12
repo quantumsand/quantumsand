@@ -3841,7 +3841,8 @@ class QuantumsandLive
       "livekit/sipgo",
       "emiago/sipgo",
       "emiago/diago",
-      "emiago/diagox"
+      "emiago/diagox",
+      "emiago/gophone"
     ]
 
     git_repos_chromium_googlesource = [
