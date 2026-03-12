@@ -4156,6 +4156,10 @@ class QuantumsandLive
       "laforge/osmo-gsm-shark"
     ]
 
+    git_repos_satdump_org_gitea = [
+      "SatDump/Resources"
+    ]
+
     git_repos_m_labs_hk = [
       "M-Labs/misoc",
       "M-Labs/migen"
