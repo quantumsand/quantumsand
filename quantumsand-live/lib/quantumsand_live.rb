@@ -3829,7 +3829,8 @@ class QuantumsandLive
       "livekit/podspecs",
       "livekit/media-sdk",
       "livekit/webrtc-xcframework",
-      "webrtc-sdk/webrtc"
+      "webrtc-sdk/webrtc",
+      "webrtc-sdk/webrtc-build"
     ]
 
     git_repos_chromium_googlesource = [
