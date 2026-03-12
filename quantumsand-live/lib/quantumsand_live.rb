@@ -3844,7 +3844,8 @@ class QuantumsandLive
       "emiago/diagox",
       "emiago/gophone",
       "openai/whisper",
-      "openai/codex"
+      "openai/codex",
+      "livekit/webrtc-vmaf"
     ]
 
     git_repos_chromium_googlesource = [
