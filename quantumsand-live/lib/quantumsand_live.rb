@@ -3876,7 +3876,8 @@ class QuantumsandLive
       "rt-bishop/Look4Sat",
       "krakenrf/discovery_drive",
       "krakenrf/heimdall_daq_fw",
-      "krakenrf/discoverydish_docs"
+      "krakenrf/discoverydish_docs",
+      "krakenrf/krakensdr_doa"
     ]
 
     git_repos_chromium_googlesource = [
