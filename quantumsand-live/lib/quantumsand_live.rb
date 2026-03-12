@@ -3886,7 +3886,8 @@ class QuantumsandLive
       "krakenrf/DoA_simulator",
       "petotamas/pyArgus",
       "zinka/arraytool",
-      "krakenrf/dd_ra"
+      "krakenrf/dd_ra",
+      "krakenrf/kfr"
     ]
 
     git_repos_chromium_googlesource = [
