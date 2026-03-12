@@ -3883,7 +3883,8 @@ class QuantumsandLive
       "krakenrf/SatDump",
       "krakenrf/librtlsdr",
       "steve-m/librtlsdr",
-      "krakenrf/DoA_simulator"
+      "krakenrf/DoA_simulator",
+      "petotamas/pyArgus"
     ]
 
     git_repos_chromium_googlesource = [
