@@ -3851,7 +3851,8 @@ class QuantumsandLive
       "livekit/storage",
       "livekit/deploy",
       "livekit/concentus",
-      "livekit/gst-go"
+      "livekit/gst-go",
+      "livekit/external-dns"
     ]
 
     git_repos_chromium_googlesource = [
