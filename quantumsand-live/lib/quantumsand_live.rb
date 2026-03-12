@@ -3842,7 +3842,8 @@ class QuantumsandLive
       "emiago/sipgo",
       "emiago/diago",
       "emiago/diagox",
-      "emiago/gophone"
+      "emiago/gophone",
+      "openai/whisper"
     ]
 
     git_repos_chromium_googlesource = [
