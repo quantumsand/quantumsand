@@ -3814,7 +3814,8 @@ class QuantumsandLive
       "livekit/plugins-ai-coustics-python",
       "livekit/client-sdk-flutter",
       "livekit/client-sdk-esp32",
-      "livekit/gstreamer-publisher"
+      "livekit/gstreamer-publisher",
+      "livekit/node-sdks"
     ]
 
     git_repos_chromium_googlesource = [
