@@ -3891,7 +3891,8 @@ class QuantumsandLive
       "kfrlib/kfr",
       "krakenrf/VkFFT",
       "DTolm/VkFFT",
-      "vincefn/pyvkfft"
+      "vincefn/pyvkfft",
+      "semio-ai/vkfft-rs"
     ]
 
     git_repos_chromium_googlesource = [
