@@ -3849,7 +3849,8 @@ class QuantumsandLive
       "livekit/livekit-uniffi-xcframework",
       "livekit/media-samples",
       "livekit/storage",
-      "livekit/deploy"
+      "livekit/deploy",
+      "livekit/concentus"
     ]
 
     git_repos_chromium_googlesource = [
