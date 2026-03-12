@@ -3824,7 +3824,8 @@ class QuantumsandLive
       "livekit/track-processors-js",
       "flutter/flutter",
       "livekit/components-flutter",
-      "livekit/components-swift"
+      "livekit/components-swift",
+      "livekit/agent-skills"
     ]
 
     git_repos_chromium_googlesource = [
