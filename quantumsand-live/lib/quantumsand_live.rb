@@ -3871,7 +3871,8 @@ class QuantumsandLive
       "Stellarium/stellarium-skycultures",
       "Stellarium/stellarium-data",
       "Stellarium/stellarium-web-engine",
-      "SatDump/SatDump"
+      "SatDump/SatDump",
+      "SatDump/Android-Dependencies"
     ]
 
     git_repos_chromium_googlesource = [
