@@ -3856,7 +3856,8 @@ class QuantumsandLive
       "kubernetes-sigs/external-dns",
       "kubernetes/enhancements",
       "kubernetes/test-infra",
-      "emqx/mria"
+      "emqx/mria",
+      "ganlanyuan/tiny-slider"
     ]
 
     git_repos_chromium_googlesource = [
