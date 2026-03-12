@@ -46,6 +46,27 @@ And: https://www.simplethread.com/geospatial-applications-using-rails/
 - translation_locale_text `:text`
 
 
+### Game table
+
+- game_name `:string`
+- game_slot `:string`
+- game_player `:json`
+- game_narrative `:json`
+- game_progress `:json`
+- game_traits `:json`
+- game_inventory `:json`
+- game_shop `:json`
+
+
+### Resource table
+
+- git_repo_name `:string`
+- qr_code `:string`
+- resource_type `:string`
+- resource_data `:json`
+- resource_thumbnail `:string`
+
+
 ## TODO:
 
 * Ruby version
