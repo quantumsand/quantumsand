@@ -3878,7 +3878,8 @@ class QuantumsandLive
       "krakenrf/heimdall_daq_fw",
       "krakenrf/discoverydish_docs",
       "krakenrf/krakensdr_doa",
-      "krakenrf/krakensdr_docs"
+      "krakenrf/krakensdr_docs",
+      "krakenrf/gr-krakensdr"
     ]
 
     git_repos_chromium_googlesource = [
