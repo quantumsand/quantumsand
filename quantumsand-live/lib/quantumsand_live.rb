@@ -3820,7 +3820,8 @@ class QuantumsandLive
       "JetBrains/kotlin",
       "livekit/server-sdk-kotlin",
       "livekit/mediatransportutil",
-      "livekit/plugins-ai-coustics-node"
+      "livekit/plugins-ai-coustics-node",
+      "livekit/track-processors-js"
     ]
 
     git_repos_chromium_googlesource = [
