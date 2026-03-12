@@ -5283,7 +5283,8 @@ class QuantumsandLive
       "sys-fs/xfsprogs",
       "media-video/vlc",
       "sys-fs/fuse",
-      "sys-kernel/gentoo-sources"
+      "sys-kernel/gentoo-sources",
+      "net-im/ejabberd"
     ]
 
     gentoo_eselect_repository_add = {
