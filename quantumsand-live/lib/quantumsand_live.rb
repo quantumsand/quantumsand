@@ -3846,7 +3846,8 @@ class QuantumsandLive
       "openai/whisper",
       "openai/codex",
       "livekit/webrtc-vmaf",
-      "livekit/livekit-uniffi-xcframework"
+      "livekit/livekit-uniffi-xcframework",
+      "livekit/media-samples"
     ]
 
     git_repos_chromium_googlesource = [
