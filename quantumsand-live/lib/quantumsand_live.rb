@@ -3888,7 +3888,8 @@ class QuantumsandLive
       "zinka/arraytool",
       "krakenrf/dd_ra",
       "krakenrf/kfr",
-      "kfrlib/kfr"
+      "kfrlib/kfr",
+      "krakenrf/VkFFT"
     ]
 
     git_repos_chromium_googlesource = [
