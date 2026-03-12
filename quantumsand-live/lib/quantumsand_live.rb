@@ -3884,7 +3884,8 @@ class QuantumsandLive
       "krakenrf/librtlsdr",
       "steve-m/librtlsdr",
       "krakenrf/DoA_simulator",
-      "petotamas/pyArgus"
+      "petotamas/pyArgus",
+      "zinka/arraytool"
     ]
 
     git_repos_chromium_googlesource = [
