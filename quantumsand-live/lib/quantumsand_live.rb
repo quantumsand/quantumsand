@@ -3845,7 +3845,8 @@ class QuantumsandLive
       "emiago/gophone",
       "openai/whisper",
       "openai/codex",
-      "livekit/webrtc-vmaf"
+      "livekit/webrtc-vmaf",
+      "livekit/livekit-uniffi-xcframework"
     ]
 
     git_repos_chromium_googlesource = [
