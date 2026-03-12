@@ -3836,7 +3836,8 @@ class QuantumsandLive
       "nordSecurity/uniffi-bindgen-cpp",
       "NordSecurity/uniffi-bindgen-go",
       "mozilla/uniffi-rs",
-      "zhangyuang/node-ffi-rs"
+      "zhangyuang/node-ffi-rs",
+      "NordSecurity/uniffi-bindgen-cs"
     ]
 
     git_repos_chromium_googlesource = [
