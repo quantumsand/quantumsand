@@ -3837,7 +3837,8 @@ class QuantumsandLive
       "NordSecurity/uniffi-bindgen-go",
       "mozilla/uniffi-rs",
       "zhangyuang/node-ffi-rs",
-      "NordSecurity/uniffi-bindgen-cs"
+      "NordSecurity/uniffi-bindgen-cs",
+      "livekit/sipgo"
     ]
 
     git_repos_chromium_googlesource = [
