@@ -3872,7 +3872,8 @@ class QuantumsandLive
       "Stellarium/stellarium-data",
       "Stellarium/stellarium-web-engine",
       "SatDump/SatDump",
-      "SatDump/Android-Dependencies"
+      "SatDump/Android-Dependencies",
+      "rt-bishop/Look4Sat"
     ]
 
     git_repos_chromium_googlesource = [
