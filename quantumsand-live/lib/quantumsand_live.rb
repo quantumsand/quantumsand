@@ -3890,7 +3890,8 @@ class QuantumsandLive
       "krakenrf/kfr",
       "kfrlib/kfr",
       "krakenrf/VkFFT",
-      "DTolm/VkFFT"
+      "DTolm/VkFFT",
+      "vincefn/pyvkfft"
     ]
 
     git_repos_chromium_googlesource = [
