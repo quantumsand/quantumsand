@@ -3868,7 +3868,8 @@ class QuantumsandLive
       "Stellarium/stellarium_star_catalogs",
       "henrysky/stellarium_star_catalogs",
       "Stellarium/stellarium-skyculture-converter",
-      "Stellarium/stellarium-skycultures"
+      "Stellarium/stellarium-skycultures",
+      "Stellarium/stellarium-data"
     ]
 
     git_repos_chromium_googlesource = [
