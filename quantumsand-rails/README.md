@@ -56,6 +56,7 @@ And: https://www.simplethread.com/geospatial-applications-using-rails/
 - game_traits `:json`
 - game_inventory `:json`
 - game_shop `:json`
+- game_ui `:json`
 
 
 ### Resource table
