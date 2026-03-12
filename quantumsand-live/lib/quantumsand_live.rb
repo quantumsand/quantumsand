@@ -3861,7 +3861,8 @@ class QuantumsandLive
       "jechav/tiny-slider-react",
       "gcoro/react-qrcode-logo",
       "kazuhikoarase/qrcode-generator",
-      "Stellarium/stellarium"
+      "Stellarium/stellarium",
+      "Stellarium/stellarium-addons"
     ]
 
     git_repos_chromium_googlesource = [
