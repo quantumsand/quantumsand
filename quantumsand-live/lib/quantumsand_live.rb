@@ -3855,7 +3855,8 @@ class QuantumsandLive
       "livekit/external-dns",
       "kubernetes-sigs/external-dns",
       "kubernetes/enhancements",
-      "kubernetes/test-infra"
+      "kubernetes/test-infra",
+      "emqx/mria"
     ]
 
     git_repos_chromium_googlesource = [
