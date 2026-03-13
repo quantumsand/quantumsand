@@ -12,7 +12,7 @@ This means that development of each component can be done on all three of these 
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
 * Install wget using `brew install wget`
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
-* Install Blender 4.5 LTS.
+* Install Blender 4.5 LTS (Apple Silicon); make sure it is the arm64 dmg.
 
 More to follow.
 
