@@ -11,7 +11,7 @@ This means that development of each component can be done on all three of these 
 * Install Homebrew. This will also download Command Line Tools for Xcode.
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
 * Install wget using `brew install wget`
-* Install VLC media player.
+* Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
 * Install Blender 4.5 LTS.
 
 More to follow.
