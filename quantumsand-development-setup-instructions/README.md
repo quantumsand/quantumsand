@@ -21,6 +21,7 @@ This means that development of each component can be done on all three of these 
 * Configure the path with VS Code; Launch VS Code; Open the Command Palette (Cmd+Shift+P); Type 'shell command'; Run the Shell Command: Install 'code' command in PATH command.
 * Generate a new SSH key; if you do not have one already; `ssh-keygen -t ed25519 -C "your_email@example.com"`
 * Install scm_breeze.
+* Configure your git identity; if you have not done so already; `git config --global --edit`
 
 More to follow.
 
