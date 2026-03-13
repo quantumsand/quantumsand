@@ -15,6 +15,8 @@ This means that development of each component can be done on all three of these 
 * Install Blender 4.5 LTS (Apple Silicon); make sure it is the arm64 dmg.
 * Install Wacom tablet macOS driver; if you have a Wacom tablet; double click the pkg within the dmg.
 * Install Krita.
+* Install Mozilla Firefox.
+* Install Google Chrome.
 
 More to follow.
 
