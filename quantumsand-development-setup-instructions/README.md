@@ -17,6 +17,7 @@ This means that development of each component can be done on all three of these 
 * Install Krita.
 * Install Mozilla Firefox.
 * Install Google Chrome.
+* Install Visual Studio Code (Apple Silicon); make sure it is the arm64 dmg.
 
 More to follow.
 
