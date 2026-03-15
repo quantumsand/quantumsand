@@ -39,9 +39,11 @@ Quantum Sand Live needs privileged access in order to format disks. Please enter
 ## Crossdev
 
 To build a cross toolchain, specify the target with the `--target` flag, such as:
+
 `crossdev --target aarch64-unknown-linux-gnu`
 
 To use the host LLVM toolchain as a cross compiler instead of compiling a target specific GCC toolchain, use the --llvm flag.
+
 `crossdev --llvm --target aarch64-gentoo-linux-musl`
 
 Manual build consists of installation of **glibc** and **@system** without recording them in **@world**.
