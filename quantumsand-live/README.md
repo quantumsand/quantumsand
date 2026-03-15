@@ -54,4 +54,5 @@ aarch64-unknown-linux-gnu-emerge -v1 @system
 ```
 
 Thanks to: https://wiki.gentoo.org/wiki/Crossdev
+
 User contributions are licensed under the CC-BY-SA-4.0 license.
