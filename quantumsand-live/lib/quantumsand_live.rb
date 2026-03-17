@@ -3910,7 +3910,8 @@ class QuantumsandLive
       "raspberrypi/openocd",
       "msteveb/jimtcl",
       "Xilinx/mlir-aie",
-      "Xilinx/XilinxBoardStore"
+      "Xilinx/XilinxBoardStore",
+      "Xilinx/cmakeModules"
     ]
 
     git_repos_chromium_googlesource = [
