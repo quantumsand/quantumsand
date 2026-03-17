@@ -3898,7 +3898,8 @@ class QuantumsandLive
       "uxlfoundation/oneTBB",
       "system76/launch",
       "system76/qmk_firmware",
-      "pop-os/keyboard-configurator"
+      "pop-os/keyboard-configurator",
+      "qmk/ChibiOS"
     ]
 
     git_repos_chromium_googlesource = [
