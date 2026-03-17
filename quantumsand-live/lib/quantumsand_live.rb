@@ -3908,7 +3908,8 @@ class QuantumsandLive
       "qmk/pico-sdk",
       "qmk/lvgl",
       "raspberrypi/openocd",
-      "msteveb/jimtcl"
+      "msteveb/jimtcl",
+      "Xilinx/mlir-aie"
     ]
 
     git_repos_chromium_googlesource = [
