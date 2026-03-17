@@ -3909,7 +3909,8 @@ class QuantumsandLive
       "qmk/lvgl",
       "raspberrypi/openocd",
       "msteveb/jimtcl",
-      "Xilinx/mlir-aie"
+      "Xilinx/mlir-aie",
+      "Xilinx/XilinxBoardStore"
     ]
 
     git_repos_chromium_googlesource = [
