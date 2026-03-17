@@ -3903,7 +3903,8 @@ class QuantumsandLive
       "qmk/ChibiOS-Contrib",
       "nxp-mcuxpresso/legacy-mcux-sdk",
       "qmk/lufa",
-      "qmk/v-usb"
+      "qmk/v-usb",
+      "qmk/printf"
     ]
 
     git_repos_chromium_googlesource = [
