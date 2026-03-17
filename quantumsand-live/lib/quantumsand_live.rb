@@ -3895,7 +3895,8 @@ class QuantumsandLive
       "semio-ai/vkfft-rs",
       "vulkano-rs/vulkano",
       "krakenrf/Ne10",
-      "uxlfoundation/oneTBB"
+      "uxlfoundation/oneTBB",
+      "system76/launch"
     ]
 
     git_repos_chromium_googlesource = [
