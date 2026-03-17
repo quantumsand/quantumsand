@@ -3905,7 +3905,8 @@ class QuantumsandLive
       "qmk/lufa",
       "qmk/v-usb",
       "qmk/printf",
-      "qmk/pico-sdk"
+      "qmk/pico-sdk",
+      "qmk/lvgl"
     ]
 
     git_repos_chromium_googlesource = [
