@@ -3906,7 +3906,8 @@ class QuantumsandLive
       "qmk/v-usb",
       "qmk/printf",
       "qmk/pico-sdk",
-      "qmk/lvgl"
+      "qmk/lvgl",
+      "raspberrypi/openocd"
     ]
 
     git_repos_chromium_googlesource = [
