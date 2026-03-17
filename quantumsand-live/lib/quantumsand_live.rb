@@ -3904,7 +3904,8 @@ class QuantumsandLive
       "nxp-mcuxpresso/legacy-mcux-sdk",
       "qmk/lufa",
       "qmk/v-usb",
-      "qmk/printf"
+      "qmk/printf",
+      "qmk/pico-sdk"
     ]
 
     git_repos_chromium_googlesource = [
