@@ -4237,6 +4237,10 @@ class QuantumsandLive
       "oai/cn5g/oai-cn5g-common-ci"
     ]
 
+    git_repos_zapb_de_gitlab = [
+      "libjaylink/libjaylink"
+    ]
+
     git_repos_inria_fr_gitlab = [
       "mpc/mpc"
     ]
