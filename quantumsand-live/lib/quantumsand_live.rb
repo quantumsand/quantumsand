@@ -3913,7 +3913,8 @@ class QuantumsandLive
       "Xilinx/XilinxBoardStore",
       "Xilinx/cmakeModules",
       "stephenneuendorffer/aie-rt",
-      "Xilinx/aie-rt"
+      "Xilinx/aie-rt",
+      "jgmelber/bootgen"
     ]
 
     git_repos_chromium_googlesource = [
