@@ -3911,7 +3911,8 @@ class QuantumsandLive
       "msteveb/jimtcl",
       "Xilinx/mlir-aie",
       "Xilinx/XilinxBoardStore",
-      "Xilinx/cmakeModules"
+      "Xilinx/cmakeModules",
+      "stephenneuendorffer/aie-rt"
     ]
 
     git_repos_chromium_googlesource = [
