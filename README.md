@@ -173,4 +173,7 @@ Vital for Quantum Sand;
 * Ruby on Rails is licensed under the MIT License.
 * PostGIS is licensed under the GNU General Public License, either version 2 or (at your option) any later version.
 * PostgreSQL is licensed under the PostgreSQL License.
+* React is licensed under the MIT License.
+* Rust is dual-licensed under the MIT License and Apache License 2.0
+* Ruby is dual-licensed under either the 2-clause BSDL (Simplified BSD License) or the custom Ruby License.
 * Hundreds of developers for all of the deps I am using.
