@@ -3896,7 +3896,8 @@ class QuantumsandLive
       "vulkano-rs/vulkano",
       "krakenrf/Ne10",
       "uxlfoundation/oneTBB",
-      "system76/launch"
+      "system76/launch",
+      "system76/qmk_firmware"
     ]
 
     git_repos_chromium_googlesource = [
