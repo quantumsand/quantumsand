@@ -3897,7 +3897,8 @@ class QuantumsandLive
       "krakenrf/Ne10",
       "uxlfoundation/oneTBB",
       "system76/launch",
-      "system76/qmk_firmware"
+      "system76/qmk_firmware",
+      "pop-os/keyboard-configurator"
     ]
 
     git_repos_chromium_googlesource = [
