@@ -3943,7 +3943,8 @@ class QuantumsandLive
       "ros/cheatsheet",
       "TeX-Live/texlive-source",
       "TeX-Live/texlive-infra",
-      "TeX-Live/installer"
+      "TeX-Live/installer",
+      "TeX-Live/texdoc"
     ]
 
     git_repos_chromium_googlesource = [
