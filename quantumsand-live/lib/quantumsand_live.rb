@@ -3916,7 +3916,8 @@ class QuantumsandLive
       "Xilinx/aie-rt",
       "jgmelber/bootgen",
       "jgmelber/aie_api",
-      "ros-drivers/rosserial-experimental"
+      "ros-drivers/rosserial-experimental",
+      "ros-drivers/sicktoolbox"
     ]
 
     git_repos_chromium_googlesource = [
