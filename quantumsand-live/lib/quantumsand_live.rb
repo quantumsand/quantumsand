@@ -3955,7 +3955,8 @@ class QuantumsandLive
       "ros/diagnostics",
       "ros/documentation",
       "ros/dynamic_reconfigure",
-      "sorenlouv/backport"
+      "sorenlouv/backport",
+      "ros/eigen_stl_containers"
     ]
 
     git_repos_chromium_googlesource = [
