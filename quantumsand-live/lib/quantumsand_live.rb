@@ -3961,7 +3961,8 @@ class QuantumsandLive
       "ros/filters",
       "ros/flirtlib",
       "ros/gencpp",
-      "ros/genlisp"
+      "ros/genlisp",
+      "KhronosGroup/OpenGL-Registry"
     ]
 
     git_repos_chromium_googlesource = [
