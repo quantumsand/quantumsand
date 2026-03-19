@@ -3924,7 +3924,8 @@ class QuantumsandLive
       "ros-drivers/um6",
       "ros-drivers/um7",
       "ros-drivers/urg_c",
-      "ros-drivers/urg_node"
+      "ros-drivers/urg_node",
+      "ros-drivers/urg_node_msgs"
     ]
 
     git_repos_chromium_googlesource = [
