@@ -3953,7 +3953,8 @@ class QuantumsandLive
       "ros/console_bridge",
       "ros/convex_decomposition",
       "ros/diagnostics",
-      "ros/documentation"
+      "ros/documentation",
+      "ros/dynamic_reconfigure"
     ]
 
     git_repos_chromium_googlesource = [
