@@ -3950,7 +3950,8 @@ class QuantumsandLive
       "ros/common_msgs",
       "ros/cmake_modules",
       "ros/common_tutorials",
-      "ros/console_bridge"
+      "ros/console_bridge",
+      "ros/convex_decomposition"
     ]
 
     git_repos_chromium_googlesource = [
