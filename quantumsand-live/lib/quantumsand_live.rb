@@ -3915,7 +3915,8 @@ class QuantumsandLive
       "stephenneuendorffer/aie-rt",
       "Xilinx/aie-rt",
       "jgmelber/bootgen",
-      "jgmelber/aie_api"
+      "jgmelber/aie_api",
+      "ros-drivers/rosserial-experimental"
     ]
 
     git_repos_chromium_googlesource = [
