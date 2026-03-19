@@ -3940,7 +3940,8 @@ class QuantumsandLive
       "ros/bond_core",
       "ros/catkin",
       "ros/catkin_tutorials",
-      "ros/cheatsheet"
+      "ros/cheatsheet",
+      "TeX-Live/texlive-source"
     ]
 
     git_repos_chromium_googlesource = [
