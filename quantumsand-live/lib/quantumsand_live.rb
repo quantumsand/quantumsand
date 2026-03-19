@@ -3937,7 +3937,8 @@ class QuantumsandLive
       "mchehab/zbar",
       "ros/actionlib",
       "ros/angles",
-      "ros/bond_core"
+      "ros/bond_core",
+      "ros/catkin"
     ]
 
     git_repos_chromium_googlesource = [
