@@ -3948,7 +3948,8 @@ class QuantumsandLive
       "TeX-Live/xetex",
       "ros/class_loader",
       "ros/common_msgs",
-      "ros/cmake_modules"
+      "ros/cmake_modules",
+      "ros/common_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
