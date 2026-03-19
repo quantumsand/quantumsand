@@ -3935,7 +3935,8 @@ class QuantumsandLive
       "ros-drivers/zbar_ros",
       "willglynn/ruby-zbar",
       "mchehab/zbar",
-      "ros/actionlib"
+      "ros/actionlib",
+      "ros/angles"
     ]
 
     git_repos_chromium_googlesource = [
