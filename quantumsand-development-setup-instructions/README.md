@@ -22,9 +22,11 @@ This means that development of each component can be done on all three of these 
 * Generate a new SSH key; if you do not have one already; `ssh-keygen -t ed25519 -C "your_email@example.com"`
 * Install scm_breeze.
 * Configure your git identity; if you have not done so already; `git config --global --edit`
+* Clone the Quantum Sand repo; `git clone https://github.com/quantumsand/quantumsand.git`
+* Launch Visual Studio Code; `code quantumsand`
 * Download Rustup and install Rust; `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 * Rust installer; Proceed with standard installation (default - just press enter)
-* Test your Rust installation by running Doggo:
+* Test your Rust installation by running Doggo;
   * `cd quantumsand-videogame-doggo`
   * `cargo run quantumsand-videogame-doggo`
 
