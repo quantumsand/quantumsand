@@ -3933,7 +3933,8 @@ class QuantumsandLive
       "ros-drivers/wge100_driver",
       "ros-drivers/wifi_ddwrt",
       "ros-drivers/zbar_ros",
-      "willglynn/ruby-zbar"
+      "willglynn/ruby-zbar",
+      "mchehab/zbar"
     ]
 
     git_repos_chromium_googlesource = [
