@@ -3957,7 +3957,8 @@ class QuantumsandLive
       "ros/dynamic_reconfigure",
       "sorenlouv/backport",
       "ros/eigen_stl_containers",
-      "ros/executive_smach"
+      "ros/executive_smach",
+      "ros/filters"
     ]
 
     git_repos_chromium_googlesource = [
