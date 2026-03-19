@@ -3946,7 +3946,8 @@ class QuantumsandLive
       "TeX-Live/installer",
       "TeX-Live/texdoc",
       "TeX-Live/xetex",
-      "ros/class_loader"
+      "ros/class_loader",
+      "ros/common_msgs"
     ]
 
     git_repos_chromium_googlesource = [
