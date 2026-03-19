@@ -3941,7 +3941,8 @@ class QuantumsandLive
       "ros/catkin",
       "ros/catkin_tutorials",
       "ros/cheatsheet",
-      "TeX-Live/texlive-source"
+      "TeX-Live/texlive-source",
+      "TeX-Live/texlive-infra"
     ]
 
     git_repos_chromium_googlesource = [
