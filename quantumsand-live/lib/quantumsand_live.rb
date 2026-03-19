@@ -3934,7 +3934,8 @@ class QuantumsandLive
       "ros-drivers/wifi_ddwrt",
       "ros-drivers/zbar_ros",
       "willglynn/ruby-zbar",
-      "mchehab/zbar"
+      "mchehab/zbar",
+      "ros/actionlib"
     ]
 
     git_repos_chromium_googlesource = [
