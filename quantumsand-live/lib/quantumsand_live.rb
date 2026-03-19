@@ -3918,7 +3918,8 @@ class QuantumsandLive
       "jgmelber/aie_api",
       "ros-drivers/rosserial-experimental",
       "ros-drivers/sicktoolbox",
-      "ros-drivers/sicktoolbox_wrapper"
+      "ros-drivers/sicktoolbox_wrapper",
+      "ros-drivers/smart_battery_msgs"
     ]
 
     git_repos_chromium_googlesource = [
