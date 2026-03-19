@@ -3959,7 +3959,8 @@ class QuantumsandLive
       "ros/eigen_stl_containers",
       "ros/executive_smach",
       "ros/filters",
-      "ros/flirtlib"
+      "ros/flirtlib",
+      "ros/gencpp"
     ]
 
     git_repos_chromium_googlesource = [
