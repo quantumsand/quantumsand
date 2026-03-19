@@ -3930,7 +3930,8 @@ class QuantumsandLive
       "ros-drivers/velodyne",
       "ros-drivers/video_stream_opencv",
       "ros-drivers/vrpn_client_ros",
-      "ros-drivers/wge100_driver"
+      "ros-drivers/wge100_driver",
+      "ros-drivers/wifi_ddwrt"
     ]
 
     git_repos_chromium_googlesource = [
