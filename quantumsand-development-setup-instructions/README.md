@@ -30,6 +30,8 @@ This means that development of each component can be done on all three of these 
 * Test your Rust installation by running Doggo;
   * `cd quantumsand-videogame-doggo`
   * `cargo run quantumsand-videogame-doggo`
+* Install PostGIS and PostgreSQL; `brew install postgis postgresql@18`
+* To start postgresql@18 now and restart at login: `brew services start postgresql@18`
 
 More to follow.
 
