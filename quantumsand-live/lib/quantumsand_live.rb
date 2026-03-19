@@ -3919,7 +3919,8 @@ class QuantumsandLive
       "ros-drivers/rosserial-experimental",
       "ros-drivers/sicktoolbox",
       "ros-drivers/sicktoolbox_wrapper",
-      "ros-drivers/smart_battery_msgs"
+      "ros-drivers/smart_battery_msgs",
+      "ros-drivers/transport_drivers"
     ]
 
     git_repos_chromium_googlesource = [
