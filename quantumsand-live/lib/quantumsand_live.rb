@@ -3922,7 +3922,8 @@ class QuantumsandLive
       "ros-drivers/smart_battery_msgs",
       "ros-drivers/transport_drivers",
       "ros-drivers/um6",
-      "ros-drivers/um7"
+      "ros-drivers/um7",
+      "ros-drivers/urg_c"
     ]
 
     git_repos_chromium_googlesource = [
