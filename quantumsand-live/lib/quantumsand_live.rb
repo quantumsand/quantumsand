@@ -3949,7 +3949,8 @@ class QuantumsandLive
       "ros/class_loader",
       "ros/common_msgs",
       "ros/cmake_modules",
-      "ros/common_tutorials"
+      "ros/common_tutorials",
+      "ros/console_bridge"
     ]
 
     git_repos_chromium_googlesource = [
