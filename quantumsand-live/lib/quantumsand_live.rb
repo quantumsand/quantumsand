@@ -3926,7 +3926,8 @@ class QuantumsandLive
       "ros-drivers/urg_c",
       "ros-drivers/urg_node",
       "ros-drivers/urg_node_msgs",
-      "ros-drivers/usb_cam"
+      "ros-drivers/usb_cam",
+      "ros-drivers/velodyne"
     ]
 
     git_repos_chromium_googlesource = [
