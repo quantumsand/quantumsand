@@ -3938,7 +3938,8 @@ class QuantumsandLive
       "ros/actionlib",
       "ros/angles",
       "ros/bond_core",
-      "ros/catkin"
+      "ros/catkin",
+      "ros/catkin_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
