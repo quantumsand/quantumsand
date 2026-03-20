@@ -3975,7 +3975,8 @@ class QuantumsandLive
       "ros/kdl_parser_py",
       "ros/media_export",
       "ros/message_generation",
-      "ros/message_runtime"
+      "ros/message_runtime",
+      "ros/meta-ros"
     ]
 
     git_repos_chromium_googlesource = [
