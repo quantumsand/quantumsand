@@ -3981,7 +3981,8 @@ class QuantumsandLive
       "ros/metapackages",
       "ros/nodelet_core",
       "ros/opencv3_transitional",
-      "ros/pluginlib"
+      "ros/pluginlib",
+      "ros/resource_retriever"
     ]
 
     git_repos_chromium_googlesource = [
