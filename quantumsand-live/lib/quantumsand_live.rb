@@ -4265,6 +4265,10 @@ class QuantumsandLive
       "SatDump/Resources"
     ]
 
+    git_repos_openembedded_org = [
+      "bitbake"
+    ]
+
     git_repos_m_labs_hk = [
       "M-Labs/misoc",
       "M-Labs/migen"
