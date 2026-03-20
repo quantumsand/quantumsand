@@ -3999,7 +3999,8 @@ class QuantumsandLive
       "ros/rospack",
       "ros-infrastructure/catkin_pkg",
       "lbolla/EMpy",
-      "nose-devs/nose"
+      "nose-devs/nose",
+      "ros/ros_comm"
     ]
 
     git_repos_chromium_googlesource = [
