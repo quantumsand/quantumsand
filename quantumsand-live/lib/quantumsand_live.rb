@@ -4003,7 +4003,8 @@ class QuantumsandLive
       "ros/ros_comm",
       "ros/ros_comm_msgs",
       "ros/ros_environment",
-      "ros/ros_message_user_examples"
+      "ros/ros_message_user_examples",
+      "test-prof/test-prof"
     ]
 
     git_repos_chromium_googlesource = [
