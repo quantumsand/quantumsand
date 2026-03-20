@@ -5433,7 +5433,8 @@ class QuantumsandLive
       "sys-fs/fuse",
       "sys-kernel/gentoo-sources",
       "net-im/ejabberd",
-      "media-gfx/zbar"
+      "media-gfx/zbar",
+      "dev-lisp/sbcl"
     ]
 
     gentoo_eselect_repository_add = {
