@@ -47,10 +47,18 @@ This means that development of each component can be done on all three of these 
 
 More to follow.
 
-## Windows setup
+## Windows setup (x86_64)
 
 More to follow.
 
-## Linux setup
+## Windows setup (arm64)
+
+More to follow.
+
+## Linux setup (x86_64)
+
+More to follow.
+
+## Linux setup (arm64)
 
 More to follow.
