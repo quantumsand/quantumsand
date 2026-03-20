@@ -4001,7 +4001,8 @@ class QuantumsandLive
       "lbolla/EMpy",
       "nose-devs/nose",
       "ros/ros_comm",
-      "ros/ros_comm_msgs"
+      "ros/ros_comm_msgs",
+      "ros/ros_environment"
     ]
 
     git_repos_chromium_googlesource = [
