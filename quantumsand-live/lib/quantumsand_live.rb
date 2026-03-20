@@ -4002,7 +4002,8 @@ class QuantumsandLive
       "nose-devs/nose",
       "ros/ros_comm",
       "ros/ros_comm_msgs",
-      "ros/ros_environment"
+      "ros/ros_environment",
+      "ros/ros_message_user_examples"
     ]
 
     git_repos_chromium_googlesource = [
