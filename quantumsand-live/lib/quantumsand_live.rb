@@ -3965,7 +3965,8 @@ class QuantumsandLive
       "KhronosGroup/OpenGL-Registry",
       "ros/genmsg",
       "ros/genpy",
-      "ros/genpybindings"
+      "ros/genpybindings",
+      "ros/gentypelibxml"
     ]
 
     git_repos_chromium_googlesource = [
