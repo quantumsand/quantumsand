@@ -32,6 +32,18 @@ This means that development of each component can be done on all three of these 
   * `cargo run quantumsand-videogame-doggo`
 * Install PostGIS and PostgreSQL; `brew install postgis postgresql@18`
 * To start postgresql@18 now and restart at login: `brew services start postgresql@18`
+* Install gnupg; `brew install gnupg`
+* Fetch the public keys for RVM;
+  * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
+  * `command curl -sSL https://rvm.io/pkuczynski.asc | gpg --import -`
+* Install Ruby enVironment Manager (RVM); `curl -sSL https://get.rvm.io | bash -s stable`
+* After installation, restart your Terminal or run; `source ~/.rvm/scripts/rvm`
+* Install dependencies for Ruby; `brew install autoconf automake pkg-config coreutils libyaml zlib openssl`
+* Update RVM to the latest development version directly from the master branch `rvm get master`
+* Install Ruby 4.0.2; `rvm install ruby-4.0.2`
+* Test the Ruby installation;
+  * `ruby -v`
+  * You should see; `ruby 4.0.2 (2026-03-17 revision d3da9fec82) +PRISM [arm64-darwin25]`
 
 More to follow.
 
