@@ -4007,7 +4007,8 @@ class QuantumsandLive
       "test-prof/test-prof",
       "ruby-prof/ruby-prof",
       "tmm1/stackprof",
-      "gperftools/gperftools"
+      "gperftools/gperftools",
+      "tmm1/perftools.rb"
     ]
 
     git_repos_chromium_googlesource = [
