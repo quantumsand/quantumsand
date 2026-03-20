@@ -5449,7 +5449,8 @@ class QuantumsandLive
       "sys-kernel/gentoo-sources",
       "net-im/ejabberd",
       "media-gfx/zbar",
-      "dev-lisp/sbcl"
+      "dev-lisp/sbcl",
+      "dev-util/google-perftools"
     ]
 
     gentoo_eselect_repository_add = {
