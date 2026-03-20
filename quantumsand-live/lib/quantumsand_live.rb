@@ -3987,7 +3987,8 @@ class QuantumsandLive
       "ros-infrastructure/superflore",
       "ros/ros-overlay",
       "ros/rosbag_image_compressor",
-      "ros/rosbag_migration_rule"
+      "ros/rosbag_migration_rule",
+      "ros/rosbag_snapshot"
     ]
 
     git_repos_chromium_googlesource = [
