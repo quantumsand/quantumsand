@@ -4010,7 +4010,8 @@ class QuantumsandLive
       "gperftools/gperftools",
       "tmm1/perftools.rb",
       "rbspy/rbspy",
-      "jeremyevans/ruby-refrigerator"
+      "jeremyevans/ruby-refrigerator",
+      "enriclluelles/route_translator"
     ]
 
     git_repos_chromium_googlesource = [
