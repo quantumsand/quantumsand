@@ -3972,7 +3972,8 @@ class QuantumsandLive
       "ros/geometry_tutorials",
       "ros/homebrew-deps",
       "ros/ivcon",
-      "ros/kdl_parser_py"
+      "ros/kdl_parser_py",
+      "ros/media_export"
     ]
 
     git_repos_chromium_googlesource = [
