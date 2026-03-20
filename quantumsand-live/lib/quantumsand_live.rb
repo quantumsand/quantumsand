@@ -4012,7 +4012,8 @@ class QuantumsandLive
       "rbspy/rbspy",
       "jeremyevans/ruby-refrigerator",
       "enriclluelles/route_translator",
-      "matheusrich/rails-diff"
+      "matheusrich/rails-diff",
+      "suketa/ruby-duckdb"
     ]
 
     git_repos_chromium_googlesource = [
