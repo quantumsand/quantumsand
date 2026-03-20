@@ -3977,7 +3977,8 @@ class QuantumsandLive
       "ros/message_generation",
       "ros/message_runtime",
       "ros/meta-ros",
-      "ros/meta-ros-webos"
+      "ros/meta-ros-webos",
+      "ros/metapackages"
     ]
 
     git_repos_chromium_googlesource = [
