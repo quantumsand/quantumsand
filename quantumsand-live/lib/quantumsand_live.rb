@@ -3992,7 +3992,8 @@ class QuantumsandLive
       "ros/rosconsole",
       "ros/rosconsole_bridge",
       "ros/roscpp_core",
-      "ros/roslint"
+      "ros/roslint",
+      "ros/roslisp"
     ]
 
     git_repos_chromium_googlesource = [
