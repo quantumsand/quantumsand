@@ -3990,7 +3990,8 @@ class QuantumsandLive
       "ros/rosbag_migration_rule",
       "ros/rosbag_snapshot",
       "ros/rosconsole",
-      "ros/rosconsole_bridge"
+      "ros/rosconsole_bridge",
+      "ros/roscpp_core"
     ]
 
     git_repos_chromium_googlesource = [
