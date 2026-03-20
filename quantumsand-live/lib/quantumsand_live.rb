@@ -3984,7 +3984,8 @@ class QuantumsandLive
       "ros/pluginlib",
       "ros/resource_retriever",
       "ros/ros",
-      "ros-infrastructure/superflore"
+      "ros-infrastructure/superflore",
+      "ros/ros-overlay"
     ]
 
     git_repos_chromium_googlesource = [
