@@ -4266,7 +4266,8 @@ class QuantumsandLive
     ]
 
     git_repos_openembedded_org = [
-      "bitbake"
+      "bitbake",
+      "openembedded-core"
     ]
 
     git_repos_m_labs_hk = [
