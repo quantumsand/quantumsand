@@ -4011,7 +4011,8 @@ class QuantumsandLive
       "tmm1/perftools.rb",
       "rbspy/rbspy",
       "jeremyevans/ruby-refrigerator",
-      "enriclluelles/route_translator"
+      "enriclluelles/route_translator",
+      "matheusrich/rails-diff"
     ]
 
     git_repos_chromium_googlesource = [
