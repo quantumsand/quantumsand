@@ -3968,7 +3968,8 @@ class QuantumsandLive
       "ros/genpybindings",
       "ros/gentypelibxml",
       "ros/geometry",
-      "ros/geometry2"
+      "ros/geometry2",
+      "ros/geometry_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
