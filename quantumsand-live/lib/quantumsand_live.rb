@@ -3969,7 +3969,8 @@ class QuantumsandLive
       "ros/gentypelibxml",
       "ros/geometry",
       "ros/geometry2",
-      "ros/geometry_tutorials"
+      "ros/geometry_tutorials",
+      "ros/homebrew-deps"
     ]
 
     git_repos_chromium_googlesource = [
