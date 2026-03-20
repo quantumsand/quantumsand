@@ -3994,7 +3994,8 @@ class QuantumsandLive
       "ros/roscpp_core",
       "ros/roslint",
       "ros/roslisp",
-      "ros/roslisp_common"
+      "ros/roslisp_common",
+      "ros/roslisp_repl"
     ]
 
     git_repos_chromium_googlesource = [
