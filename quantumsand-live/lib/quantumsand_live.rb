@@ -4014,7 +4014,8 @@ class QuantumsandLive
       "enriclluelles/route_translator",
       "matheusrich/rails-diff",
       "suketa/ruby-duckdb",
-      "marcoroth/herb"
+      "marcoroth/herb",
+      "httprb/http"
     ]
 
     git_repos_chromium_googlesource = [
