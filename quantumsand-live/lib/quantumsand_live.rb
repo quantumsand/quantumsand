@@ -4013,7 +4013,8 @@ class QuantumsandLive
       "jeremyevans/ruby-refrigerator",
       "enriclluelles/route_translator",
       "matheusrich/rails-diff",
-      "suketa/ruby-duckdb"
+      "suketa/ruby-duckdb",
+      "marcoroth/herb"
     ]
 
     git_repos_chromium_googlesource = [
