@@ -3997,7 +3997,8 @@ class QuantumsandLive
       "ros/roslisp_common",
       "ros/roslisp_repl",
       "ros/rospack",
-      "ros-infrastructure/catkin_pkg"
+      "ros-infrastructure/catkin_pkg",
+      "lbolla/EMpy"
     ]
 
     git_repos_chromium_googlesource = [
