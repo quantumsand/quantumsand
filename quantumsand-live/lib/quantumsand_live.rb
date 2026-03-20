@@ -4006,7 +4006,8 @@ class QuantumsandLive
       "ros/ros_message_user_examples",
       "test-prof/test-prof",
       "ruby-prof/ruby-prof",
-      "tmm1/stackprof"
+      "tmm1/stackprof",
+      "gperftools/gperftools"
     ]
 
     git_repos_chromium_googlesource = [
