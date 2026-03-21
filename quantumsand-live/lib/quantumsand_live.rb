@@ -4015,7 +4015,8 @@ class QuantumsandLive
       "matheusrich/rails-diff",
       "suketa/ruby-duckdb",
       "marcoroth/herb",
-      "httprb/http"
+      "httprb/http",
+      "fab2s/floDl"
     ]
 
     git_repos_chromium_googlesource = [
