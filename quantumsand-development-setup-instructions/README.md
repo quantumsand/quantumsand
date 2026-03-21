@@ -44,6 +44,21 @@ This means that development of each component can be done on all three of these 
 * Test the Ruby installation;
   * `ruby -v`
   * You should see; `ruby 4.0.2 (2026-03-17 revision d3da9fec82) +PRISM [arm64-darwin25]`
+* If you see the following message when you load your terminal...
+```bash
+SCM Breeze must be loaded after RVM, otherwise there will be a conflict when RVM wraps the 'cd' command.
+Please move the line that loads SCM Breeze to the bottom of your ~/.bashrc
+```
+* Edit your ~/.zshrc using `code ~/.zshrc` to look like this:
+```bash
+# Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
+export PATH="$PATH:$HOME/.rvm/bin"
+
+autoload -Uz compinit
+compinit
+[ -s "$HOME/.scm_breeze/scm_breeze.sh" ] && source "$HOME/.scm_breeze/scm_breeze.sh"
+```
+* Reload your terminal and the message should have disappeared.
 
 More to follow.
 
