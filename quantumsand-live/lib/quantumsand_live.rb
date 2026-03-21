@@ -4474,7 +4474,8 @@ class QuantumsandLive
       "lwip",
       "config",
       "readline",
-      "indent"
+      "indent",
+      "inetutils"
     ]
 
     git_repos_savannah_nongnu_org = [
