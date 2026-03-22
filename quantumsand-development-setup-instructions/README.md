@@ -59,8 +59,22 @@ compinit
 [ -s "$HOME/.scm_breeze/scm_breeze.sh" ] && source "$HOME/.scm_breeze/scm_breeze.sh"
 ```
 * Reload your terminal and the message should have disappeared.
-
-More to follow.
+* Install Node Version Manager nvm; `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash`
+* Close and reopen your terminal to start using nvm.
+* Install Node.js; `nvm install 25.8.1`
+* You should see the following message:
+```bash
+Now using node v25.8.1 (npm v11.11.0)
+Creating default alias: default -> 25.8.1 (-> v25.8.1 *)
+```
+* Test your Node.js installation by running quantumsand-ui-react;
+  * `cd quantumsand-ui-react`
+  * `npm i --legacy-peer-deps`
+  * NOTE; there are known vulnerabilities in the dependency tree; at the moment do not worry about this.
+  * `npm start`
+  * If you see a popup with: “Visual Studio Code” wants access to control “Google Chrome”. Click Allow.
+  * Inside Google Chrome visit one of the UI endpoint urls by typing this localhost address into the Chrome address bar: `http://localhost:3001/narrativesync`
+  * You should see the React component for NarrativeSync.
 
 ## Windows setup (x86_64)
 
