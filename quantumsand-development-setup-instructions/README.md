@@ -76,6 +76,17 @@ Creating default alias: default -> 25.8.1 (-> v25.8.1 *)
   * Inside Google Chrome visit one of the UI endpoint urls by typing this localhost address into the Chrome address bar: 
   * `http://localhost:3001/narrativesync`
   * You should see the React component for NarrativeSync.
+* Install Qt; `brew install qt`
+* Install CMake; `brew install cmake`
+* Test your Qt installation by running quantumsand-qt;
+```bash
+cd quantumsand-qt
+mkdir build
+cd build
+Qt6_DIR='/opt/brew' cmake .. -DCMAKE_PREFIX_PATH='/opt/brew'
+make
+./quantumsand
+```
 
 ## Windows setup (x86_64)
 
