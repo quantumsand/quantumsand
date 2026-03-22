@@ -90,6 +90,8 @@ make
 ./quantumsand
 ```
 
+More to follow.
+
 ## Windows setup (x86_64)
 
 More to follow.
