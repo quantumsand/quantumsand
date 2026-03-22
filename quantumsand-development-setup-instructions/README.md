@@ -59,6 +59,8 @@ compinit
 [ -s "$HOME/.scm_breeze/scm_breeze.sh" ] && source "$HOME/.scm_breeze/scm_breeze.sh"
 ```
 * Reload your terminal and the message should have disappeared.
+* Install missing fonts;
+* `brew install font-noto-sans-arabic font-noto-sans-jp font-noto-sans font-scheherazade`
 * Install Node Version Manager nvm; `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash`
 * Close and reopen your terminal to start using nvm.
 * Install Node.js; `nvm install 25.8.1`
