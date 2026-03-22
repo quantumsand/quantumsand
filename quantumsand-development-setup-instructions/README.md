@@ -73,7 +73,8 @@ Creating default alias: default -> 25.8.1 (-> v25.8.1 *)
   * NOTE; there are known vulnerabilities in the dependency tree; at the moment do not worry about this.
   * `npm start`
   * If you see a popup with: “Visual Studio Code” wants access to control “Google Chrome”. Click Allow.
-  * Inside Google Chrome visit one of the UI endpoint urls by typing this localhost address into the Chrome address bar: `http://localhost:3001/narrativesync`
+  * Inside Google Chrome visit one of the UI endpoint urls by typing this localhost address into the Chrome address bar: 
+  * `http://localhost:3001/narrativesync`
   * You should see the React component for NarrativeSync.
 
 ## Windows setup (x86_64)
