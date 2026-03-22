@@ -4016,7 +4016,8 @@ class QuantumsandLive
       "suketa/ruby-duckdb",
       "marcoroth/herb",
       "httprb/http",
-      "fab2s/floDl"
+      "fab2s/floDl",
+      "sashiko-dev/sashiko"
     ]
 
     git_repos_chromium_googlesource = [
