@@ -4059,7 +4059,8 @@ class QuantumsandLive
       "sailfishos/sailfish-fonts",
       "sailfishos/sailfish-log-viewer",
       "monich/harbour-lib",
-      "sailfishos/sailfish-nfcshare"
+      "sailfishos/sailfish-nfcshare",
+      "sailfishos/sailfish-office"
     ]
 
     git_repos_chromium_googlesource = [
