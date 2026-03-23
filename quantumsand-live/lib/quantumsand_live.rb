@@ -4034,7 +4034,8 @@ class QuantumsandLive
       "ros/tf2_visualization",
       "ros/urdf_launch",
       "ros/urdf_parser_py",
-      "ros/urdf_sim_tutorial"
+      "ros/urdf_sim_tutorial",
+      "ros/urdf_tutorial"
     ]
 
     git_repos_chromium_googlesource = [
