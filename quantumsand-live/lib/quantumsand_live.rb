@@ -4026,7 +4026,8 @@ class QuantumsandLive
       "facebookresearch/sam2",
       "huggingface/huggingface_hub",
       "OpenShot/openshot-replay",
-      "ros/ros_realtime"
+      "ros/ros_realtime",
+      "ros/ros_tutorials"
     ]
 
     git_repos_chromium_googlesource = [
