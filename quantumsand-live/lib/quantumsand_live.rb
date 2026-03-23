@@ -4061,7 +4061,8 @@ class QuantumsandLive
       "monich/harbour-lib",
       "sailfishos/sailfish-nfcshare",
       "sailfishos/sailfish-office",
-      "sailfishos/sailfish-polkit-agent"
+      "sailfishos/sailfish-polkit-agent",
+      "sailfishos/sailfish-qdoc-template"
     ]
 
     git_repos_chromium_googlesource = [
