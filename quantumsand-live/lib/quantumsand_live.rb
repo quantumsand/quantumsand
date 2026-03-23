@@ -4067,7 +4067,8 @@ class QuantumsandLive
       "litehtml/litebrowser-linux",
       "litehtml/litehtml",
       "tensorzero/tensorzero",
-      "tensorzero/durable"
+      "tensorzero/durable",
+      "earendil-works/absurd"
     ]
 
     git_repos_chromium_googlesource = [
