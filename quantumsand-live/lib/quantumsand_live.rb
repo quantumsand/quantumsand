@@ -4060,7 +4060,8 @@ class QuantumsandLive
       "sailfishos/sailfish-log-viewer",
       "monich/harbour-lib",
       "sailfishos/sailfish-nfcshare",
-      "sailfishos/sailfish-office"
+      "sailfishos/sailfish-office",
+      "sailfishos/sailfish-polkit-agent"
     ]
 
     git_repos_chromium_googlesource = [
