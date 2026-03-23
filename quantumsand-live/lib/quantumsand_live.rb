@@ -4019,7 +4019,8 @@ class QuantumsandLive
       "fab2s/floDl",
       "sashiko-dev/sashiko",
       "OpenShot/openshot-qt",
-      "OpenShot/libopenshot"
+      "OpenShot/libopenshot",
+      "godotengine/godot-cpp"
     ]
 
     git_repos_chromium_googlesource = [
