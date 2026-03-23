@@ -4049,7 +4049,8 @@ class QuantumsandLive
       "ros-infrastructure/rosdoc_lite",
       "mamba-org/mamba",
       "ros-infrastructure/rosinstall_generator",
-      "ros-infrastructure/vcs2l"
+      "ros-infrastructure/vcs2l",
+      "mozilla/cbindgen"
     ]
 
     git_repos_chromium_googlesource = [
