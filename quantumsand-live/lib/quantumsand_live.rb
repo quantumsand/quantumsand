@@ -4676,7 +4676,8 @@ class QuantumsandLive
       "sfcgal/SFCGAL",
       "sfcgal/pysfcgal",
       "sfcgal/qsfcgal",
-      "sfcgal/sfcgal.js"
+      "sfcgal/sfcgal.js",
+      "cschalle/xmms-resuscitated"
     ]
 
     git_repos_freedesktop_gitlab = [
