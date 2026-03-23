@@ -4040,7 +4040,8 @@ class QuantumsandLive
       "ros-infrastructure/catkin-sphinx",
       "ros-infrastructure/catkinize",
       "ros-infrastructure/rosdep",
-      "ros-infrastructure/rosdistro"
+      "ros-infrastructure/rosdistro",
+      "ros-infrastructure/rosdistro-reviewer"
     ]
 
     git_repos_chromium_googlesource = [
