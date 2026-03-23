@@ -4024,7 +4024,8 @@ class QuantumsandLive
       "OpenShot/libopenshot-audio",
       "OpenShot/OpenShot-ComfyUI",
       "facebookresearch/sam2",
-      "huggingface/huggingface_hub"
+      "huggingface/huggingface_hub",
+      "OpenShot/openshot-replay"
     ]
 
     git_repos_chromium_googlesource = [
