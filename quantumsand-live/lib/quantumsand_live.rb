@@ -4042,7 +4042,8 @@ class QuantumsandLive
       "ros-infrastructure/rosdep",
       "ros-infrastructure/rosdistro",
       "ros-infrastructure/rosdistro-reviewer",
-      "ros-infrastructure/rosdoc2"
+      "ros-infrastructure/rosdoc2",
+      "pypa/virtualenv"
     ]
 
     git_repos_chromium_googlesource = [
