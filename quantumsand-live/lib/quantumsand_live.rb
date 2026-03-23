@@ -4032,7 +4032,8 @@ class QuantumsandLive
       "ros/std_msgs",
       "ros/swig-wx",
       "ros/tf2_visualization",
-      "ros/urdf_launch"
+      "ros/urdf_launch",
+      "ros/urdf_parser_py"
     ]
 
     git_repos_chromium_googlesource = [
