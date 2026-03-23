@@ -4041,7 +4041,8 @@ class QuantumsandLive
       "ros-infrastructure/catkinize",
       "ros-infrastructure/rosdep",
       "ros-infrastructure/rosdistro",
-      "ros-infrastructure/rosdistro-reviewer"
+      "ros-infrastructure/rosdistro-reviewer",
+      "ros-infrastructure/rosdoc2"
     ]
 
     git_repos_chromium_googlesource = [
