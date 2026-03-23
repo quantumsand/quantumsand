@@ -4036,7 +4036,8 @@ class QuantumsandLive
       "ros/urdf_parser_py",
       "ros/urdf_sim_tutorial",
       "ros/urdf_tutorial",
-      "ros/xacro"
+      "ros/xacro",
+      "ros-infrastructure/catkin-sphinx"
     ]
 
     git_repos_chromium_googlesource = [
