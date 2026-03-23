@@ -4023,7 +4023,8 @@ class QuantumsandLive
       "godotengine/godot-cpp",
       "OpenShot/libopenshot-audio",
       "OpenShot/OpenShot-ComfyUI",
-      "facebookresearch/sam2"
+      "facebookresearch/sam2",
+      "huggingface/huggingface_hub"
     ]
 
     git_repos_chromium_googlesource = [
