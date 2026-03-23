@@ -4058,7 +4058,8 @@ class QuantumsandLive
       "sailfishos/sailfish-connman-plugin-iptables",
       "sailfishos/sailfish-fonts",
       "sailfishos/sailfish-log-viewer",
-      "monich/harbour-lib"
+      "monich/harbour-lib",
+      "sailfishos/sailfish-nfcshare"
     ]
 
     git_repos_chromium_googlesource = [
