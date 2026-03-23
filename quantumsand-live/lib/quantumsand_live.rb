@@ -4063,7 +4063,8 @@ class QuantumsandLive
       "sailfishos/sailfish-office",
       "sailfishos/sailfish-polkit-agent",
       "sailfishos/sailfish-qdoc-template",
-      "sailfishos/sailfish-qtcreator"
+      "sailfishos/sailfish-qtcreator",
+      "litehtml/litebrowser-linux"
     ]
 
     git_repos_chromium_googlesource = [
