@@ -4020,7 +4020,8 @@ class QuantumsandLive
       "sashiko-dev/sashiko",
       "OpenShot/openshot-qt",
       "OpenShot/libopenshot",
-      "godotengine/godot-cpp"
+      "godotengine/godot-cpp",
+      "OpenShot/libopenshot-audio"
     ]
 
     git_repos_chromium_googlesource = [
