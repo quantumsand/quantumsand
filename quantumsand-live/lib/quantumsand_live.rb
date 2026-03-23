@@ -4050,7 +4050,8 @@ class QuantumsandLive
       "mamba-org/mamba",
       "ros-infrastructure/rosinstall_generator",
       "ros-infrastructure/vcs2l",
-      "mozilla/cbindgen"
+      "mozilla/cbindgen",
+      "sailfishos/sailfish-access-control"
     ]
 
     git_repos_chromium_googlesource = [
