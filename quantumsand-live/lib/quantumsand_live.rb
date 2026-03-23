@@ -4053,7 +4053,8 @@ class QuantumsandLive
       "mozilla/cbindgen",
       "sailfishos/sailfish-access-control",
       "sailfishos/sailfish-account-nextcloud",
-      "sailfishos/sailfish-components-accounts"
+      "sailfishos/sailfish-components-accounts",
+      "sailfishos/sailfish-components-gallery"
     ]
 
     git_repos_chromium_googlesource = [
