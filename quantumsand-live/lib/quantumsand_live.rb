@@ -4045,7 +4045,8 @@ class QuantumsandLive
       "ros-infrastructure/rosdoc2",
       "pypa/virtualenv",
       "baszalmstra/libsolv",
-      "conda/rattler"
+      "conda/rattler",
+      "ros-infrastructure/rosdoc_lite"
     ]
 
     git_repos_chromium_googlesource = [
