@@ -20,6 +20,13 @@ Thanks to: https://github.com/rgeo/activerecord-postgis-adapter
 And: https://www.simplethread.com/geospatial-applications-using-rails/
 
 
+## Steps to reproduce this Rails app
+
+Step by step process to build this Rails app from scratch.
+
+More to follow.
+
+
 ## Database tables reference
 
 ### Grain table
