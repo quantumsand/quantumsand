@@ -4027,7 +4027,8 @@ class QuantumsandLive
       "huggingface/huggingface_hub",
       "OpenShot/openshot-replay",
       "ros/ros_realtime",
-      "ros/ros_tutorials"
+      "ros/ros_tutorials",
+      "ros/sdformat_urdf"
     ]
 
     git_repos_chromium_googlesource = [
