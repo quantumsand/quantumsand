@@ -5251,7 +5251,8 @@ class QuantumsandLive
       "utilities/powerplant",
       "utilities/qrca",
       "utilities/skanpage",
-      "utilities/okteta"
+      "utilities/okteta",
+      "qt/playground/qlitehtml"
     ]
 
     git_repos_ffmpeg_org = [
