@@ -4062,7 +4062,8 @@ class QuantumsandLive
       "sailfishos/sailfish-nfcshare",
       "sailfishos/sailfish-office",
       "sailfishos/sailfish-polkit-agent",
-      "sailfishos/sailfish-qdoc-template"
+      "sailfishos/sailfish-qdoc-template",
+      "sailfishos/sailfish-qtcreator"
     ]
 
     git_repos_chromium_googlesource = [
