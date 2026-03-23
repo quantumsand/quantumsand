@@ -4029,7 +4029,8 @@ class QuantumsandLive
       "ros/ros_realtime",
       "ros/ros_tutorials",
       "ros/sdformat_urdf",
-      "ros/std_msgs"
+      "ros/std_msgs",
+      "ros/swig-wx"
     ]
 
     git_repos_chromium_googlesource = [
