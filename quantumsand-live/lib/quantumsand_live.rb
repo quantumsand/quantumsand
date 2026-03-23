@@ -4018,7 +4018,8 @@ class QuantumsandLive
       "httprb/http",
       "fab2s/floDl",
       "sashiko-dev/sashiko",
-      "OpenShot/openshot-qt"
+      "OpenShot/openshot-qt",
+      "OpenShot/libopenshot"
     ]
 
     git_repos_chromium_googlesource = [
