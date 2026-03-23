@@ -4065,7 +4065,8 @@ class QuantumsandLive
       "sailfishos/sailfish-qdoc-template",
       "sailfishos/sailfish-qtcreator",
       "litehtml/litebrowser-linux",
-      "litehtml/litehtml"
+      "litehtml/litehtml",
+      "tensorzero/tensorzero"
     ]
 
     git_repos_chromium_googlesource = [
