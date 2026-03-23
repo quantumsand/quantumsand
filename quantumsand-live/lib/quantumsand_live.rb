@@ -4021,7 +4021,8 @@ class QuantumsandLive
       "OpenShot/openshot-qt",
       "OpenShot/libopenshot",
       "godotengine/godot-cpp",
-      "OpenShot/libopenshot-audio"
+      "OpenShot/libopenshot-audio",
+      "OpenShot/OpenShot-ComfyUI"
     ]
 
     git_repos_chromium_googlesource = [
