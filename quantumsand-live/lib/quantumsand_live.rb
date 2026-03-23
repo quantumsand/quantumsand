@@ -4051,7 +4051,8 @@ class QuantumsandLive
       "ros-infrastructure/rosinstall_generator",
       "ros-infrastructure/vcs2l",
       "mozilla/cbindgen",
-      "sailfishos/sailfish-access-control"
+      "sailfishos/sailfish-access-control",
+      "sailfishos/sailfish-account-nextcloud"
     ]
 
     git_repos_chromium_googlesource = [
