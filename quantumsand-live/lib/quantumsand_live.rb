@@ -4017,7 +4017,8 @@ class QuantumsandLive
       "marcoroth/herb",
       "httprb/http",
       "fab2s/floDl",
-      "sashiko-dev/sashiko"
+      "sashiko-dev/sashiko",
+      "OpenShot/openshot-qt"
     ]
 
     git_repos_chromium_googlesource = [
