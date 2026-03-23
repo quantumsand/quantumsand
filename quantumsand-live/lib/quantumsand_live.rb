@@ -4028,7 +4028,8 @@ class QuantumsandLive
       "OpenShot/openshot-replay",
       "ros/ros_realtime",
       "ros/ros_tutorials",
-      "ros/sdformat_urdf"
+      "ros/sdformat_urdf",
+      "ros/std_msgs"
     ]
 
     git_repos_chromium_googlesource = [
