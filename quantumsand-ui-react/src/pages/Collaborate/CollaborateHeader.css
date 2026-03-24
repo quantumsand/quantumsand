@@ -61,6 +61,10 @@
   outline-width: 0;
 }
 
+.collaborate__headerSearch > input:focus {
+  outline: none !important;
+}
+
 .collaborate__headerRight > .MuiSvgIcon-root {
   margin-left: auto;
   margin-right: 20px;
