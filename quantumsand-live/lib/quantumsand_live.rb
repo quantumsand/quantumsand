@@ -4068,7 +4068,8 @@ class QuantumsandLive
       "litehtml/litehtml",
       "tensorzero/tensorzero",
       "tensorzero/durable",
-      "earendil-works/absurd"
+      "earendil-works/absurd",
+      "NVIDIA/k8s-dra-driver-gpu"
     ]
 
     git_repos_chromium_googlesource = [
