@@ -24,7 +24,7 @@
 }
 
 .av__headerInput > input:focus {
-  outline-width: 0;
+  outline: none !important;
 }
 
 .av__headerInput > input {
