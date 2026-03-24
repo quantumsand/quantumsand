@@ -24,6 +24,8 @@ And: https://www.simplethread.com/geospatial-applications-using-rails/
 
 Step by step process to build this Rails app from scratch.
 
+These steps are essentially a template to build any geospatial app you can imagine.
+
 More to follow.
 
 
