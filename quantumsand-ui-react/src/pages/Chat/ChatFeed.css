@@ -55,7 +55,7 @@
 }
 
 .chat__feedFooter > form > input:focus {
-  outline-width: 0;
+  outline: none !important;
 }
 
 .chat__feedFooter > form > button {
