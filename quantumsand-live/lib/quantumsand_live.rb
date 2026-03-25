@@ -4713,7 +4713,8 @@ class QuantumsandLive
       "inkscape/lib2geom",
       "inkscape/themes",
       "inkscape/libcroco",
-      "inkscape/translations"
+      "inkscape/translations",
+      "inkscape/devel/libdepixelize"
     ]
 
     git_repos_freedesktop_gitlab = [
