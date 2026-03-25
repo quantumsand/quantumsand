@@ -4688,7 +4688,8 @@ class QuantumsandLive
       "cschalle/xmms-resuscitated",
       "sane-project/backends",
       "sane-project/standard",
-      "sane-project/frontends"
+      "sane-project/frontends",
+      "sane-project/frontend/sanescan"
     ]
 
     git_repos_freedesktop_gitlab = [
