@@ -5526,7 +5526,8 @@ class QuantumsandLive
       "app-misc/pax-utils",
       "sys-kernel/ugrd",
       "sys-kernel/installkernel",
-      "sys-apps/systemd"
+      "sys-apps/systemd",
+      "sys-fs/lvm2"
     ]
 
     gentoo_eselect_repository_add = {
