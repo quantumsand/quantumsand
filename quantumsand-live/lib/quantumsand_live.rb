@@ -4070,7 +4070,8 @@ class QuantumsandLive
       "tensorzero/durable",
       "earendil-works/absurd",
       "NVIDIA/k8s-dra-driver-gpu",
-      "OpenMP/sources"
+      "OpenMP/sources",
+      "OpenMP/Examples"
     ]
 
     git_repos_chromium_googlesource = [
