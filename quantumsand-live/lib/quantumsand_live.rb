@@ -4075,7 +4075,8 @@ class QuantumsandLive
       "projg2/installkernel-gentoo",
       "gentoo/genkernel",
       "alexpevzner/sane-airscan",
-      "nodejs/llhttp"
+      "nodejs/llhttp",
+      "SimulPiscator/AirSane"
     ]
 
     git_repos_chromium_googlesource = [
