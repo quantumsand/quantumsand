@@ -5539,7 +5539,8 @@ class QuantumsandLive
       "sys-kernel/installkernel",
       "sys-apps/systemd",
       "sys-fs/lvm2",
-      "sys-kernel/gentoo-kernel"
+      "sys-kernel/gentoo-kernel",
+      "media-gfx/sane-airscan"
     ]
 
     gentoo_eselect_repository_add = {
