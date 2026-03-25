@@ -4712,7 +4712,8 @@ class QuantumsandLive
       "inkscape/extras/extension-afdesign",
       "inkscape/lib2geom",
       "inkscape/themes",
-      "inkscape/libcroco"
+      "inkscape/libcroco",
+      "inkscape/translations"
     ]
 
     git_repos_freedesktop_gitlab = [
