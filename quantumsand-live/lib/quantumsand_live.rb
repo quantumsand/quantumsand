@@ -5522,7 +5522,8 @@ class QuantumsandLive
       "sys-fs/cryptsetup",
       "app-crypt/gnupg",
       "app-misc/pax-utils",
-      "sys-kernel/ugrd"
+      "sys-kernel/ugrd",
+      "sys-kernel/installkernel"
     ]
 
     gentoo_eselect_repository_add = {
