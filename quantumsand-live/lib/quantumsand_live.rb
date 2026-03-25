@@ -4709,7 +4709,8 @@ class QuantumsandLive
       "inkscape/extras/extension-manager",
       "inkscape/extras/inkscape-import-clipart",
       "inkscape/extras/extension-xaml",
-      "inkscape/extras/extension-afdesign"
+      "inkscape/extras/extension-afdesign",
+      "inkscape/lib2geom"
     ]
 
     git_repos_freedesktop_gitlab = [
