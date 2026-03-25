@@ -4687,7 +4687,8 @@ class QuantumsandLive
       "sfcgal/sfcgal.js",
       "cschalle/xmms-resuscitated",
       "sane-project/backends",
-      "sane-project/standard"
+      "sane-project/standard",
+      "sane-project/frontends"
     ]
 
     git_repos_freedesktop_gitlab = [
