@@ -176,4 +176,7 @@ Vital for Quantum Sand;
 * React is licensed under the MIT License.
 * Rust is dual-licensed under the MIT License and Apache License 2.0
 * Ruby is dual-licensed under either the 2-clause BSDL (Simplified BSD License) or the custom Ruby License.
+* CesiumJS is licensed under the Apache License 2.0
+* PyTorch is licensed under a BSD-style license.
+* TensorFlow is licensed under the Apache License 2.0
 * Hundreds of developers for all of the deps I am using.
