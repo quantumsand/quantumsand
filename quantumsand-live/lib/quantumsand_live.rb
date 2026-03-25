@@ -5567,7 +5567,8 @@ class QuantumsandLive
       "sys-kernel/gentoo-kernel",
       "media-gfx/sane-airscan",
       "media-gfx/sane-backends",
-      "app-text/podofo"
+      "app-text/podofo",
+      "media-gfx/inkscape"
     ]
 
     gentoo_eselect_repository_add = {
