@@ -4086,7 +4086,8 @@ class QuantumsandLive
       "podofo/podofo",
       "podofo/podofo-resources",
       "wialon/gmqtt",
-      "eclipse-paho/paho.mqtt.python"
+      "eclipse-paho/paho.mqtt.python",
+      "empicano/aiomqtt"
     ]
 
     git_repos_chromium_googlesource = [
