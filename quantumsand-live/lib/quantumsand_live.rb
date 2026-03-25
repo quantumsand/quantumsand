@@ -5519,7 +5519,8 @@ class QuantumsandLive
       "media-gfx/zbar",
       "dev-lisp/sbcl",
       "dev-util/google-perftools",
-      "sys-fs/cryptsetup"
+      "sys-fs/cryptsetup",
+      "app-crypt/gnupg"
     ]
 
     gentoo_eselect_repository_add = {
