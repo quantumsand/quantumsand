@@ -5520,7 +5520,8 @@ class QuantumsandLive
       "dev-lisp/sbcl",
       "dev-util/google-perftools",
       "sys-fs/cryptsetup",
-      "app-crypt/gnupg"
+      "app-crypt/gnupg",
+      "app-misc/pax-utils"
     ]
 
     gentoo_eselect_repository_add = {
