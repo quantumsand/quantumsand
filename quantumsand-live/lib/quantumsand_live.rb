@@ -4702,7 +4702,8 @@ class QuantumsandLive
       "sane-project/frontends",
       "sane-project/frontend/sanescan",
       "sane-project/frontend/scanbd",
-      "sane-project/frontend/xsane"
+      "sane-project/frontend/xsane",
+      "inkscape/inkscape"
     ]
 
     git_repos_freedesktop_gitlab = [
