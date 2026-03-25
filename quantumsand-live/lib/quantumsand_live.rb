@@ -4084,7 +4084,8 @@ class QuantumsandLive
       "tesseract-ocr/tesseract",
       "tesseract-ocr/test",
       "podofo/podofo",
-      "podofo/podofo-resources"
+      "podofo/podofo-resources",
+      "wialon/gmqtt"
     ]
 
     git_repos_chromium_googlesource = [
