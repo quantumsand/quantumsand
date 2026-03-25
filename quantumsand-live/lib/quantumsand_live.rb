@@ -5262,7 +5262,8 @@ class QuantumsandLive
       "utilities/skanpage",
       "utilities/okteta",
       "qt/playground/qlitehtml",
-      "graphics/skanlite"
+      "graphics/skanlite",
+      "graphics/libksane"
     ]
 
     git_repos_ffmpeg_org = [
