@@ -4706,7 +4706,8 @@ class QuantumsandLive
       "inkscape/inkscape",
       "inkscape/extensions",
       "inkscape/extras/extensions-gcodetools",
-      "inkscape/extras/extension-manager"
+      "inkscape/extras/extension-manager",
+      "inkscape/extras/inkscape-import-clipart"
     ]
 
     git_repos_freedesktop_gitlab = [
