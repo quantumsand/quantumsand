@@ -5518,7 +5518,8 @@ class QuantumsandLive
       "net-im/ejabberd",
       "media-gfx/zbar",
       "dev-lisp/sbcl",
-      "dev-util/google-perftools"
+      "dev-util/google-perftools",
+      "sys-fs/cryptsetup"
     ]
 
     gentoo_eselect_repository_add = {
