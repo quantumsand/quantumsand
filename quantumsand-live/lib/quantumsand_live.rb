@@ -4074,7 +4074,8 @@ class QuantumsandLive
       "OpenMP/Examples",
       "projg2/installkernel-gentoo",
       "gentoo/genkernel",
-      "alexpevzner/sane-airscan"
+      "alexpevzner/sane-airscan",
+      "nodejs/llhttp"
     ]
 
     git_repos_chromium_googlesource = [
