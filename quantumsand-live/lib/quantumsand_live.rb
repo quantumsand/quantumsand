@@ -5281,7 +5281,8 @@ class QuantumsandLive
       "qt/playground/qlitehtml",
       "graphics/skanlite",
       "graphics/libksane",
-      "libraries/ksanecore"
+      "libraries/ksanecore",
+      "graphics/arianna"
     ]
 
     git_repos_ffmpeg_org = [
