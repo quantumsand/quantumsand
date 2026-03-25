@@ -4079,7 +4079,8 @@ class QuantumsandLive
       "SimulPiscator/AirSane",
       "cmangla/AirSane-openwrt",
       "sbs20/scanservjs",
-      "kno10/python-scan-eSCL"
+      "kno10/python-scan-eSCL",
+      "nodejs/http-parser"
     ]
 
     git_repos_chromium_googlesource = [
