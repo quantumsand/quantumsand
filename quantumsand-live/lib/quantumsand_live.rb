@@ -4082,7 +4082,8 @@ class QuantumsandLive
       "kno10/python-scan-eSCL",
       "nodejs/http-parser",
       "tesseract-ocr/tesseract",
-      "tesseract-ocr/test"
+      "tesseract-ocr/test",
+      "podofo/podofo"
     ]
 
     git_repos_chromium_googlesource = [
