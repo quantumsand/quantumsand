@@ -5550,7 +5550,8 @@ class QuantumsandLive
       "sys-fs/lvm2",
       "sys-kernel/gentoo-kernel",
       "media-gfx/sane-airscan",
-      "media-gfx/sane-backends"
+      "media-gfx/sane-backends",
+      "app-text/podofo"
     ]
 
     gentoo_eselect_repository_add = {
