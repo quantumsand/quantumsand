@@ -4083,7 +4083,8 @@ class QuantumsandLive
       "nodejs/http-parser",
       "tesseract-ocr/tesseract",
       "tesseract-ocr/test",
-      "podofo/podofo"
+      "podofo/podofo",
+      "podofo/podofo-resources"
     ]
 
     git_repos_chromium_googlesource = [
