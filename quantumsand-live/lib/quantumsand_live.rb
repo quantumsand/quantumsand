@@ -5521,7 +5521,8 @@ class QuantumsandLive
       "dev-util/google-perftools",
       "sys-fs/cryptsetup",
       "app-crypt/gnupg",
-      "app-misc/pax-utils"
+      "app-misc/pax-utils",
+      "sys-kernel/ugrd"
     ]
 
     gentoo_eselect_repository_add = {
