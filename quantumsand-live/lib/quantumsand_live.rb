@@ -4705,7 +4705,8 @@ class QuantumsandLive
       "sane-project/frontend/xsane",
       "inkscape/inkscape",
       "inkscape/extensions",
-      "inkscape/extras/extensions-gcodetools"
+      "inkscape/extras/extensions-gcodetools",
+      "inkscape/extras/extension-manager"
     ]
 
     git_repos_freedesktop_gitlab = [
