@@ -5210,7 +5210,8 @@ class QuantumsandLive
       "GNOME/glycin",
       "GNOME/mutter",
       "GNOME/gvfs",
-      "GNOME/rygel"
+      "GNOME/rygel",
+      "GNOME/gimp-data"
     ]
 
     git_repos_postgresql_org = [
