@@ -4081,7 +4081,8 @@ class QuantumsandLive
       "sbs20/scanservjs",
       "kno10/python-scan-eSCL",
       "nodejs/http-parser",
-      "tesseract-ocr/tesseract"
+      "tesseract-ocr/tesseract",
+      "tesseract-ocr/test"
     ]
 
     git_repos_chromium_googlesource = [
