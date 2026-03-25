@@ -5527,7 +5527,8 @@ class QuantumsandLive
       "sys-kernel/ugrd",
       "sys-kernel/installkernel",
       "sys-apps/systemd",
-      "sys-fs/lvm2"
+      "sys-fs/lvm2",
+      "sys-kernel/gentoo-kernel"
     ]
 
     gentoo_eselect_repository_add = {
