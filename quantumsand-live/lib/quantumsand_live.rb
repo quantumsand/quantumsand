@@ -4071,7 +4071,8 @@ class QuantumsandLive
       "earendil-works/absurd",
       "NVIDIA/k8s-dra-driver-gpu",
       "OpenMP/sources",
-      "OpenMP/Examples"
+      "OpenMP/Examples",
+      "projg2/installkernel-gentoo"
     ]
 
     git_repos_chromium_googlesource = [
