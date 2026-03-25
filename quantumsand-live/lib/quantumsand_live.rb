@@ -4072,7 +4072,8 @@ class QuantumsandLive
       "NVIDIA/k8s-dra-driver-gpu",
       "OpenMP/sources",
       "OpenMP/Examples",
-      "projg2/installkernel-gentoo"
+      "projg2/installkernel-gentoo",
+      "gentoo/genkernel"
     ]
 
     git_repos_chromium_googlesource = [
