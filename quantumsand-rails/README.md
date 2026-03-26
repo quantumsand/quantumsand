@@ -28,6 +28,39 @@ These steps are essentially a template to build any geospatial app you can imagi
 
 * Create your Rails app; replace `quantumsand-rails` with your app name.
 * `rails new quantumsand-rails --api --database=postgresql`
+* Add the activerecord-postgis-adapter to your Gemfile.
+```ruby
+gem 'activerecord-postgis-adapter', '~> 11.1', '>= 11.1.1'`
+```
+* Run `bundle install`
+* Switch to using the postgis adapter within `config/database.yml`:
+```yml
+default: &default
+  adapter: postgis
+  encoding: unicode
+```
+* Create the database; `rake db:create`
+* You should see:
+```bash
+Created database 'quantumsand_rails_development'
+Created database 'quantumsand_rails_test'
+```
+* To add the PostGIS extension to your database, we need to create a migration:
+```bash
+rails generate migration AddPostgisExtensionToDatabase
+```
+* Modify the migration in `db/migrate` to look like this:
+```ruby
+class AddPostgisExtensionToDatabase < ActiveRecord::Migration[8.1]
+  def change
+    enable_extension 'postgis'
+  end
+end
+```
+* Run the migration:
+```bash
+rails db:migrate
+```
 
 More to follow.
 
