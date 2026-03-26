@@ -5424,7 +5424,8 @@ class QuantumsandLive
       "libcg/libcg",
       "qwt/git",
       "libdc1394/code",
-      "sbcl/sbcl"
+      "sbcl/sbcl",
+      "gphoto/code"
     ]
 
     git_repos_salsa_debian_org = [
