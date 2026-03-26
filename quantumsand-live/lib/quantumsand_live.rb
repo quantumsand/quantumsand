@@ -5316,7 +5316,8 @@ class QuantumsandLive
       "graphics/gwenview",
       "graphics/kamera",
       "graphics/karp",
-      "frameworks/kirigami"
+      "frameworks/kirigami",
+      "graphics/kcolorchooser"
     ]
 
     git_repos_ffmpeg_org = [
