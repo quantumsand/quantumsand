@@ -26,6 +26,9 @@ Step by step process to build this Rails app from scratch.
 
 These steps are essentially a template to build any geospatial app you can imagine.
 
+* Create your Rails app; replace `quantumsand-rails` with your app name.
+* `rails new quantumsand-rails --api --database=postgresql`
+
 More to follow.
 
 
