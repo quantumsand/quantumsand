@@ -5304,7 +5304,8 @@ class QuantumsandLive
       "graphics/arianna",
       "graphics/brio",
       "graphics/colord-kde",
-      "graphics/digikam-test-data"
+      "graphics/digikam-test-data",
+      "sdk/kde-builder"
     ]
 
     git_repos_ffmpeg_org = [
