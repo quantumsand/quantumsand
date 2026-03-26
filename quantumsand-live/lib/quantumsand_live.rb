@@ -5301,7 +5301,8 @@ class QuantumsandLive
       "graphics/libksane",
       "libraries/ksanecore",
       "graphics/arianna",
-      "graphics/brio"
+      "graphics/brio",
+      "graphics/colord-kde"
     ]
 
     git_repos_ffmpeg_org = [
