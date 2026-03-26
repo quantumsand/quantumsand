@@ -5332,7 +5332,8 @@ class QuantumsandLive
       "graphics/kuickshow",
       "graphics/kxstitch",
       "graphics/libkdcraw",
-      "graphics/libkexiv2"
+      "graphics/libkexiv2",
+      "graphics/kdegraphics-mobipocket"
     ]
 
     git_repos_ffmpeg_org = [
