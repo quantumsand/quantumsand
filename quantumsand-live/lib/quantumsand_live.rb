@@ -5324,7 +5324,8 @@ class QuantumsandLive
       "graphics/kodaskanna",
       "graphics/kolourpaint",
       "graphics/konvex",
-      "graphics/kooka"
+      "graphics/kooka",
+      "graphics/kphotoalbum"
     ]
 
     git_repos_ffmpeg_org = [
