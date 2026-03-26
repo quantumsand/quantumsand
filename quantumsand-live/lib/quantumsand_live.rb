@@ -5322,7 +5322,8 @@ class QuantumsandLive
       "graphics/kgraphviewer",
       "graphics/kimagemapeditor",
       "graphics/kodaskanna",
-      "graphics/kolourpaint"
+      "graphics/kolourpaint",
+      "graphics/konvex"
     ]
 
     git_repos_ffmpeg_org = [
