@@ -5319,7 +5319,8 @@ class QuantumsandLive
       "frameworks/kirigami",
       "graphics/kcolorchooser",
       "graphics/kgeotag",
-      "graphics/kgraphviewer"
+      "graphics/kgraphviewer",
+      "graphics/kimagemapeditor"
     ]
 
     git_repos_ffmpeg_org = [
