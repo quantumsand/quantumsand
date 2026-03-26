@@ -5329,7 +5329,8 @@ class QuantumsandLive
       "graphics/krita-marketing",
       "graphics/kruler",
       "graphics/kst-plot",
-      "graphics/kuickshow"
+      "graphics/kuickshow",
+      "graphics/kxstitch"
     ]
 
     git_repos_ffmpeg_org = [
