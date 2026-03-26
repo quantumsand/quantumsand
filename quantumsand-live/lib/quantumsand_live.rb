@@ -5330,7 +5330,8 @@ class QuantumsandLive
       "graphics/kruler",
       "graphics/kst-plot",
       "graphics/kuickshow",
-      "graphics/kxstitch"
+      "graphics/kxstitch",
+      "graphics/libkdcraw"
     ]
 
     git_repos_ffmpeg_org = [
