@@ -4090,7 +4090,8 @@ class QuantumsandLive
       "empicano/aiomqtt",
       "DesignSparkRS/pmc-thermo",
       "lensfun/lensfun",
-      "thorvg/thorvg"
+      "thorvg/thorvg",
+      "qpdf/qpdf"
     ]
 
     git_repos_chromium_googlesource = [
