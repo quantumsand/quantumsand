@@ -4721,7 +4721,8 @@ class QuantumsandLive
       "inkscape/translations",
       "inkscape/devel/libdepixelize",
       "inkscape/devel/libuemf",
-      "mattbas/CMake-Lib"
+      "mattbas/CMake-Lib",
+      "mattbas/Qt-Color-Widgets"
     ]
 
     git_repos_freedesktop_gitlab = [
