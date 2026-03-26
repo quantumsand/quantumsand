@@ -4091,7 +4091,8 @@ class QuantumsandLive
       "DesignSparkRS/pmc-thermo",
       "lensfun/lensfun",
       "thorvg/thorvg",
-      "qpdf/qpdf"
+      "qpdf/qpdf",
+      "google/zopfli"
     ]
 
     git_repos_chromium_googlesource = [
