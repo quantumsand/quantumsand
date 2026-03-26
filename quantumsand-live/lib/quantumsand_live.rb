@@ -5310,7 +5310,8 @@ class QuantumsandLive
       "graphics/colord-kde",
       "graphics/digikam-test-data",
       "sdk/kde-builder",
-      "graphics/glaxnimate"
+      "graphics/glaxnimate",
+      "graphics/gwenview"
     ]
 
     git_repos_ffmpeg_org = [
