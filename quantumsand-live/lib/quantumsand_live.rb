@@ -4113,7 +4113,8 @@ class QuantumsandLive
       "angle/angle",
       "breakpad/breakpad",
       "libyuv/libyuv",
-      "external/webrtc"
+      "external/webrtc",
+      "chromium/tools/depot_tools"
     ]
 
     git_repos_gn_googlesource = [
