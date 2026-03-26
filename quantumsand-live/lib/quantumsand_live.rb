@@ -5589,7 +5589,8 @@ class QuantumsandLive
       "app-text/podofo",
       "media-gfx/inkscape",
       "media-gfx/potrace",
-      "app-text/mupdf"
+      "app-text/mupdf",
+      "app-text/ghostscript-gpl"
     ]
 
     gentoo_eselect_repository_add = {
