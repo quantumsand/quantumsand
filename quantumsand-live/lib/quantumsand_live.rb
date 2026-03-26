@@ -5309,7 +5309,8 @@ class QuantumsandLive
       "graphics/brio",
       "graphics/colord-kde",
       "graphics/digikam-test-data",
-      "sdk/kde-builder"
+      "sdk/kde-builder",
+      "graphics/glaxnimate"
     ]
 
     git_repos_ffmpeg_org = [
