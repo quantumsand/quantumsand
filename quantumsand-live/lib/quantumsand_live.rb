@@ -5337,7 +5337,8 @@ class QuantumsandLive
       "graphics/libkdcraw",
       "graphics/libkexiv2",
       "graphics/kdegraphics-mobipocket",
-      "graphics/optiimage"
+      "graphics/optiimage",
+      "graphics/peruse"
     ]
 
     git_repos_ffmpeg_org = [
