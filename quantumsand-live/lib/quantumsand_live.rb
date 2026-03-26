@@ -4093,7 +4093,8 @@ class QuantumsandLive
       "thorvg/thorvg",
       "qpdf/qpdf",
       "google/zopfli",
-      "oxipng/oxipng"
+      "oxipng/oxipng",
+      "tjko/jpegoptim"
     ]
 
     git_repos_chromium_googlesource = [
