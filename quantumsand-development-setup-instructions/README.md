@@ -27,7 +27,18 @@ This means that development of each component can be done on all three of these 
 * Launch Visual Studio Code; `code quantumsand`
 * Download Rustup and install Rust; `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 * Rust installer; Proceed with standard installation (default - just press enter)
-* Test your Rust installation by running Doggo;
+* Install ninja; `brew install ninja`
+* Install bevy_cef; Launch the Terminal app; In a separate directory; Outside of quantumsand;
+  * Clone bevy_cef; `git clone https://github.com/not-elm/bevy_cef.git`
+  * Launch another Visual Studio Code; `code bevy_cef`
+  * `cargo install export-cef-dir@145.6.1+145.0.28`
+  * `export-cef-dir --force $HOME/.local/share`
+  * `cargo install bevy_cef_debug_render_process`
+  * `cp $HOME/.cargo/bin/bevy_cef_debug_render_process "$HOME/.local/share/Chromium Embedded Framework.framework/Libraries/bevy_cef_debug_render_process"`
+* Test bevy_cef by running one of the examples:
+* `cargo run --example simple --features debug`
+* Go back to your Visual Studio Code with quantumsand;
+* Try running Doggo;
   * `cd quantumsand-videogame-doggo`
   * `cargo run quantumsand-videogame-doggo`
 * Install PostGIS and PostgreSQL; `brew install postgis postgresql@18`
