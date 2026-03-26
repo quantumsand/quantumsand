@@ -4099,7 +4099,8 @@ class QuantumsandLive
       "wdas/SeExpr",
       "Huluti/Curtail",
       "kornelski/pngquant",
-      "ImageOptim/libimagequant"
+      "ImageOptim/libimagequant",
+      "pendulum-project/ntpd-rs"
     ]
 
     git_repos_chromium_googlesource = [
