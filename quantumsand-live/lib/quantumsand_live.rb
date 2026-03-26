@@ -4088,7 +4088,8 @@ class QuantumsandLive
       "wialon/gmqtt",
       "eclipse-paho/paho.mqtt.python",
       "empicano/aiomqtt",
-      "DesignSparkRS/pmc-thermo"
+      "DesignSparkRS/pmc-thermo",
+      "lensfun/lensfun"
     ]
 
     git_repos_chromium_googlesource = [
