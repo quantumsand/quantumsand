@@ -5303,7 +5303,8 @@ class QuantumsandLive
       "libraries/ksanecore",
       "graphics/arianna",
       "graphics/brio",
-      "graphics/colord-kde"
+      "graphics/colord-kde",
+      "graphics/digikam-test-data"
     ]
 
     git_repos_ffmpeg_org = [
