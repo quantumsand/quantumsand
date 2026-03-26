@@ -5312,7 +5312,8 @@ class QuantumsandLive
       "sdk/kde-builder",
       "graphics/glaxnimate",
       "graphics/gwenview",
-      "graphics/kamera"
+      "graphics/kamera",
+      "graphics/karp"
     ]
 
     git_repos_ffmpeg_org = [
