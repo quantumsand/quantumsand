@@ -59,6 +59,10 @@ compinit
 [ -s "$HOME/.scm_breeze/scm_breeze.sh" ] && source "$HOME/.scm_breeze/scm_breeze.sh"
 ```
 * Reload your terminal and the message should have disappeared.
+* Install Ruby on Rails; `gem install rails -v 8.1.3`
+* Test the Ruby on Rails installation;
+  * `rails -v`
+  * You should see; `Rails 8.1.3`
 * Install missing fonts;
 * `brew install font-noto-sans-arabic font-noto-sans-jp font-noto-sans font-scheherazade`
 * Install Node Version Manager nvm; `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash`
