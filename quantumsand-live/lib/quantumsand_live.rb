@@ -5313,7 +5313,8 @@ class QuantumsandLive
       "graphics/glaxnimate",
       "graphics/gwenview",
       "graphics/kamera",
-      "graphics/karp"
+      "graphics/karp",
+      "frameworks/kirigami"
     ]
 
     git_repos_ffmpeg_org = [
