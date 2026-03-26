@@ -4096,7 +4096,8 @@ class QuantumsandLive
       "oxipng/oxipng",
       "tjko/jpegoptim",
       "scour-project/scour",
-      "wdas/SeExpr"
+      "wdas/SeExpr",
+      "Huluti/Curtail"
     ]
 
     git_repos_chromium_googlesource = [
