@@ -5578,7 +5578,8 @@ class QuantumsandLive
       "media-gfx/sane-airscan",
       "media-gfx/sane-backends",
       "app-text/podofo",
-      "media-gfx/inkscape"
+      "media-gfx/inkscape",
+      "media-gfx/potrace"
     ]
 
     gentoo_eselect_repository_add = {
