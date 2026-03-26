@@ -4720,7 +4720,8 @@ class QuantumsandLive
       "inkscape/libcroco",
       "inkscape/translations",
       "inkscape/devel/libdepixelize",
-      "inkscape/devel/libuemf"
+      "inkscape/devel/libuemf",
+      "mattbas/CMake-Lib"
     ]
 
     git_repos_freedesktop_gitlab = [
