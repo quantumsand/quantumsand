@@ -4098,7 +4098,8 @@ class QuantumsandLive
       "scour-project/scour",
       "wdas/SeExpr",
       "Huluti/Curtail",
-      "kornelski/pngquant"
+      "kornelski/pngquant",
+      "ImageOptim/libimagequant"
     ]
 
     git_repos_chromium_googlesource = [
