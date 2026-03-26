@@ -5340,7 +5340,8 @@ class QuantumsandLive
       "graphics/optiimage",
       "graphics/peruse",
       "graphics/koko",
-      "graphics/pikasso"
+      "graphics/pikasso",
+      "graphics/pvfviewer"
     ]
 
     git_repos_ffmpeg_org = [
