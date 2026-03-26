@@ -4092,7 +4092,8 @@ class QuantumsandLive
       "lensfun/lensfun",
       "thorvg/thorvg",
       "qpdf/qpdf",
-      "google/zopfli"
+      "google/zopfli",
+      "oxipng/oxipng"
     ]
 
     git_repos_chromium_googlesource = [
