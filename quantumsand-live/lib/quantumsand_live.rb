@@ -5388,7 +5388,8 @@ class QuantumsandLive
       "graphics/tikzkit",
       "graphics/washipad",
       "libraries/baloo-widgets",
-      "libraries/cxx-rust-cssparser"
+      "libraries/cxx-rust-cssparser",
+      "libraries/futuresql"
     ]
 
     git_repos_ffmpeg_org = [
