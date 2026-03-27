@@ -107,6 +107,13 @@ Erlang/OTP 28 [erts-16.3] [source] [64-bit] [smp:18:18] [ds:18:18:10] [async-thr
 
 Elixir 1.19.5 (compiled with Erlang/OTP 28)
 ```
+* Install the Phoenix application generator; `mix archive.install hex phx_new`
+* You should see: `Are you sure you want to install "phx_new-1.8.5.ez"? [Yn]`
+* Type `y` and press return
+* You should see the following message:
+```bash
+* creating /Users/your-user-name/.mix/archives/phx_new-1.8.5
+```
 * Install Qt; `brew install qt`
 * Install CMake; `brew install cmake`
 * Test your Qt installation by running quantumsand-qt;
