@@ -4124,7 +4124,8 @@ class QuantumsandLive
       "pendulum-project/chrony",
       "pendulum-project/clock-steering",
       "pendulum-project/network-time-pester",
-      "pendulum-project/nts-pool"
+      "pendulum-project/nts-pool",
+      "pendulum-project/nts-timesyncd"
     ]
 
     git_repos_chromium_googlesource = [
