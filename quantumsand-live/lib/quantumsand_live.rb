@@ -4737,7 +4737,8 @@ class QuantumsandLive
       "mattbas/Qt-Color-Widgets",
       "mattbas/python-lottie",
       "http-party/http-server",
-      "jclark/satpulse"
+      "jclark/satpulse",
+      "kismetwireless/kismet"
     ]
 
     git_repos_freedesktop_gitlab = [
