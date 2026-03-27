@@ -4131,7 +4131,8 @@ class QuantumsandLive
       "pendulum-project/pps-time",
       "pendulum-project/statime",
       "pendulum-project/timestamped-socket",
-      "dtolnay/cxx"
+      "dtolnay/cxx",
+      "corrosion-rs/corrosion"
     ]
 
     git_repos_chromium_googlesource = [
