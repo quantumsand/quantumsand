@@ -4738,7 +4738,8 @@ class QuantumsandLive
       "mattbas/python-lottie",
       "http-party/http-server",
       "jclark/satpulse",
-      "kismetwireless/kismet"
+      "kismetwireless/kismet",
+      "kismetwireless/kismet-web-docs"
     ]
 
     git_repos_freedesktop_gitlab = [
