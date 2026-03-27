@@ -4123,7 +4123,8 @@ class QuantumsandLive
       "prometheus/node_exporter",
       "pendulum-project/chrony",
       "pendulum-project/clock-steering",
-      "pendulum-project/network-time-pester"
+      "pendulum-project/network-time-pester",
+      "pendulum-project/nts-pool"
     ]
 
     git_repos_chromium_googlesource = [
