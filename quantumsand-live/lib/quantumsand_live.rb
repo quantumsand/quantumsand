@@ -4118,7 +4118,8 @@ class QuantumsandLive
       "infinet/gpsd-navigator",
       "IvanSanchez/gpsd-ais-viewer",
       "mlichvar/ntp-refclock",
-      "mlichvar/pps-gpio-poll"
+      "mlichvar/pps-gpio-poll",
+      "mlichvar/leapshm"
     ]
 
     git_repos_chromium_googlesource = [
