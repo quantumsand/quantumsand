@@ -98,6 +98,15 @@ Creating default alias: default -> 25.8.1 (-> v25.8.1 *)
   * Inside Google Chrome visit one of the UI endpoint urls by typing this localhost address into the Chrome address bar: 
   * `http://localhost:3001/narrativesync`
   * You should see the React component for NarrativeSync.
+* Install Elixir; `brew install elixir`
+* Test the Elixir installation;
+* `elixir -v`
+* You should see the following message:
+```bash
+Erlang/OTP 28 [erts-16.3] [source] [64-bit] [smp:18:18] [ds:18:18:10] [async-threads:1] [jit] [dtrace]
+
+Elixir 1.19.5 (compiled with Erlang/OTP 28)
+```
 * Install Qt; `brew install qt`
 * Install CMake; `brew install cmake`
 * Test your Qt installation by running quantumsand-qt;
