@@ -5392,7 +5392,8 @@ class QuantumsandLive
       "libraries/futuresql",
       "libraries/kasync",
       "libraries/kcgroups",
-      "libraries/kdsoap-ws-discovery-client"
+      "libraries/kdsoap-ws-discovery-client",
+      "libraries/kdb"
     ]
 
     git_repos_ffmpeg_org = [
