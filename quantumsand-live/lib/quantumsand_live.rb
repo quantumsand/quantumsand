@@ -4115,7 +4115,8 @@ class QuantumsandLive
       "kismetwireless/bluez-basic-monitor",
       "aircrack-ng/aircrack-ng",
       "navit-gps/navit",
-      "infinet/gpsd-navigator"
+      "infinet/gpsd-navigator",
+      "IvanSanchez/gpsd-ais-viewer"
     ]
 
     git_repos_chromium_googlesource = [
