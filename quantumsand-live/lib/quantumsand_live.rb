@@ -4116,7 +4116,8 @@ class QuantumsandLive
       "aircrack-ng/aircrack-ng",
       "navit-gps/navit",
       "infinet/gpsd-navigator",
-      "IvanSanchez/gpsd-ais-viewer"
+      "IvanSanchez/gpsd-ais-viewer",
+      "mlichvar/ntp-refclock"
     ]
 
     git_repos_chromium_googlesource = [
