@@ -5390,7 +5390,8 @@ class QuantumsandLive
       "libraries/baloo-widgets",
       "libraries/cxx-rust-cssparser",
       "libraries/futuresql",
-      "libraries/kasync"
+      "libraries/kasync",
+      "libraries/kcgroups"
     ]
 
     git_repos_ffmpeg_org = [
