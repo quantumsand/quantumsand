@@ -4121,7 +4121,8 @@ class QuantumsandLive
       "mlichvar/pps-gpio-poll",
       "mlichvar/leapshm",
       "prometheus/node_exporter",
-      "pendulum-project/chrony"
+      "pendulum-project/chrony",
+      "pendulum-project/clock-steering"
     ]
 
     git_repos_chromium_googlesource = [
