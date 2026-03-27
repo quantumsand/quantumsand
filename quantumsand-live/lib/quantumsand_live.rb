@@ -4111,7 +4111,8 @@ class QuantumsandLive
       "kismetwireless/kismet-plugin-wiglequad",
       "kismetwireless/python-kismet-external",
       "kismetwireless/libwifiuserspace",
-      "kismetwireless/python-kismet-db"
+      "kismetwireless/python-kismet-db",
+      "kismetwireless/bluez-basic-monitor"
     ]
 
     git_repos_chromium_googlesource = [
