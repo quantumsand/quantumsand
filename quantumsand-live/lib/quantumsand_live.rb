@@ -4119,7 +4119,8 @@ class QuantumsandLive
       "IvanSanchez/gpsd-ais-viewer",
       "mlichvar/ntp-refclock",
       "mlichvar/pps-gpio-poll",
-      "mlichvar/leapshm"
+      "mlichvar/leapshm",
+      "prometheus/node_exporter"
     ]
 
     git_repos_chromium_googlesource = [
