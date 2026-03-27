@@ -80,6 +80,7 @@ More to follow.
 - advertising_business_page `:string`
 - narrative_sync `:json`
 - chronological_triggers `:json`
+- grain_thumbnail `:string`
 - grain_dependencies `:json`
 
 
