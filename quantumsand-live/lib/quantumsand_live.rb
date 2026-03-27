@@ -4109,7 +4109,8 @@ class QuantumsandLive
       "kismetwireless/python-kismet-rest",
       "kismetwireless/cases",
       "kismetwireless/kismet-plugin-wiglequad",
-      "kismetwireless/python-kismet-external"
+      "kismetwireless/python-kismet-external",
+      "kismetwireless/libwifiuserspace"
     ]
 
     git_repos_chromium_googlesource = [
