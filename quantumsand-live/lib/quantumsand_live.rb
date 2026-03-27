@@ -4735,7 +4735,8 @@ class QuantumsandLive
       "inkscape/devel/libuemf",
       "mattbas/CMake-Lib",
       "mattbas/Qt-Color-Widgets",
-      "mattbas/python-lottie"
+      "mattbas/python-lottie",
+      "http-party/http-server"
     ]
 
     git_repos_freedesktop_gitlab = [
