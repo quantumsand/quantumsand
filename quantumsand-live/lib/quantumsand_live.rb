@@ -4739,7 +4739,8 @@ class QuantumsandLive
       "http-party/http-server",
       "jclark/satpulse",
       "kismetwireless/kismet",
-      "kismetwireless/kismet-web-docs"
+      "kismetwireless/kismet-web-docs",
+      "kismetwireless/lorcon"
     ]
 
     git_repos_freedesktop_gitlab = [
