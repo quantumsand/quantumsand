@@ -5380,7 +5380,8 @@ class QuantumsandLive
       "graphics/pikasso",
       "graphics/pvfviewer",
       "graphics/kseexpr",
-      "graphics/svgpart"
+      "graphics/svgpart",
+      "graphics/symboleditor"
     ]
 
     git_repos_ffmpeg_org = [
