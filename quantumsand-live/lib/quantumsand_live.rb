@@ -5391,7 +5391,8 @@ class QuantumsandLive
       "libraries/cxx-rust-cssparser",
       "libraries/futuresql",
       "libraries/kasync",
-      "libraries/kcgroups"
+      "libraries/kcgroups",
+      "libraries/kdsoap-ws-discovery-client"
     ]
 
     git_repos_ffmpeg_org = [
