@@ -5384,7 +5384,8 @@ class QuantumsandLive
       "graphics/symboleditor",
       "graphics/kdegraphics-thumbnailers",
       "graphics/tikzkit",
-      "graphics/washipad"
+      "graphics/washipad",
+      "libraries/baloo-widgets"
     ]
 
     git_repos_ffmpeg_org = [
