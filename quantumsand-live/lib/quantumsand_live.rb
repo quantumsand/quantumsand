@@ -4126,7 +4126,8 @@ class QuantumsandLive
       "pendulum-project/network-time-pester",
       "pendulum-project/nts-pool",
       "pendulum-project/nts-timesyncd",
-      "NLnetLabs/ploutos"
+      "NLnetLabs/ploutos",
+      "pendulum-project/pool-ntpsec"
     ]
 
     git_repos_chromium_googlesource = [
