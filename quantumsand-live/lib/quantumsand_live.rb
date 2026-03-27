@@ -4740,7 +4740,8 @@ class QuantumsandLive
       "jclark/satpulse",
       "kismetwireless/kismet",
       "kismetwireless/kismet-web-docs",
-      "kismetwireless/lorcon"
+      "kismetwireless/lorcon",
+      "kismetwireless/python-kismet-rest"
     ]
 
     git_repos_freedesktop_gitlab = [
