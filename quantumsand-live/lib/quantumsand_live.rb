@@ -4100,7 +4100,14 @@ class QuantumsandLive
       "Huluti/Curtail",
       "kornelski/pngquant",
       "ImageOptim/libimagequant",
-      "pendulum-project/ntpd-rs"
+      "pendulum-project/ntpd-rs",
+      "http-party/http-server",
+      "jclark/satpulse",
+      "kismetwireless/kismet",
+      "kismetwireless/kismet-web-docs",
+      "kismetwireless/lorcon",
+      "kismetwireless/python-kismet-rest",
+      "kismetwireless/cases"
     ]
 
     git_repos_chromium_googlesource = [
@@ -4735,13 +4742,7 @@ class QuantumsandLive
       "inkscape/devel/libuemf",
       "mattbas/CMake-Lib",
       "mattbas/Qt-Color-Widgets",
-      "mattbas/python-lottie",
-      "http-party/http-server",
-      "jclark/satpulse",
-      "kismetwireless/kismet",
-      "kismetwireless/kismet-web-docs",
-      "kismetwireless/lorcon",
-      "kismetwireless/python-kismet-rest"
+      "mattbas/python-lottie"
     ]
 
     git_repos_freedesktop_gitlab = [
