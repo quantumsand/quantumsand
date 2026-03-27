@@ -4107,7 +4107,8 @@ class QuantumsandLive
       "kismetwireless/kismet-web-docs",
       "kismetwireless/lorcon",
       "kismetwireless/python-kismet-rest",
-      "kismetwireless/cases"
+      "kismetwireless/cases",
+      "kismetwireless/kismet-plugin-wiglequad"
     ]
 
     git_repos_chromium_googlesource = [
