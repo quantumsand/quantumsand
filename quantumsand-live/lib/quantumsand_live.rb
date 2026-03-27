@@ -5385,7 +5385,8 @@ class QuantumsandLive
       "graphics/kdegraphics-thumbnailers",
       "graphics/tikzkit",
       "graphics/washipad",
-      "libraries/baloo-widgets"
+      "libraries/baloo-widgets",
+      "libraries/cxx-rust-cssparser"
     ]
 
     git_repos_ffmpeg_org = [
