@@ -10,7 +10,11 @@ This means that development of each component can be done on all three of these 
 
 * Install Homebrew. This will also download Command Line Tools for Xcode.
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
-* Install wget using `brew install wget`
+* Install wget; `brew install wget`
+* Install RabbitMQ; `brew install rabbitmq`
+* To start rabbitmq now and restart at login: `brew services start rabbitmq`
+* Install Valkey; `brew install valkey`
+* To start valkey now and restart at login: `brew services start valkey`
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
 * Install Blender 4.5 LTS (Apple Silicon); make sure it is the arm64 dmg.
 * Install Wacom tablet macOS driver; if you have a Wacom tablet; double click the pkg within the dmg.
@@ -84,6 +88,7 @@ compinit
 Now using node v25.8.1 (npm v11.11.0)
 Creating default alias: default -> 25.8.1 (-> v25.8.1 *)
 ```
+* Install http-server; `npm install --global http-server`
 * Test your Node.js installation by running quantumsand-ui-react;
   * `cd quantumsand-ui-react`
   * `npm i --legacy-peer-deps`
