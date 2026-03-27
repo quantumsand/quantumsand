@@ -4113,7 +4113,8 @@ class QuantumsandLive
       "kismetwireless/libwifiuserspace",
       "kismetwireless/python-kismet-db",
       "kismetwireless/bluez-basic-monitor",
-      "aircrack-ng/aircrack-ng"
+      "aircrack-ng/aircrack-ng",
+      "navit-gps/navit"
     ]
 
     git_repos_chromium_googlesource = [
