@@ -5381,7 +5381,8 @@ class QuantumsandLive
       "graphics/pvfviewer",
       "graphics/kseexpr",
       "graphics/svgpart",
-      "graphics/symboleditor"
+      "graphics/symboleditor",
+      "graphics/kdegraphics-thumbnailers"
     ]
 
     git_repos_ffmpeg_org = [
