@@ -15,6 +15,8 @@ This means that development of each component can be done on all three of these 
 * To start rabbitmq now and restart at login: `brew services start rabbitmq`
 * Install Valkey; `brew install valkey`
 * To start valkey now and restart at login: `brew services start valkey`
+* Install ejabberd; `brew install ejabberd`
+* To start ejabberd now and restart at login: `brew services start ejabberd`
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
 * Install Blender 4.5 LTS (Apple Silicon); make sure it is the arm64 dmg.
 * Install Wacom tablet macOS driver; if you have a Wacom tablet; double click the pkg within the dmg.
