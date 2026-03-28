@@ -179,4 +179,8 @@ Vital for Quantum Sand;
 * CesiumJS is licensed under the Apache License 2.0
 * PyTorch is licensed under a BSD-style license.
 * TensorFlow is licensed under the Apache License 2.0
+* Node.js is licensed under the MIT License.
+* Elixir is licensed under the Apache License 2.0
+* Erlang/OTP is licensed under the Apache License 2.0
+* Phoenix is licensed under the MIT License.
 * Hundreds of developers for all of the deps I am using.
