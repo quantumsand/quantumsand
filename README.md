@@ -183,4 +183,7 @@ Vital for Quantum Sand;
 * Elixir is licensed under the Apache License 2.0
 * Erlang/OTP is licensed under the Apache License 2.0
 * Phoenix is licensed under the MIT License.
+* RabbitMQ is licensed under the MPL 2.0.
+* Valkey is licensed under a BSD 3-Clause License.
+* ejabberd is licensed under the GNU General Public License v2.
 * Hundreds of developers for all of the deps I am using.
