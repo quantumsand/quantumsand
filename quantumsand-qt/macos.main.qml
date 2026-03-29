@@ -710,7 +710,6 @@ ApplicationWindow {
 
                 WebEngineView {
                     anchors.fill: parent
-                    anchors.horizontalCenter: controls.horizontalCenter
                     opacity: 1.0
                     url: Global.quantumsandEndpoint + "/barcode"
                     backgroundColor: "transparent"
