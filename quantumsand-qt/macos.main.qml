@@ -742,7 +742,6 @@ ApplicationWindow {
 
                     WebEngineView {
                         anchors.fill: parent
-                        anchors.horizontalCenter: controls.horizontalCenter
                         opacity: 0.8
                         url: Global.quantumsandEndpoint + "/avcontrols"
                         settings.showScrollBars: false
