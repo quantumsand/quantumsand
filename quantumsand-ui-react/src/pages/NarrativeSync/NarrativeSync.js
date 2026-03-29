@@ -68,6 +68,36 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
     peaksInstance.zoom.zoomOut();
   }
 
+  const addSegment = e => {
+    console.log("Add segment");
+    //setSegmentCounter(segmentCounter + 1);
+
+    peaksInstance.segments.add({
+      startTime: peaksInstance.player.getCurrentTime(),
+      endTime: peaksInstance.player.getCurrentTime() + 2,
+      labelText: "#", //+ segmentCounter + "; ", //+ textSelection,
+      editable: true
+    });
+
+    //updateSnippets();
+    //console.log("total number of segments: " + (segmentCounter + 1));
+    console.log(peaksInstance.segments);
+  }
+
+ const addPoint = e => {
+    console.log("Add point");
+    //setPointCounter(pointCounter + 1);
+
+    peaksInstance.points.add({
+      time: peaksInstance.player.getCurrentTime(),
+      labelText: 'Test point ', //+ pointCounter,
+      editable: true
+    });
+
+    //console.log("total number of points: " + (pointCounter + 1));
+    console.log(peaksInstance.points);
+  }
+
   return (
     <div className="narrative__sync">
       <p>TODO: NarrativeSync components:</p>
@@ -93,10 +123,10 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
           <IconButton onClick={zoomIn.bind(this)}>
             <ZoomInIcon />
           </IconButton>
-          <IconButton /* onClick={addSegment.bind(this)} */ >
+          <IconButton onClick={addSegment.bind(this)}>
             <TimelapseIcon />
           </IconButton>
-          <IconButton /* onClick={addPoint.bind(this)} */>
+          <IconButton onClick={addPoint.bind(this)}>
             <ControlPointIcon />
           </IconButton>
           <IconButton>
