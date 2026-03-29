@@ -463,7 +463,7 @@ ApplicationWindow {
                     z: 101
                     width: win.width
                     height: win.height - webengine_ribbon.height
-                    anchors.top: webengine_ribbon.bottom
+                    anchors.top: parent.top
                     url: Global.quantumsandEndpoint + "/particles"
                     settings.accelerated2dCanvasEnabled: true
                     settings.webGLEnabled: true
