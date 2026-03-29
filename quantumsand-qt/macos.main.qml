@@ -734,12 +734,10 @@ ApplicationWindow {
                 z: 2002
 
                 Rectangle {
-                    id: tvcontrols
+                    id: avcontrols
                     height: 180
                     width: 180
-                    anchors.bottom: parent.bottom
-                    anchors.left: subtitles.right
-                    anchors.right: qr_code.left
+                    anchors.fill: parent  // Fill the parent controls Rectangle
                     color: "transparent"
 
                     WebEngineView {
