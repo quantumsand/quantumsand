@@ -4135,7 +4135,8 @@ class QuantumsandLive
       "corrosion-rs/corrosion",
       "react-monaco-editor/react-monaco-editor",
       "schrodinger/pymol-open-source",
-      "schrodinger/gpusimilarity"
+      "schrodinger/gpusimilarity",
+      "schrodinger/maeparser"
     ]
 
     git_repos_chromium_googlesource = [
