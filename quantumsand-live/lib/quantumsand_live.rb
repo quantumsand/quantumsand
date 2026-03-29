@@ -4136,7 +4136,8 @@ class QuantumsandLive
       "react-monaco-editor/react-monaco-editor",
       "schrodinger/pymol-open-source",
       "schrodinger/gpusimilarity",
-      "schrodinger/maeparser"
+      "schrodinger/maeparser",
+      "PabloEnmanuelRamos/BioBlender21"
     ]
 
     git_repos_chromium_googlesource = [
