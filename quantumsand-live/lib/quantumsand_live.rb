@@ -4133,7 +4133,8 @@ class QuantumsandLive
       "pendulum-project/timestamped-socket",
       "dtolnay/cxx",
       "corrosion-rs/corrosion",
-      "react-monaco-editor/react-monaco-editor"
+      "react-monaco-editor/react-monaco-editor",
+      "schrodinger/pymol-open-source"
     ]
 
     git_repos_chromium_googlesource = [
