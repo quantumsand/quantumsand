@@ -46,15 +46,26 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
     }
 
     console.log(peaks.player.getCurrentTime());
+
     setPeaksInstance(peaks);
   }), [srcJson]);
 
   const handleResize = e => {
     console.log("resized to: ", window.innerWidth, "x", window.innerHeight, "y");
+    if (peaksInstance && peaksInstance.views) {
+      try {
+        peaksInstance.views.getView('zoomview')?.fitToContainer();
+        peaksInstance.views.getView('overview')?.fitToContainer();
+      } catch (error) {
+        console.warn('fitToContainer not available:', error);
+      }
+    }
   }
 
   useEffect(() => {
-  }, window.addEventListener('resize', handleResize));
+    window.addEventListener('resize', handleResize);
+    return () => window.removeEventListener('resize', handleResize);
+  }, [peaksInstance]);
 
   const zoomIn = e => {
     e.preventDefault();
