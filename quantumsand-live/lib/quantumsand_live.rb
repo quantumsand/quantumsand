@@ -5433,7 +5433,8 @@ class QuantumsandLive
       "libraries/libqgit2",
       "libraries/libtmdbqt",
       "libraries/md4qt",
-      "office/klevernotes"
+      "office/klevernotes",
+      "frameworks/sonnet"
     ]
 
     git_repos_ffmpeg_org = [
