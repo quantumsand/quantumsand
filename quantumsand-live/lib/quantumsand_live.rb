@@ -5427,7 +5427,8 @@ class QuantumsandLive
       "libraries/kweathercore",
       "libraries/libqaccessibilityclient",
       "sdk/releaseme",
-      "libraries/libqgit2"
+      "libraries/libqgit2",
+      "libraries/libtmdbqt"
     ]
 
     git_repos_ffmpeg_org = [
