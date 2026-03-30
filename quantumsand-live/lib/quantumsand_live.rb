@@ -5426,7 +5426,8 @@ class QuantumsandLive
       "libraries/kunifiedpush",
       "libraries/kweathercore",
       "libraries/libqaccessibilityclient",
-      "sdk/releaseme"
+      "sdk/releaseme",
+      "libraries/libqgit2"
     ]
 
     git_repos_ffmpeg_org = [
