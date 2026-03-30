@@ -5423,7 +5423,8 @@ class QuantumsandLive
       "libraries/kquickimageeditor",
       "libraries/kreport",
       "libraries/ktextaddons",
-      "libraries/kunifiedpush"
+      "libraries/kunifiedpush",
+      "libraries/kweathercore"
     ]
 
     git_repos_ffmpeg_org = [
