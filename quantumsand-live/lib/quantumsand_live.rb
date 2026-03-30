@@ -4882,7 +4882,8 @@ class QuantumsandLive
       "gnu-grub/grub",
       "mesa/vkrunner",
       "mesa/kmscube",
-      "mesa/piglit"
+      "mesa/piglit",
+      "mesa/shader-db"
     ]
 
     git_repos_xfce_gitlab = [
