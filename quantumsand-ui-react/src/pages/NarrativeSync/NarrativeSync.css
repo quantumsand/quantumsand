@@ -48,3 +48,25 @@
   cursor: pointer;
   margin: 5px 5px;
 }
+
+.narrative__syncVideoText {
+  display: flex;
+  flex-direction: row;
+}
+
+.narrative__syncText {
+  padding-left: 10px;
+  min-width: 410px;
+  min-height: 236px;
+}
+
+trix-editor {
+  min-height: 230px !important;
+  max-height: 230px !important;
+  min-width: 410px !important;
+  overflow-y: auto;
+}
+
+trix-editor pre {
+  white-space: pre-wrap;
+}

@@ -11,6 +11,10 @@ import TimelapseIcon from '@mui/icons-material/Timelapse';
 import ControlPointIcon from '@mui/icons-material/ControlPoint';
 
 import { IconButton } from '@mui/material';
+
+import Trix from "trix";
+import "trix/dist/trix.css";
+
 import { Workbook } from '@fortune-sheet/react'
 import "@fortune-sheet/react/dist/index.css"
 
@@ -113,6 +117,22 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
     console.log(peaksInstance.points);
   }
 
+  document.addEventListener("trix-before-initialize", () => {
+    // Change Trix.config if you need
+    console.log("trix before initialize");
+    // var element = document.querySelector("trix-editor");
+    // Trix.config.blockAttributes.default.tagName = 'p';
+  })
+
+  document.addEventListener("trix-selection-change", function(event) {
+    console.log("trix selection change");
+    var element = document.querySelector("trix-editor");
+    var selectedRange = element.editor.getSelectedRange();
+    var selectedText = element.editor.getDocument().getStringAtRange(selectedRange);
+    console.log(selectedRange);
+    console.log(selectedText);
+  })
+
   return (
     <div className="narrative__sync">
       <div className="narrative__syncButtons">
@@ -139,13 +159,25 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
         <div id="waveform-container">
           <div id="zoomview-container"></div>
           <div id="overview-container"></div>
-          <video id="audio" controls="controls" className="narrative__syncWaveformVideo">
-            <source src={videoUrl} type="video/webm" />
-            Your browser does not support the video element.
-          </video>
+          <div className="narrative__syncVideoText">
+            <div className="narrative__syncVideo">
+              <video id="audio" controls="controls" className="narrative__syncWaveformVideo">
+                <source src={videoUrl} type="video/webm" />
+                Your browser does not support the video element.
+              </video>
+            </div>
+            <div className="narrative__syncText">
+              <input
+                type="hidden"
+                id="trix"
+                value={markdown}
+              />
+              <div id="blank-toolbar" hidden></div>
+              <trix-editor input="trix" toolbar="blank-toolbar" />
+            </div>
+          </div>
         </div>
       </div>
-      <p>Narrative text; narrative__syncText</p>
       <div className="narrative__syncSpreadsheet">
         <Workbook data={spreadsheetData} onOp={console.log} />
       </div>

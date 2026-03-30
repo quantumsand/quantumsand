@@ -44,6 +44,7 @@
     "react-wordcloud": "^1.2.7",
     "spectacle": "^10.1.8",
     "tiny-slider-react": "^0.5.7",
+    "trix": "^2.1.18",
     "waveform-data": "^4.5.2",
     "wavesurfer.js": "^7.8.4",
     "web-vitals": "^2.1.4",
