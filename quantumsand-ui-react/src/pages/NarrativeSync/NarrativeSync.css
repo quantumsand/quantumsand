@@ -40,6 +40,7 @@
   margin-bottom: auto;
   display: flex;
   padding-top: 20px;
+  justify-content: center;
 }
 
 .narrative__syncButtons button {
