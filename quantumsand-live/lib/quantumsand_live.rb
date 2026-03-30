@@ -5435,7 +5435,8 @@ class QuantumsandLive
       "libraries/md4qt",
       "office/klevernotes",
       "frameworks/sonnet",
-      "frameworks/syntax-highlighting"
+      "frameworks/syntax-highlighting",
+      "libraries/mpvqt"
     ]
 
     git_repos_ffmpeg_org = [
