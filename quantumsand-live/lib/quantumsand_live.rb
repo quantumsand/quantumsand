@@ -4148,7 +4148,8 @@ class QuantumsandLive
       "opentripplanner/OpenTripPlanner",
       "opentripplanner/otp-react-redux",
       "opentripplanner/otp-ui",
-      "opentripplanner/TrakPi"
+      "opentripplanner/TrakPi",
+      "motis-project/geo"
     ]
 
     git_repos_chromium_googlesource = [
