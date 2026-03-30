@@ -4140,7 +4140,8 @@ class QuantumsandLive
       "PabloEnmanuelRamos/BioBlender21",
       "motis-project/motis",
       "motis-project/osr",
-      "motis-project/tiles"
+      "motis-project/tiles",
+      "motis-project/utl"
     ]
 
     git_repos_chromium_googlesource = [
