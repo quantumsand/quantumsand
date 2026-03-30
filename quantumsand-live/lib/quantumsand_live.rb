@@ -4885,7 +4885,8 @@ class QuantumsandLive
       "mesa/piglit",
       "mesa/shader-db",
       "mesa/sixonix",
-      "mesa/glut"
+      "mesa/glut",
+      "mesa/glu"
     ]
 
     git_repos_xfce_gitlab = [
