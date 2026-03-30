@@ -5403,7 +5403,8 @@ class QuantumsandLive
       "libraries/kirigami-addons",
       "libraries/kopeninghours",
       "libraries/kosmindoormap",
-      "libraries/kproperty"
+      "libraries/kproperty",
+      "libraries/kpublictransport"
     ]
 
     git_repos_ffmpeg_org = [
