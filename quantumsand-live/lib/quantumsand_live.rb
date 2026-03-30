@@ -4879,7 +4879,8 @@ class QuantumsandLive
       "gstreamer/cerbero",
       "gstreamer/gir-files-rs",
       "gstreamer/gst-indent",
-      "gnu-grub/grub"
+      "gnu-grub/grub",
+      "mesa/vkrunner"
     ]
 
     git_repos_xfce_gitlab = [
