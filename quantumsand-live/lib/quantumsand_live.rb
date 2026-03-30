@@ -5429,7 +5429,8 @@ class QuantumsandLive
       "sdk/releaseme",
       "libraries/libqgit2",
       "libraries/libtmdbqt",
-      "libraries/md4qt"
+      "libraries/md4qt",
+      "office/klevernotes"
     ]
 
     git_repos_ffmpeg_org = [
