@@ -5416,7 +5416,8 @@ class QuantumsandLive
       "libraries/kopeninghours",
       "libraries/kosmindoormap",
       "libraries/kproperty",
-      "libraries/kpublictransport"
+      "libraries/kpublictransport",
+      "libraries/kqtquickcharts"
     ]
 
     git_repos_ffmpeg_org = [
