@@ -4157,7 +4157,8 @@ class QuantumsandLive
       "igormironchik/markdown-tools",
       "jellyfin/jellyfin-desktop",
       "mpv-player/mpv",
-      "solvespace/solvespace"
+      "solvespace/solvespace",
+      "vincenthz/libjson"
     ]
 
     git_repos_chromium_googlesource = [
