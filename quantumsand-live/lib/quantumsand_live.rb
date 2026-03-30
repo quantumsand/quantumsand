@@ -5437,7 +5437,8 @@ class QuantumsandLive
       "frameworks/sonnet",
       "frameworks/syntax-highlighting",
       "libraries/mpvqt",
-      "multimedia/haruna"
+      "multimedia/haruna",
+      "multimedia/plasmatube"
     ]
 
     git_repos_ffmpeg_org = [
