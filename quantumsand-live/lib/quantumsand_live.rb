@@ -4151,7 +4151,8 @@ class QuantumsandLive
       "opentripplanner/TrakPi",
       "motis-project/geo",
       "mozilla-services/autopush-rs",
-      "binwiederhier/ntfy"
+      "binwiederhier/ntfy",
+      "github/cmark-gfm"
     ]
 
     git_repos_chromium_googlesource = [
