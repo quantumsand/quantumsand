@@ -5447,7 +5447,8 @@ class QuantumsandLive
       "libraries/phonon",
       "libraries/phonon-vlc",
       "libraries/plasma-wayland-protocols",
-      "libraries/polkit-qt-1"
+      "libraries/polkit-qt-1",
+      "libraries/pulseaudio-qt"
     ]
 
     git_repos_ffmpeg_org = [
