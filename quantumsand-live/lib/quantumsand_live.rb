@@ -5440,7 +5440,8 @@ class QuantumsandLive
       "frameworks/syntax-highlighting",
       "libraries/mpvqt",
       "multimedia/haruna",
-      "multimedia/plasmatube"
+      "multimedia/plasmatube",
+      "libraries/binschema"
     ]
 
     git_repos_ffmpeg_org = [
