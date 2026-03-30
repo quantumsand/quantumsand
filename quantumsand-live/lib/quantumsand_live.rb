@@ -5418,7 +5418,8 @@ class QuantumsandLive
       "libraries/kproperty",
       "libraries/kpublictransport",
       "libraries/kqtquickcharts",
-      "libraries/kquickimageeditor"
+      "libraries/kquickimageeditor",
+      "libraries/kreport"
     ]
 
     git_repos_ffmpeg_org = [
