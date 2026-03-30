@@ -4137,7 +4137,8 @@ class QuantumsandLive
       "schrodinger/pymol-open-source",
       "schrodinger/gpusimilarity",
       "schrodinger/maeparser",
-      "PabloEnmanuelRamos/BioBlender21"
+      "PabloEnmanuelRamos/BioBlender21",
+      "motis-project/motis"
     ]
 
     git_repos_chromium_googlesource = [
