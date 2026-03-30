@@ -64,6 +64,7 @@ trix-editor {
   min-height: 230px !important;
   max-height: 230px !important;
   min-width: 410px !important;
+  width: calc(100vw - 510px);
   overflow-y: auto;
 }
 
