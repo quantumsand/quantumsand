@@ -4139,7 +4139,8 @@ class QuantumsandLive
       "schrodinger/maeparser",
       "PabloEnmanuelRamos/BioBlender21",
       "motis-project/motis",
-      "motis-project/osr"
+      "motis-project/osr",
+      "motis-project/tiles"
     ]
 
     git_repos_chromium_googlesource = [
