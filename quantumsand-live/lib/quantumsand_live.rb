@@ -5441,7 +5441,8 @@ class QuantumsandLive
       "libraries/mpvqt",
       "multimedia/haruna",
       "multimedia/plasmatube",
-      "libraries/binschema"
+      "libraries/binschema",
+      "libraries/nongurigaeru"
     ]
 
     git_repos_ffmpeg_org = [
