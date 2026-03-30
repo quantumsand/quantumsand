@@ -4155,7 +4155,8 @@ class QuantumsandLive
       "github/cmark-gfm",
       "commonmark/cmark",
       "igormironchik/markdown-tools",
-      "jellyfin/jellyfin-desktop"
+      "jellyfin/jellyfin-desktop",
+      "mpv-player/mpv"
     ]
 
     git_repos_chromium_googlesource = [
