@@ -4159,7 +4159,8 @@ class QuantumsandLive
       "mpv-player/mpv",
       "solvespace/solvespace",
       "vincenthz/libjson",
-      "FreeSpacenav/libspnav"
+      "FreeSpacenav/libspnav",
+      "libigl/libigl"
     ]
 
     git_repos_chromium_googlesource = [
