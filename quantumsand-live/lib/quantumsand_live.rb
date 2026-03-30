@@ -4164,7 +4164,8 @@ class QuantumsandLive
       "solvespace/libdxfrw",
       "solvespace/pixman",
       "solvespace/cairo",
-      "solvespace/angle"
+      "solvespace/angle",
+      "basecamp/trix"
     ]
 
     git_repos_chromium_googlesource = [
