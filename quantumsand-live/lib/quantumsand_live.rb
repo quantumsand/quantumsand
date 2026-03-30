@@ -4142,7 +4142,8 @@ class QuantumsandLive
       "motis-project/osr",
       "motis-project/tiles",
       "motis-project/utl",
-      "motis-project/osm"
+      "motis-project/osm",
+      "motis-project/nigiri"
     ]
 
     git_repos_chromium_googlesource = [
