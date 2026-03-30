@@ -5445,7 +5445,8 @@ class QuantumsandLive
       "libraries/nongurigaeru",
       "libraries/perceptualcolor",
       "libraries/phonon",
-      "libraries/phonon-vlc"
+      "libraries/phonon-vlc",
+      "libraries/plasma-wayland-protocols"
     ]
 
     git_repos_ffmpeg_org = [
