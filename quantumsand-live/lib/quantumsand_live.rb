@@ -5446,7 +5446,8 @@ class QuantumsandLive
       "libraries/perceptualcolor",
       "libraries/phonon",
       "libraries/phonon-vlc",
-      "libraries/plasma-wayland-protocols"
+      "libraries/plasma-wayland-protocols",
+      "libraries/polkit-qt-1"
     ]
 
     git_repos_ffmpeg_org = [
