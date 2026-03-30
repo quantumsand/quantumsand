@@ -4158,7 +4158,8 @@ class QuantumsandLive
       "jellyfin/jellyfin-desktop",
       "mpv-player/mpv",
       "solvespace/solvespace",
-      "vincenthz/libjson"
+      "vincenthz/libjson",
+      "FreeSpacenav/libspnav"
     ]
 
     git_repos_chromium_googlesource = [
