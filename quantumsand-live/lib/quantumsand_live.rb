@@ -4880,7 +4880,8 @@ class QuantumsandLive
       "gstreamer/gir-files-rs",
       "gstreamer/gst-indent",
       "gnu-grub/grub",
-      "mesa/vkrunner"
+      "mesa/vkrunner",
+      "mesa/kmscube"
     ]
 
     git_repos_xfce_gitlab = [
