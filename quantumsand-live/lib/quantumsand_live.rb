@@ -5400,7 +5400,8 @@ class QuantumsandLive
       "libraries/kdsoap-ws-discovery-client",
       "libraries/kdb",
       "libraries/kije",
-      "libraries/kirigami-addons"
+      "libraries/kirigami-addons",
+      "libraries/kopeninghours"
     ]
 
     git_repos_ffmpeg_org = [
