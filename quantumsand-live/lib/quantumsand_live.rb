@@ -5401,7 +5401,8 @@ class QuantumsandLive
       "libraries/kdb",
       "libraries/kije",
       "libraries/kirigami-addons",
-      "libraries/kopeninghours"
+      "libraries/kopeninghours",
+      "libraries/kosmindoormap"
     ]
 
     git_repos_ffmpeg_org = [
