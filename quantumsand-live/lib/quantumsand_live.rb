@@ -4146,7 +4146,8 @@ class QuantumsandLive
       "motis-project/nigiri",
       "MobilityData/gbfs",
       "opentripplanner/OpenTripPlanner",
-      "opentripplanner/otp-react-redux"
+      "opentripplanner/otp-react-redux",
+      "opentripplanner/otp-ui"
     ]
 
     git_repos_chromium_googlesource = [
