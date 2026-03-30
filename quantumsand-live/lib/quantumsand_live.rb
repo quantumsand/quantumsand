@@ -5443,7 +5443,8 @@ class QuantumsandLive
       "multimedia/plasmatube",
       "libraries/binschema",
       "libraries/nongurigaeru",
-      "libraries/perceptualcolor"
+      "libraries/perceptualcolor",
+      "libraries/phonon"
     ]
 
     git_repos_ffmpeg_org = [
