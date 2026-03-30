@@ -4887,7 +4887,8 @@ class QuantumsandLive
       "mesa/sixonix",
       "mesa/glut",
       "mesa/glu",
-      "mesa/demos"
+      "mesa/demos",
+      "mesa/vulkan-wsi-layer"
     ]
 
     git_repos_xfce_gitlab = [
