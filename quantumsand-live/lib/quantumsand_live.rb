@@ -5428,7 +5428,8 @@ class QuantumsandLive
       "libraries/libqaccessibilityclient",
       "sdk/releaseme",
       "libraries/libqgit2",
-      "libraries/libtmdbqt"
+      "libraries/libtmdbqt",
+      "libraries/md4qt"
     ]
 
     git_repos_ffmpeg_org = [
