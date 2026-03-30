@@ -4153,7 +4153,8 @@ class QuantumsandLive
       "mozilla-services/autopush-rs",
       "binwiederhier/ntfy",
       "github/cmark-gfm",
-      "commonmark/cmark"
+      "commonmark/cmark",
+      "igormironchik/markdown-tools"
     ]
 
     git_repos_chromium_googlesource = [
