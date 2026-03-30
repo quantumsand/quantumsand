@@ -55,7 +55,7 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
   }), [srcJson]);
 
   const handleResize = e => {
-    console.log("resized to: ", window.innerWidth, "x", window.innerHeight, "y");
+    // console.log("resized to: ", window.innerWidth, "x", window.innerHeight, "y");
     if (peaksInstance && peaksInstance.views) {
       try {
         peaksInstance.views.getView('zoomview')?.fitToContainer();
