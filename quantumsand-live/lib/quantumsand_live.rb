@@ -4154,7 +4154,8 @@ class QuantumsandLive
       "binwiederhier/ntfy",
       "github/cmark-gfm",
       "commonmark/cmark",
-      "igormironchik/markdown-tools"
+      "igormironchik/markdown-tools",
+      "jellyfin/jellyfin-desktop"
     ]
 
     git_repos_chromium_googlesource = [
