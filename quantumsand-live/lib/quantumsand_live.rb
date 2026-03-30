@@ -5424,7 +5424,8 @@ class QuantumsandLive
       "libraries/kreport",
       "libraries/ktextaddons",
       "libraries/kunifiedpush",
-      "libraries/kweathercore"
+      "libraries/kweathercore",
+      "libraries/libqaccessibilityclient"
     ]
 
     git_repos_ffmpeg_org = [
