@@ -4144,7 +4144,8 @@ class QuantumsandLive
       "motis-project/utl",
       "motis-project/osm",
       "motis-project/nigiri",
-      "MobilityData/gbfs"
+      "MobilityData/gbfs",
+      "opentripplanner/OpenTripPlanner"
     ]
 
     git_repos_chromium_googlesource = [
