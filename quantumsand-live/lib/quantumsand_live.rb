@@ -4163,7 +4163,8 @@ class QuantumsandLive
       "libigl/libigl",
       "solvespace/libdxfrw",
       "solvespace/pixman",
-      "solvespace/cairo"
+      "solvespace/cairo",
+      "solvespace/angle"
     ]
 
     git_repos_chromium_googlesource = [
