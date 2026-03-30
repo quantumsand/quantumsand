@@ -4147,7 +4147,8 @@ class QuantumsandLive
       "MobilityData/gbfs",
       "opentripplanner/OpenTripPlanner",
       "opentripplanner/otp-react-redux",
-      "opentripplanner/otp-ui"
+      "opentripplanner/otp-ui",
+      "opentripplanner/TrakPi"
     ]
 
     git_repos_chromium_googlesource = [
