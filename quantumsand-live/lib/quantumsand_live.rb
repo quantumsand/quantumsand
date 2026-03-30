@@ -4160,7 +4160,8 @@ class QuantumsandLive
       "solvespace/solvespace",
       "vincenthz/libjson",
       "FreeSpacenav/libspnav",
-      "libigl/libigl"
+      "libigl/libigl",
+      "solvespace/libdxfrw"
     ]
 
     git_repos_chromium_googlesource = [
