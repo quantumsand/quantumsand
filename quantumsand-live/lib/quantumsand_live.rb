@@ -4152,7 +4152,8 @@ class QuantumsandLive
       "motis-project/geo",
       "mozilla-services/autopush-rs",
       "binwiederhier/ntfy",
-      "github/cmark-gfm"
+      "github/cmark-gfm",
+      "commonmark/cmark"
     ]
 
     git_repos_chromium_googlesource = [
