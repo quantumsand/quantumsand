@@ -5444,7 +5444,8 @@ class QuantumsandLive
       "libraries/binschema",
       "libraries/nongurigaeru",
       "libraries/perceptualcolor",
-      "libraries/phonon"
+      "libraries/phonon",
+      "libraries/phonon-vlc"
     ]
 
     git_repos_ffmpeg_org = [
