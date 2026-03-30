@@ -11,13 +11,17 @@ import TimelapseIcon from '@mui/icons-material/Timelapse';
 import ControlPointIcon from '@mui/icons-material/ControlPoint';
 
 import { IconButton } from '@mui/material';
+import { Workbook } from '@fortune-sheet/react'
+import "@fortune-sheet/react/dist/index.css"
 
 import "./NarrativeSync.css";
+import cell from "../Grains/cell";
 
 export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dynamic.webm",
                                         srcJson = "/video/sample-narrative-dynamic.json", markdown }) {
 
  const [peaksInstance, setPeaksInstance] = useState([]);
+ const [spreadsheetData, setSpreadsheetData] = useState([cell]);
 
   useEffect(() => Peaks.init({
     containers: {
@@ -111,41 +115,39 @@ export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dyna
 
   return (
     <div className="narrative__sync">
-      <p>TODO: NarrativeSync components:</p>
-      <p>Waveform; narrative__syncWaveform</p>
+      <div className="narrative__syncButtons">
+        <IconButton onClick={zoomOut.bind(this)}>
+          <ZoomOutIcon />
+        </IconButton>
+        <IconButton onClick={zoomIn.bind(this)}>
+          <ZoomInIcon />
+        </IconButton>
+        <IconButton onClick={addSegment.bind(this)}>
+          <TimelapseIcon />
+        </IconButton>
+        <IconButton onClick={addPoint.bind(this)}>
+          <ControlPointIcon />
+        </IconButton>
+        <IconButton>
+          <DeleteIcon />
+        </IconButton>
+        <IconButton>
+          <DeleteForeverIcon />
+        </IconButton>
+      </div>
       <div className="narrative__syncWaveform">
-        <p>Narrative waveform; narrative__syncWaveform</p>
         <div id="waveform-container">
           <div id="zoomview-container"></div>
           <div id="overview-container"></div>
           <video id="audio" controls="controls" className="narrative__syncWaveformVideo">
             <source src={videoUrl} type="video/webm" />
-            Your browser does not support the audio element.
+            Your browser does not support the video element.
           </video>
         </div>
       </div>
-      <p>Narrative video; narrative__syncVideo / Narrative text; narrative__syncText</p>
-      <p>Narrative spreadsheet; narrative__syncSpreadsheet / Narrative buttons; narrative__syncButtons</p>
-      <div className="narrative__syncButtons">
-        <p>Narrative buttons; narrative__syncButtons</p>
-          <IconButton onClick={zoomOut.bind(this)}>
-            <ZoomOutIcon />
-          </IconButton>
-          <IconButton onClick={zoomIn.bind(this)}>
-            <ZoomInIcon />
-          </IconButton>
-          <IconButton onClick={addSegment.bind(this)}>
-            <TimelapseIcon />
-          </IconButton>
-          <IconButton onClick={addPoint.bind(this)}>
-            <ControlPointIcon />
-          </IconButton>
-          <IconButton>
-            <DeleteIcon />
-          </IconButton>
-          <IconButton>
-            <DeleteForeverIcon />
-          </IconButton>
+      <p>Narrative text; narrative__syncText</p>
+      <div className="narrative__syncSpreadsheet">
+        <Workbook data={spreadsheetData} onOp={console.log} />
       </div>
     </div>
   )
