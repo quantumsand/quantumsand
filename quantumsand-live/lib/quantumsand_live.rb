@@ -4881,7 +4881,8 @@ class QuantumsandLive
       "gstreamer/gst-indent",
       "gnu-grub/grub",
       "mesa/vkrunner",
-      "mesa/kmscube"
+      "mesa/kmscube",
+      "mesa/piglit"
     ]
 
     git_repos_xfce_gitlab = [
