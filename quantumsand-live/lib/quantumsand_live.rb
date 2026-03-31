@@ -4173,7 +4173,8 @@ class QuantumsandLive
       "motion-project/motion",
       "huggingface/transformers.js",
       "nteract/semiotic",
-      "dupontcyborg/numpy-ts"
+      "dupontcyborg/numpy-ts",
+      "eslint/markdown"
     ]
 
     git_repos_chromium_googlesource = [
