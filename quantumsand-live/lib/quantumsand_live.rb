@@ -4167,7 +4167,8 @@ class QuantumsandLive
       "solvespace/angle",
       "basecamp/trix",
       "oumi-ai/oumi",
-      "nmap/nmap"
+      "nmap/nmap",
+      "nmap/npcap"
     ]
 
     git_repos_chromium_googlesource = [
