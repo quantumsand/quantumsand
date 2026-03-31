@@ -4170,7 +4170,8 @@ class QuantumsandLive
       "nmap/nmap",
       "nmap/npcap",
       "nmap/ncrack",
-      "motion-project/motion"
+      "motion-project/motion",
+      "huggingface/transformers.js"
     ]
 
     git_repos_chromium_googlesource = [
