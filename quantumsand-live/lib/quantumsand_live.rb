@@ -5751,7 +5751,8 @@ class QuantumsandLive
       "media-gfx/potrace",
       "app-text/mupdf",
       "app-text/ghostscript-gpl",
-      "net-analyzer/nmap"
+      "net-analyzer/nmap",
+      "media-video/motion"
     ]
 
     gentoo_eselect_repository_add = {
