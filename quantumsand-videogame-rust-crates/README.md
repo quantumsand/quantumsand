@@ -11,3 +11,4 @@ This will include:
 * Valkey (forked from Redis); very fast temporary storage database/cache.
 * Bevy LDtk game (bevy_ecs_ldtk); with some reused customisation.
 * Bevy CEF animated book (bevy_cef/cef-rs); render web pages into a 3d animated book using Bevy and CEF.
+* Bevy CEF animated newspaper (bevy_cef/cef-rs); render web pages into a 3d animated newspaper using Bevy and CEF.
