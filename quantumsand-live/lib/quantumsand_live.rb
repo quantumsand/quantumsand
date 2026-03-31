@@ -4172,7 +4172,8 @@ class QuantumsandLive
       "nmap/ncrack",
       "motion-project/motion",
       "huggingface/transformers.js",
-      "nteract/semiotic"
+      "nteract/semiotic",
+      "dupontcyborg/numpy-ts"
     ]
 
     git_repos_chromium_googlesource = [
