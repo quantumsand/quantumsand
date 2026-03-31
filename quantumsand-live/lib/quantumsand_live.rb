@@ -4169,7 +4169,8 @@ class QuantumsandLive
       "oumi-ai/oumi",
       "nmap/nmap",
       "nmap/npcap",
-      "nmap/ncrack"
+      "nmap/ncrack",
+      "motion-project/motion"
     ]
 
     git_repos_chromium_googlesource = [
