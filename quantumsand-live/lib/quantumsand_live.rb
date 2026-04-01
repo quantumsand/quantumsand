@@ -5511,7 +5511,8 @@ class QuantumsandLive
       "libraries/snoretoast",
       "libraries/upnp-lib-qt",
       "multimedia/audiocd-kio",
-      "multimedia/amarok"
+      "multimedia/amarok",
+      "multimedia/audex"
     ]
 
     git_repos_ffmpeg_org = [
