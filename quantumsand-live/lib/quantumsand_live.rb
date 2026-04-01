@@ -5515,7 +5515,8 @@ class QuantumsandLive
       "multimedia/amarok",
       "multimedia/audex",
       "multimedia/audiotube",
-      "multimedia/dragon"
+      "multimedia/dragon",
+      "multimedia/elisa"
     ]
 
     git_repos_ffmpeg_org = [
