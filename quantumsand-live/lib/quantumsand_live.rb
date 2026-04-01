@@ -5519,7 +5519,8 @@ class QuantumsandLive
       "multimedia/elisa",
       "multimedia/ffmpegthumbs",
       "multimedia/hana",
-      "multimedia/juk"
+      "multimedia/juk",
+      "multimedia/k3b"
     ]
 
     git_repos_ffmpeg_org = [
