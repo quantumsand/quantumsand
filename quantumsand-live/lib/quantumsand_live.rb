@@ -5498,7 +5498,8 @@ class QuantumsandLive
       "libraries/polkit-qt-1",
       "libraries/pulseaudio-qt",
       "libraries/qca",
-      "libraries/qxmpp"
+      "libraries/qxmpp",
+      "libraries/cxx-kde-frameworks"
     ]
 
     git_repos_ffmpeg_org = [
