@@ -4199,7 +4199,8 @@ class QuantumsandLive
       "collabora/gst-python-ml",
       "nemtrif/utfcpp",
       "taglib/taglib",
-      "fadingred/libgpod"
+      "fadingred/libgpod",
+      "libmtp/libmtp"
     ]
 
     git_repos_chromium_googlesource = [
