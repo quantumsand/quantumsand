@@ -4186,7 +4186,8 @@ class QuantumsandLive
       "jax-ml/bayeux",
       "jax-ml/scaling-book",
       "jax-ml/jax-llm-examples",
-      "jax-ml/ml_dtypes"
+      "jax-ml/ml_dtypes",
+      "pyro-ppl/numpyro"
     ]
 
     git_repos_chromium_googlesource = [
