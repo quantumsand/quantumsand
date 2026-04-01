@@ -5523,7 +5523,8 @@ class QuantumsandLive
       "multimedia/k3b",
       "multimedia/kaffeine",
       "multimedia/kasts",
-      "multimedia/kdenlive-test-suite"
+      "multimedia/kdenlive-test-suite",
+      "multimedia/kid3"
     ]
 
     git_repos_ffmpeg_org = [
