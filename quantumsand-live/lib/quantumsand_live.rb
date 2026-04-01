@@ -5509,7 +5509,8 @@ class QuantumsandLive
       "libraries/qxmpp",
       "libraries/cxx-kde-frameworks",
       "libraries/snoretoast",
-      "libraries/upnp-lib-qt"
+      "libraries/upnp-lib-qt",
+      "multimedia/audiocd-kio"
     ]
 
     git_repos_ffmpeg_org = [
