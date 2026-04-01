@@ -4194,7 +4194,8 @@ class QuantumsandLive
       "pyro-ppl/brmp",
       "pyro-ppl/sandbox",
       "cornelius/kode",
-      "cornelius/libkode"
+      "cornelius/libkode",
+      "KDAB/KDSoap"
     ]
 
     git_repos_chromium_googlesource = [
