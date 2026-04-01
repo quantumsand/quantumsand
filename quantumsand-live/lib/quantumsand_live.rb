@@ -4181,7 +4181,8 @@ class QuantumsandLive
       "arrayfire/arrayfire",
       "jax-ml/australis",
       "jax-ml/coix",
-      "jax-ml/bonsai"
+      "jax-ml/bonsai",
+      "jax-ml/oryx"
     ]
 
     git_repos_chromium_googlesource = [
