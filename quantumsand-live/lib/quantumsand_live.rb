@@ -5512,7 +5512,8 @@ class QuantumsandLive
       "libraries/upnp-lib-qt",
       "multimedia/audiocd-kio",
       "multimedia/amarok",
-      "multimedia/audex"
+      "multimedia/audex",
+      "multimedia/audiotube"
     ]
 
     git_repos_ffmpeg_org = [
