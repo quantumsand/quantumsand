@@ -4177,7 +4177,8 @@ class QuantumsandLive
       "eslint/markdown",
       "ml-explore/mlx",
       "ml-explore/mlx-examples",
-      "jax-ml/jax"
+      "jax-ml/jax",
+      "arrayfire/arrayfire"
     ]
 
     git_repos_chromium_googlesource = [
