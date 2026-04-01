@@ -5514,7 +5514,8 @@ class QuantumsandLive
       "multimedia/audiocd-kio",
       "multimedia/amarok",
       "multimedia/audex",
-      "multimedia/audiotube"
+      "multimedia/audiotube",
+      "multimedia/dragon"
     ]
 
     git_repos_ffmpeg_org = [
