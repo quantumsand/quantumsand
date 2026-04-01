@@ -4174,7 +4174,8 @@ class QuantumsandLive
       "huggingface/transformers.js",
       "nteract/semiotic",
       "dupontcyborg/numpy-ts",
-      "eslint/markdown"
+      "eslint/markdown",
+      "ml-explore/mlx"
     ]
 
     git_repos_chromium_googlesource = [
