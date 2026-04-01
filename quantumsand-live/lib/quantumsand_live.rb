@@ -4193,7 +4193,8 @@ class QuantumsandLive
       "pyro-ppl/pyroed",
       "pyro-ppl/brmp",
       "pyro-ppl/sandbox",
-      "cornelius/kode"
+      "cornelius/kode",
+      "cornelius/libkode"
     ]
 
     git_repos_chromium_googlesource = [
