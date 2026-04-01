@@ -5499,7 +5499,8 @@ class QuantumsandLive
       "libraries/pulseaudio-qt",
       "libraries/qca",
       "libraries/qxmpp",
-      "libraries/cxx-kde-frameworks"
+      "libraries/cxx-kde-frameworks",
+      "libraries/snoretoast"
     ]
 
     git_repos_ffmpeg_org = [
