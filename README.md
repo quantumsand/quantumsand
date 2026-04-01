@@ -4,7 +4,7 @@ When I was studying Physics at the University of London Royal Holloway, I had an
 
 The result of this thought process is now an app that is nearing completion for testing.
 
-Quantum Sand is an everything app, including an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, C++ and Qml. Blender is used for the artwork.
+Quantum Sand is an everything app, including an educational art-game-storytelling platform. Written in React, Rust, Ruby-on-Rails, Elixir, Phoenix, Python, C++ and Qml. Blender is used for the artwork.
 
 Quantum Sand is primarily Linux based but I would love to support Windows and macOS. The only blocker is the lack of Wayland compositor support within Qt on those platforms.
 
