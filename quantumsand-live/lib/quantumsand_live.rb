@@ -5521,7 +5521,8 @@ class QuantumsandLive
       "multimedia/hana",
       "multimedia/juk",
       "multimedia/k3b",
-      "multimedia/kaffeine"
+      "multimedia/kaffeine",
+      "multimedia/kasts"
     ]
 
     git_repos_ffmpeg_org = [
