@@ -4184,7 +4184,8 @@ class QuantumsandLive
       "jax-ml/bonsai",
       "jax-ml/oryx",
       "jax-ml/bayeux",
-      "jax-ml/scaling-book"
+      "jax-ml/scaling-book",
+      "jax-ml/jax-llm-examples"
     ]
 
     git_repos_chromium_googlesource = [
