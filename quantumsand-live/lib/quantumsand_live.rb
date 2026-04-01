@@ -4176,7 +4176,8 @@ class QuantumsandLive
       "dupontcyborg/numpy-ts",
       "eslint/markdown",
       "ml-explore/mlx",
-      "ml-explore/mlx-examples"
+      "ml-explore/mlx-examples",
+      "jax-ml/jax"
     ]
 
     git_repos_chromium_googlesource = [
