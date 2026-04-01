@@ -4189,7 +4189,8 @@ class QuantumsandLive
       "jax-ml/ml_dtypes",
       "pyro-ppl/numpyro",
       "pyro-ppl/pyro",
-      "pyro-ppl/funsor"
+      "pyro-ppl/funsor",
+      "pyro-ppl/pyroed"
     ]
 
     git_repos_chromium_googlesource = [
