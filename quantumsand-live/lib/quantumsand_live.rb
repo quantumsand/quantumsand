@@ -4175,7 +4175,8 @@ class QuantumsandLive
       "nteract/semiotic",
       "dupontcyborg/numpy-ts",
       "eslint/markdown",
-      "ml-explore/mlx"
+      "ml-explore/mlx",
+      "ml-explore/mlx-examples"
     ]
 
     git_repos_chromium_googlesource = [
