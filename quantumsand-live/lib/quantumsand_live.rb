@@ -4178,7 +4178,8 @@ class QuantumsandLive
       "ml-explore/mlx",
       "ml-explore/mlx-examples",
       "jax-ml/jax",
-      "arrayfire/arrayfire"
+      "arrayfire/arrayfire",
+      "jax-ml/australis"
     ]
 
     git_repos_chromium_googlesource = [
