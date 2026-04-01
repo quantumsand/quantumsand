@@ -56,3 +56,52 @@ aarch64-unknown-linux-gnu-emerge -v1 @system
 Thanks to: https://wiki.gentoo.org/wiki/Crossdev
 
 User contributions are licensed under the CC-BY-SA-4.0 license.
+
+## Building Linux arm64 on macOS using Apple Containerization
+
+* Install Xcode. Go into the App Store. Once installed click Open.
+* Agree to the Xcode and Apple SDKs Agreement.
+* Choose any platform support you wish; You need the macOS option selected.
+* Click "Download & Install".
+* After installation you should see a popup; "What's New in Xcode".
+* Click Continue.
+* You can close Xcode for now.
+* Ensure the Xcode app is in the `/Applications` directory.
+* `sudo xcode-select -s /Applications/Xcode.app/Contents/Developer`
+* Install Apple Containerization; a Swift package for running Linux containers on macOS.
+* Launch the Terminal app; In a separate directory; Outside of quantumsand;
+* Clone containerization; `git clone https://github.com/apple/containerization.git`
+* Launch Visual Studio Code; `code containerization`
+* Run the following command; `make cross-prep`
+* You should see the following message:
+```
+Installing Swiftly...
+```
+* With a block of text explaining the installation...
+* You are asked `Proceed? (Y/n):`
+* Type `y` and press return
+* Close and reopen your terminal.
+* Run this command: `which swift`
+* You should see the following message:
+```
+/Users/your-user-name/.swiftly/bin/swift
+```
+* Build Containerization from sources; `make all`
+* Eventually you should see the following message;
+```
+Build complete! (56.33s)
+Creating init.ext4...
+creating initfs image vminit:latest...
+```
+* Fetch a default kernel; `make fetch-default-kernel`
+* Run integration tests; `make all test integration`
+* You should see a lot of messages...
+```
+Building containerization binaries...
+swift-driver version: 1.148.6 Apple Swift version 6.3 (swiftlang-6.3.0.123.5 clang-2100.0.123.102)
+Target: arm64-apple-macosx26.0
+
+Integration suite completed in...
+```
+
+More to follow.
