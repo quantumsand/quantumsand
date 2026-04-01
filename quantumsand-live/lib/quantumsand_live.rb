@@ -5516,7 +5516,8 @@ class QuantumsandLive
       "multimedia/audex",
       "multimedia/audiotube",
       "multimedia/dragon",
-      "multimedia/elisa"
+      "multimedia/elisa",
+      "multimedia/ffmpegthumbs"
     ]
 
     git_repos_ffmpeg_org = [
