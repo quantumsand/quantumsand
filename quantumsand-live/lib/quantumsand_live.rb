@@ -4201,7 +4201,8 @@ class QuantumsandLive
       "taglib/taglib",
       "fadingred/libgpod",
       "libmtp/libmtp",
-      "poddmo/abcde"
+      "poddmo/abcde",
+      "CleanCut/bevy_pause"
     ]
 
     git_repos_chromium_googlesource = [
