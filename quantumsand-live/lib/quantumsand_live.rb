@@ -4197,7 +4197,8 @@ class QuantumsandLive
       "cornelius/libkode",
       "KDAB/KDSoap",
       "collabora/gst-python-ml",
-      "nemtrif/utfcpp"
+      "nemtrif/utfcpp",
+      "taglib/taglib"
     ]
 
     git_repos_chromium_googlesource = [
