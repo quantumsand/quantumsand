@@ -4191,7 +4191,8 @@ class QuantumsandLive
       "pyro-ppl/pyro",
       "pyro-ppl/funsor",
       "pyro-ppl/pyroed",
-      "pyro-ppl/brmp"
+      "pyro-ppl/brmp",
+      "pyro-ppl/sandbox"
     ]
 
     git_repos_chromium_googlesource = [
