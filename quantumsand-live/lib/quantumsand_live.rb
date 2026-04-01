@@ -4195,7 +4195,8 @@ class QuantumsandLive
       "pyro-ppl/sandbox",
       "cornelius/kode",
       "cornelius/libkode",
-      "KDAB/KDSoap"
+      "KDAB/KDSoap",
+      "collabora/gst-python-ml"
     ]
 
     git_repos_chromium_googlesource = [
@@ -5905,7 +5906,6 @@ class QuantumsandLive
     # TODO: nasa-ibm-ai4science/Surya-1.0; The first open-source AI foundation model for heliophysics
     # TODO: nasa-ibm-ai4science/SDO_training; This dataset provides machine learning (ML)-ready solar data curated from NASA’s Solar Dynamics Observatory
     # TODO: apple/ml-diffucoder; DiffuCoder: Understanding and Improving Masked Diffusion Models for Code Generation
-    # TODO: collabora/gst-python-ml; Python-powered ML analytics for GStreamer pipelines
     # TODO: NVIDIA Linux driver
     # TODO: CUDA
     # TODO: ROCm
