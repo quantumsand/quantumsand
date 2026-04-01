@@ -4200,7 +4200,8 @@ class QuantumsandLive
       "nemtrif/utfcpp",
       "taglib/taglib",
       "fadingred/libgpod",
-      "libmtp/libmtp"
+      "libmtp/libmtp",
+      "poddmo/abcde"
     ]
 
     git_repos_chromium_googlesource = [
