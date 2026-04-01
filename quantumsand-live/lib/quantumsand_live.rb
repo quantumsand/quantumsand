@@ -5503,7 +5503,8 @@ class QuantumsandLive
       "libraries/qca",
       "libraries/qxmpp",
       "libraries/cxx-kde-frameworks",
-      "libraries/snoretoast"
+      "libraries/snoretoast",
+      "libraries/upnp-lib-qt"
     ]
 
     git_repos_ffmpeg_org = [
