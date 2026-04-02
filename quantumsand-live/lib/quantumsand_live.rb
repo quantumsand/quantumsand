@@ -5857,7 +5857,8 @@ class QuantumsandLive
       "app-text/ghostscript-gpl",
       "net-analyzer/nmap",
       "media-video/motion",
-      "app-misc/resolve-march-native"
+      "app-misc/resolve-march-native",
+      "app-portage/getuto"
     ]
 
     gentoo_eselect_repository_add = {
