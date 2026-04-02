@@ -5530,7 +5530,8 @@ class QuantumsandLive
       "frameworks/threadweaver",
       "frameworks/syndication",
       "multimedia/kmix",
-      "multimedia/kwave"
+      "multimedia/kwave",
+      "multimedia/libkcddb"
     ]
 
     git_repos_ffmpeg_org = [
