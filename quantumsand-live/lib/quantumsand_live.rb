@@ -4203,7 +4203,8 @@ class QuantumsandLive
       "libmtp/libmtp",
       "poddmo/abcde",
       "CleanCut/bevy_pause",
-      "frankosterfeld/qtkeychain"
+      "frankosterfeld/qtkeychain",
+      "Feneric/doxypypy"
     ]
 
     git_repos_chromium_googlesource = [
