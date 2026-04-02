@@ -5533,7 +5533,8 @@ class QuantumsandLive
       "multimedia/kwave",
       "multimedia/libkcddb",
       "multimedia/libkcompactdisc",
-      "multimedia/rattlesnake"
+      "multimedia/rattlesnake",
+      "multimedia/stopmotion"
     ]
 
     git_repos_ffmpeg_org = [
