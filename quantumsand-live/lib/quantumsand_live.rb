@@ -5861,7 +5861,8 @@ class QuantumsandLive
       "media-video/motion",
       "app-misc/resolve-march-native",
       "app-portage/getuto",
-      "www-servers/lighttpd"
+      "www-servers/lighttpd",
+      "www-servers/caddy"
     ]
 
     gentoo_eselect_repository_add = {
@@ -5940,7 +5941,6 @@ class QuantumsandLive
     # TODO: google/oss-rebuild; Google ❤️ Open Source
     # TODO: Google Sans Code
     # TODO: emerge --ask www-apps/gitea
-    # TODO: Caddy
     # TODO: sys-devel/distcc
     # TODO: jdx/mise; dev tools, env vars, task runner
     # TODO: QEMU
