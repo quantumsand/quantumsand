@@ -5542,7 +5542,8 @@ class QuantumsandLive
       "frameworks/prison",
       "frameworks/breeze-icons",
       "frameworks/kapidox",
-      "sdk/doxyqml"
+      "sdk/doxyqml",
+      "frameworks/frameworkintegration"
     ]
 
     git_repos_ffmpeg_org = [
