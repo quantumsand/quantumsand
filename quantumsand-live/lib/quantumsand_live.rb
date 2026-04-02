@@ -4222,7 +4222,8 @@ class QuantumsandLive
       "RobotecAI/SimulationInterfacesDemo",
       "RobotecAI/o3de-rgl-gem",
       "RobotecAI/RobotecGPULidar",
-      "NVIDIA/optix-dev"
+      "NVIDIA/optix-dev",
+      "RobotecAI/o3de-ur-robots-gem"
     ]
 
     git_repos_chromium_googlesource = [
