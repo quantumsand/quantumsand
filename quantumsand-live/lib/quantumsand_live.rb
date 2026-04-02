@@ -4216,7 +4216,8 @@ class QuantumsandLive
       "lighttpd/lighttpd1.4",
       "o3de/o3de-extras",
       "ros-simulation/simulation_interfaces",
-      "ros-simulation/simulation_interfaces_examples"
+      "ros-simulation/simulation_interfaces_examples",
+      "RobotecAI/q_simulation_interfaces"
     ]
 
     git_repos_chromium_googlesource = [
