@@ -4209,7 +4209,8 @@ class QuantumsandLive
       "grandcat/zeroconf",
       "IBM/mcp-context-forge",
       "IBM/fp-go",
-      "IBM/openapi-to-graphql"
+      "IBM/openapi-to-graphql",
+      "LADI/linux"
     ]
 
     git_repos_chromium_googlesource = [
