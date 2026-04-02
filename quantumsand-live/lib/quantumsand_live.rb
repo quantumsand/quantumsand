@@ -5567,7 +5567,8 @@ class QuantumsandLive
       "frameworks/kjobwidgets",
       "frameworks/knewstuff",
       "frameworks/knotifications",
-      "frameworks/knotifyconfig"
+      "frameworks/knotifyconfig",
+      "frameworks/kparts"
     ]
 
     git_repos_ffmpeg_org = [
