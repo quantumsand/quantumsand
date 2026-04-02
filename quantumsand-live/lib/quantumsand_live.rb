@@ -5564,7 +5564,8 @@ class QuantumsandLive
       "frameworks/kidletime",
       "frameworks/kimageformats",
       "frameworks/kitemmodels",
-      "frameworks/kjobwidgets"
+      "frameworks/kjobwidgets",
+      "frameworks/knewstuff"
     ]
 
     git_repos_ffmpeg_org = [
