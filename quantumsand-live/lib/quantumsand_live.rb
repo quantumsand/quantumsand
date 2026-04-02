@@ -4208,7 +4208,8 @@ class QuantumsandLive
       "tenderlove/zeroconf",
       "grandcat/zeroconf",
       "IBM/mcp-context-forge",
-      "IBM/fp-go"
+      "IBM/fp-go",
+      "IBM/openapi-to-graphql"
     ]
 
     git_repos_chromium_googlesource = [
