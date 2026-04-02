@@ -5537,7 +5537,8 @@ class QuantumsandLive
       "multimedia/stopmotion",
       "multimedia/subtitlecomposer",
       "frameworks/attica",
-      "frameworks/baloo"
+      "frameworks/baloo",
+      "frameworks/prison"
     ]
 
     git_repos_ffmpeg_org = [
