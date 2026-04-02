@@ -5531,7 +5531,8 @@ class QuantumsandLive
       "frameworks/syndication",
       "multimedia/kmix",
       "multimedia/kwave",
-      "multimedia/libkcddb"
+      "multimedia/libkcddb",
+      "multimedia/libkcompactdisc"
     ]
 
     git_repos_ffmpeg_org = [
