@@ -5538,7 +5538,8 @@ class QuantumsandLive
       "multimedia/subtitlecomposer",
       "frameworks/attica",
       "frameworks/baloo",
-      "frameworks/prison"
+      "frameworks/prison",
+      "frameworks/breeze-icons"
     ]
 
     git_repos_ffmpeg_org = [
