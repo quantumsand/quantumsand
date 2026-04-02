@@ -4214,7 +4214,8 @@ class QuantumsandLive
       "hartwork/resolve-march-native",
       "projg2/getuto",
       "lighttpd/lighttpd1.4",
-      "o3de/o3de-extras"
+      "o3de/o3de-extras",
+      "ros-simulation/simulation_interfaces"
     ]
 
     git_repos_chromium_googlesource = [
