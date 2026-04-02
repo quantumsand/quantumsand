@@ -4219,7 +4219,8 @@ class QuantumsandLive
       "ros-simulation/simulation_interfaces_examples",
       "RobotecAI/q_simulation_interfaces",
       "iche033/simple_warehouse",
-      "RobotecAI/SimulationInterfacesDemo"
+      "RobotecAI/SimulationInterfacesDemo",
+      "RobotecAI/o3de-rgl-gem"
     ]
 
     git_repos_chromium_googlesource = [
