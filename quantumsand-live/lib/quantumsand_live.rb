@@ -5570,7 +5570,8 @@ class QuantumsandLive
       "frameworks/knotifyconfig",
       "frameworks/kparts",
       "frameworks/kpeople",
-      "frameworks/kplotting"
+      "frameworks/kplotting",
+      "frameworks/kpty"
     ]
 
     git_repos_ffmpeg_org = [
