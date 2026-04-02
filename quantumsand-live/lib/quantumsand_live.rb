@@ -4202,7 +4202,8 @@ class QuantumsandLive
       "fadingred/libgpod",
       "libmtp/libmtp",
       "poddmo/abcde",
-      "CleanCut/bevy_pause"
+      "CleanCut/bevy_pause",
+      "frankosterfeld/qtkeychain"
     ]
 
     git_repos_chromium_googlesource = [
