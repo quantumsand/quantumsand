@@ -5535,7 +5535,8 @@ class QuantumsandLive
       "multimedia/libkcompactdisc",
       "multimedia/rattlesnake",
       "multimedia/stopmotion",
-      "multimedia/subtitlecomposer"
+      "multimedia/subtitlecomposer",
+      "frameworks/attica"
     ]
 
     git_repos_ffmpeg_org = [
