@@ -5863,7 +5863,8 @@ class QuantumsandLive
       "app-portage/getuto",
       "www-servers/lighttpd",
       "www-servers/caddy",
-      "www-servers/nginx"
+      "www-servers/nginx",
+      "net-fs/nfs-utils"
     ]
 
     gentoo_eselect_repository_add = {
