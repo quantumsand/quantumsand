@@ -5877,7 +5877,8 @@ class QuantumsandLive
       "www-servers/nginx",
       "net-fs/nfs-utils",
       "app-portage/gentoolkit",
-      "app-portage/portage-utils"
+      "app-portage/portage-utils",
+      "dev-libs/optix"
     ]
 
     gentoo_eselect_repository_add = {
