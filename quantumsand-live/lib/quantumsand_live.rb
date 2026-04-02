@@ -5866,7 +5866,8 @@ class QuantumsandLive
       "www-servers/caddy",
       "www-servers/nginx",
       "net-fs/nfs-utils",
-      "app-portage/gentoolkit"
+      "app-portage/gentoolkit",
+      "app-portage/portage-utils"
     ]
 
     gentoo_eselect_repository_add = {
