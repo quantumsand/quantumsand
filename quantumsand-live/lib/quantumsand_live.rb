@@ -4213,7 +4213,8 @@ class QuantumsandLive
       "LADI/linux",
       "hartwork/resolve-march-native",
       "projg2/getuto",
-      "lighttpd/lighttpd1.4"
+      "lighttpd/lighttpd1.4",
+      "o3de/o3de-extras"
     ]
 
     git_repos_chromium_googlesource = [
