@@ -4215,7 +4215,8 @@ class QuantumsandLive
       "projg2/getuto",
       "lighttpd/lighttpd1.4",
       "o3de/o3de-extras",
-      "ros-simulation/simulation_interfaces"
+      "ros-simulation/simulation_interfaces",
+      "ros-simulation/simulation_interfaces_examples"
     ]
 
     git_repos_chromium_googlesource = [
