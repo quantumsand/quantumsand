@@ -5539,7 +5539,8 @@ class QuantumsandLive
       "frameworks/attica",
       "frameworks/baloo",
       "frameworks/prison",
-      "frameworks/breeze-icons"
+      "frameworks/breeze-icons",
+      "frameworks/kapidox"
     ]
 
     git_repos_ffmpeg_org = [
