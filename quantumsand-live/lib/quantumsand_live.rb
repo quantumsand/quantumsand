@@ -5556,7 +5556,8 @@ class QuantumsandLive
       "frameworks/kdeclarative",
       "frameworks/kded",
       "frameworks/kdesu",
-      "frameworks/kdnssd"
+      "frameworks/kdnssd",
+      "frameworks/kdoctools"
     ]
 
     git_repos_ffmpeg_org = [
