@@ -19,6 +19,7 @@ export default function Grains() {
       <FormControl fullWidth sx={{ m: 1 }}>
         <TextField id="grain-git-repo-name" label="Grain git repo name" variant="filled" />
         <TextField id="grain-title" label="Grain title" variant="filled" />
+        <TextField id="grain-description" label="Grain description" variant="filled" />
       </FormControl>
       <Accordion>
         <AccordionSummary
