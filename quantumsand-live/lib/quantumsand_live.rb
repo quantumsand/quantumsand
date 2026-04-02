@@ -5526,7 +5526,8 @@ class QuantumsandLive
       "multimedia/kaffeine",
       "multimedia/kasts",
       "multimedia/kdenlive-test-suite",
-      "multimedia/kid3"
+      "multimedia/kid3",
+      "frameworks/threadweaver"
     ]
 
     git_repos_ffmpeg_org = [
