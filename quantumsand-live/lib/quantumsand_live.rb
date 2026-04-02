@@ -5546,7 +5546,8 @@ class QuantumsandLive
       "frameworks/frameworkintegration",
       "frameworks/kauth",
       "frameworks/kbookmarks",
-      "frameworks/kcmutils"
+      "frameworks/kcmutils",
+      "frameworks/kcolorscheme"
     ]
 
     git_repos_ffmpeg_org = [
