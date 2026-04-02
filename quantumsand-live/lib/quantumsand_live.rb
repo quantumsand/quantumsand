@@ -4206,7 +4206,8 @@ class QuantumsandLive
       "frankosterfeld/qtkeychain",
       "Feneric/doxypypy",
       "tenderlove/zeroconf",
-      "grandcat/zeroconf"
+      "grandcat/zeroconf",
+      "IBM/mcp-context-forge"
     ]
 
     git_repos_chromium_googlesource = [
