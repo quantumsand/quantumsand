@@ -5550,7 +5550,8 @@ class QuantumsandLive
       "frameworks/kcolorscheme",
       "frameworks/kcontacts",
       "frameworks/kcrash",
-      "frameworks/kdav"
+      "frameworks/kdav",
+      "frameworks/kdeclarative"
     ]
 
     git_repos_ffmpeg_org = [
