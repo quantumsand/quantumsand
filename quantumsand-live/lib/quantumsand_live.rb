@@ -5859,7 +5859,8 @@ class QuantumsandLive
       "net-analyzer/nmap",
       "media-video/motion",
       "app-misc/resolve-march-native",
-      "app-portage/getuto"
+      "app-portage/getuto",
+      "www-servers/lighttpd"
     ]
 
     gentoo_eselect_repository_add = {
