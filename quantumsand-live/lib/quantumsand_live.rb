@@ -4207,7 +4207,8 @@ class QuantumsandLive
       "Feneric/doxypypy",
       "tenderlove/zeroconf",
       "grandcat/zeroconf",
-      "IBM/mcp-context-forge"
+      "IBM/mcp-context-forge",
+      "IBM/fp-go"
     ]
 
     git_repos_chromium_googlesource = [
