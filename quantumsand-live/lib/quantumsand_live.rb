@@ -4211,7 +4211,8 @@ class QuantumsandLive
       "IBM/fp-go",
       "IBM/openapi-to-graphql",
       "LADI/linux",
-      "hartwork/resolve-march-native"
+      "hartwork/resolve-march-native",
+      "projg2/getuto"
     ]
 
     git_repos_chromium_googlesource = [
