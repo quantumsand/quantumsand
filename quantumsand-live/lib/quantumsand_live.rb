@@ -4223,7 +4223,8 @@ class QuantumsandLive
       "RobotecAI/o3de-rgl-gem",
       "RobotecAI/RobotecGPULidar",
       "NVIDIA/optix-dev",
-      "RobotecAI/o3de-ur-robots-gem"
+      "RobotecAI/o3de-ur-robots-gem",
+      "ros-simulation/gazebo_radar_plugin"
     ]
 
     git_repos_chromium_googlesource = [
