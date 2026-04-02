@@ -5536,7 +5536,8 @@ class QuantumsandLive
       "multimedia/rattlesnake",
       "multimedia/stopmotion",
       "multimedia/subtitlecomposer",
-      "frameworks/attica"
+      "frameworks/attica",
+      "frameworks/baloo"
     ]
 
     git_repos_ffmpeg_org = [
