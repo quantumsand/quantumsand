@@ -5548,7 +5548,8 @@ class QuantumsandLive
       "frameworks/kbookmarks",
       "frameworks/kcmutils",
       "frameworks/kcolorscheme",
-      "frameworks/kcontacts"
+      "frameworks/kcontacts",
+      "frameworks/kcrash"
     ]
 
     git_repos_ffmpeg_org = [
