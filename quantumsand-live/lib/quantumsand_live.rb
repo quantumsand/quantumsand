@@ -5862,7 +5862,8 @@ class QuantumsandLive
       "app-misc/resolve-march-native",
       "app-portage/getuto",
       "www-servers/lighttpd",
-      "www-servers/caddy"
+      "www-servers/caddy",
+      "www-servers/nginx"
     ]
 
     gentoo_eselect_repository_add = {
