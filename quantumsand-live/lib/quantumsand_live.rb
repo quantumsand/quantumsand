@@ -4210,7 +4210,8 @@ class QuantumsandLive
       "IBM/mcp-context-forge",
       "IBM/fp-go",
       "IBM/openapi-to-graphql",
-      "LADI/linux"
+      "LADI/linux",
+      "hartwork/resolve-march-native"
     ]
 
     git_repos_chromium_googlesource = [
