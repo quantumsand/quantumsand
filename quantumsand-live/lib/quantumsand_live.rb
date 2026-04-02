@@ -5545,7 +5545,8 @@ class QuantumsandLive
       "sdk/doxyqml",
       "frameworks/frameworkintegration",
       "frameworks/kauth",
-      "frameworks/kbookmarks"
+      "frameworks/kbookmarks",
+      "frameworks/kcmutils"
     ]
 
     git_repos_ffmpeg_org = [
