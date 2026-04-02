@@ -5713,7 +5713,8 @@ class QuantumsandLive
     git_repos_gentoo_org = [
       "repo/gentoo",
       "proj/pax-utils",
-      "proj/gentoolkit"
+      "proj/gentoolkit",
+      "proj/portage-utils"
     ]
 
     fossil_repos_sqlite_org = [
