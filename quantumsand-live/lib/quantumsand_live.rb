@@ -5561,7 +5561,8 @@ class QuantumsandLive
       "frameworks/kfilemetadata",
       "frameworks/kglobalaccel",
       "frameworks/kholidays",
-      "frameworks/kidletime"
+      "frameworks/kidletime",
+      "frameworks/kimageformats"
     ]
 
     git_repos_ffmpeg_org = [
