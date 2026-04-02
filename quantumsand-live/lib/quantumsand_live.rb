@@ -4205,7 +4205,8 @@ class QuantumsandLive
       "CleanCut/bevy_pause",
       "frankosterfeld/qtkeychain",
       "Feneric/doxypypy",
-      "tenderlove/zeroconf"
+      "tenderlove/zeroconf",
+      "grandcat/zeroconf"
     ]
 
     git_repos_chromium_googlesource = [
