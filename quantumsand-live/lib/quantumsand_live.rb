@@ -5571,7 +5571,8 @@ class QuantumsandLive
       "frameworks/kparts",
       "frameworks/kpeople",
       "frameworks/kplotting",
-      "frameworks/kpty"
+      "frameworks/kpty",
+      "frameworks/krunner"
     ]
 
     git_repos_ffmpeg_org = [
