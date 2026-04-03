@@ -5623,7 +5623,8 @@ class QuantumsandLive
       "network/angelfish",
       "network/falkon",
       "network/kaccounts-integration",
-      "network/kaccounts-providers"
+      "network/kaccounts-providers",
+      "network/kaidan"
     ]
 
     git_repos_ffmpeg_org = [
