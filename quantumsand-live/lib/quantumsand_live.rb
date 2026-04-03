@@ -5937,7 +5937,8 @@ class QuantumsandLive
       "app-portage/gentoolkit",
       "app-portage/portage-utils",
       "dev-libs/optix",
-      "net-firewall/iptables"
+      "net-firewall/iptables",
+      "net-firewall/ipset"
     ]
 
     gentoo_eselect_repository_add = {
