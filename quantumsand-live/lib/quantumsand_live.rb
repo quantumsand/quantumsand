@@ -5617,7 +5617,8 @@ class QuantumsandLive
       "frameworks/kpackage",
       "frameworks/purpose",
       "frameworks/qqc2-desktop-style",
-      "frameworks/kquickcharts"
+      "frameworks/kquickcharts",
+      "frameworks/solid"
     ]
 
     git_repos_ffmpeg_org = [
