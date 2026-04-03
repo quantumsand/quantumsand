@@ -5620,7 +5620,8 @@ class QuantumsandLive
       "frameworks/kquickcharts",
       "frameworks/solid",
       "network/alligator",
-      "network/angelfish"
+      "network/angelfish",
+      "network/falkon"
     ]
 
     git_repos_ffmpeg_org = [
