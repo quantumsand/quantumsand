@@ -5624,7 +5624,8 @@ class QuantumsandLive
       "network/falkon",
       "network/kaccounts-integration",
       "network/kaccounts-providers",
-      "network/kaidan"
+      "network/kaidan",
+      "network/kdeconnect-android"
     ]
 
     git_repos_ffmpeg_org = [
