@@ -5936,7 +5936,8 @@ class QuantumsandLive
       "net-fs/nfs-utils",
       "app-portage/gentoolkit",
       "app-portage/portage-utils",
-      "dev-libs/optix"
+      "dev-libs/optix",
+      "net-firewall/iptables"
     ]
 
     gentoo_eselect_repository_add = {
