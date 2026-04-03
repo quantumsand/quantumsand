@@ -5616,7 +5616,8 @@ class QuantumsandLive
       "frameworks/oxygen-icons",
       "frameworks/kpackage",
       "frameworks/purpose",
-      "frameworks/qqc2-desktop-style"
+      "frameworks/qqc2-desktop-style",
+      "frameworks/kquickcharts"
     ]
 
     git_repos_ffmpeg_org = [
