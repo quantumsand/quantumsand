@@ -4286,7 +4286,8 @@ class QuantumsandLive
       "google/gemma-4-31B",
       "google/gemma-4-26B-A4B-it",
       "google/gemma-4-26B-A4B",
-      "google/gemma-4-E4B-it"
+      "google/gemma-4-E4B-it",
+      "google/gemma-4-E4B"
     ]
 
     git_repos_osmocom_org_gitea = [
