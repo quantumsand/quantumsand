@@ -186,4 +186,7 @@ Vital for Quantum Sand;
 * RabbitMQ is licensed under the MPL 2.0.
 * Valkey is licensed under a BSD 3-Clause License.
 * ejabberd is licensed under the GNU General Public License v2.
+* FFmpeg is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. FFmpeg incorporates several optional parts and optimizations that are covered by the GNU General Public License (GPL) version 2 or later.
+* audiowaveform is licensed under the GNU General Public License version 3.
+* Peaks.js is licensed under the GNU Lesser General Public License version 3.
 * Hundreds of developers for all of the deps I am using.
