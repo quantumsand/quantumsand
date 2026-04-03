@@ -11,6 +11,9 @@ This means that development of each component can be done on all three of these 
 * Install Homebrew. This will also download Command Line Tools for Xcode.
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
 * Install wget; `brew install wget`
+* Install htop; `brew install htop`
+* Install FFmpeg; `brew install ffmpeg`
+* Install audiowaveform;  `brew install audiowaveform`
 * Install RabbitMQ; `brew install rabbitmq`
 * To start rabbitmq now and restart at login: `brew services start rabbitmq`
 * Install Valkey; `brew install valkey`
