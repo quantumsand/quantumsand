@@ -5606,7 +5606,8 @@ class QuantumsandLive
       "frameworks/ksvg",
       "frameworks/ktexteditor",
       "frameworks/ktexttemplate",
-      "frameworks/ktextwidgets"
+      "frameworks/ktextwidgets",
+      "frameworks/kunitconversion"
     ]
 
     git_repos_ffmpeg_org = [
