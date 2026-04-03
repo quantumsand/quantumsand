@@ -5612,7 +5612,8 @@ class QuantumsandLive
       "frameworks/kwallet",
       "frameworks/kwindowsystem",
       "frameworks/modemmanager-qt",
-      "frameworks/networkmanager-qt"
+      "frameworks/networkmanager-qt",
+      "frameworks/oxygen-icons"
     ]
 
     git_repos_ffmpeg_org = [
