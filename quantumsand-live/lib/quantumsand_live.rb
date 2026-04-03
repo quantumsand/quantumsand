@@ -5615,7 +5615,8 @@ class QuantumsandLive
       "frameworks/networkmanager-qt",
       "frameworks/oxygen-icons",
       "frameworks/kpackage",
-      "frameworks/purpose"
+      "frameworks/purpose",
+      "frameworks/qqc2-desktop-style"
     ]
 
     git_repos_ffmpeg_org = [
