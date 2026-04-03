@@ -5609,7 +5609,8 @@ class QuantumsandLive
       "frameworks/ktextwidgets",
       "frameworks/kunitconversion",
       "frameworks/kuserfeedback",
-      "frameworks/kwallet"
+      "frameworks/kwallet",
+      "frameworks/kwindowsystem"
     ]
 
     git_repos_ffmpeg_org = [
