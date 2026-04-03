@@ -4281,7 +4281,8 @@ class QuantumsandLive
       "NousResearch/NousCoder-14B",
       "zai-org/GLM-Image",
       "X-Omni/X-Omni-En",
-      "zai-org/GLM-5"
+      "zai-org/GLM-5",
+      "google/gemma-4-31B-it"
     ]
 
     git_repos_osmocom_org_gitea = [
