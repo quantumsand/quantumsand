@@ -4230,7 +4230,8 @@ class QuantumsandLive
       "huggingface/accelerate",
       "facebook/create-react-app",
       "aws/aws-sdk-cpp",
-      "awslabs/aws-crt-cpp"
+      "awslabs/aws-crt-cpp",
+      "awslabs/aws-c-common"
     ]
 
     git_repos_chromium_googlesource = [
