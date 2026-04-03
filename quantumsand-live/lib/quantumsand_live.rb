@@ -4228,7 +4228,8 @@ class QuantumsandLive
       "microsoft/agent-governance-toolkit",
       "google-gemma/cookbook",
       "huggingface/accelerate",
-      "facebook/create-react-app"
+      "facebook/create-react-app",
+      "aws/aws-sdk-cpp"
     ]
 
     git_repos_chromium_googlesource = [
