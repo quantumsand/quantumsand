@@ -4229,7 +4229,8 @@ class QuantumsandLive
       "google-gemma/cookbook",
       "huggingface/accelerate",
       "facebook/create-react-app",
-      "aws/aws-sdk-cpp"
+      "aws/aws-sdk-cpp",
+      "awslabs/aws-crt-cpp"
     ]
 
     git_repos_chromium_googlesource = [
