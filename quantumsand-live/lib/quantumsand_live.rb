@@ -5625,7 +5625,8 @@ class QuantumsandLive
       "network/kaccounts-integration",
       "network/kaccounts-providers",
       "network/kaidan",
-      "network/kdeconnect-android"
+      "network/kdeconnect-android",
+      "network/kdeconnect-ios"
     ]
 
     git_repos_ffmpeg_org = [
