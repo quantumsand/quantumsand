@@ -4231,7 +4231,8 @@ class QuantumsandLive
       "facebook/create-react-app",
       "aws/aws-sdk-cpp",
       "awslabs/aws-crt-cpp",
-      "awslabs/aws-c-common"
+      "awslabs/aws-c-common",
+      "awslabs/aws-c-io"
     ]
 
     git_repos_chromium_googlesource = [
