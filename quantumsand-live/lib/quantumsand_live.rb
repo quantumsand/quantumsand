@@ -4239,7 +4239,8 @@ class QuantumsandLive
       "awslabs/aws-c-http",
       "awslabs/aws-c-mqtt",
       "awslabs/aws-checksums",
-      "awslabs/aws-c-event-stream"
+      "awslabs/aws-c-event-stream",
+      "awslabs/aws-c-s3"
     ]
 
     git_repos_chromium_googlesource = [
