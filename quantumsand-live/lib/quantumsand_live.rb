@@ -4226,7 +4226,8 @@ class QuantumsandLive
       "RobotecAI/o3de-ur-robots-gem",
       "ros-simulation/gazebo_radar_plugin",
       "microsoft/agent-governance-toolkit",
-      "google-gemma/cookbook"
+      "google-gemma/cookbook",
+      "huggingface/accelerate"
     ]
 
     git_repos_chromium_googlesource = [
