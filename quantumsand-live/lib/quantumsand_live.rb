@@ -4227,7 +4227,8 @@ class QuantumsandLive
       "ros-simulation/gazebo_radar_plugin",
       "microsoft/agent-governance-toolkit",
       "google-gemma/cookbook",
-      "huggingface/accelerate"
+      "huggingface/accelerate",
+      "facebook/create-react-app"
     ]
 
     git_repos_chromium_googlesource = [
