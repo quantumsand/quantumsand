@@ -4225,7 +4225,8 @@ class QuantumsandLive
       "NVIDIA/optix-dev",
       "RobotecAI/o3de-ur-robots-gem",
       "ros-simulation/gazebo_radar_plugin",
-      "microsoft/agent-governance-toolkit"
+      "microsoft/agent-governance-toolkit",
+      "google-gemma/cookbook"
     ]
 
     git_repos_chromium_googlesource = [
