@@ -4233,7 +4233,8 @@ class QuantumsandLive
       "awslabs/aws-crt-cpp",
       "awslabs/aws-c-common",
       "awslabs/aws-c-io",
-      "awslabs/aws-c-compression"
+      "awslabs/aws-c-compression",
+      "awslabs/aws-c-cal"
     ]
 
     git_repos_chromium_googlesource = [
