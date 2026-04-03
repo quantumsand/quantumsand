@@ -5610,7 +5610,8 @@ class QuantumsandLive
       "frameworks/kunitconversion",
       "frameworks/kuserfeedback",
       "frameworks/kwallet",
-      "frameworks/kwindowsystem"
+      "frameworks/kwindowsystem",
+      "frameworks/modemmanager-qt"
     ]
 
     git_repos_ffmpeg_org = [
