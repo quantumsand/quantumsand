@@ -4710,7 +4710,8 @@ class QuantumsandLive
       "config",
       "readline",
       "indent",
-      "inetutils"
+      "inetutils",
+      "hurd/hurd"
     ]
 
     git_repos_savannah_nongnu_org = [
