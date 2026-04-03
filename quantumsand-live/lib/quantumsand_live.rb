@@ -5621,7 +5621,8 @@ class QuantumsandLive
       "frameworks/solid",
       "network/alligator",
       "network/angelfish",
-      "network/falkon"
+      "network/falkon",
+      "network/kaccounts-integration"
     ]
 
     git_repos_ffmpeg_org = [
