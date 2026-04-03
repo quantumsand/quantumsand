@@ -5644,7 +5644,8 @@ class QuantumsandLive
       "network/kdeconnect-meta",
       "network/kget",
       "network/kio-gdrive",
-      "network/kio-gopher"
+      "network/kio-gopher",
+      "network/konqueror"
     ]
 
     git_repos_ffmpeg_org = [
