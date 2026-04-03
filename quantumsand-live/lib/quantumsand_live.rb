@@ -4236,7 +4236,8 @@ class QuantumsandLive
       "awslabs/aws-c-compression",
       "awslabs/aws-c-cal",
       "awslabs/aws-c-auth",
-      "awslabs/aws-c-http"
+      "awslabs/aws-c-http",
+      "awslabs/aws-c-mqtt"
     ]
 
     git_repos_chromium_googlesource = [
