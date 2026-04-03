@@ -5618,7 +5618,8 @@ class QuantumsandLive
       "frameworks/purpose",
       "frameworks/qqc2-desktop-style",
       "frameworks/kquickcharts",
-      "frameworks/solid"
+      "frameworks/solid",
+      "network/alligator"
     ]
 
     git_repos_ffmpeg_org = [
