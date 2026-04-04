@@ -4242,7 +4242,8 @@ class QuantumsandLive
       "awslabs/aws-c-event-stream",
       "awslabs/aws-c-s3",
       "awslabs/aws-c-sdkutils",
-      "intel/linux-npu-driver"
+      "intel/linux-npu-driver",
+      "openrazer/openrazer"
     ]
 
     git_repos_chromium_googlesource = [
