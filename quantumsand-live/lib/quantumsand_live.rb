@@ -5660,7 +5660,8 @@ class QuantumsandLive
       "network/krdc",
       "network/krfb",
       "network/neochat",
-      "network/kdenetwork-filesharing"
+      "network/kdenetwork-filesharing",
+      "network/ruqola"
     ]
 
     git_repos_ffmpeg_org = [
