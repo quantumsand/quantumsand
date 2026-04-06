@@ -4247,7 +4247,8 @@ class QuantumsandLive
       "datalayer/jupyter-mcp-server",
       "intel/level-zero-npu-extensions",
       "openvinotoolkit/npu_compiler_elf",
-      "google/perfetto"
+      "google/perfetto",
+      "dubstar-04/Design"
     ]
 
     git_repos_chromium_googlesource = [
