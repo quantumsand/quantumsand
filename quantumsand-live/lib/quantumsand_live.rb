@@ -5664,7 +5664,8 @@ class QuantumsandLive
       "network/ruqola",
       "network/signon-kwallet-extension",
       "network/smb4k",
-      "network/tokodon"
+      "network/tokodon",
+      "sdk/cervisia"
     ]
 
     git_repos_ffmpeg_org = [
