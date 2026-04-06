@@ -114,6 +114,12 @@ More to follow.
 - resource_thumbnail `:string`
 
 
+### Geospatial table
+
+- name `:string`
+- geospatial `:geometry`
+
+
 ## TODO:
 
 * Ruby version
