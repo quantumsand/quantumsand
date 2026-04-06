@@ -5674,7 +5674,8 @@ class QuantumsandLive
       "sdk/dolphin-plugins",
       "sdk/elf-dissector",
       "sdk/eloquens",
-      "sdk/git-lab"
+      "sdk/git-lab",
+      "sdk/heaptrack"
     ]
 
     git_repos_ffmpeg_org = [
