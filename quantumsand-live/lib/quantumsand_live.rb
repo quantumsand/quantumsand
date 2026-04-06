@@ -5678,7 +5678,8 @@ class QuantumsandLive
       "sdk/heaptrack",
       "sdk/kapptemplate",
       "sdk/kcachegrind",
-      "sdk/kde-dev-scripts"
+      "sdk/kde-dev-scripts",
+      "sdk/kde-dev-utils"
     ]
 
     git_repos_ffmpeg_org = [
