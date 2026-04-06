@@ -4245,7 +4245,8 @@ class QuantumsandLive
       "intel/linux-npu-driver",
       "openrazer/openrazer",
       "datalayer/jupyter-mcp-server",
-      "intel/level-zero-npu-extensions"
+      "intel/level-zero-npu-extensions",
+      "openvinotoolkit/npu_compiler_elf"
     ]
 
     git_repos_chromium_googlesource = [
