@@ -4614,7 +4614,8 @@ class QuantumsandLive
       "iptables",
       "libmnl",
       "ipset",
-      "libmnl"
+      "libmnl",
+      "libnftnl"
     ]
 
     git_repos_dev_gnupg_org = [
