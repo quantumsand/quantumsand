@@ -5669,7 +5669,8 @@ class QuantumsandLive
       "sdk/clazy",
       "sdk/dferry",
       "sdk/dolphin-plugins",
-      "sdk/elf-dissector"
+      "sdk/elf-dissector",
+      "sdk/eloquens"
     ]
 
     git_repos_ffmpeg_org = [
