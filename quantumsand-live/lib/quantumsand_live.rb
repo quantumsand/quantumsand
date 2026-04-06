@@ -4249,7 +4249,8 @@ class QuantumsandLive
       "openvinotoolkit/npu_compiler_elf",
       "google/perfetto",
       "dubstar-04/Design",
-      "dubstar-04/Design-Core"
+      "dubstar-04/Design-Core",
+      "libunwind/libunwind"
     ]
 
     git_repos_chromium_googlesource = [
