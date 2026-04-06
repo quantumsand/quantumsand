@@ -5685,7 +5685,8 @@ class QuantumsandLive
       "sdk/kde-ruleset",
       "sdk/kdesvn",
       "sdk/kdiff3",
-      "sdk/kecolab"
+      "sdk/kecolab",
+      "sdk/kirigami-gallery"
     ]
 
     git_repos_ffmpeg_org = [
