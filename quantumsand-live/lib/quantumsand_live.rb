@@ -4248,7 +4248,8 @@ class QuantumsandLive
       "intel/level-zero-npu-extensions",
       "openvinotoolkit/npu_compiler_elf",
       "google/perfetto",
-      "dubstar-04/Design"
+      "dubstar-04/Design",
+      "dubstar-04/Design-Core"
     ]
 
     git_repos_chromium_googlesource = [
