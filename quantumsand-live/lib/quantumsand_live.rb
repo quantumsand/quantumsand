@@ -5658,7 +5658,8 @@ class QuantumsandLive
       "network/konqueror",
       "network/konversation",
       "network/krdc",
-      "network/krfb"
+      "network/krfb",
+      "network/neochat"
     ]
 
     git_repos_ffmpeg_org = [
