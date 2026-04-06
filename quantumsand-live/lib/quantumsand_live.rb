@@ -5679,7 +5679,8 @@ class QuantumsandLive
       "sdk/kapptemplate",
       "sdk/kcachegrind",
       "sdk/kde-dev-scripts",
-      "sdk/kde-dev-utils"
+      "sdk/kde-dev-utils",
+      "sdk/kde-gui-test"
     ]
 
     git_repos_ffmpeg_org = [
