@@ -5682,7 +5682,8 @@ class QuantumsandLive
       "sdk/kde-dev-utils",
       "sdk/kde-gui-test",
       "sdk/kde-qdoc-common",
-      "sdk/kde-ruleset"
+      "sdk/kde-ruleset",
+      "sdk/kdesvn"
     ]
 
     git_repos_ffmpeg_org = [
