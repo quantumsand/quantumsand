@@ -5667,7 +5667,8 @@ class QuantumsandLive
       "network/tokodon",
       "sdk/cervisia",
       "sdk/clazy",
-      "sdk/dferry"
+      "sdk/dferry",
+      "sdk/dolphin-plugins"
     ]
 
     git_repos_ffmpeg_org = [
