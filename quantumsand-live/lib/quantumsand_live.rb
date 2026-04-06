@@ -5689,7 +5689,8 @@ class QuantumsandLive
       "sdk/kirigami-gallery",
       "sdk/kirigami-workbench",
       "sdk/kommit",
-      "sdk/kompare"
+      "sdk/kompare",
+      "sdk/kshim"
     ]
 
     git_repos_ffmpeg_org = [
