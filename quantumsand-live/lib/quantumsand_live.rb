@@ -5981,7 +5981,8 @@ class QuantumsandLive
       "app-portage/portage-utils",
       "dev-libs/optix",
       "net-firewall/iptables",
-      "net-firewall/ipset"
+      "net-firewall/ipset",
+      "dev-embedded/gpsim"
     ]
 
     gentoo_eselect_repository_add = {
