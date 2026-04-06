@@ -5668,7 +5668,8 @@ class QuantumsandLive
       "sdk/cervisia",
       "sdk/clazy",
       "sdk/dferry",
-      "sdk/dolphin-plugins"
+      "sdk/dolphin-plugins",
+      "sdk/elf-dissector"
     ]
 
     git_repos_ffmpeg_org = [
