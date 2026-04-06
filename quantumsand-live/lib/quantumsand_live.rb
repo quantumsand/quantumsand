@@ -5675,7 +5675,8 @@ class QuantumsandLive
       "sdk/elf-dissector",
       "sdk/eloquens",
       "sdk/git-lab",
-      "sdk/heaptrack"
+      "sdk/heaptrack",
+      "sdk/kapptemplate"
     ]
 
     git_repos_ffmpeg_org = [
