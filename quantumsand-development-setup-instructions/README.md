@@ -34,6 +34,37 @@ This means that development of each component can be done on all three of these 
 * Configure your git identity; if you have not done so already; `git config --global --edit`
 * Clone the Quantum Sand repo; `git clone https://github.com/quantumsand/quantumsand.git`
 * Launch Visual Studio Code; `code quantumsand`
+* Install uv; `curl -LsSf https://astral.sh/uv/install.sh | sh`
+* You should see the following message:
+```
+downloading uv 0.11.3 aarch64-apple-darwin
+installing to /Users/your-user-name/.local/bin
+  uv
+  uvx
+everything's installed!
+
+To add $HOME/.local/bin to your PATH, either restart your shell or run:
+
+    source $HOME/.local/bin/env (sh, bash, zsh)
+    source $HOME/.local/bin/env.fish (fish)
+```
+* Close and reopen your terminal to start using uv.
+* Test your uv installation: `uv`
+* You should see the following message:
+```
+An extremely fast Python package manager.
+
+Usage: uv [OPTIONS] <COMMAND>
+```
+* Install Python; `uv python install 3.14.3`
+* You should see the following message:
+```
+Installed Python 3.14.3 in 2.53s
+ + cpython-3.14.3-macos-aarch64-none (python3.14)
+ ```
+* Test your uv python installation;
+* `uvx python --version`
+* You should see the following message: `Python 3.14.3`
 * Download Rustup and install Rust; `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 * Rust installer; Proceed with standard installation (default - just press enter)
 * Install ninja; `brew install ninja`
