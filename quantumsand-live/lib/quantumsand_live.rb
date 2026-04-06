@@ -5684,7 +5684,8 @@ class QuantumsandLive
       "sdk/kde-qdoc-common",
       "sdk/kde-ruleset",
       "sdk/kdesvn",
-      "sdk/kdiff3"
+      "sdk/kdiff3",
+      "sdk/kecolab"
     ]
 
     git_repos_ffmpeg_org = [
