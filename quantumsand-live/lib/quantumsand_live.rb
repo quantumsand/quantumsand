@@ -5690,7 +5690,8 @@ class QuantumsandLive
       "sdk/kirigami-workbench",
       "sdk/kommit",
       "sdk/kompare",
-      "sdk/kshim"
+      "sdk/kshim",
+      "sdk/ktechlab"
     ]
 
     git_repos_ffmpeg_org = [
