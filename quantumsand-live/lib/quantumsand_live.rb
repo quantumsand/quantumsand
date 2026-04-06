@@ -4246,7 +4246,8 @@ class QuantumsandLive
       "openrazer/openrazer",
       "datalayer/jupyter-mcp-server",
       "intel/level-zero-npu-extensions",
-      "openvinotoolkit/npu_compiler_elf"
+      "openvinotoolkit/npu_compiler_elf",
+      "google/perfetto"
     ]
 
     git_repos_chromium_googlesource = [
