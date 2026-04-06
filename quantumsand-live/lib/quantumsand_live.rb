@@ -5988,7 +5988,8 @@ class QuantumsandLive
       "dev-libs/optix",
       "net-firewall/iptables",
       "net-firewall/ipset",
-      "dev-embedded/gpsim"
+      "dev-embedded/gpsim",
+      "net-firewall/nftables"
     ]
 
     gentoo_eselect_repository_add = {
