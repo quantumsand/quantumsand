@@ -5693,7 +5693,8 @@ class QuantumsandLive
       "sdk/kshim",
       "sdk/ktechlab",
       "sdk/libkomparediff2",
-      "sdk/licensedigger"
+      "sdk/licensedigger",
+      "sdk/licentia"
     ]
 
     git_repos_ffmpeg_org = [
