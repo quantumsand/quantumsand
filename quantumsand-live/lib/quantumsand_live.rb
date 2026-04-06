@@ -4253,7 +4253,8 @@ class QuantumsandLive
       "libunwind/libunwind",
       "rust-lang/rustc-demangle",
       "lievenhey/d_demangler",
-      "google/jsir"
+      "google/jsir",
+      "facebook/hermes"
     ]
 
     git_repos_chromium_googlesource = [
