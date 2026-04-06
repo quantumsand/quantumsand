@@ -5663,7 +5663,8 @@ class QuantumsandLive
       "network/kdenetwork-filesharing",
       "network/ruqola",
       "network/signon-kwallet-extension",
-      "network/smb4k"
+      "network/smb4k",
+      "network/tokodon"
     ]
 
     git_repos_ffmpeg_org = [
