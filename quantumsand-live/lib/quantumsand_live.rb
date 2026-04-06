@@ -4251,7 +4251,8 @@ class QuantumsandLive
       "dubstar-04/Design",
       "dubstar-04/Design-Core",
       "libunwind/libunwind",
-      "rust-lang/rustc-demangle"
+      "rust-lang/rustc-demangle",
+      "lievenhey/d_demangler"
     ]
 
     git_repos_chromium_googlesource = [
