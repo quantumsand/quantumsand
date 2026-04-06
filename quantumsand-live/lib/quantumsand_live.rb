@@ -4613,7 +4613,8 @@ class QuantumsandLive
     git_repos_netfilter_org = [
       "iptables",
       "libmnl",
-      "ipset"
+      "ipset",
+      "libmnl"
     ]
 
     git_repos_dev_gnupg_org = [
