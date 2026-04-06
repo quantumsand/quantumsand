@@ -5676,7 +5676,8 @@ class QuantumsandLive
       "sdk/eloquens",
       "sdk/git-lab",
       "sdk/heaptrack",
-      "sdk/kapptemplate"
+      "sdk/kapptemplate",
+      "sdk/kcachegrind"
     ]
 
     git_repos_ffmpeg_org = [
