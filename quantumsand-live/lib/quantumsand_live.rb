@@ -4250,7 +4250,8 @@ class QuantumsandLive
       "google/perfetto",
       "dubstar-04/Design",
       "dubstar-04/Design-Core",
-      "libunwind/libunwind"
+      "libunwind/libunwind",
+      "rust-lang/rustc-demangle"
     ]
 
     git_repos_chromium_googlesource = [
