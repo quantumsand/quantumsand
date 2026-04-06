@@ -4656,7 +4656,8 @@ class QuantumsandLive
       "linux/kernel/git/jberg/rfkill",
       "linux/kernel/git/tyhicks/ecryptfs",
       "linux/kernel/git/vfs/vfs",
-      "fs/xfs/xfsprogs-dev"
+      "fs/xfs/xfsprogs-dev",
+      "linux/kernel/git/netfilter/nf-next"
     ]
 
     git_repos_isc_org_gitlab = [
