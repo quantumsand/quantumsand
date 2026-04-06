@@ -4244,7 +4244,8 @@ class QuantumsandLive
       "awslabs/aws-c-sdkutils",
       "intel/linux-npu-driver",
       "openrazer/openrazer",
-      "datalayer/jupyter-mcp-server"
+      "datalayer/jupyter-mcp-server",
+      "intel/level-zero-npu-extensions"
     ]
 
     git_repos_chromium_googlesource = [
