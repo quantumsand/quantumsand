@@ -120,6 +120,12 @@ More to follow.
 - geospatial `:geometry`
 
 
+### Questions table
+
+- original_locale `:string`
+- original_question `:json`
+
+
 ## TODO:
 
 * Ruby version
