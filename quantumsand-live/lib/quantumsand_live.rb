@@ -5717,7 +5717,8 @@ class QuantumsandLive
       "sdk/umbrello",
       "utilities/alpaka",
       "utilities/ark",
-      "utilities/basket"
+      "utilities/basket",
+      "utilities/daykountdown"
     ]
 
     git_repos_ffmpeg_org = [
