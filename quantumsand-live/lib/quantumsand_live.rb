@@ -4258,7 +4258,8 @@ class QuantumsandLive
       "seleniumhq/selenium",
       "seleniumhq/selenium-ide",
       "appium/appium",
-      "crystal-lang/crystal"
+      "crystal-lang/crystal",
+      "qalculate/libqalculate"
     ]
 
     git_repos_chromium_googlesource = [
