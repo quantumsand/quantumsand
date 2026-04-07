@@ -21,7 +21,7 @@ defmodule LiveDashboard.MixProject do
   def application do
     [
       mod: {LiveDashboard.Application, []},
-      extra_applications: [:logger, :runtime_tools]
+      extra_applications: [:logger, :runtime_tools, :os_mon]
     ]
   end
 

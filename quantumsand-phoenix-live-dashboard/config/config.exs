@@ -20,7 +20,7 @@ config :live_dashboard, LiveDashboardWeb.Endpoint,
     layout: false
   ],
   pubsub_server: LiveDashboard.PubSub,
-  live_view: [signing_salt: "QvRjQ0RC"]
+  live_view: [signing_salt: "SECRET_SALT"]
 
 # Configure the mailer
 #

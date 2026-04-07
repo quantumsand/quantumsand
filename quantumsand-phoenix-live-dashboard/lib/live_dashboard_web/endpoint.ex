@@ -7,7 +7,7 @@ defmodule LiveDashboardWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_live_dashboard_key",
-    signing_salt: "bHpaitw/",
+    signing_salt: "SECRET_SALT",
     same_site: "Lax"
   ]
 

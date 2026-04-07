@@ -39,5 +39,46 @@ The database for LiveDashboard.Repo has been created
 * Inside Google Chrome visit the endpoint url by typing this localhost address into the Chrome address bar: 
 * `http://localhost:4000`
 * You should see a page with `Phoenix Framework`
+* Edit `config/config.exs` to update your endpoint configuration to include a signing salt:
+```elixir
+# Configure the endpoint
+config :live_dashboard, LiveDashboardWeb.Endpoint,
+  url: [host: "localhost"],
+  adapter: Bandit.PhoenixAdapter,
+  render_errors: [
+    formats: [html: LiveDashboardWeb.ErrorHTML, json: LiveDashboardWeb.ErrorJSON],
+    layout: false
+  ],
+  pubsub_server: LiveDashboard.PubSub,
+  live_view: [signing_salt: "SECRET_SALT"]
+```
+* Add the signing salt to `/lib/live_dashboard_web/endpoint.ex`:
+```elixir
+@session_options [
+  store: :cookie,
+  key: "_live_dashboard_key",
+  signing_salt: "SECRET_SALT",
+  same_site: "Lax"
+]
+```
+* We will activate Erlang OS Monitoring to display stats within the Live Dashboard.
+* Configure OS Data by adding `:os_mon` within `extra_applications` in your `mix.exs`;
+```elixir
+# Configuration for the OTP application.
+#
+# Type `mix help compile.app` for more information.
+def application do
+  [
+    mod: {LiveDashboard.Application, []},
+    extra_applications: [:logger, :runtime_tools, :os_mon]
+  ]
+end
+```
+* After editing certain configuration files, we have to restart Phoenix.
+* If your Phoenix app is still running, stop it using `CTRL + c` twice.
+* Run your Phoenix app again: `mix phx.server`
+* Inside Google Chrome visit the endpoint url by typing this localhost address into the Chrome address bar:
+* `http://localhost:4000/dev/dashboard`
+* You should see `Phoenix LiveDashboard`
 
 More to follow.
