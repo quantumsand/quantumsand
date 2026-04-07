@@ -4255,7 +4255,8 @@ class QuantumsandLive
       "lievenhey/d_demangler",
       "google/jsir",
       "facebook/hermes",
-      "seleniumhq/selenium"
+      "seleniumhq/selenium",
+      "seleniumhq/selenium-ide"
     ]
 
     git_repos_chromium_googlesource = [
