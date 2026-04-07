@@ -4257,7 +4257,8 @@ class QuantumsandLive
       "facebook/hermes",
       "seleniumhq/selenium",
       "seleniumhq/selenium-ide",
-      "appium/appium"
+      "appium/appium",
+      "crystal-lang/crystal"
     ]
 
     git_repos_chromium_googlesource = [
