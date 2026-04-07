@@ -4263,7 +4263,8 @@ class QuantumsandLive
       "qalculate/qalculate-gtk",
       "qalculate/qalculate-qt",
       "gboeing/osmnx",
-      "rsyslog/rsyslog"
+      "rsyslog/rsyslog",
+      "fail2ban/fail2ban"
     ]
 
     git_repos_chromium_googlesource = [
@@ -6195,7 +6196,6 @@ class QuantumsandLive
     # TODO: Jupyter + NumPy + pandas + scikit-learn
     # TODO: pydicom
     # TODO: LibreOffice
-    # TODO: Fail2Ban
     # TODO: tcpdump
     # TODO: Wireshark
     # TODO: Nmap
