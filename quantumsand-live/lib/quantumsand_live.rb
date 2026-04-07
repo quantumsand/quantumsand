@@ -5707,7 +5707,8 @@ class QuantumsandLive
       "sdk/mdit-py-hugo",
       "sdk/mdit-py-i18n",
       "sdk/pology",
-      "sdk/poxml"
+      "sdk/poxml",
+      "sdk/kdesdk-kio"
     ]
 
     git_repos_ffmpeg_org = [
