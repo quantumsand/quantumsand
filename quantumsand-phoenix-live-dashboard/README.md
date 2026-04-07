@@ -64,9 +64,6 @@ config :live_dashboard, LiveDashboardWeb.Endpoint,
 * We will activate Erlang OS Monitoring to display stats within the Live Dashboard.
 * Configure OS Data by adding `:os_mon` within `extra_applications` in your `mix.exs`;
 ```elixir
-# Configuration for the OTP application.
-#
-# Type `mix help compile.app` for more information.
 def application do
   [
     mod: {LiveDashboard.Application, []},
