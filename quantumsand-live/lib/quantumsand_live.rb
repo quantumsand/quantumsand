@@ -5712,7 +5712,8 @@ class QuantumsandLive
       "sdk/pology",
       "sdk/poxml",
       "sdk/kdesdk-kio",
-      "sdk/selenium-webdriver-at-spi"
+      "sdk/selenium-webdriver-at-spi",
+      "sdk/kdesdk-thumbnailers"
     ]
 
     git_repos_ffmpeg_org = [
