@@ -4254,7 +4254,8 @@ class QuantumsandLive
       "rust-lang/rustc-demangle",
       "lievenhey/d_demangler",
       "google/jsir",
-      "facebook/hermes"
+      "facebook/hermes",
+      "seleniumhq/selenium"
     ]
 
     git_repos_chromium_googlesource = [
