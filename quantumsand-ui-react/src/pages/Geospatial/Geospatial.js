@@ -5,10 +5,10 @@ export default function Geospatial() {
     <div className="geospatial">
       <p>TODO: geospatial component</p>
       <div className="geospatial__sidebar">
-      <p>TODO: geospatial__sidebar component</p>
+        <p>TODO: geospatial__sidebar component</p>
       </div>
       <div className="geospatial__map">
-      <p>TODO: geospatial__map component</p>
+        <p>TODO: geospatial__map component</p>
       </div>
     </div>
   );
