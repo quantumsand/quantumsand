@@ -4261,7 +4261,8 @@ class QuantumsandLive
       "crystal-lang/crystal",
       "qalculate/libqalculate",
       "qalculate/qalculate-gtk",
-      "qalculate/qalculate-qt"
+      "qalculate/qalculate-qt",
+      "gboeing/osmnx"
     ]
 
     git_repos_chromium_googlesource = [
