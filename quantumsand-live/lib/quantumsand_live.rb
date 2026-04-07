@@ -5745,7 +5745,8 @@ class QuantumsandLive
       "utilities/keurocalc",
       "utilities/keysmith",
       "utilities/kfind",
-      "utilities/kfloppy"
+      "utilities/kfloppy",
+      "utilities/kgpg"
     ]
 
     git_repos_ffmpeg_org = [
