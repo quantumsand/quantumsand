@@ -5703,7 +5703,8 @@ class QuantumsandLive
       "sdk/licentia",
       "sdk/lokalize",
       "sdk/markdown-gettext",
-      "sdk/massif-visualizer"
+      "sdk/massif-visualizer",
+      "sdk/mdit-py-hugo"
     ]
 
     git_repos_ffmpeg_org = [
