@@ -5723,7 +5723,8 @@ class QuantumsandLive
       "utilities/daykountdown",
       "utilities/filelight",
       "utilities/francis",
-      "utilities/hash-o-matic"
+      "utilities/hash-o-matic",
+      "utilities/isoimagewriter"
     ]
 
     git_repos_ffmpeg_org = [
