@@ -5724,7 +5724,8 @@ class QuantumsandLive
       "utilities/filelight",
       "utilities/francis",
       "utilities/hash-o-matic",
-      "utilities/isoimagewriter"
+      "utilities/isoimagewriter",
+      "utilities/kaichat"
     ]
 
     git_repos_ffmpeg_org = [
