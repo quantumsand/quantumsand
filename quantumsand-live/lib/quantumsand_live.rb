@@ -5441,7 +5441,8 @@ class QuantumsandLive
       "OpenVPN/openvpn3-linux",
       "Meadowlark/symphonium",
       "forgejo/forgejo",
-      "gentoo/gentoo"
+      "gentoo/gentoo",
+      "GeopJr/Collision"
     ]
 
     git_repos_kde_invent = [
