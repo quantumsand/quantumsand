@@ -4262,7 +4262,8 @@ class QuantumsandLive
       "qalculate/libqalculate",
       "qalculate/qalculate-gtk",
       "qalculate/qalculate-qt",
-      "gboeing/osmnx"
+      "gboeing/osmnx",
+      "rsyslog/rsyslog"
     ]
 
     git_repos_chromium_googlesource = [
