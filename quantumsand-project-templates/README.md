@@ -15,5 +15,9 @@ This will include:
 * GeoPandas
 * OSMnx
 * SQLAlchemy
+* NumPy
+* bpy (Blender as a Python module)
+* sagemath
+* pytest
 
 More to follow.
