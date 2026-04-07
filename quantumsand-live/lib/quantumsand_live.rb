@@ -4264,7 +4264,8 @@ class QuantumsandLive
       "qalculate/qalculate-qt",
       "gboeing/osmnx",
       "rsyslog/rsyslog",
-      "fail2ban/fail2ban"
+      "fail2ban/fail2ban",
+      "SSHGuard/sshguard"
     ]
 
     git_repos_chromium_googlesource = [
