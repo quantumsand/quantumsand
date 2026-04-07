@@ -5737,7 +5737,8 @@ class QuantumsandLive
       "utilities/kbackup",
       "utilities/kcharselect",
       "utilities/kclock",
-      "utilities/kdebugsettings"
+      "utilities/kdebugsettings",
+      "utilities/kdialog"
     ]
 
     git_repos_ffmpeg_org = [
