@@ -4912,7 +4912,8 @@ class QuantumsandLive
       "mattbas/CMake-Lib",
       "mattbas/Qt-Color-Widgets",
       "mattbas/python-lottie",
-      "chrony/chrony"
+      "chrony/chrony",
+      "dobey/authenticator-ng"
     ]
 
     git_repos_freedesktop_gitlab = [
