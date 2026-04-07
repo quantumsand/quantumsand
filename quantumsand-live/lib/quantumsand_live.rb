@@ -5706,7 +5706,8 @@ class QuantumsandLive
       "sdk/massif-visualizer",
       "sdk/mdit-py-hugo",
       "sdk/mdit-py-i18n",
-      "sdk/pology"
+      "sdk/pology",
+      "sdk/poxml"
     ]
 
     git_repos_ffmpeg_org = [
