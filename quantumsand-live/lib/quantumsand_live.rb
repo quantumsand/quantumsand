@@ -6045,7 +6045,8 @@ class QuantumsandLive
       "net-firewall/ipset",
       "dev-embedded/gpsim",
       "net-firewall/nftables",
-      "net-analyzer/fail2ban"
+      "net-analyzer/fail2ban",
+      "app-admin/sshguard"
     ]
 
     gentoo_eselect_repository_add = {
