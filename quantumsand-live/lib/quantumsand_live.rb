@@ -4607,7 +4607,8 @@ class QuantumsandLive
     ]
 
     git_repos_inria_fr_gitlab = [
-      "mpc/mpc"
+      "mpc/mpc",
+      "mpfr/mpfr"
     ]
 
     git_repos_winehq_org_gitlab = [
