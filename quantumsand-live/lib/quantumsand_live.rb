@@ -5716,7 +5716,8 @@ class QuantumsandLive
       "sdk/kdesdk-thumbnailers",
       "sdk/umbrello",
       "utilities/alpaka",
-      "utilities/ark"
+      "utilities/ark",
+      "utilities/basket"
     ]
 
     git_repos_ffmpeg_org = [
