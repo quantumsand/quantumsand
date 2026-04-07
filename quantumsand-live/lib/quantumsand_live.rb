@@ -5708,7 +5708,8 @@ class QuantumsandLive
       "sdk/mdit-py-i18n",
       "sdk/pology",
       "sdk/poxml",
-      "sdk/kdesdk-kio"
+      "sdk/kdesdk-kio",
+      "sdk/selenium-webdriver-at-spi"
     ]
 
     git_repos_ffmpeg_org = [
