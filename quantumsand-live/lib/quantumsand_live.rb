@@ -5713,7 +5713,8 @@ class QuantumsandLive
       "sdk/poxml",
       "sdk/kdesdk-kio",
       "sdk/selenium-webdriver-at-spi",
-      "sdk/kdesdk-thumbnailers"
+      "sdk/kdesdk-thumbnailers",
+      "sdk/umbrello"
     ]
 
     git_repos_ffmpeg_org = [
