@@ -4260,7 +4260,8 @@ class QuantumsandLive
       "appium/appium",
       "crystal-lang/crystal",
       "qalculate/libqalculate",
-      "qalculate/qalculate-gtk"
+      "qalculate/qalculate-gtk",
+      "qalculate/qalculate-qt"
     ]
 
     git_repos_chromium_googlesource = [
