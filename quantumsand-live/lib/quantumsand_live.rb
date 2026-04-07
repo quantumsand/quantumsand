@@ -5719,7 +5719,8 @@ class QuantumsandLive
       "utilities/ark",
       "utilities/basket",
       "utilities/daykountdown",
-      "utilities/filelight"
+      "utilities/filelight",
+      "utilities/francis"
     ]
 
     git_repos_ffmpeg_org = [
