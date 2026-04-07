@@ -5732,7 +5732,8 @@ class QuantumsandLive
       "utilities/kaichat",
       "utilities/kaichat-addons",
       "utilities/kairo",
-      "utilities/kalk"
+      "utilities/kalk",
+      "utilities/kalm"
     ]
 
     git_repos_ffmpeg_org = [
