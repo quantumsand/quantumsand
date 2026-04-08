@@ -189,4 +189,7 @@ Vital for Quantum Sand;
 * FFmpeg is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. FFmpeg incorporates several optional parts and optimizations that are covered by the GNU General Public License (GPL) version 2 or later.
 * audiowaveform is licensed under the GNU General Public License version 3.
 * Peaks.js is licensed under the GNU Lesser General Public License version 3.
+* Python is licensed under the PSF-2.0
+* OpenStreetMap is open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF).
+* osm2pgsql is licensed under the GNU General Public License; either version 2 of the license, or (at your option) any later version.
 * Hundreds of developers for all of the deps I am using.
