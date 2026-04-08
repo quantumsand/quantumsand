@@ -4268,7 +4268,8 @@ class QuantumsandLive
       "SSHGuard/sshguard",
       "GitoxideLabs/gitoxide",
       "gitpython-developers/gitpython",
-      "psycopg/psycopg"
+      "psycopg/psycopg",
+      "huggingface/safetensors"
     ]
 
     git_repos_chromium_googlesource = [
