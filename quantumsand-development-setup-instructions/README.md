@@ -83,6 +83,18 @@ Installed Python 3.14.3 in 2.53s
   * `cargo run quantumsand-videogame-doggo`
 * Install PostGIS and PostgreSQL; `brew install postgis postgresql@18`
 * To start postgresql@18 now and restart at login: `brew services start postgresql@18`
+* Install osm2pgsql; `brew install osm2pgsql`
+* Test your osm2pgsql installation; `osm2pgsql --version`
+* You should see the following message:
+```
+osm2pgsql version 2.2.0
+Build: Release
+Compiled using the following library versions:
+Libosmium 2.23.0
+Proj 9.8.0
+nlohmann JSON 3.12.0
+Lua 5.1.4 (LuaJIT 2.1.1771261233)
+```
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
