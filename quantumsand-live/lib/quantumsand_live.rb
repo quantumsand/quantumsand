@@ -4267,7 +4267,8 @@ class QuantumsandLive
       "fail2ban/fail2ban",
       "SSHGuard/sshguard",
       "GitoxideLabs/gitoxide",
-      "gitpython-developers/gitpython"
+      "gitpython-developers/gitpython",
+      "psycopg/psycopg"
     ]
 
     git_repos_chromium_googlesource = [
