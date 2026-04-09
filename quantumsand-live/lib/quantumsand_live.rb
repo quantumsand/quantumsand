@@ -5786,7 +5786,8 @@ class QuantumsandLive
       "maui/maui-clip",
       "maui/maui-communicator",
       "maui/maui-fiery",
-      "maui/index-fm"
+      "maui/index-fm",
+      "maui/mauikit"
     ]
 
     git_repos_ffmpeg_org = [
