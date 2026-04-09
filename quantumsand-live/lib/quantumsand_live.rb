@@ -5791,7 +5791,8 @@ class QuantumsandLive
       "maui/mauikit-accounts",
       "maui/mauikit-archiver",
       "maui/mauikit-calendar",
-      "maui/mauikit-documents"
+      "maui/mauikit-documents",
+      "maui/mauikit-filebrowsing"
     ]
 
     git_repos_ffmpeg_org = [
