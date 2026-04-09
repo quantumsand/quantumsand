@@ -5801,7 +5801,8 @@ class QuantumsandLive
       "maui/nota",
       "maui/paleta",
       "maui/maui-pix",
-      "maui/maui-shelf"
+      "maui/maui-shelf",
+      "maui/maui-station"
     ]
 
     git_repos_ffmpeg_org = [
