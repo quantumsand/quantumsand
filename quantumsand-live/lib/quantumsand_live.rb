@@ -5777,7 +5777,8 @@ class QuantumsandLive
       "utilities/sweeper",
       "utilities/symmy",
       "utilities/telly-skout",
-      "utilities/vail"
+      "utilities/vail",
+      "utilities/toad"
     ]
 
     git_repos_ffmpeg_org = [
