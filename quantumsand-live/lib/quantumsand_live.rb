@@ -5804,7 +5804,8 @@ class QuantumsandLive
       "maui/maui-shelf",
       "maui/maui-station",
       "maui/maui-strike",
-      "maui/vvave"
+      "maui/vvave",
+      "plasma-mobile/calindori"
     ]
 
     git_repos_ffmpeg_org = [
