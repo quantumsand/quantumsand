@@ -5795,7 +5795,8 @@ class QuantumsandLive
       "maui/mauikit-filebrowsing",
       "maui/mauikit-imagetools",
       "maui/mauikit-terminal",
-      "maui/mauikit-texteditor"
+      "maui/mauikit-texteditor",
+      "maui/mauiman"
     ]
 
     git_repos_ffmpeg_org = [
