@@ -120,10 +120,33 @@ More to follow.
 - geospatial `:geometry`
 
 
+### Surveys table
+
+- name `:string`
+- uuid `:string`
+- description `:text`
+- settings `:json`
+
+
 ### Questions table
 
+- survey_id: `bigint`
 - original_locale `:string`
 - original_question `:json`
+- weight `:float`
+
+
+### Answers table
+
+- response_id: `bigint`
+- raw `:json`
+
+
+### Responses table
+
+- survey_id: `bigint`
+- uuid `:string`
+- score `:float`
 
 
 ## TODO:
