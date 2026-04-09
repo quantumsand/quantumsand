@@ -5779,7 +5779,8 @@ class QuantumsandLive
       "utilities/telly-skout",
       "utilities/vail",
       "utilities/toad",
-      "maui/maui-agenda"
+      "maui/maui-agenda",
+      "maui/arca"
     ]
 
     git_repos_ffmpeg_org = [
