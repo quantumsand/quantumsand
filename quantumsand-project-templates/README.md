@@ -19,5 +19,6 @@ This will include:
 * bpy (Blender as a Python module)
 * sagemath
 * pytest
+* tch-rs (Rust bindings for the C++ api of PyTorch)
 
 More to follow.
