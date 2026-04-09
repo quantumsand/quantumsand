@@ -5803,7 +5803,8 @@ class QuantumsandLive
       "maui/maui-pix",
       "maui/maui-shelf",
       "maui/maui-station",
-      "maui/maui-strike"
+      "maui/maui-strike",
+      "maui/vvave"
     ]
 
     git_repos_ffmpeg_org = [
