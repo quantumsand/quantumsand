@@ -5775,7 +5775,8 @@ class QuantumsandLive
       "utilities/markdownpart",
       "utilities/rsibreak",
       "utilities/sweeper",
-      "utilities/symmy"
+      "utilities/symmy",
+      "utilities/telly-skout"
     ]
 
     git_repos_ffmpeg_org = [
