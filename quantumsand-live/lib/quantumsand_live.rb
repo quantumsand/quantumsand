@@ -5763,7 +5763,8 @@ class QuantumsandLive
       "utilities/kookbook",
       "utilities/kpublicalerts",
       "utilities/kregexpeditor",
-      "utilities/krename"
+      "utilities/krename",
+      "utilities/kronometer"
     ]
 
     git_repos_ffmpeg_org = [
