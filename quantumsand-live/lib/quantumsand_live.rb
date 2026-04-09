@@ -5770,7 +5770,8 @@ class QuantumsandLive
       "utilities/ktimer",
       "utilities/kteatime",
       "utilities/kwalletmanager",
-      "utilities/kweather"
+      "utilities/kweather",
+      "utilities/markdownpart"
     ]
 
     git_repos_ffmpeg_org = [
