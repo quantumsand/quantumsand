@@ -130,7 +130,7 @@ More to follow.
 
 ### Questions table
 
-- survey_id: `bigint`
+- survey_id `:bigint`
 - original_locale `:string`
 - original_question `:json`
 - weight `:float`
@@ -138,13 +138,13 @@ More to follow.
 
 ### Answers table
 
-- response_id: `bigint`
+- response_id `:bigint`
 - raw `:json`
 
 
 ### Responses table
 
-- survey_id: `bigint`
+- survey_id: `:bigint`
 - uuid `:string`
 - score `:float`
 
