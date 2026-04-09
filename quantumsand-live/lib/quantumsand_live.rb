@@ -5774,7 +5774,8 @@ class QuantumsandLive
       "utilities/kweather",
       "utilities/markdownpart",
       "utilities/rsibreak",
-      "utilities/sweeper"
+      "utilities/sweeper",
+      "utilities/symmy"
     ]
 
     git_repos_ffmpeg_org = [
