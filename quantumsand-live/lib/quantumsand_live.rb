@@ -5784,7 +5784,8 @@ class QuantumsandLive
       "maui/maui-booth",
       "maui/buho",
       "maui/maui-clip",
-      "maui/maui-communicator"
+      "maui/maui-communicator",
+      "maui/maui-fiery"
     ]
 
     git_repos_ffmpeg_org = [
