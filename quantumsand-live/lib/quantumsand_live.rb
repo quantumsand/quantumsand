@@ -5759,7 +5759,8 @@ class QuantumsandLive
       "utilities/kio-stash",
       "utilities/klimbgrades",
       "utilities/komodo",
-      "utilities/kongress"
+      "utilities/kongress",
+      "utilities/kookbook"
     ]
 
     git_repos_ffmpeg_org = [
