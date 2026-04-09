@@ -144,7 +144,7 @@ More to follow.
 
 ### Responses table
 
-- survey_id: `:bigint`
+- survey_id `:bigint`
 - uuid `:string`
 - score `:float`
 
