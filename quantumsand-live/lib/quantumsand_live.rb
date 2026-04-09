@@ -5764,7 +5764,8 @@ class QuantumsandLive
       "utilities/kpublicalerts",
       "utilities/kregexpeditor",
       "utilities/krename",
-      "utilities/kronometer"
+      "utilities/kronometer",
+      "utilities/krusader"
     ]
 
     git_repos_ffmpeg_org = [
