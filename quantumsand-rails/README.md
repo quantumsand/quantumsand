@@ -118,6 +118,7 @@ More to follow.
 
 - name `:string`
 - geospatial `:geometry`
+- data `:json`
 
 
 ### Surveys table
