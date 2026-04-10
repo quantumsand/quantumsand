@@ -4269,7 +4269,8 @@ class QuantumsandLive
       "GitoxideLabs/gitoxide",
       "gitpython-developers/gitpython",
       "psycopg/psycopg",
-      "huggingface/safetensors"
+      "huggingface/safetensors",
+      "uiwjs/react-color"
     ]
 
     git_repos_chromium_googlesource = [
