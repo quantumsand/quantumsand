@@ -4272,7 +4272,8 @@ class QuantumsandLive
       "huggingface/safetensors",
       "uiwjs/react-color",
       "uiwjs/react-md-editor",
-      "gilbarbara/react-inlinesvg"
+      "gilbarbara/react-inlinesvg",
+      "remarkablemark/html-react-parser"
     ]
 
     git_repos_chromium_googlesource = [
