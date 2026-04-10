@@ -20,5 +20,6 @@ This will include:
 * sagemath
 * pytest
 * tch-rs (Rust bindings for the C++ api of PyTorch)
+* Ultralytics
 
 More to follow.
