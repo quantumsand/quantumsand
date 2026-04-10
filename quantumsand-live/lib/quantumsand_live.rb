@@ -4271,7 +4271,8 @@ class QuantumsandLive
       "psycopg/psycopg",
       "huggingface/safetensors",
       "uiwjs/react-color",
-      "uiwjs/react-md-editor"
+      "uiwjs/react-md-editor",
+      "gilbarbara/react-inlinesvg"
     ]
 
     git_repos_chromium_googlesource = [
