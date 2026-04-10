@@ -4270,7 +4270,8 @@ class QuantumsandLive
       "gitpython-developers/gitpython",
       "psycopg/psycopg",
       "huggingface/safetensors",
-      "uiwjs/react-color"
+      "uiwjs/react-color",
+      "uiwjs/react-md-editor"
     ]
 
     git_repos_chromium_googlesource = [
