@@ -4273,7 +4273,8 @@ class QuantumsandLive
       "uiwjs/react-color",
       "uiwjs/react-md-editor",
       "gilbarbara/react-inlinesvg",
-      "remarkablemark/html-react-parser"
+      "remarkablemark/html-react-parser",
+      "cage-kiosk/cage"
     ]
 
     git_repos_chromium_googlesource = [
