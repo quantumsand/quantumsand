@@ -4275,7 +4275,8 @@ class QuantumsandLive
       "gilbarbara/react-inlinesvg",
       "remarkablemark/html-react-parser",
       "cage-kiosk/cage",
-      "postgresml/korvus"
+      "postgresml/korvus",
+      "postgresml/postgresml-django"
     ]
 
     git_repos_chromium_googlesource = [
