@@ -4274,7 +4274,8 @@ class QuantumsandLive
       "uiwjs/react-md-editor",
       "gilbarbara/react-inlinesvg",
       "remarkablemark/html-react-parser",
-      "cage-kiosk/cage"
+      "cage-kiosk/cage",
+      "postgresml/korvus"
     ]
 
     git_repos_chromium_googlesource = [
