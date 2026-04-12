@@ -4276,7 +4276,8 @@ class QuantumsandLive
       "remarkablemark/html-react-parser",
       "cage-kiosk/cage",
       "postgresml/korvus",
-      "postgresml/postgresml-django"
+      "postgresml/postgresml-django",
+      "swaywm/sway"
     ]
 
     git_repos_chromium_googlesource = [
