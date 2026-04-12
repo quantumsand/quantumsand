@@ -4277,7 +4277,8 @@ class QuantumsandLive
       "cage-kiosk/cage",
       "postgresml/korvus",
       "postgresml/postgresml-django",
-      "swaywm/sway"
+      "swaywm/sway",
+      "swaywm/swaybg"
     ]
 
     git_repos_chromium_googlesource = [
