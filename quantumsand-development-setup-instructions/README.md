@@ -178,6 +178,11 @@ More to follow.
 
 ## Windows setup (x86_64)
 
+* Install Windows Subsystem for Linux (WSL);
+* Open PowerShell in administrator mode by right-clicking and selecting "Run as administrator".
+* Run the command; `wsl --install --no-distribution`
+* Then restart your machine.
+
 More to follow.
 
 ## Windows setup (arm64)
