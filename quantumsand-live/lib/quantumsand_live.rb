@@ -5853,7 +5853,8 @@ class QuantumsandLive
       "pim/kmbox",
       "pim/kmime",
       "pim/kontact",
-      "pim/kontactinterface"
+      "pim/kontactinterface",
+      "pim/korganizer"
     ]
 
     git_repos_ffmpeg_org = [
