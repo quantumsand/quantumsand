@@ -104,6 +104,13 @@ martin 1.5.0
 ```
 * Install mapnik; `brew install mapnik`
 * Install httpd; `brew install httpd`
+* Test the httpd installation;
+* `/opt/homebrew/opt/httpd/bin/httpd -v`
+* You should see the following message:
+```
+Server version: Apache/2.4.66 (Unix)
+Server built:   Dec  1 2025 12:44:02
+```
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
