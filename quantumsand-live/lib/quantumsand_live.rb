@@ -5830,7 +5830,8 @@ class QuantumsandLive
       "pim/akonadi-mime",
       "pim/akonadi-search",
       "pim/akregator",
-      "pim/grantlee-editor"
+      "pim/grantlee-editor",
+      "pim/itinerary"
     ]
 
     git_repos_ffmpeg_org = [
