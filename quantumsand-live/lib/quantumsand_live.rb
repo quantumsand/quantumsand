@@ -5849,7 +5849,8 @@ class QuantumsandLive
       "pim/kleopatra",
       "pim/kmail",
       "pim/kmail-account-wizard",
-      "pim/kmailtransport"
+      "pim/kmailtransport",
+      "pim/kmbox"
     ]
 
     git_repos_ffmpeg_org = [
