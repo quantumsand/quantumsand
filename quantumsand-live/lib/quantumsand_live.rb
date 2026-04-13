@@ -4281,7 +4281,8 @@ class QuantumsandLive
       "swaywm/swaybg",
       "CrunchyData/pg_tileserv",
       "roastercode/FTRFS",
-      "rui314/mold"
+      "rui314/mold",
+      "NVlabs/cutile-rs"
     ]
 
     git_repos_chromium_googlesource = [
