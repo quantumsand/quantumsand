@@ -5833,7 +5833,8 @@ class QuantumsandLive
       "pim/grantlee-editor",
       "pim/itinerary",
       "pim/kaddressbook",
-      "pim/kalarm"
+      "pim/kalarm",
+      "pim/kcalutils"
     ]
 
     git_repos_ffmpeg_org = [
