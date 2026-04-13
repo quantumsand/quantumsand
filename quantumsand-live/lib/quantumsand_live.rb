@@ -4283,7 +4283,8 @@ class QuantumsandLive
       "roastercode/FTRFS",
       "rui314/mold",
       "NVlabs/cutile-rs",
-      "spack/spack"
+      "spack/spack",
+      "StarLabsLtd/firmware"
     ]
 
     git_repos_chromium_googlesource = [
