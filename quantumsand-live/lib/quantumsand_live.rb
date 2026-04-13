@@ -5835,7 +5835,8 @@ class QuantumsandLive
       "pim/kaddressbook",
       "pim/kalarm",
       "pim/kcalutils",
-      "pim/kdav2"
+      "pim/kdav2",
+      "pim/kdepim-addons"
     ]
 
     git_repos_ffmpeg_org = [
