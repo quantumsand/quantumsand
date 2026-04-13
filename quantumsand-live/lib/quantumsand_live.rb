@@ -5829,7 +5829,8 @@ class QuantumsandLive
       "pim/akonadi-e2e-tests",
       "pim/akonadi-mime",
       "pim/akonadi-search",
-      "pim/akregator"
+      "pim/akregator",
+      "pim/grantlee-editor"
     ]
 
     git_repos_ffmpeg_org = [
