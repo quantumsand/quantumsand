@@ -5861,7 +5861,8 @@ class QuantumsandLive
       "pim/ksmtp",
       "pim/ktimetracker",
       "pim/ktnef",
-      "pim/kube"
+      "pim/kube",
+      "pim/libgravatar"
     ]
 
     git_repos_ffmpeg_org = [
