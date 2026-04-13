@@ -5817,7 +5817,8 @@ class QuantumsandLive
       "maui/maui-station",
       "maui/maui-strike",
       "maui/vvave",
-      "plasma-mobile/calindori"
+      "plasma-mobile/calindori",
+      "pim/merkuro"
     ]
 
     git_repos_ffmpeg_org = [
