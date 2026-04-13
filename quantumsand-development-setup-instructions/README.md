@@ -95,6 +95,14 @@ Proj 9.8.0
 nlohmann JSON 3.12.0
 Lua 5.1.4 (LuaJIT 2.1.1771261233)
 ```
+* Install martin; `brew install martin`
+* Test the martin installation;
+* `martin --version`
+* You should see the following message:
+```
+martin 1.5.0
+```
+* Install mapnik; `brew install mapnik`
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
