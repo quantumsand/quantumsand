@@ -5860,7 +5860,8 @@ class QuantumsandLive
       "pim/kpkpass",
       "pim/ksmtp",
       "pim/ktimetracker",
-      "pim/ktnef"
+      "pim/ktnef",
+      "pim/kube"
     ]
 
     git_repos_ffmpeg_org = [
