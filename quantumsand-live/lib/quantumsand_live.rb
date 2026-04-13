@@ -5845,7 +5845,8 @@ class QuantumsandLive
       "pim/kimap2",
       "pim/kitinerary",
       "pim/kitinerary-workbench",
-      "pim/kldap"
+      "pim/kldap",
+      "pim/kleopatra"
     ]
 
     git_repos_ffmpeg_org = [
