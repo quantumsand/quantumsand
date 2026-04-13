@@ -5819,7 +5819,8 @@ class QuantumsandLive
       "maui/vvave",
       "plasma-mobile/calindori",
       "pim/merkuro",
-      "pim/akonadi"
+      "pim/akonadi",
+      "pim/akonadi-calendar"
     ]
 
     git_repos_ffmpeg_org = [
