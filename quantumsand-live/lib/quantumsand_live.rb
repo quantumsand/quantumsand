@@ -5839,7 +5839,8 @@ class QuantumsandLive
       "pim/kdepim-addons",
       "pim/kdepim-docker",
       "pim/kdepim-runtime",
-      "pim/khealthcertificate"
+      "pim/khealthcertificate",
+      "pim/kidentitymanagement"
     ]
 
     git_repos_ffmpeg_org = [
