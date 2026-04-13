@@ -92,20 +92,25 @@ More to follow.
 - translation_locale_text `:text`
 
 
-### Game table
+### Games table
 
 - game_name `:string`
-- game_slot `:string`
-- game_player `:json`
 - game_narrative `:json`
-- game_progress `:json`
 - game_traits `:json`
 - game_inventory `:json`
 - game_shop `:json`
 - game_ui `:json`
 
 
-### Resource table
+### Game Slots table
+
+- game_id `:bigint`
+- game_slot `:string`
+- game_player `:json`
+- game_progress `:json`
+
+
+### Resources table
 
 - git_repo_name `:string`
 - qr_code `:string`
