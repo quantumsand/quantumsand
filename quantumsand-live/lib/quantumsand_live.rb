@@ -5841,7 +5841,8 @@ class QuantumsandLive
       "pim/kdepim-runtime",
       "pim/khealthcertificate",
       "pim/kidentitymanagement",
-      "pim/kimap"
+      "pim/kimap",
+      "pim/kimap2"
     ]
 
     git_repos_ffmpeg_org = [
