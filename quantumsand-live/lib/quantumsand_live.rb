@@ -5843,7 +5843,8 @@ class QuantumsandLive
       "pim/kidentitymanagement",
       "pim/kimap",
       "pim/kimap2",
-      "pim/kitinerary"
+      "pim/kitinerary",
+      "pim/kitinerary-workbench"
     ]
 
     git_repos_ffmpeg_org = [
