@@ -5827,7 +5827,8 @@ class QuantumsandLive
       "pim/akonadi-contacts",
       "pim/akonadi-import-wizard",
       "pim/akonadi-e2e-tests",
-      "pim/akonadi-mime"
+      "pim/akonadi-mime",
+      "pim/akonadi-search"
     ]
 
     git_repos_ffmpeg_org = [
