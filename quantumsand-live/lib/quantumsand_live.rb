@@ -5837,7 +5837,8 @@ class QuantumsandLive
       "pim/kcalutils",
       "pim/kdav2",
       "pim/kdepim-addons",
-      "pim/kdepim-docker"
+      "pim/kdepim-docker",
+      "pim/kdepim-runtime"
     ]
 
     git_repos_ffmpeg_org = [
