@@ -5823,7 +5823,8 @@ class QuantumsandLive
       "pim/akonadi-calendar",
       "pim/akonadi-calendar-tools",
       "pim/akonadiclient",
-      "pim/akonadiconsole"
+      "pim/akonadiconsole",
+      "pim/akonadi-contacts"
     ]
 
     git_repos_ffmpeg_org = [
