@@ -4282,7 +4282,8 @@ class QuantumsandLive
       "CrunchyData/pg_tileserv",
       "roastercode/FTRFS",
       "rui314/mold",
-      "NVlabs/cutile-rs"
+      "NVlabs/cutile-rs",
+      "spack/spack"
     ]
 
     git_repos_chromium_googlesource = [
