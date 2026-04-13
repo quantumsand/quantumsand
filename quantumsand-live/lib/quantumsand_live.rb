@@ -4278,7 +4278,8 @@ class QuantumsandLive
       "postgresml/korvus",
       "postgresml/postgresml-django",
       "swaywm/sway",
-      "swaywm/swaybg"
+      "swaywm/swaybg",
+      "CrunchyData/pg_tileserv"
     ]
 
     git_repos_chromium_googlesource = [
