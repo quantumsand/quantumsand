@@ -4285,7 +4285,8 @@ class QuantumsandLive
       "NVlabs/cutile-rs",
       "spack/spack",
       "StarLabsLtd/firmware",
-      "StarLabsLtd/coreboot"
+      "StarLabsLtd/coreboot",
+      "jemalloc/jemalloc"
     ]
 
     git_repos_chromium_googlesource = [
