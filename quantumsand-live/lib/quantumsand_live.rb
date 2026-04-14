@@ -4292,7 +4292,8 @@ class QuantumsandLive
       "obsproject/obs-browser",
       "obsproject/obs-websocket",
       "obsproject/cef",
-      "ntp-project/ntp"
+      "ntp-project/ntp",
+      "nginx/nginx"
     ]
 
     git_repos_chromium_googlesource = [
