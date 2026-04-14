@@ -4289,7 +4289,8 @@ class QuantumsandLive
       "jemalloc/jemalloc",
       "HansKristian-Work/vkd3d-proton",
       "obsproject/obs-plugintemplate",
-      "obsproject/obs-browser"
+      "obsproject/obs-browser",
+      "obsproject/obs-websocket"
     ]
 
     git_repos_chromium_googlesource = [
