@@ -4286,7 +4286,8 @@ class QuantumsandLive
       "spack/spack",
       "StarLabsLtd/firmware",
       "StarLabsLtd/coreboot",
-      "jemalloc/jemalloc"
+      "jemalloc/jemalloc",
+      "HansKristian-Work/vkd3d-proton"
     ]
 
     git_repos_chromium_googlesource = [
