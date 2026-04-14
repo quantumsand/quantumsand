@@ -4290,7 +4290,8 @@ class QuantumsandLive
       "HansKristian-Work/vkd3d-proton",
       "obsproject/obs-plugintemplate",
       "obsproject/obs-browser",
-      "obsproject/obs-websocket"
+      "obsproject/obs-websocket",
+      "obsproject/cef"
     ]
 
     git_repos_chromium_googlesource = [
