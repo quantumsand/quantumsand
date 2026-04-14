@@ -4643,7 +4643,8 @@ class QuantumsandLive
     git_repos_winehq_org_gitlab = [
       "wine/wine",
       "wine/fontforge",
-      "wine/vkd3d"
+      "wine/vkd3d",
+      "wine/wine-gecko"
     ]
 
     git_repos_netfilter_org = [
