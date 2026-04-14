@@ -4287,7 +4287,8 @@ class QuantumsandLive
       "StarLabsLtd/firmware",
       "StarLabsLtd/coreboot",
       "jemalloc/jemalloc",
-      "HansKristian-Work/vkd3d-proton"
+      "HansKristian-Work/vkd3d-proton",
+      "obsproject/obs-plugintemplate"
     ]
 
     git_repos_chromium_googlesource = [
