@@ -4294,7 +4294,8 @@ class QuantumsandLive
       "obsproject/cef",
       "ntp-project/ntp",
       "nginx/nginx",
-      "bluez/bluez"
+      "bluez/bluez",
+      "EHfive/ldacBT"
     ]
 
     git_repos_chromium_googlesource = [
