@@ -6226,7 +6226,8 @@ class QuantumsandLive
       "net-analyzer/fail2ban",
       "app-admin/sshguard",
       "media-libs/libpulse",
-      "media-sound/pulseaudio-daemon"
+      "media-sound/pulseaudio-daemon",
+      "media-plugins/alsa-plugins"
     ]
 
     gentoo_eselect_repository_add = {
