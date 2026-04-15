@@ -4295,7 +4295,8 @@ class QuantumsandLive
       "ntp-project/ntp",
       "nginx/nginx",
       "bluez/bluez",
-      "EHfive/ldacBT"
+      "EHfive/ldacBT",
+      "EHfive/pulseaudio-modules-bt"
     ]
 
     git_repos_chromium_googlesource = [
