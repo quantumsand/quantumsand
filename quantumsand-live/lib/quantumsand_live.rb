@@ -5894,7 +5894,8 @@ class QuantumsandLive
       "pim/mailimporter",
       "pim/messagelib",
       "pim/pim-sieve-editor",
-      "pim/sink"
+      "pim/sink",
+      "pim/trojita"
     ]
 
     git_repos_ffmpeg_org = [
