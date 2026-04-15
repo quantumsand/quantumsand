@@ -67,7 +67,7 @@ More to follow.
 
 ## Database tables reference
 
-### Grain table
+### Grains table
 
 - git_repo_name `:string`
 - qr_code `:string`
@@ -84,7 +84,7 @@ More to follow.
 - grain_dependencies `:json`
 
 
-### Translation table
+### Translations table
 
 - original_locale `:string`
 - original_locale_text `:text`
