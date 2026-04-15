@@ -119,7 +119,7 @@ More to follow.
 - resource_thumbnail `:string`
 
 
-### Geospatial table
+### Geospatial Traces table
 
 - name `:string`
 - geospatial `:geometry`
