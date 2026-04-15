@@ -5918,7 +5918,8 @@ class QuantumsandLive
       "sebastjava/breeze-grub-v2",
       "plasma/breeze-plymouth",
       "plasma/qqc2-breeze-style",
-      "plasma/discover"
+      "plasma/discover",
+      "plasma/drkonqi"
     ]
 
     git_repos_ffmpeg_org = [
