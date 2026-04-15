@@ -5895,7 +5895,8 @@ class QuantumsandLive
       "pim/messagelib",
       "pim/pim-sieve-editor",
       "pim/sink",
-      "pim/trojita"
+      "pim/trojita",
+      "pim/vakzination"
     ]
 
     git_repos_ffmpeg_org = [
