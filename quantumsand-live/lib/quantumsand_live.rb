@@ -5909,7 +5909,8 @@ class QuantumsandLive
       "plasma/aura-browser",
       "plasma/aurorae",
       "plasma/bluedevil",
-      "plasma/breeze-gtk"
+      "plasma/breeze-gtk",
+      "plasma/breeze-grub"
     ]
 
     git_repos_ffmpeg_org = [
