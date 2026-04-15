@@ -6198,7 +6198,8 @@ class QuantumsandLive
       "net-firewall/nftables",
       "net-analyzer/fail2ban",
       "app-admin/sshguard",
-      "media-libs/libpulse"
+      "media-libs/libpulse",
+      "media-sound/pulseaudio-daemon"
     ]
 
     gentoo_eselect_repository_add = {
