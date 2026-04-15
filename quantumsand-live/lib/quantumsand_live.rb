@@ -5897,7 +5897,8 @@ class QuantumsandLive
       "pim/sink",
       "pim/trojita",
       "pim/vakzination",
-      "pim/zanshin"
+      "pim/zanshin",
+      "plasma/aura-browser"
     ]
 
     git_repos_ffmpeg_org = [
