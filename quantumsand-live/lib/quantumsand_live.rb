@@ -4301,7 +4301,8 @@ class QuantumsandLive
       "krishnan793/PlymouthTheme-Cat",
       "adi1090x/plymouth-themes",
       "hrshbh/plymouth-themes",
-      "flatpak/xdg-desktop-portal"
+      "flatpak/xdg-desktop-portal",
+      "DaveGamble/cJSON"
     ]
 
     git_repos_chromium_googlesource = [
