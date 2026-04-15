@@ -5878,7 +5878,8 @@ class QuantumsandLive
       "pim/kube",
       "pim/libgravatar",
       "plasma/kactivitymanagerd",
-      "pim/libkdepim"
+      "pim/libkdepim",
+      "pim/libkgapi"
     ]
 
     git_repos_ffmpeg_org = [
