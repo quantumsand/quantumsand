@@ -5892,7 +5892,8 @@ class QuantumsandLive
       "pim/incidenceeditor",
       "pim/mailcommon",
       "pim/mailimporter",
-      "pim/messagelib"
+      "pim/messagelib",
+      "pim/pim-sieve-editor"
     ]
 
     git_repos_ffmpeg_org = [
