@@ -6197,7 +6197,8 @@ class QuantumsandLive
       "dev-embedded/gpsim",
       "net-firewall/nftables",
       "net-analyzer/fail2ban",
-      "app-admin/sshguard"
+      "app-admin/sshguard",
+      "media-libs/libpulse"
     ]
 
     gentoo_eselect_repository_add = {
