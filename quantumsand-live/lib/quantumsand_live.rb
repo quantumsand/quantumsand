@@ -5899,7 +5899,8 @@ class QuantumsandLive
       "pim/vakzination",
       "pim/zanshin",
       "plasma/aura-browser",
-      "plasma/aurorae"
+      "plasma/aurorae",
+      "plasma/bluedevil"
     ]
 
     git_repos_ffmpeg_org = [
