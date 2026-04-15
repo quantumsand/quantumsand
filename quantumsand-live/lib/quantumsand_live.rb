@@ -5883,7 +5883,8 @@ class QuantumsandLive
       "pim/libkleo",
       "pim/libksieve",
       "pim/mbox-importer",
-      "pim/mimetreeparser"
+      "pim/mimetreeparser",
+      "pim/calendarsupport"
     ]
 
     git_repos_ffmpeg_org = [
