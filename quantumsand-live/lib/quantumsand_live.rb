@@ -6227,7 +6227,8 @@ class QuantumsandLive
       "app-admin/sshguard",
       "media-libs/libpulse",
       "media-sound/pulseaudio-daemon",
-      "media-plugins/alsa-plugins"
+      "media-plugins/alsa-plugins",
+      "media-sound/audacity"
     ]
 
     gentoo_eselect_repository_add = {
