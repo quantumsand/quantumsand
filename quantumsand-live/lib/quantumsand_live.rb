@@ -5919,7 +5919,8 @@ class QuantumsandLive
       "plasma/breeze-plymouth",
       "plasma/qqc2-breeze-style",
       "plasma/discover",
-      "plasma/drkonqi"
+      "plasma/drkonqi",
+      "plasma/flatpak-kcm"
     ]
 
     git_repos_ffmpeg_org = [
