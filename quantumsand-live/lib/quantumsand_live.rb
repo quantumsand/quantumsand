@@ -5885,7 +5885,8 @@ class QuantumsandLive
       "pim/mbox-importer",
       "pim/mimetreeparser",
       "pim/calendarsupport",
-      "pim/pimcommon"
+      "pim/pimcommon",
+      "pim/pim-data-exporter"
     ]
 
     git_repos_ffmpeg_org = [
