@@ -111,6 +111,13 @@ martin 1.5.0
 Server version: Apache/2.4.66 (Unix)
 Server built:   Dec  1 2025 12:44:02
 ```
+* Edit `httpd.conf`; `code /opt/homebrew/etc/httpd/httpd.conf`
+* Modify the following line: `Listen 8080`
+* To only serve locally; `Listen 127.0.0.1:8081`
+* To start httpd now and restart at login: `brew services start httpd`
+* Inside Google Chrome visit the `httpd` endpoint url by typing this localhost address into the Chrome address bar:
+* `http://localhost:8081`
+* You should see a page with `It works!`
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
