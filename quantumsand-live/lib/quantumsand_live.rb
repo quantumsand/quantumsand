@@ -5889,7 +5889,8 @@ class QuantumsandLive
       "pim/pim-data-exporter",
       "pim/eventviews",
       "pim/grantleetheme",
-      "pim/incidenceeditor"
+      "pim/incidenceeditor",
+      "pim/mailcommon"
     ]
 
     git_repos_ffmpeg_org = [
