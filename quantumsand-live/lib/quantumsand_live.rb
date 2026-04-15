@@ -5923,7 +5923,8 @@ class QuantumsandLive
       "plasma/flatpak-kcm",
       "plasma/kde-cli-tools",
       "plasma/kdecoration",
-      "plasma/kde-gtk-config"
+      "plasma/kde-gtk-config",
+      "plasma/xdg-desktop-portal-kde"
     ]
 
     git_repos_ffmpeg_org = [
