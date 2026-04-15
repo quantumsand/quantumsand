@@ -4300,7 +4300,8 @@ class QuantumsandLive
       "offensive-hub/plymouth-anonymous",
       "krishnan793/PlymouthTheme-Cat",
       "adi1090x/plymouth-themes",
-      "hrshbh/plymouth-themes"
+      "hrshbh/plymouth-themes",
+      "flatpak/xdg-desktop-portal"
     ]
 
     git_repos_chromium_googlesource = [
