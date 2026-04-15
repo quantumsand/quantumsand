@@ -4298,7 +4298,8 @@ class QuantumsandLive
       "EHfive/ldacBT",
       "EHfive/pulseaudio-modules-bt",
       "offensive-hub/plymouth-anonymous",
-      "krishnan793/PlymouthTheme-Cat"
+      "krishnan793/PlymouthTheme-Cat",
+      "adi1090x/plymouth-themes"
     ]
 
     git_repos_chromium_googlesource = [
