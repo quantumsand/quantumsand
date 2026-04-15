@@ -4333,6 +4333,10 @@ class QuantumsandLive
       "skia"
     ]
 
+    git_repos_android_googlesource = [
+      "platform/external/libldac"
+    ]
+
     git_xet_hf_download_huggingface_co = [
       "opencv/qrcode_wechatqrcode",
       "miromind-ai/MiroThinker-v1.0-8B",
