@@ -4296,7 +4296,8 @@ class QuantumsandLive
       "nginx/nginx",
       "bluez/bluez",
       "EHfive/ldacBT",
-      "EHfive/pulseaudio-modules-bt"
+      "EHfive/pulseaudio-modules-bt",
+      "offensive-hub/plymouth-anonymous"
     ]
 
     git_repos_chromium_googlesource = [
