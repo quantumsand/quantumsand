@@ -4303,7 +4303,8 @@ class QuantumsandLive
       "hrshbh/plymouth-themes",
       "flatpak/xdg-desktop-portal",
       "DaveGamble/cJSON",
-      "qais-yousef/schedqos"
+      "qais-yousef/schedqos",
+      "ubuntu/lightdm"
     ]
 
     git_repos_chromium_googlesource = [
