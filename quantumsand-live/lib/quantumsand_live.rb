@@ -5946,7 +5946,8 @@ class QuantumsandLive
       "plasma/kwin-x11",
       "plasma/kwrited",
       "plasma/latte-dock",
-      "plasma/layer-shell-qt"
+      "plasma/layer-shell-qt",
+      "plasma/libkscreen"
     ]
 
     git_repos_ffmpeg_org = [
