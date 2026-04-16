@@ -6277,7 +6277,8 @@ class QuantumsandLive
       "media-libs/libpulse",
       "media-sound/pulseaudio-daemon",
       "media-plugins/alsa-plugins",
-      "media-sound/audacity"
+      "media-sound/audacity",
+      "dev-libs/boost"
     ]
 
     gentoo_eselect_repository_add = {
