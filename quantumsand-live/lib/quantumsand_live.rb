@@ -5932,7 +5932,8 @@ class QuantumsandLive
       "plasma/kgamma",
       "plasma/kglobalacceld",
       "plasma/kinfocenter",
-      "plasma/kmenuedit"
+      "plasma/kmenuedit",
+      "plasma/knighttime"
     ]
 
     git_repos_ffmpeg_org = [
