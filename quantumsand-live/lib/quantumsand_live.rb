@@ -5937,7 +5937,8 @@ class QuantumsandLive
       "plasma/kpipewire",
       "plasma/krdp",
       "plasma/kscreen",
-      "plasma/kscreenlocker"
+      "plasma/kscreenlocker",
+      "plasma/ksshaskpass"
     ]
 
     git_repos_ffmpeg_org = [
