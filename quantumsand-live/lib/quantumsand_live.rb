@@ -5940,7 +5940,8 @@ class QuantumsandLive
       "plasma/kscreenlocker",
       "plasma/ksshaskpass",
       "plasma/ksystemstats",
-      "plasma/kwallet-pam"
+      "plasma/kwallet-pam",
+      "plasma/kwayland"
     ]
 
     git_repos_ffmpeg_org = [
