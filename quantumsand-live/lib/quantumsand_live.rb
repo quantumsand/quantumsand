@@ -4309,7 +4309,8 @@ class QuantumsandLive
       "mapnik/python-mapnik",
       "openstreetmap/mapnik-stylesheets",
       "openstreetmap-carto/openstreetmap-carto",
-      "geofabrik/osm-bright"
+      "geofabrik/osm-bright",
+      "mapbox/osm-bright"
     ]
 
     git_repos_chromium_googlesource = [
