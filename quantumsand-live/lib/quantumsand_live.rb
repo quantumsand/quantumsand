@@ -5941,7 +5941,8 @@ class QuantumsandLive
       "plasma/ksshaskpass",
       "plasma/ksystemstats",
       "plasma/kwallet-pam",
-      "plasma/kwayland"
+      "plasma/kwayland",
+      "plasma/kwayland-integration"
     ]
 
     git_repos_ffmpeg_org = [
