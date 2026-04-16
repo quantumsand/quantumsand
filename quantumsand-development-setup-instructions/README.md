@@ -138,10 +138,6 @@ Server built:   Dec  1 2025 12:44:02
 ```
 * Within; `src/CMakeLists.txt`
 ```diff
- link_directories(${CMAKE_LIBRARY_PATH})
-+link_directories(/opt/homebrew/lib)
-```
-```diff
  set(mod_tile_LIBS
    ${APR_LIBRARIES}
 +  ${HTTPD_LIBRARIES}
@@ -166,7 +162,7 @@ Server built:   Dec  1 2025 12:44:02
 ```bash
 mkdir build
 cd build
-ICU_ROOT=$(brew --prefix icu4c) cmake .. -DCMAKE_PREFIX_PATH='/opt/homebrew' -DCMAKE_INSTALL_PREFIX:PATH='/opt/homebrew'
+ICU_ROOT=$(brew --prefix icu4c) cmake .. -DCMAKE_PREFIX_PATH='/opt/homebrew' -DCMAKE_INSTALL_PREFIX:PATH='/opt/homebrew' -DCMAKE_LIBRARY_PATH='/opt/homebrew/lib'
 make
 ```
 * Install mod_tile; `cmake --install . --strip`
