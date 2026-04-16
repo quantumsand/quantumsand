@@ -5969,7 +5969,8 @@ class QuantumsandLive
       "plasma/plasma-desktop",
       "plasma/plasma-disks",
       "plasma/plasma-firewall",
-      "plasma/plasma-integration"
+      "plasma/plasma-integration",
+      "plasma/plasma-keyboard"
     ]
 
     git_repos_ffmpeg_org = [
