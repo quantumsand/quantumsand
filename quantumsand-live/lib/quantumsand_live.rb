@@ -5949,7 +5949,8 @@ class QuantumsandLive
       "plasma/layer-shell-qt",
       "plasma/libkscreen",
       "plasma/libksysguard",
-      "plasma/libplasma"
+      "plasma/libplasma",
+      "plasma/lightdm-kde-greeter"
     ]
 
     git_repos_ffmpeg_org = [
