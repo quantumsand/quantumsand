@@ -5962,7 +5962,8 @@ class QuantumsandLive
       "plasma/plasma-activities",
       "plasma/plasma-activities-stats",
       "plasma/kdeplasma-addons",
-      "plasma/plasma-nm"
+      "plasma/plasma-nm",
+      "plasma/plasma-bigscreen"
     ]
 
     git_repos_ffmpeg_org = [
