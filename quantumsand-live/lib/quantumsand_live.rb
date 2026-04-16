@@ -5954,7 +5954,8 @@ class QuantumsandLive
       "plasma/milou",
       "plasma/ocean-sound-theme",
       "plasma/oxygen",
-      "plasma/oxygen-gtk"
+      "plasma/oxygen-gtk",
+      "plasma/oxygen-sounds"
     ]
 
     git_repos_ffmpeg_org = [
