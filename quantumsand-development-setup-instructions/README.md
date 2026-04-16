@@ -127,6 +127,7 @@ Server built:   Dec  1 2025 12:44:02
 * Clone mod_tile; `git clone https://github.com/openstreetmap/mod_tile.git`
 * `code mod_tile`
 * We need to modify a few files within mod_tile.
+* Thanks to Grok Code Fast 1 within VS Code for providing these mod_tile diffs;
 * Within; `cmake/FindLIBMAPNIK.cmake`
 ``` diff
 -if((NOT LIBMAPNIK_INCLUDE_DIRS) AND (LIBMAPNIK_INCLUDE_DIR))
