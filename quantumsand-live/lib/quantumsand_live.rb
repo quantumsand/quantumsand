@@ -5966,7 +5966,8 @@ class QuantumsandLive
       "plasma/plasma-bigscreen",
       "plasma/breeze",
       "plasma/plasma-browser-integration",
-      "plasma/plasma-desktop"
+      "plasma/plasma-desktop",
+      "plasma/plasma-disks"
     ]
 
     git_repos_ffmpeg_org = [
