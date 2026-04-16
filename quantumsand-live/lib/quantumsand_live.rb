@@ -4306,7 +4306,8 @@ class QuantumsandLive
       "qais-yousef/schedqos",
       "ubuntu/lightdm",
       "droidian/feedbackd",
-      "mapnik/python-mapnik"
+      "mapnik/python-mapnik",
+      "openstreetmap/mapnik-stylesheets"
     ]
 
     git_repos_chromium_googlesource = [
