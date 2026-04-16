@@ -5958,7 +5958,8 @@ class QuantumsandLive
       "plasma/oxygen-sounds",
       "plasma/plank-player",
       "plasma/plasma5support",
-      "plasma/plasma-activities"
+      "plasma/plasma-activities",
+      "plasma/plasma-activities-stats"
     ]
 
     git_repos_ffmpeg_org = [
