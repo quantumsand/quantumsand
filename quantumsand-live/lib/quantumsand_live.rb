@@ -5934,7 +5934,8 @@ class QuantumsandLive
       "plasma/kinfocenter",
       "plasma/kmenuedit",
       "plasma/knighttime",
-      "plasma/kpipewire"
+      "plasma/kpipewire",
+      "plasma/krdp"
     ]
 
     git_repos_ffmpeg_org = [
