@@ -261,7 +261,7 @@ Elixir 1.19.5 (compiled with Erlang/OTP 28)
 cd quantumsand-qt
 mkdir build
 cd build
-Qt6_DIR='/opt/brew' cmake .. -DCMAKE_PREFIX_PATH='/opt/brew'
+cmake ..
 make
 ./quantumsand
 ```
