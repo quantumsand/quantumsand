@@ -152,7 +152,7 @@ Server built:   Dec  1 2025 12:44:02
 +target_link_options(mod_tile PRIVATE -Wl,-undefined,dynamic_lookup)
  set_target_properties(mod_tile PROPERTIES PREFIX "" SUFFIX ".so")
 ```
-* Within `src/store_ro_composite.c`;
+* Within; `src/store_ro_composite.c`
 ```diff
  #ifdef WANT_STORE_COMPOSITE
 -#include <cairo/cairo.h>
