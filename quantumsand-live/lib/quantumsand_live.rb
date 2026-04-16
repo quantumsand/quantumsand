@@ -5973,7 +5973,8 @@ class QuantumsandLive
       "plasma/plasma-firewall",
       "plasma/plasma-integration",
       "plasma/plasma-keyboard",
-      "plasma/plasma-login-manager"
+      "plasma/plasma-login-manager",
+      "plasma/plasma-pass"
     ]
 
     git_repos_ffmpeg_org = [
