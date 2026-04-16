@@ -5930,7 +5930,8 @@ class QuantumsandLive
       "plasma/xdg-desktop-portal-kde",
       "libraries/xdg-portal-test-kde",
       "plasma/kgamma",
-      "plasma/kglobalacceld"
+      "plasma/kglobalacceld",
+      "plasma/kinfocenter"
     ]
 
     git_repos_ffmpeg_org = [
