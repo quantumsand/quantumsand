@@ -4306,7 +4306,7 @@ class QuantumsandLive
       "qais-yousef/schedqos",
       "ubuntu/lightdm",
       "droidian/feedbackd",
-      "mapnik/test-data"
+      "mapnik/python-mapnik"
     ]
 
     git_repos_chromium_googlesource = [
