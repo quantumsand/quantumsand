@@ -5948,7 +5948,8 @@ class QuantumsandLive
       "plasma/latte-dock",
       "plasma/layer-shell-qt",
       "plasma/libkscreen",
-      "plasma/libksysguard"
+      "plasma/libksysguard",
+      "plasma/libplasma"
     ]
 
     git_repos_ffmpeg_org = [
