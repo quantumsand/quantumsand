@@ -4304,7 +4304,8 @@ class QuantumsandLive
       "flatpak/xdg-desktop-portal",
       "DaveGamble/cJSON",
       "qais-yousef/schedqos",
-      "ubuntu/lightdm"
+      "ubuntu/lightdm",
+      "droidian/feedbackd"
     ]
 
     git_repos_chromium_googlesource = [
