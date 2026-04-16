@@ -5976,7 +5976,8 @@ class QuantumsandLive
       "plasma/plasma-login-manager",
       "plasma/plasma-pass",
       "plasma/plasma-pa",
-      "plasma/plasma-sdk"
+      "plasma/plasma-sdk",
+      "plasma/plasma-setup"
     ]
 
     git_repos_ffmpeg_org = [
