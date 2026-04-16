@@ -5945,7 +5945,8 @@ class QuantumsandLive
       "plasma/kwayland-integration",
       "plasma/kwin-x11",
       "plasma/kwrited",
-      "plasma/latte-dock"
+      "plasma/latte-dock",
+      "plasma/layer-shell-qt"
     ]
 
     git_repos_ffmpeg_org = [
