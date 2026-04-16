@@ -5951,7 +5951,8 @@ class QuantumsandLive
       "plasma/libksysguard",
       "plasma/libplasma",
       "plasma/lightdm-kde-greeter",
-      "plasma/milou"
+      "plasma/milou",
+      "plasma/ocean-sound-theme"
     ]
 
     git_repos_ffmpeg_org = [
