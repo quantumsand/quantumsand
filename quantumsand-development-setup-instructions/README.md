@@ -122,6 +122,74 @@ Server built:   Dec  1 2025 12:44:02
 * Inside Google Chrome visit the `httpd` endpoint url by typing this localhost address into the Chrome address bar:
 * `http://localhost:8081`
 * You should see a page with `It works!`
+* Install mod_tile; Launch the Terminal app; In a separate directory; Outside of quantumsand;
+* Install dependencies; `brew install curl iniparser libmemcached pkg-config`
+* Clone mod_tile; `git clone https://github.com/openstreetmap/mod_tile.git`
+* `code mod_tile`
+* We need to modify a few files within mod_tile.
+* Within; `cmake/FindLIBMAPNIK.cmake`
+``` diff
+-if((NOT LIBMAPNIK_INCLUDE_DIRS) AND (LIBMAPNIK_INCLUDE_DIR))
+-  set(LIBMAPNIK_INCLUDE_DIRS ${LIBMAPNIK_INCLUDE_DIR})
+-elseif(LIBMAPNIK_INCLUDE_DIRS AND LIBMAPNIK_INCLUDE_DIR)
+-  list(APPEND LIBMAPNIK_INCLUDE_DIRS ${LIBMAPNIK_INCLUDE_DIR})
++if(LIBMAPNIK_INCLUDE_DIR)
++  get_filename_component(LIBMAPNIK_INCLUDE_DIRS ${LIBMAPNIK_INCLUDE_DIR} DIRECTORY)
+```
+* Within; `src/CMakeLists.txt`
+```diff
+ link_directories(${CMAKE_LIBRARY_PATH})
++link_directories(/opt/homebrew/lib)
+```
+```diff
+ set(mod_tile_LIBS
+   ${APR_LIBRARIES}
++  ${HTTPD_LIBRARIES}
+   ${COMMON_LIBRARIES}
+   ${INIPARSER_LIBRARIES}
+   ${STORE_LIBRARIES}
+ )
+-add_library(mod_tile SHARED ${mod_tile_SRCS})
++add_library(mod_tile MODULE ${mod_tile_SRCS})
+ target_link_libraries(mod_tile ${mod_tile_LIBS})
++target_link_options(mod_tile PRIVATE -Wl,-undefined,dynamic_lookup)
+ set_target_properties(mod_tile PROPERTIES PREFIX "" SUFFIX ".so")
+```
+* Within `src/store_ro_composite.c`;
+```diff
+ #ifdef WANT_STORE_COMPOSITE
+-#include <cairo/cairo.h>
++#include <cairo.h>
+ #endif
+```
+* Build mod_tile;
+```bash
+mkdir build
+cd build
+ICU_ROOT=$(brew --prefix icu4c) cmake .. -DCMAKE_PREFIX_PATH='/opt/homebrew' -DCMAKE_INSTALL_PREFIX:PATH='/opt/homebrew'
+make
+```
+* Install mod_tile; `cmake --install . --strip`
+* You should see the following message:
+```
+-- Install configuration: ""
+-- Installing: /opt/homebrew/var/cache/renderd/tiles
+-- Installing: /opt/homebrew/var/run/renderd
+-- Installing: /opt/homebrew/etc/httpd/extra/httpd-tile.conf
+-- Installing: /opt/homebrew/etc/renderd.conf
+-- Installing: /opt/homebrew/lib/httpd/modules/mod_tile.so
+-- Installing: /opt/homebrew/bin/render_expired
+-- Installing: /opt/homebrew/bin/render_list
+-- Installing: /opt/homebrew/bin/render_old
+-- Installing: /opt/homebrew/bin/render_speedtest
+-- Installing: /opt/homebrew/bin/renderd
+-- Installing: /opt/homebrew/share/man/man1/render_expired.1
+-- Installing: /opt/homebrew/share/man/man1/render_list.1
+-- Installing: /opt/homebrew/share/man/man1/render_old.1
+-- Installing: /opt/homebrew/share/man/man1/render_speedtest.1
+-- Installing: /opt/homebrew/share/man/man1/renderd.1
+-- Installing: /opt/homebrew/share/man/man5/renderd.conf.5
+```
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
