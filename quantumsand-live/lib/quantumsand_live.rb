@@ -5473,7 +5473,8 @@ class QuantumsandLive
       "GNOME/rygel",
       "GNOME/gimp-data",
       "GNOME/pangomm",
-      "GNOME/gtkmm"
+      "GNOME/gtkmm",
+      "World/Phosh/gmobile"
     ]
 
     git_repos_postgresql_org = [
