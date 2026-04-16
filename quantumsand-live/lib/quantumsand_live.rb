@@ -4305,7 +4305,8 @@ class QuantumsandLive
       "DaveGamble/cJSON",
       "qais-yousef/schedqos",
       "ubuntu/lightdm",
-      "droidian/feedbackd"
+      "droidian/feedbackd",
+      "mapnik/test-data"
     ]
 
     git_repos_chromium_googlesource = [
