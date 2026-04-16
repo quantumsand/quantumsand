@@ -5959,7 +5959,8 @@ class QuantumsandLive
       "plasma/plank-player",
       "plasma/plasma5support",
       "plasma/plasma-activities",
-      "plasma/plasma-activities-stats"
+      "plasma/plasma-activities-stats",
+      "plasma/kdeplasma-addons"
     ]
 
     git_repos_ffmpeg_org = [
