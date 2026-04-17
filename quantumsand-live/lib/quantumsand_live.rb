@@ -5519,7 +5519,8 @@ class QuantumsandLive
       "Meadowlark/symphonium",
       "forgejo/forgejo",
       "gentoo/gentoo",
-      "GeopJr/Collision"
+      "GeopJr/Collision",
+      "Calamares/calamares"
     ]
 
     git_repos_kde_invent = [
