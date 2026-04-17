@@ -4317,7 +4317,8 @@ class QuantumsandLive
       "konkor/cpufreq",
       "biojppm/rapidyaml",
       "biojppm/c4core",
-      "biojppm/cmake"
+      "biojppm/cmake",
+      "biojppm/debugbreak"
     ]
 
     git_repos_chromium_googlesource = [
