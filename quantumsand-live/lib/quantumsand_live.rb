@@ -4316,7 +4316,8 @@ class QuantumsandLive
       "pop-os/system76-power",
       "konkor/cpufreq",
       "biojppm/rapidyaml",
-      "biojppm/c4core"
+      "biojppm/c4core",
+      "biojppm/cmake"
     ]
 
     git_repos_chromium_googlesource = [
