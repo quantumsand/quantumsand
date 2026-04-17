@@ -4324,7 +4324,8 @@ class QuantumsandLive
       "linuxwacom/input-wacom",
       "linuxwacom/libwacom",
       "linuxwacom/xf86-input-wacom",
-      "linuxwacom/gsetwacom"
+      "linuxwacom/gsetwacom",
+      "linuxwacom/ekr_monitor"
     ]
 
     git_repos_chromium_googlesource = [
