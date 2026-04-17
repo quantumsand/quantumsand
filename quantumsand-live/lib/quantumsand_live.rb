@@ -6017,7 +6017,8 @@ class QuantumsandLive
       "plasma/union",
       "plasma/kde-vdg-extras",
       "plasma/wacomtablet",
-      "plasma/plasma-welcome"
+      "plasma/plasma-welcome",
+      "redstrate/ktabletconfig"
     ]
 
     git_repos_ffmpeg_org = [
