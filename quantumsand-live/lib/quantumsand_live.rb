@@ -4348,7 +4348,8 @@ class QuantumsandLive
       "ratatui/bevy_ratatui",
       "Mimea005/bevyterm",
       "EmeraldPandaTurtle/widgetui",
-      "EmeraldPandaTurtle/stategine"
+      "EmeraldPandaTurtle/stategine",
+      "paramako/pitchy"
     ]
 
     git_repos_chromium_googlesource = [
