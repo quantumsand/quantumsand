@@ -5987,7 +5987,8 @@ class QuantumsandLive
       "plasma/plasma-systemmonitor",
       "plasma/plasma-thunderbolt",
       "plasma/plasma-vault",
-      "plasma/plasma-wallpaper-updater"
+      "plasma/plasma-wallpaper-updater",
+      "plasma/plasma-workspace"
     ]
 
     git_repos_ffmpeg_org = [
