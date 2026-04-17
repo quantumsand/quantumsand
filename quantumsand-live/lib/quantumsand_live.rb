@@ -4333,7 +4333,8 @@ class QuantumsandLive
       "lanl/pyxDamerauLevenshtein",
       "lanl/vpic",
       "lanl/OpenFWI",
-      "chebfun/chebfun"
+      "chebfun/chebfun",
+      "oseledets/tt-fort"
     ]
 
     git_repos_chromium_googlesource = [
