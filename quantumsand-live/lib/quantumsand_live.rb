@@ -4318,7 +4318,8 @@ class QuantumsandLive
       "biojppm/rapidyaml",
       "biojppm/c4core",
       "biojppm/cmake",
-      "biojppm/debugbreak"
+      "biojppm/debugbreak",
+      "fastfloat/fast_float"
     ]
 
     git_repos_chromium_googlesource = [
