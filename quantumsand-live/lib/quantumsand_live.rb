@@ -4341,7 +4341,8 @@ class QuantumsandLive
       "fortran-lang/vscode-fortran-support",
       "fortran-lang/fftpack",
       "fortran-lang/fortls",
-      "Microsoft/language-server-protocol"
+      "Microsoft/language-server-protocol",
+      "musescore/framework_tmp"
     ]
 
     git_repos_chromium_googlesource = [
