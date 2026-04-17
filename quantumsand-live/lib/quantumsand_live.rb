@@ -4720,7 +4720,8 @@ class QuantumsandLive
       "qt/qtvirtualkeyboard",
       "qt/qtwebglplugin",
       "qt/qtquick3d-assimp",
-      "qt/qtquick3d"
+      "qt/qtquick3d",
+      "qt/qtquick3dphysics"
     ]
 
     git_repos_kernel_org = [
