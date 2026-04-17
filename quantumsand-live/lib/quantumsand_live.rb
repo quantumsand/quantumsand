@@ -4721,7 +4721,8 @@ class QuantumsandLive
       "qt/qtwebglplugin",
       "qt/qtquick3d-assimp",
       "qt/qtquick3d",
-      "qt/qtquick3dphysics"
+      "qt/qtquick3dphysics",
+      "qt/qtpim"
     ]
 
     git_repos_kernel_org = [
