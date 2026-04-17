@@ -4343,7 +4343,8 @@ class QuantumsandLive
       "fortran-lang/fortls",
       "Microsoft/language-server-protocol",
       "musescore/framework_tmp",
-      "rust-lang/log"
+      "rust-lang/log",
+      "ratatui/tui-widgets"
     ]
 
     git_repos_chromium_googlesource = [
