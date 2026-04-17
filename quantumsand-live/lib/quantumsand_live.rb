@@ -5984,7 +5984,8 @@ class QuantumsandLive
       "plasma/plasma-pa",
       "plasma/plasma-sdk",
       "plasma/plasma-setup",
-      "plasma/plasma-systemmonitor"
+      "plasma/plasma-systemmonitor",
+      "plasma/plasma-thunderbolt"
     ]
 
     git_repos_ffmpeg_org = [
