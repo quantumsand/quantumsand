@@ -4722,7 +4722,8 @@ class QuantumsandLive
       "qt/qtquick3d-assimp",
       "qt/qtquick3d",
       "qt/qtquick3dphysics",
-      "qt/qtpim"
+      "qt/qtpim",
+      "qt/qtmultimedia"
     ]
 
     git_repos_kernel_org = [
