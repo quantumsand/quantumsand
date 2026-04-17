@@ -6010,7 +6010,8 @@ class QuantumsandLive
       "plasma/spectacle",
       "plasma/systemsettings",
       "plasma/union",
-      "plasma/kde-vdg-extras"
+      "plasma/kde-vdg-extras",
+      "plasma/wacomtablet"
     ]
 
     git_repos_ffmpeg_org = [
