@@ -6000,7 +6000,8 @@ class QuantumsandLive
       "plasma/powerdevil",
       "plasma/print-manager",
       "plasma/sddm-kcm",
-      "plasma/snap-kcm"
+      "plasma/snap-kcm",
+      "plasma/spectacle"
     ]
 
     git_repos_ffmpeg_org = [
