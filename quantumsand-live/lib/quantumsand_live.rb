@@ -6520,7 +6520,6 @@ class QuantumsandLive
     # TODO: Open access classical sheet music; Public domain and Creative Commons Attribution; title:, authors:, license:, pdf_url:
     # TODO: ArduPilot
     # TODO: Shotcut + MLT
-    # TODO: gfortran; GCC's Fortran
     # TODO: Flang; LLVM's fortran compiler
     # TODO: flxzt/rnote; Sketch and take handwritten notes
     # TODO: https://gitlab.com/chrony/chrony.git; Advanced NTP client and server
