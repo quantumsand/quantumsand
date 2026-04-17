@@ -4345,7 +4345,8 @@ class QuantumsandLive
       "musescore/framework_tmp",
       "rust-lang/log",
       "ratatui/tui-widgets",
-      "ratatui/bevy_ratatui"
+      "ratatui/bevy_ratatui",
+      "Mimea005/bevyterm"
     ]
 
     git_repos_chromium_googlesource = [
