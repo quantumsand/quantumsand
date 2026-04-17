@@ -4326,7 +4326,8 @@ class QuantumsandLive
       "linuxwacom/xf86-input-wacom",
       "linuxwacom/gsetwacom",
       "linuxwacom/ekr_monitor",
-      "lanl/quantum_algorithms"
+      "lanl/quantum_algorithms",
+      "lanl/qmasm"
     ]
 
     git_repos_chromium_googlesource = [
