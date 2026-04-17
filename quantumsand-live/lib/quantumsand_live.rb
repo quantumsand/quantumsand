@@ -4312,7 +4312,8 @@ class QuantumsandLive
       "geofabrik/osm-bright",
       "mapbox/osm-bright",
       "tangrams/tangram",
-      "rockowitz/ddcutil"
+      "rockowitz/ddcutil",
+      "pop-os/system76-power"
     ]
 
     git_repos_chromium_googlesource = [
