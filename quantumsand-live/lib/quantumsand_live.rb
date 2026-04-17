@@ -4322,7 +4322,8 @@ class QuantumsandLive
       "fastfloat/fast_float",
       "kolemannix/ffc.h",
       "linuxwacom/input-wacom",
-      "linuxwacom/libwacom"
+      "linuxwacom/libwacom",
+      "linuxwacom/xf86-input-wacom"
     ]
 
     git_repos_chromium_googlesource = [
