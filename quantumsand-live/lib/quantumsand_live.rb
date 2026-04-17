@@ -4717,7 +4717,8 @@ class QuantumsandLive
       "qt/qtwebengine",
       "qt/qtwayland",
       "qt/qtwebchannel",
-      "qt/qtvirtualkeyboard"
+      "qt/qtvirtualkeyboard",
+      "qt/qtwebglplugin"
     ]
 
     git_repos_kernel_org = [
