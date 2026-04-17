@@ -4331,7 +4331,8 @@ class QuantumsandLive
       "openqasm/openqasm",
       "lanl/thor",
       "lanl/pyxDamerauLevenshtein",
-      "lanl/vpic"
+      "lanl/vpic",
+      "lanl/OpenFWI"
     ]
 
     git_repos_chromium_googlesource = [
