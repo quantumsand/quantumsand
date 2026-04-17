@@ -5998,7 +5998,8 @@ class QuantumsandLive
       "plasma/plymouth-kcm",
       "plasma/polkit-kde-agent-1",
       "plasma/powerdevil",
-      "plasma/print-manager"
+      "plasma/print-manager",
+      "plasma/sddm-kcm"
     ]
 
     git_repos_ffmpeg_org = [
