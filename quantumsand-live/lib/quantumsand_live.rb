@@ -4334,7 +4334,8 @@ class QuantumsandLive
       "lanl/vpic",
       "lanl/OpenFWI",
       "chebfun/chebfun",
-      "oseledets/tt-fort"
+      "oseledets/tt-fort",
+      "oseledets/TT-Toolbox"
     ]
 
     git_repos_chromium_googlesource = [
