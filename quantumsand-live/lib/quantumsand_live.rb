@@ -4320,7 +4320,8 @@ class QuantumsandLive
       "biojppm/cmake",
       "biojppm/debugbreak",
       "fastfloat/fast_float",
-      "kolemannix/ffc.h"
+      "kolemannix/ffc.h",
+      "linuxwacom/input-wacom"
     ]
 
     git_repos_chromium_googlesource = [
@@ -6388,7 +6389,6 @@ class QuantumsandLive
 
     # TODO: mui/material-ui/docs
     # TODO: sys-fs/btrfs-progs
-    # TODO: linuxwacom/wacom-hid-descriptors
     # TODO: google/oss-rebuild; Google ❤️ Open Source
     # TODO: Google Sans Code
     # TODO: emerge --ask www-apps/gitea
