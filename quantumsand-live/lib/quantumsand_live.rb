@@ -4337,7 +4337,8 @@ class QuantumsandLive
       "oseledets/tt-fort",
       "oseledets/TT-Toolbox",
       "fortran-lang/stdlib",
-      "fortran-lang/fpm"
+      "fortran-lang/fpm",
+      "fortran-lang/vscode-fortran-support"
     ]
 
     git_repos_chromium_googlesource = [
