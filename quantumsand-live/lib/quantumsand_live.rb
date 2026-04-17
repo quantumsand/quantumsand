@@ -5990,7 +5990,8 @@ class QuantumsandLive
       "plasma/plasma-wallpaper-updater",
       "plasma/plasma-workspace",
       "plasma/plasma-workspace-wallpapers",
-      "plasma/plymouth-kcm"
+      "plasma/plymouth-kcm",
+      "plasma/polkit-kde-agent-1"
     ]
 
     git_repos_ffmpeg_org = [
