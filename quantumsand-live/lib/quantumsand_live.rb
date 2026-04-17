@@ -4335,7 +4335,8 @@ class QuantumsandLive
       "lanl/OpenFWI",
       "chebfun/chebfun",
       "oseledets/tt-fort",
-      "oseledets/TT-Toolbox"
+      "oseledets/TT-Toolbox",
+      "fortran-lang/stdlib"
     ]
 
     git_repos_chromium_googlesource = [
