@@ -4330,7 +4330,8 @@ class QuantumsandLive
       "lanl/qmasm",
       "openqasm/openqasm",
       "lanl/thor",
-      "lanl/pyxDamerauLevenshtein"
+      "lanl/pyxDamerauLevenshtein",
+      "lanl/vpic"
     ]
 
     git_repos_chromium_googlesource = [
