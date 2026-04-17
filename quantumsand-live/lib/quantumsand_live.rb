@@ -4315,7 +4315,8 @@ class QuantumsandLive
       "rockowitz/ddcutil",
       "pop-os/system76-power",
       "konkor/cpufreq",
-      "biojppm/rapidyaml"
+      "biojppm/rapidyaml",
+      "biojppm/c4core"
     ]
 
     git_repos_chromium_googlesource = [
