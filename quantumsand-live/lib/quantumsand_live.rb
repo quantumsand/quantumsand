@@ -4328,7 +4328,8 @@ class QuantumsandLive
       "linuxwacom/ekr_monitor",
       "lanl/quantum_algorithms",
       "lanl/qmasm",
-      "openqasm/openqasm"
+      "openqasm/openqasm",
+      "lanl/thor"
     ]
 
     git_repos_chromium_googlesource = [
