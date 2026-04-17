@@ -4336,7 +4336,8 @@ class QuantumsandLive
       "chebfun/chebfun",
       "oseledets/tt-fort",
       "oseledets/TT-Toolbox",
-      "fortran-lang/stdlib"
+      "fortran-lang/stdlib",
+      "fortran-lang/fpm"
     ]
 
     git_repos_chromium_googlesource = [
