@@ -5991,7 +5991,8 @@ class QuantumsandLive
       "plasma/plasma-workspace",
       "plasma/plasma-workspace-wallpapers",
       "plasma/plymouth-kcm",
-      "plasma/polkit-kde-agent-1"
+      "plasma/polkit-kde-agent-1",
+      "plasma/powerdevil"
     ]
 
     git_repos_ffmpeg_org = [
