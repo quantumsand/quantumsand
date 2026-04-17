@@ -4714,7 +4714,8 @@ class QuantumsandLive
     ]
 
     git_repos_code_qt_io = [
-      "qt/qtwebengine"
+      "qt/qtwebengine",
+      "qt/qtwayland"
     ]
 
     git_repos_kernel_org = [
