@@ -5068,7 +5068,8 @@ class QuantumsandLive
       "mesa/crucible",
       "wlroots/wlr-clients",
       "wlroots/wlr-protocols",
-      "upower/upower"
+      "upower/upower",
+      "upower/power-profiles-daemon"
     ]
 
     git_repos_xfce_gitlab = [
