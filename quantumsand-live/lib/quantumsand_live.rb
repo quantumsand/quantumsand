@@ -5021,7 +5021,8 @@ class QuantumsandLive
       "mattbas/Qt-Color-Widgets",
       "mattbas/python-lottie",
       "chrony/chrony",
-      "dobey/authenticator-ng"
+      "dobey/authenticator-ng",
+      "saibatizoku/font8x8-rs"
     ]
 
     git_repos_freedesktop_gitlab = [
