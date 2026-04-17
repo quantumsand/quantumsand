@@ -4313,7 +4313,8 @@ class QuantumsandLive
       "mapbox/osm-bright",
       "tangrams/tangram",
       "rockowitz/ddcutil",
-      "pop-os/system76-power"
+      "pop-os/system76-power",
+      "konkor/cpufreq"
     ]
 
     git_repos_chromium_googlesource = [
