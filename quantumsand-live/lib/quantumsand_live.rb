@@ -4725,7 +4725,8 @@ class QuantumsandLive
       "qt/qtpim",
       "qt/qtmultimedia",
       "qt/qtmqtt",
-      "qt/qtlottie"
+      "qt/qtlottie",
+      "qt/qtlocation"
     ]
 
     git_repos_kernel_org = [
