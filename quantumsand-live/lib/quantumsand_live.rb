@@ -6002,7 +6002,8 @@ class QuantumsandLive
       "plasma/sddm-kcm",
       "plasma/snap-kcm",
       "plasma/spectacle",
-      "plasma/systemsettings"
+      "plasma/systemsettings",
+      "plasma/union"
     ]
 
     git_repos_ffmpeg_org = [
