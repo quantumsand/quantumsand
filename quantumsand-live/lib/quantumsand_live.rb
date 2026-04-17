@@ -4311,7 +4311,8 @@ class QuantumsandLive
       "openstreetmap-carto/openstreetmap-carto",
       "geofabrik/osm-bright",
       "mapbox/osm-bright",
-      "tangrams/tangram"
+      "tangrams/tangram",
+      "rockowitz/ddcutil"
     ]
 
     git_repos_chromium_googlesource = [
