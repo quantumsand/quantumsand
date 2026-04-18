@@ -21,5 +21,6 @@ This will include:
 * pytest
 * tch-rs (Rust bindings for the C++ api of PyTorch)
 * Ultralytics
+* tuitar (A portable guitar training tool & DIY kit)
 
 More to follow.
