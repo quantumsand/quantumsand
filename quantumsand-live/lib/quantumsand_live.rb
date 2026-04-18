@@ -6359,7 +6359,8 @@ class QuantumsandLive
       "media-plugins/alsa-plugins",
       "media-sound/audacity",
       "dev-libs/boost",
-      "net-vpn/wireguard-tools"
+      "net-vpn/wireguard-tools",
+      "net-wireless/iw"
     ]
 
     gentoo_eselect_repository_add = {
