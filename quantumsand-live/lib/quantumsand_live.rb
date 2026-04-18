@@ -5121,7 +5121,8 @@ class QuantumsandLive
       "wlroots/wlr-clients",
       "wlroots/wlr-protocols",
       "upower/upower",
-      "upower/power-profiles-daemon"
+      "upower/power-profiles-daemon",
+      "NetworkManager/NetworkManager"
     ]
 
     git_repos_xfce_gitlab = [
