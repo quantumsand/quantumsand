@@ -22,5 +22,6 @@ This will include:
 * tch-rs (Rust bindings for the C++ api of PyTorch)
 * Ultralytics
 * tuitar (A portable guitar training tool & DIY kit)
+* misykat (Prayer times)
 
 More to follow.
