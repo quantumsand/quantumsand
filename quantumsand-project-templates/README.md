@@ -23,5 +23,6 @@ This will include:
 * Ultralytics
 * tuitar (A portable guitar training tool & DIY kit)
 * misykat (Prayer times)
+* iroh-live (Real-time audio and video over iroh QUIC)
 
 More to follow.
