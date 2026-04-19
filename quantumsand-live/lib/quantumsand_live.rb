@@ -6362,7 +6362,8 @@ class QuantumsandLive
       "dev-libs/boost",
       "net-vpn/wireguard-tools",
       "net-wireless/iw",
-      "media-sound/audacious"
+      "media-sound/audacious",
+      "media-plugins/audacious-plugins"
     ]
 
     gentoo_eselect_repository_add = {
