@@ -6361,7 +6361,8 @@ class QuantumsandLive
       "media-sound/audacity",
       "dev-libs/boost",
       "net-vpn/wireguard-tools",
-      "net-wireless/iw"
+      "net-wireless/iw",
+      "media-sound/audacious"
     ]
 
     gentoo_eselect_repository_add = {
@@ -6536,7 +6537,6 @@ class QuantumsandLive
     # TODO: Flang; LLVM's fortran compiler
     # TODO: flxzt/rnote; Sketch and take handwritten notes
     # TODO: https://gitlab.com/chrony/chrony.git; Advanced NTP client and server
-    # TODO: Audacious; an open source audio player. A descendant of XMMS; media-sound/audacious
     # TODO; Glaxnimate; open-source vector animation and motion design desktop application
     # TODO; Haiku Animator; Design tool for creating Lottie animations and interactive web component
     # TODO; @lottiefiles/react-lottie-player
