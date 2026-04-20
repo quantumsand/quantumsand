@@ -5238,6 +5238,10 @@ class QuantumsandLive
       "xiph/opus"
     ]
 
+    git_repos_bitbucket_org = [
+      "alekseyt/nunicode"
+    ]
+
     git_repos_einval_com = [
       "abcde"
     ]
