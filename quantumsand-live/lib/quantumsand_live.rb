@@ -4380,7 +4380,8 @@ class QuantumsandLive
       "geoarrow/geoarrow-data",
       "geoarrow/geoarrow-rs",
       "jbuckmccready/static_aabb2d_index",
-      "bmharper/flatbush-python"
+      "bmharper/flatbush-python",
+      "flatgeobuf/flatgeobuf"
     ]
 
     git_repos_chromium_googlesource = [
