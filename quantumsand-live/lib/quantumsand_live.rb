@@ -4394,7 +4394,8 @@ class QuantumsandLive
       "mapbox/mapbox-gl-native-curl",
       "cberner/redb",
       "ptitSeb/box64",
-      "ptitSeb/box86"
+      "ptitSeb/box86",
+      "ptitSeb/gl4es"
     ]
 
     git_repos_chromium_googlesource = [
