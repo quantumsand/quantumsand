@@ -4372,7 +4372,8 @@ class QuantumsandLive
       "mourner/kdbush.hpp",
       "mourner/kdbush",
       "mourner/rbush",
-      "mourner/flatbush"
+      "mourner/flatbush",
+      "mourner/geoflatbush"
     ]
 
     git_repos_chromium_googlesource = [
