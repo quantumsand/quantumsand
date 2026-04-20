@@ -4349,7 +4349,8 @@ class QuantumsandLive
       "Mimea005/bevyterm",
       "EmeraldPandaTurtle/widgetui",
       "EmeraldPandaTurtle/stategine",
-      "paramako/pitchy"
+      "paramako/pitchy",
+      "mapbox/vector-tile-spec"
     ]
 
     git_repos_chromium_googlesource = [
