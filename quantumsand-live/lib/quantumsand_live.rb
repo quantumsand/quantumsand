@@ -4793,7 +4793,8 @@ class QuantumsandLive
       "qt/qtmqtt",
       "qt/qtlottie",
       "qt/qtlocation",
-      "qt/qtlocation-mapboxgl"
+      "qt/qtlocation-mapboxgl",
+      "qt/qtjsondb"
     ]
 
     git_repos_kernel_org = [
