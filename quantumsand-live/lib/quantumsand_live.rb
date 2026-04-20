@@ -4388,7 +4388,8 @@ class QuantumsandLive
       "Turbo87/flat-projection-rs",
       "mapbox/shelf-pack-cpp",
       "mapbox/shelf-pack",
-      "mapbox/geojson-vt-cpp"
+      "mapbox/geojson-vt-cpp",
+      "mapbox/mapbox-base"
     ]
 
     git_repos_chromium_googlesource = [
