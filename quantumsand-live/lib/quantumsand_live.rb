@@ -4378,7 +4378,8 @@ class QuantumsandLive
       "darkskyapp/sphere-knn",
       "georust/geo-index",
       "geoarrow/geoarrow-data",
-      "geoarrow/geoarrow-rs"
+      "geoarrow/geoarrow-rs",
+      "jbuckmccready/static_aabb2d_index"
     ]
 
     git_repos_chromium_googlesource = [
