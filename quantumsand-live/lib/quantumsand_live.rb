@@ -4364,7 +4364,8 @@ class QuantumsandLive
       "Taywee/args",
       "nonstd-lite/expected-lite",
       "mapbox/pixelmatch-cpp",
-      "mapbox/pixelmatch"
+      "mapbox/pixelmatch",
+      "mapbox/jni.hpp"
     ]
 
     git_repos_chromium_googlesource = [
