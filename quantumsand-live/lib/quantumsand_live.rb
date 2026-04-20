@@ -4393,7 +4393,8 @@ class QuantumsandLive
       "ZipArchive/ZipArchive",
       "mapbox/mapbox-gl-native-curl",
       "cberner/redb",
-      "ptitSeb/box64"
+      "ptitSeb/box64",
+      "ptitSeb/box86"
     ]
 
     git_repos_chromium_googlesource = [
