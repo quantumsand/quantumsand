@@ -4390,7 +4390,8 @@ class QuantumsandLive
       "mapbox/shelf-pack",
       "mapbox/geojson-vt-cpp",
       "mapbox/mapbox-base",
-      "ZipArchive/ZipArchive"
+      "ZipArchive/ZipArchive",
+      "mapbox/mapbox-gl-native-curl"
     ]
 
     git_repos_chromium_googlesource = [
