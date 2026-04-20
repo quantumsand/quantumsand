@@ -4353,7 +4353,8 @@ class QuantumsandLive
       "mapbox/vector-tile-spec",
       "mapbox/mvt-fixtures",
       "mapbox/mvt-bench-fixtures",
-      "mapbox/vector-tile"
+      "mapbox/vector-tile",
+      "mapnik/geometry-test-data"
     ]
 
     git_repos_chromium_googlesource = [
