@@ -4371,7 +4371,8 @@ class QuantumsandLive
       "mapbox/supercluster",
       "mourner/kdbush.hpp",
       "mourner/kdbush",
-      "mourner/rbush"
+      "mourner/rbush",
+      "mourner/flatbush"
     ]
 
     git_repos_chromium_googlesource = [
