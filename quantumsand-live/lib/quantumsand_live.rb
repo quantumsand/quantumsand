@@ -4391,7 +4391,8 @@ class QuantumsandLive
       "mapbox/geojson-vt-cpp",
       "mapbox/mapbox-base",
       "ZipArchive/ZipArchive",
-      "mapbox/mapbox-gl-native-curl"
+      "mapbox/mapbox-gl-native-curl",
+      "cberner/redb"
     ]
 
     git_repos_chromium_googlesource = [
