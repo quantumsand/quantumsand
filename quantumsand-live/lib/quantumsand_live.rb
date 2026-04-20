@@ -4367,7 +4367,8 @@ class QuantumsandLive
       "mapbox/pixelmatch",
       "mapbox/jni.hpp",
       "mapbox/geojson-cpp",
-      "mapbox/supercluster.hpp"
+      "mapbox/supercluster.hpp",
+      "mapbox/supercluster"
     ]
 
     git_repos_chromium_googlesource = [
