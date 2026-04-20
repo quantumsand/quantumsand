@@ -4365,7 +4365,8 @@ class QuantumsandLive
       "nonstd-lite/expected-lite",
       "mapbox/pixelmatch-cpp",
       "mapbox/pixelmatch",
-      "mapbox/jni.hpp"
+      "mapbox/jni.hpp",
+      "mapbox/geojson-cpp"
     ]
 
     git_repos_chromium_googlesource = [
