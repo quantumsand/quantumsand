@@ -4359,7 +4359,8 @@ class QuantumsandLive
       "mapbox/wagyu",
       "okdshin/unique_resource",
       "mapbox/mapbox-gl-native-boost",
-      "mapbox/eternal"
+      "mapbox/eternal",
+      "mapbox/Optional"
     ]
 
     git_repos_chromium_googlesource = [
