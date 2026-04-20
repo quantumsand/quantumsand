@@ -4374,7 +4374,8 @@ class QuantumsandLive
       "mourner/rbush",
       "mourner/flatbush",
       "mourner/geoflatbush",
-      "mourner/geokdbush"
+      "mourner/geokdbush",
+      "darkskyapp/sphere-knn"
     ]
 
     git_repos_chromium_googlesource = [
