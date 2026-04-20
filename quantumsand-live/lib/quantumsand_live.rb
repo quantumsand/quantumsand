@@ -4381,7 +4381,8 @@ class QuantumsandLive
       "geoarrow/geoarrow-rs",
       "jbuckmccready/static_aabb2d_index",
       "bmharper/flatbush-python",
-      "flatgeobuf/flatgeobuf"
+      "flatgeobuf/flatgeobuf",
+      "mapbox/cheap-ruler-cpp"
     ]
 
     git_repos_chromium_googlesource = [
