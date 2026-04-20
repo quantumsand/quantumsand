@@ -4360,7 +4360,8 @@ class QuantumsandLive
       "okdshin/unique_resource",
       "mapbox/mapbox-gl-native-boost",
       "mapbox/eternal",
-      "mapbox/Optional"
+      "mapbox/Optional",
+      "Taywee/args"
     ]
 
     git_repos_chromium_googlesource = [
