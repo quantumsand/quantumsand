@@ -4370,7 +4370,8 @@ class QuantumsandLive
       "mapbox/supercluster.hpp",
       "mapbox/supercluster",
       "mourner/kdbush.hpp",
-      "mourner/kdbush"
+      "mourner/kdbush",
+      "mourner/rbush"
     ]
 
     git_repos_chromium_googlesource = [
