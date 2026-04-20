@@ -6109,7 +6109,8 @@ class QuantumsandLive
       "plasma/plasma-welcome",
       "redstrate/ktabletconfig",
       "plasma-mobile/plasma-dialer",
-      "plasma-mobile/plasma-phonebook"
+      "plasma-mobile/plasma-phonebook",
+      "plasma-mobile/plasma-settings"
     ]
 
     git_repos_ffmpeg_org = [
