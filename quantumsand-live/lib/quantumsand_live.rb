@@ -4376,7 +4376,8 @@ class QuantumsandLive
       "mourner/geoflatbush",
       "mourner/geokdbush",
       "darkskyapp/sphere-knn",
-      "georust/geo-index"
+      "georust/geo-index",
+      "geoarrow/geoarrow-data"
     ]
 
     git_repos_chromium_googlesource = [
