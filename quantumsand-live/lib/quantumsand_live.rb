@@ -4352,7 +4352,8 @@ class QuantumsandLive
       "paramako/pitchy",
       "mapbox/vector-tile-spec",
       "mapbox/mvt-fixtures",
-      "mapbox/mvt-bench-fixtures"
+      "mapbox/mvt-bench-fixtures",
+      "mapbox/vector-tile"
     ]
 
     git_repos_chromium_googlesource = [
