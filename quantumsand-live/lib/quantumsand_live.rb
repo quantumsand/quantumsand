@@ -4350,7 +4350,8 @@ class QuantumsandLive
       "EmeraldPandaTurtle/widgetui",
       "EmeraldPandaTurtle/stategine",
       "paramako/pitchy",
-      "mapbox/vector-tile-spec"
+      "mapbox/vector-tile-spec",
+      "mapbox/mvt-fixtures"
     ]
 
     git_repos_chromium_googlesource = [
