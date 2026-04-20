@@ -4358,7 +4358,8 @@ class QuantumsandLive
       "mapbox/mapnik-vector-tile",
       "mapbox/wagyu",
       "okdshin/unique_resource",
-      "mapbox/mapbox-gl-native-boost"
+      "mapbox/mapbox-gl-native-boost",
+      "mapbox/eternal"
     ]
 
     git_repos_chromium_googlesource = [
