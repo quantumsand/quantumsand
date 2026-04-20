@@ -4387,7 +4387,8 @@ class QuantumsandLive
       "vipera/cheap-ruler-rs",
       "Turbo87/flat-projection-rs",
       "mapbox/shelf-pack-cpp",
-      "mapbox/shelf-pack"
+      "mapbox/shelf-pack",
+      "mapbox/geojson-vt-cpp"
     ]
 
     git_repos_chromium_googlesource = [
