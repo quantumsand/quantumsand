@@ -4361,7 +4361,8 @@ class QuantumsandLive
       "mapbox/mapbox-gl-native-boost",
       "mapbox/eternal",
       "mapbox/Optional",
-      "Taywee/args"
+      "Taywee/args",
+      "nonstd-lite/expected-lite"
     ]
 
     git_repos_chromium_googlesource = [
