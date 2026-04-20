@@ -4383,7 +4383,8 @@ class QuantumsandLive
       "bmharper/flatbush-python",
       "flatgeobuf/flatgeobuf",
       "mapbox/cheap-ruler-cpp",
-      "mapbox/cheap-ruler"
+      "mapbox/cheap-ruler",
+      "vipera/cheap-ruler-rs"
     ]
 
     git_repos_chromium_googlesource = [
