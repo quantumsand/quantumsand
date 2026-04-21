@@ -4402,7 +4402,8 @@ class QuantumsandLive
       "mims-harvard/TDC",
       "yzhao062/pyod",
       "pmndrs/react-three-fiber",
-      "rexa-developer/tiks"
+      "rexa-developer/tiks",
+      "harshankur/officeParser"
     ]
 
     git_repos_chromium_googlesource = [
