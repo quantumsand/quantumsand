@@ -25,5 +25,6 @@ This will include:
 * misykat (Prayer times)
 * iroh-live (Real-time audio and video over iroh QUIC)
 * RDKit
+* scikit-learn
 
 More to follow.
