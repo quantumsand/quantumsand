@@ -26,5 +26,6 @@ This will include:
 * iroh-live (Real-time audio and video over iroh QUIC)
 * RDKit
 * scikit-learn
+* SciPy
 
 More to follow.
