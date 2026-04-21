@@ -4398,7 +4398,8 @@ class QuantumsandLive
       "ptitSeb/gl4es",
       "joblib/joblib",
       "cloudpipe/cloudpickle",
-      "python-lz4/python-lz4"
+      "python-lz4/python-lz4",
+      "mims-harvard/TDC"
     ]
 
     git_repos_chromium_googlesource = [
