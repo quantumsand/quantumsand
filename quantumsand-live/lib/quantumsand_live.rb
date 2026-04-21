@@ -4404,7 +4404,8 @@ class QuantumsandLive
       "pmndrs/react-three-fiber",
       "rexa-developer/tiks",
       "harshankur/officeParser",
-      "motiondivision/motion"
+      "motiondivision/motion",
+      "codse/animata"
     ]
 
     git_repos_chromium_googlesource = [
