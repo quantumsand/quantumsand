@@ -4400,7 +4400,8 @@ class QuantumsandLive
       "cloudpipe/cloudpickle",
       "python-lz4/python-lz4",
       "mims-harvard/TDC",
-      "yzhao062/pyod"
+      "yzhao062/pyod",
+      "pmndrs/react-three-fiber"
     ]
 
     git_repos_chromium_googlesource = [
