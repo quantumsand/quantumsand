@@ -4395,7 +4395,8 @@ class QuantumsandLive
       "cberner/redb",
       "ptitSeb/box64",
       "ptitSeb/box86",
-      "ptitSeb/gl4es"
+      "ptitSeb/gl4es",
+      "joblib/joblib"
     ]
 
     git_repos_chromium_googlesource = [
