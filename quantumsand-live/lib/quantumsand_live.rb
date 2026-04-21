@@ -4403,7 +4403,8 @@ class QuantumsandLive
       "yzhao062/pyod",
       "pmndrs/react-three-fiber",
       "rexa-developer/tiks",
-      "harshankur/officeParser"
+      "harshankur/officeParser",
+      "motiondivision/motion"
     ]
 
     git_repos_chromium_googlesource = [
