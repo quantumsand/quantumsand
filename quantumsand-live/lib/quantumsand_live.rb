@@ -4401,7 +4401,8 @@ class QuantumsandLive
       "python-lz4/python-lz4",
       "mims-harvard/TDC",
       "yzhao062/pyod",
-      "pmndrs/react-three-fiber"
+      "pmndrs/react-three-fiber",
+      "rexa-developer/tiks"
     ]
 
     git_repos_chromium_googlesource = [
