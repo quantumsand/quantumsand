@@ -12,6 +12,7 @@ This will include:
 * GNU Radio
 * RadiaCode Python Library
 * PyCUDA
+* pandas
 * GeoPandas
 * OSMnx
 * SQLAlchemy
