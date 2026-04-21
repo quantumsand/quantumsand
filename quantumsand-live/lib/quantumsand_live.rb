@@ -4397,7 +4397,8 @@ class QuantumsandLive
       "ptitSeb/box86",
       "ptitSeb/gl4es",
       "joblib/joblib",
-      "cloudpipe/cloudpickle"
+      "cloudpipe/cloudpickle",
+      "python-lz4/python-lz4"
     ]
 
     git_repos_chromium_googlesource = [
