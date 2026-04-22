@@ -4435,7 +4435,8 @@ class QuantumsandLive
       "libxsmm/libxsmm",
       "herumi/xbyak_riscv",
       "scipy/scipy-mathjax",
-      "data-apis/array-api-compat"
+      "data-apis/array-api-compat",
+      "data-apis/array-api-extra"
     ]
 
     git_repos_chromium_googlesource = [
