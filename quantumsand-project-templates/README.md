@@ -34,5 +34,6 @@ This will include:
 * Requests (HTTP library)
 * Keras 3 (Deep Learning for humans)
 * JAX
+* SymPy
 
 More to follow.
