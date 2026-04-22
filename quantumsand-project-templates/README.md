@@ -30,5 +30,6 @@ This will include:
 * SciPy
 * tqdm
 * Pillow
+* Requests (HTTP library)
 
 More to follow.
