@@ -4413,7 +4413,8 @@ class QuantumsandLive
       "renatopp/liac-arff",
       "networkx/networkx",
       "taynaud/python-louvain",
-      "keras-team/keras"
+      "keras-team/keras",
+      "igraph/igraph"
     ]
 
     git_repos_chromium_googlesource = [
