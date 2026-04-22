@@ -4444,7 +4444,8 @@ class QuantumsandLive
       "ERGO-Code/HiGHS",
       "scipy/unuran",
       "scipy/xsf",
-      "scipy/xsref"
+      "scipy/xsref",
+      "mpmath/mpmath"
     ]
 
     git_repos_chromium_googlesource = [
