@@ -4410,7 +4410,8 @@ class QuantumsandLive
       "multi-build/multibuild",
       "scikit-multilearn/scikit-multilearn",
       "PythonCharmers/python-future",
-      "renatopp/liac-arff"
+      "renatopp/liac-arff",
+      "networkx/networkx"
     ]
 
     git_repos_chromium_googlesource = [
