@@ -32,5 +32,6 @@ This will include:
 * Pillow
 * Requests (HTTP library)
 * Keras 3 (Deep Learning for humans)
+* JAX
 
 More to follow.
