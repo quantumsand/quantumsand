@@ -4423,7 +4423,8 @@ class QuantumsandLive
       "KhronosGroup/OpenCL-Headers",
       "ThrowTheSwitch/CException",
       "throwtheswitch/unity",
-      "ThrowTheSwitch/CMock"
+      "ThrowTheSwitch/CMock",
+      "KhronosGroup/OpenCL-CLHPP"
     ]
 
     git_repos_chromium_googlesource = [
