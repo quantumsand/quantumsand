@@ -4427,7 +4427,8 @@ class QuantumsandLive
       "KhronosGroup/OpenCL-CLHPP",
       "nithinn/ncc",
       "uxlfoundation/oneDNN",
-      "google/snappy"
+      "google/snappy",
+      "ARM-software/ComputeLibrary"
     ]
 
     git_repos_chromium_googlesource = [
