@@ -4421,7 +4421,8 @@ class QuantumsandLive
       "openvinotoolkit/googletest",
       "KhronosGroup/OpenCL-ICD-Loader",
       "KhronosGroup/OpenCL-Headers",
-      "ThrowTheSwitch/CException"
+      "ThrowTheSwitch/CException",
+      "throwtheswitch/unity"
     ]
 
     git_repos_chromium_googlesource = [
