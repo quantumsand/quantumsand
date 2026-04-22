@@ -4405,7 +4405,8 @@ class QuantumsandLive
       "rexa-developer/tiks",
       "harshankur/officeParser",
       "motiondivision/motion",
-      "codse/animata"
+      "codse/animata",
+      "tqdm/tqdm"
     ]
 
     git_repos_chromium_googlesource = [
