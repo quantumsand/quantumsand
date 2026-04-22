@@ -29,5 +29,6 @@ This will include:
 * scikit-learn
 * SciPy
 * tqdm
+* Pillow
 
 More to follow.
