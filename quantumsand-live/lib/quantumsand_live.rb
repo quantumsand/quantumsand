@@ -4406,7 +4406,8 @@ class QuantumsandLive
       "harshankur/officeParser",
       "motiondivision/motion",
       "codse/animata",
-      "tqdm/tqdm"
+      "tqdm/tqdm",
+      "multi-build/multibuild"
     ]
 
     git_repos_chromium_googlesource = [
