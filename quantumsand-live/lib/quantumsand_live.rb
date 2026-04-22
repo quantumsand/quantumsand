@@ -4440,7 +4440,8 @@ class QuantumsandLive
       "wilsonrljr/sysidentpy",
       "boostorg/math",
       "cobyqa/cobyqa",
-      "scipy/HiGHs"
+      "scipy/HiGHs",
+      "ERGO-Code/HiGHS"
     ]
 
     git_repos_chromium_googlesource = [
