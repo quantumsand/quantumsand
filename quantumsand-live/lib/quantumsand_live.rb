@@ -4420,7 +4420,8 @@ class QuantumsandLive
       "gflags/gflags",
       "openvinotoolkit/googletest",
       "KhronosGroup/OpenCL-ICD-Loader",
-      "KhronosGroup/OpenCL-Headers"
+      "KhronosGroup/OpenCL-Headers",
+      "ThrowTheSwitch/CException"
     ]
 
     git_repos_chromium_googlesource = [
