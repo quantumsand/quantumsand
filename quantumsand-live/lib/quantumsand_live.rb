@@ -4445,7 +4445,8 @@ class QuantumsandLive
       "scipy/unuran",
       "scipy/xsf",
       "scipy/xsref",
-      "mpmath/mpmath"
+      "mpmath/mpmath",
+      "apache/parquet-format"
     ]
 
     git_repos_chromium_googlesource = [
