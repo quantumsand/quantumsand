@@ -4414,7 +4414,8 @@ class QuantumsandLive
       "networkx/networkx",
       "taynaud/python-louvain",
       "keras-team/keras",
-      "igraph/igraph"
+      "igraph/igraph",
+      "igraph/python-igraph"
     ]
 
     git_repos_chromium_googlesource = [
