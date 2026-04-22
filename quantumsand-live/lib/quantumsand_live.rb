@@ -4408,7 +4408,8 @@ class QuantumsandLive
       "codse/animata",
       "tqdm/tqdm",
       "multi-build/multibuild",
-      "scikit-multilearn/scikit-multilearn"
+      "scikit-multilearn/scikit-multilearn",
+      "PythonCharmers/python-future"
     ]
 
     git_repos_chromium_googlesource = [
