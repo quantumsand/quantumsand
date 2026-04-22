@@ -4803,6 +4803,10 @@ class QuantumsandLive
       "ghc/ghc"
     ]
 
+    git_repos_skewed_de_gitlab = [
+      "count0/graph-tool"
+    ]
+
     git_repos_code_qt_io = [
       "qt/qtwebengine",
       "qt/qtwayland",
