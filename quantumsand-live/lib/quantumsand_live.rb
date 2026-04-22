@@ -4412,7 +4412,8 @@ class QuantumsandLive
       "PythonCharmers/python-future",
       "renatopp/liac-arff",
       "networkx/networkx",
-      "taynaud/python-louvain"
+      "taynaud/python-louvain",
+      "keras-team/keras"
     ]
 
     git_repos_chromium_googlesource = [
