@@ -6172,7 +6172,8 @@ class QuantumsandLive
       "plasma-mobile/plasma-dialer",
       "plasma-mobile/plasma-phonebook",
       "plasma-mobile/plasma-settings",
-      "plasma-mobile/plasma-mobile-sounds"
+      "plasma-mobile/plasma-mobile-sounds",
+      "plasma-mobile/plasma-phone-settings"
     ]
 
     git_repos_ffmpeg_org = [
