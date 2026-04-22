@@ -4453,7 +4453,8 @@ class QuantumsandLive
       "lxqt/qtermwidget",
       "lxqt/lxqt-build-tools",
       "lxqt/liblxqt",
-      "lxqt/libqtxdg"
+      "lxqt/libqtxdg",
+      "intel/vpl-gpu-rt"
     ]
 
     git_repos_chromium_googlesource = [
