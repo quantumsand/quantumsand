@@ -4418,7 +4418,8 @@ class QuantumsandLive
       "igraph/python-igraph",
       "openvinotoolkit/oneDNN",
       "gflags/gflags",
-      "openvinotoolkit/googletest"
+      "openvinotoolkit/googletest",
+      "KhronosGroup/OpenCL-ICD-Loader"
     ]
 
     git_repos_chromium_googlesource = [
