@@ -4419,7 +4419,8 @@ class QuantumsandLive
       "openvinotoolkit/oneDNN",
       "gflags/gflags",
       "openvinotoolkit/googletest",
-      "KhronosGroup/OpenCL-ICD-Loader"
+      "KhronosGroup/OpenCL-ICD-Loader",
+      "KhronosGroup/OpenCL-Headers"
     ]
 
     git_repos_chromium_googlesource = [
