@@ -4430,7 +4430,8 @@ class QuantumsandLive
       "google/snappy",
       "ARM-software/ComputeLibrary",
       "openvinotoolkit/mlas",
-      "oneapi-src/level-zero"
+      "oneapi-src/level-zero",
+      "openvinotoolkit/telemetry"
     ]
 
     git_repos_chromium_googlesource = [
