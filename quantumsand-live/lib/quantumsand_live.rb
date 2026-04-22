@@ -4411,7 +4411,8 @@ class QuantumsandLive
       "scikit-multilearn/scikit-multilearn",
       "PythonCharmers/python-future",
       "renatopp/liac-arff",
-      "networkx/networkx"
+      "networkx/networkx",
+      "taynaud/python-louvain"
     ]
 
     git_repos_chromium_googlesource = [
