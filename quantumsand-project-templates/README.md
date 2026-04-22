@@ -31,5 +31,6 @@ This will include:
 * tqdm
 * Pillow
 * Requests (HTTP library)
+* Keras 3 (Deep Learning for humans)
 
 More to follow.
