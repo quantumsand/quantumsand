@@ -4426,7 +4426,8 @@ class QuantumsandLive
       "ThrowTheSwitch/CMock",
       "KhronosGroup/OpenCL-CLHPP",
       "nithinn/ncc",
-      "uxlfoundation/oneDNN"
+      "uxlfoundation/oneDNN",
+      "google/snappy"
     ]
 
     git_repos_chromium_googlesource = [
