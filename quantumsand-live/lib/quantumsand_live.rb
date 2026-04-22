@@ -4452,7 +4452,8 @@ class QuantumsandLive
       "Swordfish90/qmltermwidget",
       "lxqt/qtermwidget",
       "lxqt/lxqt-build-tools",
-      "lxqt/liblxqt"
+      "lxqt/liblxqt",
+      "lxqt/libqtxdg"
     ]
 
     git_repos_chromium_googlesource = [
