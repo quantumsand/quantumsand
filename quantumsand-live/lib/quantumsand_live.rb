@@ -4436,7 +4436,8 @@ class QuantumsandLive
       "herumi/xbyak_riscv",
       "scipy/scipy-mathjax",
       "data-apis/array-api-compat",
-      "data-apis/array-api-extra"
+      "data-apis/array-api-extra",
+      "wilsonrljr/sysidentpy"
     ]
 
     git_repos_chromium_googlesource = [
