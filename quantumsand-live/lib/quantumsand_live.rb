@@ -4429,7 +4429,8 @@ class QuantumsandLive
       "uxlfoundation/oneDNN",
       "google/snappy",
       "ARM-software/ComputeLibrary",
-      "openvinotoolkit/mlas"
+      "openvinotoolkit/mlas",
+      "oneapi-src/level-zero"
     ]
 
     git_repos_chromium_googlesource = [
