@@ -4450,7 +4450,8 @@ class QuantumsandLive
       "sympy/sympy",
       "prefix-dev/pixi",
       "Swordfish90/qmltermwidget",
-      "lxqt/qtermwidget"
+      "lxqt/qtermwidget",
+      "lxqt/lxqt-build-tools"
     ]
 
     git_repos_chromium_googlesource = [
