@@ -4441,7 +4441,8 @@ class QuantumsandLive
       "boostorg/math",
       "cobyqa/cobyqa",
       "scipy/HiGHs",
-      "ERGO-Code/HiGHS"
+      "ERGO-Code/HiGHS",
+      "scipy/unuran"
     ]
 
     git_repos_chromium_googlesource = [
