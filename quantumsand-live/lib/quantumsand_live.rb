@@ -4448,7 +4448,8 @@ class QuantumsandLive
       "mpmath/mpmath",
       "apache/parquet-format",
       "sympy/sympy",
-      "prefix-dev/pixi"
+      "prefix-dev/pixi",
+      "Swordfish90/qmltermwidget"
     ]
 
     git_repos_chromium_googlesource = [
