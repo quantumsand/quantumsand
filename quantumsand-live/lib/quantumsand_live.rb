@@ -4415,7 +4415,8 @@ class QuantumsandLive
       "taynaud/python-louvain",
       "keras-team/keras",
       "igraph/igraph",
-      "igraph/python-igraph"
+      "igraph/python-igraph",
+      "openvinotoolkit/oneDNN"
     ]
 
     git_repos_chromium_googlesource = [
