@@ -4432,7 +4432,8 @@ class QuantumsandLive
       "openvinotoolkit/mlas",
       "oneapi-src/level-zero",
       "openvinotoolkit/telemetry",
-      "libxsmm/libxsmm"
+      "libxsmm/libxsmm",
+      "herumi/xbyak_riscv"
     ]
 
     git_repos_chromium_googlesource = [
