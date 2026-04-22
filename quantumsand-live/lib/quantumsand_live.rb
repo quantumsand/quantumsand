@@ -4439,7 +4439,8 @@ class QuantumsandLive
       "data-apis/array-api-extra",
       "wilsonrljr/sysidentpy",
       "boostorg/math",
-      "cobyqa/cobyqa"
+      "cobyqa/cobyqa",
+      "scipy/HiGHs"
     ]
 
     git_repos_chromium_googlesource = [
