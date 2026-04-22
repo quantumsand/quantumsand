@@ -4416,7 +4416,8 @@ class QuantumsandLive
       "keras-team/keras",
       "igraph/igraph",
       "igraph/python-igraph",
-      "openvinotoolkit/oneDNN"
+      "openvinotoolkit/oneDNN",
+      "gflags/gflags"
     ]
 
     git_repos_chromium_googlesource = [
