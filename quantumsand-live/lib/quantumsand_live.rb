@@ -4409,7 +4409,8 @@ class QuantumsandLive
       "tqdm/tqdm",
       "multi-build/multibuild",
       "scikit-multilearn/scikit-multilearn",
-      "PythonCharmers/python-future"
+      "PythonCharmers/python-future",
+      "renatopp/liac-arff"
     ]
 
     git_repos_chromium_googlesource = [
