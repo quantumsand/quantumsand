@@ -4449,7 +4449,8 @@ class QuantumsandLive
       "apache/parquet-format",
       "sympy/sympy",
       "prefix-dev/pixi",
-      "Swordfish90/qmltermwidget"
+      "Swordfish90/qmltermwidget",
+      "lxqt/qtermwidget"
     ]
 
     git_repos_chromium_googlesource = [
