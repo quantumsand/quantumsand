@@ -4407,7 +4407,8 @@ class QuantumsandLive
       "motiondivision/motion",
       "codse/animata",
       "tqdm/tqdm",
-      "multi-build/multibuild"
+      "multi-build/multibuild",
+      "scikit-multilearn/scikit-multilearn"
     ]
 
     git_repos_chromium_googlesource = [
