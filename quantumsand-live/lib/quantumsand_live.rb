@@ -4447,7 +4447,8 @@ class QuantumsandLive
       "scipy/xsref",
       "mpmath/mpmath",
       "apache/parquet-format",
-      "sympy/sympy"
+      "sympy/sympy",
+      "prefix-dev/pixi"
     ]
 
     git_repos_chromium_googlesource = [
