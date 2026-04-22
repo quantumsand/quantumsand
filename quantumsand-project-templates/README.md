@@ -28,5 +28,6 @@ This will include:
 * RDKit
 * scikit-learn
 * SciPy
+* tqdm
 
 More to follow.
