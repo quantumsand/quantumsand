@@ -4437,7 +4437,8 @@ class QuantumsandLive
       "scipy/scipy-mathjax",
       "data-apis/array-api-compat",
       "data-apis/array-api-extra",
-      "wilsonrljr/sysidentpy"
+      "wilsonrljr/sysidentpy",
+      "boostorg/math"
     ]
 
     git_repos_chromium_googlesource = [
