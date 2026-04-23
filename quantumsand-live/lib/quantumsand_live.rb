@@ -6219,7 +6219,8 @@ class QuantumsandLive
       "system/dolphin",
       "education/kstars",
       "wacom/krita",
-      "games/atlantik"
+      "games/atlantik",
+      "accessibility/accessibility-inspector"
     ]
 
     git_repos_ffmpeg_org = [
