@@ -6215,7 +6215,8 @@ class QuantumsandLive
       "webapps/foss-public-alert-server",
       "kde-linux/kde-linux",
       "kdevelop/kdevelop",
-      "sysadmin/ci-images"
+      "sysadmin/ci-images",
+      "system/dolphin"
     ]
 
     git_repos_ffmpeg_org = [
