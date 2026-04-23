@@ -6222,7 +6222,8 @@ class QuantumsandLive
       "games/atlantik",
       "accessibility/accessibility-inspector",
       "plasma-bigscreen/calamares-bigscreen-branding",
-      "plasma-bigscreen/peertube-voice-application"
+      "plasma-bigscreen/peertube-voice-application",
+      "plasma-bigscreen/bigscreen-image-settings"
     ]
 
     git_repos_ffmpeg_org = [
