@@ -6213,7 +6213,8 @@ class QuantumsandLive
       "desiotaku/qrestfulfileserver",
       "desiotaku/clear.dental-newpatientform",
       "webapps/foss-public-alert-server",
-      "kde-linux/kde-linux"
+      "kde-linux/kde-linux",
+      "kdevelop/kdevelop"
     ]
 
     git_repos_ffmpeg_org = [
