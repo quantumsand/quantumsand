@@ -6209,7 +6209,8 @@ class QuantumsandLive
       "office/skrooge",
       "office/tellico",
       "plasma-bigscreen/plasma-remotecontrollers",
-      "desiotaku/cleardental"
+      "desiotaku/cleardental",
+      "desiotaku/qrestfulfileserver"
     ]
 
     git_repos_ffmpeg_org = [
