@@ -6218,7 +6218,8 @@ class QuantumsandLive
       "sysadmin/ci-images",
       "system/dolphin",
       "education/kstars",
-      "wacom/krita"
+      "wacom/krita",
+      "games/atlantik"
     ]
 
     git_repos_ffmpeg_org = [
