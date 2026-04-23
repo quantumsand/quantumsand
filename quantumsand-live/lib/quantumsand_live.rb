@@ -6221,7 +6221,8 @@ class QuantumsandLive
       "wacom/krita",
       "games/atlantik",
       "accessibility/accessibility-inspector",
-      "plasma-bigscreen/calamares-bigscreen-branding"
+      "plasma-bigscreen/calamares-bigscreen-branding",
+      "plasma-bigscreen/peertube-voice-application"
     ]
 
     git_repos_ffmpeg_org = [
