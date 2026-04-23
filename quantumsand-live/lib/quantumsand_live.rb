@@ -6202,7 +6202,8 @@ class QuantumsandLive
       "office/ghostwriter",
       "office/kbibtex",
       "office/kbibtex-testset",
-      "office/kexi"
+      "office/kexi",
+      "office/kile"
     ]
 
     git_repos_ffmpeg_org = [
