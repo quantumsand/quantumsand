@@ -6189,7 +6189,8 @@ class QuantumsandLive
       "plasma-mobile/qmlkonsole",
       "plasma-mobile/raven",
       "plasma-mobile/spacebar",
-      "office/alkimia"
+      "office/alkimia",
+      "office/calligraplan"
     ]
 
     git_repos_ffmpeg_org = [
