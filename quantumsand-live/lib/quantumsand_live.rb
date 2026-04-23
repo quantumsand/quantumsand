@@ -4454,7 +4454,8 @@ class QuantumsandLive
       "lxqt/lxqt-build-tools",
       "lxqt/liblxqt",
       "lxqt/libqtxdg",
-      "intel/vpl-gpu-rt"
+      "intel/vpl-gpu-rt",
+      "google/docsy"
     ]
 
     git_repos_chromium_googlesource = [
