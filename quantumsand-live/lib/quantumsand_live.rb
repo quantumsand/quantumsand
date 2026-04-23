@@ -6198,7 +6198,8 @@ class QuantumsandLive
       "plasma-mobile/spacebar",
       "office/alkimia",
       "office/calligraplan",
-      "office/crow-translate"
+      "office/crow-translate",
+      "office/ghostwriter"
     ]
 
     git_repos_ffmpeg_org = [
