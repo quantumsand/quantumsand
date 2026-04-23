@@ -6205,7 +6205,8 @@ class QuantumsandLive
       "office/kexi",
       "office/kile",
       "office/kmymoney",
-      "office/marknote"
+      "office/marknote",
+      "office/skrooge"
     ]
 
     git_repos_ffmpeg_org = [
