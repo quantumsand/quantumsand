@@ -5236,7 +5236,8 @@ class QuantumsandLive
       "NetworkManager/NetworkManager",
       "mobile-broadband/ModemManager",
       "mobile-broadband/libmbim",
-      "mobile-broadband/libqmi"
+      "mobile-broadband/libqmi",
+      "mobile-broadband/libqrtr-glib"
     ]
 
     git_repos_xfce_gitlab = [
