@@ -5234,7 +5234,8 @@ class QuantumsandLive
       "upower/upower",
       "upower/power-profiles-daemon",
       "NetworkManager/NetworkManager",
-      "mobile-broadband/ModemManager"
+      "mobile-broadband/ModemManager",
+      "mobile-broadband/libmbim"
     ]
 
     git_repos_xfce_gitlab = [
