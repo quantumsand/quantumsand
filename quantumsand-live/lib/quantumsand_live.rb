@@ -5686,7 +5686,8 @@ class QuantumsandLive
       "forgejo/forgejo",
       "gentoo/gentoo",
       "GeopJr/Collision",
-      "Calamares/calamares"
+      "Calamares/calamares",
+      "aryak/mozhi"
     ]
 
     git_repos_kde_invent = [
