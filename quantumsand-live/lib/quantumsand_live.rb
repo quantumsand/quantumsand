@@ -4957,7 +4957,8 @@ class QuantumsandLive
       "readline",
       "indent",
       "inetutils",
-      "hurd/hurd"
+      "hurd/hurd",
+      "icoutils"
     ]
 
     git_repos_savannah_nongnu_org = [
