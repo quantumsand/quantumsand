@@ -6220,7 +6220,8 @@ class QuantumsandLive
       "education/kstars",
       "wacom/krita",
       "games/atlantik",
-      "accessibility/accessibility-inspector"
+      "accessibility/accessibility-inspector",
+      "plasma-bigscreen/calamares-bigscreen-branding"
     ]
 
     git_repos_ffmpeg_org = [
