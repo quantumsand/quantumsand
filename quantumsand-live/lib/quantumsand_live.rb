@@ -6207,7 +6207,8 @@ class QuantumsandLive
       "office/kmymoney",
       "office/marknote",
       "office/skrooge",
-      "office/tellico"
+      "office/tellico",
+      "plasma-bigscreen/plasma-remotecontrollers"
     ]
 
     git_repos_ffmpeg_org = [
