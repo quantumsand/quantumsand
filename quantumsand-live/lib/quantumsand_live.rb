@@ -4460,7 +4460,8 @@ class QuantumsandLive
       "Skycoder42/QHotkey",
       "itay-grudev/SingleApplication",
       "HatScripts/circle-flags",
-      "on-the-edge-cloud/react-circle-flags"
+      "on-the-edge-cloud/react-circle-flags",
+      "NeonGeckoCom/NeonCore"
     ]
 
     git_repos_chromium_googlesource = [
