@@ -6211,7 +6211,8 @@ class QuantumsandLive
       "plasma-bigscreen/plasma-remotecontrollers",
       "desiotaku/cleardental",
       "desiotaku/qrestfulfileserver",
-      "desiotaku/clear.dental-newpatientform"
+      "desiotaku/clear.dental-newpatientform",
+      "webapps/foss-public-alert-server"
     ]
 
     git_repos_ffmpeg_org = [
