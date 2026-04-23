@@ -6216,7 +6216,8 @@ class QuantumsandLive
       "kde-linux/kde-linux",
       "kdevelop/kdevelop",
       "sysadmin/ci-images",
-      "system/dolphin"
+      "system/dolphin",
+      "education/kstars"
     ]
 
     git_repos_ffmpeg_org = [
