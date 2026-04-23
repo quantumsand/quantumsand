@@ -6210,7 +6210,8 @@ class QuantumsandLive
       "office/tellico",
       "plasma-bigscreen/plasma-remotecontrollers",
       "desiotaku/cleardental",
-      "desiotaku/qrestfulfileserver"
+      "desiotaku/qrestfulfileserver",
+      "desiotaku/clear.dental-newpatientform"
     ]
 
     git_repos_ffmpeg_org = [
