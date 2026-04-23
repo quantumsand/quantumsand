@@ -6496,7 +6496,8 @@ class QuantumsandLive
       "net-vpn/wireguard-tools",
       "net-wireless/iw",
       "media-sound/audacious",
-      "media-plugins/audacious-plugins"
+      "media-plugins/audacious-plugins",
+      "media-gfx/png2ico"
     ]
 
     gentoo_eselect_repository_add = {
