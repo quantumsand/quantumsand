@@ -6224,7 +6224,8 @@ class QuantumsandLive
       "plasma-bigscreen/calamares-bigscreen-branding",
       "plasma-bigscreen/peertube-voice-application",
       "plasma-bigscreen/bigscreen-image-settings",
-      "plasma-bigscreen/bigscreen-debos-image-rpi4"
+      "plasma-bigscreen/bigscreen-debos-image-rpi4",
+      "plasma-bigscreen/soundcloud-voice-application"
     ]
 
     git_repos_ffmpeg_org = [
