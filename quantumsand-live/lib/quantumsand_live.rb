@@ -6200,7 +6200,8 @@ class QuantumsandLive
       "office/calligraplan",
       "office/crow-translate",
       "office/ghostwriter",
-      "office/kbibtex"
+      "office/kbibtex",
+      "office/kbibtex-testset"
     ]
 
     git_repos_ffmpeg_org = [
