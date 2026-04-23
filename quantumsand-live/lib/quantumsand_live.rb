@@ -4458,7 +4458,8 @@ class QuantumsandLive
       "google/docsy",
       "espeak-ng/espeak-ng",
       "Skycoder42/QHotkey",
-      "itay-grudev/SingleApplication"
+      "itay-grudev/SingleApplication",
+      "HatScripts/circle-flags"
     ]
 
     git_repos_chromium_googlesource = [
