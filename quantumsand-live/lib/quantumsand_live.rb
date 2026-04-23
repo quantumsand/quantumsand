@@ -6188,7 +6188,8 @@ class QuantumsandLive
       "plasma-mobile/plasma-phone-settings",
       "plasma-mobile/qmlkonsole",
       "plasma-mobile/raven",
-      "plasma-mobile/spacebar"
+      "plasma-mobile/spacebar",
+      "office/alkimia"
     ]
 
     git_repos_ffmpeg_org = [
