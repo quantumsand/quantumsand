@@ -4459,7 +4459,8 @@ class QuantumsandLive
       "espeak-ng/espeak-ng",
       "Skycoder42/QHotkey",
       "itay-grudev/SingleApplication",
-      "HatScripts/circle-flags"
+      "HatScripts/circle-flags",
+      "on-the-edge-cloud/react-circle-flags"
     ]
 
     git_repos_chromium_googlesource = [
