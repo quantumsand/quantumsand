@@ -4456,7 +4456,8 @@ class QuantumsandLive
       "lxqt/libqtxdg",
       "intel/vpl-gpu-rt",
       "google/docsy",
-      "espeak-ng/espeak-ng"
+      "espeak-ng/espeak-ng",
+      "Skycoder42/QHotkey"
     ]
 
     git_repos_chromium_googlesource = [
