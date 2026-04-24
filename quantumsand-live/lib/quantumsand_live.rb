@@ -6275,7 +6275,8 @@ class QuantumsandLive
       "education/kiten",
       "education/klettres",
       "education/kmplot",
-      "education/ktouch"
+      "education/ktouch",
+      "education/kturtle"
     ]
 
     git_repos_ffmpeg_org = [
