@@ -4464,7 +4464,8 @@ class QuantumsandLive
       "NeonGeckoCom/NeonCore",
       "openthread/openthread",
       "openthread/ot-br-posix",
-      "openthread/ot-ns"
+      "openthread/ot-ns",
+      "openthread/ot-commissioner"
     ]
 
     git_repos_chromium_googlesource = [
