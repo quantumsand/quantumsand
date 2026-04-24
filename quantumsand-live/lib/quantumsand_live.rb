@@ -6256,7 +6256,8 @@ class QuantumsandLive
       "kdevelop/kdev-verapp",
       "kdevelop/kdev-xdebug",
       "education/analitza",
-      "education/artikulate"
+      "education/artikulate",
+      "education/artikulate-data"
     ]
 
     git_repos_ffmpeg_org = [
