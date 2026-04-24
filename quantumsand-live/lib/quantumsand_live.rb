@@ -6266,7 +6266,8 @@ class QuantumsandLive
       "education/kalgebra",
       "education/kalzium",
       "education/kanagram",
-      "education/kbruch"
+      "education/kbruch",
+      "education/kdeedu-data"
     ]
 
     git_repos_ffmpeg_org = [
