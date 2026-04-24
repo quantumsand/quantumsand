@@ -4470,7 +4470,8 @@ class QuantumsandLive
       "jimsch/cn-cbor",
       "wgtdkp/mdns",
       "openthread/pyspinel",
-      "openthread/wpantund"
+      "openthread/wpantund",
+      "openthread/ot-docs"
     ]
 
     git_repos_chromium_googlesource = [
