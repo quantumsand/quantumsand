@@ -4472,7 +4472,8 @@ class QuantumsandLive
       "openthread/pyspinel",
       "openthread/wpantund",
       "openthread/ot-docs",
-      "openocd-org/openocd"
+      "openocd-org/openocd",
+      "steveire/grantlee"
     ]
 
     git_repos_chromium_googlesource = [
