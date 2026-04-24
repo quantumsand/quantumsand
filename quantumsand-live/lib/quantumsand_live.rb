@@ -6243,7 +6243,8 @@ class QuantumsandLive
       "plasma-bigscreen/youtube-voice-application",
       "kdevelop/kdev-control-flow-graph",
       "kdevelop/kdev-css",
-      "kdevelop/kdev-embedded"
+      "kdevelop/kdev-embedded",
+      "kdevelop/kdev-executebrowser"
     ]
 
     git_repos_ffmpeg_org = [
