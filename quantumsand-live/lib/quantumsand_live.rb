@@ -4461,7 +4461,8 @@ class QuantumsandLive
       "itay-grudev/SingleApplication",
       "HatScripts/circle-flags",
       "on-the-edge-cloud/react-circle-flags",
-      "NeonGeckoCom/NeonCore"
+      "NeonGeckoCom/NeonCore",
+      "openthread/openthread"
     ]
 
     git_repos_chromium_googlesource = [
