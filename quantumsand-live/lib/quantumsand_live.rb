@@ -6246,7 +6246,8 @@ class QuantumsandLive
       "kdevelop/kdev-embedded",
       "kdevelop/kdev-executebrowser",
       "kdevelop/kdev-krazy2",
-      "kdevelop/kdev-mercurial"
+      "kdevelop/kdev-mercurial",
+      "kdevelop/kdevelop-pg-qt"
     ]
 
     git_repos_ffmpeg_org = [
