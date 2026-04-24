@@ -4463,7 +4463,8 @@ class QuantumsandLive
       "on-the-edge-cloud/react-circle-flags",
       "NeonGeckoCom/NeonCore",
       "openthread/openthread",
-      "openthread/ot-br-posix"
+      "openthread/ot-br-posix",
+      "openthread/ot-ns"
     ]
 
     git_repos_chromium_googlesource = [
