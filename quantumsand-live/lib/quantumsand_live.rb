@@ -6254,7 +6254,8 @@ class QuantumsandLive
       "kdevelop/kdev-upload",
       "kdevelop/kdev-valgrind",
       "kdevelop/kdev-verapp",
-      "kdevelop/kdev-xdebug"
+      "kdevelop/kdev-xdebug",
+      "education/analitza"
     ]
 
     git_repos_ffmpeg_org = [
