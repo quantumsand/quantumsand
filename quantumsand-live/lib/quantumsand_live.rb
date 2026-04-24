@@ -4469,7 +4469,8 @@ class QuantumsandLive
       "wgtdkp/COSE-C",
       "jimsch/cn-cbor",
       "wgtdkp/mdns",
-      "openthread/pyspinel"
+      "openthread/pyspinel",
+      "openthread/wpantund"
     ]
 
     git_repos_chromium_googlesource = [
