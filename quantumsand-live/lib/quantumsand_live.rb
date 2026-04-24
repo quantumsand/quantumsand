@@ -6260,7 +6260,8 @@ class QuantumsandLive
       "education/artikulate",
       "education/artikulate-data",
       "education/blinken",
-      "education/cantor"
+      "education/cantor",
+      "education/gcompris"
     ]
 
     git_repos_ffmpeg_org = [
