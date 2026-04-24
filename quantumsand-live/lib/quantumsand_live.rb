@@ -6268,7 +6268,8 @@ class QuantumsandLive
       "education/kanagram",
       "education/kbruch",
       "education/kdeedu-data",
-      "education/kgeography"
+      "education/kgeography",
+      "education/khangman"
     ]
 
     git_repos_ffmpeg_org = [
