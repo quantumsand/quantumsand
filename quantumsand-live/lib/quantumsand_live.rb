@@ -4467,7 +4467,8 @@ class QuantumsandLive
       "openthread/ot-ns",
       "openthread/ot-commissioner",
       "wgtdkp/COSE-C",
-      "jimsch/cn-cbor"
+      "jimsch/cn-cbor",
+      "wgtdkp/mdns"
     ]
 
     git_repos_chromium_googlesource = [
