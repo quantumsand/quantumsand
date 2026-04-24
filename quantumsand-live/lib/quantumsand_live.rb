@@ -4473,7 +4473,8 @@ class QuantumsandLive
       "openthread/wpantund",
       "openthread/ot-docs",
       "openocd-org/openocd",
-      "steveire/grantlee"
+      "steveire/grantlee",
+      "qml-box2d/qml-box2d"
     ]
 
     git_repos_chromium_googlesource = [
