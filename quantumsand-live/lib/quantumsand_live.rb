@@ -4468,7 +4468,8 @@ class QuantumsandLive
       "openthread/ot-commissioner",
       "wgtdkp/COSE-C",
       "jimsch/cn-cbor",
-      "wgtdkp/mdns"
+      "wgtdkp/mdns",
+      "openthread/pyspinel"
     ]
 
     git_repos_chromium_googlesource = [
