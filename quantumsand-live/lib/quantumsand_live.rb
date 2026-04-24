@@ -6250,7 +6250,8 @@ class QuantumsandLive
       "kdevelop/kdevelop-pg-qt",
       "kdevelop/kdev-php",
       "kdevelop/kdev-python",
-      "kdevelop/kdev-ruby"
+      "kdevelop/kdev-ruby",
+      "kdevelop/kdev-upload"
     ]
 
     git_repos_ffmpeg_org = [
