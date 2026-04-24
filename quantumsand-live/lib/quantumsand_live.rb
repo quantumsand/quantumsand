@@ -6253,7 +6253,8 @@ class QuantumsandLive
       "kdevelop/kdev-ruby",
       "kdevelop/kdev-upload",
       "kdevelop/kdev-valgrind",
-      "kdevelop/kdev-verapp"
+      "kdevelop/kdev-verapp",
+      "kdevelop/kdev-xdebug"
     ]
 
     git_repos_ffmpeg_org = [
