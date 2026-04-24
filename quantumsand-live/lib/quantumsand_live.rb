@@ -6279,7 +6279,8 @@ class QuantumsandLive
       "education/kturtle",
       "education/kwordquiz",
       "education/labplot",
-      "education/libkeduvocdocument"
+      "education/libkeduvocdocument",
+      "education/marble"
     ]
 
     git_repos_ffmpeg_org = [
