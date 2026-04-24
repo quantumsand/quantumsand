@@ -6262,7 +6262,8 @@ class QuantumsandLive
       "education/blinken",
       "education/cantor",
       "education/gcompris",
-      "education/gcompris-data"
+      "education/gcompris-data",
+      "education/kalgebra"
     ]
 
     git_repos_ffmpeg_org = [
