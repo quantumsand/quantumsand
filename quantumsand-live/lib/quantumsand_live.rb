@@ -6238,7 +6238,8 @@ class QuantumsandLive
       "plasma-bigscreen/bigscreen-debos-image-rpi4",
       "plasma-bigscreen/soundcloud-voice-application",
       "plasma-bigscreen/wikidata-voice-application",
-      "plasma-bigscreen/youtube-voice-application"
+      "plasma-bigscreen/youtube-voice-application",
+      "kdevelop/kdev-control-flow-graph"
     ]
 
     git_repos_ffmpeg_org = [
