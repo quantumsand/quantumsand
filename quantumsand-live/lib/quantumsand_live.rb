@@ -4477,7 +4477,8 @@ class QuantumsandLive
       "qml-box2d/qml-box2d",
       "niri-wm/niri",
       "pedrolcl/drumstick",
-      "EmbeddedSynth/sonivox"
+      "EmbeddedSynth/sonivox",
+      "pedrolcl/Linux-SonivoxEas"
     ]
 
     git_repos_chromium_googlesource = [
