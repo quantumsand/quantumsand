@@ -4481,7 +4481,8 @@ class QuantumsandLive
       "pedrolcl/Linux-SonivoxEas",
       "pedrolcl/multiplatform-sonivoxeas",
       "scummvm/scummvm",
-      "FluidSynth/fluidsynth"
+      "FluidSynth/fluidsynth",
+      "FluidSynth/testdata"
     ]
 
     git_repos_chromium_googlesource = [
