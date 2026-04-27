@@ -4478,7 +4478,8 @@ class QuantumsandLive
       "niri-wm/niri",
       "pedrolcl/drumstick",
       "EmbeddedSynth/sonivox",
-      "pedrolcl/Linux-SonivoxEas"
+      "pedrolcl/Linux-SonivoxEas",
+      "pedrolcl/multiplatform-sonivoxeas"
     ]
 
     git_repos_chromium_googlesource = [
