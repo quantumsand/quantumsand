@@ -4489,7 +4489,8 @@ class QuantumsandLive
       "mrbumpy409/GeneralUser-GS",
       "kthohr/gcem",
       "kthohr/stats",
-      "Signalsmith-Audio/basics"
+      "Signalsmith-Audio/basics",
+      "pedrolcl/sonivox"
     ]
 
     git_repos_chromium_googlesource = [
