@@ -4486,7 +4486,8 @@ class QuantumsandLive
       "mrbumpy409/SoundFont-Spec-Test",
       "USCiLab/cereal",
       "derselbst/ANMP",
-      "mrbumpy409/GeneralUser-GS"
+      "mrbumpy409/GeneralUser-GS",
+      "kthohr/gcem"
     ]
 
     git_repos_chromium_googlesource = [
