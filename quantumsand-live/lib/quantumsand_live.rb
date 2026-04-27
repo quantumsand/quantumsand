@@ -4493,7 +4493,8 @@ class QuantumsandLive
       "pedrolcl/sonivox",
       "ikatson/rqbit",
       "ikatson/librqbit-utp",
-      "ikatson/librqbit-dualstack-sockets"
+      "ikatson/librqbit-dualstack-sockets",
+      "torrust/torrust-tracker"
     ]
 
     git_repos_chromium_googlesource = [
