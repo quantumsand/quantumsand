@@ -4494,7 +4494,8 @@ class QuantumsandLive
       "ikatson/rqbit",
       "ikatson/librqbit-utp",
       "ikatson/librqbit-dualstack-sockets",
-      "torrust/torrust-tracker"
+      "torrust/torrust-tracker",
+      "torrust/torrust-demo"
     ]
 
     git_repos_chromium_googlesource = [
