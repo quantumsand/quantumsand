@@ -6330,7 +6330,8 @@ class QuantumsandLive
       "games/kmuddy",
       "games/knavalbattle",
       "games/knetwalk",
-      "games/knights"
+      "games/knights",
+      "games/kolf"
     ]
 
     git_repos_ffmpeg_org = [
