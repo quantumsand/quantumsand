@@ -4491,7 +4491,8 @@ class QuantumsandLive
       "kthohr/stats",
       "Signalsmith-Audio/basics",
       "pedrolcl/sonivox",
-      "ikatson/rqbit"
+      "ikatson/rqbit",
+      "ikatson/librqbit-utp"
     ]
 
     git_repos_chromium_googlesource = [
