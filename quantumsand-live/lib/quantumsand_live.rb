@@ -4487,7 +4487,8 @@ class QuantumsandLive
       "USCiLab/cereal",
       "derselbst/ANMP",
       "mrbumpy409/GeneralUser-GS",
-      "kthohr/gcem"
+      "kthohr/gcem",
+      "kthohr/stats"
     ]
 
     git_repos_chromium_googlesource = [
