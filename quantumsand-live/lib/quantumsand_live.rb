@@ -4564,7 +4564,8 @@ class QuantumsandLive
       "google/gemma-4-E2B",
       "deepseek-ai/DeepSeek-V4-Flash",
       "deepseek-ai/DeepSeek-V4-Pro",
-      "deepseek-ai/DeepSeek-V4-Pro-Base"
+      "deepseek-ai/DeepSeek-V4-Pro-Base",
+      "deepseek-ai/DeepSeek-V4-Flash-Base"
     ]
 
     git_repos_osmocom_org_gitea = [
