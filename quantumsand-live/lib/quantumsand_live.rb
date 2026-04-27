@@ -4479,7 +4479,8 @@ class QuantumsandLive
       "pedrolcl/drumstick",
       "EmbeddedSynth/sonivox",
       "pedrolcl/Linux-SonivoxEas",
-      "pedrolcl/multiplatform-sonivoxeas"
+      "pedrolcl/multiplatform-sonivoxeas",
+      "scummvm/scummvm"
     ]
 
     git_repos_chromium_googlesource = [
