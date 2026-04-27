@@ -6332,7 +6332,8 @@ class QuantumsandLive
       "games/knetwalk",
       "games/knights",
       "games/kolf",
-      "games/kollision"
+      "games/kollision",
+      "games/kolorfill"
     ]
 
     git_repos_ffmpeg_org = [
