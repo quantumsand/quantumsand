@@ -189,6 +189,34 @@ make
 -- Installing: /opt/homebrew/share/man/man1/renderd.1
 -- Installing: /opt/homebrew/share/man/man5/renderd.conf.5
 ```
+* Install rqbit; bittorrent client in Rust; `brew install rqbit`
+* You need approximately 86 GB of space to obtain the OpenStreetMap Planet data.
+* In Google Chrome visit the OpenStreetMap Planet OSM; `https://planet.openstreetmap.org/`
+* We will obtain the `Latest Weekly Planet PBF File` using the `(torrent)` url like so;
+* Start the download; `rqbit download -o ~/Downloads https://planet.openstreetmap.org/pbf/planet-latest.osm.pbf.torrent`
+* You should see messages like this:
+```
+2026-04-27T13:26:02.219024Z  INFO torrent{id=0}:initialize_and_start: librqbit::torrent_state::initializing: Initial check results: have 0, needed 86.1Gi, total selected 86.1Gi
+2026-04-27T13:26:02.799624Z  INFO rqbit: [0]: 0.00% (0 / 86.11Gi), ↓0.00 MiB/s, ↑0.00 MiB/s (0), {live: 8, queued: 8, dead: 4, known: 20}
+2026-04-27T13:26:03.803944Z  INFO rqbit: [0]: 0.01% (8.00Mi / 86.11Gi), ↓5.71 MiB/s, ↑0.00 MiB/s (0), ETA: 15447.965s, {live: 8, queued: 9, dead: 5, known: 22}
+```
+* This will take a considerable amount of time to download; recommendations; lock your screen; go and do something else.
+* When the download reaches 100% you should see:
+```
+2026-04-27T14:29:33.140467Z  INFO torrent{id=0}:manage_peer{peer="99.100.137.113:6881"}:peer_connection: librqbit::torrent_state::live: torrent finished downloading
+2026-04-27T14:29:33.624797Z  INFO rqbit: [0]: 100.00% (86.11Gi / 86.11Gi), ↓21.11 MiB/s, ↑0.00 MiB/s (0), ETA: 757ms, {live: 0, queued: 0, dead: 108, known: 118}
+2026-04-27T14:29:34.626836Z  INFO rqbit: [0]: 100.00% (86.11Gi / 86.11Gi), ↓18.00 MiB/s, ↑0.00 MiB/s (0), {live: 0, queued: 0, dead: 108, known: 118}
+```
+* It is always nice to keep the BitTorrent seeding (sharing completed files with other users).
+* Some people have capped data; or excess data charges; or have to share their internet connection; you can terminate `rqbit`.
+* To terminate rqbit; `Control + C`.
+* You can now check the cryptographic signature of the download: `md5sum ~/Downloads/planet-260420.osm.pbf`
+* For this particular download the `md5` is mentioned on `https://planet.openstreetmap.org/`; `md5: a2938157c76ca9075fd6fe597abe3fae.`
+* When our terminal command completes we see this:
+```
+a2938157c76ca9075fd6fe597abe3fae  /Users/your-user-name/Downloads/planet-260420.osm.pbf
+```
+* You can see the md5 cryptographic hash is the same.
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`

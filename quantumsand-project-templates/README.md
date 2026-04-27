@@ -35,5 +35,7 @@ This will include:
 * Keras 3 (Deep Learning for humans)
 * JAX
 * SymPy
+* torrust-tracker (modern and feature-rich private BitTorrent tracker)
+* rqbit (bittorrent client in Rust)
 
 More to follow.
