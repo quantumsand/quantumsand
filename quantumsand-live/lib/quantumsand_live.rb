@@ -6322,7 +6322,8 @@ class QuantumsandLive
       "games/kigo",
       "games/killbots",
       "games/kiriki",
-      "games/kjumpingcube"
+      "games/kjumpingcube",
+      "games/klickety"
     ]
 
     git_repos_ffmpeg_org = [
