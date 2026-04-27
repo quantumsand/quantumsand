@@ -6317,7 +6317,8 @@ class QuantumsandLive
       "games/kbreakout",
       "games/kdiamond",
       "games/kdominate",
-      "games/kfourinline"
+      "games/kfourinline",
+      "games/kgoldrunner"
     ]
 
     git_repos_ffmpeg_org = [
