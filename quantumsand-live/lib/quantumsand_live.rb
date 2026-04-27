@@ -6301,7 +6301,8 @@ class QuantumsandLive
       "education/minuet",
       "education/parley",
       "education/rkward",
-      "education/rocs"
+      "education/rocs",
+      "education/step"
     ]
 
     git_repos_ffmpeg_org = [
