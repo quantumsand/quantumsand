@@ -4490,7 +4490,8 @@ class QuantumsandLive
       "kthohr/gcem",
       "kthohr/stats",
       "Signalsmith-Audio/basics",
-      "pedrolcl/sonivox"
+      "pedrolcl/sonivox",
+      "ikatson/rqbit"
     ]
 
     git_repos_chromium_googlesource = [
