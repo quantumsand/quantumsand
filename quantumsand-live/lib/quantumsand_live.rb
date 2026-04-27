@@ -4475,7 +4475,8 @@ class QuantumsandLive
       "openocd-org/openocd",
       "steveire/grantlee",
       "qml-box2d/qml-box2d",
-      "niri-wm/niri"
+      "niri-wm/niri",
+      "pedrolcl/drumstick"
     ]
 
     git_repos_chromium_googlesource = [
