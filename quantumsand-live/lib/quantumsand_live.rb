@@ -6307,7 +6307,8 @@ class QuantumsandLive
       "games/bomber",
       "games/bovo",
       "games/chessament",
-      "games/granatier"
+      "games/granatier",
+      "games/kajongg"
     ]
 
     git_repos_ffmpeg_org = [
