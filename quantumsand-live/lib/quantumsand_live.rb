@@ -4484,7 +4484,8 @@ class QuantumsandLive
       "FluidSynth/fluidsynth",
       "FluidSynth/testdata",
       "mrbumpy409/SoundFont-Spec-Test",
-      "USCiLab/cereal"
+      "USCiLab/cereal",
+      "derselbst/ANMP"
     ]
 
     git_repos_chromium_googlesource = [
