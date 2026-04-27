@@ -6311,7 +6311,8 @@ class QuantumsandLive
       "games/kajongg",
       "games/kapman",
       "games/katomic",
-      "games/kblackbox"
+      "games/kblackbox",
+      "games/kblocks"
     ]
 
     git_repos_ffmpeg_org = [
