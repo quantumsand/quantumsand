@@ -6320,7 +6320,8 @@ class QuantumsandLive
       "games/kfourinline",
       "games/kgoldrunner",
       "games/kigo",
-      "games/killbots"
+      "games/killbots",
+      "games/kiriki"
     ]
 
     git_repos_ffmpeg_org = [
