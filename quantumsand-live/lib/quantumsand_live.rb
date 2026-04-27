@@ -4488,7 +4488,8 @@ class QuantumsandLive
       "derselbst/ANMP",
       "mrbumpy409/GeneralUser-GS",
       "kthohr/gcem",
-      "kthohr/stats"
+      "kthohr/stats",
+      "Signalsmith-Audio/basics"
     ]
 
     git_repos_chromium_googlesource = [
