@@ -4482,7 +4482,8 @@ class QuantumsandLive
       "pedrolcl/multiplatform-sonivoxeas",
       "scummvm/scummvm",
       "FluidSynth/fluidsynth",
-      "FluidSynth/testdata"
+      "FluidSynth/testdata",
+      "mrbumpy409/SoundFont-Spec-Test"
     ]
 
     git_repos_chromium_googlesource = [
