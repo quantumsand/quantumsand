@@ -4523,7 +4523,8 @@ class QuantumsandLive
       "unepwcmc/labs",
       "unepwcmc/collated-coral",
       "unepwcmc/post-2020-timeline",
-      "unepwcmc/ORS-API"
+      "unepwcmc/ORS-API",
+      "unepwcmc/ORS"
     ]
 
     git_repos_chromium_googlesource = [
