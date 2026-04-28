@@ -4536,7 +4536,8 @@ class QuantumsandLive
       "Osmose/moseamp",
       "web-infra-dev/rspack",
       "metafloor/bwip-js",
-      "Vanilagy/mediabunny"
+      "Vanilagy/mediabunny",
+      "scopewu/qrcode.vue"
     ]
 
     git_repos_chromium_googlesource = [
