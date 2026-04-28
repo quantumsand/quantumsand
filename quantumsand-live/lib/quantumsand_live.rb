@@ -4521,7 +4521,8 @@ class QuantumsandLive
       "unepwcmc/protectedplanet-frontend",
       "unepwcmc/parcc",
       "unepwcmc/labs",
-      "unepwcmc/collated-coral"
+      "unepwcmc/collated-coral",
+      "unepwcmc/post-2020-timeline"
     ]
 
     git_repos_chromium_googlesource = [
