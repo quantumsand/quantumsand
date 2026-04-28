@@ -4519,7 +4519,8 @@ class QuantumsandLive
       "unepwcmc/collated-areas",
       "unepwcmc/bip",
       "unepwcmc/protectedplanet-frontend",
-      "unepwcmc/parcc"
+      "unepwcmc/parcc",
+      "unepwcmc/labs"
     ]
 
     git_repos_chromium_googlesource = [
