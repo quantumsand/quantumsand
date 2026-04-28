@@ -4511,7 +4511,8 @@ class QuantumsandLive
       "unepwcmc/wdpa-tracker",
       "unepwcmc/wcmc-annual-review",
       "unepwcmc/species-hexagrid",
-      "unepwcmc/SmokeTest"
+      "unepwcmc/SmokeTest",
+      "unepwcmc/marine-data-manual"
     ]
 
     git_repos_chromium_googlesource = [
