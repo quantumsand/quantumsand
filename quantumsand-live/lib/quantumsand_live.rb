@@ -4514,7 +4514,8 @@ class QuantumsandLive
       "unepwcmc/SmokeTest",
       "unepwcmc/marine-data-manual",
       "vuejs/vuex",
-      "unepwcmc/future-of-conservation"
+      "unepwcmc/future-of-conservation",
+      "paper-trail-gem/paper_trail"
     ]
 
     git_repos_chromium_googlesource = [
