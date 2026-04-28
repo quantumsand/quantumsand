@@ -4574,6 +4574,10 @@ class QuantumsandLive
       "deepseek-ai/DeepSeek-V4-Flash-Base"
     ]
 
+    git_repos_libreoffice_org = [
+      "core"
+    ]
+
     git_repos_osmocom_org_gitea = [
       "ims-volte-vowifi/strongswan-epdg",
       "erlang/osmo-epdg",
