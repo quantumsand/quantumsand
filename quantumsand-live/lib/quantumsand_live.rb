@@ -4534,7 +4534,8 @@ class QuantumsandLive
       "mmontag/chip-player-js",
       "libxmp/libxmp",
       "Osmose/moseamp",
-      "web-infra-dev/rspack"
+      "web-infra-dev/rspack",
+      "metafloor/bwip-js"
     ]
 
     git_repos_chromium_googlesource = [
