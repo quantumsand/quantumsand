@@ -4530,7 +4530,8 @@ class QuantumsandLive
       "tilemill-project/tilemill",
       "cutting-room-floor/projectmill",
       "ahujasid/blender-mcp",
-      "nico-martin/gemma4-browser-extension"
+      "nico-martin/gemma4-browser-extension",
+      "mmontag/chip-player-js"
     ]
 
     git_repos_chromium_googlesource = [
