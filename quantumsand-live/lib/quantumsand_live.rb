@@ -4528,7 +4528,8 @@ class QuantumsandLive
       "unepwcmc/BlueForests",
       "unepwcmc/BlueCarbonMobileNext",
       "tilemill-project/tilemill",
-      "cutting-room-floor/projectmill"
+      "cutting-room-floor/projectmill",
+      "ahujasid/blender-mcp"
     ]
 
     git_repos_chromium_googlesource = [
