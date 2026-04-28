@@ -4508,7 +4508,8 @@ class QuantumsandLive
       "unepwcmc/ocean-data-viewer",
       "unepwcmc/go-fox",
       "unepwcmc/ocean-plus-habitats",
-      "unepwcmc/wdpa-tracker"
+      "unepwcmc/wdpa-tracker",
+      "unepwcmc/wcmc-annual-review"
     ]
 
     git_repos_chromium_googlesource = [
