@@ -4533,7 +4533,8 @@ class QuantumsandLive
       "nico-martin/gemma4-browser-extension",
       "mmontag/chip-player-js",
       "libxmp/libxmp",
-      "Osmose/moseamp"
+      "Osmose/moseamp",
+      "web-infra-dev/rspack"
     ]
 
     git_repos_chromium_googlesource = [
