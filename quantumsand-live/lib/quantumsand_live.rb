@@ -4499,7 +4499,8 @@ class QuantumsandLive
       "myriadrf/LimeSDR-Micro",
       "stratis-storage/stratis-cli",
       "stratis-storage/stratisd",
-      "any1/wayvnc"
+      "any1/wayvnc",
+      "any1/aml"
     ]
 
     git_repos_chromium_googlesource = [
