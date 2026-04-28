@@ -4498,7 +4498,8 @@ class QuantumsandLive
       "torrust/torrust-demo",
       "myriadrf/LimeSDR-Micro",
       "stratis-storage/stratis-cli",
-      "stratis-storage/stratisd"
+      "stratis-storage/stratisd",
+      "any1/wayvnc"
     ]
 
     git_repos_chromium_googlesource = [
