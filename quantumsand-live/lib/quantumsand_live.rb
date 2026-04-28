@@ -4526,7 +4526,8 @@ class QuantumsandLive
       "unepwcmc/ORS-API",
       "unepwcmc/ORS",
       "unepwcmc/BlueForests",
-      "unepwcmc/BlueCarbonMobileNext"
+      "unepwcmc/BlueCarbonMobileNext",
+      "tilemill-project/tilemill"
     ]
 
     git_repos_chromium_googlesource = [
