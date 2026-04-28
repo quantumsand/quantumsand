@@ -4503,7 +4503,8 @@ class QuantumsandLive
       "any1/aml",
       "any1/neatvnc",
       "unepwcmc/ProtectedPlanet",
-      "unepwcmc/protectedplanet-db"
+      "unepwcmc/protectedplanet-db",
+      "unepwcmc/protectedplanet-api"
     ]
 
     git_repos_chromium_googlesource = [
