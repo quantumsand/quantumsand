@@ -4501,7 +4501,8 @@ class QuantumsandLive
       "stratis-storage/stratisd",
       "any1/wayvnc",
       "any1/aml",
-      "any1/neatvnc"
+      "any1/neatvnc",
+      "unepwcmc/ProtectedPlanet"
     ]
 
     git_repos_chromium_googlesource = [
