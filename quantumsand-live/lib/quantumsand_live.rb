@@ -4506,7 +4506,8 @@ class QuantumsandLive
       "unepwcmc/protectedplanet-db",
       "unepwcmc/protectedplanet-api",
       "unepwcmc/ocean-data-viewer",
-      "unepwcmc/go-fox"
+      "unepwcmc/go-fox",
+      "unepwcmc/ocean-plus-habitats"
     ]
 
     git_repos_chromium_googlesource = [
