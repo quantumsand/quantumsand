@@ -4535,7 +4535,8 @@ class QuantumsandLive
       "libxmp/libxmp",
       "Osmose/moseamp",
       "web-infra-dev/rspack",
-      "metafloor/bwip-js"
+      "metafloor/bwip-js",
+      "Vanilagy/mediabunny"
     ]
 
     git_repos_chromium_googlesource = [
