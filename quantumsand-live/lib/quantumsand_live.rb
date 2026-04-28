@@ -4513,7 +4513,8 @@ class QuantumsandLive
       "unepwcmc/species-hexagrid",
       "unepwcmc/SmokeTest",
       "unepwcmc/marine-data-manual",
-      "vuejs/vuex"
+      "vuejs/vuex",
+      "unepwcmc/future-of-conservation"
     ]
 
     git_repos_chromium_googlesource = [
