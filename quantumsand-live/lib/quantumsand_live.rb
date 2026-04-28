@@ -4531,7 +4531,8 @@ class QuantumsandLive
       "cutting-room-floor/projectmill",
       "ahujasid/blender-mcp",
       "nico-martin/gemma4-browser-extension",
-      "mmontag/chip-player-js"
+      "mmontag/chip-player-js",
+      "libxmp/libxmp"
     ]
 
     git_repos_chromium_googlesource = [
