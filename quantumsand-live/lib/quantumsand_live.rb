@@ -4516,7 +4516,8 @@ class QuantumsandLive
       "vuejs/vuex",
       "unepwcmc/future-of-conservation",
       "paper-trail-gem/paper_trail",
-      "unepwcmc/collated-areas"
+      "unepwcmc/collated-areas",
+      "unepwcmc/bip"
     ]
 
     git_repos_chromium_googlesource = [
