@@ -4497,7 +4497,8 @@ class QuantumsandLive
       "torrust/torrust-tracker",
       "torrust/torrust-demo",
       "myriadrf/LimeSDR-Micro",
-      "stratis-storage/stratis-cli"
+      "stratis-storage/stratis-cli",
+      "stratis-storage/stratisd"
     ]
 
     git_repos_chromium_googlesource = [
