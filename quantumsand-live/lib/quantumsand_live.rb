@@ -4532,7 +4532,8 @@ class QuantumsandLive
       "ahujasid/blender-mcp",
       "nico-martin/gemma4-browser-extension",
       "mmontag/chip-player-js",
-      "libxmp/libxmp"
+      "libxmp/libxmp",
+      "Osmose/moseamp"
     ]
 
     git_repos_chromium_googlesource = [
