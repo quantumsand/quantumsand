@@ -4577,7 +4577,8 @@ class QuantumsandLive
     git_repos_libreoffice_org = [
       "core",
       "dictionaries",
-      "help"
+      "help",
+      "translations"
     ]
 
     git_repos_osmocom_org_gitea = [
