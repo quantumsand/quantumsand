@@ -4525,7 +4525,8 @@ class QuantumsandLive
       "unepwcmc/post-2020-timeline",
       "unepwcmc/ORS-API",
       "unepwcmc/ORS",
-      "unepwcmc/BlueForests"
+      "unepwcmc/BlueForests",
+      "unepwcmc/BlueCarbonMobileNext"
     ]
 
     git_repos_chromium_googlesource = [
