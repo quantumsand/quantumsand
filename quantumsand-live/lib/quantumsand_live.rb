@@ -4496,7 +4496,8 @@ class QuantumsandLive
       "ikatson/librqbit-dualstack-sockets",
       "torrust/torrust-tracker",
       "torrust/torrust-demo",
-      "myriadrf/LimeSDR-Micro"
+      "myriadrf/LimeSDR-Micro",
+      "stratis-storage/stratis-cli"
     ]
 
     git_repos_chromium_googlesource = [
