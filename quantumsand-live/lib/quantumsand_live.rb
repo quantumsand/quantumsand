@@ -4529,7 +4529,8 @@ class QuantumsandLive
       "unepwcmc/BlueCarbonMobileNext",
       "tilemill-project/tilemill",
       "cutting-room-floor/projectmill",
-      "ahujasid/blender-mcp"
+      "ahujasid/blender-mcp",
+      "nico-martin/gemma4-browser-extension"
     ]
 
     git_repos_chromium_googlesource = [
