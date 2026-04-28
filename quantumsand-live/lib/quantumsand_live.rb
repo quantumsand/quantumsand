@@ -4517,7 +4517,8 @@ class QuantumsandLive
       "unepwcmc/future-of-conservation",
       "paper-trail-gem/paper_trail",
       "unepwcmc/collated-areas",
-      "unepwcmc/bip"
+      "unepwcmc/bip",
+      "unepwcmc/protectedplanet-frontend"
     ]
 
     git_repos_chromium_googlesource = [
