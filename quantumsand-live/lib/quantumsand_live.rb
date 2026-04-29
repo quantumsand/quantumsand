@@ -4540,7 +4540,8 @@ class QuantumsandLive
       "scopewu/qrcode.vue",
       "ValveSoftware/GameNetworkingSockets",
       "meteor/meteor",
-      "kanriapp/kanri"
+      "kanriapp/kanri",
+      "pgbackrest/pgbackrest"
     ]
 
     git_repos_chromium_googlesource = [
