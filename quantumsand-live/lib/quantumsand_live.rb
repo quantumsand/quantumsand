@@ -4538,7 +4538,8 @@ class QuantumsandLive
       "metafloor/bwip-js",
       "Vanilagy/mediabunny",
       "scopewu/qrcode.vue",
-      "ValveSoftware/GameNetworkingSockets"
+      "ValveSoftware/GameNetworkingSockets",
+      "meteor/meteor"
     ]
 
     git_repos_chromium_googlesource = [
