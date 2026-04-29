@@ -4537,7 +4537,8 @@ class QuantumsandLive
       "web-infra-dev/rspack",
       "metafloor/bwip-js",
       "Vanilagy/mediabunny",
-      "scopewu/qrcode.vue"
+      "scopewu/qrcode.vue",
+      "ValveSoftware/GameNetworkingSockets"
     ]
 
     git_repos_chromium_googlesource = [
