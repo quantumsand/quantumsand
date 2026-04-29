@@ -4539,7 +4539,8 @@ class QuantumsandLive
       "Vanilagy/mediabunny",
       "scopewu/qrcode.vue",
       "ValveSoftware/GameNetworkingSockets",
-      "meteor/meteor"
+      "meteor/meteor",
+      "kanriapp/kanri"
     ]
 
     git_repos_chromium_googlesource = [
