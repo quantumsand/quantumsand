@@ -4541,7 +4541,8 @@ class QuantumsandLive
       "ValveSoftware/GameNetworkingSockets",
       "meteor/meteor",
       "kanriapp/kanri",
-      "pgbackrest/pgbackrest"
+      "pgbackrest/pgbackrest",
+      "warpdotdev/warp"
     ]
 
     git_repos_chromium_googlesource = [
