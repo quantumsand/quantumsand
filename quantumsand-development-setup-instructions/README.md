@@ -33,6 +33,13 @@ This means that development of each component can be done on all three of these 
 * Install LibreOffice; for macOS (Apple Silicon); make sure it is the arm64 (aarch64) dmg.
 * Install Audacity; for macOS (Apple Silicon); make sure it is the arm64 dmg.
 * Install Audacious; `brew install audacious`
+* Install Kanri; `brew install kanriapp/cask/kanri`
+* When you try to open Kanri you might see this message:
+```
+“kanri” is damaged and can’t be opened. You should move it to the Bin.
+```
+* Run this command; `xattr -cr /Applications/kanri.app`
+* Kanri should run fine now with no problems.
 * Install Visual Studio Code (Apple Silicon); make sure it is the arm64 dmg.
 * Configure the path with VS Code; Launch VS Code; Open the Command Palette (Cmd+Shift+P); Type 'shell command'; Run the Shell Command: Install 'code' command in PATH command.
 * Generate a new SSH key; if you do not have one already; `ssh-keygen -t ed25519 -C "your_email@example.com"`
