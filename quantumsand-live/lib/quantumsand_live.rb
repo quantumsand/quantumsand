@@ -6402,7 +6402,8 @@ class QuantumsandLive
       "games/kretro",
       "games/kreversi",
       "games/kshisen",
-      "games/ksirk"
+      "games/ksirk",
+      "games/ksnakeduel"
     ]
 
     git_repos_ffmpeg_org = [
