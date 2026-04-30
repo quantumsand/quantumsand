@@ -4509,7 +4509,8 @@ class QuantumsandLive
       "babbel/puma-plugin-telemetry",
       "ylecuyer/puma-status",
       "armory3d/armory",
-      "armory3d/Kha"
+      "armory3d/Kha",
+      "armory3d/khamake"
     ]
 
     @git_repos_chromium_googlesource = [
