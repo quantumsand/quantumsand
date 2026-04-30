@@ -6427,7 +6427,8 @@ class QuantumsandLive
       "sysadmin/bugzilla-bot",
       "sysadmin/ci-management",
       "sysadmin/ci-notary-service",
-      "sysadmin/ci-service-templates"
+      "sysadmin/ci-service-templates",
+      "sysadmin/ci-utilities"
     ]
 
     git_repos_ffmpeg_org = [
