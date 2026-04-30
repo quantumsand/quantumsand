@@ -6414,7 +6414,8 @@ class QuantumsandLive
       "games/lskat",
       "games/mankalaengine",
       "games/palapeli",
-      "games/picmi"
+      "games/picmi",
+      "games/pumoku"
     ]
 
     git_repos_ffmpeg_org = [
