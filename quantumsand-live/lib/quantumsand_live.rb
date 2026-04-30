@@ -6429,7 +6429,8 @@ class QuantumsandLive
       "sysadmin/ci-notary-service",
       "sysadmin/ci-service-templates",
       "sysadmin/ci-utilities",
-      "sysadmin/craft-ci"
+      "sysadmin/craft-ci",
+      "sysadmin/dns"
     ]
 
     git_repos_ffmpeg_org = [
