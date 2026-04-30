@@ -1,132 +1,74 @@
 class QuantumsandLive
-  def self.build
-    puts "QuantumsandLive.build"
-    puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
-    sudo_password = STDIN.noecho(&:gets).chomp
-    dirpath = "/mnt/gentoo"
 
-    gentoo_use_flags = %w(kde gnome gtk gtk3 gtk4 plymouth wallpapers wacom networkmanager smart
-                          accessibility bluetooth crypt cups discover flatpak oxygen-theme
-                          grub webengine systemd sdk rdp pulseaudio elogind browser-integration
-                          crash-handler display-manager wifi wayland openh264 libproxy jpegxl
-                          jack hwaccel gnome-shell eme-free dbus telemetry system-av1
-                          system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
-                          system-webp gmp-autoupdate clang classic extra extras python python3_13
-                          offlinehelp stun debug full-xml sip sqlite zlib bullet color-management
-                          cycles cycles-bin-kernels embree ffmpeg fftw fluid gmp jemalloc manifold
-                          nanovdb oidn openexr opengl openmp openpgl opensubdiv openvdb otf
-                          pdf potrace pugixml sndfile tbb tiff truetype webp alembic collada
-                          cuda doc experimental hip jpeg2k man ndof nls oneapi openal optix
-                          osl pipewire renderdoc sdl test gstreamer vulkan postgres qt6 pdfimport
-                          hangouts proprietary-codecs rar screencast system-png system-zstd vaapi
-                          widevine bindist bundled-toolchain custom-cflags ffmpeg-chromium kerberos
-                          dav1d fontconfig gnutls gpl libass postproc xml alsa amf amr amrenc appkit
-                          bluray bs2b bzip2 cdio chromaprint chromium codec2 dvd fdk flite frei0r
-                          fribidi gcrypt gme gsm iec61883 ieee1394 kvazaar ladspa lame lcms libaom
-                          libaribb24 libcaca libilbc liblc3 libplacebo librtmp libsoxr libtesseract
-                          lv2 lzma modplug npp nvenc opencl openmpt openssl opus qrcode qsv quirc
-                          rabbitmq rav1e rubberband samba shaderc snappy sndio soc speex srt ssh
-                          svg svt-av1 theora twolame v4l vdpau verify-sig vidstab vmaf vorbis
-                          vpx x264 x265 xvid zeromq zimg zvbi pax-kernel pgo base zeroconf
-                          events-handlers-exec security xinetd ipv6 gssapi ssl berkdb examples
-                          gdbm jit socks5 systemtap aio curl fdt jpeg oss pin-upstream-blobs png
-                          seccomp slirp vhost-net vnc bpf capstone fuse glusterfs infiniband
-                          io-uring iscsi keyutils lzo multipath ncurses nfs numa pam plugins rbd
-                          sasl sdl-image smartcard spice udev usb usbredir vde virgl virtfs xattr
-                          xdp xen zstd tcmalloc icons icu lz4 readline server uring ldap llvm
-                          oauth perl static-libs tcl uuid address-standardizer topology postgres17
-                          analog audio channels ctrlport digital dtv fec filter grc iio modtool
-                          network performance-counters soapy trellis uhd utils vocoder wavelet
-                          portaudio airspy bladerf hackrf iqbalance rtlsdr sdrplay xtrx lua5-4
-                          luajit 3d georeferencer grass hdf5 mapserver netcdf pdal qml debugger
-                          nsight profiler rdma sanitizer vis-profiler egl addressbook imagemagick
-                          lensfun panorama semantic-desktop video calendar geolocation gphoto2
-                          heif scanner spell container-init overlay2 apparmor btrfs media
-                          mypaint-brush-engine xsimd gif gsl raw aalib aqua fits javascript lua
-                          mng postscript unwind vala valadoc vector-icons wmf xpm cdr dia inkjar
-                          sourceview svg2 visio wpg exif graphicsmagick build symlink firmware
-                          jumbo-build system-pipewire valgrind wasm-sandbox abseil test-helpers
-                          dvbpsi encode gui libsamplerate a52 aom archive aribsub bidi cddb
-                          chromecast dc1394 dts faad flac fluidsynth kate keyring libnotify libtar
-                          libtiger linsys lirc live loudness mad matroska mp3 mpeg mtp musepack
-                          ogg omxil optimisememory projectm sftp shout sid skins soxr taglib tremor
-                          upnp kpoll odbc sctp captcha redis roster-gw ptp caps introspection
-                          raycast tools speech coinmp odk smi suid capinfos captype dftest
-                          dumpcap editcap filecaps mergecap minizip netlink pcap randpkt randpktdump
-                          reordercap sharkd text2pcap tshark udpdump androiddump bcg729 brotli
-                          ciscodump dpauxmon http2 http3 ilbc libxml2 maxminddb sbc sdjournal spandsp
-                          sshdump tfshark nse libssh2 ncat ndiff nping zenmap browser decklink mpegts
-                          test-input vlc websocket test-install clamapp system-mspack clamdtop clamonacc
-                          clamsubmit iconv libclamav-only metadata-analysis-api milter rootfs dist-kernel
-                          kernel-builtin split-usr test-suite pie development nexpose asimage cudnn
-                          davix fortran gdml http jupyter libcxx minuit pythia8 R roofit root7 shadow
-                          tmva unuran vc xrootd graphviz mpi training opencv rtaudio rubberband vidstab
-                          xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack excel
-                          webagg cairo latex dvb tracer ocamlopt portmixer audiocom id3tag mpg123
-                          sbsms vamp libgig soundio stk vst designer handbook policykit editor image mpd
-                          remote-fs search upower cjk context games graphics humanities luatex metapost
-                          music pdfannotextractor pstricks publishers science tex4ht texi2html xetex
-                          -branding -java).join(' ')
-    puts "Gentoo USE flags: #{gentoo_use_flags}"
+  def initialize
+    puts "Initializing Quantum Sand Live..."
 
-    # Gentoo common flags
-    gentoo_cf_intel_alder_lake = "-march=alderlake -O2 -pipe"
-    gentoo_cf_intel_skylake = "-march=skylake -O2 -pipe"
-    gentoo_cf_intel_broadwell = "-march=broadwell -O2 -pipe"
-    gentoo_cf_intel_haswell = "-march=haswell -O2 -pipe"
-    gentoo_cf_intel_ivybridge_i3i5i7 = "-march=ivybridge -O2 -pipe"
-    gentoo_cf_intel_ivybridge_pentium = "-march=ivybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
-    gentoo_cf_intel_sandybridge_i3i5i7 = "-march=sandybridge -O2 -pipe"
-    gentoo_cf_intel_sandybridge_pentium = "-march=sandybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
-    gentoo_cf_intel_nehalem = "-march=nehalem -O2 -pipe"
-    gentoo_cf_intel_westmere = "-march=westmere -O2 -pipe"
-    gentoo_cf_intel_intel_core = "-march=core2 -O2 -pipe"
-    gentoo_cf_amd_ryzen_1000_2000 = "-O2 -march=znver1 -pipe"
-    gentoo_cf_amd_ryzen_3000_4000_5000 = "-O2 -march=znver2 -pipe"
-    gentoo_cf_amd_ryzen_5000 = "-O2 -march=znver3 -pipe"
-    gentoo_cf_amd_ryzen_7xx0 = "-O2 -march=znver4 -pipe"
-    gentoo_cf_amd_ryzen_AI300_9000 = "-O2 -march=znver5 -pipe"
-    gentoo_cf_risc_v = "-march=rv64imafdc_zicsr_zba_zbb -mcpu=sifive-u74 -mtune=sifive-7-series -O2 -pipe"
+    @git_repos_path = ENV.fetch("GIT_REPOS_PATH")
+    
+    @git_repos_github_url = ENV.fetch("GIT_REPOS_GITHUB_URL")
+    @git_repos_chromium_googlesource_url = ENV.fetch("GIT_REPOS_CHROMIUM_GOOGLESOURCE_URL")
+    @git_repos_gn_googlesource_url = ENV.fetch("GIT_REPOS_GN_GOOGLESOURCE_URL")
+    @git_repos_aomedia_googlesource_url = ENV.fetch("GIT_REPOS_AOMEDIA_GOOGLESOURCE_URL")
+    @git_repos_webrtc_googlesource_url = ENV.fetch("GIT_REPOS_WEBRTC_GOOGLESOURCE_URL")
+    @git_repos_go_googlesource_url = ENV.fetch("GIT_REPOS_GO_GOOGLESOURCE_URL")
+    @git_repos_skia_googlesource_url = ENV.fetch("GIT_REPOS_SKIA_GOOGLESOURCE_URL")
+    @git_repos_android_googlesource_url = ENV.fetch("GIT_REPOS_ANDROID_GOOGLESOURCE_URL")
+    @git_repos_huggingface_co_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_URL")
+    @git_repos_libreoffice_org_url = ENV.fetch("GIT_REPOS_LIBREOFFICE_ORG_URL")
+    @git_repos_osmocom_org_url = ENV.fetch("GIT_REPOS_OSMOCOM_ORG_URL")
+    @git_repos_satdump_org_url = ENV.fetch("GIT_REPOS_SATDUMP_ORG_URL")
+    @git_repos_openembedded_org_url = ENV.fetch("GIT_REPOS_OPENEMBEDDED_ORG_URL")
+    @git_repos_m_labs_hk_url = ENV.fetch("GIT_REPOS_M_LABS_HK_URL")
+    @git_repos_eden_emu_dev_url = ENV.fetch("GIT_REPOS_EDEN_EMU_DEV_URL")
+    @git_repos_zx2c4_com_url = ENV.fetch("GIT_REPOS_ZX2C4_COM_URL")
+    @git_repos_labs_etsi_org_url = ENV.fetch("GIT_REPOS_LABS_ETSI_ORG_URL")
+    @git_repos_forge_etsi_org_url = ENV.fetch("GIT_REPOS_FORGE_ETSI_ORG_URL")
+    @git_repos_pagure_io_url = ENV.fetch("GIT_REPOS_PAGURE_IO_URL")
+    @git_repos_0pointer_de_url = ENV.fetch("GIT_REPOS_0POINTER_DE_URL")
+    @git_repos_eurecom_fr_url = ENV.fetch("GIT_REPOS_EURECOM_FR_URL")
+    @git_repos_zapb_de_url = ENV.fetch("GIT_REPOS_ZAPB_DE_URL")
+    @git_repos_inria_fr_url = ENV.fetch("GIT_REPOS_INRIA_FR_URL")
+    @git_repos_winehq_org_url = ENV.fetch("GIT_REPOS_WINEHQ_ORG_URL")
+    @git_repos_netfilter_org_url = ENV.fetch("GIT_REPOS_NETFILTER_ORG_URL")
+    @git_repos_dev_gnupg_org_url = ENV.fetch("GIT_REPOS_DEV_GNUPG_ORG_URL")
+    @git_repos_haskell_org_url = ENV.fetch("GIT_REPOS_HASKELL_ORG_URL")
+    @git_repos_skewed_de_url = ENV.fetch("GIT_REPOS_SKEWED_DE_URL")
+    @git_repos_code_qt_io_url = ENV.fetch("GIT_REPOS_CODE_QT_IO_URL")
+    @git_repos_kernel_org_url = ENV.fetch("GIT_REPOS_KERNEL_ORG_URL")
+    @git_repos_isc_org_url = ENV.fetch("GIT_REPOS_ISC_ORG_URL")
+    @git_repos_eclipse_org_url = ENV.fetch("GIT_REPOS_ECLIPSE_ORG_URL")
+    @git_repos_sourceware_org_url = ENV.fetch("GIT_REPOS_SOURCEWARE_ORG_URL")
+    @git_repos_libssh_org_url = ENV.fetch("GIT_REPOS_LIBSSH_ORG_URL")
+    @git_repos_gcc_gnu_org_url = ENV.fetch("GIT_REPOS_GCC_GNU_ORG_URL")
+    @git_repos_savannah_gnu_org_url = ENV.fetch("GIT_REPOS_SAVANNAH_GNU_ORG_URL")
+    @git_repos_savannah_nongnu_org_url = ENV.fetch("GIT_REPOS_SAVANNAH_NONGNU_ORG_URL")
+    @git_repos_gnu_org_ua_url = ENV.fetch("GIT_REPOS_GNU_ORG_UA_URL")
+    @git_repos_open_mesh_org_url = ENV.fetch("GIT_REPOS_OPEN_MESH_ORG_URL")
+    @git_repos_git_sr_html_url = ENV.fetch("GIT_REPOS_GIT_SR_HTML_URL")
+    @git_repos_review_haiku_os_org_url = ENV.fetch("GIT_REPOS_REVIEW_HAIKU_OS_ORG_URL")
+    @git_repos_deuxfleurs_fr_url = ENV.fetch("GIT_REPOS_DEUXFLEURS_FR_URL")
+    @git_repos_gitlab_url = ENV.fetch("GIT_REPOS_GITLAB_URL")
+    @git_repos_freedesktop_url = ENV.fetch("GIT_REPOS_FREEDESKTOP_URL")
+    @git_repos_xfce_url = ENV.fetch("GIT_REPOS_XFCE_URL")
+    @git_repos_kitware_url = ENV.fetch("GIT_REPOS_KITWARE_URL")
+    @git_repos_code_videolan_org_url = ENV.fetch("GIT_REPOS_CODE_VIDEOLAN_ORG_URL")
+    @git_repos_xiph_org_url = ENV.fetch("GIT_REPOS_XIPH_ORG_URL")
+    @git_repos_bitbucket_org_url = ENV.fetch("GIT_REPOS_BITBUCKET_ORG_URL")
+    @git_repos_einval_com_url = ENV.fetch("GIT_REPOS_EINVAL_COM_URL")
+    @git_repos_redox_os_url = ENV.fetch("GIT_REPOS_REDOX_OS_URL")
+    @git_repos_freebsd_org_url = ENV.fetch("GIT_REPOS_FREEBSD_ORG_URL")
+    @git_repos_gnome_url = ENV.fetch("GIT_REPOS_GNOME_URL")
+    @git_repos_postgresql_org_url = ENV.fetch("GIT_REPOS_POSTGRESQL_ORG_URL")
+    @git_repos_osgeo_url = ENV.fetch("GIT_REPOS_OSGEO_URL")
+    @git_repos_codeberg_url = ENV.fetch("GIT_REPOS_CODEBERG_URL")
+    @git_repos_kde_invent_url = ENV.fetch("GIT_REPOS_KDE_INVENT_URL")
+    @git_repos_ffmpeg_org_url = ENV.fetch("GIT_REPOS_FFMPEG_ORG_URL")
+    @git_repos_projects_blender_url = ENV.fetch("GIT_REPOS_PROJECTS_BLENDER_URL")
+    @git_repos_code_sf_net_url = ENV.fetch("GIT_REPOS_CODE_SF_NET_URL")
+    @git_repos_salsa_debian_org_url = ENV.fetch("GIT_REPOS_SALSA_DEBIAN_ORG_URL")
+    @git_repos_gentoo_org_url = ENV.fetch("GIT_REPOS_GENTOO_ORG_URL")
 
-    # unverified; need to test; AYANEO Pocket DS (Qualcomm Snapdragon G3x Gen 2; ARMv8-A Kryo)
-    gentoo_cf_arm64_armv8_a_kryo = "-march=armv8-a -mcpu=cortex-a77 -mtune=cortex-a77 -mfloat-abi=hard -mfpu=neon-fp-armv8 -mneon-for-64bits -O3 -flto"
-
-    gentoo_common_flags = {
-      gentoo_cf_intel_alder_lake: gentoo_cf_intel_alder_lake,
-      gentoo_cf_intel_skylake: gentoo_cf_intel_skylake,
-      gentoo_cf_intel_broadwell: gentoo_cf_intel_broadwell,
-      gentoo_cf_intel_haswell: gentoo_cf_intel_haswell,
-      gentoo_cf_intel_ivybridge_i3i5i7: gentoo_cf_intel_ivybridge_i3i5i7,
-      gentoo_cf_intel_ivybridge_pentium: gentoo_cf_intel_ivybridge_pentium,
-      gentoo_cf_intel_sandybridge_i3i5i7: gentoo_cf_intel_sandybridge_i3i5i7,
-      gentoo_cf_intel_sandybridge_pentium: gentoo_cf_intel_sandybridge_pentium,
-      gentoo_cf_intel_nehalem: gentoo_cf_intel_nehalem,
-      gentoo_cf_intel_westmere: gentoo_cf_intel_westmere,
-      gentoo_cf_intel_intel_core: gentoo_cf_intel_intel_core,
-      gentoo_cf_amd_ryzen_1000_2000: gentoo_cf_amd_ryzen_1000_2000,
-      gentoo_cf_amd_ryzen_3000_4000_5000: gentoo_cf_amd_ryzen_3000_4000_5000,
-      gentoo_cf_amd_ryzen_5000: gentoo_cf_amd_ryzen_5000,
-      gentoo_cf_amd_ryzen_7xx0: gentoo_cf_amd_ryzen_7xx0,
-      gentoo_cf_amd_ryzen_AI300_9000: gentoo_cf_amd_ryzen_AI300_9000,
-      gentoo_cf_risc_v: gentoo_cf_risc_v,
-      gentoo_cf_arm64_armv8_a_kryo: gentoo_cf_arm64_armv8_a_kryo
-    }
-
-    gentoo_c_flags   = gentoo_common_flags
-    gentoo_cxx_flags = gentoo_common_flags
-
-    puts "Gentoo C flags: #{gentoo_c_flags} and CXX flags: #{gentoo_cxx_flags}"
-
-    gentoo_input_devices = %w("wacom libinput").join(' ')
-    puts "Gentoo INPUT_DEVICES: #{gentoo_input_devices}"
-
-    gentoo_accept_license = %Q("*")
-    puts "Gentoo accept all licenses on all packages; ACCEPT_LICENSE=#{gentoo_accept_license}"
-
-    gentoo_l10n = %Q("*")
-    puts "Gentoo all available locales are built and installed: L10N=#{gentoo_l10n}"
-
-    git_repos_github = [
+    @git_repos_github = [
       "linuxwacom/wacom-hid-descriptors",
       "google/oss-rebuild",
       "googlefonts/googlesans-code",
@@ -4552,7 +4494,7 @@ class QuantumsandLive
       "bkeepers/dotenv"
     ]
 
-    git_repos_chromium_googlesource = [
+    @git_repos_chromium_googlesource = [
       "chromium/src",
       "v8/v8",
       "chromium/tools/chrome-devtools-frontend",
@@ -4567,32 +4509,32 @@ class QuantumsandLive
       "chromium/tools/depot_tools"
     ]
 
-    git_repos_gn_googlesource = [
+    @git_repos_gn_googlesource = [
       "gn"
     ]
 
-    git_repos_aomedia_googlesource = [
+    @git_repos_aomedia_googlesource = [
       "aom"
     ]
 
-    git_repos_webrtc_googlesource = [
+    @git_repos_webrtc_googlesource = [
       "src"
     ]
 
-    git_repos_go_googlesource = [
+    @git_repos_go_googlesource = [
       "time",
       "go"
     ]
 
-    git_repos_skia_googlesource = [
+    @git_repos_skia_googlesource = [
       "skia"
     ]
 
-    git_repos_android_googlesource = [
+    @git_repos_android_googlesource = [
       "platform/external/libldac"
     ]
 
-    git_xet_hf_download_huggingface_co = [
+    @git_xet_hf_download_huggingface_co = [
       "opencv/qrcode_wechatqrcode",
       "miromind-ai/MiroThinker-v1.0-8B",
       "deepseek-ai/DeepSeek-Math-V2",
@@ -4622,14 +4564,14 @@ class QuantumsandLive
       "deepseek-ai/DeepSeek-V4-Flash-Base"
     ]
 
-    git_repos_libreoffice_org = [
+    @git_repos_libreoffice_org = [
       "core",
       "dictionaries",
       "help",
       "translations"
     ]
 
-    git_repos_osmocom_org_gitea = [
+    @git_repos_osmocom_org_gitea = [
       "ims-volte-vowifi/strongswan-epdg",
       "erlang/osmo-epdg",
       "cellular-infrastructure/osmo-gsm-tester",
@@ -4858,73 +4800,73 @@ class QuantumsandLive
       "laforge/osmo-gsm-shark"
     ]
 
-    git_repos_satdump_org_gitea = [
+    @git_repos_satdump_org_gitea = [
       "SatDump/Resources"
     ]
 
-    git_repos_openembedded_org = [
+    @git_repos_openembedded_org = [
       "bitbake",
       "openembedded-core",
       "openembedded-core-contrib"
     ]
 
-    git_repos_m_labs_hk = [
+    @git_repos_m_labs_hk = [
       "M-Labs/misoc",
       "M-Labs/migen"
     ]
 
-    git_repos_eden_emu_dev = [
+    @git_repos_eden_emu_dev = [
       "eden-emu/eden",
       "eden-emu/dynarmic",
       "eden-emu/libadrenotools"
     ]
 
-    git_repos_zx2c4_com = [
+    @git_repos_zx2c4_com = [
       "cgit",
       "wireguard-linux",
       "wireguard-go",
       "wireguard-tools"
     ]
 
-    git_repos_labs_etsi_org = [
+    @git_repos_labs_etsi_org = [
       "cti-tools/titan-test-system-framework"
     ]
 
-    git_repos_forge_etsi_org = [
+    @git_repos_forge_etsi_org = [
       "LIBS/LibCommon"
     ]
 
-    git_repos_pagure_io = [
+    @git_repos_pagure_io = [
       "libaio",
       "passwd"
     ]
 
-    git_repos_0pointer_de = [
+    @git_repos_0pointer_de = [
       "libasyncns"
     ]
 
-    git_repos_eurecom_fr_gitlab = [
+    @git_repos_eurecom_fr_gitlab = [
       "mosaic5g/flexric",
       "oai/cn5g/oai-cn5g-common-ci"
     ]
 
-    git_repos_zapb_de_gitlab = [
+    @git_repos_zapb_de_gitlab = [
       "libjaylink/libjaylink"
     ]
 
-    git_repos_inria_fr_gitlab = [
+    @git_repos_inria_fr_gitlab = [
       "mpc/mpc",
       "mpfr/mpfr"
     ]
 
-    git_repos_winehq_org_gitlab = [
+    @git_repos_winehq_org_gitlab = [
       "wine/wine",
       "wine/fontforge",
       "wine/vkd3d",
       "wine/wine-gecko"
     ]
 
-    git_repos_netfilter_org = [
+    @git_repos_netfilter_org = [
       "iptables",
       "libmnl",
       "ipset",
@@ -4933,7 +4875,7 @@ class QuantumsandLive
       "nftables"
     ]
 
-    git_repos_dev_gnupg_org = [
+    @git_repos_dev_gnupg_org = [
       "gnupg",
       "gpgme",
       "libassuan",
@@ -4944,15 +4886,15 @@ class QuantumsandLive
       "gpgme"
     ]
 
-    git_repos_haskell_org_gitlab = [
+    @git_repos_haskell_org_gitlab = [
       "ghc/ghc"
     ]
 
-    git_repos_skewed_de_gitlab = [
+    @git_repos_skewed_de_gitlab = [
       "count0/graph-tool"
     ]
 
-    git_repos_code_qt_io = [
+    @git_repos_code_qt_io = [
       "qt/qtwebengine",
       "qt/qtwayland",
       "qt/qtwebchannel",
@@ -4971,7 +4913,7 @@ class QuantumsandLive
       "qt/qtwebengine-chromium"
     ]
 
-    git_repos_kernel_org = [
+    @git_repos_kernel_org = [
       "bluetooth/bluez",
       "git/git",
       "network/connman/connman",
@@ -4998,18 +4940,18 @@ class QuantumsandLive
       "libs/ell/ell"
     ]
 
-    git_repos_isc_org_gitlab = [
+    @git_repos_isc_org_gitlab = [
       "isc-projects/bind9"
     ]
 
-    git_repos_eclipse_org_gitlab = [
+    @git_repos_eclipse_org_gitlab = [
       "eclipse/titan/titan.core",
       "eclipse/titan/titan.language-server",
       "eclipse/titan/titan.vs-code-extension",
       "eclipse/titan/titan.TestPorts.Common_Components.Abstract_Socket"
     ]
 
-    git_repos_sourceware_org = [
+    @git_repos_sourceware_org = [
       "binutils-gdb",
       "bzip2",
       "debugedit",
@@ -5019,16 +4961,16 @@ class QuantumsandLive
       "valgrind"
     ]
 
-    git_repos_libssh_org = [
+    @git_repos_libssh_org = [
       "projects/libssh"
     ]
 
-    git_repos_gcc_gnu_org = [
+    @git_repos_gcc_gnu_org = [
       "gcc",
       "gcc-wwwdocs"
     ]
 
-    git_repos_savannah_gnu_org = [
+    @git_repos_savannah_gnu_org = [
       "make",
       "emacs",
       "autoconf",
@@ -5066,41 +5008,41 @@ class QuantumsandLive
       "icoutils"
     ]
 
-    git_repos_savannah_nongnu_org = [
+    @git_repos_savannah_nongnu_org = [
       "ppl",
       "quilt"
     ]
 
-    git_repos_gnu_org_ua = [
+    @git_repos_gnu_org_ua = [
       "gdbm"
     ]
 
-    git_repos_open_mesh_org = [
+    @git_repos_open_mesh_org = [
       "batman-adv",
       "joker",
       "batctl",
       "alfred"
     ]
 
-    git_repos_git_sr_ht = [
+    @git_repos_git_sr_ht = [
       "~sircmpwn/scdoc",
       "~mulling/zssh",
       "~kerrick/ratatui_ruby",
       "~zanneth/hirogen"
     ]
 
-    git_repos_review_haiku_os_org = [
+    @git_repos_review_haiku_os_org = [
       "haiku",
       "buildtools",
       "jamfile-engine",
       "userguide"
     ]
 
-    git_repos_deuxfleurs_fr = [
+    @git_repos_deuxfleurs_fr = [
       "Deuxfleurs/garage"
     ]
 
-    git_repos_gitlab = [
+    @git_repos_gitlab = [
       "asus-linux/asusctl",
       "asus-linux/supergfxctl",
       "wireshark/wireshark",
@@ -5243,7 +5185,7 @@ class QuantumsandLive
       "saibatizoku/font8x8-rs"
     ]
 
-    git_repos_freedesktop_gitlab = [
+    @git_repos_freedesktop_gitlab = [
       "mesa/mesa",
       "wlroots/wlroots",
       "mesa/libdrm",
@@ -5348,7 +5290,7 @@ class QuantumsandLive
       "mobile-broadband/mobile-broadband.pages.freedesktop.org"
     ]
 
-    git_repos_xfce_gitlab = [
+    @git_repos_xfce_gitlab = [
       "xfce/xfwm4",
       "xfce/xfdesktop",
       "xfce/xfconf",
@@ -5428,7 +5370,7 @@ class QuantumsandLive
       "kelnos/xfwl4"
     ]
 
-    git_repos_kitware_gitlab = [
+    @git_repos_kitware_gitlab = [
       "cmake/cmake",
       "paraview/paraview",
       "vtk/vtk",
@@ -5447,13 +5389,13 @@ class QuantumsandLive
       "vtk/vtk-examples"
     ]
 
-    git_repos_code_videolan_org = [
+    @git_repos_code_videolan_org = [
       "videolan/vlc",
       "videolan/libbluray",
       "videolan/libdvdread"
     ]
 
-    git_repos_xiph_org_gitlab = [
+    @git_repos_xiph_org_gitlab = [
       "xiph/flac",
       "xiph/ogg",
       "xiph/theora",
@@ -5461,15 +5403,15 @@ class QuantumsandLive
       "xiph/opus"
     ]
 
-    git_repos_bitbucket_org = [
+    @git_repos_bitbucket_org = [
       "alekseyt/nunicode"
     ]
 
-    git_repos_einval_com = [
+    @git_repos_einval_com = [
       "abcde"
     ]
 
-    git_repos_redox_os_gitlab = [
+    @git_repos_redox_os_gitlab = [
       "redox-os/cookbook",
       "redox-os/redox",
       "redox-os/bootloader",
@@ -5712,11 +5654,11 @@ class QuantumsandLive
       "redox-os/winit"
     ]
 
-    git_repos_freebsd_org = [
+    @git_repos_freebsd_org = [
       "src"
     ]
 
-    git_repos_gnome_gitlab = [
+    @git_repos_gnome_gitlab = [
       "GNOME/vala",
       "GNOME/gimp",
       "GNOME/gtk",
@@ -5767,15 +5709,15 @@ class QuantumsandLive
       "GNOME/gnome-maps"
     ]
 
-    git_repos_postgresql_org = [
+    @git_repos_postgresql_org = [
       "postgresql"
     ]
 
-    git_repos_osgeo = [
+    @git_repos_osgeo = [
       "postgis/postgis"
     ]
 
-    git_repos_codeberg = [
+    @git_repos_codeberg = [
       "uzu/strudel",
       "chrisn/peaks.js",
       "chrisn/audiowaveform",
@@ -5796,7 +5738,7 @@ class QuantumsandLive
       "aryak/mozhi"
     ]
 
-    git_repos_kde_invent = [
+    @git_repos_kde_invent = [
       "sdk/kdesrc-build",
       "graphics/krita",
       "utilities/kirogi",
@@ -6449,11 +6391,11 @@ class QuantumsandLive
       "sysadmin/kde-ansible"
     ]
 
-    git_repos_ffmpeg_org = [
+    @git_repos_ffmpeg_org = [
       "ffmpeg"
     ]
 
-    git_repos_projects_blender = [
+    @git_repos_projects_blender = [
       "blender/blender",
       "blender/cycles",
       "blender/lib-source",
@@ -6559,7 +6501,7 @@ class QuantumsandLive
       "extensions/space_view3d_spacebar_menu"
     ]
 
-    git_repos_code_sf_net = [
+    @git_repos_code_sf_net = [
       "gnuplot/gnuplot-main",
       "maxima/code",
       "giflib/code",
@@ -6571,17 +6513,145 @@ class QuantumsandLive
       "gphoto/code"
     ]
 
-    git_repos_salsa_debian_org = [
+    @git_repos_salsa_debian_org = [
       "bod/help2man",
       "iso-codes-team/iso-codes"
     ]
 
-    git_repos_gentoo_org = [
+    @git_repos_gentoo_org = [
       "repo/gentoo",
       "proj/pax-utils",
       "proj/gentoolkit",
       "proj/portage-utils"
     ]
+  end
+
+  def self.build
+    puts "QuantumsandLive.build"
+    puts "Quantum Sand Live needs privileged access in order to format disks. Please enter your sudo password to continue."
+    sudo_password = STDIN.noecho(&:gets).chomp
+    dirpath = "/mnt/gentoo"
+
+    gentoo_use_flags = %w(kde gnome gtk gtk3 gtk4 plymouth wallpapers wacom networkmanager smart
+                          accessibility bluetooth crypt cups discover flatpak oxygen-theme
+                          grub webengine systemd sdk rdp pulseaudio elogind browser-integration
+                          crash-handler display-manager wifi wayland openh264 libproxy jpegxl
+                          jack hwaccel gnome-shell eme-free dbus telemetry system-av1
+                          system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
+                          system-webp gmp-autoupdate clang classic extra extras python python3_13
+                          offlinehelp stun debug full-xml sip sqlite zlib bullet color-management
+                          cycles cycles-bin-kernels embree ffmpeg fftw fluid gmp jemalloc manifold
+                          nanovdb oidn openexr opengl openmp openpgl opensubdiv openvdb otf
+                          pdf potrace pugixml sndfile tbb tiff truetype webp alembic collada
+                          cuda doc experimental hip jpeg2k man ndof nls oneapi openal optix
+                          osl pipewire renderdoc sdl test gstreamer vulkan postgres qt6 pdfimport
+                          hangouts proprietary-codecs rar screencast system-png system-zstd vaapi
+                          widevine bindist bundled-toolchain custom-cflags ffmpeg-chromium kerberos
+                          dav1d fontconfig gnutls gpl libass postproc xml alsa amf amr amrenc appkit
+                          bluray bs2b bzip2 cdio chromaprint chromium codec2 dvd fdk flite frei0r
+                          fribidi gcrypt gme gsm iec61883 ieee1394 kvazaar ladspa lame lcms libaom
+                          libaribb24 libcaca libilbc liblc3 libplacebo librtmp libsoxr libtesseract
+                          lv2 lzma modplug npp nvenc opencl openmpt openssl opus qrcode qsv quirc
+                          rabbitmq rav1e rubberband samba shaderc snappy sndio soc speex srt ssh
+                          svg svt-av1 theora twolame v4l vdpau verify-sig vidstab vmaf vorbis
+                          vpx x264 x265 xvid zeromq zimg zvbi pax-kernel pgo base zeroconf
+                          events-handlers-exec security xinetd ipv6 gssapi ssl berkdb examples
+                          gdbm jit socks5 systemtap aio curl fdt jpeg oss pin-upstream-blobs png
+                          seccomp slirp vhost-net vnc bpf capstone fuse glusterfs infiniband
+                          io-uring iscsi keyutils lzo multipath ncurses nfs numa pam plugins rbd
+                          sasl sdl-image smartcard spice udev usb usbredir vde virgl virtfs xattr
+                          xdp xen zstd tcmalloc icons icu lz4 readline server uring ldap llvm
+                          oauth perl static-libs tcl uuid address-standardizer topology postgres17
+                          analog audio channels ctrlport digital dtv fec filter grc iio modtool
+                          network performance-counters soapy trellis uhd utils vocoder wavelet
+                          portaudio airspy bladerf hackrf iqbalance rtlsdr sdrplay xtrx lua5-4
+                          luajit 3d georeferencer grass hdf5 mapserver netcdf pdal qml debugger
+                          nsight profiler rdma sanitizer vis-profiler egl addressbook imagemagick
+                          lensfun panorama semantic-desktop video calendar geolocation gphoto2
+                          heif scanner spell container-init overlay2 apparmor btrfs media
+                          mypaint-brush-engine xsimd gif gsl raw aalib aqua fits javascript lua
+                          mng postscript unwind vala valadoc vector-icons wmf xpm cdr dia inkjar
+                          sourceview svg2 visio wpg exif graphicsmagick build symlink firmware
+                          jumbo-build system-pipewire valgrind wasm-sandbox abseil test-helpers
+                          dvbpsi encode gui libsamplerate a52 aom archive aribsub bidi cddb
+                          chromecast dc1394 dts faad flac fluidsynth kate keyring libnotify libtar
+                          libtiger linsys lirc live loudness mad matroska mp3 mpeg mtp musepack
+                          ogg omxil optimisememory projectm sftp shout sid skins soxr taglib tremor
+                          upnp kpoll odbc sctp captcha redis roster-gw ptp caps introspection
+                          raycast tools speech coinmp odk smi suid capinfos captype dftest
+                          dumpcap editcap filecaps mergecap minizip netlink pcap randpkt randpktdump
+                          reordercap sharkd text2pcap tshark udpdump androiddump bcg729 brotli
+                          ciscodump dpauxmon http2 http3 ilbc libxml2 maxminddb sbc sdjournal spandsp
+                          sshdump tfshark nse libssh2 ncat ndiff nping zenmap browser decklink mpegts
+                          test-input vlc websocket test-install clamapp system-mspack clamdtop clamonacc
+                          clamsubmit iconv libclamav-only metadata-analysis-api milter rootfs dist-kernel
+                          kernel-builtin split-usr test-suite pie development nexpose asimage cudnn
+                          davix fortran gdml http jupyter libcxx minuit pythia8 R roofit root7 shadow
+                          tmva unuran vc xrootd graphviz mpi training opencv rtaudio rubberband vidstab
+                          xine aac ampache cdda cue mms scrobbler speedpitch streamtuner wavpack excel
+                          webagg cairo latex dvb tracer ocamlopt portmixer audiocom id3tag mpg123
+                          sbsms vamp libgig soundio stk vst designer handbook policykit editor image mpd
+                          remote-fs search upower cjk context games graphics humanities luatex metapost
+                          music pdfannotextractor pstricks publishers science tex4ht texi2html xetex
+                          -branding -java).join(' ')
+    puts "Gentoo USE flags: #{gentoo_use_flags}"
+
+    # Gentoo common flags
+    gentoo_cf_intel_alder_lake = "-march=alderlake -O2 -pipe"
+    gentoo_cf_intel_skylake = "-march=skylake -O2 -pipe"
+    gentoo_cf_intel_broadwell = "-march=broadwell -O2 -pipe"
+    gentoo_cf_intel_haswell = "-march=haswell -O2 -pipe"
+    gentoo_cf_intel_ivybridge_i3i5i7 = "-march=ivybridge -O2 -pipe"
+    gentoo_cf_intel_ivybridge_pentium = "-march=ivybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
+    gentoo_cf_intel_sandybridge_i3i5i7 = "-march=sandybridge -O2 -pipe"
+    gentoo_cf_intel_sandybridge_pentium = "-march=sandybridge -mno-avx -mno-aes -mno-rdrnd -O2 -pipe"
+    gentoo_cf_intel_nehalem = "-march=nehalem -O2 -pipe"
+    gentoo_cf_intel_westmere = "-march=westmere -O2 -pipe"
+    gentoo_cf_intel_intel_core = "-march=core2 -O2 -pipe"
+    gentoo_cf_amd_ryzen_1000_2000 = "-O2 -march=znver1 -pipe"
+    gentoo_cf_amd_ryzen_3000_4000_5000 = "-O2 -march=znver2 -pipe"
+    gentoo_cf_amd_ryzen_5000 = "-O2 -march=znver3 -pipe"
+    gentoo_cf_amd_ryzen_7xx0 = "-O2 -march=znver4 -pipe"
+    gentoo_cf_amd_ryzen_AI300_9000 = "-O2 -march=znver5 -pipe"
+    gentoo_cf_risc_v = "-march=rv64imafdc_zicsr_zba_zbb -mcpu=sifive-u74 -mtune=sifive-7-series -O2 -pipe"
+
+    # unverified; need to test; AYANEO Pocket DS (Qualcomm Snapdragon G3x Gen 2; ARMv8-A Kryo)
+    gentoo_cf_arm64_armv8_a_kryo = "-march=armv8-a -mcpu=cortex-a77 -mtune=cortex-a77 -mfloat-abi=hard -mfpu=neon-fp-armv8 -mneon-for-64bits -O3 -flto"
+
+    gentoo_common_flags = {
+      gentoo_cf_intel_alder_lake: gentoo_cf_intel_alder_lake,
+      gentoo_cf_intel_skylake: gentoo_cf_intel_skylake,
+      gentoo_cf_intel_broadwell: gentoo_cf_intel_broadwell,
+      gentoo_cf_intel_haswell: gentoo_cf_intel_haswell,
+      gentoo_cf_intel_ivybridge_i3i5i7: gentoo_cf_intel_ivybridge_i3i5i7,
+      gentoo_cf_intel_ivybridge_pentium: gentoo_cf_intel_ivybridge_pentium,
+      gentoo_cf_intel_sandybridge_i3i5i7: gentoo_cf_intel_sandybridge_i3i5i7,
+      gentoo_cf_intel_sandybridge_pentium: gentoo_cf_intel_sandybridge_pentium,
+      gentoo_cf_intel_nehalem: gentoo_cf_intel_nehalem,
+      gentoo_cf_intel_westmere: gentoo_cf_intel_westmere,
+      gentoo_cf_intel_intel_core: gentoo_cf_intel_intel_core,
+      gentoo_cf_amd_ryzen_1000_2000: gentoo_cf_amd_ryzen_1000_2000,
+      gentoo_cf_amd_ryzen_3000_4000_5000: gentoo_cf_amd_ryzen_3000_4000_5000,
+      gentoo_cf_amd_ryzen_5000: gentoo_cf_amd_ryzen_5000,
+      gentoo_cf_amd_ryzen_7xx0: gentoo_cf_amd_ryzen_7xx0,
+      gentoo_cf_amd_ryzen_AI300_9000: gentoo_cf_amd_ryzen_AI300_9000,
+      gentoo_cf_risc_v: gentoo_cf_risc_v,
+      gentoo_cf_arm64_armv8_a_kryo: gentoo_cf_arm64_armv8_a_kryo
+    }
+
+    gentoo_c_flags   = gentoo_common_flags
+    gentoo_cxx_flags = gentoo_common_flags
+
+    puts "Gentoo C flags: #{gentoo_c_flags} and CXX flags: #{gentoo_cxx_flags}"
+
+    gentoo_input_devices = %w("wacom libinput").join(' ')
+    puts "Gentoo INPUT_DEVICES: #{gentoo_input_devices}"
+
+    gentoo_accept_license = %Q("*")
+    puts "Gentoo accept all licenses on all packages; ACCEPT_LICENSE=#{gentoo_accept_license}"
+
+    gentoo_l10n = %Q("*")
+    puts "Gentoo all available locales are built and installed: L10N=#{gentoo_l10n}"
 
     fossil_repos_sqlite_org = [
       "src"
