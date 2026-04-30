@@ -4502,7 +4502,8 @@ class QuantumsandLive
       "pgRouting/pgRoutingLayer",
       "pgRouting/osm2pgrouting4qgis",
       "ffi/ffi",
-      "RobLoach/raylib-tileson"
+      "RobLoach/raylib-tileson",
+      "sparklemotion/nokogiri"
     ]
 
     @git_repos_chromium_googlesource = [
