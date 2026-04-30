@@ -4493,7 +4493,8 @@ class QuantumsandLive
       "ansible/vscode-ansible",
       "bkeepers/dotenv",
       "matz/spinel",
-      "raysan5/raylib"
+      "raysan5/raylib",
+      "vaiorabbit/raylib-bindings"
     ]
 
     @git_repos_chromium_googlesource = [
