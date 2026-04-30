@@ -6399,7 +6399,8 @@ class QuantumsandLive
       "games/kolorfill",
       "games/konquest",
       "games/kpat",
-      "games/kretro"
+      "games/kretro",
+      "games/kreversi"
     ]
 
     git_repos_ffmpeg_org = [
