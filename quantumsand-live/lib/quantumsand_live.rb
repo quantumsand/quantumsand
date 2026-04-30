@@ -6417,7 +6417,8 @@ class QuantumsandLive
       "games/picmi",
       "games/pumoku",
       "games/skladnik",
-      "accessibility/kmag"
+      "accessibility/kmag",
+      "accessibility/kmousetool"
     ]
 
     git_repos_ffmpeg_org = [
