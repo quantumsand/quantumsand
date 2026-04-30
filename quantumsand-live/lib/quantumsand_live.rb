@@ -4512,7 +4512,8 @@ class QuantumsandLive
       "armory3d/Kha",
       "armory3d/khamake",
       "Kode/khamake",
-      "armory3d/khacpp"
+      "armory3d/khacpp",
+      "Kode/khacpp"
     ]
 
     @git_repos_chromium_googlesource = [
