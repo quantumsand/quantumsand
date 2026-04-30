@@ -4497,7 +4497,8 @@ class QuantumsandLive
       "vaiorabbit/raylib-bindings",
       "raysan5/raygui",
       "raysan5/physac",
-      "SSBMTonberry/tileson"
+      "SSBMTonberry/tileson",
+      "pgRouting/osm2pgrouting"
     ]
 
     @git_repos_chromium_googlesource = [
