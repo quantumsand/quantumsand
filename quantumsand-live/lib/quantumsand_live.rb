@@ -6422,7 +6422,8 @@ class QuantumsandLive
       "accessibility/kmouth",
       "accessibility/kontrast",
       "sysadmin/activityfilter",
-      "sysadmin/ansible"
+      "sysadmin/ansible",
+      "sysadmin/appstream-metainfo-release-update"
     ]
 
     git_repos_ffmpeg_org = [
