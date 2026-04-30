@@ -6421,7 +6421,8 @@ class QuantumsandLive
       "accessibility/kmousetool",
       "accessibility/kmouth",
       "accessibility/kontrast",
-      "sysadmin/activityfilter"
+      "sysadmin/activityfilter",
+      "sysadmin/ansible"
     ]
 
     git_repos_ffmpeg_org = [
