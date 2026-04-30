@@ -6397,7 +6397,8 @@ class QuantumsandLive
       "games/kolf",
       "games/kollision",
       "games/kolorfill",
-      "games/konquest"
+      "games/konquest",
+      "games/kpat"
     ]
 
     git_repos_ffmpeg_org = [
