@@ -6420,7 +6420,8 @@ class QuantumsandLive
       "accessibility/kmag",
       "accessibility/kmousetool",
       "accessibility/kmouth",
-      "accessibility/kontrast"
+      "accessibility/kontrast",
+      "sysadmin/activityfilter"
     ]
 
     git_repos_ffmpeg_org = [
