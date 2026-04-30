@@ -6436,7 +6436,8 @@ class QuantumsandLive
       "sysadmin/gitlab-ldapsync",
       "sysadmin/gitlab-react",
       "sysadmin/gitlab-triaging",
-      "sysadmin/gitlab-vulnerability-issues"
+      "sysadmin/gitlab-vulnerability-issues",
+      "sysadmin/repo-metadata"
     ]
 
     git_repos_ffmpeg_org = [
