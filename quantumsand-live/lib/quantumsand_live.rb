@@ -4491,7 +4491,8 @@ class QuantumsandLive
       "ansible/awx-operator",
       "ansible/ansible-navigator",
       "ansible/vscode-ansible",
-      "bkeepers/dotenv"
+      "bkeepers/dotenv",
+      "matz/spinel"
     ]
 
     @git_repos_chromium_googlesource = [
