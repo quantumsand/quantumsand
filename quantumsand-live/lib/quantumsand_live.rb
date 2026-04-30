@@ -4518,7 +4518,8 @@ class QuantumsandLive
       "armory3d/KincTools_windows_x64",
       "armory3d/KincTools_macos",
       "Kode/Kore",
-      "Kode/Kha"
+      "Kode/Kha",
+      "Kode/krafix"
     ]
 
     @git_repos_chromium_googlesource = [
