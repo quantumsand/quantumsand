@@ -4520,7 +4520,8 @@ class QuantumsandLive
       "Kode/Kore",
       "Kode/Kha",
       "Kode/krafix",
-      "Kode/glslang"
+      "Kode/glslang",
+      "Kode/krafix_tests"
     ]
 
     @git_repos_chromium_googlesource = [
