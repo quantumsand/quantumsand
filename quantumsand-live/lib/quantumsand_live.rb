@@ -6407,7 +6407,8 @@ class QuantumsandLive
       "games/kspaceduel",
       "games/ksquares",
       "games/ksudoku",
-      "games/ktuberling"
+      "games/ktuberling",
+      "games/kubrick"
     ]
 
     git_repos_ffmpeg_org = [
