@@ -6431,7 +6431,8 @@ class QuantumsandLive
       "sysadmin/ci-utilities",
       "sysadmin/craft-ci",
       "sysadmin/dns",
-      "sysadmin/dummy"
+      "sysadmin/dummy",
+      "sysadmin/geoip-service-backend"
     ]
 
     git_repos_ffmpeg_org = [
