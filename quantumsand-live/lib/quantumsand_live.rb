@@ -4505,7 +4505,8 @@ class QuantumsandLive
       "RobLoach/raylib-tileson",
       "sparklemotion/nokogiri",
       "ruby/ipaddr",
-      "puma/puma"
+      "puma/puma",
+      "babbel/puma-plugin-telemetry"
     ]
 
     @git_repos_chromium_googlesource = [
