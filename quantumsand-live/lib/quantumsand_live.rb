@@ -4523,7 +4523,8 @@ class QuantumsandLive
       "Kode/glslang",
       "Kode/krafix_tests",
       "Kode/sourcemap.cpp",
-      "Kode/SPIRV-Cross"
+      "Kode/SPIRV-Cross",
+      "Kode/SPIRV-Tools"
     ]
 
     @git_repos_chromium_googlesource = [
