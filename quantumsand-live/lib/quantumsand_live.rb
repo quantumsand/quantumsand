@@ -4500,7 +4500,8 @@ class QuantumsandLive
       "SSBMTonberry/tileson",
       "pgRouting/osm2pgrouting",
       "pgRouting/pgRoutingLayer",
-      "pgRouting/osm2pgrouting4qgis"
+      "pgRouting/osm2pgrouting4qgis",
+      "ffi/ffi"
     ]
 
     @git_repos_chromium_googlesource = [
