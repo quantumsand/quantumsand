@@ -6433,7 +6433,8 @@ class QuantumsandLive
       "sysadmin/dns",
       "sysadmin/dummy",
       "sysadmin/geoip-service-backend",
-      "sysadmin/gitlab-ldapsync"
+      "sysadmin/gitlab-ldapsync",
+      "sysadmin/gitlab-react"
     ]
 
     git_repos_ffmpeg_org = [
