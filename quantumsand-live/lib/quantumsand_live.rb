@@ -6419,7 +6419,8 @@ class QuantumsandLive
       "games/skladnik",
       "accessibility/kmag",
       "accessibility/kmousetool",
-      "accessibility/kmouth"
+      "accessibility/kmouth",
+      "accessibility/kontrast"
     ]
 
     git_repos_ffmpeg_org = [
