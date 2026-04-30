@@ -4507,7 +4507,8 @@ class QuantumsandLive
       "ruby/ipaddr",
       "puma/puma",
       "babbel/puma-plugin-telemetry",
-      "ylecuyer/puma-status"
+      "ylecuyer/puma-status",
+      "armory3d/armory"
     ]
 
     @git_repos_chromium_googlesource = [
