@@ -4506,7 +4506,8 @@ class QuantumsandLive
       "sparklemotion/nokogiri",
       "ruby/ipaddr",
       "puma/puma",
-      "babbel/puma-plugin-telemetry"
+      "babbel/puma-plugin-telemetry",
+      "ylecuyer/puma-status"
     ]
 
     @git_repos_chromium_googlesource = [
