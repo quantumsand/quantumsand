@@ -4545,7 +4545,8 @@ class QuantumsandLive
       "warpdotdev/warp",
       "ansible/ansible",
       "ansible/awx",
-      "ansible/ansible-runner"
+      "ansible/ansible-runner",
+      "ansible/awx-operator"
     ]
 
     git_repos_chromium_googlesource = [
