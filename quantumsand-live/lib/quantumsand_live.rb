@@ -4504,7 +4504,8 @@ class QuantumsandLive
       "ffi/ffi",
       "RobLoach/raylib-tileson",
       "sparklemotion/nokogiri",
-      "ruby/ipaddr"
+      "ruby/ipaddr",
+      "puma/puma"
     ]
 
     @git_repos_chromium_googlesource = [
