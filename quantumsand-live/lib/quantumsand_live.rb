@@ -6425,7 +6425,8 @@ class QuantumsandLive
       "sysadmin/ansible",
       "sysadmin/appstream-metainfo-release-update",
       "sysadmin/bugzilla-bot",
-      "sysadmin/ci-management"
+      "sysadmin/ci-management",
+      "sysadmin/ci-notary-service"
     ]
 
     git_repos_ffmpeg_org = [
