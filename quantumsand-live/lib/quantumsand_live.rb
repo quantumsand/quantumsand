@@ -4495,7 +4495,8 @@ class QuantumsandLive
       "matz/spinel",
       "raysan5/raylib",
       "vaiorabbit/raylib-bindings",
-      "raysan5/raygui"
+      "raysan5/raygui",
+      "raysan5/physac"
     ]
 
     @git_repos_chromium_googlesource = [
