@@ -6426,7 +6426,8 @@ class QuantumsandLive
       "sysadmin/appstream-metainfo-release-update",
       "sysadmin/bugzilla-bot",
       "sysadmin/ci-management",
-      "sysadmin/ci-notary-service"
+      "sysadmin/ci-notary-service",
+      "sysadmin/ci-service-templates"
     ]
 
     git_repos_ffmpeg_org = [
