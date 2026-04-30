@@ -2,3 +2,4 @@
 *.gem
 stage3-*.tar.xz
 .byebug_history
+.env

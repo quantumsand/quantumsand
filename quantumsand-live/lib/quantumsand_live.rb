@@ -4548,7 +4548,8 @@ class QuantumsandLive
       "ansible/ansible-runner",
       "ansible/awx-operator",
       "ansible/ansible-navigator",
-      "ansible/vscode-ansible"
+      "ansible/vscode-ansible",
+      "bkeepers/dotenv"
     ]
 
     git_repos_chromium_googlesource = [
