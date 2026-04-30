@@ -4543,7 +4543,8 @@ class QuantumsandLive
       "kanriapp/kanri",
       "pgbackrest/pgbackrest",
       "warpdotdev/warp",
-      "ansible/ansible"
+      "ansible/ansible",
+      "ansible/awx"
     ]
 
     git_repos_chromium_googlesource = [
