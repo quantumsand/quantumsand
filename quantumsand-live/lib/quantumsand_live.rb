@@ -4546,7 +4546,8 @@ class QuantumsandLive
       "ansible/ansible",
       "ansible/awx",
       "ansible/ansible-runner",
-      "ansible/awx-operator"
+      "ansible/awx-operator",
+      "ansible/ansible-navigator"
     ]
 
     git_repos_chromium_googlesource = [
