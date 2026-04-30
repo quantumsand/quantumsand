@@ -4544,7 +4544,8 @@ class QuantumsandLive
       "pgbackrest/pgbackrest",
       "warpdotdev/warp",
       "ansible/ansible",
-      "ansible/awx"
+      "ansible/awx",
+      "ansible/ansible-runner"
     ]
 
     git_repos_chromium_googlesource = [
