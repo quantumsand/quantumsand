@@ -4547,7 +4547,8 @@ class QuantumsandLive
       "osmcode/experimental-osm-db",
       "pyrosm/pyrosm",
       "marook/osm-read",
-      "planas/pbf_parser"
+      "planas/pbf_parser",
+      "simplexspatial/osm4scala"
     ]
 
     @git_repos_chromium_googlesource = [
