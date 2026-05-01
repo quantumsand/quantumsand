@@ -4538,7 +4538,8 @@ class QuantumsandLive
       "osmcode/osm-area-tools",
       "osmcode/osmium-surplus",
       "osmcode/node-osmium",
-      "sparsehash/sparsehash"
+      "sparsehash/sparsehash",
+      "osmcode/osm-tags-transform"
     ]
 
     @git_repos_chromium_googlesource = [
