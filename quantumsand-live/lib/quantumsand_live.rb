@@ -4550,7 +4550,8 @@ class QuantumsandLive
       "planas/pbf_parser",
       "simplexspatial/osm4scala",
       "mapbox/pbf",
-      "mapbox/vector-tile-js"
+      "mapbox/vector-tile-js",
+      "mapbox/serialtiles-spec"
     ]
 
     @git_repos_chromium_googlesource = [
