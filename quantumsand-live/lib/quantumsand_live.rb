@@ -6463,7 +6463,8 @@ class QuantumsandLive
       "sysadmin/neon-openqa",
       "sysadmin/neon-sftp-bridge",
       "sysadmin/neon-tooling",
-      "sysadmin/projects-api"
+      "sysadmin/projects-api",
+      "sysadmin/rbot-plugin-kde-bugzilla"
     ]
 
     @git_repos_ffmpeg_org = [
