@@ -6461,7 +6461,8 @@ class QuantumsandLive
       "sysadmin/release-tools",
       "sysadmin/neon-appstream-extra-metainfo",
       "sysadmin/neon-openqa",
-      "sysadmin/neon-sftp-bridge"
+      "sysadmin/neon-sftp-bridge",
+      "sysadmin/neon-tooling"
     ]
 
     @git_repos_ffmpeg_org = [
