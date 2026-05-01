@@ -34,7 +34,7 @@ GIT_REPOS_PATH="~/Repos"
 GIT_REPOS_GITHUB_URL="https://github.com"
 ```
 
-Thanks to Claude Haiku 4.5; we can inject ENV vars from an `.env` into `irb` with command substitution like so;
+Thanks to Claude Haiku 4.5; we can inject ENV vars from the `.env` into `irb` with command substitution like so;
 `env $(cat .env) irb`
 
 ```
