@@ -4530,7 +4530,8 @@ class QuantumsandLive
       "scrosby/OSM-splitter",
       "hove-io/libosmpbfreader",
       "joto/osmium",
-      "osmcode/mercator-projection"
+      "osmcode/mercator-projection",
+      "joto/gdalcpp"
     ]
 
     @git_repos_chromium_googlesource = [
