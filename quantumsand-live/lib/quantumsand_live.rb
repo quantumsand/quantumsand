@@ -4527,7 +4527,8 @@ class QuantumsandLive
       "Kode/SPIRV-Tools",
       "Kode/SPIRV-Headers",
       "openstreetmap/OSM-binary",
-      "scrosby/OSM-splitter"
+      "scrosby/OSM-splitter",
+      "hove-io/libosmpbfreader"
     ]
 
     @git_repos_chromium_googlesource = [
