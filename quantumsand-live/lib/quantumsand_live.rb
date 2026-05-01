@@ -4529,7 +4529,8 @@ class QuantumsandLive
       "openstreetmap/OSM-binary",
       "scrosby/OSM-splitter",
       "hove-io/libosmpbfreader",
-      "joto/osmium"
+      "joto/osmium",
+      "osmcode/mercator-projection"
     ]
 
     @git_repos_chromium_googlesource = [
