@@ -6467,7 +6467,8 @@ class QuantumsandLive
       "sysadmin/projects-api",
       "sysadmin/rbot-plugin-kde-bugzilla",
       "sysadmin/rbot-plugin-kde-phabricator",
-      "sysadmin/release-keyring"
+      "sysadmin/release-keyring",
+      "sysadmin/repo-management"
     ]
 
     @git_repos_ffmpeg_org = [
