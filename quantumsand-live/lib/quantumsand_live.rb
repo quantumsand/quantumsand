@@ -4556,7 +4556,8 @@ class QuantumsandLive
       "pelias/pbf2json",
       "borisgontar/osm-pbf-parser-node",
       "tyrasd/tiny-osmpbf",
-      "woltapp/parallelpbf"
+      "woltapp/parallelpbf",
+      "qedus/osmpbf"
     ]
 
     @git_repos_chromium_googlesource = [
