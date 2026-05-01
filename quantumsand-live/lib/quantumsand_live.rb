@@ -4545,7 +4545,8 @@ class QuantumsandLive
       "osmcode/osm-data-model-tools",
       "osmcode/osm-data-anomaly-detection",
       "osmcode/experimental-osm-db",
-      "pyrosm/pyrosm"
+      "pyrosm/pyrosm",
+      "marook/osm-read"
     ]
 
     @git_repos_chromium_googlesource = [
