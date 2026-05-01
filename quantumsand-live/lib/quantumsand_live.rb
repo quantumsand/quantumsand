@@ -4552,7 +4552,8 @@ class QuantumsandLive
       "mapbox/pbf",
       "mapbox/vector-tile-js",
       "mapbox/serialtiles-spec",
-      "foliojs/tiny-inflate"
+      "foliojs/tiny-inflate",
+      "pelias/pbf2json"
     ]
 
     @git_repos_chromium_googlesource = [
