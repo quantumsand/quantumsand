@@ -6457,7 +6457,8 @@ class QuantumsandLive
       "sysadmin/gitlab-vulnerability-issues",
       "sysadmin/repo-metadata",
       "sysadmin/irc-notifications",
-      "sysadmin/kde-ansible"
+      "sysadmin/kde-ansible",
+      "sysadmin/release-tools"
     ]
 
     @git_repos_ffmpeg_org = [
