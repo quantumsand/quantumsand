@@ -4548,7 +4548,8 @@ class QuantumsandLive
       "pyrosm/pyrosm",
       "marook/osm-read",
       "planas/pbf_parser",
-      "simplexspatial/osm4scala"
+      "simplexspatial/osm4scala",
+      "mapbox/pbf"
     ]
 
     @git_repos_chromium_googlesource = [
