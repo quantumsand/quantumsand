@@ -4533,7 +4533,8 @@ class QuantumsandLive
       "osmcode/mercator-projection",
       "joto/gdalcpp",
       "osmcode/osm-gis-export",
-      "osmcode/osmium-proj"
+      "osmcode/osmium-proj",
+      "osmcode/osm-postgresql-experiments"
     ]
 
     @git_repos_chromium_googlesource = [
