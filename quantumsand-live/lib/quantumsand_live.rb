@@ -4557,7 +4557,8 @@ class QuantumsandLive
       "borisgontar/osm-pbf-parser-node",
       "tyrasd/tiny-osmpbf",
       "woltapp/parallelpbf",
-      "qedus/osmpbf"
+      "qedus/osmpbf",
+      "lc-dmx/osm-go"
     ]
 
     @git_repos_chromium_googlesource = [
