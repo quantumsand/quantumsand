@@ -4540,7 +4540,8 @@ class QuantumsandLive
       "osmcode/node-osmium",
       "sparsehash/sparsehash",
       "osmcode/osm-tags-transform",
-      "osmcode/osm-data-validation"
+      "osmcode/osm-data-validation",
+      "bfgroup/Lyra"
     ]
 
     @git_repos_chromium_googlesource = [
