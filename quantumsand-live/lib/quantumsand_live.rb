@@ -4549,7 +4549,8 @@ class QuantumsandLive
       "marook/osm-read",
       "planas/pbf_parser",
       "simplexspatial/osm4scala",
-      "mapbox/pbf"
+      "mapbox/pbf",
+      "mapbox/vector-tile-js"
     ]
 
     @git_repos_chromium_googlesource = [
