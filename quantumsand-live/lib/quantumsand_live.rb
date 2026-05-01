@@ -4525,7 +4525,8 @@ class QuantumsandLive
       "Kode/sourcemap.cpp",
       "Kode/SPIRV-Cross",
       "Kode/SPIRV-Tools",
-      "Kode/SPIRV-Headers"
+      "Kode/SPIRV-Headers",
+      "openstreetmap/OSM-binary"
     ]
 
     @git_repos_chromium_googlesource = [
