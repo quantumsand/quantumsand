@@ -4551,7 +4551,8 @@ class QuantumsandLive
       "simplexspatial/osm4scala",
       "mapbox/pbf",
       "mapbox/vector-tile-js",
-      "mapbox/serialtiles-spec"
+      "mapbox/serialtiles-spec",
+      "foliojs/tiny-inflate"
     ]
 
     @git_repos_chromium_googlesource = [
