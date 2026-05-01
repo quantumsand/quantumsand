@@ -6470,7 +6470,8 @@ class QuantumsandLive
       "sysadmin/release-keyring",
       "sysadmin/repo-management",
       "sysadmin/l10n-scripty",
-      "sysadmin/sentry-bugzilla-bridge"
+      "sysadmin/sentry-bugzilla-bridge",
+      "sysadmin/sysadmin-docs"
     ]
 
     @git_repos_ffmpeg_org = [
