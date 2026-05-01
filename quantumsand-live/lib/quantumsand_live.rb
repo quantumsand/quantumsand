@@ -6459,7 +6459,8 @@ class QuantumsandLive
       "sysadmin/irc-notifications",
       "sysadmin/kde-ansible",
       "sysadmin/release-tools",
-      "sysadmin/neon-appstream-extra-metainfo"
+      "sysadmin/neon-appstream-extra-metainfo",
+      "sysadmin/neon-openqa"
     ]
 
     @git_repos_ffmpeg_org = [
