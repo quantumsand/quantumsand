@@ -4546,7 +4546,8 @@ class QuantumsandLive
       "osmcode/osm-data-anomaly-detection",
       "osmcode/experimental-osm-db",
       "pyrosm/pyrosm",
-      "marook/osm-read"
+      "marook/osm-read",
+      "planas/pbf_parser"
     ]
 
     @git_repos_chromium_googlesource = [
