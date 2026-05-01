@@ -4555,7 +4555,8 @@ class QuantumsandLive
       "foliojs/tiny-inflate",
       "pelias/pbf2json",
       "borisgontar/osm-pbf-parser-node",
-      "tyrasd/tiny-osmpbf"
+      "tyrasd/tiny-osmpbf",
+      "woltapp/parallelpbf"
     ]
 
     @git_repos_chromium_googlesource = [
