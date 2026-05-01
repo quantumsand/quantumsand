@@ -4543,7 +4543,8 @@ class QuantumsandLive
       "osmcode/osm-data-validation",
       "bfgroup/Lyra",
       "osmcode/osm-data-model-tools",
-      "osmcode/osm-data-anomaly-detection"
+      "osmcode/osm-data-anomaly-detection",
+      "osmcode/experimental-osm-db"
     ]
 
     @git_repos_chromium_googlesource = [
