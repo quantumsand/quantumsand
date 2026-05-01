@@ -4537,7 +4537,8 @@ class QuantumsandLive
       "osmcode/osm-postgresql-experiments",
       "osmcode/osm-area-tools",
       "osmcode/osmium-surplus",
-      "osmcode/node-osmium"
+      "osmcode/node-osmium",
+      "sparsehash/sparsehash"
     ]
 
     @git_repos_chromium_googlesource = [
