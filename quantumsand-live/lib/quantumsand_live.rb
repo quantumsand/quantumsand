@@ -4554,7 +4554,8 @@ class QuantumsandLive
       "mapbox/serialtiles-spec",
       "foliojs/tiny-inflate",
       "pelias/pbf2json",
-      "borisgontar/osm-pbf-parser-node"
+      "borisgontar/osm-pbf-parser-node",
+      "tyrasd/tiny-osmpbf"
     ]
 
     @git_repos_chromium_googlesource = [
