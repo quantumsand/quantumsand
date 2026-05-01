@@ -6460,7 +6460,8 @@ class QuantumsandLive
       "sysadmin/kde-ansible",
       "sysadmin/release-tools",
       "sysadmin/neon-appstream-extra-metainfo",
-      "sysadmin/neon-openqa"
+      "sysadmin/neon-openqa",
+      "sysadmin/neon-sftp-bridge"
     ]
 
     @git_repos_ffmpeg_org = [
