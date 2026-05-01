@@ -4534,7 +4534,8 @@ class QuantumsandLive
       "joto/gdalcpp",
       "osmcode/osm-gis-export",
       "osmcode/osmium-proj",
-      "osmcode/osm-postgresql-experiments"
+      "osmcode/osm-postgresql-experiments",
+      "osmcode/osm-area-tools"
     ]
 
     @git_repos_chromium_googlesource = [
