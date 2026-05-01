@@ -4558,7 +4558,8 @@ class QuantumsandLive
       "tyrasd/tiny-osmpbf",
       "woltapp/parallelpbf",
       "qedus/osmpbf",
-      "lc-dmx/osm-go"
+      "lc-dmx/osm-go",
+      "mapbox/osmpbf-tutorial"
     ]
 
     @git_repos_chromium_googlesource = [
