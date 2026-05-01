@@ -27,6 +27,16 @@ Done installing documentation for quantumsand_live after 0 seconds
 1 gem installed
 ```
 
+For locally syncing git repositories, you need to have a `.env` with the urls. Similar to this:
+
+```sh
+GIT_REPOS_PATH="~/Repos"
+GIT_REPOS_GITHUB_URL="https://github.com"
+```
+
+Thanks to Claude Haiku 4.5; we can inject ENV vars from an `.env` into `irb` with command substitution like so;
+`env $(cat .env) irb`
+
 ```
 % irb
 3.3.0 :002 > require "quantumsand_live"
