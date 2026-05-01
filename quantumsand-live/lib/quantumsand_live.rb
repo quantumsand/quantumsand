@@ -6473,7 +6473,8 @@ class QuantumsandLive
       "sysadmin/sentry-bugzilla-bridge",
       "sysadmin/sysadmin-docs",
       "sysadmin/token-service",
-      "system/auto-chmod"
+      "system/auto-chmod",
+      "system/distro-release-notifier"
     ]
 
     @git_repos_ffmpeg_org = [
