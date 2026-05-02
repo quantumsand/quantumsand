@@ -4563,7 +4563,8 @@ class QuantumsandLive
       "b-r-u/osmpbf",
       "lostisland/faraday",
       "kmscon/kmscon",
-      "kmscon/libtsm"
+      "kmscon/libtsm",
+      "libcheck/check"
     ]
 
     @git_repos_chromium_googlesource = [
