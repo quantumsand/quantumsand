@@ -37,5 +37,6 @@ This will include:
 * SymPy
 * torrust-tracker (modern and feature-rich private BitTorrent tracker)
 * rqbit (bittorrent client in Rust)
+* Qiskit (for working with quantum computers)
 
 More to follow.
