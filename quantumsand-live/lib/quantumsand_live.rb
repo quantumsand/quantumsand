@@ -4562,7 +4562,8 @@ class QuantumsandLive
       "mapbox/osmpbf-tutorial",
       "b-r-u/osmpbf",
       "lostisland/faraday",
-      "kmscon/kmscon"
+      "kmscon/kmscon",
+      "kmscon/libtsm"
     ]
 
     @git_repos_chromium_googlesource = [
