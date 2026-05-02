@@ -5462,7 +5462,8 @@ class QuantumsandLive
     @git_repos_code_videolan_org = [
       "videolan/vlc",
       "videolan/libbluray",
-      "videolan/libdvdread"
+      "videolan/libdvdread",
+      "videolan/dav2d"
     ]
 
     @git_repos_xiph_org_gitlab = [
