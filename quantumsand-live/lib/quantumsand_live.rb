@@ -5010,7 +5010,8 @@ class QuantumsandLive
       "linux/kernel/git/vfs/vfs",
       "fs/xfs/xfsprogs-dev",
       "linux/kernel/git/netfilter/nf-next",
-      "libs/ell/ell"
+      "libs/ell/ell",
+      "linux/kernel/git/mszeredi/fuse"
     ]
 
     @git_repos_isc_org_gitlab = [
