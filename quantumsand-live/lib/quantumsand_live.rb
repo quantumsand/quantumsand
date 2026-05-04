@@ -6491,7 +6491,8 @@ class QuantumsandLive
       "system/partitionmanager",
       "system/khelpcenter",
       "system/kio-admin",
-      "system/kio-fuse"
+      "system/kio-fuse",
+      "system/kjar"
     ]
 
     @git_repos_ffmpeg_org = [
