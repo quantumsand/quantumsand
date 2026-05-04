@@ -4588,7 +4588,8 @@ class QuantumsandLive
       "LizardByte/Sunshine",
       "flatpak/flatpak-builder-tools",
       "flathub/shared-modules",
-      "GPUOpen-LibrariesAndSDKs/AMF"
+      "GPUOpen-LibrariesAndSDKs/AMF",
+      "highfive-devs/highfive"
     ]
 
     @git_repos_chromium_googlesource = [
