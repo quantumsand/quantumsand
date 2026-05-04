@@ -5259,7 +5259,8 @@ class QuantumsandLive
       "dobey/authenticator-ng",
       "saibatizoku/font8x8-rs",
       "libosinfo/libosinfo",
-      "libosinfo/osinfo-db"
+      "libosinfo/osinfo-db",
+      "libosinfo/osinfo-db-tools"
     ]
 
     @git_repos_freedesktop_gitlab = [
