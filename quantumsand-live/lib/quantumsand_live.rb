@@ -4570,7 +4570,8 @@ class QuantumsandLive
       "electron/mini-breakpad-server",
       "wk8/sentry_breakpad",
       "backtrace-labs/verneuil",
-      "backtrace-labs/umash"
+      "backtrace-labs/umash",
+      "backtrace-labs/slitter"
     ]
 
     @git_repos_chromium_googlesource = [
