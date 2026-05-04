@@ -6504,7 +6504,8 @@ class QuantumsandLive
       "system/libdebconf-kde",
       "system/liquidshell",
       "system/melon",
-      "system/ubiquity-slideshow-neon"
+      "system/ubiquity-slideshow-neon",
+      "system/polkit-kde-kcmodules-1"
     ]
 
     @git_repos_ffmpeg_org = [
