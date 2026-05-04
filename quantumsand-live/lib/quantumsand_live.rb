@@ -4946,7 +4946,8 @@ class QuantumsandLive
       "dumux-repositories/dumux-course",
       "dumux-repositories/dumux-coverage",
       "dumux-repositories/dumux-lecture",
-      "dumux-repositories/dumux-testing"
+      "dumux-repositories/dumux-testing",
+      "dumux-repositories/dumux-web-app"
     ]
 
     @git_repos_0pointer_de = [
