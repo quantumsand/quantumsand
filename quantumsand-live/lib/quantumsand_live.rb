@@ -6508,7 +6508,8 @@ class QuantumsandLive
       "system/polkit-kde-kcmodules-1",
       "system/qtcurve",
       "system/kde-nomodeset",
-      "system/samba-mounter"
+      "system/samba-mounter",
+      "system/systemdgenie"
     ]
 
     @git_repos_ffmpeg_org = [
