@@ -4582,7 +4582,8 @@ class QuantumsandLive
       "moonlight-stream/moonlight-common-c",
       "cgutman/qmdnsengine",
       "nitroshare/qmdnsengine",
-      "mdqinc/SDL_GameControllerDB"
+      "mdqinc/SDL_GameControllerDB",
+      "General-Arcade/sdl2-gamepad-tool"
     ]
 
     @git_repos_chromium_googlesource = [
