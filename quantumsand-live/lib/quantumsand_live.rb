@@ -6486,7 +6486,8 @@ class QuantumsandLive
       "system/kde-inotify-survey",
       "system/kalternatives",
       "system/karton",
-      "system/kconfigeditor"
+      "system/kconfigeditor",
+      "system/kcron"
     ]
 
     @git_repos_ffmpeg_org = [
