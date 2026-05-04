@@ -4576,7 +4576,8 @@ class QuantumsandLive
       "bjarneo/cliamp",
       "yt-dlp/yt-dlp",
       "kitlangton/ghui",
-      "moonlight-stream/moonlight-qt"
+      "moonlight-stream/moonlight-qt",
+      "cgutman/enet"
     ]
 
     @git_repos_chromium_googlesource = [
