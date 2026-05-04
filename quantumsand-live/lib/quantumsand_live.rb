@@ -5261,7 +5261,8 @@ class QuantumsandLive
       "libosinfo/libosinfo",
       "libosinfo/osinfo-db",
       "libosinfo/osinfo-db-tools",
-      "scilab/scilab"
+      "scilab/scilab",
+      "scilab/scilab_fortran"
     ]
 
     @git_repos_freedesktop_gitlab = [
