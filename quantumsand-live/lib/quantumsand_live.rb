@@ -5481,7 +5481,8 @@ class QuantumsandLive
       "videolan/aribb25",
       "videolan/av1-mapping-specs",
       "videolan/bitstream",
-      "videolan/breakpad"
+      "videolan/breakpad",
+      "videolan/checkasm"
     ]
 
     @git_repos_xiph_org_gitlab = [
