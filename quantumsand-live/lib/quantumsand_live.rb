@@ -6507,7 +6507,8 @@ class QuantumsandLive
       "system/ubiquity-slideshow-neon",
       "system/polkit-kde-kcmodules-1",
       "system/qtcurve",
-      "system/kde-nomodeset"
+      "system/kde-nomodeset",
+      "system/samba-mounter"
     ]
 
     @git_repos_ffmpeg_org = [
