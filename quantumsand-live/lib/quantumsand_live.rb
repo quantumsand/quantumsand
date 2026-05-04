@@ -6496,7 +6496,8 @@ class QuantumsandLive
       "system/kjournald",
       "system/konlineaccounts",
       "system/kpmcore",
-      "system/ksystemlog"
+      "system/ksystemlog",
+      "system/kup"
     ]
 
     @git_repos_ffmpeg_org = [
