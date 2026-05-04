@@ -5478,7 +5478,8 @@ class QuantumsandLive
       "videolan/vlc-bench/config",
       "videolan/vlc-bench/vlc-bench",
       "videolan/aribb25",
-      "videolan/av1-mapping-specs"
+      "videolan/av1-mapping-specs",
+      "videolan/bitstream"
     ]
 
     @git_repos_xiph_org_gitlab = [
