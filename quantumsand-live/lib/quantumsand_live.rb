@@ -4587,7 +4587,8 @@ class QuantumsandLive
       "aizvorski/h264bitstream",
       "LizardByte/Sunshine",
       "flatpak/flatpak-builder-tools",
-      "flathub/shared-modules"
+      "flathub/shared-modules",
+      "GPUOpen-LibrariesAndSDKs/AMF"
     ]
 
     @git_repos_chromium_googlesource = [
