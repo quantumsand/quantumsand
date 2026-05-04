@@ -4580,7 +4580,8 @@ class QuantumsandLive
       "cgutman/enet",
       "simd-everywhere/simde-no-tests",
       "moonlight-stream/moonlight-common-c",
-      "cgutman/qmdnsengine"
+      "cgutman/qmdnsengine",
+      "nitroshare/qmdnsengine"
     ]
 
     @git_repos_chromium_googlesource = [
