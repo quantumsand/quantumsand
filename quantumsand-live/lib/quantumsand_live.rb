@@ -5474,7 +5474,8 @@ class QuantumsandLive
       "videolan/vlc",
       "videolan/libbluray",
       "videolan/libdvdread",
-      "videolan/dav2d"
+      "videolan/dav2d",
+      "videolan/vlc-bench/config"
     ]
 
     @git_repos_xiph_org_gitlab = [
