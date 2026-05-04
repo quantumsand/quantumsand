@@ -5258,7 +5258,8 @@ class QuantumsandLive
       "chrony/chrony",
       "dobey/authenticator-ng",
       "saibatizoku/font8x8-rs",
-      "libosinfo/libosinfo"
+      "libosinfo/libosinfo",
+      "libosinfo/osinfo-db"
     ]
 
     @git_repos_freedesktop_gitlab = [
