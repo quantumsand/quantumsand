@@ -4579,7 +4579,8 @@ class QuantumsandLive
       "moonlight-stream/moonlight-qt",
       "cgutman/enet",
       "simd-everywhere/simde-no-tests",
-      "moonlight-stream/moonlight-common-c"
+      "moonlight-stream/moonlight-common-c",
+      "cgutman/qmdnsengine"
     ]
 
     @git_repos_chromium_googlesource = [
