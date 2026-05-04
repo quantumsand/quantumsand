@@ -4566,7 +4566,8 @@ class QuantumsandLive
       "kmscon/libtsm",
       "libcheck/check",
       "reubeno/brush",
-      "mozilla-services/socorro"
+      "mozilla-services/socorro",
+      "electron/mini-breakpad-server"
     ]
 
     @git_repos_chromium_googlesource = [
