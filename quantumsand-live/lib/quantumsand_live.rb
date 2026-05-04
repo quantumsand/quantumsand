@@ -6482,7 +6482,8 @@ class QuantumsandLive
       "system/auto-chmod",
       "system/distro-release-notifier",
       "system/drkonqi-pk-debug-installer",
-      "system/kcm-grub2"
+      "system/kcm-grub2",
+      "system/kde-inotify-survey"
     ]
 
     @git_repos_ffmpeg_org = [
