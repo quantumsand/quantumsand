@@ -4569,7 +4569,8 @@ class QuantumsandLive
       "mozilla-services/socorro",
       "electron/mini-breakpad-server",
       "wk8/sentry_breakpad",
-      "backtrace-labs/verneuil"
+      "backtrace-labs/verneuil",
+      "backtrace-labs/umash"
     ]
 
     @git_repos_chromium_googlesource = [
