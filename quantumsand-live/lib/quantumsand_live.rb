@@ -6549,7 +6549,8 @@ class QuantumsandLive
 
     @git_repos_ffmpeg_org = [
       "ffmpeg",
-      "nv-codec-headers"
+      "nv-codec-headers",
+      "libavradio"
     ]
 
     @git_repos_projects_blender = [
