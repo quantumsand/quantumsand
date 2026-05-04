@@ -4944,7 +4944,8 @@ class QuantumsandLive
     @git_repos_iws_uni_stuttgart_de = [
       "dumux-repositories/dumux",
       "dumux-repositories/dumux-course",
-      "dumux-repositories/dumux-coverage"
+      "dumux-repositories/dumux-coverage",
+      "dumux-repositories/dumux-lecture"
     ]
 
     @git_repos_0pointer_de = [
