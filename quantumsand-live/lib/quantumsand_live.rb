@@ -6548,7 +6548,8 @@ class QuantumsandLive
     ]
 
     @git_repos_ffmpeg_org = [
-      "ffmpeg"
+      "ffmpeg",
+      "nv-codec-headers"
     ]
 
     @git_repos_projects_blender = [
