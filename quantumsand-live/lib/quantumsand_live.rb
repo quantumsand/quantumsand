@@ -6488,7 +6488,8 @@ class QuantumsandLive
       "system/karton",
       "system/kconfigeditor",
       "system/kcron",
-      "system/partitionmanager"
+      "system/partitionmanager",
+      "system/khelpcenter"
     ]
 
     @git_repos_ffmpeg_org = [
