@@ -6481,7 +6481,8 @@ class QuantumsandLive
       "sysadmin/token-service",
       "system/auto-chmod",
       "system/distro-release-notifier",
-      "system/drkonqi-pk-debug-installer"
+      "system/drkonqi-pk-debug-installer",
+      "system/kcm-grub2"
     ]
 
     @git_repos_ffmpeg_org = [
