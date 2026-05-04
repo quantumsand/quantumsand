@@ -5476,7 +5476,8 @@ class QuantumsandLive
       "videolan/libdvdread",
       "videolan/dav2d",
       "videolan/vlc-bench/config",
-      "videolan/vlc-bench/vlc-bench"
+      "videolan/vlc-bench/vlc-bench",
+      "videolan/aribb25"
     ]
 
     @git_repos_xiph_org_gitlab = [
