@@ -4580,7 +4580,8 @@ class QuantumsandLive
       "breakpad/breakpad",
       "libyuv/libyuv",
       "external/webrtc",
-      "chromium/tools/depot_tools"
+      "chromium/tools/depot_tools",
+      "linux-syscall-support"
     ]
 
     @git_repos_gn_googlesource = [
