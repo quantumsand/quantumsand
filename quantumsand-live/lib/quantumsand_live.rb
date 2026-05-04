@@ -6502,7 +6502,8 @@ class QuantumsandLive
       "system/ksystemlog",
       "system/kup",
       "system/libdebconf-kde",
-      "system/liquidshell"
+      "system/liquidshell",
+      "system/melon"
     ]
 
     @git_repos_ffmpeg_org = [
