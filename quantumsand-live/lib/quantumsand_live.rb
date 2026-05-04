@@ -4565,7 +4565,8 @@ class QuantumsandLive
       "kmscon/kmscon",
       "kmscon/libtsm",
       "libcheck/check",
-      "reubeno/brush"
+      "reubeno/brush",
+      "mozilla-services/socorro"
     ]
 
     @git_repos_chromium_googlesource = [
