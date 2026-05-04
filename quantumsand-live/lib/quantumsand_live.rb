@@ -4572,7 +4572,8 @@ class QuantumsandLive
       "backtrace-labs/verneuil",
       "backtrace-labs/umash",
       "backtrace-labs/slitter",
-      "backtrace-labs/crashpad"
+      "backtrace-labs/crashpad",
+      "bjarneo/cliamp"
     ]
 
     @git_repos_chromium_googlesource = [
