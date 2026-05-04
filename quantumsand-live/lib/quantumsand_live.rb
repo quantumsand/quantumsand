@@ -4581,7 +4581,8 @@ class QuantumsandLive
       "simd-everywhere/simde-no-tests",
       "moonlight-stream/moonlight-common-c",
       "cgutman/qmdnsengine",
-      "nitroshare/qmdnsengine"
+      "nitroshare/qmdnsengine",
+      "mdqinc/SDL_GameControllerDB"
     ]
 
     @git_repos_chromium_googlesource = [
