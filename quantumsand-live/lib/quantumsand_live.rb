@@ -4571,7 +4571,8 @@ class QuantumsandLive
       "wk8/sentry_breakpad",
       "backtrace-labs/verneuil",
       "backtrace-labs/umash",
-      "backtrace-labs/slitter"
+      "backtrace-labs/slitter",
+      "backtrace-labs/crashpad"
     ]
 
     @git_repos_chromium_googlesource = [
