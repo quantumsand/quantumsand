@@ -4574,7 +4574,8 @@ class QuantumsandLive
       "backtrace-labs/slitter",
       "backtrace-labs/crashpad",
       "bjarneo/cliamp",
-      "yt-dlp/yt-dlp"
+      "yt-dlp/yt-dlp",
+      "kitlangton/ghui"
     ]
 
     @git_repos_chromium_googlesource = [
