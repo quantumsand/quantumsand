@@ -4577,7 +4577,8 @@ class QuantumsandLive
       "yt-dlp/yt-dlp",
       "kitlangton/ghui",
       "moonlight-stream/moonlight-qt",
-      "cgutman/enet"
+      "cgutman/enet",
+      "simd-everywhere/simde-no-tests"
     ]
 
     @git_repos_chromium_googlesource = [
