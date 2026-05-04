@@ -4567,7 +4567,8 @@ class QuantumsandLive
       "libcheck/check",
       "reubeno/brush",
       "mozilla-services/socorro",
-      "electron/mini-breakpad-server"
+      "electron/mini-breakpad-server",
+      "wk8/sentry_breakpad"
     ]
 
     @git_repos_chromium_googlesource = [
