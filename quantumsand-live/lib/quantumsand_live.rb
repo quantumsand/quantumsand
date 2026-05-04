@@ -6493,7 +6493,8 @@ class QuantumsandLive
       "system/kio-admin",
       "system/kio-fuse",
       "system/kjar",
-      "system/kjournald"
+      "system/kjournald",
+      "system/konlineaccounts"
     ]
 
     @git_repos_ffmpeg_org = [
