@@ -6484,7 +6484,8 @@ class QuantumsandLive
       "system/drkonqi-pk-debug-installer",
       "system/kcm-grub2",
       "system/kde-inotify-survey",
-      "system/kalternatives"
+      "system/kalternatives",
+      "system/karton"
     ]
 
     @git_repos_ffmpeg_org = [
