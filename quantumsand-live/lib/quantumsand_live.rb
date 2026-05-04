@@ -5257,7 +5257,8 @@ class QuantumsandLive
       "mattbas/python-lottie",
       "chrony/chrony",
       "dobey/authenticator-ng",
-      "saibatizoku/font8x8-rs"
+      "saibatizoku/font8x8-rs",
+      "libosinfo/libosinfo"
     ]
 
     @git_repos_freedesktop_gitlab = [
