@@ -4589,7 +4589,8 @@ class QuantumsandLive
       "flatpak/flatpak-builder-tools",
       "flathub/shared-modules",
       "GPUOpen-LibrariesAndSDKs/AMF",
-      "highfive-devs/highfive"
+      "highfive-devs/highfive",
+      "dglaeser/gridformat"
     ]
 
     @git_repos_chromium_googlesource = [
