@@ -4583,7 +4583,8 @@ class QuantumsandLive
       "cgutman/qmdnsengine",
       "nitroshare/qmdnsengine",
       "mdqinc/SDL_GameControllerDB",
-      "General-Arcade/sdl2-gamepad-tool"
+      "General-Arcade/sdl2-gamepad-tool",
+      "aizvorski/h264bitstream"
     ]
 
     @git_repos_chromium_googlesource = [
