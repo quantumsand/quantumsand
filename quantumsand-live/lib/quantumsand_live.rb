@@ -6921,7 +6921,8 @@ class QuantumsandLive
       "net-wireless/iw",
       "media-sound/audacious",
       "media-plugins/audacious-plugins",
-      "media-gfx/png2ico"
+      "media-gfx/png2ico",
+      "sys-block/partitionmanager"
     ]
 
     gentoo_eselect_repository_add = {
