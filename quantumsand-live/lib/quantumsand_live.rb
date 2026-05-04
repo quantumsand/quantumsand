@@ -5260,7 +5260,8 @@ class QuantumsandLive
       "saibatizoku/font8x8-rs",
       "libosinfo/libosinfo",
       "libosinfo/osinfo-db",
-      "libosinfo/osinfo-db-tools"
+      "libosinfo/osinfo-db-tools",
+      "scilab/scilab"
     ]
 
     @git_repos_freedesktop_gitlab = [
