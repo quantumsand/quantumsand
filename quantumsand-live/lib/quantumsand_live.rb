@@ -4939,6 +4939,10 @@ class QuantumsandLive
       "passwd"
     ]
 
+    @git_repos_iws_uni_stuttgart_de = [
+      "dumux-repositories/dumux"
+    ]
+
     @git_repos_0pointer_de = [
       "libasyncns"
     ]
