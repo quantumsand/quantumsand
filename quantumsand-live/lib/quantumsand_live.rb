@@ -4586,7 +4586,8 @@ class QuantumsandLive
       "General-Arcade/sdl2-gamepad-tool",
       "aizvorski/h264bitstream",
       "LizardByte/Sunshine",
-      "flatpak/flatpak-builder-tools"
+      "flatpak/flatpak-builder-tools",
+      "flathub/shared-modules"
     ]
 
     @git_repos_chromium_googlesource = [
