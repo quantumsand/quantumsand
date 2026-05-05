@@ -4591,7 +4591,8 @@ class QuantumsandLive
       "flathub/shared-modules",
       "GPUOpen-LibrariesAndSDKs/AMF",
       "highfive-devs/highfive",
-      "dglaeser/gridformat"
+      "dglaeser/gridformat",
+      "TheQtCompanyRnD/agent-skills"
     ]
 
     @git_repos_chromium_googlesource = [
