@@ -4592,7 +4592,8 @@ class QuantumsandLive
       "GPUOpen-LibrariesAndSDKs/AMF",
       "highfive-devs/highfive",
       "dglaeser/gridformat",
-      "TheQtCompanyRnD/agent-skills"
+      "TheQtCompanyRnD/agent-skills",
+      "KhronosGroup/OpenCL-Docs"
     ]
 
     @git_repos_chromium_googlesource = [
