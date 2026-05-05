@@ -4593,7 +4593,8 @@ class QuantumsandLive
       "highfive-devs/highfive",
       "dglaeser/gridformat",
       "TheQtCompanyRnD/agent-skills",
-      "KhronosGroup/OpenCL-Docs"
+      "KhronosGroup/OpenCL-Docs",
+      "opentypejs/opentype.js"
     ]
 
     @git_repos_chromium_googlesource = [
