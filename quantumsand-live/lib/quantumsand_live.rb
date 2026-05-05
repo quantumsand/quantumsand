@@ -24,6 +24,7 @@ class QuantumsandLive
     @git_repos_labs_etsi_org_url = ENV.fetch("GIT_REPOS_LABS_ETSI_ORG_URL")
     @git_repos_forge_etsi_org_url = ENV.fetch("GIT_REPOS_FORGE_ETSI_ORG_URL")
     @git_repos_pagure_io_url = ENV.fetch("GIT_REPOS_PAGURE_IO_URL")
+    @git_repos_iws_uni_stuttgart_de_url = ENV.fetch("GIT_REPOS_IWS_UNI_STUTTGART_DE_URL")
     @git_repos_0pointer_de_url = ENV.fetch("GIT_REPOS_0POINTER_DE_URL")
     @git_repos_eurecom_fr_url = ENV.fetch("GIT_REPOS_EURECOM_FR_URL")
     @git_repos_zapb_de_url = ENV.fetch("GIT_REPOS_ZAPB_DE_URL")
