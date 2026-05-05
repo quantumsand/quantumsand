@@ -4594,7 +4594,8 @@ class QuantumsandLive
       "dglaeser/gridformat",
       "TheQtCompanyRnD/agent-skills",
       "KhronosGroup/OpenCL-Docs",
-      "opentypejs/opentype.js"
+      "opentypejs/opentype.js",
+      "open-circle/formisch"
     ]
 
     @git_repos_chromium_googlesource = [
