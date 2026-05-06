@@ -5533,7 +5533,8 @@ class QuantumsandLive
       "videolan/docker-images",
       "videolan/docker-images-aarch64",
       "videolan/libplacebo",
-      "videolan/docker-images-armv7"
+      "videolan/docker-images-armv7",
+      "videolan/docker-images-ppc64le"
     ]
 
     @git_repos_xiph_org_gitlab = [
