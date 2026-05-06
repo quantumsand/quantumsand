@@ -5578,7 +5578,8 @@ class QuantumsandLive
       "videolan/x86inc.asm",
       "rist/librist",
       "rist/ffmpeg",
-      "rist/librist-rust"
+      "rist/librist-rust",
+      "rist/pyrist"
     ]
 
     @git_repos_xiph_org_gitlab = [
