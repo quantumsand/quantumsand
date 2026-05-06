@@ -4597,7 +4597,8 @@ class QuantumsandLive
       "opentypejs/opentype.js",
       "open-circle/formisch",
       "GoogleContainerTools/kaniko",
-      "Immediate-Mode-UI/Nuklear"
+      "Immediate-Mode-UI/Nuklear",
+      "Dav1dde/glad"
     ]
 
     @git_repos_chromium_googlesource = [
