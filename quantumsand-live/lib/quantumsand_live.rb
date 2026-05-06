@@ -4611,7 +4611,8 @@ class QuantumsandLive
       "altertable-ai/tantiny",
       "pgcentralfoundation/pgrx",
       "paradedb/django-paradedb",
-      "paradedb/rails-paradedb"
+      "paradedb/rails-paradedb",
+      "paradedb/sqlalchemy-paradedb"
     ]
 
     @git_repos_chromium_googlesource = [
