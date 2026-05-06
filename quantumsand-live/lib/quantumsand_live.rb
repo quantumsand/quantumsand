@@ -5537,7 +5537,8 @@ class QuantumsandLive
       "videolan/docker-images-ppc64le",
       "videolan/dvblast",
       "videolan/liba52",
-      "videolan/libaacs"
+      "videolan/libaacs",
+      "videolan/libbdplus"
     ]
 
     @git_repos_xiph_org_gitlab = [
