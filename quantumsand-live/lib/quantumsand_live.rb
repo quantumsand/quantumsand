@@ -4600,7 +4600,8 @@ class QuantumsandLive
       "Immediate-Mode-UI/Nuklear",
       "Dav1dde/glad",
       "KhronosGroup/VulkanSC-Tools",
-      "quickwit-oss/quickwit"
+      "quickwit-oss/quickwit",
+      "quickwit-oss/quickwit-datasource"
     ]
 
     @git_repos_chromium_googlesource = [
