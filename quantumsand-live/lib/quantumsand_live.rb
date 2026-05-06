@@ -5562,7 +5562,8 @@ class QuantumsandLive
       "videolan/skin-designer",
       "videolan/TestAssets",
       "videolan/VLCKit",
-      "videolan/tizen_emotion"
+      "videolan/tizen_emotion",
+      "videolan/npapi-vlc"
     ]
 
     @git_repos_xiph_org_gitlab = [
