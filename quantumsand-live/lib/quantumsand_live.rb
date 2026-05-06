@@ -5527,7 +5527,8 @@ class QuantumsandLive
       "videolan/dav1d",
       "videolan/dav1d-test-data",
       "videolan/bitstream",
-      "videolan/docker-images"
+      "videolan/docker-images",
+      "videolan/docker-images-aarch64"
     ]
 
     @git_repos_xiph_org_gitlab = [
