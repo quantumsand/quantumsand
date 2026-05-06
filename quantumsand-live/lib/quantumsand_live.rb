@@ -5550,7 +5550,8 @@ class QuantumsandLive
       "videolan/libvlc-android-samples",
       "videolan/libvlc-nuget",
       "videolan/libvlcjni",
-      "videolan/libvlcpp"
+      "videolan/libvlcpp",
+      "videolan/LibVLCSharp"
     ]
 
     @git_repos_xiph_org_gitlab = [
