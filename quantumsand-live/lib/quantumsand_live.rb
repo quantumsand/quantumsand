@@ -4596,7 +4596,8 @@ class QuantumsandLive
       "KhronosGroup/OpenCL-Docs",
       "opentypejs/opentype.js",
       "open-circle/formisch",
-      "GoogleContainerTools/kaniko"
+      "GoogleContainerTools/kaniko",
+      "Immediate-Mode-UI/Nuklear"
     ]
 
     @git_repos_chromium_googlesource = [
