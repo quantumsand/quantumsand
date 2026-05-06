@@ -5551,7 +5551,8 @@ class QuantumsandLive
       "videolan/libvlc-nuget",
       "videolan/libvlcjni",
       "videolan/libvlcpp",
-      "videolan/LibVLCSharp"
+      "videolan/LibVLCSharp",
+      "videolan/medialibrary"
     ]
 
     @git_repos_xiph_org_gitlab = [
