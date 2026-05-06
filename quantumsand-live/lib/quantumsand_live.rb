@@ -5547,7 +5547,8 @@ class QuantumsandLive
       "videolan/libdvdnav",
       "videolan/libmpeg2",
       "videolan/libudfread",
-      "videolan/libvlc-android-samples"
+      "videolan/libvlc-android-samples",
+      "videolan/libvlc-nuget"
     ]
 
     @git_repos_xiph_org_gitlab = [
