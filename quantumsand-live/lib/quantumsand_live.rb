@@ -4608,7 +4608,8 @@ class QuantumsandLive
       "apache/datafusion-testing",
       "quickwit-oss/tantivy",
       "quickwit-oss/tantivy-py",
-      "altertable-ai/tantiny"
+      "altertable-ai/tantiny",
+      "pgcentralfoundation/pgrx"
     ]
 
     @git_repos_chromium_googlesource = [
