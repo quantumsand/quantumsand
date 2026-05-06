@@ -5581,7 +5581,8 @@ class QuantumsandLive
       "rist/librist-rust",
       "rist/pyrist",
       "rist/rist-cpp",
-      "rist/rist-wireshark"
+      "rist/rist-wireshark",
+      "rist/ristgo"
     ]
 
     @git_repos_xiph_org_gitlab = [
