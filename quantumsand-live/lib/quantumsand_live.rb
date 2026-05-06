@@ -5572,7 +5572,8 @@ class QuantumsandLive
       "videolan/vlc-winrt",
       "videolan/VLCMediaLibraryKit",
       "videolan/vlma",
-      "videolan/vlmc"
+      "videolan/vlmc",
+      "videolan/vls"
     ]
 
     @git_repos_xiph_org_gitlab = [
