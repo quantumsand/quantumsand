@@ -5542,7 +5542,8 @@ class QuantumsandLive
       "videolan/libcloudstorage",
       "videolan/libdca",
       "videolan/libdvbcsa",
-      "videolan/libdvbpsi"
+      "videolan/libdvbpsi",
+      "videolan/libdvdcss"
     ]
 
     @git_repos_xiph_org_gitlab = [
