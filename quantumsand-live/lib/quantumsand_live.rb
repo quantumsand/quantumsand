@@ -4599,7 +4599,8 @@ class QuantumsandLive
       "GoogleContainerTools/kaniko",
       "Immediate-Mode-UI/Nuklear",
       "Dav1dde/glad",
-      "KhronosGroup/VulkanSC-Tools"
+      "KhronosGroup/VulkanSC-Tools",
+      "quickwit-oss/quickwit"
     ]
 
     @git_repos_chromium_googlesource = [
