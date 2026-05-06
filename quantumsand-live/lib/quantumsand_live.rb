@@ -5554,7 +5554,8 @@ class QuantumsandLive
       "videolan/LibVLCSharp",
       "videolan/medialibrary",
       "videolan/medialibrary-test-samples",
-      "videolan/MediaLibraryKit"
+      "videolan/MediaLibraryKit",
+      "videolan/minisapserver"
     ]
 
     @git_repos_xiph_org_gitlab = [
