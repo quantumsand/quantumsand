@@ -4606,7 +4606,8 @@ class QuantumsandLive
       "apache/parquet-testing",
       "apache/arrow-testing",
       "apache/datafusion-testing",
-      "quickwit-oss/tantivy"
+      "quickwit-oss/tantivy",
+      "quickwit-oss/tantivy-py"
     ]
 
     @git_repos_chromium_googlesource = [
