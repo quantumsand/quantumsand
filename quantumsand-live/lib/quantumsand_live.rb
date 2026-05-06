@@ -5524,7 +5524,8 @@ class QuantumsandLive
       "videolan/breakpad",
       "videolan/checkasm",
       "videolan/CrashDragon",
-      "videolan/dav1d"
+      "videolan/dav1d",
+      "videolan/dav1d-test-data"
     ]
 
     @git_repos_xiph_org_gitlab = [
