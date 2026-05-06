@@ -5565,7 +5565,8 @@ class QuantumsandLive
       "videolan/tizen_emotion",
       "videolan/npapi-vlc",
       "videolan/vlc-android",
-      "videolan/vlc-ios"
+      "videolan/vlc-ios",
+      "videolan/vlc-rs"
     ]
 
     @git_repos_xiph_org_gitlab = [
