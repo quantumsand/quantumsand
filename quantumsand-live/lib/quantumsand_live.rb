@@ -4601,7 +4601,8 @@ class QuantumsandLive
       "Dav1dde/glad",
       "KhronosGroup/VulkanSC-Tools",
       "quickwit-oss/quickwit",
-      "quickwit-oss/quickwit-datasource"
+      "quickwit-oss/quickwit-datasource",
+      "apache/datafusion"
     ]
 
     @git_repos_chromium_googlesource = [
