@@ -4607,7 +4607,8 @@ class QuantumsandLive
       "apache/arrow-testing",
       "apache/datafusion-testing",
       "quickwit-oss/tantivy",
-      "quickwit-oss/tantivy-py"
+      "quickwit-oss/tantivy-py",
+      "altertable-ai/tantiny"
     ]
 
     @git_repos_chromium_googlesource = [
