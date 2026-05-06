@@ -4609,7 +4609,8 @@ class QuantumsandLive
       "quickwit-oss/tantivy",
       "quickwit-oss/tantivy-py",
       "altertable-ai/tantiny",
-      "pgcentralfoundation/pgrx"
+      "pgcentralfoundation/pgrx",
+      "paradedb/django-paradedb"
     ]
 
     @git_repos_chromium_googlesource = [
