@@ -4595,7 +4595,8 @@ class QuantumsandLive
       "TheQtCompanyRnD/agent-skills",
       "KhronosGroup/OpenCL-Docs",
       "opentypejs/opentype.js",
-      "open-circle/formisch"
+      "open-circle/formisch",
+      "GoogleContainerTools/kaniko"
     ]
 
     @git_repos_chromium_googlesource = [
