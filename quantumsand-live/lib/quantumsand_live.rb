@@ -4598,7 +4598,8 @@ class QuantumsandLive
       "open-circle/formisch",
       "GoogleContainerTools/kaniko",
       "Immediate-Mode-UI/Nuklear",
-      "Dav1dde/glad"
+      "Dav1dde/glad",
+      "KhronosGroup/VulkanSC-Tools"
     ]
 
     @git_repos_chromium_googlesource = [
