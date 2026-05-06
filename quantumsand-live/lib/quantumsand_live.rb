@@ -4604,7 +4604,8 @@ class QuantumsandLive
       "quickwit-oss/quickwit-datasource",
       "apache/datafusion",
       "apache/parquet-testing",
-      "apache/arrow-testing"
+      "apache/arrow-testing",
+      "apache/datafusion-testing"
     ]
 
     @git_repos_chromium_googlesource = [
