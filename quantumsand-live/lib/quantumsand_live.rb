@@ -5559,7 +5559,8 @@ class QuantumsandLive
       "videolan/multicat",
       "videolan/pvroll",
       "videolan/remoteaccess",
-      "videolan/skin-designer"
+      "videolan/skin-designer",
+      "videolan/TestAssets"
     ]
 
     @git_repos_xiph_org_gitlab = [
