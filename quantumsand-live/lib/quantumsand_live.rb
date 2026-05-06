@@ -5579,7 +5579,8 @@ class QuantumsandLive
       "rist/librist",
       "rist/ffmpeg",
       "rist/librist-rust",
-      "rist/pyrist"
+      "rist/pyrist",
+      "rist/rist-cpp"
     ]
 
     @git_repos_xiph_org_gitlab = [
