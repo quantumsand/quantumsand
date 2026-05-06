@@ -4602,7 +4602,8 @@ class QuantumsandLive
       "KhronosGroup/VulkanSC-Tools",
       "quickwit-oss/quickwit",
       "quickwit-oss/quickwit-datasource",
-      "apache/datafusion"
+      "apache/datafusion",
+      "apache/parquet-testing"
     ]
 
     @git_repos_chromium_googlesource = [
