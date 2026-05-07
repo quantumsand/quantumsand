@@ -5060,7 +5060,8 @@ class QuantumsandLive
       "qt/qtxmlpatterns",
       "qt/qttranslations",
       "qt/qtdoc",
-      "qt/qtshadertools"
+      "qt/qtshadertools",
+      "qt/qttasktree"
     ]
 
     @git_repos_kernel_org = [
