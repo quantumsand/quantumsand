@@ -4626,7 +4626,8 @@ class QuantumsandLive
       "rubyzip/rubyzip",
       "elastic/elastic-transport-ruby",
       "elastic/elasticsearch-ruby",
-      "TriumphLLC/Blend4Web"
+      "TriumphLLC/Blend4Web",
+      "yandex-cloud/geesefs"
     ]
 
     @git_repos_chromium_googlesource = [
