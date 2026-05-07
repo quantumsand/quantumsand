@@ -5082,7 +5082,8 @@ class QuantumsandLive
       "qt/qtquicktimeline",
       "qt/qt5compat",
       "qt/qtcoap",
-      "qt/qtopcua"
+      "qt/qtopcua",
+      "qt/qtlanguageserver"
     ]
 
     @git_repos_kernel_org = [
