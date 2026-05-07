@@ -5042,7 +5042,8 @@ class QuantumsandLive
       "qt/qtlocation",
       "qt/qtlocation-mapboxgl",
       "qt/qtjsondb",
-      "qt/qtwebengine-chromium"
+      "qt/qtwebengine-chromium",
+      "qt/qtbase"
     ]
 
     @git_repos_kernel_org = [
