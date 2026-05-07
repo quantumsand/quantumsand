@@ -4612,7 +4612,8 @@ class QuantumsandLive
       "pgcentralfoundation/pgrx",
       "paradedb/django-paradedb",
       "paradedb/rails-paradedb",
-      "paradedb/sqlalchemy-paradedb"
+      "paradedb/sqlalchemy-paradedb",
+      "open-source-firmware/flat-image-tree"
     ]
 
     @git_repos_chromium_googlesource = [
