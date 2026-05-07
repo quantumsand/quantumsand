@@ -5074,7 +5074,8 @@ class QuantumsandLive
       "qt/qtwebsockets",
       "qt/qtcanvas3d",
       "qt/qtwebview",
-      "qt/qtcharts"
+      "qt/qtcharts",
+      "qt/qtdatavis3d"
     ]
 
     @git_repos_kernel_org = [
