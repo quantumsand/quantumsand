@@ -4617,7 +4617,8 @@ class QuantumsandLive
       "TeXworks/texworks",
       "TeXworks/manual",
       "hunspell/hyphen",
-      "hunspell/mythes"
+      "hunspell/mythes",
+      "standardrb/standard"
     ]
 
     @git_repos_chromium_googlesource = [
