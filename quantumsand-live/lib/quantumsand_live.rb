@@ -4613,7 +4613,8 @@ class QuantumsandLive
       "paradedb/django-paradedb",
       "paradedb/rails-paradedb",
       "paradedb/sqlalchemy-paradedb",
-      "open-source-firmware/flat-image-tree"
+      "open-source-firmware/flat-image-tree",
+      "TeXworks/texworks"
     ]
 
     @git_repos_chromium_googlesource = [
