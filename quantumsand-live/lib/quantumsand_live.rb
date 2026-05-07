@@ -5045,7 +5045,8 @@ class QuantumsandLive
       "qt/qtwebengine-chromium",
       "qt/qtbase",
       "qt/qtgamepad",
-      "qt/qtpositioning"
+      "qt/qtpositioning",
+      "qt/qtnetworkauth"
     ]
 
     @git_repos_kernel_org = [
