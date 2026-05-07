@@ -5083,7 +5083,8 @@ class QuantumsandLive
       "qt/qt5compat",
       "qt/qtcoap",
       "qt/qtopcua",
-      "qt/qtlanguageserver"
+      "qt/qtlanguageserver",
+      "qt/qthttpserver"
     ]
 
     @git_repos_kernel_org = [
