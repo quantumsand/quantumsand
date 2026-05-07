@@ -4623,7 +4623,8 @@ class QuantumsandLive
       "rmagick/rmagick",
       "thoughtbot/factory_bot",
       "thoughtbot/factory_bot_rails",
-      "rubyzip/rubyzip"
+      "rubyzip/rubyzip",
+      "elastic/elastic-transport-ruby"
     ]
 
     @git_repos_chromium_googlesource = [
