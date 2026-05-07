@@ -4616,7 +4616,8 @@ class QuantumsandLive
       "open-source-firmware/flat-image-tree",
       "TeXworks/texworks",
       "TeXworks/manual",
-      "hunspell/hyphen"
+      "hunspell/hyphen",
+      "hunspell/mythes"
     ]
 
     @git_repos_chromium_googlesource = [
