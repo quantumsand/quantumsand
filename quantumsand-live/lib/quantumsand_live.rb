@@ -4620,7 +4620,8 @@ class QuantumsandLive
       "hunspell/mythes",
       "standardrb/standard",
       "standard/standard",
-      "rmagick/rmagick"
+      "rmagick/rmagick",
+      "thoughtbot/factory_bot"
     ]
 
     @git_repos_chromium_googlesource = [
