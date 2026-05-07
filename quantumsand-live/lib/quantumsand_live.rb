@@ -5048,7 +5048,8 @@ class QuantumsandLive
       "qt/qtpositioning",
       "qt/qtnetworkauth",
       "qt/qmake2cmake",
-      "qt/qt3d"
+      "qt/qt3d",
+      "qt/qtsvg"
     ]
 
     @git_repos_kernel_org = [
