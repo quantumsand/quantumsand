@@ -5054,7 +5054,8 @@ class QuantumsandLive
       "qt/qtdeclarative",
       "qt/qtactiveqt",
       "playground/qlitehtml",
-      "qt/qttools-litehtml"
+      "qt/qttools-litehtml",
+      "qt/qttools"
     ]
 
     @git_repos_kernel_org = [
