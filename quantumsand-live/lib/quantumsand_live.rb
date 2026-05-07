@@ -5075,7 +5075,8 @@ class QuantumsandLive
       "qt/qtcanvas3d",
       "qt/qtwebview",
       "qt/qtcharts",
-      "qt/qtdatavis3d"
+      "qt/qtdatavis3d",
+      "qt/qtscxml"
     ]
 
     @git_repos_kernel_org = [
