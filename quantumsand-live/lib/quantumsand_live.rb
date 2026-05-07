@@ -5079,7 +5079,8 @@ class QuantumsandLive
       "qt/qtscxml",
       "qt/qtspeech",
       "qt/qtremoteobjects",
-      "qt/qtquicktimeline"
+      "qt/qtquicktimeline",
+      "qt/qt5compat"
     ]
 
     @git_repos_kernel_org = [
