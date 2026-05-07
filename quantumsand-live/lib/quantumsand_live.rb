@@ -5052,7 +5052,8 @@ class QuantumsandLive
       "qt/qtsvg",
       "qt/qtdeclarative-testsuites",
       "qt/qtdeclarative",
-      "qt/qtactiveqt"
+      "qt/qtactiveqt",
+      "playground/qlitehtml"
     ]
 
     @git_repos_kernel_org = [
