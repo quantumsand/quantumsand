@@ -4628,7 +4628,8 @@ class QuantumsandLive
       "elastic/elasticsearch-ruby",
       "TriumphLLC/Blend4Web",
       "yandex-cloud/geesefs",
-      "yandex-cloud/k8s-csi-s3"
+      "yandex-cloud/k8s-csi-s3",
+      "nvidia/tensorrt"
     ]
 
     @git_repos_chromium_googlesource = [
