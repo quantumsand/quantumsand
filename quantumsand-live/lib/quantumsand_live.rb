@@ -5081,7 +5081,8 @@ class QuantumsandLive
       "qt/qtremoteobjects",
       "qt/qtquicktimeline",
       "qt/qt5compat",
-      "qt/qtcoap"
+      "qt/qtcoap",
+      "qt/qtopcua"
     ]
 
     @git_repos_kernel_org = [
