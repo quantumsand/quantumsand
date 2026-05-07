@@ -5070,7 +5070,8 @@ class QuantumsandLive
       "qt/qtconnectivity",
       "qt/qtimageformats",
       "qt/qtserialbus",
-      "qt/qtserialport"
+      "qt/qtserialport",
+      "qt/qtwebsockets"
     ]
 
     @git_repos_kernel_org = [
