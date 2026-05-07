@@ -5076,7 +5076,8 @@ class QuantumsandLive
       "qt/qtwebview",
       "qt/qtcharts",
       "qt/qtdatavis3d",
-      "qt/qtscxml"
+      "qt/qtscxml",
+      "qt/qtspeech"
     ]
 
     @git_repos_kernel_org = [
