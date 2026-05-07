@@ -5062,7 +5062,8 @@ class QuantumsandLive
       "qt/qtdoc",
       "qt/qtshadertools",
       "qt/qttasktree",
-      "qt/qtrepotools"
+      "qt/qtrepotools",
+      "qt/qtqa"
     ]
 
     @git_repos_kernel_org = [
