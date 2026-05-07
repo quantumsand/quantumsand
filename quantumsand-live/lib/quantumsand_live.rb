@@ -4619,7 +4619,8 @@ class QuantumsandLive
       "hunspell/hyphen",
       "hunspell/mythes",
       "standardrb/standard",
-      "standard/standard"
+      "standard/standard",
+      "rmagick/rmagick"
     ]
 
     @git_repos_chromium_googlesource = [
