@@ -4621,7 +4621,8 @@ class QuantumsandLive
       "standardrb/standard",
       "standard/standard",
       "rmagick/rmagick",
-      "thoughtbot/factory_bot"
+      "thoughtbot/factory_bot",
+      "thoughtbot/factory_bot_rails"
     ]
 
     @git_repos_chromium_googlesource = [
