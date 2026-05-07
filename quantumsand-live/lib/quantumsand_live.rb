@@ -5051,7 +5051,8 @@ class QuantumsandLive
       "qt/qt3d",
       "qt/qtsvg",
       "qt/qtdeclarative-testsuites",
-      "qt/qtdeclarative"
+      "qt/qtdeclarative",
+      "qt/qtactiveqt"
     ]
 
     @git_repos_kernel_org = [
