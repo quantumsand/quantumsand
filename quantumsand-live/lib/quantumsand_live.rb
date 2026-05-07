@@ -4624,7 +4624,8 @@ class QuantumsandLive
       "thoughtbot/factory_bot",
       "thoughtbot/factory_bot_rails",
       "rubyzip/rubyzip",
-      "elastic/elastic-transport-ruby"
+      "elastic/elastic-transport-ruby",
+      "elastic/elasticsearch-ruby"
     ]
 
     @git_repos_chromium_googlesource = [
