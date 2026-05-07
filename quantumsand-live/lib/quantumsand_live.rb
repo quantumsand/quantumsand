@@ -7118,7 +7118,8 @@ class QuantumsandLive
       "media-sound/audacious",
       "media-plugins/audacious-plugins",
       "media-gfx/png2ico",
-      "sys-block/partitionmanager"
+      "sys-block/partitionmanager",
+      "app-office/lyx"
     ]
 
     gentoo_eselect_repository_add = {
