@@ -5073,7 +5073,8 @@ class QuantumsandLive
       "qt/qtserialport",
       "qt/qtwebsockets",
       "qt/qtcanvas3d",
-      "qt/qtwebview"
+      "qt/qtwebview",
+      "qt/qtcharts"
     ]
 
     @git_repos_kernel_org = [
