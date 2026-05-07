@@ -5086,7 +5086,8 @@ class QuantumsandLive
       "qt/qtlanguageserver",
       "qt/qthttpserver",
       "qt/qtgrpc",
-      "qt/qtquickeffectmaker"
+      "qt/qtquickeffectmaker",
+      "qt/qtgraphs"
     ]
 
     @git_repos_kernel_org = [
