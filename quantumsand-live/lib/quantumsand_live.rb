@@ -5069,7 +5069,8 @@ class QuantumsandLive
       "qt/qtfeedback",
       "qt/qtconnectivity",
       "qt/qtimageformats",
-      "qt/qtserialbus"
+      "qt/qtserialbus",
+      "qt/qtserialport"
     ]
 
     @git_repos_kernel_org = [
