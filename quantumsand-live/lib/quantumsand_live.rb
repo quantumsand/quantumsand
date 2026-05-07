@@ -4615,7 +4615,8 @@ class QuantumsandLive
       "paradedb/sqlalchemy-paradedb",
       "open-source-firmware/flat-image-tree",
       "TeXworks/texworks",
-      "TeXworks/manual"
+      "TeXworks/manual",
+      "hunspell/hyphen"
     ]
 
     @git_repos_chromium_googlesource = [
