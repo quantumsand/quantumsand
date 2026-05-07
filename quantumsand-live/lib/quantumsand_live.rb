@@ -7122,7 +7122,8 @@ class QuantumsandLive
       "media-gfx/png2ico",
       "sys-block/partitionmanager",
       "app-office/lyx",
-      "app-editors/texworks"
+      "app-editors/texworks",
+      "app-office/texmaker"
     ]
 
     gentoo_eselect_repository_add = {
