@@ -4614,7 +4614,8 @@ class QuantumsandLive
       "paradedb/rails-paradedb",
       "paradedb/sqlalchemy-paradedb",
       "open-source-firmware/flat-image-tree",
-      "TeXworks/texworks"
+      "TeXworks/texworks",
+      "TeXworks/manual"
     ]
 
     @git_repos_chromium_googlesource = [
