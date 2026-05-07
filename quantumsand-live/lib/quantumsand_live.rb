@@ -5058,7 +5058,8 @@ class QuantumsandLive
       "qt/qttools",
       "qt/qtxmlpatterns-testsuites",
       "qt/qtxmlpatterns",
-      "qt/qttranslations"
+      "qt/qttranslations",
+      "qt/qtdoc"
     ]
 
     @git_repos_kernel_org = [
