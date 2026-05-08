@@ -5114,7 +5114,8 @@ class QuantumsandLive
       "qt/qtgraphs",
       "qt/qtopenapi",
       "qt/qtcanvaspainter",
-      "qt/qtanalytics"
+      "qt/qtanalytics",
+      "qt/qtdltlogging"
     ]
 
     @git_repos_kernel_org = [
