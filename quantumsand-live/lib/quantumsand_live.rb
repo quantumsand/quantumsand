@@ -6020,7 +6020,8 @@ class QuantumsandLive
       "GNOME/aisleriot",
       "GNOME/gsettings-desktop-schemas",
       "GNOME/alacarte",
-      "GNOME/almanah"
+      "GNOME/almanah",
+      "GNOME/at-spi2-core"
     ]
 
     @git_repos_postgresql_org = [
