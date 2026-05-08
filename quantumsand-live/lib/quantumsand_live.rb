@@ -4647,7 +4647,8 @@ class QuantumsandLive
       "clangd/clangd",
       "NVlabs/cuda-oxide",
       "inducer/compyte",
-      "inducer/bpl-subset"
+      "inducer/bpl-subset",
+      "inducer/pycuda"
     ]
 
     @git_repos_chromium_googlesource = [
