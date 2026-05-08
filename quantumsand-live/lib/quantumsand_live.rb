@@ -4646,7 +4646,8 @@ class QuantumsandLive
       "microsoft/vscode-cmake-tools",
       "clangd/clangd",
       "NVlabs/cuda-oxide",
-      "inducer/compyte"
+      "inducer/compyte",
+      "inducer/bpl-subset"
     ]
 
     @git_repos_chromium_googlesource = [
