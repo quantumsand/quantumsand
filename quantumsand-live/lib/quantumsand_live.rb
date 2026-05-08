@@ -4635,7 +4635,8 @@ class QuantumsandLive
       "kvark/blade",
       "emilk/egui",
       "vladbat00/bevy_egui",
-      "jakobhellermann/bevy-inspector-egui"
+      "jakobhellermann/bevy-inspector-egui",
+      "tracel-ai/burn-bench"
     ]
 
     @git_repos_chromium_googlesource = [
