@@ -4642,7 +4642,8 @@ class QuantumsandLive
       "KDAB/cxx-qt",
       "KDAB/KDChart",
       "KDAB/KDSingleApplication",
-      "facebook/openzl"
+      "facebook/openzl",
+      "microsoft/vscode-cmake-tools"
     ]
 
     @git_repos_chromium_googlesource = [
