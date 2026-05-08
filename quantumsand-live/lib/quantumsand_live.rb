@@ -4634,7 +4634,8 @@ class QuantumsandLive
       "kvark/fileman",
       "kvark/blade",
       "emilk/egui",
-      "vladbat00/bevy_egui"
+      "vladbat00/bevy_egui",
+      "jakobhellermann/bevy-inspector-egui"
     ]
 
     @git_repos_chromium_googlesource = [
