@@ -4638,7 +4638,8 @@ class QuantumsandLive
       "jakobhellermann/bevy-inspector-egui",
       "tracel-ai/burn-bench",
       "KDAB/GammaRay",
-      "KDAB/KDDockWidgets"
+      "KDAB/KDDockWidgets",
+      "KDAB/cxx-qt"
     ]
 
     @git_repos_chromium_googlesource = [
