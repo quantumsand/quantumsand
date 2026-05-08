@@ -6023,7 +6023,8 @@ class QuantumsandLive
       "GNOME/almanah",
       "GNOME/at-spi2-core",
       "GNOME/atkmm",
-      "GNOME/atomix"
+      "GNOME/atomix",
+      "GNOME/babl"
     ]
 
     @git_repos_postgresql_org = [
