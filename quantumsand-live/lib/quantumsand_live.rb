@@ -4632,7 +4632,8 @@ class QuantumsandLive
       "nvidia/tensorrt",
       "aguacero7/rkik-nts",
       "kvark/fileman",
-      "kvark/blade"
+      "kvark/blade",
+      "emilk/egui"
     ]
 
     @git_repos_chromium_googlesource = [
