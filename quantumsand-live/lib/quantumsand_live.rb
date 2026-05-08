@@ -5130,7 +5130,8 @@ class QuantumsandLive
       "qt/qtinterfaceframework-taglib",
       "qt/qtivi-qface",
       "qt/qtivi-taglib",
-      "qt/qtivi"
+      "qt/qtivi",
+      "qt/qtknx"
     ]
 
     @git_repos_kernel_org = [
