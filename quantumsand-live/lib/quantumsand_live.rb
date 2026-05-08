@@ -5495,7 +5495,8 @@ class QuantumsandLive
       "mobile-broadband/libqmi",
       "mobile-broadband/libqrtr-glib",
       "mobile-broadband/mobile-broadband.pages.freedesktop.org",
-      "xorg/proto/xcbproto"
+      "xorg/proto/xcbproto",
+      "xorg/lib/libxcb"
     ]
 
     @git_repos_xfce_gitlab = [
