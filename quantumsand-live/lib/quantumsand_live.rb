@@ -4639,7 +4639,8 @@ class QuantumsandLive
       "tracel-ai/burn-bench",
       "KDAB/GammaRay",
       "KDAB/KDDockWidgets",
-      "KDAB/cxx-qt"
+      "KDAB/cxx-qt",
+      "KDAB/KDChart"
     ]
 
     @git_repos_chromium_googlesource = [
