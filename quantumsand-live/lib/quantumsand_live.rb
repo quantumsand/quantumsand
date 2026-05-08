@@ -5133,7 +5133,8 @@ class QuantumsandLive
       "qt/qtivi",
       "qt/qtknx",
       "qt/qtmodeling",
-      "qt/qtotaupdate"
+      "qt/qtotaupdate",
+      "qt/qtreleasenotes"
     ]
 
     @git_repos_kernel_org = [
