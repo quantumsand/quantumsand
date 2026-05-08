@@ -4630,7 +4630,8 @@ class QuantumsandLive
       "yandex-cloud/geesefs",
       "yandex-cloud/k8s-csi-s3",
       "nvidia/tensorrt",
-      "aguacero7/rkik-nts"
+      "aguacero7/rkik-nts",
+      "kvark/fileman"
     ]
 
     @git_repos_chromium_googlesource = [
