@@ -5136,7 +5136,8 @@ class QuantumsandLive
       "qt/qtotaupdate",
       "qt/qtreleasenotes",
       "qt-creator/qt-creator",
-      "qt-creator/perfparser"
+      "qt-creator/perfparser",
+      "qbs/qbs"
     ]
 
     @git_repos_kernel_org = [
