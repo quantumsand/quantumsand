@@ -5124,7 +5124,8 @@ class QuantumsandLive
       "qt/qtdocgallery",
       "qt/qtenginio",
       "qt/qtftp",
-      "qt/qthttp"
+      "qt/qthttp",
+      "qt/qtinterfaceframework"
     ]
 
     @git_repos_kernel_org = [
