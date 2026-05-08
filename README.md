@@ -157,6 +157,12 @@ Support for all locales is planned eventually. This should help with interfaith 
 
 * Slimbook Creative; Currently untested. This laptop should be able to run Quantum Sand correctly using the Mesa graphics drivers with the AMD Ryzen AI9 365, or the official proprietary NVIDIA drivers with the NVIDIA GeForce RTX 5070.
 
+## Security vulnerabilities
+
+Once the initial Quantum Sand app is working correctly, the task of fixing security vulnerabilities throughout the entire dependency tree will begin.
+
+There are already known dependency vulnerabilities in the React and Ruby components.
+
 ## Special thanks
 
 Vital for Quantum Sand;
