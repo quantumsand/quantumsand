@@ -4648,7 +4648,8 @@ class QuantumsandLive
       "NVlabs/cuda-oxide",
       "inducer/compyte",
       "inducer/bpl-subset",
-      "inducer/pycuda"
+      "inducer/pycuda",
+      "vercel-labs/deepsec"
     ]
 
     @git_repos_chromium_googlesource = [
