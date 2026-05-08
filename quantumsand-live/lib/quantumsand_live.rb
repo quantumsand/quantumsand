@@ -4633,7 +4633,8 @@ class QuantumsandLive
       "aguacero7/rkik-nts",
       "kvark/fileman",
       "kvark/blade",
-      "emilk/egui"
+      "emilk/egui",
+      "vladbat00/bevy_egui"
     ]
 
     @git_repos_chromium_googlesource = [
