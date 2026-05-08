@@ -5121,7 +5121,8 @@ class QuantumsandLive
       "qt/qtdeclarative-render2d",
       "qt/qtdesignviewer",
       "qt/qtdeviceutilities",
-      "qt/qtdocgallery"
+      "qt/qtdocgallery",
+      "qt/qtenginio"
     ]
 
     @git_repos_kernel_org = [
