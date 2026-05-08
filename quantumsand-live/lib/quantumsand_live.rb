@@ -4631,7 +4631,8 @@ class QuantumsandLive
       "yandex-cloud/k8s-csi-s3",
       "nvidia/tensorrt",
       "aguacero7/rkik-nts",
-      "kvark/fileman"
+      "kvark/fileman",
+      "kvark/blade"
     ]
 
     @git_repos_chromium_googlesource = [
