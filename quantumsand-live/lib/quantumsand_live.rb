@@ -6016,7 +6016,8 @@ class QuantumsandLive
       "GNOME/gnome-maps",
       "GNOME/gnome-2048",
       "GNOME/accerciser",
-      "GNOME/adwaita-icon-theme"
+      "GNOME/adwaita-icon-theme",
+      "GNOME/aisleriot"
     ]
 
     @git_repos_postgresql_org = [
