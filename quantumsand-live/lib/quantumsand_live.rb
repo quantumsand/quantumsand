@@ -4644,7 +4644,8 @@ class QuantumsandLive
       "KDAB/KDSingleApplication",
       "facebook/openzl",
       "microsoft/vscode-cmake-tools",
-      "clangd/clangd"
+      "clangd/clangd",
+      "NVlabs/cuda-oxide"
     ]
 
     @git_repos_chromium_googlesource = [
