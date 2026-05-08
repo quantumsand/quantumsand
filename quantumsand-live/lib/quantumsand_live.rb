@@ -5113,7 +5113,8 @@ class QuantumsandLive
       "qt/qtquickeffectmaker",
       "qt/qtgraphs",
       "qt/qtopenapi",
-      "qt/qtcanvaspainter"
+      "qt/qtcanvaspainter",
+      "qt/qtanalytics"
     ]
 
     @git_repos_kernel_org = [
