@@ -5127,7 +5127,8 @@ class QuantumsandLive
       "qt/qthttp",
       "qt/qtinterfaceframework",
       "qt/qtinterfaceframework-qface",
-      "qt/qtinterfaceframework-taglib"
+      "qt/qtinterfaceframework-taglib",
+      "qt/qtivi-qface"
     ]
 
     @git_repos_kernel_org = [
