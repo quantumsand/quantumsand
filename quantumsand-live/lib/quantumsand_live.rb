@@ -6014,7 +6014,8 @@ class QuantumsandLive
       "GNOME/gtkmm",
       "World/Phosh/gmobile",
       "GNOME/gnome-maps",
-      "GNOME/gnome-2048"
+      "GNOME/gnome-2048",
+      "GNOME/accerciser"
     ]
 
     @git_repos_postgresql_org = [
