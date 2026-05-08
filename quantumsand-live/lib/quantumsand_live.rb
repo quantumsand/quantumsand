@@ -5120,7 +5120,8 @@ class QuantumsandLive
       "qt/qtcloudmessaging",
       "qt/qtdeclarative-render2d",
       "qt/qtdesignviewer",
-      "qt/qtdeviceutilities"
+      "qt/qtdeviceutilities",
+      "qt/qtdocgallery"
     ]
 
     @git_repos_kernel_org = [
