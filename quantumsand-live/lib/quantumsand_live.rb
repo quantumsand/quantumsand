@@ -6019,7 +6019,8 @@ class QuantumsandLive
       "GNOME/adwaita-icon-theme",
       "GNOME/aisleriot",
       "GNOME/gsettings-desktop-schemas",
-      "GNOME/alacarte"
+      "GNOME/alacarte",
+      "GNOME/almanah"
     ]
 
     @git_repos_postgresql_org = [
