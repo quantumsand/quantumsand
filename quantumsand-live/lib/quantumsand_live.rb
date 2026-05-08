@@ -4641,7 +4641,8 @@ class QuantumsandLive
       "KDAB/KDDockWidgets",
       "KDAB/cxx-qt",
       "KDAB/KDChart",
-      "KDAB/KDSingleApplication"
+      "KDAB/KDSingleApplication",
+      "facebook/openzl"
     ]
 
     @git_repos_chromium_googlesource = [
