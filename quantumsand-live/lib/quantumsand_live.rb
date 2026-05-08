@@ -4640,7 +4640,8 @@ class QuantumsandLive
       "KDAB/GammaRay",
       "KDAB/KDDockWidgets",
       "KDAB/cxx-qt",
-      "KDAB/KDChart"
+      "KDAB/KDChart",
+      "KDAB/KDSingleApplication"
     ]
 
     @git_repos_chromium_googlesource = [
