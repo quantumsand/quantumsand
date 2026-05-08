@@ -4629,7 +4629,8 @@ class QuantumsandLive
       "TriumphLLC/Blend4Web",
       "yandex-cloud/geesefs",
       "yandex-cloud/k8s-csi-s3",
-      "nvidia/tensorrt"
+      "nvidia/tensorrt",
+      "aguacero7/rkik-nts"
     ]
 
     @git_repos_chromium_googlesource = [
