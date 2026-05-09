@@ -4649,7 +4649,8 @@ class QuantumsandLive
       "inducer/compyte",
       "inducer/bpl-subset",
       "inducer/pycuda",
-      "vercel-labs/deepsec"
+      "vercel-labs/deepsec",
+      "Jeffser/Nocturne"
     ]
 
     @git_repos_chromium_googlesource = [
