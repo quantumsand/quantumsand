@@ -4650,7 +4650,8 @@ class QuantumsandLive
       "inducer/bpl-subset",
       "inducer/pycuda",
       "vercel-labs/deepsec",
-      "Jeffser/Nocturne"
+      "Jeffser/Nocturne",
+      "cisco-ai-defense/model-provenance-kit"
     ]
 
     @git_repos_chromium_googlesource = [
