@@ -6033,7 +6033,8 @@ class QuantumsandLive
       "GNOME/at-spi2-core",
       "GNOME/atkmm",
       "GNOME/atomix",
-      "GNOME/babl"
+      "GNOME/babl",
+      "GNOME/blueprint-compiler"
     ]
 
     @git_repos_postgresql_org = [
