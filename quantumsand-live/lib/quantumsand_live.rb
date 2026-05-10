@@ -4653,7 +4653,8 @@ class QuantumsandLive
       "Jeffser/Nocturne",
       "cisco-ai-defense/model-provenance-kit",
       "rustfs/rustfs",
-      "rustfs/homebrew-tap"
+      "rustfs/homebrew-tap",
+      "rustfs/cli"
     ]
 
     @git_repos_chromium_googlesource = [
