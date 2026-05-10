@@ -4651,7 +4651,8 @@ class QuantumsandLive
       "inducer/pycuda",
       "vercel-labs/deepsec",
       "Jeffser/Nocturne",
-      "cisco-ai-defense/model-provenance-kit"
+      "cisco-ai-defense/model-provenance-kit",
+      "rustfs/rustfs"
     ]
 
     @git_repos_chromium_googlesource = [
