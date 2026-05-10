@@ -4652,7 +4652,8 @@ class QuantumsandLive
       "vercel-labs/deepsec",
       "Jeffser/Nocturne",
       "cisco-ai-defense/model-provenance-kit",
-      "rustfs/rustfs"
+      "rustfs/rustfs",
+      "rustfs/homebrew-tap"
     ]
 
     @git_repos_chromium_googlesource = [
