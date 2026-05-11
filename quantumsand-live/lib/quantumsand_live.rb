@@ -6086,7 +6086,8 @@ class QuantumsandLive
       "GNOME/five-or-more",
       "GNOME/folks",
       "GNOME/gnome-font-viewer",
-      "GNOME/foundry"
+      "GNOME/foundry",
+      "GNOME/four-in-a-row"
     ]
 
     @git_repos_postgresql_org = [
