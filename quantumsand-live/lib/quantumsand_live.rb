@@ -6054,7 +6054,8 @@ class QuantumsandLive
       "GNOME/citemplates",
       "GNOME/gnome-clocks",
       "GNOME/gtk-frdp",
-      "GNOME/console"
+      "GNOME/console",
+      "GNOME/gnome-connections"
     ]
 
     @git_repos_postgresql_org = [
