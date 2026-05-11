@@ -6041,7 +6041,8 @@ class QuantumsandLive
       "GNOME/blueprint-compiler",
       "GNOME/libsecret",
       "GNOME/balsa",
-      "GNOME/baobab"
+      "GNOME/baobab",
+      "GNOME/bijiben"
     ]
 
     @git_repos_postgresql_org = [
