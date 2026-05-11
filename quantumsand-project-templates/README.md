@@ -38,5 +38,7 @@ This will include:
 * torrust-tracker (modern and feature-rich private BitTorrent tracker)
 * rqbit (bittorrent client in Rust)
 * Qiskit (for working with quantum computers)
+* RustFS (S3-compatible high-performance object storage)
+* rc (Rust S3 CLI client)
 
 More to follow.
