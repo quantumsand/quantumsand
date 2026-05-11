@@ -7232,7 +7232,8 @@ class QuantumsandLive
       "sys-block/partitionmanager",
       "app-office/lyx",
       "app-editors/texworks",
-      "app-office/texmaker"
+      "app-office/texmaker",
+      "app-text/libspectre"
     ]
 
     gentoo_eselect_repository_add = {
