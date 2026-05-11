@@ -4656,7 +4656,8 @@ class QuantumsandLive
       "rustfs/homebrew-tap",
       "rustfs/cli",
       "etesync/libetebase",
-      "containers/bubblewrap"
+      "containers/bubblewrap",
+      "openbao/openbao"
     ]
 
     @git_repos_chromium_googlesource = [
