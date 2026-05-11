@@ -6046,7 +6046,8 @@ class QuantumsandLive
       "GNOME/brasero",
       "GNOME/gnome-break-timer",
       "GNOME/calls",
-      "GNOME/cantarell-fonts"
+      "GNOME/cantarell-fonts",
+      "GNOME/gnome-characters"
     ]
 
     @git_repos_postgresql_org = [
