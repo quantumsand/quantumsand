@@ -6080,7 +6080,8 @@ class QuantumsandLive
       "GNOME/evolution-ews",
       "GNOME/eog",
       "GNOME/libhandy",
-      "GNOME/xdg-user-dirs-gtk"
+      "GNOME/xdg-user-dirs-gtk",
+      "GNOME/nautilus"
     ]
 
     @git_repos_postgresql_org = [
