@@ -6043,7 +6043,8 @@ class QuantumsandLive
       "GNOME/balsa",
       "GNOME/baobab",
       "GNOME/bijiben",
-      "GNOME/brasero"
+      "GNOME/brasero",
+      "GNOME/gnome-break-timer"
     ]
 
     @git_repos_postgresql_org = [
