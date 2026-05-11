@@ -6053,7 +6053,8 @@ class QuantumsandLive
       "GNOME/chronojump-docs",
       "GNOME/citemplates",
       "GNOME/gnome-clocks",
-      "GNOME/gtk-frdp"
+      "GNOME/gtk-frdp",
+      "GNOME/console"
     ]
 
     @git_repos_postgresql_org = [
