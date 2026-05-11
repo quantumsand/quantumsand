@@ -7233,7 +7233,8 @@ class QuantumsandLive
       "app-office/lyx",
       "app-editors/texworks",
       "app-office/texmaker",
-      "app-text/libspectre"
+      "app-text/libspectre",
+      "app-text/djvu"
     ]
 
     gentoo_eselect_repository_add = {
