@@ -6061,7 +6061,8 @@ class QuantumsandLive
       "GNOME/gvdb",
       "GNOME/dconf-editor",
       "BrainBlasted/gi-typescript-definitions",
-      "GNOME/decibels"
+      "GNOME/decibels",
+      "GNOME/devdocsgjs"
     ]
 
     @git_repos_postgresql_org = [
