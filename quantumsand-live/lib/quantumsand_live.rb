@@ -6082,7 +6082,8 @@ class QuantumsandLive
       "GNOME/libhandy",
       "GNOME/xdg-user-dirs-gtk",
       "GNOME/nautilus",
-      "GNOME/file-roller"
+      "GNOME/file-roller",
+      "GNOME/five-or-more"
     ]
 
     @git_repos_postgresql_org = [
