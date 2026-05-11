@@ -6050,7 +6050,8 @@ class QuantumsandLive
       "GNOME/gnome-characters",
       "GNOME/gnome-chess",
       "GNOME/chronojump",
-      "GNOME/chronojump-docs"
+      "GNOME/chronojump-docs",
+      "GNOME/citemplates"
     ]
 
     @git_repos_postgresql_org = [
