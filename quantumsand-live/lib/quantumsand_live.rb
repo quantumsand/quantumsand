@@ -6042,7 +6042,8 @@ class QuantumsandLive
       "GNOME/libsecret",
       "GNOME/balsa",
       "GNOME/baobab",
-      "GNOME/bijiben"
+      "GNOME/bijiben",
+      "GNOME/brasero"
     ]
 
     @git_repos_postgresql_org = [
