@@ -6075,7 +6075,8 @@ class QuantumsandLive
       "GNOME/evolution",
       "GNOME/evolution-activesync",
       "GNOME/evolution-data-server",
-      "GNOME/evolution-etesync"
+      "GNOME/evolution-etesync",
+      "GNOME/evolution-ews"
     ]
 
     @git_repos_postgresql_org = [
