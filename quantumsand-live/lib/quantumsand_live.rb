@@ -6066,7 +6066,8 @@ class QuantumsandLive
       "GNOME/dia",
       "GNOME/simple-scan",
       "GNOME/easytag",
-      "GNOME/eog-plugins"
+      "GNOME/eog-plugins",
+      "GNOME/epiphany"
     ]
 
     @git_repos_postgresql_org = [
