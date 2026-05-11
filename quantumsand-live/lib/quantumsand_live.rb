@@ -5542,7 +5542,8 @@ class QuantumsandLive
       "mobile-broadband/mobile-broadband.pages.freedesktop.org",
       "xorg/proto/xcbproto",
       "xorg/lib/libxcb",
-      "xorg/proto/xorgproto"
+      "xorg/proto/xorgproto",
+      "libspectre/libspectre"
     ]
 
     @git_repos_xfce_gitlab = [
