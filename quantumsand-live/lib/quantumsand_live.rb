@@ -6084,7 +6084,8 @@ class QuantumsandLive
       "GNOME/nautilus",
       "GNOME/file-roller",
       "GNOME/five-or-more",
-      "GNOME/folks"
+      "GNOME/folks",
+      "GNOME/gnome-font-viewer"
     ]
 
     @git_repos_postgresql_org = [
