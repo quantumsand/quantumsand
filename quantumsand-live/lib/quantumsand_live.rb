@@ -4654,7 +4654,8 @@ class QuantumsandLive
       "cisco-ai-defense/model-provenance-kit",
       "rustfs/rustfs",
       "rustfs/homebrew-tap",
-      "rustfs/cli"
+      "rustfs/cli",
+      "etesync/libetebase"
     ]
 
     @git_repos_chromium_googlesource = [
