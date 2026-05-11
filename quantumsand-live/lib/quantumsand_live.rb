@@ -6056,7 +6056,8 @@ class QuantumsandLive
       "GNOME/gtk-frdp",
       "GNOME/console",
       "GNOME/gnome-connections",
-      "GNOME/d-spy"
+      "GNOME/d-spy",
+      "GNOME/dasher"
     ]
 
     @git_repos_postgresql_org = [
