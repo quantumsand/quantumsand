@@ -7234,7 +7234,8 @@ class QuantumsandLive
       "app-editors/texworks",
       "app-office/texmaker",
       "app-text/libspectre",
-      "app-text/djvu"
+      "app-text/djvu",
+      "dev-libs/kpathsea"
     ]
 
     gentoo_eselect_repository_add = {
