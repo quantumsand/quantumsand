@@ -27,6 +27,12 @@ This means that development of each component can be done on all three of these 
 * Install Krita.
 * Install Mozilla Firefox.
 * Install Google Chrome.
+* Install OBS Studio; for macOS (Apple Silicon); make sure it is the arm64 dmg.
+* Open OBS Studio; You will be prompted to provide OBS Studio with the permissions that you want to allow.
+* This can actually take a few minutes and you might need to authorise permissions using a password.
+* Choose the option; “Optimise just for recording, I will not be streaming”
+* Accept and apply the default settings.
+* For now you can close OBS Studio.
 * Install LDtk; for macOS (experimental).
 * Open System Settings; Go into Privacy & Security; You should see: “LDtk” was blocked to protect your Mac.
 * Click Open Anyway; Twice. LDtk should have loaded. From now on, it should load fine without any issues.
