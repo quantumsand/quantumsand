@@ -4667,7 +4667,8 @@ class QuantumsandLive
       "pyvisa/pyvisa-drivers",
       "IviFoundation/IviDrivers",
       "rolldown/rolldown",
-      "tc39/test262"
+      "tc39/test262",
+      "mdx-editor/editor"
     ]
 
     @git_repos_chromium_googlesource = [
