@@ -4663,7 +4663,8 @@ class QuantumsandLive
       "giampaolo/psutil",
       "pyvisa/pyvisa-py",
       "pyvisa/pyvisa",
-      "pyvisa/pyvisa-sim"
+      "pyvisa/pyvisa-sim",
+      "pyvisa/pyvisa-drivers"
     ]
 
     @git_repos_chromium_googlesource = [
