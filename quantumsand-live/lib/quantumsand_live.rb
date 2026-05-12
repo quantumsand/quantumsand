@@ -4666,7 +4666,8 @@ class QuantumsandLive
       "pyvisa/pyvisa-sim",
       "pyvisa/pyvisa-drivers",
       "IviFoundation/IviDrivers",
-      "rolldown/rolldown"
+      "rolldown/rolldown",
+      "tc39/test262"
     ]
 
     @git_repos_chromium_googlesource = [
