@@ -4660,7 +4660,8 @@ class QuantumsandLive
       "openbao/openbao",
       "tcltk/tk",
       "catalineacsu/tek-scope-controller",
-      "giampaolo/psutil"
+      "giampaolo/psutil",
+      "pyvisa/pyvisa-py"
     ]
 
     @git_repos_chromium_googlesource = [
