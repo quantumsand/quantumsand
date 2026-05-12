@@ -4658,7 +4658,8 @@ class QuantumsandLive
       "etesync/libetebase",
       "containers/bubblewrap",
       "openbao/openbao",
-      "tcltk/tk"
+      "tcltk/tk",
+      "catalineacsu/tek-scope-controller"
     ]
 
     @git_repos_chromium_googlesource = [
