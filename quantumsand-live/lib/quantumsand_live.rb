@@ -4659,7 +4659,8 @@ class QuantumsandLive
       "containers/bubblewrap",
       "openbao/openbao",
       "tcltk/tk",
-      "catalineacsu/tek-scope-controller"
+      "catalineacsu/tek-scope-controller",
+      "giampaolo/psutil"
     ]
 
     @git_repos_chromium_googlesource = [
