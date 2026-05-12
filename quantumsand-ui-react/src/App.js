@@ -39,6 +39,7 @@ import VideogameDialogueSubtitles from "./pages/Videogame/VideogameDialogueSubti
 import Notifications from "./pages/Notifications/Notifications";
 import NarrativeSync from "./pages/NarrativeSync/NarrativeSync";
 import Geospatial from "./pages/Geospatial/Geospatial";
+import Prompter from "./pages/Prompter/Prompter";
 
 const mathsSlides = [
     {
@@ -123,6 +124,7 @@ function App() {
             <Route path="notifications" element={<Notifications />} />
             <Route path="narrativesync" element={<NarrativeSync />} />
             <Route path="geospatial" element={<Geospatial />} />
+            <Route path="prompter" element={<Prompter />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>

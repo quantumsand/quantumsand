@@ -11,5 +11,5 @@ export default function Geospatial() {
         <p>TODO: geospatial__map component</p>
       </div>
     </div>
-  );
+  )
 }
