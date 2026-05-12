@@ -4662,7 +4662,8 @@ class QuantumsandLive
       "catalineacsu/tek-scope-controller",
       "giampaolo/psutil",
       "pyvisa/pyvisa-py",
-      "pyvisa/pyvisa"
+      "pyvisa/pyvisa",
+      "pyvisa/pyvisa-sim"
     ]
 
     @git_repos_chromium_googlesource = [
