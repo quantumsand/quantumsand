@@ -4670,7 +4670,8 @@ class QuantumsandLive
       "tc39/test262",
       "mdx-editor/editor",
       "mdx-editor/extras",
-      "mdx-editor/element-table-plugin"
+      "mdx-editor/element-table-plugin",
+      "mdx-editor/editor-math-example"
     ]
 
     @git_repos_chromium_googlesource = [
