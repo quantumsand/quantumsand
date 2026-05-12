@@ -4657,7 +4657,8 @@ class QuantumsandLive
       "rustfs/cli",
       "etesync/libetebase",
       "containers/bubblewrap",
-      "openbao/openbao"
+      "openbao/openbao",
+      "tcltk/tk"
     ]
 
     @git_repos_chromium_googlesource = [
