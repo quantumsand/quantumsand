@@ -4668,7 +4668,8 @@ class QuantumsandLive
       "IviFoundation/IviDrivers",
       "rolldown/rolldown",
       "tc39/test262",
-      "mdx-editor/editor"
+      "mdx-editor/editor",
+      "mdx-editor/extras"
     ]
 
     @git_repos_chromium_googlesource = [
