@@ -40,5 +40,6 @@ This will include:
 * Qiskit (for working with quantum computers)
 * RustFS (S3-compatible high-performance object storage)
 * rc (Rust S3 CLI client)
+* PyVISA (Python package to control measurement devices and test equipment)
 
 More to follow.
