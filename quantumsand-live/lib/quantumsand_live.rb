@@ -6138,7 +6138,8 @@ class QuantumsandLive
       "GNOME/gnome-bluetooth",
       "GNOME/gnome-boxes-logos",
       "GNOME/gnome-browser-connector",
-      "GNOME/gnome-browser-extension"
+      "GNOME/gnome-browser-extension",
+      "GNOME/gnome-browser-integration"
     ]
 
     @git_repos_postgresql_org = [
