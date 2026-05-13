@@ -6154,7 +6154,8 @@ class QuantumsandLive
       "GNOME/gnome-flashback",
       "GNOME/gnome-i18n",
       "GNOME/gnome-initial-setup",
-      "GNOME/gnome-keyring"
+      "GNOME/gnome-keyring",
+      "GNOME/gnome-keysign"
     ]
 
     @git_repos_postgresql_org = [
