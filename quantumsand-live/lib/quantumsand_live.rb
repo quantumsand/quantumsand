@@ -6136,7 +6136,8 @@ class QuantumsandLive
       "GNOME/gnome-backgrounds",
       "GNOME/gnome-battery-bench",
       "GNOME/gnome-bluetooth",
-      "GNOME/gnome-boxes-logos"
+      "GNOME/gnome-boxes-logos",
+      "GNOME/gnome-browser-connector"
     ]
 
     @git_repos_postgresql_org = [
