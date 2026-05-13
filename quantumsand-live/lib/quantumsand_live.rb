@@ -6126,7 +6126,8 @@ class QuantumsandLive
       "GNOME/gnome-boxes",
       "felipeborges/libovf-glib",
       "GNOME/gnome-contacts",
-      "GNOME/gnome-kiosk"
+      "GNOME/gnome-kiosk",
+      "GNOME/gnome-tour"
     ]
 
     @git_repos_postgresql_org = [
