@@ -6131,7 +6131,8 @@ class QuantumsandLive
       "GNOME/gnome-tweaks",
       "GNOME/gnome-desktop",
       "GNOME/gnome-app-list",
-      "GNOME/gnome-applets"
+      "GNOME/gnome-applets",
+      "GNOME/gnome-autoar"
     ]
 
     @git_repos_postgresql_org = [
