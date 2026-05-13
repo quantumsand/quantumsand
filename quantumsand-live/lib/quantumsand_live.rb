@@ -6128,7 +6128,8 @@ class QuantumsandLive
       "GNOME/gnome-contacts",
       "GNOME/gnome-kiosk",
       "GNOME/gnome-tour",
-      "GNOME/gnome-tweaks"
+      "GNOME/gnome-tweaks",
+      "GNOME/gnome-desktop"
     ]
 
     @git_repos_postgresql_org = [
