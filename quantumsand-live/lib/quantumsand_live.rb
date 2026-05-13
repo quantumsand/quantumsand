@@ -6151,7 +6151,8 @@ class QuantumsandLive
       "GNOME/gnome-disk-utility",
       "GNOME/gnome-epub-thumbnailer",
       "GNOME/libgnome-volume-control",
-      "GNOME/gnome-flashback"
+      "GNOME/gnome-flashback",
+      "GNOME/gnome-i18n"
     ]
 
     @git_repos_postgresql_org = [
