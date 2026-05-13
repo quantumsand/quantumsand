@@ -6148,7 +6148,8 @@ class QuantumsandLive
       "GNOME/gnome-commander",
       "GNOME/gnome-desktop-testing",
       "GNOME/gnome-directory-thumbnailer",
-      "GNOME/gnome-disk-utility"
+      "GNOME/gnome-disk-utility",
+      "GNOME/gnome-epub-thumbnailer"
     ]
 
     @git_repos_postgresql_org = [
