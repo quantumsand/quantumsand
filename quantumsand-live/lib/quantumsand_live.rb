@@ -6146,7 +6146,8 @@ class QuantumsandLive
       "GNOME/gnome-calendar",
       "GNOME/gnome-color-manager",
       "GNOME/gnome-commander",
-      "GNOME/gnome-desktop-testing"
+      "GNOME/gnome-desktop-testing",
+      "GNOME/gnome-directory-thumbnailer"
     ]
 
     @git_repos_postgresql_org = [
