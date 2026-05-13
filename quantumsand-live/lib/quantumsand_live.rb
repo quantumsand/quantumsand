@@ -6149,7 +6149,8 @@ class QuantumsandLive
       "GNOME/gnome-desktop-testing",
       "GNOME/gnome-directory-thumbnailer",
       "GNOME/gnome-disk-utility",
-      "GNOME/gnome-epub-thumbnailer"
+      "GNOME/gnome-epub-thumbnailer",
+      "GNOME/libgnome-volume-control"
     ]
 
     @git_repos_postgresql_org = [
