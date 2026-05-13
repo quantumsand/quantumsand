@@ -6117,7 +6117,8 @@ class QuantumsandLive
       "GNOME/ghex",
       "GNOME/gimp-book-painting",
       "GNOME/gimp-data-extras",
-      "GNOME/gimp-help"
+      "GNOME/gimp-help",
+      "GNOME/gimp-perl"
     ]
 
     @git_repos_postgresql_org = [
