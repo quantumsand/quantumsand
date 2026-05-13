@@ -6109,7 +6109,8 @@ class QuantumsandLive
       "GNOME/gcr",
       "GNOME/gdm",
       "GNOME/geary",
-      "GNOME/gedit-latex"
+      "GNOME/gedit-latex",
+      "GNOME/gegl"
     ]
 
     @git_repos_postgresql_org = [
