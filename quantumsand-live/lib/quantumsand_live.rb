@@ -6141,7 +6141,8 @@ class QuantumsandLive
       "GNOME/gnome-browser-extension",
       "GNOME/gnome-browser-integration",
       "GNOME/gnome-build-meta",
-      "GNOME/gnome-builder"
+      "GNOME/gnome-builder",
+      "GNOME/gnome-calculator"
     ]
 
     @git_repos_postgresql_org = [
