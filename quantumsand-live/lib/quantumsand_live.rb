@@ -6130,7 +6130,8 @@ class QuantumsandLive
       "GNOME/gnome-tour",
       "GNOME/gnome-tweaks",
       "GNOME/gnome-desktop",
-      "GNOME/gnome-app-list"
+      "GNOME/gnome-app-list",
+      "GNOME/gnome-applets"
     ]
 
     @git_repos_postgresql_org = [
