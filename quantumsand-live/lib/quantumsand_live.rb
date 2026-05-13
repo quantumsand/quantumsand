@@ -6106,7 +6106,8 @@ class QuantumsandLive
       "GNOME/four-in-a-row",
       "GNOME/frogr",
       "GNOME/gcab",
-      "GNOME/gcr"
+      "GNOME/gcr",
+      "GNOME/gdm"
     ]
 
     @git_repos_postgresql_org = [
