@@ -6153,7 +6153,8 @@ class QuantumsandLive
       "GNOME/libgnome-volume-control",
       "GNOME/gnome-flashback",
       "GNOME/gnome-i18n",
-      "GNOME/gnome-initial-setup"
+      "GNOME/gnome-initial-setup",
+      "GNOME/gnome-keyring"
     ]
 
     @git_repos_postgresql_org = [
