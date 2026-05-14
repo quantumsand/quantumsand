@@ -6206,7 +6206,8 @@ class QuantumsandLive
       "GNOME/gucharmap",
       "GNOME/gupnp-dlna-media",
       "GNOME/gupnp-tools",
-      "GNOME/gweather-locations"
+      "GNOME/gweather-locations",
+      "GNOME/gxml"
     ]
 
     @git_repos_postgresql_org = [
