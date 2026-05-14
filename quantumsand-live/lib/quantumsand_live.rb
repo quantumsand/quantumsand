@@ -6161,7 +6161,8 @@ class QuantumsandLive
       "GNOME/gnome-logs",
       "GNOME/gnome-menus",
       "GNOME/gnome-mines",
-      "GNOME/gnome-multi-writer"
+      "GNOME/gnome-multi-writer",
+      "GNOME/gnome-music"
     ]
 
     @git_repos_postgresql_org = [
