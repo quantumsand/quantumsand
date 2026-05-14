@@ -6171,7 +6171,8 @@ class QuantumsandLive
       "GNOME/gnome-remote-desktop",
       "GNOME/gnome-robots",
       "GNOME/gnome-runtime-images",
-      "GNOME/gnome-session"
+      "GNOME/gnome-session",
+      "GNOME/gnome-settings-daemon"
     ]
 
     @git_repos_postgresql_org = [
