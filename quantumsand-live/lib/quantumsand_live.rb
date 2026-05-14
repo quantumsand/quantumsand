@@ -6166,7 +6166,8 @@ class QuantumsandLive
       "GNOME/gnome-network-displays",
       "GNOME/gnome-online-accounts",
       "GNOME/gnome-packagekit",
-      "GNOME/gnome-panel"
+      "GNOME/gnome-panel",
+      "GNOME/gnome-power-manager"
     ]
 
     @git_repos_postgresql_org = [
