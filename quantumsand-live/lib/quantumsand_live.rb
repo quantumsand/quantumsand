@@ -6200,7 +6200,8 @@ class QuantumsandLive
       "GNOME/gtk-osx",
       "GNOME/gtk-vnc",
       "GNOME/gtkmm-documentation",
-      "GNOME/gtksourceview"
+      "GNOME/gtksourceview",
+      "GNOME/gtksourceviewmm"
     ]
 
     @git_repos_postgresql_org = [
