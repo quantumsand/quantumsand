@@ -6170,7 +6170,8 @@ class QuantumsandLive
       "GNOME/gnome-power-manager",
       "GNOME/gnome-remote-desktop",
       "GNOME/gnome-robots",
-      "GNOME/gnome-runtime-images"
+      "GNOME/gnome-runtime-images",
+      "GNOME/gnome-session"
     ]
 
     @git_repos_postgresql_org = [
