@@ -6191,7 +6191,8 @@ class QuantumsandLive
       "GNOME/gparted",
       "GNOME/gsound",
       "GNOME/gspell",
-      "GNOME/gst-thumbnailers"
+      "GNOME/gst-thumbnailers",
+      "GNOME/gstreamermm"
     ]
 
     @git_repos_postgresql_org = [
