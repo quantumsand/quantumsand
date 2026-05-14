@@ -6157,7 +6157,8 @@ class QuantumsandLive
       "GNOME/gnome-initial-setup",
       "GNOME/gnome-keyring",
       "GNOME/gnome-keysign",
-      "GNOME/gnome-kra-ora-thumbnailer"
+      "GNOME/gnome-kra-ora-thumbnailer",
+      "GNOME/gnome-logs"
     ]
 
     @git_repos_postgresql_org = [
