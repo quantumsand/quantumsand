@@ -6185,7 +6185,8 @@ class QuantumsandLive
       "GNOME/gnomemm-website",
       "GNOME/gnote",
       "GNOME/gnumeric",
-      "GNOME/gnumeric-web"
+      "GNOME/gnumeric-web",
+      "GNOME/goffice"
     ]
 
     @git_repos_postgresql_org = [
