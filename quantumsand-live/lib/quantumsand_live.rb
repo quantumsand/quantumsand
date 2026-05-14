@@ -6195,7 +6195,8 @@ class QuantumsandLive
       "GNOME/gstreamermm",
       "GNOME/gthumb",
       "GNOME/gtk-doc",
-      "GNOME/gtk-mac-bundler"
+      "GNOME/gtk-mac-bundler",
+      "GNOME/gtk-mac-integration"
     ]
 
     @git_repos_postgresql_org = [
