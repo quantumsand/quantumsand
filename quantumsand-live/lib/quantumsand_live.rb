@@ -6175,7 +6175,8 @@ class QuantumsandLive
       "GNOME/gnome-settings-daemon",
       "GNOME/gnome-shell-extensions",
       "mwleeds/gnome-pwa-list",
-      "GNOME/gnome-software"
+      "GNOME/gnome-software",
+      "GNOME/gnome-subtitles"
     ]
 
     @git_repos_postgresql_org = [
