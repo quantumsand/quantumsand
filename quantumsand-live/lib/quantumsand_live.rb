@@ -6168,7 +6168,8 @@ class QuantumsandLive
       "GNOME/gnome-packagekit",
       "GNOME/gnome-panel",
       "GNOME/gnome-power-manager",
-      "GNOME/gnome-remote-desktop"
+      "GNOME/gnome-remote-desktop",
+      "GNOME/gnome-robots"
     ]
 
     @git_repos_postgresql_org = [
