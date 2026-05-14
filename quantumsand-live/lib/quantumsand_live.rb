@@ -6173,7 +6173,8 @@ class QuantumsandLive
       "GNOME/gnome-runtime-images",
       "GNOME/gnome-session",
       "GNOME/gnome-settings-daemon",
-      "GNOME/gnome-shell-extensions"
+      "GNOME/gnome-shell-extensions",
+      "mwleeds/gnome-pwa-list"
     ]
 
     @git_repos_postgresql_org = [
