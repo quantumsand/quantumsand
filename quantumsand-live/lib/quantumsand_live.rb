@@ -6163,7 +6163,8 @@ class QuantumsandLive
       "GNOME/gnome-mines",
       "GNOME/gnome-multi-writer",
       "GNOME/gnome-music",
-      "GNOME/gnome-network-displays"
+      "GNOME/gnome-network-displays",
+      "GNOME/gnome-online-accounts"
     ]
 
     @git_repos_postgresql_org = [
