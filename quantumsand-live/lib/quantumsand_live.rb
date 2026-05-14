@@ -6181,7 +6181,8 @@ class QuantumsandLive
       "GNOME/gnome-terminal",
       "GNOME/gnome-text-editor",
       "GNOME/gnome-user-docs",
-      "GNOME/gnome-user-share"
+      "GNOME/gnome-user-share",
+      "GNOME/gnomemm-website"
     ]
 
     @git_repos_postgresql_org = [
