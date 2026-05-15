@@ -4683,7 +4683,8 @@ class QuantumsandLive
       "ruvnet/rvcsi",
       "bats-core/bats-core",
       "bats-core/bats-vscode",
-      "bats-core/bats-assert"
+      "bats-core/bats-assert",
+      "bats-core/bats-support"
     ]
 
     @git_repos_chromium_googlesource = [
