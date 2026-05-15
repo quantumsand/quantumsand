@@ -6235,7 +6235,8 @@ class QuantumsandLive
       "GNOME/libgovirt",
       "GNOME/libgtop",
       "GNOME/libgweather",
-      "GNOME/libgxdp"
+      "GNOME/libgxdp",
+      "GNOME/libhttpseverywhere"
     ]
 
     @git_repos_postgresql_org = [
