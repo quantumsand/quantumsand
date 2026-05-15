@@ -43,5 +43,6 @@ This will include:
 * PyVISA (Python package to control measurement devices and test equipment)
 * RuView (real-time spatial intelligence, vital sign monitoring, and presence detection)
 * xarray (multi-dimensional arrays, sometimes called tensors)
+* Seaborn (statistical data visualization)
 
 More to follow.
