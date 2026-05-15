@@ -4681,7 +4681,8 @@ class QuantumsandLive
       "shaal/VrumVector",
       "ruvnet/sublinear-time-solver",
       "ruvnet/rvcsi",
-      "bats-core/bats-core"
+      "bats-core/bats-core",
+      "bats-core/bats-vscode"
     ]
 
     @git_repos_chromium_googlesource = [
