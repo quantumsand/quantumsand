@@ -42,5 +42,6 @@ This will include:
 * rc (Rust S3 CLI client)
 * PyVISA (Python package to control measurement devices and test equipment)
 * RuView (real-time spatial intelligence, vital sign monitoring, and presence detection)
+* xarray (multi-dimensional arrays, sometimes called tensors)
 
 More to follow.
