@@ -4691,7 +4691,8 @@ class QuantumsandLive
       "rayon-rs/either",
       "rayon-rs/rayon-macro",
       "opendatacube/datacube-core",
-      "rasterio/rasterio"
+      "rasterio/rasterio",
+      "rasterio/affine"
     ]
 
     @git_repos_chromium_googlesource = [
