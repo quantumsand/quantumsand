@@ -6218,7 +6218,8 @@ class QuantumsandLive
       "GNOME/gxml",
       "GNOME/hitori",
       "GNOME/loupe",
-      "GNOME/java-atk-wrapper"
+      "GNOME/java-atk-wrapper",
+      "GNOME/jsonrpc-glib"
     ]
 
     @git_repos_postgresql_org = [
