@@ -6253,7 +6253,8 @@ class QuantumsandLive
       "GNOME/gnome-mahjongg",
       "GNOME/manuals",
       "GNOME/meld",
-      "GNOME/metacity"
+      "GNOME/metacity",
+      "GNOME/mm-common"
     ]
 
     @git_repos_postgresql_org = [
