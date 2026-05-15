@@ -6230,7 +6230,8 @@ class QuantumsandLive
       "GNOME/libgda",
       "GNOME/libgepub",
       "GNOME/libgit2-glib",
-      "GNOME/libglnx"
+      "GNOME/libglnx",
+      "GNOME/libgnome-games-support"
     ]
 
     @git_repos_postgresql_org = [
