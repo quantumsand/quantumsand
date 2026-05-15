@@ -6239,7 +6239,8 @@ class QuantumsandLive
       "GNOME/libhttpseverywhere",
       "GNOME/libmanette",
       "GNOME/libmks",
-      "GNOME/libnma"
+      "GNOME/libnma",
+      "GNOME/libnotify"
     ]
 
     @git_repos_postgresql_org = [
