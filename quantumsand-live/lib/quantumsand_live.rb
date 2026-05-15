@@ -4696,7 +4696,8 @@ class QuantumsandLive
       "mwaskom/seaborn",
       "statsmodels/statsmodels",
       "drizzle-team/drizzle-orm",
-      "nkzw-tech/fate"
+      "nkzw-tech/fate",
+      "yudielcurbelo/react-qr-scanner"
     ]
 
     @git_repos_chromium_googlesource = [
