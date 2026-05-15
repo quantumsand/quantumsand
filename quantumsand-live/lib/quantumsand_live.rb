@@ -4687,7 +4687,8 @@ class QuantumsandLive
       "bats-core/bats-support",
       "bats-core/bats-file",
       "buildkite-plugins/bats-mock",
-      "rayon-rs/rayon"
+      "rayon-rs/rayon",
+      "rayon-rs/either"
     ]
 
     @git_repos_chromium_googlesource = [
