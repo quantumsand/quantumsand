@@ -4692,7 +4692,8 @@ class QuantumsandLive
       "rayon-rs/rayon-macro",
       "opendatacube/datacube-core",
       "rasterio/rasterio",
-      "rasterio/affine"
+      "rasterio/affine",
+      "mwaskom/seaborn"
     ]
 
     @git_repos_chromium_googlesource = [
