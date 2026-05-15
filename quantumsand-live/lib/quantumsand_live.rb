@@ -4674,7 +4674,8 @@ class QuantumsandLive
       "mdx-editor/editor-math-example",
       "mdx-editor/wiki-example",
       "Shopify/rubydex",
-      "norman/friendly_id"
+      "norman/friendly_id",
+      "ruvnet/RuView"
     ]
 
     @git_repos_chromium_googlesource = [
