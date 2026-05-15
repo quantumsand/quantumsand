@@ -44,5 +44,6 @@ This will include:
 * RuView (real-time spatial intelligence, vital sign monitoring, and presence detection)
 * xarray (multi-dimensional arrays, sometimes called tensors)
 * Seaborn (statistical data visualization)
+* Statsmodels (statistical modeling and econometrics)
 
 More to follow.
