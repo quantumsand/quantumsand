@@ -6250,7 +6250,8 @@ class QuantumsandLive
       "GNOME/libwnck",
       "GNOME/lightsoff",
       "GNOME/m4-common",
-      "GNOME/gnome-mahjongg"
+      "GNOME/gnome-mahjongg",
+      "GNOME/manuals"
     ]
 
     @git_repos_postgresql_org = [
