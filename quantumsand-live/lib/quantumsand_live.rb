@@ -4693,7 +4693,8 @@ class QuantumsandLive
       "opendatacube/datacube-core",
       "rasterio/rasterio",
       "rasterio/affine",
-      "mwaskom/seaborn"
+      "mwaskom/seaborn",
+      "statsmodels/statsmodels"
     ]
 
     @git_repos_chromium_googlesource = [
