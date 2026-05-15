@@ -6243,7 +6243,8 @@ class QuantumsandLive
       "GNOME/libnotify",
       "GNOME/libpanel",
       "GNOME/libpeas",
-      "GNOME/libshew"
+      "GNOME/libshew",
+      "GNOME/libshumate"
     ]
 
     @git_repos_postgresql_org = [
