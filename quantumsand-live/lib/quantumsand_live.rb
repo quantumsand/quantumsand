@@ -4677,7 +4677,8 @@ class QuantumsandLive
       "norman/friendly_id",
       "ruvnet/RuView",
       "ruvnet/midstream",
-      "ruvnet/ruvector"
+      "ruvnet/ruvector",
+      "shaal/VrumVector"
     ]
 
     @git_repos_chromium_googlesource = [
