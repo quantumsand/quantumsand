@@ -6247,7 +6247,8 @@ class QuantumsandLive
       "GNOME/libshumate",
       "GNOME/libspelling",
       "GNOME/libwnck",
-      "GNOME/lightsoff"
+      "GNOME/lightsoff",
+      "GNOME/m4-common"
     ]
 
     @git_repos_postgresql_org = [
