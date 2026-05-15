@@ -6241,7 +6241,8 @@ class QuantumsandLive
       "GNOME/libmks",
       "GNOME/libnma",
       "GNOME/libnotify",
-      "GNOME/libpanel"
+      "GNOME/libpanel",
+      "GNOME/libpeas"
     ]
 
     @git_repos_postgresql_org = [
