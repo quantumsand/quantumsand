@@ -4689,7 +4689,8 @@ class QuantumsandLive
       "buildkite-plugins/bats-mock",
       "rayon-rs/rayon",
       "rayon-rs/either",
-      "rayon-rs/rayon-macro"
+      "rayon-rs/rayon-macro",
+      "opendatacube/datacube-core"
     ]
 
     @git_repos_chromium_googlesource = [
