@@ -6222,7 +6222,8 @@ class QuantumsandLive
       "GNOME/jsonrpc-glib",
       "GNOME/gnome-klotski",
       "GNOME/krb5-auth-dialog",
-      "GNOME/libchamplain"
+      "GNOME/libchamplain",
+      "GNOME/libcloudproviders"
     ]
 
     @git_repos_postgresql_org = [
