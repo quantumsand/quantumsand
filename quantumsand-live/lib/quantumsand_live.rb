@@ -4676,7 +4676,8 @@ class QuantumsandLive
       "Shopify/rubydex",
       "norman/friendly_id",
       "ruvnet/RuView",
-      "ruvnet/midstream"
+      "ruvnet/midstream",
+      "ruvnet/ruvector"
     ]
 
     @git_repos_chromium_googlesource = [
