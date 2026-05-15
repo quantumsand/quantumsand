@@ -41,5 +41,6 @@ This will include:
 * RustFS (S3-compatible high-performance object storage)
 * rc (Rust S3 CLI client)
 * PyVISA (Python package to control measurement devices and test equipment)
+* RuView (real-time spatial intelligence, vital sign monitoring, and presence detection)
 
 More to follow.
