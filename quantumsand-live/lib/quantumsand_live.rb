@@ -5277,7 +5277,8 @@ class QuantumsandLive
       "indent",
       "inetutils",
       "hurd/hurd",
-      "icoutils"
+      "icoutils",
+      "autoconf-archive"
     ]
 
     @git_repos_savannah_nongnu_org = [
