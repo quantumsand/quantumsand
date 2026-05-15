@@ -6226,7 +6226,8 @@ class QuantumsandLive
       "GNOME/libcloudproviders",
       "GNOME/libdex",
       "GNOME/libdmapsharing",
-      "GNOME/libgd"
+      "GNOME/libgd",
+      "GNOME/libgda"
     ]
 
     @git_repos_postgresql_org = [
