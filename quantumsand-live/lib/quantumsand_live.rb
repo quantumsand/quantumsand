@@ -4694,7 +4694,8 @@ class QuantumsandLive
       "rasterio/rasterio",
       "rasterio/affine",
       "mwaskom/seaborn",
-      "statsmodels/statsmodels"
+      "statsmodels/statsmodels",
+      "drizzle-team/drizzle-orm"
     ]
 
     @git_repos_chromium_googlesource = [
