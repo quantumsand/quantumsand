@@ -6216,7 +6216,8 @@ class QuantumsandLive
       "GNOME/gupnp-tools",
       "GNOME/gweather-locations",
       "GNOME/gxml",
-      "GNOME/hitori"
+      "GNOME/hitori",
+      "GNOME/loupe"
     ]
 
     @git_repos_postgresql_org = [
