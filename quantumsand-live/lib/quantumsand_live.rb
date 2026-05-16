@@ -7442,7 +7442,8 @@ class QuantumsandLive
       "app-text/libspectre",
       "app-text/djvu",
       "dev-libs/kpathsea",
-      "dev-lang/tk"
+      "dev-lang/tk",
+      "sys-fs/mtools"
     ]
 
     gentoo_eselect_repository_add = {
