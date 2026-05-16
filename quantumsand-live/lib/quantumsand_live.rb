@@ -4698,7 +4698,8 @@ class QuantumsandLive
       "statsmodels/statsmodels",
       "drizzle-team/drizzle-orm",
       "nkzw-tech/fate",
-      "yudielcurbelo/react-qr-scanner"
+      "yudielcurbelo/react-qr-scanner",
+      "memtest86plus/memtest86plus"
     ]
 
     @git_repos_chromium_googlesource = [
