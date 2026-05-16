@@ -7443,7 +7443,8 @@ class QuantumsandLive
       "app-text/djvu",
       "dev-libs/kpathsea",
       "dev-lang/tk",
-      "sys-fs/mtools"
+      "sys-fs/mtools",
+      "dev-libs/libburn"
     ]
 
     gentoo_eselect_repository_add = {
