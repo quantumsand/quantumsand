@@ -4782,7 +4782,8 @@ class QuantumsandLive
     @git_repos_dev_lovelyhq_com_gitea = [
       "libburnia/libisoburn",
       "libburnia/libisofs",
-      "libburnia/libburn"
+      "libburnia/libburn",
+      "libburnia/legacy"
     ]
 
     @git_repos_osmocom_org_gitea = [
