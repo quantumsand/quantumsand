@@ -45,5 +45,6 @@ This will include:
 * xarray (multi-dimensional arrays, sometimes called tensors)
 * Seaborn (statistical data visualization)
 * Statsmodels (statistical modeling and econometrics)
+* Jekyll (blog-aware static site generator in Ruby)
 
 More to follow.
