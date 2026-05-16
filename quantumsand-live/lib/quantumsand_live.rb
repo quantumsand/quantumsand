@@ -15,6 +15,7 @@ class QuantumsandLive
     @git_repos_android_googlesource_url = ENV.fetch("GIT_REPOS_ANDROID_GOOGLESOURCE_URL")
     @git_repos_huggingface_co_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_URL")
     @git_repos_libreoffice_org_url = ENV.fetch("GIT_REPOS_LIBREOFFICE_ORG_URL")
+    @git_repos_dev_lovelyhq_com_url = ENV.fetch("GIT_REPOS_DEV_LOVELYHQ_COM_URL")
     @git_repos_osmocom_org_url = ENV.fetch("GIT_REPOS_OSMOCOM_ORG_URL")
     @git_repos_satdump_org_url = ENV.fetch("GIT_REPOS_SATDUMP_ORG_URL")
     @git_repos_openembedded_org_url = ENV.fetch("GIT_REPOS_OPENEMBEDDED_ORG_URL")
@@ -4776,6 +4777,10 @@ class QuantumsandLive
       "dictionaries",
       "help",
       "translations"
+    ]
+
+    @git_repos_dev_lovelyhq_com_gitea = [
+      "libburnia/libisoburn"
     ]
 
     @git_repos_osmocom_org_gitea = [
