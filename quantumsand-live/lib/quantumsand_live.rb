@@ -4707,7 +4707,8 @@ class QuantumsandLive
       "evcxr/evcxr",
       "SciRuby/iruby",
       "numba/numba",
-      "wlav/cppyy"
+      "wlav/cppyy",
+      "wlav/CPyCppyy"
     ]
 
     @git_repos_chromium_googlesource = [
