@@ -4700,7 +4700,8 @@ class QuantumsandLive
       "nkzw-tech/fate",
       "yudielcurbelo/react-qr-scanner",
       "memtest86plus/memtest86plus",
-      "KeithCu/writeragent"
+      "KeithCu/writeragent",
+      "huggingface/smolagents"
     ]
 
     @git_repos_chromium_googlesource = [
