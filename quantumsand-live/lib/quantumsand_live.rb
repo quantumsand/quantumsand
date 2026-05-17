@@ -4703,7 +4703,8 @@ class QuantumsandLive
       "KeithCu/writeragent",
       "huggingface/smolagents",
       "EmbarkStudios/Physx-5",
-      "NVIDIA-Omniverse/PhysX"
+      "NVIDIA-Omniverse/PhysX",
+      "evcxr/evcxr"
     ]
 
     @git_repos_chromium_googlesource = [
