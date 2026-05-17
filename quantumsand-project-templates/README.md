@@ -48,5 +48,6 @@ This will include:
 * Jekyll (blog-aware static site generator in Ruby)
 * Nx (multi-dimensional arrays and numerical definitions for Elixir)
 * EXLA (Google’s XLA, Accelerated Linear Algebra, compiler/backend for Nx)
+* Torchx (LibTorch backend for Nx)
 
 More to follow.
