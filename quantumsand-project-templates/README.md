@@ -46,5 +46,6 @@ This will include:
 * Seaborn (statistical data visualization)
 * Statsmodels (statistical modeling and econometrics)
 * Jekyll (blog-aware static site generator in Ruby)
+* Nx (multi-dimensional arrays and numerical definitions for Elixir)
 
 More to follow.
