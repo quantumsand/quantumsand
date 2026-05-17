@@ -4701,7 +4701,8 @@ class QuantumsandLive
       "yudielcurbelo/react-qr-scanner",
       "memtest86plus/memtest86plus",
       "KeithCu/writeragent",
-      "huggingface/smolagents"
+      "huggingface/smolagents",
+      "EmbarkStudios/Physx-5"
     ]
 
     @git_repos_chromium_googlesource = [
