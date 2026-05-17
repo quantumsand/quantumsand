@@ -4699,7 +4699,8 @@ class QuantumsandLive
       "drizzle-team/drizzle-orm",
       "nkzw-tech/fate",
       "yudielcurbelo/react-qr-scanner",
-      "memtest86plus/memtest86plus"
+      "memtest86plus/memtest86plus",
+      "KeithCu/writeragent"
     ]
 
     @git_repos_chromium_googlesource = [
