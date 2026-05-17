@@ -52,5 +52,6 @@ This will include:
 * EXLA (Google’s XLA, Accelerated Linear Algebra, compiler/backend for Nx)
 * Torchx (LibTorch backend for Nx)
 * PyO3 (Rust bindings for Python)
+* ROOT (processing and scientific analysis of large amounts of data)
 
 More to follow.
