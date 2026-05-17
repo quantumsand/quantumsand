@@ -49,5 +49,6 @@ This will include:
 * Nx (multi-dimensional arrays and numerical definitions for Elixir)
 * EXLA (Google’s XLA, Accelerated Linear Algebra, compiler/backend for Nx)
 * Torchx (LibTorch backend for Nx)
+* PyO3 (Rust bindings for Python)
 
 More to follow.
