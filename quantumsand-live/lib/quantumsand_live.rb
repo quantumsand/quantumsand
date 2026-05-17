@@ -4704,7 +4704,8 @@ class QuantumsandLive
       "huggingface/smolagents",
       "EmbarkStudios/Physx-5",
       "NVIDIA-Omniverse/PhysX",
-      "evcxr/evcxr"
+      "evcxr/evcxr",
+      "SciRuby/iruby"
     ]
 
     @git_repos_chromium_googlesource = [
