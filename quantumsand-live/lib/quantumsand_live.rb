@@ -4705,7 +4705,8 @@ class QuantumsandLive
       "EmbarkStudios/Physx-5",
       "NVIDIA-Omniverse/PhysX",
       "evcxr/evcxr",
-      "SciRuby/iruby"
+      "SciRuby/iruby",
+      "numba/numba"
     ]
 
     @git_repos_chromium_googlesource = [
