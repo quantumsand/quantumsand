@@ -4702,7 +4702,8 @@ class QuantumsandLive
       "memtest86plus/memtest86plus",
       "KeithCu/writeragent",
       "huggingface/smolagents",
-      "EmbarkStudios/Physx-5"
+      "EmbarkStudios/Physx-5",
+      "NVIDIA-Omniverse/PhysX"
     ]
 
     @git_repos_chromium_googlesource = [
