@@ -2,6 +2,8 @@
 
 Pre-configured sample projects with prefetched dependencies.
 
+These project templates are dual-licensed under the MIT License and Apache License 2.0
+
 This will include:
 
 * PyTorch
