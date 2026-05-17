@@ -53,5 +53,6 @@ This will include:
 * Torchx (LibTorch backend for Nx)
 * PyO3 (Rust bindings for Python)
 * ROOT (processing and scientific analysis of large amounts of data)
+* mapnik (pixel-perfect image output with lightning-fast cartographic algorithms)
 
 More to follow.
