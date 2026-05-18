@@ -6322,7 +6322,8 @@ class QuantumsandLive
       "GNOME/perl-cairo-gobject",
       "GNOME/perl-extutils-depends",
       "GNOME/perl-extutils-pkgconfig",
-      "GNOME/perl-glib"
+      "GNOME/perl-glib",
+      "GNOME/perl-glib-io"
     ]
 
     @git_repos_postgresql_org = [
