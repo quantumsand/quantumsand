@@ -4709,7 +4709,8 @@ class QuantumsandLive
       "numba/numba",
       "wlav/cppyy",
       "wlav/CPyCppyy",
-      "wlav/cppyy-backend"
+      "wlav/cppyy-backend",
+      "hfiguiere/RawTherapee"
     ]
 
     @git_repos_chromium_googlesource = [
