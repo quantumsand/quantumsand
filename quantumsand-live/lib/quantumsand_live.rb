@@ -4710,7 +4710,8 @@ class QuantumsandLive
       "wlav/cppyy",
       "wlav/CPyCppyy",
       "wlav/cppyy-backend",
-      "hfiguiere/RawTherapee"
+      "hfiguiere/RawTherapee",
+      "RawTherapee/RawTherapee"
     ]
 
     @git_repos_chromium_googlesource = [
