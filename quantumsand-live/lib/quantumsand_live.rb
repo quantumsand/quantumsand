@@ -6336,7 +6336,8 @@ class QuantumsandLive
       "GNOME/pyatspi2",
       "GNOME/pygobject-docs",
       "GNOME/quadrapassel",
-      "GNOME/recipes"
+      "GNOME/recipes",
+      "GNOME/releng"
     ]
 
     @git_repos_postgresql_org = [
