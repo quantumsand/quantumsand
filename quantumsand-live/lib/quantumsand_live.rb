@@ -6294,7 +6294,8 @@ class QuantumsandLive
       "GNOME/moserial",
       "GNOME/msgraph",
       "GNOME/msitools",
-      "GNOME/nautilus-python"
+      "GNOME/nautilus-python",
+      "GNOME/network-manager-applet"
     ]
 
     @git_repos_postgresql_org = [
