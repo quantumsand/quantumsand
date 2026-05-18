@@ -6312,7 +6312,8 @@ class QuantumsandLive
       "GNOME/office-runner",
       "GNOME/openqa-needles",
       "GNOME/openqa-utils",
-      "GNOME/openqa-tests"
+      "GNOME/openqa-tests",
+      "GNOME/orca"
     ]
 
     @git_repos_postgresql_org = [
