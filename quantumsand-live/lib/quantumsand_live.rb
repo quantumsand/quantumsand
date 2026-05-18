@@ -6342,7 +6342,8 @@ class QuantumsandLive
       "GNOME/iagno",
       "GNOME/rhythmbox",
       "GNOME/gnome-control-center",
-      "GNOME/shotwell"
+      "GNOME/shotwell",
+      "GNOME/snapshot"
     ]
 
     @git_repos_postgresql_org = [
