@@ -6327,7 +6327,8 @@ class QuantumsandLive
       "GNOME/perl-glib-object-introspection",
       "GNOME/perl-gtk3",
       "GNOME/perl-pango",
-      "GNOME/phodav"
+      "GNOME/phodav",
+      "GNOME/pipewire-media-stream"
     ]
 
     @git_repos_postgresql_org = [
