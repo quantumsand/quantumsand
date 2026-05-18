@@ -6303,7 +6303,8 @@ class QuantumsandLive
       "GNOME/NetworkManager-openconnect",
       "GNOME/NetworkManager-openvpn",
       "GNOME/NetworkManager-pptp",
-      "GNOME/NetworkManager-vpnc"
+      "GNOME/NetworkManager-vpnc",
+      "GNOME/gnome-nibbles"
     ]
 
     @git_repos_postgresql_org = [
