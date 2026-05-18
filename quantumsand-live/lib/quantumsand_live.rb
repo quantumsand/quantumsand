@@ -6308,7 +6308,8 @@ class QuantumsandLive
       "GNOME/NetworkManager-vpnc",
       "GNOME/gnome-nibbles",
       "GNOME/niepce",
-      "GNOME/ocrfeeder"
+      "GNOME/ocrfeeder",
+      "GNOME/office-runner"
     ]
 
     @git_repos_postgresql_org = [
