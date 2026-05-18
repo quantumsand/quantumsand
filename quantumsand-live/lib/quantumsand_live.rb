@@ -6301,7 +6301,8 @@ class QuantumsandLive
       "GNOME/NetworkManager-fortisslvpn",
       "GNOME/NetworkManager-libreswan",
       "GNOME/NetworkManager-openconnect",
-      "GNOME/NetworkManager-openvpn"
+      "GNOME/NetworkManager-openvpn",
+      "GNOME/NetworkManager-pptp"
     ]
 
     @git_repos_postgresql_org = [
