@@ -6298,7 +6298,8 @@ class QuantumsandLive
       "GNOME/network-manager-applet",
       "GNOME/network-manager-iodine",
       "GNOME/network-manager-sstp",
-      "GNOME/NetworkManager-fortisslvpn"
+      "GNOME/NetworkManager-fortisslvpn",
+      "GNOME/NetworkManager-libreswan"
     ]
 
     @git_repos_postgresql_org = [
