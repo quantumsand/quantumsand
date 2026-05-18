@@ -6328,7 +6328,8 @@ class QuantumsandLive
       "GNOME/perl-gtk3",
       "GNOME/perl-pango",
       "GNOME/phodav",
-      "GNOME/pipewire-media-stream"
+      "GNOME/pipewire-media-stream",
+      "GNOME/pitivi"
     ]
 
     @git_repos_postgresql_org = [
