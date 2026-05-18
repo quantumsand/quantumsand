@@ -6317,7 +6317,8 @@ class QuantumsandLive
       "GNOME/pan",
       "lbaudin/papers-test-data",
       "GNOME/papers",
-      "GNOME/seahorse"
+      "GNOME/seahorse",
+      "GNOME/perl-cairo"
     ]
 
     @git_repos_postgresql_org = [
