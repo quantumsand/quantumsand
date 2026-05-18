@@ -6325,7 +6325,8 @@ class QuantumsandLive
       "GNOME/perl-glib",
       "GNOME/perl-glib-io",
       "GNOME/perl-glib-object-introspection",
-      "GNOME/perl-gtk3"
+      "GNOME/perl-gtk3",
+      "GNOME/perl-pango"
     ]
 
     @git_repos_postgresql_org = [
