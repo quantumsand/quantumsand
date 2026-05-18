@@ -6340,7 +6340,8 @@ class QuantumsandLive
       "GNOME/recipes",
       "GNOME/releng",
       "GNOME/iagno",
-      "GNOME/rhythmbox"
+      "GNOME/rhythmbox",
+      "GNOME/gnome-control-center"
     ]
 
     @git_repos_postgresql_org = [
