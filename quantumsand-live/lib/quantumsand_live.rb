@@ -6333,7 +6333,8 @@ class QuantumsandLive
       "GNOME/polari",
       "GNOME/postr",
       "GNOME/presentation-templates",
-      "GNOME/pyatspi2"
+      "GNOME/pyatspi2",
+      "GNOME/pygobject-docs"
     ]
 
     @git_repos_postgresql_org = [
