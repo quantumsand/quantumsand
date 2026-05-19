@@ -5248,7 +5248,8 @@ class QuantumsandLive
       "fs/xfs/xfsprogs-dev",
       "linux/kernel/git/netfilter/nf-next",
       "libs/ell/ell",
-      "linux/kernel/git/mszeredi/fuse"
+      "linux/kernel/git/mszeredi/fuse",
+      "linux/kernel/git/hid/hid"
     ]
 
     @git_repos_isc_org_gitlab = [
