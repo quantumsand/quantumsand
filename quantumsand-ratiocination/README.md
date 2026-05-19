@@ -1,6 +1,6 @@
 # Quantum Sand Ratiocination
 
-Ratiocination or "Ratty".
+Ratiocination or “Ratty”.
 
 Automated background tasks using AI models.
 
