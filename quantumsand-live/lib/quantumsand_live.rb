@@ -4714,7 +4714,8 @@ class QuantumsandLive
       "RawTherapee/RawTherapee",
       "itstool/itstool",
       "microsoft/TRELLIS.2",
-      "JeffreyXiang/FlexGEMM"
+      "JeffreyXiang/FlexGEMM",
+      "JeffreyXiang/cubvh"
     ]
 
     @git_repos_chromium_googlesource = [
