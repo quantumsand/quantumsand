@@ -6347,7 +6347,8 @@ class QuantumsandLive
       "GNOME/snapshot",
       "GNOME/gnome-sudoku",
       "GNOME/sushi",
-      "GNOME/swell-foop"
+      "GNOME/swell-foop",
+      "GNOME/sysprof"
     ]
 
     @git_repos_postgresql_org = [
