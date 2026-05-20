@@ -4712,7 +4712,8 @@ class QuantumsandLive
       "wlav/cppyy-backend",
       "hfiguiere/RawTherapee",
       "RawTherapee/RawTherapee",
-      "itstool/itstool"
+      "itstool/itstool",
+      "microsoft/TRELLIS.2"
     ]
 
     @git_repos_chromium_googlesource = [
