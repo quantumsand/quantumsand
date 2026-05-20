@@ -6395,7 +6395,8 @@ class QuantumsandLive
       "World/gedit/libgedit-gfls",
       "World/gedit/libgedit-gtksourceview",
       "World/gedit/libgedit-tepl",
-      "World/javascript/ci-run-eslint"
+      "World/javascript/ci-run-eslint",
+      "World/javascript/create-gnome-extension"
     ]
 
     @git_repos_postgresql_org = [
