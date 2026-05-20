@@ -4716,7 +4716,8 @@ class QuantumsandLive
       "microsoft/TRELLIS.2",
       "JeffreyXiang/FlexGEMM",
       "JeffreyXiang/cubvh",
-      "ashawkey/cubvh"
+      "ashawkey/cubvh",
+      "JeffreyXiang/CuMesh"
     ]
 
     @git_repos_chromium_googlesource = [
