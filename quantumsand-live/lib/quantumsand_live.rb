@@ -6379,7 +6379,8 @@ class QuantumsandLive
       "GNOME/yelp-tools",
       "GNOME/yelp-xsl",
       "GNOME/zenity",
-      "Teams/Design/HIG-app-icons"
+      "Teams/Design/HIG-app-icons",
+      "World/design/app-icon-preview"
     ]
 
     @git_repos_postgresql_org = [
