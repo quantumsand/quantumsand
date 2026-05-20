@@ -6375,7 +6375,8 @@ class QuantumsandLive
       "GNOME/gnome-weather",
       "GNOME/wing",
       "GNOME/xdg-desktop-portal-gnome",
-      "GNOME/yelp"
+      "GNOME/yelp",
+      "GNOME/yelp-tools"
     ]
 
     @git_repos_postgresql_org = [
