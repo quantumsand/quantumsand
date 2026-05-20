@@ -6377,7 +6377,8 @@ class QuantumsandLive
       "GNOME/xdg-desktop-portal-gnome",
       "GNOME/yelp",
       "GNOME/yelp-tools",
-      "GNOME/yelp-xsl"
+      "GNOME/yelp-xsl",
+      "GNOME/zenity"
     ]
 
     @git_repos_postgresql_org = [
