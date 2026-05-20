@@ -6382,7 +6382,8 @@ class QuantumsandLive
       "Teams/Design/HIG-app-icons",
       "World/design/app-icon-preview",
       "World/design/contrast",
-      "World/design/emblem"
+      "World/design/emblem",
+      "World/design/icon-library"
     ]
 
     @git_repos_postgresql_org = [
