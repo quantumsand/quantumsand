@@ -6363,7 +6363,8 @@ class QuantumsandLive
       "GNOME/gnome-usage",
       "GNOME/vala-extra-vapis",
       "GNOME/showtime",
-      "GNOME/vte"
+      "GNOME/vte",
+      "GNOME/gnome-weather"
     ]
 
     @git_repos_postgresql_org = [
