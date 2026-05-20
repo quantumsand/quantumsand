@@ -6381,7 +6381,8 @@ class QuantumsandLive
       "GNOME/zenity",
       "Teams/Design/HIG-app-icons",
       "World/design/app-icon-preview",
-      "World/design/contrast"
+      "World/design/contrast",
+      "World/design/emblem"
     ]
 
     @git_repos_postgresql_org = [
