@@ -7558,7 +7558,8 @@ class QuantumsandLive
       "dev-lang/tk",
       "sys-fs/mtools",
       "dev-libs/libburn",
-      "sys-apps/memtest86+"
+      "sys-apps/memtest86+",
+      "dev-tex/latexmk"
     ]
 
     gentoo_eselect_repository_add = {
