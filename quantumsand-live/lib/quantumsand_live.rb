@@ -4717,7 +4717,8 @@ class QuantumsandLive
       "JeffreyXiang/FlexGEMM",
       "JeffreyXiang/cubvh",
       "ashawkey/cubvh",
-      "JeffreyXiang/CuMesh"
+      "JeffreyXiang/CuMesh",
+      "NVlabs/nvdiffrast"
     ]
 
     @git_repos_chromium_googlesource = [
