@@ -6388,7 +6388,8 @@ class QuantumsandLive
       "World/design/palette",
       "World/design/symbolic-preview",
       "World/design/typography",
-      "World/gedit/enter-tex"
+      "World/gedit/enter-tex",
+      "World/gedit/gedit-plugins"
     ]
 
     @git_repos_postgresql_org = [
