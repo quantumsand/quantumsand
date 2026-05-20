@@ -6356,7 +6356,8 @@ class QuantumsandLive
       "GNOME/template-glib",
       "GNOME/gnome-tetravex",
       "GNOME/tinysparql",
-      "GNOME/totem"
+      "GNOME/totem",
+      "GNOME/totem-pl-parser"
     ]
 
     @git_repos_postgresql_org = [
