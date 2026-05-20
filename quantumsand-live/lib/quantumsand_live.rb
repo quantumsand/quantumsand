@@ -6351,7 +6351,8 @@ class QuantumsandLive
       "GNOME/sysprof",
       "GNOME/tali",
       "GNOME/gnome-taquin",
-      "GNOME/tecla"
+      "GNOME/tecla",
+      "GNOME/telegnome"
     ]
 
     @git_repos_postgresql_org = [
