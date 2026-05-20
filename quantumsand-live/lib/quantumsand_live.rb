@@ -6392,7 +6392,8 @@ class QuantumsandLive
       "World/gedit/gedit-plugins",
       "World/gedit/gedit",
       "World/gedit/libgedit-amtk",
-      "World/gedit/libgedit-gfls"
+      "World/gedit/libgedit-gfls",
+      "World/gedit/libgedit-gtksourceview"
     ]
 
     @git_repos_postgresql_org = [
