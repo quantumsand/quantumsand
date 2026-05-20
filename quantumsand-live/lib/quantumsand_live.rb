@@ -6385,7 +6385,8 @@ class QuantumsandLive
       "World/design/emblem",
       "World/design/icon-library",
       "World/design/lorem",
-      "World/design/palette"
+      "World/design/palette",
+      "World/design/symbolic-preview"
     ]
 
     @git_repos_postgresql_org = [
