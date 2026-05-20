@@ -6361,7 +6361,8 @@ class QuantumsandLive
       "GNOME/totem-video-thumbnailer",
       "GNOME/tracker-miner-media",
       "GNOME/gnome-usage",
-      "GNOME/vala-extra-vapis"
+      "GNOME/vala-extra-vapis",
+      "GNOME/showtime"
     ]
 
     @git_repos_postgresql_org = [
