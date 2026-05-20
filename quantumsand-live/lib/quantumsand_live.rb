@@ -6350,7 +6350,8 @@ class QuantumsandLive
       "GNOME/swell-foop",
       "GNOME/sysprof",
       "GNOME/tali",
-      "GNOME/gnome-taquin"
+      "GNOME/gnome-taquin",
+      "GNOME/tecla"
     ]
 
     @git_repos_postgresql_org = [
