@@ -56,3 +56,57 @@ This will include:
 * mapnik (pixel-perfect image output with lightning-fast cartographic algorithms)
 
 More to follow.
+
+
+## Steps to reproduce the dependency installation
+
+### Python notebooks and dependencies
+
+* Initialise a new Python project directory;
+```bash
+uv init --python 3.14
+```
+* Add Python dependencies;
+* PyTorch;
+```
+uv add torch torchvision torchaudio
+```
+* Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
+```bash
+uv add --dev ipykernel
+```
+* Creating a dedicated Jupyter kernel;
+```bash
+uv run ipython kernel install --user --env VIRTUAL_ENV $(pwd)/.venv --name=quantumsand-project-templates
+```
+* Start the Jupyter server;
+```bash
+uv run --with jupyter jupyter lab
+```
+* Test one of the Python notebooks.
+* Google Chrome should have automatically launched.
+* If not, you can type this localhost address into the Chrome address bar.
+* On the terminal you should see a localhost address like this:
+`http://localhost:8888/lab?token=xxx`
+* You need to make sure that you copy the entire url including the long `token` after `token=`.
+* Paste this url into Chrome.
+* You can browse to the `quantumsand-project-templates-pytorch` directory in the File Browser on the left hand side of the web interface.
+* Open the `quantumsand-project-template-pytorch-001.ipynb` notebook.
+* You are prompted to `Select Kernel`; choose `Python 3 (ipykernel)`; click `Select`.
+* Select the first Python cell `import torch`.
+* Press the button that looks like a play button `Run this cell and advance`.
+* Keep pressing this button to run each Python code cell.
+* The cell `torch.__version__`; Should output the following text: `'2.12.0'`
+* This is the version number of the PyTorch dependency that we have installed.
+* If you are using macOS; run the `macOS only` cell;
+```python
+if torch.backends.mps.is_available():
+    mps_device = torch.device("mps")
+    x = torch.ones(1, device=mps_device)
+    print (x)
+else:
+    print ("MPS device not found.")
+```
+* This should output the following text: `tensor([1.], device='mps:0')`
+
+More to follow...
