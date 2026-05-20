@@ -6359,7 +6359,8 @@ class QuantumsandLive
       "GNOME/totem",
       "GNOME/totem-pl-parser",
       "GNOME/totem-video-thumbnailer",
-      "GNOME/tracker-miner-media"
+      "GNOME/tracker-miner-media",
+      "GNOME/gnome-usage"
     ]
 
     @git_repos_postgresql_org = [
