@@ -6447,7 +6447,8 @@ class QuantumsandLive
       "World/Rust/libgweather-rs",
       "World/Rust/libhandy-rs",
       "World/Rust/libmanette-rs",
-      "World/Rust/libpanel-rs"
+      "World/Rust/libpanel-rs",
+      "World/Rust/libsecret-rs"
     ]
 
     @git_repos_postgresql_org = [
