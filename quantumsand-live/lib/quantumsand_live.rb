@@ -6400,7 +6400,8 @@ class QuantumsandLive
       "World/javascript/eslint-config-gnome",
       "World/javascript/gjs-ci-tools",
       "World/javascript/gjs-guide",
-      "World/javascript/gnome-typescript-template"
+      "World/javascript/gnome-typescript-template",
+      "World/OpenPaperwork/ironscanner"
     ]
 
     @git_repos_postgresql_org = [
