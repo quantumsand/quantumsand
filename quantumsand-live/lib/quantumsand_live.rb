@@ -6440,7 +6440,8 @@ class QuantumsandLive
       "World/Rust/libadwaita-rs",
       "World/Rust/libappstream-rs",
       "World/Rust/libdazzle-rs",
-      "World/Rust/libflatpak-rs"
+      "World/Rust/libflatpak-rs",
+      "World/Rust/libgnome-games-support-rs"
     ]
 
     @git_repos_postgresql_org = [
