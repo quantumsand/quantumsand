@@ -6416,7 +6416,8 @@ class QuantumsandLive
       "World/Phosh/pfs",
       "World/Phosh/phoc",
       "World/Phosh/phosh-first-boot",
-      "World/Phosh/phosh-wallpapers"
+      "World/Phosh/phosh-wallpapers",
+      "World/Phosh/phosh-mobile-settings"
     ]
 
     @git_repos_postgresql_org = [
