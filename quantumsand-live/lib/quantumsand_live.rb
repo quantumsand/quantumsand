@@ -6398,7 +6398,8 @@ class QuantumsandLive
       "World/javascript/ci-run-eslint",
       "World/javascript/create-gnome-extension",
       "World/javascript/eslint-config-gnome",
-      "World/javascript/gjs-ci-tools"
+      "World/javascript/gjs-ci-tools",
+      "World/javascript/gjs-guide"
     ]
 
     @git_repos_postgresql_org = [
