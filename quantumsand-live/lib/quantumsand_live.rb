@@ -6408,7 +6408,8 @@ class QuantumsandLive
       "World/OpenPaperwork/libpillowfight",
       "World/OpenPaperwork/paperwork-test-documents",
       "World/Perl/perl-adwaita",
-      "World/Perl/perl-gtk4"
+      "World/Perl/perl-gtk4",
+      "World/Phosh/libcall-ui"
     ]
 
     @git_repos_postgresql_org = [
