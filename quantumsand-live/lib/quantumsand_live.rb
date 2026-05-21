@@ -6434,7 +6434,8 @@ class QuantumsandLive
       "World/Rust/markup-rs/xrusty",
       "World/Rust/gegl-rs",
       "World/Rust/gir-rustdoc",
-      "World/Rust/gmime-rs"
+      "World/Rust/gmime-rs",
+      "World/Rust/gspell-rs"
     ]
 
     @git_repos_postgresql_org = [
