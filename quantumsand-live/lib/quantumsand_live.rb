@@ -6399,7 +6399,8 @@ class QuantumsandLive
       "World/javascript/create-gnome-extension",
       "World/javascript/eslint-config-gnome",
       "World/javascript/gjs-ci-tools",
-      "World/javascript/gjs-guide"
+      "World/javascript/gjs-guide",
+      "World/javascript/gnome-typescript-template"
     ]
 
     @git_repos_postgresql_org = [
