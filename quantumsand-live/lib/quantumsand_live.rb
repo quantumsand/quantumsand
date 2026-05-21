@@ -6414,7 +6414,8 @@ class QuantumsandLive
       "World/Phosh/libpms-rs",
       "World/Phosh/meta-phosh",
       "World/Phosh/pfs",
-      "World/Phosh/phoc"
+      "World/Phosh/phoc",
+      "World/Phosh/phosh-first-boot"
     ]
 
     @git_repos_postgresql_org = [
