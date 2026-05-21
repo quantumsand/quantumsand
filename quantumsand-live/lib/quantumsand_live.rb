@@ -6413,7 +6413,8 @@ class QuantumsandLive
       "World/Phosh/libphosh-rs",
       "World/Phosh/libpms-rs",
       "World/Phosh/meta-phosh",
-      "World/Phosh/pfs"
+      "World/Phosh/pfs",
+      "World/Phosh/phoc"
     ]
 
     @git_repos_postgresql_org = [
