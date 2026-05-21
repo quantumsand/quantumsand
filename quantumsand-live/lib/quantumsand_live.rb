@@ -6405,7 +6405,8 @@ class QuantumsandLive
       "World/OpenPaperwork/paperwork",
       "World/OpenPaperwork/libinsane",
       "World/OpenPaperwork/pyocr",
-      "World/OpenPaperwork/libpillowfight"
+      "World/OpenPaperwork/libpillowfight",
+      "World/OpenPaperwork/paperwork-test-documents"
     ]
 
     @git_repos_postgresql_org = [
