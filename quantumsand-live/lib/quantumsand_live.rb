@@ -6426,7 +6426,8 @@ class QuantumsandLive
       "World/Phosh/squeekboard",
       "World/Phosh/stevia",
       "World/Phosh/syncbus",
-      "World/Phosh/xdg-desktop-portal-phosh"
+      "World/Phosh/xdg-desktop-portal-phosh",
+      "World/Rust/markup-rs/qualname"
     ]
 
     @git_repos_postgresql_org = [
