@@ -6439,7 +6439,8 @@ class QuantumsandLive
       "World/Rust/gtk-rust-template",
       "World/Rust/libadwaita-rs",
       "World/Rust/libappstream-rs",
-      "World/Rust/libdazzle-rs"
+      "World/Rust/libdazzle-rs",
+      "World/Rust/libflatpak-rs"
     ]
 
     @git_repos_postgresql_org = [
