@@ -6407,7 +6407,8 @@ class QuantumsandLive
       "World/OpenPaperwork/pyocr",
       "World/OpenPaperwork/libpillowfight",
       "World/OpenPaperwork/paperwork-test-documents",
-      "World/Perl/perl-adwaita"
+      "World/Perl/perl-adwaita",
+      "World/Perl/perl-gtk4"
     ]
 
     @git_repos_postgresql_org = [
