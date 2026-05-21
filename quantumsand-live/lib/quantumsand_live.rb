@@ -4721,7 +4721,8 @@ class QuantumsandLive
       "NVlabs/nvdiffrast",
       "NVlabs/nvdiffrec",
       "syncthing/syncthing",
-      "syncthing/docs"
+      "syncthing/docs",
+      "willwwarner/gir"
     ]
 
     @git_repos_chromium_googlesource = [
