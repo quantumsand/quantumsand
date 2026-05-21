@@ -6402,7 +6402,8 @@ class QuantumsandLive
       "World/javascript/gjs-guide",
       "World/javascript/gnome-typescript-template",
       "World/OpenPaperwork/ironscanner",
-      "World/OpenPaperwork/paperwork"
+      "World/OpenPaperwork/paperwork",
+      "World/OpenPaperwork/libinsane"
     ]
 
     @git_repos_postgresql_org = [
