@@ -6410,7 +6410,8 @@ class QuantumsandLive
       "World/Perl/perl-adwaita",
       "World/Perl/perl-gtk4",
       "World/Phosh/libcall-ui",
-      "World/Phosh/libphosh-rs"
+      "World/Phosh/libphosh-rs",
+      "World/Phosh/libpms-rs"
     ]
 
     @git_repos_postgresql_org = [
