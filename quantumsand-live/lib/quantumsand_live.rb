@@ -6424,7 +6424,8 @@ class QuantumsandLive
       "World/Phosh/phosh-tests",
       "World/Phosh/phosh-tour",
       "World/Phosh/squeekboard",
-      "World/Phosh/stevia"
+      "World/Phosh/stevia",
+      "World/Phosh/syncbus"
     ]
 
     @git_repos_postgresql_org = [
