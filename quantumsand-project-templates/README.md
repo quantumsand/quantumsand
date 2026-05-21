@@ -6,7 +6,7 @@ These project templates are dual-licensed under the MIT License and Apache Licen
 
 This will include:
 
-* PyTorch
+* [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
 * TensorFlow
 * pydicom
 * MONAI
