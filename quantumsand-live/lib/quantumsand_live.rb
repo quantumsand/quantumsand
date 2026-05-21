@@ -6429,7 +6429,8 @@ class QuantumsandLive
       "World/Phosh/xdg-desktop-portal-phosh",
       "World/Rust/markup-rs/qualname",
       "World/Rust/markup-rs/xrust",
-      "World/Rust/markup-rs/xrust-md"
+      "World/Rust/markup-rs/xrust-md",
+      "World/Rust/markup-rs/xrust-net"
     ]
 
     @git_repos_postgresql_org = [
