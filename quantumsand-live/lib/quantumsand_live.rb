@@ -6430,7 +6430,8 @@ class QuantumsandLive
       "World/Rust/markup-rs/qualname",
       "World/Rust/markup-rs/xrust",
       "World/Rust/markup-rs/xrust-md",
-      "World/Rust/markup-rs/xrust-net"
+      "World/Rust/markup-rs/xrust-net",
+      "World/Rust/markup-rs/xrusty"
     ]
 
     @git_repos_postgresql_org = [
