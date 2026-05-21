@@ -4719,7 +4719,8 @@ class QuantumsandLive
       "ashawkey/cubvh",
       "JeffreyXiang/CuMesh",
       "NVlabs/nvdiffrast",
-      "NVlabs/nvdiffrec"
+      "NVlabs/nvdiffrec",
+      "syncthing/syncthing"
     ]
 
     @git_repos_chromium_googlesource = [
