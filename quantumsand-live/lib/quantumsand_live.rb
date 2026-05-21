@@ -6420,7 +6420,8 @@ class QuantumsandLive
       "World/Phosh/phosh-mobile-settings",
       "World/Phosh/phosh-osk-data",
       "World/Phosh/phosh-tests",
-      "World/Phosh/phosh-tour"
+      "World/Phosh/phosh-tour",
+      "World/Phosh/squeekboard"
     ]
 
     @git_repos_postgresql_org = [
