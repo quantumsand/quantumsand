@@ -5517,7 +5517,8 @@ class QuantumsandLive
       "scilab/scilab",
       "scilab/scilab_fortran",
       "scilab/tutorials",
-      "ohwr/cern-kicad-libs"
+      "ohwr/cern-kicad-libs",
+      "kop316/mmsd"
     ]
 
     @git_repos_freedesktop_gitlab = [
