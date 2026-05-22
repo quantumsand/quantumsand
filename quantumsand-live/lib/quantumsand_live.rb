@@ -6461,7 +6461,8 @@ class QuantumsandLive
       "World/Rust/tracker-rs",
       "World/Rust/vte4-rs",
       "World/Rust/webkit6-rs",
-      "World/ShellExtensions/desktop-icons"
+      "World/ShellExtensions/desktop-icons",
+      "World/ShellExtensions/extensions-guide"
     ]
 
     @git_repos_postgresql_org = [
