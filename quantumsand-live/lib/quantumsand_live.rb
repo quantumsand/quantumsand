@@ -6458,7 +6458,8 @@ class QuantumsandLive
       "World/Rust/sourceview4-rs",
       "World/Rust/sourceview5-rs",
       "World/Rust/template-glib-rs",
-      "World/Rust/tracker-rs"
+      "World/Rust/tracker-rs",
+      "World/Rust/vte4-rs"
     ]
 
     @git_repos_postgresql_org = [
