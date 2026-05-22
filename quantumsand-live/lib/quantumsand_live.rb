@@ -4724,7 +4724,8 @@ class QuantumsandLive
       "syncthing/docs",
       "willwwarner/gir",
       "rapidfuzz/python-Levenshtein",
-      "pyenchant/pyenchant"
+      "pyenchant/pyenchant",
+      "JessicaTegner/pypandoc"
     ]
 
     @git_repos_chromium_googlesource = [
