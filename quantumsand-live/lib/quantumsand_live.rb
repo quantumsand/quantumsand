@@ -4743,7 +4743,8 @@ class QuantumsandLive
       "aio-libs/yarl",
       "aio-libs/multidict",
       "aio-libs/propcache",
-      "aio-libs/pytest-aiohttp"
+      "aio-libs/pytest-aiohttp",
+      "inyutin/aiohttp_retry"
     ]
 
     @git_repos_chromium_googlesource = [
