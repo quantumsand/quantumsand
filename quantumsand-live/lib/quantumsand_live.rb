@@ -6479,7 +6479,8 @@ class QuantumsandLive
       "World/bustle",
       "World/Chatty",
       "World/chess-clock",
-      "World/citations"
+      "World/citations",
+      "World/gcolor3"
     ]
 
     @git_repos_postgresql_org = [
