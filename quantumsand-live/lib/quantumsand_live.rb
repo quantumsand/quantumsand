@@ -4742,7 +4742,8 @@ class QuantumsandLive
       "boto/boto3",
       "aio-libs/yarl",
       "aio-libs/multidict",
-      "aio-libs/propcache"
+      "aio-libs/propcache",
+      "aio-libs/pytest-aiohttp"
     ]
 
     @git_repos_chromium_googlesource = [
