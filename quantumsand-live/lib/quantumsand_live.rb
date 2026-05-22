@@ -6464,7 +6464,8 @@ class QuantumsandLive
       "World/ShellExtensions/desktop-icons",
       "World/ShellExtensions/extensions-guide",
       "World/ShellExtensions/extensions-rebooted",
-      "World/AbiWord"
+      "World/AbiWord",
+      "World/amberol"
     ]
 
     @git_repos_postgresql_org = [
