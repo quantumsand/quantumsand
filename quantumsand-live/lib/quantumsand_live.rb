@@ -6507,7 +6507,8 @@ class QuantumsandLive
       "World/dLeyna",
       "World/deja-dup",
       "World/eartag",
-      "World/elastic"
+      "World/elastic",
+      "World/Endeavour"
     ]
 
     @git_repos_postgresql_org = [
