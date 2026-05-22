@@ -4750,7 +4750,8 @@ class QuantumsandLive
       "facebook/relay",
       "tastejs/todomvc",
       "relay-tools/relay-hooks",
-      "morrys/react-relay-offline"
+      "morrys/react-relay-offline",
+      "relayjs/relay-examples"
     ]
 
     @git_repos_chromium_googlesource = [
