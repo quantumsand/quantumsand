@@ -4739,7 +4739,8 @@ class QuantumsandLive
       "aio-libs/aiobotocore",
       "boto/botocore",
       "aws/aws-cli",
-      "boto/boto3"
+      "boto/boto3",
+      "aio-libs/yarl"
     ]
 
     @git_repos_chromium_googlesource = [
