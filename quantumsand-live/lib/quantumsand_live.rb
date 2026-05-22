@@ -6455,7 +6455,8 @@ class QuantumsandLive
       "World/Rust/poppler-rs",
       "World/Rust/search-provider",
       "World/Rust/soup3-rs",
-      "World/Rust/sourceview4-rs"
+      "World/Rust/sourceview4-rs",
+      "World/Rust/sourceview5-rs"
     ]
 
     @git_repos_postgresql_org = [
