@@ -6465,7 +6465,8 @@ class QuantumsandLive
       "World/ShellExtensions/extensions-guide",
       "World/ShellExtensions/extensions-rebooted",
       "World/AbiWord",
-      "World/amberol"
+      "World/amberol",
+      "World/apostrophe"
     ]
 
     @git_repos_postgresql_org = [
