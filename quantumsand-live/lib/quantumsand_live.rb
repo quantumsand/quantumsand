@@ -4748,7 +4748,8 @@ class QuantumsandLive
       "Tinche/aiofiles",
       "ifduyue/python-xxhash",
       "facebook/relay",
-      "tastejs/todomvc"
+      "tastejs/todomvc",
+      "relay-tools/relay-hooks"
     ]
 
     @git_repos_chromium_googlesource = [
