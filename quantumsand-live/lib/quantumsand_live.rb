@@ -4751,7 +4751,8 @@ class QuantumsandLive
       "tastejs/todomvc",
       "relay-tools/relay-hooks",
       "morrys/react-relay-offline",
-      "relayjs/relay-examples"
+      "relayjs/relay-examples",
+      "KhronosGroup/OpenCL-Registry"
     ]
 
     @git_repos_chromium_googlesource = [
