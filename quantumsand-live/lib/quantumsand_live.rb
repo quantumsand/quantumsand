@@ -4722,7 +4722,8 @@ class QuantumsandLive
       "NVlabs/nvdiffrec",
       "syncthing/syncthing",
       "syncthing/docs",
-      "willwwarner/gir"
+      "willwwarner/gir",
+      "rapidfuzz/python-Levenshtein"
     ]
 
     @git_repos_chromium_googlesource = [
