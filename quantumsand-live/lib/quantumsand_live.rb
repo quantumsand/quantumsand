@@ -6486,7 +6486,8 @@ class QuantumsandLive
       "World/Daty",
       "World/decoder",
       "World/dLeyna",
-      "World/deja-dup"
+      "World/deja-dup",
+      "World/eartag"
     ]
 
     @git_repos_postgresql_org = [
