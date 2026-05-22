@@ -4749,7 +4749,8 @@ class QuantumsandLive
       "ifduyue/python-xxhash",
       "facebook/relay",
       "tastejs/todomvc",
-      "relay-tools/relay-hooks"
+      "relay-tools/relay-hooks",
+      "morrys/react-relay-offline"
     ]
 
     @git_repos_chromium_googlesource = [
