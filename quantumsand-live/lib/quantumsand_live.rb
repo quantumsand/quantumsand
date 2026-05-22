@@ -4729,7 +4729,8 @@ class QuantumsandLive
       "mrabarnett/mrab-regex",
       "restic/restic",
       "quodlibet/mutagen",
-      "h2non/filetype.py"
+      "h2non/filetype.py",
+      "beetbox/pyacoustid"
     ]
 
     @git_repos_chromium_googlesource = [
