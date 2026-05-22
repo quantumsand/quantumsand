@@ -4747,7 +4747,8 @@ class QuantumsandLive
       "inyutin/aiohttp_retry",
       "Tinche/aiofiles",
       "ifduyue/python-xxhash",
-      "facebook/relay"
+      "facebook/relay",
+      "tastejs/todomvc"
     ]
 
     @git_repos_chromium_googlesource = [
