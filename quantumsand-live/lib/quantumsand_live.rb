@@ -6480,7 +6480,8 @@ class QuantumsandLive
       "World/Chatty",
       "World/chess-clock",
       "World/citations",
-      "World/gcolor3"
+      "World/gcolor3",
+      "World/Constrict"
     ]
 
     @git_repos_postgresql_org = [
