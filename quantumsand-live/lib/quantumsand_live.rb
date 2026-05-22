@@ -4725,7 +4725,8 @@ class QuantumsandLive
       "willwwarner/gir",
       "rapidfuzz/python-Levenshtein",
       "pyenchant/pyenchant",
-      "JessicaTegner/pypandoc"
+      "JessicaTegner/pypandoc",
+      "mrabarnett/mrab-regex"
     ]
 
     @git_repos_chromium_googlesource = [
