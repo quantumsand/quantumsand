@@ -4735,7 +4735,8 @@ class QuantumsandLive
       "beetbox/audioread",
       "nodejs/llparse",
       "aio-libs/aiohttp",
-      "aio-libs/aiopg"
+      "aio-libs/aiopg",
+      "aio-libs/aiobotocore"
     ]
 
     @git_repos_chromium_googlesource = [
