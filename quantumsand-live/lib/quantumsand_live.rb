@@ -4734,7 +4734,8 @@ class QuantumsandLive
       "acoustid/chromaprint",
       "beetbox/audioread",
       "nodejs/llparse",
-      "aio-libs/aiohttp"
+      "aio-libs/aiohttp",
+      "aio-libs/aiopg"
     ]
 
     @git_repos_chromium_googlesource = [
