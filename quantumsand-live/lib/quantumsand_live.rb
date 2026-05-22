@@ -4727,7 +4727,8 @@ class QuantumsandLive
       "pyenchant/pyenchant",
       "JessicaTegner/pypandoc",
       "mrabarnett/mrab-regex",
-      "restic/restic"
+      "restic/restic",
+      "quodlibet/mutagen"
     ]
 
     @git_repos_chromium_googlesource = [
