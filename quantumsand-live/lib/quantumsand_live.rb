@@ -6463,7 +6463,8 @@ class QuantumsandLive
       "World/Rust/webkit6-rs",
       "World/ShellExtensions/desktop-icons",
       "World/ShellExtensions/extensions-guide",
-      "World/ShellExtensions/extensions-rebooted"
+      "World/ShellExtensions/extensions-rebooted",
+      "World/AbiWord"
     ]
 
     @git_repos_postgresql_org = [
