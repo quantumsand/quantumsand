@@ -4728,7 +4728,8 @@ class QuantumsandLive
       "JessicaTegner/pypandoc",
       "mrabarnett/mrab-regex",
       "restic/restic",
-      "quodlibet/mutagen"
+      "quodlibet/mutagen",
+      "h2non/filetype.py"
     ]
 
     @git_repos_chromium_googlesource = [
