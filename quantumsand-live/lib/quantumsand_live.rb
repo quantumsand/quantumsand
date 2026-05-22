@@ -4745,7 +4745,8 @@ class QuantumsandLive
       "aio-libs/propcache",
       "aio-libs/pytest-aiohttp",
       "inyutin/aiohttp_retry",
-      "Tinche/aiofiles"
+      "Tinche/aiofiles",
+      "ifduyue/python-xxhash"
     ]
 
     @git_repos_chromium_googlesource = [
