@@ -4746,7 +4746,8 @@ class QuantumsandLive
       "aio-libs/pytest-aiohttp",
       "inyutin/aiohttp_retry",
       "Tinche/aiofiles",
-      "ifduyue/python-xxhash"
+      "ifduyue/python-xxhash",
+      "facebook/relay"
     ]
 
     @git_repos_chromium_googlesource = [
