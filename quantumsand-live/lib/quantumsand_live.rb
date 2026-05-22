@@ -6482,7 +6482,8 @@ class QuantumsandLive
       "World/citations",
       "World/gcolor3",
       "World/Constrict",
-      "World/Daty"
+      "World/Daty",
+      "World/decoder"
     ]
 
     @git_repos_postgresql_org = [
