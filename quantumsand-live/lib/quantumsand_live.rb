@@ -6474,7 +6474,8 @@ class QuantumsandLive
       "World/AudioSharing",
       "World/Authenticator",
       "World/Blurble",
-      "World/boatswain"
+      "World/boatswain",
+      "World/bustle"
     ]
 
     @git_repos_postgresql_org = [
