@@ -4731,7 +4731,8 @@ class QuantumsandLive
       "quodlibet/mutagen",
       "h2non/filetype.py",
       "beetbox/pyacoustid",
-      "acoustid/chromaprint"
+      "acoustid/chromaprint",
+      "beetbox/audioread"
     ]
 
     @git_repos_chromium_googlesource = [
