@@ -4736,7 +4736,8 @@ class QuantumsandLive
       "nodejs/llparse",
       "aio-libs/aiohttp",
       "aio-libs/aiopg",
-      "aio-libs/aiobotocore"
+      "aio-libs/aiobotocore",
+      "boto/botocore"
     ]
 
     @git_repos_chromium_googlesource = [
