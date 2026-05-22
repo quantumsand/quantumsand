@@ -6453,7 +6453,8 @@ class QuantumsandLive
       "World/Rust/libshumate-rs",
       "World/Rust/libspelling-rs",
       "World/Rust/poppler-rs",
-      "World/Rust/search-provider"
+      "World/Rust/search-provider",
+      "World/Rust/soup3-rs"
     ]
 
     @git_repos_postgresql_org = [
