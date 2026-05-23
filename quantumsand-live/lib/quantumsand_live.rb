@@ -4753,7 +4753,8 @@ class QuantumsandLive
       "morrys/react-relay-offline",
       "relayjs/relay-examples",
       "KhronosGroup/OpenCL-Registry",
-      "sgl-project/sglang"
+      "sgl-project/sglang",
+      "AcademySoftwareFoundation/OpenShadingLanguage"
     ]
 
     @git_repos_chromium_googlesource = [
