@@ -4754,7 +4754,8 @@ class QuantumsandLive
       "relayjs/relay-examples",
       "KhronosGroup/OpenCL-Registry",
       "sgl-project/sglang",
-      "AcademySoftwareFoundation/OpenShadingLanguage"
+      "AcademySoftwareFoundation/OpenShadingLanguage",
+      "intel/thunderboltshare"
     ]
 
     @git_repos_chromium_googlesource = [
