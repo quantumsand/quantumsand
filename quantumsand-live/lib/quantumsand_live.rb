@@ -7705,9 +7705,6 @@ class QuantumsandLive
       "bazaar"
     ]
 
-    # TODO: Create KDE deps directory and install kdesrc-build there
-    kde_deps_fetch_command = "kdesrc-build --metadata-only"
-
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
