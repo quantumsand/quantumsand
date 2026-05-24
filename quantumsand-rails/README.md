@@ -115,6 +115,7 @@ More to follow.
 - git_repo_name `:string`
 - qr_code `:string`
 - resource_type `:string`
+- resource_path `:string`
 - resource_data `:json`
 - resource_thumbnail `:string`
 
