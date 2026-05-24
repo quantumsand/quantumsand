@@ -4756,7 +4756,8 @@ class QuantumsandLive
       "sgl-project/sglang",
       "AcademySoftwareFoundation/OpenShadingLanguage",
       "intel/thunderboltshare",
-      "wild-linker/test-files"
+      "wild-linker/test-files",
+      "ocaml/flexdll"
     ]
 
     @git_repos_chromium_googlesource = [
