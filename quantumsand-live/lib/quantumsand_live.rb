@@ -1149,7 +1149,7 @@ class QuantumsandLive
       "svaarala/duktape",
       "jsx-tool/jsx-tool",
       "corsix/fast-crc32",
-      "davidlattimore/wild",
+      "wild-linker/wild",
       "sailfishos-mirror/e2fsprogs",
       "sailfishos-mirror/eigen",
       "sailfishos-mirror/elfutils",
