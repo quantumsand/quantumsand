@@ -4761,7 +4761,8 @@ class QuantumsandLive
       "tarsgate/fsx",
       "dotnet/dotnet",
       "ionide/ionide-vscode-fsharp",
-      "ionide/tree-sitter-fsharp"
+      "ionide/tree-sitter-fsharp",
+      "ionide/FsAutoComplete"
     ]
 
     @git_repos_chromium_googlesource = [
