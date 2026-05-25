@@ -6570,7 +6570,8 @@ class QuantumsandLive
       "World/tootle",
       "World/Upscaler",
       "World/vocalis",
-      "World/warp"
+      "World/warp",
+      "World/weeport"
     ]
 
     @git_repos_postgresql_org = [
