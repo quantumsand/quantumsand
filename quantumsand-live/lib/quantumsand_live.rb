@@ -6521,7 +6521,8 @@ class QuantumsandLive
       "World/elastic",
       "World/Endeavour",
       "gnumdk/eolie-po",
-      "World/eolie"
+      "World/eolie",
+      "World/exercise-timer"
     ]
 
     @git_repos_postgresql_org = [
