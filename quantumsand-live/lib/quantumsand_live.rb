@@ -6545,7 +6545,8 @@ class QuantumsandLive
       "World/key-rack",
       "World/Letterpress",
       "World/liblarch",
-      "gnumdk/lollypop-help"
+      "gnumdk/lollypop-help",
+      "gnumdk/lollypop-po"
     ]
 
     @git_repos_postgresql_org = [
