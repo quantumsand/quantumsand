@@ -4758,7 +4758,8 @@ class QuantumsandLive
       "intel/thunderboltshare",
       "wild-linker/test-files",
       "ocaml/flexdll",
-      "tarsgate/fsx"
+      "tarsgate/fsx",
+      "dotnet/dotnet"
     ]
 
     @git_repos_chromium_googlesource = [
