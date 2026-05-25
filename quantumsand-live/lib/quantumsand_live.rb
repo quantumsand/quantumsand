@@ -6538,7 +6538,8 @@ class QuantumsandLive
       "World/gnome-schedule",
       "World/Graphs",
       "World/Health",
-      "World/highscore"
+      "World/highscore",
+      "World/html2pango"
     ]
 
     @git_repos_postgresql_org = [
