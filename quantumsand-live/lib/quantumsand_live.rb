@@ -6542,7 +6542,8 @@ class QuantumsandLive
       "World/html2pango",
       "World/intltool",
       "World/iotas",
-      "World/key-rack"
+      "World/key-rack",
+      "World/Letterpress"
     ]
 
     @git_repos_postgresql_org = [
