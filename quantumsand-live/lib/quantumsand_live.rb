@@ -6532,7 +6532,8 @@ class QuantumsandLive
       "World/fractal",
       "World/Fragments",
       "World/geewallet",
-      "World/giara"
+      "World/giara",
+      "World/gnome-firmware"
     ]
 
     @git_repos_postgresql_org = [
