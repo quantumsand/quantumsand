@@ -6569,7 +6569,8 @@ class QuantumsandLive
       "World/toggle",
       "World/tootle",
       "World/Upscaler",
-      "World/vocalis"
+      "World/vocalis",
+      "World/warp"
     ]
 
     @git_repos_postgresql_org = [
