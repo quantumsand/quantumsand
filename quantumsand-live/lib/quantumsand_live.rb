@@ -7699,7 +7699,8 @@ class QuantumsandLive
       "dev-libs/libburn",
       "sys-apps/memtest86+",
       "dev-tex/latexmk",
-      "sys-apps/fwupd"
+      "sys-apps/fwupd",
+      "dev-dotnet/dotnet-sdk"
     ]
 
     gentoo_eselect_repository_add = {
