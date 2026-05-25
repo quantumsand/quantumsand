@@ -4767,7 +4767,8 @@ class QuantumsandLive
       "mcfletch/pyopengl",
       "Cogitri/xi-editor",
       "Tencent/ncnn",
-      "upscayl/upscayl-ncnn"
+      "upscayl/upscayl-ncnn",
+      "xinntao/Real-ESRGAN-ncnn-vulkan"
     ]
 
     @git_repos_chromium_googlesource = [
