@@ -4765,7 +4765,8 @@ class QuantumsandLive
       "ionide/tree-sitter-fsharp",
       "ionide/FsAutoComplete",
       "mcfletch/pyopengl",
-      "Cogitri/xi-editor"
+      "Cogitri/xi-editor",
+      "Tencent/ncnn"
     ]
 
     @git_repos_chromium_googlesource = [
