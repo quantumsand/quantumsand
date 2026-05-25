@@ -4759,7 +4759,8 @@ class QuantumsandLive
       "wild-linker/test-files",
       "ocaml/flexdll",
       "tarsgate/fsx",
-      "dotnet/dotnet"
+      "dotnet/dotnet",
+      "ionide/ionide-vscode-fsharp"
     ]
 
     @git_repos_chromium_googlesource = [
