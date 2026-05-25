@@ -6541,7 +6541,8 @@ class QuantumsandLive
       "World/highscore",
       "World/html2pango",
       "World/intltool",
-      "World/iotas"
+      "World/iotas",
+      "World/key-rack"
     ]
 
     @git_repos_postgresql_org = [
