@@ -6524,7 +6524,8 @@ class QuantumsandLive
       "World/eolie",
       "World/exercise-timer",
       "World/gfeeds",
-      "World/fractal"
+      "World/fractal",
+      "World/Fragments"
     ]
 
     @git_repos_postgresql_org = [
