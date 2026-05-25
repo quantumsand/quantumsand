@@ -6523,7 +6523,8 @@ class QuantumsandLive
       "gnumdk/eolie-po",
       "World/eolie",
       "World/exercise-timer",
-      "World/gfeeds"
+      "World/gfeeds",
+      "World/fractal"
     ]
 
     @git_repos_postgresql_org = [
