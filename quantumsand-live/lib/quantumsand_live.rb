@@ -6553,7 +6553,8 @@ class QuantumsandLive
       "World/metronome",
       "World/morphosis",
       "World/obfuscate",
-      "World/pika-backup"
+      "World/pika-backup",
+      "World/planner"
     ]
 
     @git_repos_postgresql_org = [
