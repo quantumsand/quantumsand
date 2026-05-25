@@ -6555,7 +6555,8 @@ class QuantumsandLive
       "World/obfuscate",
       "World/pika-backup",
       "World/planner",
-      "World/podcasts"
+      "World/podcasts",
+      "World/read-it-later"
     ]
 
     @git_repos_postgresql_org = [
