@@ -4760,7 +4760,8 @@ class QuantumsandLive
       "ocaml/flexdll",
       "tarsgate/fsx",
       "dotnet/dotnet",
-      "ionide/ionide-vscode-fsharp"
+      "ionide/ionide-vscode-fsharp",
+      "ionide/tree-sitter-fsharp"
     ]
 
     @git_repos_chromium_googlesource = [
