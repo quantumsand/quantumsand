@@ -6520,7 +6520,8 @@ class QuantumsandLive
       "World/eartag",
       "World/elastic",
       "World/Endeavour",
-      "gnumdk/eolie-po"
+      "gnumdk/eolie-po",
+      "World/eolie"
     ]
 
     @git_repos_postgresql_org = [
