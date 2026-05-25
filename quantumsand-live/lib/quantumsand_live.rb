@@ -6531,7 +6531,8 @@ class QuantumsandLive
       "World/gfeeds",
       "World/fractal",
       "World/Fragments",
-      "World/geewallet"
+      "World/geewallet",
+      "World/giara"
     ]
 
     @git_repos_postgresql_org = [
