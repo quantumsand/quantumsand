@@ -6536,7 +6536,8 @@ class QuantumsandLive
       "World/gnome-firmware",
       "World/gnome-raw-thumbnailer",
       "World/gnome-schedule",
-      "World/Graphs"
+      "World/Graphs",
+      "World/Health"
     ]
 
     @git_repos_postgresql_org = [
