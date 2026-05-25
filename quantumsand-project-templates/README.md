@@ -8,7 +8,7 @@ This will include:
 
 * [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
 * [TensorFlow](/quantumsand-project-templates/quantumsand-project-templates-tensorflow/)
-* pydicom
+* [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
 * MONAI
 * Matplotlib
 * GNU Radio
@@ -74,6 +74,14 @@ uv add torch torchvision torchaudio
 * TensorFlow;
 ```
 uv add tf-nightly
+```
+* pydicom;
+```
+uv add pydicom
+```
+* matplotlib;
+```
+uv add matplotlib
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
