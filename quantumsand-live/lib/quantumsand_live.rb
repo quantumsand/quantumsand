@@ -4763,7 +4763,8 @@ class QuantumsandLive
       "dotnet/dotnet",
       "ionide/ionide-vscode-fsharp",
       "ionide/tree-sitter-fsharp",
-      "ionide/FsAutoComplete"
+      "ionide/FsAutoComplete",
+      "mcfletch/pyopengl"
     ]
 
     @git_repos_chromium_googlesource = [
@@ -7551,11 +7552,6 @@ class QuantumsandLive
     svn_repos_code_sf_net = [
       "sdcc/code/trunk",
       "liboauth/code/trunk"
-    ]
-
-    bazaar_repos_code_launchpad_net = [
-      "pyopengl",
-      "bzr"
     ]
 
     gentoo_emerge_packages_oneshot = [
