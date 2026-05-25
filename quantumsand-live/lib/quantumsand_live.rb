@@ -67,6 +67,7 @@ class QuantumsandLive
     @git_repos_ffmpeg_org_url = ENV.fetch("GIT_REPOS_FFMPEG_ORG_URL")
     @git_repos_projects_blender_url = ENV.fetch("GIT_REPOS_PROJECTS_BLENDER_URL")
     @git_repos_code_sf_net_url = ENV.fetch("GIT_REPOS_CODE_SF_NET_URL")
+    @git_repos_code_launchpad_net_url = ENV.fetch("GIT_REPOS_CODE_LAUNCHPAD_NET_URL")
     @git_repos_salsa_debian_org_url = ENV.fetch("GIT_REPOS_SALSA_DEBIAN_ORG_URL")
     @git_repos_gentoo_org_url = ENV.fetch("GIT_REPOS_GENTOO_ORG_URL")
 
@@ -7396,6 +7397,10 @@ class QuantumsandLive
       "libdc1394/code",
       "sbcl/sbcl",
       "gphoto/code"
+    ]
+
+    @git_repos_code_launchpad_net = [
+      "beautifulsoup"
     ]
 
     @git_repos_salsa_debian_org = [
