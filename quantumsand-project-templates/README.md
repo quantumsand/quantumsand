@@ -7,7 +7,7 @@ These project templates are dual-licensed under the MIT License and Apache Licen
 This will include:
 
 * [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
-* TensorFlow
+* [TensorFlow](/quantumsand-project-templates/quantumsand-project-templates-tensorflow/)
 * pydicom
 * MONAI
 * Matplotlib
@@ -70,6 +70,10 @@ uv init --python 3.14
 * PyTorch;
 ```
 uv add torch torchvision torchaudio
+```
+* TensorFlow;
+```
+uv add tf-nightly
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
