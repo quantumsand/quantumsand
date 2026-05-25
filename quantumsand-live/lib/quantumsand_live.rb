@@ -4766,7 +4766,8 @@ class QuantumsandLive
       "ionide/FsAutoComplete",
       "mcfletch/pyopengl",
       "Cogitri/xi-editor",
-      "Tencent/ncnn"
+      "Tencent/ncnn",
+      "upscayl/upscayl-ncnn"
     ]
 
     @git_repos_chromium_googlesource = [
