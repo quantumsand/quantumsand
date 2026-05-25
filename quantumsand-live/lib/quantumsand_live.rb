@@ -6559,7 +6559,8 @@ class QuantumsandLive
       "World/read-it-later",
       "World/secrets",
       "World/Shortwave",
-      "World/Social"
+      "World/Social",
+      "World/Solanum"
     ]
 
     @git_repos_postgresql_org = [
