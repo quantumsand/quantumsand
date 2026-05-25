@@ -7545,10 +7545,6 @@ class QuantumsandLive
     gentoo_l10n = %Q("*")
     puts "Gentoo all available locales are built and installed: L10N=#{gentoo_l10n}"
 
-    fossil_repos_sqlite_org = [
-      "src"
-    ]
-
     svn_repos_code_sf_net = [
       "sdcc/code/trunk",
       "liboauth/code/trunk"
