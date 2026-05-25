@@ -6543,7 +6543,8 @@ class QuantumsandLive
       "World/intltool",
       "World/iotas",
       "World/key-rack",
-      "World/Letterpress"
+      "World/Letterpress",
+      "World/liblarch"
     ]
 
     @git_repos_postgresql_org = [
