@@ -4769,7 +4769,8 @@ class QuantumsandLive
       "Tencent/ncnn",
       "upscayl/upscayl-ncnn",
       "xinntao/Real-ESRGAN-ncnn-vulkan",
-      "labwc/labwc"
+      "labwc/labwc",
+      "pavona/pavona"
     ]
 
     @git_repos_chromium_googlesource = [
