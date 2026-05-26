@@ -4768,7 +4768,8 @@ class QuantumsandLive
       "Cogitri/xi-editor",
       "Tencent/ncnn",
       "upscayl/upscayl-ncnn",
-      "xinntao/Real-ESRGAN-ncnn-vulkan"
+      "xinntao/Real-ESRGAN-ncnn-vulkan",
+      "labwc/labwc"
     ]
 
     @git_repos_chromium_googlesource = [
