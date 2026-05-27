@@ -4782,7 +4782,8 @@ class QuantumsandLive
       "FreeCAD/OndselSolver",
       "microsoft/GSL",
       "FreeCAD/AddonManager",
-      "Project-MONAI/tutorials"
+      "Project-MONAI/tutorials",
+      "Project-MONAI/MONAI-extra-test-data"
     ]
 
     @git_repos_chromium_googlesource = [
