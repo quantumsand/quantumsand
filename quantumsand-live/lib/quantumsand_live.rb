@@ -5571,7 +5571,8 @@ class QuantumsandLive
       "ohwr/cussans/aidainnova_tlu-gw",
       "ohwr/cussans/aidainnova_tlu-hw",
       "ohwr/dlampridis/fmc-sw",
-      "ohwr/dlampridis/zio"
+      "ohwr/dlampridis/zio",
+      "ohwr/garcialasheras/hdlmaker"
     ]
 
     @git_repos_freedesktop_gitlab = [
