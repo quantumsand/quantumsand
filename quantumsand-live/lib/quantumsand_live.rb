@@ -5581,7 +5581,8 @@ class QuantumsandLive
       "ohwr/project/vme64x-core",
       "ohwr/kblantos/wr-cores",
       "ohwr/openbreath/lungventilator",
-      "ohwr/openbreath/pepwhistle"
+      "ohwr/openbreath/pepwhistle",
+      "ohwr/project/array/array"
     ]
 
     @git_repos_freedesktop_gitlab = [
