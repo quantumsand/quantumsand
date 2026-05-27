@@ -5599,7 +5599,8 @@ class QuantumsandLive
       "ohwr/project/timiq/timiq-hw",
       "ohwr/project/timiq/timiq-sw",
       "ohwr/project/pda-8ch-fda-8ch",
-      "ohwr/project/10G-wr-nic"
+      "ohwr/project/10G-wr-nic",
+      "ohwr/project/svec-3v3"
     ]
 
     @git_repos_freedesktop_gitlab = [
