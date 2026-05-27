@@ -5578,7 +5578,8 @@ class QuantumsandLive
       "ohwr/project/general-cores",
       "ohwr/project/etherbone-core",
       "ohwr/project/gn4124-core",
-      "ohwr/project/vme64x-core"
+      "ohwr/project/vme64x-core",
+      "ohwr/kblantos/wr-cores"
     ]
 
     @git_repos_freedesktop_gitlab = [
