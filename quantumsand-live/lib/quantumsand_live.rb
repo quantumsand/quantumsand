@@ -5612,7 +5612,8 @@ class QuantumsandLive
       "ohwr/project/amc-cpu-com6",
       "ohwr/project/afc",
       "ohwr/project/afck",
-      "ohwr/project/afcku"
+      "ohwr/project/afcku",
+      "ohwr/project/amc-ubackplane-sfp"
     ]
 
     @git_repos_freedesktop_gitlab = [
