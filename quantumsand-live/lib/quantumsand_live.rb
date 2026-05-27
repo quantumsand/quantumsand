@@ -5575,7 +5575,8 @@ class QuantumsandLive
       "ohwr/garcialasheras/hdlmaker",
       "ohwr/jdevine/rad-tol-led-beacon",
       "ohwr/kblantos/general-cores",
-      "ohwr/project/general-cores"
+      "ohwr/project/general-cores",
+      "ohwr/project/etherbone-core"
     ]
 
     @git_repos_freedesktop_gitlab = [
