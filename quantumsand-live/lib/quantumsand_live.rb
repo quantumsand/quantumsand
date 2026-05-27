@@ -5576,7 +5576,8 @@ class QuantumsandLive
       "ohwr/jdevine/rad-tol-led-beacon",
       "ohwr/kblantos/general-cores",
       "ohwr/project/general-cores",
-      "ohwr/project/etherbone-core"
+      "ohwr/project/etherbone-core",
+      "ohwr/project/gn4124-core"
     ]
 
     @git_repos_freedesktop_gitlab = [
