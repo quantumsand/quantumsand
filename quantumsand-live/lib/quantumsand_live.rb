@@ -4770,7 +4770,8 @@ class QuantumsandLive
       "upscayl/upscayl-ncnn",
       "xinntao/Real-ESRGAN-ncnn-vulkan",
       "labwc/labwc",
-      "pavona/pavona"
+      "pavona/pavona",
+      "eudaq/eudaq"
     ]
 
     @git_repos_chromium_googlesource = [
