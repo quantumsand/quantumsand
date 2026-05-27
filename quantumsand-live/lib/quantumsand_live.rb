@@ -5606,7 +5606,8 @@ class QuantumsandLive
       "ohwr/project/adc-testing",
       "ohwr/project/adc-lib",
       "ohwr/project/fmc-mtlu",
-      "ohwr/project/fmc-mtlu-gw"
+      "ohwr/project/fmc-mtlu-gw",
+      "ohwr/project/fmc-mtlu-hw"
     ]
 
     @git_repos_freedesktop_gitlab = [
