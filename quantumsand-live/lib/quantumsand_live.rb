@@ -5597,7 +5597,8 @@ class QuantumsandLive
       "ohwr/project/array/array-interface-labview",
       "ohwr/project/array/array-interface-python",
       "ohwr/project/timiq/timiq-hw",
-      "ohwr/project/timiq/timiq-sw"
+      "ohwr/project/timiq/timiq-sw",
+      "ohwr/project/pda-8ch-fda-8ch"
     ]
 
     @git_repos_freedesktop_gitlab = [
