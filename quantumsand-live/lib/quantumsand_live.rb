@@ -5583,7 +5583,8 @@ class QuantumsandLive
       "ohwr/openbreath/lungventilator",
       "ohwr/openbreath/pepwhistle",
       "ohwr/project/array/array",
-      "ohwr/project/array/array-firmware"
+      "ohwr/project/array/array-firmware",
+      "ohwr/project/array/array-hardware"
     ]
 
     @git_repos_freedesktop_gitlab = [
