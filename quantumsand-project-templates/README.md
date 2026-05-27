@@ -10,7 +10,7 @@ This will include:
 * [TensorFlow](/quantumsand-project-templates/quantumsand-project-templates-tensorflow/)
 * [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
 * MONAI
-* Matplotlib
+* [Matplotlib](/quantumsand-project-templates/quantumsand-project-templates-matplotlib/)
 * GNU Radio
 * RadiaCode Python Library
 * PyCUDA
