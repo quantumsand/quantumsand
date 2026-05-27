@@ -4772,7 +4772,8 @@ class QuantumsandLive
       "labwc/labwc",
       "pavona/pavona",
       "eudaq/eudaq",
-      "ipbus-contrib/neo430"
+      "ipbus-contrib/neo430",
+      "n-riesco/ijavascript"
     ]
 
     @git_repos_chromium_googlesource = [
