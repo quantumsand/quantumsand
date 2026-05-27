@@ -5570,7 +5570,8 @@ class QuantumsandLive
       "ohwr/cgentsos/urv-core",
       "ohwr/cussans/aidainnova_tlu-gw",
       "ohwr/cussans/aidainnova_tlu-hw",
-      "ohwr/dlampridis/fmc-sw"
+      "ohwr/dlampridis/fmc-sw",
+      "ohwr/dlampridis/zio"
     ]
 
     @git_repos_freedesktop_gitlab = [
