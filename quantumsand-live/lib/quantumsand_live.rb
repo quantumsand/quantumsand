@@ -4771,7 +4771,8 @@ class QuantumsandLive
       "xinntao/Real-ESRGAN-ncnn-vulkan",
       "labwc/labwc",
       "pavona/pavona",
-      "eudaq/eudaq"
+      "eudaq/eudaq",
+      "ipbus-contrib/neo430"
     ]
 
     @git_repos_chromium_googlesource = [
