@@ -5572,7 +5572,8 @@ class QuantumsandLive
       "ohwr/cussans/aidainnova_tlu-hw",
       "ohwr/dlampridis/fmc-sw",
       "ohwr/dlampridis/zio",
-      "ohwr/garcialasheras/hdlmaker"
+      "ohwr/garcialasheras/hdlmaker",
+      "ohwr/jdevine/rad-tol-led-beacon"
     ]
 
     @git_repos_freedesktop_gitlab = [
