@@ -5564,7 +5564,8 @@ class QuantumsandLive
       "ohwr/cern-kicad-libs",
       "kop316/mmsd",
       "ohwr/bkoropoff/hdl-make",
-      "ohwr/hdl-core-lib/general-cores"
+      "ohwr/hdl-core-lib/general-cores",
+      "ohwr/cgentsos/urv-core"
     ]
 
     @git_repos_freedesktop_gitlab = [
