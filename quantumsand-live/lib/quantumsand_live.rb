@@ -5569,7 +5569,8 @@ class QuantumsandLive
       "ohwr/hdl-core-lib/general-cores",
       "ohwr/cgentsos/urv-core",
       "ohwr/cussans/aidainnova_tlu-gw",
-      "ohwr/cussans/aidainnova_tlu-hw"
+      "ohwr/cussans/aidainnova_tlu-hw",
+      "ohwr/dlampridis/fmc-sw"
     ]
 
     @git_repos_freedesktop_gitlab = [
