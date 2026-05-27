@@ -4776,7 +4776,8 @@ class QuantumsandLive
       "n-riesco/ijavascript",
       "bobmcnamara/pyvicp",
       "LibreCAD/LibreCAD",
-      "LibreCAD/libdxfrw"
+      "LibreCAD/libdxfrw",
+      "LibreCAD/docs"
     ]
 
     @git_repos_chromium_googlesource = [
