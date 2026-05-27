@@ -4774,7 +4774,8 @@ class QuantumsandLive
       "eudaq/eudaq",
       "ipbus-contrib/neo430",
       "n-riesco/ijavascript",
-      "bobmcnamara/pyvicp"
+      "bobmcnamara/pyvicp",
+      "LibreCAD/LibreCAD"
     ]
 
     @git_repos_chromium_googlesource = [
