@@ -4780,7 +4780,8 @@ class QuantumsandLive
       "LibreCAD/docs",
       "LibreCAD/Resources",
       "FreeCAD/OndselSolver",
-      "microsoft/GSL"
+      "microsoft/GSL",
+      "FreeCAD/AddonManager"
     ]
 
     @git_repos_chromium_googlesource = [
