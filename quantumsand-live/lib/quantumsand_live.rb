@@ -5567,7 +5567,8 @@ class QuantumsandLive
       "kop316/mmsd",
       "ohwr/bkoropoff/hdl-make",
       "ohwr/hdl-core-lib/general-cores",
-      "ohwr/cgentsos/urv-core"
+      "ohwr/cgentsos/urv-core",
+      "ohwr/cussans/aidainnova_tlu-gw"
     ]
 
     @git_repos_freedesktop_gitlab = [
