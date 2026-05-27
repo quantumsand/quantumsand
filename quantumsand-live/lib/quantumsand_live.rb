@@ -5602,7 +5602,8 @@ class QuantumsandLive
       "ohwr/project/10G-wr-nic",
       "ohwr/project/svec-3v3",
       "ohwr/project/3dmask",
-      "ohwr/project/absenc"
+      "ohwr/project/absenc",
+      "ohwr/project/adc-testing"
     ]
 
     @git_repos_freedesktop_gitlab = [
