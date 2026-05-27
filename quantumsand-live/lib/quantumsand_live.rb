@@ -5573,7 +5573,8 @@ class QuantumsandLive
       "ohwr/dlampridis/fmc-sw",
       "ohwr/dlampridis/zio",
       "ohwr/garcialasheras/hdlmaker",
-      "ohwr/jdevine/rad-tol-led-beacon"
+      "ohwr/jdevine/rad-tol-led-beacon",
+      "ohwr/kblantos/general-cores"
     ]
 
     @git_repos_freedesktop_gitlab = [
