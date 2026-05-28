@@ -4814,7 +4814,8 @@ class QuantumsandLive
       "DIRACGrid/signurlarity",
       "edanor/umesimd",
       "gasparka/spectrogram",
-      "scikit-rf/scikit-rf"
+      "scikit-rf/scikit-rf",
+      "arm/metis"
     ]
 
     @git_repos_chromium_googlesource = [
