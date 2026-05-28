@@ -4793,7 +4793,8 @@ class QuantumsandLive
       "gatecat/nextpnr-xilinx-meta",
       "YosysHQ/nextpnr",
       "lnls-dig/general-cores",
-      "lnls-dig/dsp-cores"
+      "lnls-dig/dsp-cores",
+      "lnls-dig/infra-cores"
     ]
 
     @git_repos_chromium_googlesource = [
