@@ -4813,7 +4813,8 @@ class QuantumsandLive
       "DIRACGrid/WebAppDIRAC",
       "DIRACGrid/signurlarity",
       "edanor/umesimd",
-      "gasparka/spectrogram"
+      "gasparka/spectrogram",
+      "scikit-rf/scikit-rf"
     ]
 
     @git_repos_chromium_googlesource = [
