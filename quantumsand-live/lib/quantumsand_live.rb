@@ -5629,7 +5629,8 @@ class QuantumsandLive
       "ohwr/project/atfc",
       "ohwr/project/asyncart",
       "ohwr/project/wr-cores",
-      "ohwr/project/babywr"
+      "ohwr/project/babywr",
+      "ohwr/hdl-core-lib/etherbone-core"
     ]
 
     @git_repos_freedesktop_gitlab = [
