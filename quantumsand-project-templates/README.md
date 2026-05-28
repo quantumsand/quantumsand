@@ -18,7 +18,7 @@ This will include:
 * GeoPandas
 * OSMnx
 * SQLAlchemy
-* NumPy
+* [NumPy](/quantumsand-project-templates/quantumsand-project-templates-numpy/)
 * bpy (Blender as a Python module)
 * sagemath
 * pytest
