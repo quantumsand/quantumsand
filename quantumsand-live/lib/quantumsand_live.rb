@@ -5638,7 +5638,8 @@ class QuantumsandLive
       "ohwr/project/bpm-gw",
       "ohwr/project/bpm-rffe",
       "ohwr/project/bpm-sw",
-      "ohwr/project/caju-module"
+      "ohwr/project/caju-module",
+      "ohwr/hdl-core-lib/wr-cores/wrpc-sw"
     ]
 
     @git_repos_freedesktop_gitlab = [
