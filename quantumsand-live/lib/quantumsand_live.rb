@@ -5650,7 +5650,8 @@ class QuantumsandLive
       "ohwr/project/fpga-config-space",
       "ohwr/project/cute-wr-a7",
       "ohwr/project/cute-wr-dp",
-      "ohwr/project/conv-rs485-opt-rtm"
+      "ohwr/project/conv-rs485-opt-rtm",
+      "ohwr/level-conversion/conv-common-gw"
     ]
 
     @git_repos_freedesktop_gitlab = [
