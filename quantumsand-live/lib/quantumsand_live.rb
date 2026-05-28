@@ -4801,7 +4801,8 @@ class QuantumsandLive
       "CERN-CERT/activity_klog",
       "GSI-CS-CO-Forks/kernel_modules",
       "net-snmp/net-snmp",
-      "root-project/veccore"
+      "root-project/veccore",
+      "VcDevel/Vc"
     ]
 
     @git_repos_chromium_googlesource = [
