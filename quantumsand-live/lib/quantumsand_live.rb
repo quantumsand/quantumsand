@@ -4802,7 +4802,8 @@ class QuantumsandLive
       "GSI-CS-CO-Forks/kernel_modules",
       "net-snmp/net-snmp",
       "root-project/veccore",
-      "VcDevel/Vc"
+      "VcDevel/Vc",
+      "VcDevel/std-simd"
     ]
 
     @git_repos_chromium_googlesource = [
