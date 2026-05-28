@@ -4787,7 +4787,8 @@ class QuantumsandLive
       "YosysHQ/abc",
       "berkeley-abc/abc",
       "YosysHQ/yosys",
-      "YosysHQ/icestorm"
+      "YosysHQ/icestorm",
+      "YosysHQ/arachne-pnr"
     ]
 
     @git_repos_chromium_googlesource = [
