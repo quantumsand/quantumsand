@@ -4812,7 +4812,8 @@ class QuantumsandLive
       "DIRACGrid/Pilot",
       "DIRACGrid/WebAppDIRAC",
       "DIRACGrid/signurlarity",
-      "edanor/umesimd"
+      "edanor/umesimd",
+      "gasparka/spectrogram"
     ]
 
     @git_repos_chromium_googlesource = [
