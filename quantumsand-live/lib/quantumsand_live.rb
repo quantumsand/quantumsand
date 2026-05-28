@@ -4797,7 +4797,8 @@ class QuantumsandLive
       "lnls-dig/infra-cores",
       "lnls-dig/libbsmp",
       "lnls-dig/fpga_pcie_driver",
-      "CERN-CERT/activity_klog"
+      "CERN-CERT/activity_klog",
+      "GSI-CS-CO-Forks/kernel_modules"
     ]
 
     @git_repos_chromium_googlesource = [
