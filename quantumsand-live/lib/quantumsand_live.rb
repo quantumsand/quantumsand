@@ -5653,7 +5653,8 @@ class QuantumsandLive
       "ohwr/project/conv-rs485-opt-rtm",
       "ohwr/level-conversion/conv-common-gw",
       "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-gw",
-      "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-tst"
+      "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-tst",
+      "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-hw"
     ]
 
     @git_repos_freedesktop_gitlab = [
