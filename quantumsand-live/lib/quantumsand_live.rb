@@ -4794,7 +4794,8 @@ class QuantumsandLive
       "YosysHQ/nextpnr",
       "lnls-dig/general-cores",
       "lnls-dig/dsp-cores",
-      "lnls-dig/infra-cores"
+      "lnls-dig/infra-cores",
+      "lnls-dig/libbsmp"
     ]
 
     @git_repos_chromium_googlesource = [
