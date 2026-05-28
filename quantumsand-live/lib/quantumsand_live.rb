@@ -4805,7 +4805,8 @@ class QuantumsandLive
       "VcDevel/Vc",
       "VcDevel/std-simd",
       "VcDevel/vc-testdata",
-      "mattkretz/virtest"
+      "mattkretz/virtest",
+      "DIRACGrid/DIRAC"
     ]
 
     @git_repos_chromium_googlesource = [
