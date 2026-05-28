@@ -4784,7 +4784,8 @@ class QuantumsandLive
       "FreeCAD/AddonManager",
       "Project-MONAI/tutorials",
       "Project-MONAI/MONAI-extra-test-data",
-      "YosysHQ/abc"
+      "YosysHQ/abc",
+      "berkeley-abc/abc"
     ]
 
     @git_repos_chromium_googlesource = [
