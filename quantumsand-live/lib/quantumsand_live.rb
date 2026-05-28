@@ -4791,7 +4791,8 @@ class QuantumsandLive
       "YosysHQ/arachne-pnr",
       "YosysHQ/nextpnr-tests",
       "gatecat/nextpnr-xilinx-meta",
-      "YosysHQ/nextpnr"
+      "YosysHQ/nextpnr",
+      "lnls-dig/general-cores"
     ]
 
     @git_repos_chromium_googlesource = [
