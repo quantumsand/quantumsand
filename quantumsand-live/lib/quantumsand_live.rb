@@ -53,6 +53,7 @@ class QuantumsandLive
     @git_repos_freedesktop_url = ENV.fetch("GIT_REPOS_FREEDESKTOP_URL")
     @git_repos_xfce_url = ENV.fetch("GIT_REPOS_XFCE_URL")
     @git_repos_kitware_url = ENV.fetch("GIT_REPOS_KITWARE_URL")
+    @git_repos_cern_ch_url = ENV.fetch("GIT_REPOS_CERN_CH_URL")
     @git_repos_code_videolan_org_url = ENV.fetch("GIT_REPOS_CODE_VIDEOLAN_ORG_URL")
     @git_repos_xiph_org_url = ENV.fetch("GIT_REPOS_XIPH_ORG_URL")
     @git_repos_bitbucket_org_url = ENV.fetch("GIT_REPOS_BITBUCKET_ORG_URL")
@@ -5864,6 +5865,10 @@ class QuantumsandLive
       "vtk/lcl",
       "vtk/MomentInvariants",
       "vtk/vtk-examples"
+    ]
+
+    @git_repos_cern_ch_gitlab = [
+      "gaudi/Gaudi"
     ]
 
     @git_repos_code_videolan_org = [
