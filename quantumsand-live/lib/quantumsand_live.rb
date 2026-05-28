@@ -4795,7 +4795,8 @@ class QuantumsandLive
       "lnls-dig/general-cores",
       "lnls-dig/dsp-cores",
       "lnls-dig/infra-cores",
-      "lnls-dig/libbsmp"
+      "lnls-dig/libbsmp",
+      "lnls-dig/fpga_pcie_driver"
     ]
 
     @git_repos_chromium_googlesource = [
