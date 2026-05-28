@@ -5649,7 +5649,8 @@ class QuantumsandLive
       "ohwr/project/legacy-vme64x-core",
       "ohwr/project/fpga-config-space",
       "ohwr/project/cute-wr-a7",
-      "ohwr/project/cute-wr-dp"
+      "ohwr/project/cute-wr-dp",
+      "ohwr/project/conv-rs485-opt-rtm"
     ]
 
     @git_repos_freedesktop_gitlab = [
