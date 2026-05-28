@@ -5646,7 +5646,8 @@ class QuantumsandLive
       "ohwr/project/cute-wr",
       "ohwr/project/hdl-make",
       "ohwr/project/legacy-vme64x-core",
-      "ohwr/project/fpga-config-space"
+      "ohwr/project/fpga-config-space",
+      "ohwr/project/cute-wr-a7"
     ]
 
     @git_repos_freedesktop_gitlab = [
