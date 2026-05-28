@@ -4786,7 +4786,8 @@ class QuantumsandLive
       "Project-MONAI/MONAI-extra-test-data",
       "YosysHQ/abc",
       "berkeley-abc/abc",
-      "YosysHQ/yosys"
+      "YosysHQ/yosys",
+      "YosysHQ/icestorm"
     ]
 
     @git_repos_chromium_googlesource = [
