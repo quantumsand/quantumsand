@@ -4790,7 +4790,8 @@ class QuantumsandLive
       "YosysHQ/icestorm",
       "YosysHQ/arachne-pnr",
       "YosysHQ/nextpnr-tests",
-      "gatecat/nextpnr-xilinx-meta"
+      "gatecat/nextpnr-xilinx-meta",
+      "YosysHQ/nextpnr"
     ]
 
     @git_repos_chromium_googlesource = [
