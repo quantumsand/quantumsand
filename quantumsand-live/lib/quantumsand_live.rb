@@ -4810,7 +4810,8 @@ class QuantumsandLive
       "DIRACGrid/diracx",
       "DIRACGrid/diracx-web",
       "DIRACGrid/Pilot",
-      "DIRACGrid/WebAppDIRAC"
+      "DIRACGrid/WebAppDIRAC",
+      "DIRACGrid/signurlarity"
     ]
 
     @git_repos_chromium_googlesource = [
