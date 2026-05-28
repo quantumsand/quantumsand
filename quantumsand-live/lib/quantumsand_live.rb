@@ -5881,7 +5881,8 @@ class QuantumsandLive
 
     @git_repos_cern_ch_gitlab = [
       "gaudi/Gaudi",
-      "VecGeom/VecGeom"
+      "VecGeom/VecGeom",
+      "lhcb-dirac/LHCbDIRAC"
     ]
 
     @git_repos_code_videolan_org = [
