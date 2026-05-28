@@ -4803,7 +4803,8 @@ class QuantumsandLive
       "net-snmp/net-snmp",
       "root-project/veccore",
       "VcDevel/Vc",
-      "VcDevel/std-simd"
+      "VcDevel/std-simd",
+      "VcDevel/vc-testdata"
     ]
 
     @git_repos_chromium_googlesource = [
