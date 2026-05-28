@@ -4811,7 +4811,8 @@ class QuantumsandLive
       "DIRACGrid/diracx-web",
       "DIRACGrid/Pilot",
       "DIRACGrid/WebAppDIRAC",
-      "DIRACGrid/signurlarity"
+      "DIRACGrid/signurlarity",
+      "edanor/umesimd"
     ]
 
     @git_repos_chromium_googlesource = [
