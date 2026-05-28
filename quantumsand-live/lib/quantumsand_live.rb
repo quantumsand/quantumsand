@@ -4804,7 +4804,8 @@ class QuantumsandLive
       "root-project/veccore",
       "VcDevel/Vc",
       "VcDevel/std-simd",
-      "VcDevel/vc-testdata"
+      "VcDevel/vc-testdata",
+      "mattkretz/virtest"
     ]
 
     @git_repos_chromium_googlesource = [
