@@ -5714,7 +5714,8 @@ class QuantumsandLive
       "ohwr/project/fmc-adc100m14b16cha-dac2m14b4cha",
       "ohwr/project/fmc-adc-100m14b4cha",
       "ohwr/project/fmc-adc-100m14b4cha-hw",
-      "ohwr/project/fmc-adc-100m14b4cha-tst"
+      "ohwr/project/fmc-adc-100m14b4cha-tst",
+      "ohwr/project/pts-base"
     ]
 
     @git_repos_freedesktop_gitlab = [
