@@ -5682,7 +5682,8 @@ class QuantumsandLive
       "ohwr/project/conv-ttl-rs485-tst",
       "ohwr/project/conv-diff-se-cable-driver",
       "ohwr/project/conv-common-gw",
-      "ohwr/project/dces-dtrhf-ser1ch-v1"
+      "ohwr/project/dces-dtrhf-ser1ch-v1",
+      "ohwr/project/ddr3-sp6-core"
     ]
 
     @git_repos_freedesktop_gitlab = [
