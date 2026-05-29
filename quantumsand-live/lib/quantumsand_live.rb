@@ -5689,7 +5689,8 @@ class QuantumsandLive
       "ohwr/project/diot-pfc-ku",
       "ohwr/project/mdior",
       "ohwr/project/diot-monimod",
-      "ohwr/project/diot-pb-lbk"
+      "ohwr/project/diot-pb-lbk",
+      "ohwr/project/diot-reliability"
     ]
 
     @git_repos_freedesktop_gitlab = [
