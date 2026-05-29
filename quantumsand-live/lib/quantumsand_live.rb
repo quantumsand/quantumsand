@@ -5705,7 +5705,8 @@ class QuantumsandLive
       "ohwr/mmalczak/adc-lib",
       "ohwr/project/fmc-adc-100m14b4cha-gw",
       "ohwr/project/fmc-adc-100m14b4cha-sw",
-      "ohwr/project/amc-carrier-2-sl"
+      "ohwr/project/amc-carrier-2-sl",
+      "ohwr/project/epics-wb"
     ]
 
     @git_repos_freedesktop_gitlab = [
