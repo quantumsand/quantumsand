@@ -5713,7 +5713,8 @@ class QuantumsandLive
       "ohwr/project/extract-cap-voltage-rating",
       "ohwr/project/fmc-adc100m14b16cha-dac2m14b4cha",
       "ohwr/project/fmc-adc-100m14b4cha",
-      "ohwr/project/fmc-adc-100m14b4cha-hw"
+      "ohwr/project/fmc-adc-100m14b4cha-hw",
+      "ohwr/project/fmc-adc-100m14b4cha-tst"
     ]
 
     @git_repos_freedesktop_gitlab = [
