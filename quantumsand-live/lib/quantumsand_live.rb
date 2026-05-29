@@ -5702,7 +5702,8 @@ class QuantumsandLive
       "ohwr/project/svec",
       "ohwr/project/mock-turtle",
       "ohwr/project/wrtd",
-      "ohwr/mmalczak/adc-lib"
+      "ohwr/mmalczak/adc-lib",
+      "ohwr/project/fmc-adc-100m14b4cha-gw"
     ]
 
     @git_repos_freedesktop_gitlab = [
