@@ -5685,7 +5685,8 @@ class QuantumsandLive
       "ohwr/project/dces-dtrhf-ser1ch-v1",
       "ohwr/project/ddr3-sp6-core",
       "ohwr/project/diot-crate-hw",
-      "ohwr/project/diot-sb-igl"
+      "ohwr/project/diot-sb-igl",
+      "ohwr/project/diot-pfc-ku"
     ]
 
     @git_repos_freedesktop_gitlab = [
