@@ -4815,7 +4815,8 @@ class QuantumsandLive
       "edanor/umesimd",
       "gasparka/spectrogram",
       "scikit-rf/scikit-rf",
-      "arm/metis"
+      "arm/metis",
+      "arduino/arduinocore-avr"
     ]
 
     @git_repos_chromium_googlesource = [
