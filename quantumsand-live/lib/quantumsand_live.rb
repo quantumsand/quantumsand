@@ -5678,7 +5678,8 @@ class QuantumsandLive
       "ohwr/level-conversion/conv-ttl-rs485/conv-ttl-rs485-gw",
       "ohwr/project/conv-ttl-rs485-gw",
       "ohwr/project/conv-ttl-rs485-hw",
-      "ohwr/project/conv-ttl-rs485-tst"
+      "ohwr/project/conv-ttl-rs485-tst",
+      "ohwr/project/conv-diff-se-cable-driver"
     ]
 
     @git_repos_freedesktop_gitlab = [
