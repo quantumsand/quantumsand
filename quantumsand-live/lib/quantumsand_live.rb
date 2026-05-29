@@ -5691,7 +5691,8 @@ class QuantumsandLive
       "ohwr/project/diot-monimod",
       "ohwr/project/diot-pb-lbk",
       "ohwr/project/diot-reliability",
-      "ohwr/project/nanofip-gateware"
+      "ohwr/project/nanofip-gateware",
+      "ohwr/project/masterfip-gw"
     ]
 
     @git_repos_freedesktop_gitlab = [
