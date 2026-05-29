@@ -5696,7 +5696,8 @@ class QuantumsandLive
       "ohwr/project/urv-core",
       "ohwr/project/diot-wic-gw",
       "ohwr/project/diot-sb-zu",
-      "ohwr/project/wr-d3s"
+      "ohwr/project/wr-d3s",
+      "ohwr/project/distributed-oscilloscope"
     ]
 
     @git_repos_freedesktop_gitlab = [
