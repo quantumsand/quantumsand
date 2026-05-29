@@ -5692,7 +5692,8 @@ class QuantumsandLive
       "ohwr/project/diot-pb-lbk",
       "ohwr/project/diot-reliability",
       "ohwr/project/nanofip-gateware",
-      "ohwr/project/masterfip-gw"
+      "ohwr/project/masterfip-gw",
+      "ohwr/project/urv-core"
     ]
 
     @git_repos_freedesktop_gitlab = [
