@@ -5709,7 +5709,8 @@ class QuantumsandLive
       "ohwr/project/epics-wb",
       "ohwr/project/euro-adc-65m-14b-40cha-gw",
       "ohwr/project/euro-adc-65m-14b-40cha-hw",
-      "ohwr/project/evo"
+      "ohwr/project/evo",
+      "ohwr/project/extract-cap-voltage-rating"
     ]
 
     @git_repos_freedesktop_gitlab = [
