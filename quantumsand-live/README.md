@@ -52,7 +52,7 @@ To build a cross toolchain, specify the target with the `--target` flag, such as
 
 `crossdev --target aarch64-unknown-linux-gnu`
 
-To use the host LLVM toolchain as a cross compiler instead of compiling a target specific GCC toolchain, use the --llvm flag.
+To use the host LLVM toolchain as a cross compiler instead of compiling a target specific GCC toolchain, use the `--llvm` flag.
 
 `crossdev --llvm --target aarch64-gentoo-linux-musl`
 
