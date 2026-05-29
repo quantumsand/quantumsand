@@ -4816,7 +4816,8 @@ class QuantumsandLive
       "gasparka/spectrogram",
       "scikit-rf/scikit-rf",
       "arm/metis",
-      "arduino/arduinocore-avr"
+      "arduino/arduinocore-avr",
+      "jbetancur/react-data-table-component"
     ]
 
     @git_repos_chromium_googlesource = [
