@@ -11,6 +11,7 @@ This will include:
 * [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
 * dicom2nifti (converting DICOM files to NIfTI)
 * NiBabel (access to common medical and neuroimaging file formats)
+* SimpleITK
 * MONAI
 * [Matplotlib](/quantumsand-project-templates/quantumsand-project-templates-matplotlib/)
 * GNU Radio
