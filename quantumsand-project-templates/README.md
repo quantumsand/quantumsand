@@ -9,6 +9,8 @@ This will include:
 * [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
 * [TensorFlow](/quantumsand-project-templates/quantumsand-project-templates-tensorflow/)
 * [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
+* dicom2nifti (converting DICOM files to NIfTI)
+* NiBabel (access to common medical and neuroimaging file formats)
 * MONAI
 * [Matplotlib](/quantumsand-project-templates/quantumsand-project-templates-matplotlib/)
 * GNU Radio
