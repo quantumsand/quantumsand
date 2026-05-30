@@ -4819,7 +4819,8 @@ class QuantumsandLive
       "arduino/arduinocore-avr",
       "jbetancur/react-data-table-component",
       "icometrix/dicom2nifti",
-      "InsightSoftwareConsortium/ITK"
+      "InsightSoftwareConsortium/ITK",
+      "SimpleITK/SimpleITK"
     ]
 
     @git_repos_chromium_googlesource = [
