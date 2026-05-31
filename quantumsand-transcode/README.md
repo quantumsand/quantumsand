@@ -74,3 +74,13 @@ To generate audio waveform data in JSON format:
 ```bash
 audiowaveform -i audio.wav -o audio.json -z 256 -b 8
 ```
+
+To rotate a video counterclockwise using `transpose=2`:
+```bash
+ffmpeg -i input.mp4 -vf 'transpose=2' -c:v libx264 -c:a copy -crf 20 out.mp4
+```
+
+To rotate a video clockwise using `transpose=1`:
+```bash
+ffmpeg -i input.mp4 -vf 'transpose=1' -c:v libx264 -c:a copy -crf 20 out.mp4
+```
