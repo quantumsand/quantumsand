@@ -4,7 +4,7 @@ Quantum Sand OpenFashionLabel is a Blender app.
 
 In a nutshell, Blender apps are “Experiences Powered by Blender”.
 
-The file format is JSON.
+The file format is JSON and is based around the concept of parametric design.
 
 This will include;
 * 2d patterns to create garments
