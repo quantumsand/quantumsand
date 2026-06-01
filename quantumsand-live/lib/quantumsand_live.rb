@@ -5641,7 +5641,6 @@ class QuantumsandLive
       "ohwr/project/etherbone-core",
       "ohwr/project/gn4124-core",
       "ohwr/project/vme64x-core",
-      "ohwr/kblantos/wr-cores",
       "ohwr/openbreath/lungventilator",
       "ohwr/openbreath/pepwhistle",
       "ohwr/project/array/array",
