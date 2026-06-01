@@ -6774,7 +6774,8 @@ class QuantumsandLive
       "gentoo/gentoo",
       "GeopJr/Collision",
       "Calamares/calamares",
-      "aryak/mozhi"
+      "aryak/mozhi",
+      "nipy-data/nitest-freesurfer"
     ]
 
     @git_repos_kde_invent = [
