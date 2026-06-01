@@ -4833,7 +4833,8 @@ class QuantumsandLive
       "jgraph/drawio",
       "jgraph/drawio-desktop",
       "jgraph/drawio-tools",
-      "jgraph/drawio-mcp"
+      "jgraph/drawio-mcp",
+      "NetworkBlockDevice/nbd"
     ]
 
     @git_repos_chromium_googlesource = [
