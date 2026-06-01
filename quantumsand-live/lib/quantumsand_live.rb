@@ -5759,7 +5759,8 @@ class QuantumsandLive
       "ohwr/project/fmc-72chopt480-8chopt1600",
       "ohwr/project/fmc-sfp-4cha",
       "ohwr/project/fmc-sw",
-      "ohwr/project/fmc-tdc"
+      "ohwr/project/fmc-tdc",
+      "ohwr/project/fmc-tdc-1ns-5cha-gw"
     ]
 
     @git_repos_freedesktop_gitlab = [
