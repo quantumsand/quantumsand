@@ -4822,7 +4822,8 @@ class QuantumsandLive
       "InsightSoftwareConsortium/ITK",
       "SimpleITK/SimpleITK",
       "yarikoptic/nitest-balls1",
-      "matthew-brett/nitest-minc2"
+      "matthew-brett/nitest-minc2",
+      "grlee77/parrec_oblique"
     ]
 
     @git_repos_chromium_googlesource = [
