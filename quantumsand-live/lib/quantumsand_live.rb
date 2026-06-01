@@ -5668,7 +5668,6 @@ class QuantumsandLive
       "ohwr/project/bpm-rffe",
       "ohwr/project/bpm-sw",
       "ohwr/project/caju-module",
-      "ohwr/hdl-core-lib/wr-cores/wrpc-sw",
       "ohwr/hdl-core-lib/fpga-config-space",
       "ohwr/project/cute-wr",
       "ohwr/project/hdl-make",
