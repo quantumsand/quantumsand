@@ -5675,7 +5675,6 @@ class QuantumsandLive
       "ohwr/project/cute-wr-a7",
       "ohwr/project/cute-wr-dp",
       "ohwr/project/conv-rs485-opt-rtm",
-      "ohwr/level-conversion/conv-common-gw",
       "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-gw",
       "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-tst",
       "ohwr/level-conversion/conv-ttl-blo/conv-ttl-blo-hw",
