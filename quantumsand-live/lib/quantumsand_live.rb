@@ -7662,7 +7662,7 @@ class QuantumsandLive
                           accessibility bluetooth crypt cups discover flatpak oxygen-theme
                           grub webengine systemd sdk rdp pulseaudio elogind browser-integration
                           crash-handler display-manager wifi wayland openh264 libproxy jpegxl
-                          jack hwaccel gnome-shell eme-free dbus telemetry system-av1
+                          jack hwaccel gnome-shell eme-free dbus telemetry system-av1 cobol
                           system-harfbuzz system-icu system-jpeg system-libevent system-libvpx
                           system-webp gmp-autoupdate clang classic extra extras python python3_13
                           offlinehelp stun debug full-xml sip sqlite zlib bullet color-management
