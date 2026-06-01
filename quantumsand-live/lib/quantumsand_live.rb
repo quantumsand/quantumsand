@@ -4832,7 +4832,8 @@ class QuantumsandLive
       "effigies/nipy-ecattest",
       "klyone/caloe",
       "jgraph/drawio",
-      "jgraph/drawio-desktop"
+      "jgraph/drawio-desktop",
+      "jgraph/drawio-tools"
     ]
 
     @git_repos_chromium_googlesource = [
