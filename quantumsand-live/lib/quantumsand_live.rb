@@ -5737,7 +5737,8 @@ class QuantumsandLive
       "ohwr/project/fmc-adc-400k18b4cha-iso-sw",
       "ohwr/project/fmc-adc-500m14b4cha",
       "ohwr/project/fmc-bus",
-      "ohwr/project/fmc-conn-tester"
+      "ohwr/project/fmc-conn-tester",
+      "ohwr/project/fmc-dac100m14b16cha-adc2m14b4cha"
     ]
 
     @git_repos_freedesktop_gitlab = [
