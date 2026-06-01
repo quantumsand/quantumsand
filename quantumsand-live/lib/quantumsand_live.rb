@@ -5664,7 +5664,6 @@ class QuantumsandLive
       "ohwr/project/asyncart",
       "ohwr/project/wr-cores",
       "ohwr/project/babywr",
-      "ohwr/hdl-core-lib/etherbone-core",
       "ohwr/project/bpm-gw",
       "ohwr/project/bpm-rffe",
       "ohwr/project/bpm-sw",
