@@ -4820,7 +4820,8 @@ class QuantumsandLive
       "jbetancur/react-data-table-component",
       "icometrix/dicom2nifti",
       "InsightSoftwareConsortium/ITK",
-      "SimpleITK/SimpleITK"
+      "SimpleITK/SimpleITK",
+      "yarikoptic/nitest-balls1"
     ]
 
     @git_repos_chromium_googlesource = [
