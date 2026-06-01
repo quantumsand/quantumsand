@@ -4821,7 +4821,8 @@ class QuantumsandLive
       "icometrix/dicom2nifti",
       "InsightSoftwareConsortium/ITK",
       "SimpleITK/SimpleITK",
-      "yarikoptic/nitest-balls1"
+      "yarikoptic/nitest-balls1",
+      "matthew-brett/nitest-minc2"
     ]
 
     @git_repos_chromium_googlesource = [
