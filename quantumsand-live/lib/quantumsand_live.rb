@@ -4833,7 +4833,8 @@ class QuantumsandLive
       "klyone/caloe",
       "jgraph/drawio",
       "jgraph/drawio-desktop",
-      "jgraph/drawio-tools"
+      "jgraph/drawio-tools",
+      "jgraph/drawio-mcp"
     ]
 
     @git_repos_chromium_googlesource = [
