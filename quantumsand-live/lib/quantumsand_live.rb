@@ -5628,7 +5628,6 @@ class QuantumsandLive
       "kop316/mmsd",
       "ohwr/cussans/aidainnova_tlu-gw",
       "ohwr/cussans/aidainnova_tlu-hw",
-      "ohwr/dlampridis/fmc-sw",
       "ohwr/dlampridis/zio",
       "ohwr/garcialasheras/hdlmaker",
       "ohwr/jdevine/rad-tol-led-beacon",
