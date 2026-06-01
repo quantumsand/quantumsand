@@ -5763,7 +5763,8 @@ class QuantumsandLive
       "ohwr/project/fr_pcb_mm",
       "ohwr/project/f-watch",
       "ohwr/project/giraph32",
-      "nbdkit/libnbd"
+      "nbdkit/libnbd",
+      "nbdkit/nbdkit"
     ]
 
     @git_repos_freedesktop_gitlab = [
