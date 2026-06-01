@@ -5635,7 +5635,6 @@ class QuantumsandLive
       "ohwr/dlampridis/zio",
       "ohwr/garcialasheras/hdlmaker",
       "ohwr/jdevine/rad-tol-led-beacon",
-      "ohwr/kblantos/general-cores",
       "ohwr/project/general-cores",
       "ohwr/project/etherbone-core",
       "ohwr/project/gn4124-core",
