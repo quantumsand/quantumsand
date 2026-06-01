@@ -5754,7 +5754,8 @@ class QuantumsandLive
       "ohwr/project/fmc-dio-32chlvdsa",
       "ohwr/project/fmc-dio-32chttla",
       "ohwr/project/fmc-dio-5chttla",
-      "ohwr/project/fmc-hv-2ch"
+      "ohwr/project/fmc-hv-2ch",
+      "ohwr/project/fmc-hv-sup"
     ]
 
     @git_repos_freedesktop_gitlab = [
