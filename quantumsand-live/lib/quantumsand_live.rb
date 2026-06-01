@@ -4826,7 +4826,8 @@ class QuantumsandLive
       "grlee77/parrec_oblique",
       "demianw/nibabel-nitest-cifti2",
       "effigies/nitest-dicom",
-      "neurolabusc/dcm_qa_xa30"
+      "neurolabusc/dcm_qa_xa30",
+      "neurolabusc/dcm_qa_xa60"
     ]
 
     @git_repos_chromium_googlesource = [
