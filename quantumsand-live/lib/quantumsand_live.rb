@@ -4827,7 +4827,8 @@ class QuantumsandLive
       "demianw/nibabel-nitest-cifti2",
       "effigies/nitest-dicom",
       "neurolabusc/dcm_qa_xa30",
-      "neurolabusc/dcm_qa_xa60"
+      "neurolabusc/dcm_qa_xa60",
+      "nipy/nibabel"
     ]
 
     @git_repos_chromium_googlesource = [
