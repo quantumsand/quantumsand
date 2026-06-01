@@ -5744,7 +5744,8 @@ class QuantumsandLive
       "ohwr/project/wrpc-sw",
       "ohwr/project/ppsi",
       "ohwr/project/zio",
-      "ohwr/project/fmc-dac-600m-12b-1cha-tst"
+      "ohwr/project/fmc-dac-600m-12b-1cha-tst",
+      "ohwr/project/fmc-del-1ns-2cha"
     ]
 
     @git_repos_freedesktop_gitlab = [
