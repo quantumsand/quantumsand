@@ -5752,7 +5752,8 @@ class QuantumsandLive
       "ohwr/fmc-projects/fmc-delay-1ns-8cha/fine-delay-sw",
       "ohwr/project/fmc-dio-16ch-lvds-a",
       "ohwr/project/fmc-dio-32chlvdsa",
-      "ohwr/project/fmc-dio-32chttla"
+      "ohwr/project/fmc-dio-32chttla",
+      "ohwr/project/fmc-dio-5chttla"
     ]
 
     @git_repos_freedesktop_gitlab = [
