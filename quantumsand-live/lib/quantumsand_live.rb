@@ -4793,7 +4793,6 @@ class QuantumsandLive
       "YosysHQ/nextpnr-tests",
       "gatecat/nextpnr-xilinx-meta",
       "YosysHQ/nextpnr",
-      "lnls-dig/general-cores",
       "lnls-dig/dsp-cores",
       "lnls-dig/infra-cores",
       "lnls-dig/libbsmp",
