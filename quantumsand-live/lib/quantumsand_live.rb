@@ -5626,7 +5626,6 @@ class QuantumsandLive
       "scilab/tutorials",
       "ohwr/cern-kicad-libs",
       "kop316/mmsd",
-      "ohwr/cgentsos/urv-core",
       "ohwr/cussans/aidainnova_tlu-gw",
       "ohwr/cussans/aidainnova_tlu-hw",
       "ohwr/dlampridis/fmc-sw",
