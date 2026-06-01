@@ -5746,7 +5746,8 @@ class QuantumsandLive
       "ohwr/project/zio",
       "ohwr/project/fmc-dac-600m-12b-1cha-tst",
       "ohwr/project/fmc-del-1ns-2cha",
-      "ohwr/project/fmc-delay-1ns-8cha"
+      "ohwr/project/fmc-delay-1ns-8cha",
+      "ohwr/project/fmc-delay-1ns-8cha-sa"
     ]
 
     @git_repos_freedesktop_gitlab = [
