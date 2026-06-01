@@ -4828,7 +4828,8 @@ class QuantumsandLive
       "effigies/nitest-dicom",
       "neurolabusc/dcm_qa_xa30",
       "neurolabusc/dcm_qa_xa60",
-      "nipy/nibabel"
+      "nipy/nibabel",
+      "effigies/nipy-ecattest"
     ]
 
     @git_repos_chromium_googlesource = [
