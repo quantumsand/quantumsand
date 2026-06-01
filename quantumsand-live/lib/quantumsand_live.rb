@@ -5766,7 +5766,8 @@ class QuantumsandLive
       "ohwr/project/fmc-tdc-1ns-5cha-tst",
       "ohwr/project/fmc-nanofip",
       "ohwr/project/fmc-profinet",
-      "ohwr/project/fasec"
+      "ohwr/project/fasec",
+      "ohwr/project/fpga-dev-id"
     ]
 
     @git_repos_freedesktop_gitlab = [
