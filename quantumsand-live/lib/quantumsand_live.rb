@@ -4824,7 +4824,8 @@ class QuantumsandLive
       "yarikoptic/nitest-balls1",
       "matthew-brett/nitest-minc2",
       "grlee77/parrec_oblique",
-      "demianw/nibabel-nitest-cifti2"
+      "demianw/nibabel-nitest-cifti2",
+      "effigies/nitest-dicom"
     ]
 
     @git_repos_chromium_googlesource = [
