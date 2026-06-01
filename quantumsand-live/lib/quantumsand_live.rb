@@ -4823,7 +4823,8 @@ class QuantumsandLive
       "SimpleITK/SimpleITK",
       "yarikoptic/nitest-balls1",
       "matthew-brett/nitest-minc2",
-      "grlee77/parrec_oblique"
+      "grlee77/parrec_oblique",
+      "demianw/nibabel-nitest-cifti2"
     ]
 
     @git_repos_chromium_googlesource = [
