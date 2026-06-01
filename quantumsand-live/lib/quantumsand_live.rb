@@ -5772,7 +5772,8 @@ class QuantumsandLive
       "ohwr/project/fmc-profinet",
       "ohwr/project/fasec",
       "ohwr/project/fpga-dev-id",
-      "ohwr/project/fr_pcb_mm"
+      "ohwr/project/fr_pcb_mm",
+      "ohwr/project/f-watch"
     ]
 
     @git_repos_freedesktop_gitlab = [
