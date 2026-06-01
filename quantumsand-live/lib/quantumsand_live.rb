@@ -4830,7 +4830,8 @@ class QuantumsandLive
       "neurolabusc/dcm_qa_xa60",
       "nipy/nibabel",
       "effigies/nipy-ecattest",
-      "klyone/caloe"
+      "klyone/caloe",
+      "jgraph/drawio"
     ]
 
     @git_repos_chromium_googlesource = [
