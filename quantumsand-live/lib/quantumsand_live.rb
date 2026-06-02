@@ -4838,7 +4838,8 @@ class QuantumsandLive
       "c0dejedi/nbd-vram",
       "tarpediem/zenvision-linux",
       "tarpediem/zenvision-studio",
-      "IBM/cobol-is-fun"
+      "IBM/cobol-is-fun",
+      "pydata/pydata-sphinx-theme"
     ]
 
     @git_repos_chromium_googlesource = [
