@@ -4840,7 +4840,8 @@ class QuantumsandLive
       "tarpediem/zenvision-studio",
       "IBM/cobol-is-fun",
       "pydata/pydata-sphinx-theme",
-      "mantinedev/mantine"
+      "mantinedev/mantine",
+      "krisk/Fuse"
     ]
 
     @git_repos_chromium_googlesource = [
