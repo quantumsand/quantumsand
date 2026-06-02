@@ -7965,10 +7965,6 @@ class QuantumsandLive
       "cosmic-meta pop-theme-meta"
     ]
 
-    gentoo_layman_add = [
-      "bazaar"
-    ]
-
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
