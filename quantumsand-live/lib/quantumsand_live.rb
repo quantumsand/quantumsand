@@ -7956,7 +7956,8 @@ class QuantumsandLive
       "sys-apps/fwupd",
       "dev-dotnet/dotnet-sdk",
       "dev-db/sqlite",
-      "sys-block/nbd"
+      "sys-block/nbd",
+      "dev-libs/weston"
     ]
 
     gentoo_eselect_repository_add = {
