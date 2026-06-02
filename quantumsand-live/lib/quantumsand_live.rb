@@ -4837,7 +4837,8 @@ class QuantumsandLive
       "NetworkBlockDevice/nbd",
       "c0dejedi/nbd-vram",
       "tarpediem/zenvision-linux",
-      "tarpediem/zenvision-studio"
+      "tarpediem/zenvision-studio",
+      "IBM/cobol-is-fun"
     ]
 
     @git_repos_chromium_googlesource = [
