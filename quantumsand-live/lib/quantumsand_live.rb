@@ -4836,7 +4836,8 @@ class QuantumsandLive
       "jgraph/drawio-mcp",
       "NetworkBlockDevice/nbd",
       "c0dejedi/nbd-vram",
-      "tarpediem/zenvision-linux"
+      "tarpediem/zenvision-linux",
+      "tarpediem/zenvision-studio"
     ]
 
     @git_repos_chromium_googlesource = [
