@@ -84,3 +84,18 @@ To rotate a video clockwise using `transpose=1`:
 ```bash
 ffmpeg -i input.mp4 -vf 'transpose=1' -c:v libx264 -c:a copy -crf 20 out.mp4
 ```
+
+To transcode a high bitrate MPEG-4 to a smaller file with an _okay_ quality `-crf 23` using the `slow` preset:
+
+```bash
+ffmpeg -i input.mp4 -c:v libx264 -preset slow -crf 23 -c:a copy output.mp4
+```
+
+An example scenario using the command above;
+
+* Apple M5 Pro; using 18 cores; `ffmpeg` transcode speed is approx 4.2x.
+* Video length is 2 hrs 13m; approx 133m.
+* Video size is 33.4GB.
+* Output video size is 10.02GB.
+* Video resolution is 1920x1080; 1080p.
+* Transcode time is approx 31m 37s.
