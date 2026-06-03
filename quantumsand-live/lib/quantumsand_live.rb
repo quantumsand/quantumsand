@@ -4882,7 +4882,8 @@ class QuantumsandLive
       "lassekongo83/adw-gtk3",
       "lassekongo83/adw-colors",
       "pop-os/alacritty",
-      "pop-os/alsa-ucm-conf"
+      "pop-os/alsa-ucm-conf",
+      "pop-os/alsa-utils"
     ]
 
     @git_repos_chromium_googlesource = [
