@@ -4877,7 +4877,8 @@ class QuantumsandLive
       "pop-os/cosmic-initial-setup",
       "pop-os/cosmic-epoch",
       "pop-os/accountsservice",
-      "pop-os/acpid-plug"
+      "pop-os/acpid-plug",
+      "pop-os/adw-gtk3"
     ]
 
     @git_repos_chromium_googlesource = [
