@@ -4844,7 +4844,8 @@ class QuantumsandLive
       "krisk/Fuse",
       "pop-os/cosmic-session",
       "Drakulix/id-tree",
-      "pop-os/cosmic-comp"
+      "pop-os/cosmic-comp",
+      "pop-os/cosmic-applets"
     ]
 
     @git_repos_chromium_googlesource = [
