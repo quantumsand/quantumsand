@@ -4890,7 +4890,8 @@ class QuantumsandLive
       "pop-os/api",
       "pop-os/appstream",
       "pop-os/appstream-data",
-      "pop-os/appstream2dep11"
+      "pop-os/appstream2dep11",
+      "pop-os/apt"
     ]
 
     @git_repos_chromium_googlesource = [
