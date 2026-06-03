@@ -4871,7 +4871,8 @@ class QuantumsandLive
       "pop-os/cosmic-files",
       "pop-os/cosmic-store",
       "pop-os/cosmic-wallpapers",
-      "pop-os/cosmic-idle"
+      "pop-os/cosmic-idle",
+      "intel/xpumanager"
     ]
 
     @git_repos_chromium_googlesource = [
