@@ -4857,7 +4857,8 @@ class QuantumsandLive
       "pop-os/xdg-desktop-portal-cosmic",
       "pop-os/cosmic-osd",
       "pop-os/cosmic-bg",
-      "image-rs/image-extras"
+      "image-rs/image-extras",
+      "pop-os/cosmic-workspaces-epoch"
     ]
 
     @git_repos_chromium_googlesource = [
