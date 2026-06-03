@@ -4875,7 +4875,8 @@ class QuantumsandLive
       "intel/xpumanager",
       "pop-os/cosmic-player",
       "pop-os/cosmic-initial-setup",
-      "pop-os/cosmic-epoch"
+      "pop-os/cosmic-epoch",
+      "pop-os/accountsservice"
     ]
 
     @git_repos_chromium_googlesource = [
