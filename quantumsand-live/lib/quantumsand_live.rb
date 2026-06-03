@@ -4878,7 +4878,8 @@ class QuantumsandLive
       "pop-os/cosmic-epoch",
       "pop-os/accountsservice",
       "pop-os/acpid-plug",
-      "pop-os/adw-gtk3"
+      "pop-os/adw-gtk3",
+      "lassekongo83/adw-gtk3"
     ]
 
     @git_repos_chromium_googlesource = [
