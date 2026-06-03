@@ -4863,7 +4863,8 @@ class QuantumsandLive
       "tokio-rs/console",
       "pop-os/cosmic-greeter",
       "pop-os/cosmic-screenshot",
-      "pop-os/cosmic-edit"
+      "pop-os/cosmic-edit",
+      "pop-os/cosmic-term"
     ]
 
     @git_repos_chromium_googlesource = [
