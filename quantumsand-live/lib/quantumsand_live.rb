@@ -4880,7 +4880,8 @@ class QuantumsandLive
       "pop-os/acpid-plug",
       "pop-os/adw-gtk3",
       "lassekongo83/adw-gtk3",
-      "lassekongo83/adw-colors"
+      "lassekongo83/adw-colors",
+      "pop-os/alacritty"
     ]
 
     @git_repos_chromium_googlesource = [
