@@ -4843,7 +4843,8 @@ class QuantumsandLive
       "mantinedev/mantine",
       "krisk/Fuse",
       "pop-os/cosmic-session",
-      "Drakulix/id-tree"
+      "Drakulix/id-tree",
+      "pop-os/cosmic-comp"
     ]
 
     @git_repos_chromium_googlesource = [
