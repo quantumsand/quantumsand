@@ -4884,7 +4884,8 @@ class QuantumsandLive
       "pop-os/alacritty",
       "pop-os/alsa-ucm-conf",
       "pop-os/alsa-utils",
-      "pop-os/amd-ppt-bin"
+      "pop-os/amd-ppt-bin",
+      "pop-os/amd64-microcode"
     ]
 
     @git_repos_chromium_googlesource = [
