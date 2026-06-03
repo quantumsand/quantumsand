@@ -4887,7 +4887,8 @@ class QuantumsandLive
       "pop-os/amd-ppt-bin",
       "pop-os/amd64-microcode",
       "pop-os/analytics-panel",
-      "pop-os/api"
+      "pop-os/api",
+      "pop-os/appstream"
     ]
 
     @git_repos_chromium_googlesource = [
