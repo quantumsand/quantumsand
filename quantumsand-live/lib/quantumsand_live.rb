@@ -4850,7 +4850,8 @@ class QuantumsandLive
       "pop-os/launcher",
       "onagre-launcher/onagre",
       "pop-os/shell",
-      "pop-os/cosmic-launcher"
+      "pop-os/cosmic-launcher",
+      "pop-os/simple-wrapper"
     ]
 
     @git_repos_chromium_googlesource = [
