@@ -4841,7 +4841,8 @@ class QuantumsandLive
       "IBM/cobol-is-fun",
       "pydata/pydata-sphinx-theme",
       "mantinedev/mantine",
-      "krisk/Fuse"
+      "krisk/Fuse",
+      "pop-os/cosmic-session"
     ]
 
     @git_repos_chromium_googlesource = [
