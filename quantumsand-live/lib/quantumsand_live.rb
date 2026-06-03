@@ -4865,7 +4865,8 @@ class QuantumsandLive
       "pop-os/cosmic-screenshot",
       "pop-os/cosmic-edit",
       "pop-os/cosmic-term",
-      "alacritty/alacritty"
+      "alacritty/alacritty",
+      "pop-os/cosmic-text"
     ]
 
     @git_repos_chromium_googlesource = [
