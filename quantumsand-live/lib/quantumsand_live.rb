@@ -4852,7 +4852,8 @@ class QuantumsandLive
       "pop-os/shell",
       "pop-os/cosmic-launcher",
       "pop-os/simple-wrapper",
-      "pop-os/cosmic-settings"
+      "pop-os/cosmic-settings",
+      "pop-os/cosmic-settings-daemon"
     ]
 
     @git_repos_chromium_googlesource = [
