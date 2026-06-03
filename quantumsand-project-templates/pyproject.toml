@@ -5,7 +5,9 @@ description = "Pre-configured sample projects with prefetched dependencies"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
+    "dicom2nifti>=2.6.2",
     "matplotlib>=3.10.9",
+    "nibabel>=5.4.2",
     "pydicom>=3.0.2",
     "tf-nightly>=2.22.0.dev20260524",
     "torch>=2.12.0",

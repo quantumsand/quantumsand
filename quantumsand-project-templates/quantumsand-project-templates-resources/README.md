@@ -13,3 +13,21 @@ Clark K, Vendt B, Smith K, Freymann J, Kirby J, Koppel P, Moore S, Phillips S, M
 
 License: http://creativecommons.org/licenses/by/3.0/
 ```
+
+* SE000001 directory and the generated `nifti_mri_scans.nii.gz`
+
+```
+This MRI DICOM dataset is from: https://zenodo.org/records/16956#.YFMM5PtKiV5
+
+The MRI scans are T2 weighted turbo-spin-echo (T2W TSE) and T1 weighted Fast Field Echo (T1W FFE).
+
+The subject suffers from a small vertical strabismus (hypertropia), a misalignment of the eyes, which is visible in this data set.
+
+The author would like to thank the Radiology Department at the Macclesfield General Hospital for performing the scan.
+
+Data Citation:
+Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male human aged 52 [Data set]. Zenodo. https://doi.org/10.5281/zenodo.16956
+
+License:
+Creative Commons Attribution Share Alike 4.0 International
+```

@@ -9,8 +9,8 @@ This will include:
 * [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
 * [TensorFlow](/quantumsand-project-templates/quantumsand-project-templates-tensorflow/)
 * [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
-* dicom2nifti (converting DICOM files to NIfTI)
-* NiBabel (access to common medical and neuroimaging file formats)
+* [dicom2nifti](/quantumsand-project-templates/quantumsand-project-templates-dicom2nifti/) (converting DICOM files to NIfTI)
+* [NiBabel](/quantumsand-project-templates/quantumsand-project-templates-nibabel/) (access to common medical and neuroimaging file formats)
 * SimpleITK
 * MONAI
 * [Matplotlib](/quantumsand-project-templates/quantumsand-project-templates-matplotlib/)
@@ -83,9 +83,17 @@ uv add tf-nightly
 ```
 uv add pydicom
 ```
-* matplotlib;
+* Matplotlib;
 ```
 uv add matplotlib
+```
+* dicom2nifti;
+```
+uv add dicom2nifti
+```
+* NiBabel; already installed with dicom2nifti;
+```
+uv add nibabel
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
