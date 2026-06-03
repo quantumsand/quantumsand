@@ -4870,7 +4870,8 @@ class QuantumsandLive
       "pop-os/cosmic-randr",
       "pop-os/cosmic-files",
       "pop-os/cosmic-store",
-      "pop-os/cosmic-wallpapers"
+      "pop-os/cosmic-wallpapers",
+      "pop-os/cosmic-idle"
     ]
 
     @git_repos_chromium_googlesource = [
