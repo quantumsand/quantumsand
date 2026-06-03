@@ -4967,7 +4967,8 @@ class QuantumsandLive
       "deepseek-ai/DeepSeek-V4-Flash-Base",
       "microsoft/TRELLIS.2-4B",
       "google/gemma-4-12B",
-      "google/gemma-4-12B-it"
+      "google/gemma-4-12B-it",
+      "google/gemma-4-12B-it-assistant"
     ]
 
     @git_repos_libreoffice_org = [
