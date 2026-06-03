@@ -4842,7 +4842,8 @@ class QuantumsandLive
       "pydata/pydata-sphinx-theme",
       "mantinedev/mantine",
       "krisk/Fuse",
-      "pop-os/cosmic-session"
+      "pop-os/cosmic-session",
+      "Drakulix/id-tree"
     ]
 
     @git_repos_chromium_googlesource = [
