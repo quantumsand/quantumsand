@@ -4859,7 +4859,8 @@ class QuantumsandLive
       "pop-os/cosmic-bg",
       "image-rs/image-extras",
       "pop-os/cosmic-workspaces-epoch",
-      "pop-os/cosmic-notifications"
+      "pop-os/cosmic-notifications",
+      "tokio-rs/console"
     ]
 
     @git_repos_chromium_googlesource = [
