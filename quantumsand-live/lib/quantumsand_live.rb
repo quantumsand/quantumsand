@@ -5842,7 +5842,8 @@ class QuantumsandLive
       "ohwr/project/libsfp",
       "ohwr/project/macbeth",
       "ohwr/project/masterfip-tst",
-      "ohwr/fmc-projects/spec/spec-sw"
+      "ohwr/fmc-projects/spec/spec-sw",
+      "ohwr/project/meta-spec"
     ]
 
     @git_repos_freedesktop_gitlab = [
