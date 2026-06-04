@@ -4901,7 +4901,8 @@ class QuantumsandLive
       "tcltk/thread",
       "tcltk/tcllib",
       "tcltk/tklib",
-      "tcltk/itcl"
+      "tcltk/itcl",
+      "PySimpleGUI/PySimpleGUI"
     ]
 
     @git_repos_chromium_googlesource = [
