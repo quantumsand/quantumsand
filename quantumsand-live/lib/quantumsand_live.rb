@@ -8049,7 +8049,8 @@ class QuantumsandLive
       "dev-db/sqlite",
       "sys-block/nbd",
       "dev-libs/weston",
-      "dev-lang/gnucobol"
+      "dev-lang/gnucobol",
+      "dev-lang/tcl"
     ]
 
     gentoo_eselect_repository_add = {
