@@ -5874,7 +5874,8 @@ class QuantumsandLive
       "ohwr/project/psu-rad-acdc-230v-12v5v-110w",
       "ohwr/project/wr-switch-hdl-usp-eval",
       "ohwr/project/respir-os",
-      "ohwr/project/rf-mux-8ch"
+      "ohwr/project/rf-mux-8ch",
+      "ohwr/project/maroc_csa"
     ]
 
     @git_repos_freedesktop_gitlab = [
