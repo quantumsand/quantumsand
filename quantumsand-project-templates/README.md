@@ -11,7 +11,7 @@ This will include:
 * [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
 * [dicom2nifti](/quantumsand-project-templates/quantumsand-project-templates-dicom2nifti/) (converting DICOM files to NIfTI)
 * [NiBabel](/quantumsand-project-templates/quantumsand-project-templates-nibabel/) (access to common medical and neuroimaging file formats)
-* SimpleITK
+* [SimpleITK](/quantumsand-project-templates/quantumsand-project-templates-simpleitk/)
 * MONAI
 * [Matplotlib](/quantumsand-project-templates/quantumsand-project-templates-matplotlib/)
 * GNU Radio
@@ -94,6 +94,10 @@ uv add dicom2nifti
 * NiBabel; already installed with dicom2nifti;
 ```
 uv add nibabel
+```
+* SimpleITK;
+```
+uv add SimpleITK
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
