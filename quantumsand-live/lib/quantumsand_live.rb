@@ -5846,7 +5846,8 @@ class QuantumsandLive
       "ohwr/project/masterfip-tst",
       "ohwr/fmc-projects/spec/spec-sw",
       "ohwr/project/meta-spec",
-      "ohwr/project/microstepper"
+      "ohwr/project/microstepper",
+      "ohwr/project/mrpc-25x18-24strip"
     ]
 
     @git_repos_freedesktop_gitlab = [
