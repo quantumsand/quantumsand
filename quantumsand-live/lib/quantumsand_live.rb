@@ -5875,7 +5875,8 @@ class QuantumsandLive
       "ohwr/project/wr-switch-hdl-usp-eval",
       "ohwr/project/respir-os",
       "ohwr/project/rf-mux-8ch",
-      "ohwr/project/maroc_csa"
+      "ohwr/project/maroc_csa",
+      "ohwr/project/sdb"
     ]
 
     @git_repos_freedesktop_gitlab = [
