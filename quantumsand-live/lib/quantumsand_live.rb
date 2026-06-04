@@ -5867,7 +5867,8 @@ class QuantumsandLive
       "ohwr/project/rf-att-4cha",
       "ohwr/project/ptp-noposix",
       "ohwr/project/pxct",
-      "ohwr/project/pxie-ctl-comexpress"
+      "ohwr/project/pxie-ctl-comexpress",
+      "ohwr/project/pxie-ctl-comexpress-tst"
     ]
 
     @git_repos_freedesktop_gitlab = [
