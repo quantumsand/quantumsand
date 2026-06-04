@@ -5850,7 +5850,8 @@ class QuantumsandLive
       "ohwr/project/mrpc-25x18-24strip",
       "ohwr/project/r19-tdc-del-a",
       "ohwr/project/nanofip-test-board",
-      "ohwr/project/ohw-research"
+      "ohwr/project/ohw-research",
+      "ohwr/project/afc-ipmi-sw"
     ]
 
     @git_repos_freedesktop_gitlab = [
