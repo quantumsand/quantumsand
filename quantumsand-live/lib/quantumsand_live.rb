@@ -5847,7 +5847,8 @@ class QuantumsandLive
       "ohwr/fmc-projects/spec/spec-sw",
       "ohwr/project/meta-spec",
       "ohwr/project/microstepper",
-      "ohwr/project/mrpc-25x18-24strip"
+      "ohwr/project/mrpc-25x18-24strip",
+      "ohwr/project/r19-tdc-del-a"
     ]
 
     @git_repos_freedesktop_gitlab = [
