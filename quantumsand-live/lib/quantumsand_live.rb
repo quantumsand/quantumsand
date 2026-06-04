@@ -4895,7 +4895,8 @@ class QuantumsandLive
       "pop-os/apt-cli-wrappers",
       "pop-os/apt-cmd",
       "Synchrotron-SOLEIL/KiCad-Lib",
-      "aewallin/PICDIV"
+      "aewallin/PICDIV",
+      "aewallin/PICDIV_Board_v3"
     ]
 
     @git_repos_chromium_googlesource = [
