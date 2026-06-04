@@ -5832,7 +5832,8 @@ class QuantumsandLive
       "ohwr/project/hdl-core-lib",
       "ohwr/project/hev",
       "ohwr/project/hicce-fmc-128",
-      "ohwr/project/ertm15-llrf-wr"
+      "ohwr/project/ertm15-llrf-wr",
+      "ohwr/project/hydra"
     ]
 
     @git_repos_freedesktop_gitlab = [
