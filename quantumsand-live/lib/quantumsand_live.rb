@@ -5848,7 +5848,8 @@ class QuantumsandLive
       "ohwr/project/meta-spec",
       "ohwr/project/microstepper",
       "ohwr/project/mrpc-25x18-24strip",
-      "ohwr/project/r19-tdc-del-a"
+      "ohwr/project/r19-tdc-del-a",
+      "ohwr/project/nanofip-test-board"
     ]
 
     @git_repos_freedesktop_gitlab = [
