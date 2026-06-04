@@ -4900,7 +4900,8 @@ class QuantumsandLive
       "tcltk/tcl",
       "tcltk/thread",
       "tcltk/tcllib",
-      "tcltk/tklib"
+      "tcltk/tklib",
+      "tcltk/itcl"
     ]
 
     @git_repos_chromium_googlesource = [
