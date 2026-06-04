@@ -5837,7 +5837,8 @@ class QuantumsandLive
       "ohwr/project/idrogen",
       "ohwr/project/img-proc-core-lib",
       "ohwr/project/list",
-      "ohwr/project/libre-fdatool"
+      "ohwr/project/libre-fdatool",
+      "ohwr/project/libsfp"
     ]
 
     @git_repos_freedesktop_gitlab = [
