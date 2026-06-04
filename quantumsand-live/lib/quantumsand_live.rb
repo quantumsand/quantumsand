@@ -5826,7 +5826,8 @@ class QuantumsandLive
       "ohwr/project/f-watch",
       "ohwr/project/giraph32",
       "nbdkit/libnbd",
-      "nbdkit/nbdkit"
+      "nbdkit/nbdkit",
+      "ohwr/project/spec-getting-started"
     ]
 
     @git_repos_freedesktop_gitlab = [
