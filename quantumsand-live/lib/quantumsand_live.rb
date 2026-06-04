@@ -5843,7 +5843,8 @@ class QuantumsandLive
       "ohwr/project/macbeth",
       "ohwr/project/masterfip-tst",
       "ohwr/fmc-projects/spec/spec-sw",
-      "ohwr/project/meta-spec"
+      "ohwr/project/meta-spec",
+      "ohwr/project/microstepper"
     ]
 
     @git_repos_freedesktop_gitlab = [
