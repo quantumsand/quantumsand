@@ -4903,7 +4903,8 @@ class QuantumsandLive
       "tcltk/tklib",
       "tcltk/itcl",
       "PySimpleGUI/PySimpleGUI",
-      "InsightSoftwareConsortium/SimpleITK-Notebooks"
+      "InsightSoftwareConsortium/SimpleITK-Notebooks",
+      "ultralytics/inference"
     ]
 
     @git_repos_chromium_googlesource = [
