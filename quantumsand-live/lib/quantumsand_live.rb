@@ -4897,7 +4897,8 @@ class QuantumsandLive
       "Synchrotron-SOLEIL/KiCad-Lib",
       "aewallin/PICDIV",
       "aewallin/PICDIV_Board_v3",
-      "tcltk/tcl"
+      "tcltk/tcl",
+      "tcltk/thread"
     ]
 
     @git_repos_chromium_googlesource = [
