@@ -5827,7 +5827,8 @@ class QuantumsandLive
       "ohwr/project/giraph32",
       "nbdkit/libnbd",
       "nbdkit/nbdkit",
-      "ohwr/project/spec-getting-started"
+      "ohwr/project/spec-getting-started",
+      "ohwr/project/gsi-timing-starter-kit"
     ]
 
     @git_repos_freedesktop_gitlab = [
