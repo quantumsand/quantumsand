@@ -5869,7 +5869,8 @@ class QuantumsandLive
       "ohwr/project/pxct",
       "ohwr/project/pxie-ctl-comexpress",
       "ohwr/project/pxie-ctl-comexpress-tst",
-      "ohwr/project/P4CH-LNLS"
+      "ohwr/project/P4CH-LNLS",
+      "ohwr/project/psu-rad-acdc-230v-12v5v-110w"
     ]
 
     @git_repos_freedesktop_gitlab = [
