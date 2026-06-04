@@ -5864,7 +5864,8 @@ class QuantumsandLive
       "ohwr/project/pmtlib",
       "ohwr/project/powerlink",
       "ohwr/project/pts",
-      "ohwr/project/rf-att-4cha"
+      "ohwr/project/rf-att-4cha",
+      "ohwr/project/ptp-noposix"
     ]
 
     @git_repos_freedesktop_gitlab = [
