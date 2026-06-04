@@ -5851,7 +5851,8 @@ class QuantumsandLive
       "ohwr/project/r19-tdc-del-a",
       "ohwr/project/nanofip-test-board",
       "ohwr/project/ohw-research",
-      "ohwr/project/afc-ipmi-sw"
+      "ohwr/project/afc-ipmi-sw",
+      "ohwr/project/pandabox-hw"
     ]
 
     @git_repos_freedesktop_gitlab = [
