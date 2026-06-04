@@ -4893,7 +4893,8 @@ class QuantumsandLive
       "pop-os/appstream2dep11",
       "pop-os/apt",
       "pop-os/apt-cli-wrappers",
-      "pop-os/apt-cmd"
+      "pop-os/apt-cmd",
+      "Synchrotron-SOLEIL/KiCad-Lib"
     ]
 
     @git_repos_chromium_googlesource = [
