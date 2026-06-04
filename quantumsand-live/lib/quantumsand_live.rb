@@ -4899,7 +4899,8 @@ class QuantumsandLive
       "aewallin/PICDIV_Board_v3",
       "tcltk/tcl",
       "tcltk/thread",
-      "tcltk/tcllib"
+      "tcltk/tcllib",
+      "tcltk/tklib"
     ]
 
     @git_repos_chromium_googlesource = [
