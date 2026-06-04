@@ -5868,7 +5868,8 @@ class QuantumsandLive
       "ohwr/project/ptp-noposix",
       "ohwr/project/pxct",
       "ohwr/project/pxie-ctl-comexpress",
-      "ohwr/project/pxie-ctl-comexpress-tst"
+      "ohwr/project/pxie-ctl-comexpress-tst",
+      "ohwr/project/P4CH-LNLS"
     ]
 
     @git_repos_freedesktop_gitlab = [
