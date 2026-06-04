@@ -5829,7 +5829,8 @@ class QuantumsandLive
       "nbdkit/nbdkit",
       "ohwr/project/spec-getting-started",
       "ohwr/project/gsi-timing-starter-kit",
-      "ohwr/project/hdl-core-lib"
+      "ohwr/project/hdl-core-lib",
+      "ohwr/project/hev"
     ]
 
     @git_repos_freedesktop_gitlab = [
