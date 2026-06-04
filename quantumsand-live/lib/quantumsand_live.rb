@@ -5856,7 +5856,8 @@ class QuantumsandLive
       "ohwr/project/pandabox-tst",
       "ohwr/project/pci-core",
       "ohwr/project/phase",
-      "ohwr/project/pmtlib"
+      "ohwr/project/pmtlib",
+      "ohwr/project/powerlink"
     ]
 
     @git_repos_freedesktop_gitlab = [
