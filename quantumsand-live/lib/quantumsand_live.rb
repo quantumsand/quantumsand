@@ -5834,7 +5834,8 @@ class QuantumsandLive
       "ohwr/project/hicce-fmc-128",
       "ohwr/project/ertm15-llrf-wr",
       "ohwr/project/hydra",
-      "ohwr/project/idrogen"
+      "ohwr/project/idrogen",
+      "ohwr/project/img-proc-core-lib"
     ]
 
     @git_repos_freedesktop_gitlab = [
