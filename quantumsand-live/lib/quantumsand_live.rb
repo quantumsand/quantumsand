@@ -5863,7 +5863,8 @@ class QuantumsandLive
       "ohwr/project/phase",
       "ohwr/project/pmtlib",
       "ohwr/project/powerlink",
-      "ohwr/project/pts"
+      "ohwr/project/pts",
+      "ohwr/project/rf-att-4cha"
     ]
 
     @git_repos_freedesktop_gitlab = [
