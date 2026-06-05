@@ -4947,7 +4947,8 @@ class QuantumsandLive
       "pop-os/cosmic-osk",
       "pop-os/cosmic-panel",
       "pop-os/cosmic-reader",
-      "pop-os/cosmic-settings-subscriptions"
+      "pop-os/cosmic-settings-subscriptions",
+      "pop-os/cosmic-syntax-theme"
     ]
 
     @git_repos_chromium_googlesource = [
