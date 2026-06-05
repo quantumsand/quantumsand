@@ -4940,7 +4940,8 @@ class QuantumsandLive
       "pop-os/cosmic-dock",
       "pop-os/cosmic-flatpak",
       "pop-os/cosmic-flatpak-runtime",
-      "pop-os/cosmic-justfiles"
+      "pop-os/cosmic-justfiles",
+      "pop-os/cosmic-protocols"
     ]
 
     @git_repos_chromium_googlesource = [
