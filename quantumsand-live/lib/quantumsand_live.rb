@@ -4915,7 +4915,8 @@ class QuantumsandLive
       "pop-os/async-cron-scheduler",
       "pop-os/async-fetcher",
       "pop-os/at-spi2-core",
-      "pop-os/bcmwl"
+      "pop-os/bcmwl",
+      "pop-os/blkid"
     ]
 
     @git_repos_chromium_googlesource = [
