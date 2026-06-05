@@ -4950,7 +4950,8 @@ class QuantumsandLive
       "pop-os/cosmic-settings-subscriptions",
       "pop-os/cosmic-syntax-theme",
       "sonph/onehalf",
-      "pop-os/cosmic-theme"
+      "pop-os/cosmic-theme",
+      "pop-os/cosmic-theme-editor"
     ]
 
     @git_repos_chromium_googlesource = [
