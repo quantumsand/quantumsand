@@ -4930,7 +4930,8 @@ class QuantumsandLive
       "pop-os/cog-stable-diffusion",
       "pop-os/connectivity",
       "pop-os/console-setup",
-      "pop-os/core"
+      "pop-os/core",
+      "pop-os/cosmic-app-template"
     ]
 
     @git_repos_chromium_googlesource = [
