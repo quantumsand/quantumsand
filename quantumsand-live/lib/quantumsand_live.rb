@@ -4922,7 +4922,8 @@ class QuantumsandLive
       "projectatomic/bwrap-oci",
       "pop-os/buildchain",
       "pop-os/bus-writer",
-      "pop-os/popsicle"
+      "pop-os/popsicle",
+      "pop-os/bustd"
     ]
 
     @git_repos_chromium_googlesource = [
