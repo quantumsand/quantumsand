@@ -4916,7 +4916,8 @@ class QuantumsandLive
       "pop-os/async-fetcher",
       "pop-os/at-spi2-core",
       "pop-os/bcmwl",
-      "pop-os/blkid"
+      "pop-os/blkid",
+      "cholcombe973/blkid"
     ]
 
     @git_repos_chromium_googlesource = [
