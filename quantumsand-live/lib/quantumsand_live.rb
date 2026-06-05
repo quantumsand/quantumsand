@@ -4928,7 +4928,8 @@ class QuantumsandLive
       "Smithay/client-toolkit",
       "pop-os/client-toolkit",
       "pop-os/cog-stable-diffusion",
-      "pop-os/connectivity"
+      "pop-os/connectivity",
+      "pop-os/console-setup"
     ]
 
     @git_repos_chromium_googlesource = [
