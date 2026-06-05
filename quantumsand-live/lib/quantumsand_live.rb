@@ -4913,7 +4913,8 @@ class QuantumsandLive
       "pop-os/apt-sources-lists",
       "pop-os/as-result",
       "pop-os/async-cron-scheduler",
-      "pop-os/async-fetcher"
+      "pop-os/async-fetcher",
+      "pop-os/at-spi2-core"
     ]
 
     @git_repos_chromium_googlesource = [
