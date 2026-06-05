@@ -4904,7 +4904,8 @@ class QuantumsandLive
       "tcltk/itcl",
       "PySimpleGUI/PySimpleGUI",
       "InsightSoftwareConsortium/SimpleITK-Notebooks",
-      "ultralytics/inference"
+      "ultralytics/inference",
+      "pop-os/apt-keyring"
     ]
 
     @git_repos_chromium_googlesource = [
