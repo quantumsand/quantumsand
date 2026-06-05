@@ -4919,7 +4919,8 @@ class QuantumsandLive
       "pop-os/blkid",
       "cholcombe973/blkid",
       "pop-os/bubblewrap",
-      "projectatomic/bwrap-oci"
+      "projectatomic/bwrap-oci",
+      "pop-os/buildchain"
     ]
 
     @git_repos_chromium_googlesource = [
