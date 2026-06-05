@@ -4956,7 +4956,8 @@ class QuantumsandLive
       "pop-os/cosmic-workspaces",
       "RensAlthuis/vertical-overview",
       "G-dH/vertical-workspaces",
-      "pop-os/cosmic_undo_2"
+      "pop-os/cosmic_undo_2",
+      "pop-os/cryptsetup"
     ]
 
     @git_repos_chromium_googlesource = [
