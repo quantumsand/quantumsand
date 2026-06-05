@@ -4933,7 +4933,8 @@ class QuantumsandLive
       "pop-os/core",
       "pop-os/cosmic-app-template",
       "pop-os/cosmic-applet-host",
-      "pop-os/cosmic-applet-template"
+      "pop-os/cosmic-applet-template",
+      "pop-os/cosmic-application-template"
     ]
 
     @git_repos_chromium_googlesource = [
