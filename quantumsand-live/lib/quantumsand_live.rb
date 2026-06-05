@@ -4906,7 +4906,8 @@ class QuantumsandLive
       "InsightSoftwareConsortium/SimpleITK-Notebooks",
       "ultralytics/inference",
       "pop-os/apt-keyring",
-      "pop-os/apt-fetcher"
+      "pop-os/apt-fetcher",
+      "pop-os/apt-mirror"
     ]
 
     @git_repos_chromium_googlesource = [
