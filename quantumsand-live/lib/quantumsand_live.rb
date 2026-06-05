@@ -4907,7 +4907,8 @@ class QuantumsandLive
       "ultralytics/inference",
       "pop-os/apt-keyring",
       "pop-os/apt-fetcher",
-      "pop-os/apt-mirror"
+      "pop-os/apt-mirror",
+      "pop-os/apt-release-file"
     ]
 
     @git_repos_chromium_googlesource = [
