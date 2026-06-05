@@ -4910,7 +4910,8 @@ class QuantumsandLive
       "pop-os/apt-mirror",
       "pop-os/apt-release-file",
       "pop-os/apt-repo-crawler",
-      "pop-os/apt-sources-lists"
+      "pop-os/apt-sources-lists",
+      "pop-os/as-result"
     ]
 
     @git_repos_chromium_googlesource = [
