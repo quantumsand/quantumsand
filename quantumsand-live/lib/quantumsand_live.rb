@@ -4953,7 +4953,8 @@ class QuantumsandLive
       "pop-os/cosmic-theme",
       "pop-os/cosmic-theme-editor",
       "pop-os/cosmic-time",
-      "pop-os/cosmic-workspaces"
+      "pop-os/cosmic-workspaces",
+      "RensAlthuis/vertical-overview"
     ]
 
     @git_repos_chromium_googlesource = [
