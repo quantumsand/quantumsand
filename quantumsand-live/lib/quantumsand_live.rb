@@ -4911,7 +4911,8 @@ class QuantumsandLive
       "pop-os/apt-release-file",
       "pop-os/apt-repo-crawler",
       "pop-os/apt-sources-lists",
-      "pop-os/as-result"
+      "pop-os/as-result",
+      "pop-os/async-cron-scheduler"
     ]
 
     @git_repos_chromium_googlesource = [
