@@ -4929,7 +4929,8 @@ class QuantumsandLive
       "pop-os/client-toolkit",
       "pop-os/cog-stable-diffusion",
       "pop-os/connectivity",
-      "pop-os/console-setup"
+      "pop-os/console-setup",
+      "pop-os/core"
     ]
 
     @git_repos_chromium_googlesource = [
