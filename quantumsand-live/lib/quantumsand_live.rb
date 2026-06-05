@@ -4926,7 +4926,8 @@ class QuantumsandLive
       "pop-os/bustd",
       "smithay/wayland-rs",
       "Smithay/client-toolkit",
-      "pop-os/client-toolkit"
+      "pop-os/client-toolkit",
+      "pop-os/cog-stable-diffusion"
     ]
 
     @git_repos_chromium_googlesource = [
