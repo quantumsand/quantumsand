@@ -4957,7 +4957,8 @@ class QuantumsandLive
       "RensAlthuis/vertical-overview",
       "G-dH/vertical-workspaces",
       "pop-os/cosmic_undo_2",
-      "pop-os/cryptsetup"
+      "pop-os/cryptsetup",
+      "pop-os/dbus-settings-bindings"
     ]
 
     @git_repos_chromium_googlesource = [
