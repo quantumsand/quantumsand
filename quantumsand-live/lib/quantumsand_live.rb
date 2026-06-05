@@ -4917,7 +4917,8 @@ class QuantumsandLive
       "pop-os/at-spi2-core",
       "pop-os/bcmwl",
       "pop-os/blkid",
-      "cholcombe973/blkid"
+      "cholcombe973/blkid",
+      "pop-os/bubblewrap"
     ]
 
     @git_repos_chromium_googlesource = [
