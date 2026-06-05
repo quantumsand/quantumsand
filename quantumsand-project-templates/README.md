@@ -17,7 +17,7 @@ This will include:
 * GNU Radio
 * RadiaCode Python Library
 * PyCUDA
-* pandas
+* [pandas](/quantumsand-project-templates/quantumsand-project-templates-pandas/)
 * GeoPandas
 * OSMnx
 * SQLAlchemy
@@ -98,6 +98,10 @@ uv add nibabel
 * SimpleITK;
 ```
 uv add SimpleITK
+```
+* pandas;
+```
+uv add pandas
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash

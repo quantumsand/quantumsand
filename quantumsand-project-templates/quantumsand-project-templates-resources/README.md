@@ -31,3 +31,11 @@ Lionheart, W. R. B. (2015). An MRI DICOM data set of the head of a normal male h
 License:
 Creative Commons Attribution Share Alike 4.0 International
 ```
+
+* countries.csv and regions.csv
+
+```
+These csv files are from: https://github.com/unepwcmc/ProtectedPlanet
+
+License: BSD-3-Clause
+```
