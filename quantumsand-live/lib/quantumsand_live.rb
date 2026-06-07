@@ -4959,7 +4959,8 @@ class QuantumsandLive
       "pop-os/cosmic_undo_2",
       "pop-os/cryptsetup",
       "pop-os/dbus-settings-bindings",
-      "TanStack/form"
+      "TanStack/form",
+      "surveyjs/survey-library"
     ]
 
     @git_repos_chromium_googlesource = [
