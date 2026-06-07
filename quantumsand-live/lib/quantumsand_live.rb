@@ -4958,7 +4958,8 @@ class QuantumsandLive
       "G-dH/vertical-workspaces",
       "pop-os/cosmic_undo_2",
       "pop-os/cryptsetup",
-      "pop-os/dbus-settings-bindings"
+      "pop-os/dbus-settings-bindings",
+      "TanStack/form"
     ]
 
     @git_repos_chromium_googlesource = [
