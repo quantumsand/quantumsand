@@ -27,7 +27,7 @@ const locales =  [{ iso: "en_GB", locale: "english", name: "English", emoji: "�
                   { iso: "sv_SE", locale: "swedish", name: "Svenska", emoji: "🇸🇪" },
                   { iso: "no_NO", locale: "norwegian", name: "Norsk", emoji: "🇳🇴" },
                   { iso: "is_IS", locale: "icelandic", name: "Íslenska", emoji: "🇮🇸" },
-                  { iso: "cs_CZ", locale: "czech", name: "Čeština", emoji: "🇨🇿"},
+                  { iso: "cs_CZ", locale: "czech", name: "Čeština", emoji: "🇨🇿" },
                   { iso: "bg_BG", locale: "bulgarian", name: "Български", emoji: "🇧🇬" },
                   { iso: "hr_HR", locale: "croatian", name: "Hrvatski", emoji: "🇭🇷" },
                   { iso: "ro_RO", locale: "romanian", name: "Română", emoji: "🇷🇴" },
@@ -48,9 +48,9 @@ const locales =  [{ iso: "en_GB", locale: "english", name: "English", emoji: "�
                   { iso: "cy_GB", locale: "welsh", name: "Gymraeg", emoji: "🏴󠁧󠁢󠁷󠁬󠁳󠁿" },
                   { iso: "ka_GE", locale: "georgian", name: "ქართული", emoji: "🇬🇪" },
                   { iso: "ne_NP", locale: "nepali", name: "नेपाली", emoji: "🇳🇵" },
-                  { iso: "th_TH", locale: "thai", name: "ภาษาไทย", emoji: "🇹🇭"},
-                  { iso: "mg_MG", locale: "malagasy", name: "Malagasy", emoji: "🇲🇬"},
-                  { iso: "tl_PH", locale: "filipino", name: "Tagalog", emoji: "🇵🇭"},
-                  { iso: "hy_AM", locale: "armenian", name: "հայերեն", emoji: "🇦🇲"}];
+                  { iso: "th_TH", locale: "thai", name: "ภาษาไทย", emoji: "🇹🇭" },
+                  { iso: "mg_MG", locale: "malagasy", name: "Malagasy", emoji: "🇲🇬" },
+                  { iso: "tl_PH", locale: "filipino", name: "Tagalog", emoji: "🇵🇭" },
+                  { iso: "hy_AM", locale: "armenian", name: "հայերեն", emoji: "🇦🇲" }];
 
 export default locales;
