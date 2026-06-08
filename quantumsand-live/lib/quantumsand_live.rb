@@ -4968,7 +4968,8 @@ class QuantumsandLive
       "riscv/riscv-arch-test",
       "riscv/docs-resources",
       "stnolting/neorv32",
-      "stnolting/neorv32-micropython"
+      "stnolting/neorv32-micropython",
+      "ghdl/ghdl"
     ]
 
     @git_repos_chromium_googlesource = [
