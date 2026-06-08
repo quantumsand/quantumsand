@@ -4960,7 +4960,8 @@ class QuantumsandLive
       "pop-os/cryptsetup",
       "pop-os/dbus-settings-bindings",
       "TanStack/form",
-      "surveyjs/survey-library"
+      "surveyjs/survey-library",
+      "GSI-CS-CO/bel_projects"
     ]
 
     @git_repos_chromium_googlesource = [
