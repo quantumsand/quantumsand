@@ -4969,7 +4969,8 @@ class QuantumsandLive
       "riscv/docs-resources",
       "stnolting/neorv32",
       "stnolting/neorv32-micropython",
-      "ghdl/ghdl"
+      "ghdl/ghdl",
+      "ghdl/ghdl-cosim"
     ]
 
     @git_repos_chromium_googlesource = [
