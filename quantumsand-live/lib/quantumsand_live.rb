@@ -5971,7 +5971,8 @@ class QuantumsandLive
       "ohwr/project/video-fpga-hdmi-dvi-ethernet",
       "ohwr/project/vme-adc-250k-16b-36cha",
       "ohwr/project/fmc-vme-carrier",
-      "ohwr/project/vme-sbc-a25-pcie-vme-bridge"
+      "ohwr/project/vme-sbc-a25-pcie-vme-bridge",
+      "ohwr/project/white-rabbit"
     ]
 
     @git_repos_freedesktop_gitlab = [
