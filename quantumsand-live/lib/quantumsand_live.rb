@@ -4974,7 +4974,8 @@ class QuantumsandLive
       "VUnit/vunit",
       "UVVM/UVVM",
       "ghdl/ghdl-language-server",
-      "ghdl/ghdl-yosys-plugin"
+      "ghdl/ghdl-yosys-plugin",
+      "cocotb/cocotb"
     ]
 
     @git_repos_chromium_googlesource = [
