@@ -4970,7 +4970,8 @@ class QuantumsandLive
       "stnolting/neorv32",
       "stnolting/neorv32-micropython",
       "ghdl/ghdl",
-      "ghdl/ghdl-cosim"
+      "ghdl/ghdl-cosim",
+      "VUnit/vunit"
     ]
 
     @git_repos_chromium_googlesource = [
