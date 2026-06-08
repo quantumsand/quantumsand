@@ -5938,7 +5938,8 @@ class QuantumsandLive
       "ohwr/project/spec-sw",
       "ohwr/project/svec-sw",
       "ohwr/project/sis1160-pci-io",
-      "ohwr/project/soft-cpu-toolchains"
+      "ohwr/project/soft-cpu-toolchains",
+      "ohwr/project/spec-stress-test"
     ]
 
     @git_repos_freedesktop_gitlab = [
