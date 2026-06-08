@@ -4964,7 +4964,8 @@ class QuantumsandLive
       "GSI-CS-CO/bel_projects",
       "GSI-CS-CO/saftlib",
       "GSI-CS-CO/mtca_mmc_firmware",
-      "GSI-CS-CO/neorv32"
+      "GSI-CS-CO/neorv32",
+      "riscv/riscv-arch-test"
     ]
 
     @git_repos_chromium_googlesource = [
