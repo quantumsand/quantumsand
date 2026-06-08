@@ -5967,7 +5967,8 @@ class QuantumsandLive
       "ohwr/project/utca-rtm-8-sfp",
       "ohwr/project/ventilatorpal",
       "ohwr/project/vhdl-style",
-      "ohwr/project/microsemi-lib"
+      "ohwr/project/microsemi-lib",
+      "ohwr/project/video-fpga-hdmi-dvi-ethernet"
     ]
 
     @git_repos_freedesktop_gitlab = [
