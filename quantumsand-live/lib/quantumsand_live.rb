@@ -4975,7 +4975,8 @@ class QuantumsandLive
       "UVVM/UVVM",
       "ghdl/ghdl-language-server",
       "ghdl/ghdl-yosys-plugin",
-      "cocotb/cocotb"
+      "cocotb/cocotb",
+      "nvkelso/natural-earth-vector"
     ]
 
     @git_repos_chromium_googlesource = [
