@@ -5965,7 +5965,8 @@ class QuantumsandLive
       "ohwr/project/tr-pmc",
       "ohwr/project/usb-relay-box1",
       "ohwr/project/utca-rtm-8-sfp",
-      "ohwr/project/ventilatorpal"
+      "ohwr/project/ventilatorpal",
+      "ohwr/project/vhdl-style"
     ]
 
     @git_repos_freedesktop_gitlab = [
