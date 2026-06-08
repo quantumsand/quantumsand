@@ -5968,7 +5968,8 @@ class QuantumsandLive
       "ohwr/project/ventilatorpal",
       "ohwr/project/vhdl-style",
       "ohwr/project/microsemi-lib",
-      "ohwr/project/video-fpga-hdmi-dvi-ethernet"
+      "ohwr/project/video-fpga-hdmi-dvi-ethernet",
+      "ohwr/project/vme-adc-250k-16b-36cha"
     ]
 
     @git_repos_freedesktop_gitlab = [
