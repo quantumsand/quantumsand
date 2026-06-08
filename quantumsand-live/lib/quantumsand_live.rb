@@ -6196,7 +6196,8 @@ class QuantumsandLive
       "gaudi/Gaudi",
       "VecGeom/VecGeom",
       "lhcb-dirac/LHCbDIRAC",
-      "be-cem-edl/fec/hardware-modules/vme-bridge"
+      "be-cem-edl/fec/hardware-modules/vme-bridge",
+      "cohtdrivers/coht-vic"
     ]
 
     @git_repos_code_videolan_org = [
