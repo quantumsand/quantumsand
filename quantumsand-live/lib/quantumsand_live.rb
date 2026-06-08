@@ -5974,7 +5974,8 @@ class QuantumsandLive
       "ohwr/project/vme-sbc-a25-pcie-vme-bridge",
       "ohwr/project/white-rabbit",
       "ohwr/project/wr-calibration",
-      "ohwr/project/wr-compliance-tests"
+      "ohwr/project/wr-compliance-tests",
+      "ohwr/project/wr-fixed-point-calculations"
     ]
 
     @git_repos_freedesktop_gitlab = [
