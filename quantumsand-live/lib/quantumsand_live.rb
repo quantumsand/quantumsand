@@ -4962,7 +4962,8 @@ class QuantumsandLive
       "TanStack/form",
       "surveyjs/survey-library",
       "GSI-CS-CO/bel_projects",
-      "GSI-CS-CO/saftlib"
+      "GSI-CS-CO/saftlib",
+      "GSI-CS-CO/mtca_mmc_firmware"
     ]
 
     @git_repos_chromium_googlesource = [
