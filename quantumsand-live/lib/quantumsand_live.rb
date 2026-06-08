@@ -6186,7 +6186,8 @@ class QuantumsandLive
     @git_repos_cern_ch_gitlab = [
       "gaudi/Gaudi",
       "VecGeom/VecGeom",
-      "lhcb-dirac/LHCbDIRAC"
+      "lhcb-dirac/LHCbDIRAC",
+      "be-cem-edl/fec/hardware-modules/vme-bridge"
     ]
 
     @git_repos_code_videolan_org = [
