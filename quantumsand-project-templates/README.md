@@ -18,7 +18,7 @@ This will include:
 * RadiaCode Python Library
 * PyCUDA
 * [pandas](/quantumsand-project-templates/quantumsand-project-templates-pandas/)
-* GeoPandas
+* [GeoPandas](/quantumsand-project-templates/quantumsand-project-templates-geopandas/)
 * OSMnx
 * SQLAlchemy
 * [NumPy](/quantumsand-project-templates/quantumsand-project-templates-numpy/)
@@ -102,6 +102,10 @@ uv add SimpleITK
 * pandas;
 ```
 uv add pandas
+```
+* GeoPandas;
+```
+uv add geopandas
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash

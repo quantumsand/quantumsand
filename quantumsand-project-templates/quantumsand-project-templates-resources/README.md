@@ -39,3 +39,11 @@ These csv files are from: https://github.com/unepwcmc/ProtectedPlanet
 
 License: BSD-3-Clause
 ```
+
+* ne_110m_admin_0_countries.zip
+```
+This zip file is from: https://www.naturalearthdata.com
+And: https://github.com/nvkelso/natural-earth-vector
+
+License: All versions of Natural Earth raster + vector map data found on this website are in the public domain.
+```
