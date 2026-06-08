@@ -4973,7 +4973,8 @@ class QuantumsandLive
       "ghdl/ghdl-cosim",
       "VUnit/vunit",
       "UVVM/UVVM",
-      "ghdl/ghdl-language-server"
+      "ghdl/ghdl-language-server",
+      "ghdl/ghdl-yosys-plugin"
     ]
 
     @git_repos_chromium_googlesource = [
