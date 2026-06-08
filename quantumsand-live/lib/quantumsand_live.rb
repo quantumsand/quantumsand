@@ -5975,7 +5975,8 @@ class QuantumsandLive
       "ohwr/project/white-rabbit",
       "ohwr/project/wr-calibration",
       "ohwr/project/wr-compliance-tests",
-      "ohwr/project/wr-fixed-point-calculations"
+      "ohwr/project/wr-fixed-point-calculations",
+      "ohwr/project/wr-hsr"
     ]
 
     @git_repos_freedesktop_gitlab = [
