@@ -5978,7 +5978,8 @@ class QuantumsandLive
       "ohwr/project/wr-fixed-point-calculations",
       "ohwr/project/wr-hsr",
       "ohwr/project/wr-nic",
-      "ohwr/project/wrn-robustness"
+      "ohwr/project/wrn-robustness",
+      "ohwr/project/wr-std"
     ]
 
     @git_repos_freedesktop_gitlab = [
