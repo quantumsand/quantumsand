@@ -5934,7 +5934,8 @@ class QuantumsandLive
       "ohwr/project/respir-os",
       "ohwr/project/rf-mux-8ch",
       "ohwr/project/maroc_csa",
-      "ohwr/project/sdb"
+      "ohwr/project/sdb",
+      "ohwr/project/sfp-plus-i2c"
     ]
 
     @git_repos_freedesktop_gitlab = [
