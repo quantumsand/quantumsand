@@ -5908,7 +5908,6 @@ class QuantumsandLive
       "ohwr/project/libsfp",
       "ohwr/project/macbeth",
       "ohwr/project/masterfip-tst",
-      "ohwr/fmc-projects/spec/spec-sw",
       "ohwr/project/meta-spec",
       "ohwr/project/microstepper",
       "ohwr/project/mrpc-25x18-24strip",
@@ -5935,7 +5934,8 @@ class QuantumsandLive
       "ohwr/project/rf-mux-8ch",
       "ohwr/project/maroc_csa",
       "ohwr/project/sdb",
-      "ohwr/project/sfp-plus-i2c"
+      "ohwr/project/sfp-plus-i2c",
+      "ohwr/project/spec-sw"
     ]
 
     @git_repos_freedesktop_gitlab = [
