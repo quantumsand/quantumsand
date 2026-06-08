@@ -5935,7 +5935,8 @@ class QuantumsandLive
       "ohwr/project/maroc_csa",
       "ohwr/project/sdb",
       "ohwr/project/sfp-plus-i2c",
-      "ohwr/project/spec-sw"
+      "ohwr/project/spec-sw",
+      "ohwr/project/svec-sw"
     ]
 
     @git_repos_freedesktop_gitlab = [
