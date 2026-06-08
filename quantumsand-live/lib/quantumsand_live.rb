@@ -5955,7 +5955,8 @@ class QuantumsandLive
       "ohwr/project/timex3",
       "ohwr/project/tr-amc",
       "ohwr/project/tr-pexp",
-      "ohwr/project/tr-pmc"
+      "ohwr/project/tr-pmc",
+      "ohwr/project/usb-relay-box1"
     ]
 
     @git_repos_freedesktop_gitlab = [
