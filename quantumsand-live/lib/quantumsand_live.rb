@@ -5944,7 +5944,8 @@ class QuantumsandLive
       "ohwr/project/spec7-ps-sw",
       "ohwr/project/tdc-core",
       "ohwr/project/spec-ticks",
-      "ohwr/project/timex3"
+      "ohwr/project/timex3",
+      "ohwr/project/tr-amc"
     ]
 
     @git_repos_freedesktop_gitlab = [
