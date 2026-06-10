@@ -5007,7 +5007,8 @@ class QuantumsandLive
       "elementary/installer",
       "pop-os/distinst-v2",
       "pop-os/docs",
-      "pop-os/dwarves"
+      "pop-os/dwarves",
+      "pop-os/ecs-disk-manager"
     ]
 
     @git_repos_chromium_googlesource = [
