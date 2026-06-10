@@ -4979,7 +4979,8 @@ class QuantumsandLive
       "nvkelso/natural-earth-vector",
       "pop-os/dbus-udisks2",
       "z-galaxy/zbus",
-      "pop-os/dbusmenu-zbus"
+      "pop-os/dbusmenu-zbus",
+      "pop-os/deb-architectures"
     ]
 
     @git_repos_chromium_googlesource = [
