@@ -4978,7 +4978,8 @@ class QuantumsandLive
       "cocotb/cocotb",
       "nvkelso/natural-earth-vector",
       "pop-os/dbus-udisks2",
-      "z-galaxy/zbus"
+      "z-galaxy/zbus",
+      "pop-os/dbusmenu-zbus"
     ]
 
     @git_repos_chromium_googlesource = [
