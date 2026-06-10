@@ -5011,7 +5011,8 @@ class QuantumsandLive
       "pop-os/ecs-disk-manager",
       "orlp/slotmap",
       "pop-os/eddy",
-      "pop-os/egl-wayland"
+      "pop-os/egl-wayland",
+      "NVIDIA/eglexternalplatform"
     ]
 
     @git_repos_chromium_googlesource = [
