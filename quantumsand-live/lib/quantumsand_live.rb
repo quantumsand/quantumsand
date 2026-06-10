@@ -5014,7 +5014,8 @@ class QuantumsandLive
       "pop-os/egl-wayland",
       "NVIDIA/eglexternalplatform",
       "NVIDIA/egl-wayland",
-      "pop-os/envfile"
+      "pop-os/envfile",
+      "pop-os/exit-status-ext"
     ]
 
     @git_repos_chromium_googlesource = [
