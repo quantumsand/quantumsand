@@ -4995,7 +4995,8 @@ class QuantumsandLive
       "pop-os/debconf",
       "S4N-T0S/Open-Source-LDAT",
       "pop-os/deckard",
-      "pop-os/default-settings"
+      "pop-os/default-settings",
+      "pop-os/gnome-shell-extension-pop-cosmic"
     ]
 
     @git_repos_chromium_googlesource = [
