@@ -5029,7 +5029,8 @@ class QuantumsandLive
       "pop-os/fs_extra",
       "gboeing/osmnx-examples",
       "kraina-ai/quackosm",
-      "healthysustainablecities/global-indicators"
+      "healthysustainablecities/global-indicators",
+      "marimo-team/marimo"
     ]
 
     @git_repos_chromium_googlesource = [
