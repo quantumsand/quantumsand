@@ -5009,7 +5009,8 @@ class QuantumsandLive
       "pop-os/docs",
       "pop-os/dwarves",
       "pop-os/ecs-disk-manager",
-      "orlp/slotmap"
+      "orlp/slotmap",
+      "pop-os/eddy"
     ]
 
     @git_repos_chromium_googlesource = [
