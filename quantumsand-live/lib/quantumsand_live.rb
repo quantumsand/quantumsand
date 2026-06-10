@@ -4986,7 +4986,8 @@ class QuantumsandLive
       "pop-os/deb-diversion",
       "pop-os/debarchive",
       "pop-os/debrepbuild",
-      "system76/cuda"
+      "system76/cuda",
+      "NVIDIA/cuda-samples"
     ]
 
     @git_repos_chromium_googlesource = [
