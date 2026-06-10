@@ -26,7 +26,7 @@ This will include:
 * sagemath
 * pytest
 * tch-rs (Rust bindings for the C++ api of PyTorch)
-* Ultralytics
+* [Ultralytics](/quantumsand-project-templates/quantumsand-project-templates-ultralytics/)
 * tuitar (A portable guitar training tool & DIY kit)
 * misykat (Prayer times)
 * iroh-live (Real-time audio and video over iroh QUIC)
@@ -106,6 +106,10 @@ uv add pandas
 * GeoPandas;
 ```
 uv add geopandas
+```
+* Ultralytics;
+```
+uv add ultralytics
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash

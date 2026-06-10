@@ -47,3 +47,22 @@ And: https://github.com/nvkelso/natural-earth-vector
 
 License: All versions of Natural Earth raster + vector map data found on this website are in the public domain.
 ```
+
+* yolo26n.pt
+```
+These model weights are from: https://huggingface.co/Ultralytics/YOLO26
+
+Ultralytics creates cutting-edge, state-of-the-art (SOTA) YOLO models built on years of foundational research in computer vision and AI.
+
+License: AGPL-3.0 License
+```
+
+* andy-potter-20240905.jpg
+```
+License: CC BY-SA 4.0
+```
+
+* yolo_object_detection_results_0.jpg
+```
+License: CC BY-SA 4.0
+```
