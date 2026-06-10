@@ -4993,7 +4993,8 @@ class QuantumsandLive
       "pop-os/packaging-natron",
       "pop-os/repo-curated-free",
       "pop-os/debconf",
-      "S4N-T0S/Open-Source-LDAT"
+      "S4N-T0S/Open-Source-LDAT",
+      "pop-os/deckard"
     ]
 
     @git_repos_chromium_googlesource = [
