@@ -4992,7 +4992,8 @@ class QuantumsandLive
       "pop-os/repo-proprietary",
       "pop-os/packaging-natron",
       "pop-os/repo-curated-free",
-      "pop-os/debconf"
+      "pop-os/debconf",
+      "S4N-T0S/Open-Source-LDAT"
     ]
 
     @git_repos_chromium_googlesource = [
