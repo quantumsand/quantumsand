@@ -5001,7 +5001,8 @@ class QuantumsandLive
       "pop-os/desktop",
       "pop-os/desktop-icons-ng",
       "pop-os/desktop-widget",
-      "pop-os/directx-headers"
+      "pop-os/directx-headers",
+      "pop-os/disk-types"
     ]
 
     @git_repos_chromium_googlesource = [
