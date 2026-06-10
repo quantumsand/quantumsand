@@ -4987,7 +4987,8 @@ class QuantumsandLive
       "pop-os/debarchive",
       "pop-os/debrepbuild",
       "system76/cuda",
-      "NVIDIA/cuda-samples"
+      "NVIDIA/cuda-samples",
+      "FloopCZ/tensorflow_cc"
     ]
 
     @git_repos_chromium_googlesource = [
