@@ -4994,7 +4994,8 @@ class QuantumsandLive
       "pop-os/repo-curated-free",
       "pop-os/debconf",
       "S4N-T0S/Open-Source-LDAT",
-      "pop-os/deckard"
+      "pop-os/deckard",
+      "pop-os/default-settings"
     ]
 
     @git_repos_chromium_googlesource = [
