@@ -4984,7 +4984,8 @@ class QuantumsandLive
       "pop-os/deb-changelog",
       "pop-os/deb-control",
       "pop-os/deb-diversion",
-      "pop-os/debarchive"
+      "pop-os/debarchive",
+      "pop-os/debrepbuild"
     ]
 
     @git_repos_chromium_googlesource = [
