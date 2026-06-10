@@ -5004,7 +5004,8 @@ class QuantumsandLive
       "pop-os/directx-headers",
       "pop-os/disk-types",
       "pop-os/distinst",
-      "elementary/installer"
+      "elementary/installer",
+      "pop-os/distinst-v2"
     ]
 
     @git_repos_chromium_googlesource = [
