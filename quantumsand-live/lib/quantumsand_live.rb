@@ -4991,7 +4991,8 @@ class QuantumsandLive
       "FloopCZ/tensorflow_cc",
       "pop-os/repo-proprietary",
       "pop-os/packaging-natron",
-      "pop-os/repo-curated-free"
+      "pop-os/repo-curated-free",
+      "pop-os/debconf"
     ]
 
     @git_repos_chromium_googlesource = [
