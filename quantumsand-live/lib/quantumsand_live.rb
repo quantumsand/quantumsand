@@ -4989,7 +4989,8 @@ class QuantumsandLive
       "system76/cuda",
       "NVIDIA/cuda-samples",
       "FloopCZ/tensorflow_cc",
-      "pop-os/repo-proprietary"
+      "pop-os/repo-proprietary",
+      "pop-os/packaging-natron"
     ]
 
     @git_repos_chromium_googlesource = [
