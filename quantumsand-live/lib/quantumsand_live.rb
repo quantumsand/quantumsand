@@ -5106,7 +5106,8 @@ class QuantumsandLive
       "microsoft/TRELLIS.2-4B",
       "google/gemma-4-12B",
       "google/gemma-4-12B-it",
-      "google/gemma-4-12B-it-assistant"
+      "google/gemma-4-12B-it-assistant",
+      "Ultralytics/YOLO26"
     ]
 
     @git_repos_libreoffice_org = [
