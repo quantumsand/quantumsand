@@ -5000,7 +5000,8 @@ class QuantumsandLive
       "pop-os/pop",
       "pop-os/desktop",
       "pop-os/desktop-icons-ng",
-      "pop-os/desktop-widget"
+      "pop-os/desktop-widget",
+      "pop-os/directx-headers"
     ]
 
     @git_repos_chromium_googlesource = [
