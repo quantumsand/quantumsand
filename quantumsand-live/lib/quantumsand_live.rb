@@ -4981,7 +4981,8 @@ class QuantumsandLive
       "z-galaxy/zbus",
       "pop-os/dbusmenu-zbus",
       "pop-os/deb-architectures",
-      "pop-os/deb-changelog"
+      "pop-os/deb-changelog",
+      "pop-os/deb-control"
     ]
 
     @git_repos_chromium_googlesource = [
