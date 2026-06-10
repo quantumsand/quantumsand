@@ -4977,7 +4977,8 @@ class QuantumsandLive
       "ghdl/ghdl-yosys-plugin",
       "cocotb/cocotb",
       "nvkelso/natural-earth-vector",
-      "pop-os/dbus-udisks2"
+      "pop-os/dbus-udisks2",
+      "z-galaxy/zbus"
     ]
 
     @git_repos_chromium_googlesource = [
