@@ -5008,7 +5008,8 @@ class QuantumsandLive
       "pop-os/distinst-v2",
       "pop-os/docs",
       "pop-os/dwarves",
-      "pop-os/ecs-disk-manager"
+      "pop-os/ecs-disk-manager",
+      "orlp/slotmap"
     ]
 
     @git_repos_chromium_googlesource = [
