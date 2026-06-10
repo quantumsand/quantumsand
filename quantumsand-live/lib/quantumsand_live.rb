@@ -5025,7 +5025,8 @@ class QuantumsandLive
       "pop-os/gtk-theme",
       "pop-os/icon-theme",
       "pop-os/freedesktop-desktop-entry",
-      "pop-os/freedesktop-icons"
+      "pop-os/freedesktop-icons",
+      "pop-os/fs_extra"
     ]
 
     @git_repos_chromium_googlesource = [
