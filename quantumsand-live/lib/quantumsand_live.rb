@@ -5027,7 +5027,8 @@ class QuantumsandLive
       "pop-os/freedesktop-desktop-entry",
       "pop-os/freedesktop-icons",
       "pop-os/fs_extra",
-      "gboeing/osmnx-examples"
+      "gboeing/osmnx-examples",
+      "kraina-ai/quackosm"
     ]
 
     @git_repos_chromium_googlesource = [
