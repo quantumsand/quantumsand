@@ -5019,7 +5019,8 @@ class QuantumsandLive
       "async-rs/async-std",
       "smol-rs/smol",
       "pop-os/firmware-manager",
-      "pop-os/fd-reactor"
+      "pop-os/fd-reactor",
+      "pop-os/flatpak"
     ]
 
     @git_repos_chromium_googlesource = [
