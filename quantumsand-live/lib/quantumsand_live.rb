@@ -5030,7 +5030,8 @@ class QuantumsandLive
       "gboeing/osmnx-examples",
       "kraina-ai/quackosm",
       "healthysustainablecities/global-indicators",
-      "marimo-team/marimo"
+      "marimo-team/marimo",
+      "chmp/ipytest"
     ]
 
     @git_repos_chromium_googlesource = [
