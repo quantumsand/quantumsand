@@ -4998,7 +4998,8 @@ class QuantumsandLive
       "pop-os/default-settings",
       "pop-os/gnome-shell-extension-pop-cosmic",
       "pop-os/pop",
-      "pop-os/desktop"
+      "pop-os/desktop",
+      "pop-os/desktop-icons-ng"
     ]
 
     @git_repos_chromium_googlesource = [
