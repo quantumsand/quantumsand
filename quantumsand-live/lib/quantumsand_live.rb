@@ -5020,7 +5020,8 @@ class QuantumsandLive
       "smol-rs/smol",
       "pop-os/firmware-manager",
       "pop-os/fd-reactor",
-      "pop-os/flatpak"
+      "pop-os/flatpak",
+      "pop-os/fonts"
     ]
 
     @git_repos_chromium_googlesource = [
