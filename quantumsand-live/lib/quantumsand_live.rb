@@ -5023,7 +5023,8 @@ class QuantumsandLive
       "pop-os/flatpak",
       "pop-os/fonts",
       "pop-os/gtk-theme",
-      "pop-os/icon-theme"
+      "pop-os/icon-theme",
+      "pop-os/freedesktop-desktop-entry"
     ]
 
     @git_repos_chromium_googlesource = [
