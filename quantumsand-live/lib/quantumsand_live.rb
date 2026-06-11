@@ -6279,7 +6279,8 @@ class QuantumsandLive
       "be-cem-edl/diot/xcku/fmc-carrier",
       "be-cem-edl/diot/zynqmp/pts/pts-library",
       "be-cem-edl/diot/xcku/fmc-carrier-pts",
-      "be-cem-edl/diot/monitoring-module/monimod-fw"
+      "be-cem-edl/diot/monitoring-module/monimod-fw",
+      "be-cem-edl/diot/monitoring-module/monimod-hw"
     ]
 
     @git_repos_code_videolan_org = [
