@@ -5034,7 +5034,8 @@ class QuantumsandLive
       "chmp/ipytest",
       "pop-os/fwts",
       "fwts/fwts",
-      "flathub/org.freedesktop.fwupd"
+      "flathub/org.freedesktop.fwupd",
+      "pop-os/fwupd"
     ]
 
     @git_repos_chromium_googlesource = [
