@@ -6266,7 +6266,8 @@ class QuantumsandLive
       "lhcb-dirac/LHCbDIRAC",
       "be-cem-edl/fec/hardware-modules/vme-bridge",
       "cohtdrivers/coht-vic",
-      "be-cem-edl/chronos/wren/rfframetransceiver"
+      "be-cem-edl/chronos/wren/rfframetransceiver",
+      "be-cem-edl/chronos/wren/wren-gw"
     ]
 
     @git_repos_code_videolan_org = [
