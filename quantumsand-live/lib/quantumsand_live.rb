@@ -6274,7 +6274,8 @@ class QuantumsandLive
       "be-cem-edl/chronos/openmmc",
       "be-cem-edl/chronos/wr2rf-vme",
       "be-cem-edl/common/cheby",
-      "be-cem-edl/diot/igl2/gateware"
+      "be-cem-edl/diot/igl2/gateware",
+      "be-cem-edl/diot/igl2/pcb-design"
     ]
 
     @git_repos_code_videolan_org = [
