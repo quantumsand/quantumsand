@@ -6040,7 +6040,8 @@ class QuantumsandLive
       "ohwr/project/wr-starting-kit",
       "ohwr/project/wr-switch-hdl",
       "ohwr/project/wr-switch-hw",
-      "rastersoft/desktop-icons-ng"
+      "rastersoft/desktop-icons-ng",
+      "ohwr/project/wr-switch-hw-v4"
     ]
 
     @git_repos_freedesktop_gitlab = [
