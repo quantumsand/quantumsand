@@ -5041,7 +5041,8 @@ class QuantumsandLive
       "pop-os/game-devices-udev",
       "pop-os/gamehub",
       "pop-os/gdm3",
-      "pop-os/gir"
+      "pop-os/gir",
+      "pop-os/glyphon"
     ]
 
     @git_repos_chromium_googlesource = [
