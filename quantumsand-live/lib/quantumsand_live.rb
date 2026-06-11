@@ -6294,7 +6294,8 @@ class QuantumsandLive
       "be-cem-edl/diot/zynqmp/linux-debian",
       "be-cem-edl/diot/reliability",
       "be-cem-edl/diot/extension-card",
-      "be-cem-edl/fec/hardware-modules/fpga-manager"
+      "be-cem-edl/fec/hardware-modules/fpga-manager",
+      "be-cem-edl/fec/hardware-modules/spexi7u"
     ]
 
     @git_repos_code_videolan_org = [
