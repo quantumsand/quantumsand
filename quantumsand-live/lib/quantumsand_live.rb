@@ -6285,7 +6285,8 @@ class QuantumsandLive
       "be-cem-edl/diot/worldfip/fmc-nanofip/fmc-nanofip-gw",
       "be-cem-edl/diot/worldfip/fmc-nanofip/fmc-nanofip-pcb",
       "be-cem-edl/diot/worldfip/worldfip-doc",
-      "be-cem-edl/diot/zynqmp/pts/ibert"
+      "be-cem-edl/diot/zynqmp/pts/ibert",
+      "be-cem-edl/diot/zynqmp/pts/ps-ddr-test"
     ]
 
     @git_repos_code_videolan_org = [
