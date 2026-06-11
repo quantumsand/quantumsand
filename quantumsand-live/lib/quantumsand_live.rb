@@ -6277,7 +6277,8 @@ class QuantumsandLive
       "be-cem-edl/diot/igl2/gateware",
       "be-cem-edl/diot/igl2/pcb-design",
       "be-cem-edl/diot/xcku/fmc-carrier",
-      "be-cem-edl/diot/zynqmp/pts/pts-library"
+      "be-cem-edl/diot/zynqmp/pts/pts-library",
+      "be-cem-edl/diot/xcku/fmc-carrier-pts"
     ]
 
     @git_repos_code_videolan_org = [
