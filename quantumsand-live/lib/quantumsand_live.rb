@@ -6047,7 +6047,8 @@ class QuantumsandLive
       "ohwr/project/wishbone-gen",
       "ohwr/project/wren",
       "ohwr/project/wrs-fl-hw",
-      "ohwr/project/wrs-lj-hw"
+      "ohwr/project/wrs-lj-hw",
+      "ohwr/project/wrtd-ref-designs"
     ]
 
     @git_repos_freedesktop_gitlab = [
