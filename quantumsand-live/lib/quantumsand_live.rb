@@ -5038,7 +5038,8 @@ class QuantumsandLive
       "pop-os/fwupd",
       "pop-os/fwupd-dbus",
       "pop-os/fwupd-efi",
-      "pop-os/game-devices-udev"
+      "pop-os/game-devices-udev",
+      "pop-os/gamehub"
     ]
 
     @git_repos_chromium_googlesource = [
