@@ -6043,7 +6043,8 @@ class QuantumsandLive
       "rastersoft/desktop-icons-ng",
       "ohwr/project/wr-switch-hw-v4",
       "ohwr/project/wr-switch-sw",
-      "ohwr/project/wr-switch-testing"
+      "ohwr/project/wr-switch-testing",
+      "ohwr/project/wishbone-gen"
     ]
 
     @git_repos_freedesktop_gitlab = [
