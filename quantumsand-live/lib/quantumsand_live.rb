@@ -5035,7 +5035,8 @@ class QuantumsandLive
       "pop-os/fwts",
       "fwts/fwts",
       "flathub/org.freedesktop.fwupd",
-      "pop-os/fwupd"
+      "pop-os/fwupd",
+      "pop-os/fwupd-dbus"
     ]
 
     @git_repos_chromium_googlesource = [
