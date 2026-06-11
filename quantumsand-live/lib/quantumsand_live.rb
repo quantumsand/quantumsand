@@ -5031,7 +5031,8 @@ class QuantumsandLive
       "kraina-ai/quackosm",
       "healthysustainablecities/global-indicators",
       "marimo-team/marimo",
-      "chmp/ipytest"
+      "chmp/ipytest",
+      "pop-os/fwts"
     ]
 
     @git_repos_chromium_googlesource = [
