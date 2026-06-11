@@ -11,6 +11,7 @@ dependencies = [
     "nibabel>=5.4.2",
     "pandas>=3.0.3",
     "pydicom>=3.0.2",
+    "rdkit>=2026.3.3",
     "simpleitk>=2.5.5",
     "tf-nightly>=2.22.0.dev20260524",
     "torch>=2.12.0",

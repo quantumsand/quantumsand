@@ -30,7 +30,7 @@ This will include:
 * tuitar (A portable guitar training tool & DIY kit)
 * misykat (Prayer times)
 * iroh-live (Real-time audio and video over iroh QUIC)
-* RDKit
+* [RDKit](/quantumsand-project-templates/quantumsand-project-templates-rdkit/)
 * scikit-learn
 * scikit-multilearn
 * SciPy
@@ -110,6 +110,10 @@ uv add geopandas
 * Ultralytics;
 ```
 uv add ultralytics
+```
+* RDKit;
+```
+uv add rdkit
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash

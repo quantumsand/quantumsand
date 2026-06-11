@@ -66,3 +66,8 @@ License: CC BY-SA 4.0
 ```
 License: CC BY-SA 4.0
 ```
+
+* rdkit_caffeine_molecule.svg
+```
+License: CC BY-SA 4.0
+```
