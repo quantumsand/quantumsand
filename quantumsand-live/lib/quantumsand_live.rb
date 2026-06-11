@@ -6293,7 +6293,8 @@ class QuantumsandLive
       "be-cem-edl/diot/zynqmp/boot-image-utils",
       "be-cem-edl/diot/zynqmp/linux-debian",
       "be-cem-edl/diot/reliability",
-      "be-cem-edl/diot/extension-card"
+      "be-cem-edl/diot/extension-card",
+      "be-cem-edl/fec/hardware-modules/fpga-manager"
     ]
 
     @git_repos_code_videolan_org = [
