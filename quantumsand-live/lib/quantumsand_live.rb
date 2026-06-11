@@ -7134,7 +7134,8 @@ class QuantumsandLive
       "GeopJr/Collision",
       "Calamares/calamares",
       "aryak/mozhi",
-      "nipy-data/nitest-freesurfer"
+      "nipy-data/nitest-freesurfer",
+      "fabiscafe/game-devices-udev"
     ]
 
     @git_repos_kde_invent = [
