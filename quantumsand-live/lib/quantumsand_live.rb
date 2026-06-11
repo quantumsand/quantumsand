@@ -6270,7 +6270,8 @@ class QuantumsandLive
       "be-cem-edl/chronos/wren/wren-gw",
       "be-cem-edl/chronos/wren/wren-hw",
       "be-cem-edl/chronos/wren/wren-smp-gw",
-      "be-cem-edl/chronos/ertm"
+      "be-cem-edl/chronos/ertm",
+      "be-cem-edl/chronos/openmmc"
     ]
 
     @git_repos_code_videolan_org = [
