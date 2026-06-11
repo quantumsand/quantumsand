@@ -6284,7 +6284,8 @@ class QuantumsandLive
       "be-cem-edl/diot/monitoring-module/monimod-reference-design",
       "be-cem-edl/diot/worldfip/fmc-nanofip/fmc-nanofip-gw",
       "be-cem-edl/diot/worldfip/fmc-nanofip/fmc-nanofip-pcb",
-      "be-cem-edl/diot/worldfip/worldfip-doc"
+      "be-cem-edl/diot/worldfip/worldfip-doc",
+      "be-cem-edl/diot/zynqmp/pts/ibert"
     ]
 
     @git_repos_code_videolan_org = [
