@@ -5045,7 +5045,8 @@ class QuantumsandLive
       "pop-os/glyphon",
       "grovesNL/glyphon",
       "nical/etagere",
-      "pop-os/gnome-control-center"
+      "pop-os/gnome-control-center",
+      "nrflynn2/ml-drug-discovery"
     ]
 
     @git_repos_chromium_googlesource = [
