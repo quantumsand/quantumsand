@@ -5033,7 +5033,8 @@ class QuantumsandLive
       "marimo-team/marimo",
       "chmp/ipytest",
       "pop-os/fwts",
-      "fwts/fwts"
+      "fwts/fwts",
+      "flathub/org.freedesktop.fwupd"
     ]
 
     @git_repos_chromium_googlesource = [
