@@ -5032,7 +5032,8 @@ class QuantumsandLive
       "healthysustainablecities/global-indicators",
       "marimo-team/marimo",
       "chmp/ipytest",
-      "pop-os/fwts"
+      "pop-os/fwts",
+      "fwts/fwts"
     ]
 
     @git_repos_chromium_googlesource = [
