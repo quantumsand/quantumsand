@@ -6041,7 +6041,8 @@ class QuantumsandLive
       "ohwr/project/wr-switch-hdl",
       "ohwr/project/wr-switch-hw",
       "rastersoft/desktop-icons-ng",
-      "ohwr/project/wr-switch-hw-v4"
+      "ohwr/project/wr-switch-hw-v4",
+      "ohwr/project/wr-switch-sw"
     ]
 
     @git_repos_freedesktop_gitlab = [
