@@ -6288,7 +6288,8 @@ class QuantumsandLive
       "be-cem-edl/diot/zynqmp/pts/ibert",
       "be-cem-edl/diot/zynqmp/pts/ps-ddr-test",
       "be-cem-edl/diot/zynqmp/pts/pts-boot-image",
-      "be-cem-edl/diot/zynqmp/applications/diot-util"
+      "be-cem-edl/diot/zynqmp/applications/diot-util",
+      "be-cem-edl/diot/zynqmp/boot-image"
     ]
 
     @git_repos_code_videolan_org = [
