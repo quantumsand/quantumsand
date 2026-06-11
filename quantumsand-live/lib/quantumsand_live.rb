@@ -5037,7 +5037,8 @@ class QuantumsandLive
       "flathub/org.freedesktop.fwupd",
       "pop-os/fwupd",
       "pop-os/fwupd-dbus",
-      "pop-os/fwupd-efi"
+      "pop-os/fwupd-efi",
+      "pop-os/game-devices-udev"
     ]
 
     @git_repos_chromium_googlesource = [
