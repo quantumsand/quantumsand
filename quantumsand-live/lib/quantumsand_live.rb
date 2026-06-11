@@ -6268,7 +6268,8 @@ class QuantumsandLive
       "cohtdrivers/coht-vic",
       "be-cem-edl/chronos/wren/rfframetransceiver",
       "be-cem-edl/chronos/wren/wren-gw",
-      "be-cem-edl/chronos/wren/wren-hw"
+      "be-cem-edl/chronos/wren/wren-hw",
+      "be-cem-edl/chronos/wren/wren-smp-gw"
     ]
 
     @git_repos_code_videolan_org = [
