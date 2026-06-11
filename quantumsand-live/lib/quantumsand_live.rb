@@ -5043,7 +5043,8 @@ class QuantumsandLive
       "pop-os/gdm3",
       "pop-os/gir",
       "pop-os/glyphon",
-      "grovesNL/glyphon"
+      "grovesNL/glyphon",
+      "nical/etagere"
     ]
 
     @git_repos_chromium_googlesource = [
