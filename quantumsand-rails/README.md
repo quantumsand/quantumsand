@@ -70,11 +70,13 @@ More to follow.
 ### Grains table
 
 - git_repo_name `:string`
+- git_hash_hex `:binary`
 - qr_code `:string`
 - title `:string`
 - description `:text`
 - original_locale `:string`
 - original_narrative_text `:text`
+- translation_audio `:json`
 - advertising_tiles `:json`
 - advertising_geospatial `:geometry`
 - advertising_business_page `:string`
