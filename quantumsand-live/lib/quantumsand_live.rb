@@ -6291,7 +6291,8 @@ class QuantumsandLive
       "be-cem-edl/diot/zynqmp/applications/diot-util",
       "be-cem-edl/diot/zynqmp/boot-image",
       "be-cem-edl/diot/zynqmp/boot-image-utils",
-      "be-cem-edl/diot/zynqmp/linux-debian"
+      "be-cem-edl/diot/zynqmp/linux-debian",
+      "be-cem-edl/diot/reliability"
     ]
 
     @git_repos_code_videolan_org = [
