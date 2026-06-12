@@ -5073,7 +5073,8 @@ class QuantumsandLive
       "waycrate/waycratelock",
       "WayfireWM/wayfire",
       "varlink/rust",
-      "varlink/python"
+      "varlink/python",
+      "varlink/libvarlink"
     ]
 
     @git_repos_chromium_googlesource = [
