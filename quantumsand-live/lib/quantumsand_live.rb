@@ -6220,7 +6220,8 @@ class QuantumsandLive
       "emersion/kanshi",
       "emersion/vali",
       "glvnd/libglvnd",
-      "emersion/chayang"
+      "emersion/chayang",
+      "emersion/grim"
     ]
 
     @git_repos_xfce_gitlab = [
