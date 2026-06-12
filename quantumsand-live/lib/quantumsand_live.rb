@@ -5080,7 +5080,8 @@ class QuantumsandLive
       "varlink/syntax-highlight-varlink",
       "varlink/linux-varlink",
       "emersion/slurp",
-      "WayfireWM/wf-config"
+      "WayfireWM/wf-config",
+      "WayfireWM/wf-utils"
     ]
 
     @git_repos_chromium_googlesource = [
