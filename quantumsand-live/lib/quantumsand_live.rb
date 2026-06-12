@@ -5047,7 +5047,8 @@ class QuantumsandLive
       "nical/etagere",
       "pop-os/gnome-control-center",
       "nrflynn2/ml-drug-discovery",
-      "pop-os/gnome-disk-utility"
+      "pop-os/gnome-disk-utility",
+      "pop-os/gnome-initial-setup"
     ]
 
     @git_repos_chromium_googlesource = [
