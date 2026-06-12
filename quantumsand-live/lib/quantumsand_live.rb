@@ -5081,7 +5081,8 @@ class QuantumsandLive
       "varlink/linux-varlink",
       "emersion/slurp",
       "WayfireWM/wf-config",
-      "WayfireWM/wf-utils"
+      "WayfireWM/wf-utils",
+      "WayfireWM/wf-touch"
     ]
 
     @git_repos_chromium_googlesource = [
