@@ -31,7 +31,7 @@ This will include:
 * misykat (Prayer times)
 * iroh-live (Real-time audio and video over iroh QUIC)
 * [RDKit](/quantumsand-project-templates/quantumsand-project-templates-rdkit/)
-* scikit-learn
+* [scikit-learn](/quantumsand-project-templates/quantumsand-project-templates-scikit-learn/)
 * scikit-multilearn
 * SciPy
 * tqdm
@@ -114,6 +114,10 @@ uv add ultralytics
 * RDKit;
 ```
 uv add rdkit
+```
+* scikit-learn;
+```
+uv add scikit-learn
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
