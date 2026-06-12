@@ -5057,7 +5057,8 @@ class QuantumsandLive
       "pop-os/gnome-shell-extension-do-not-disturb",
       "pop-os/gnome-shell-extension-gsconnect",
       "GSConnect/gsconnect-ci",
-      "pop-os/gnome-shell-extension-pop-battery-icon-fix"
+      "pop-os/gnome-shell-extension-pop-battery-icon-fix",
+      "pop-os/gnome-shell-extension-pop-shop-details"
     ]
 
     @git_repos_chromium_googlesource = [
