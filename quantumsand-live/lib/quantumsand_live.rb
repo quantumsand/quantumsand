@@ -5059,7 +5059,8 @@ class QuantumsandLive
       "GSConnect/gsconnect-ci",
       "pop-os/gnome-shell-extension-pop-battery-icon-fix",
       "pop-os/gnome-shell-extension-pop-shop-details",
-      "pop-os/gnome-shell-extension-pop-snapshot"
+      "pop-os/gnome-shell-extension-pop-snapshot",
+      "pop-os/gnome-shell-extension-pop-suspend-button"
     ]
 
     @git_repos_chromium_googlesource = [
