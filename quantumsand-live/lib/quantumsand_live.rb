@@ -5071,7 +5071,8 @@ class QuantumsandLive
       "waycrate/greetd-waycratedm",
       "waycrate/qt-session-lock",
       "waycrate/waycratelock",
-      "WayfireWM/wayfire"
+      "WayfireWM/wayfire",
+      "varlink/rust"
     ]
 
     @git_repos_chromium_googlesource = [
