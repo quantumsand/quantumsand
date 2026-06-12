@@ -5084,7 +5084,8 @@ class QuantumsandLive
       "WayfireWM/wf-utils",
       "WayfireWM/wf-touch",
       "grahnen/libtouch",
-      "WayfireWM/wf-json"
+      "WayfireWM/wf-json",
+      "pop-os/greetd"
     ]
 
     @git_repos_chromium_googlesource = [
