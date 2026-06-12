@@ -5056,7 +5056,8 @@ class QuantumsandLive
       "pop-os/gnome-shell-extension-always-show-workspaces",
       "pop-os/gnome-shell-extension-do-not-disturb",
       "pop-os/gnome-shell-extension-gsconnect",
-      "GSConnect/gsconnect-ci"
+      "GSConnect/gsconnect-ci",
+      "pop-os/gnome-shell-extension-pop-battery-icon-fix"
     ]
 
     @git_repos_chromium_googlesource = [
