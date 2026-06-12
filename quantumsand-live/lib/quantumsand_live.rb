@@ -6218,7 +6218,8 @@ class QuantumsandLive
       "drm/misc/kernel",
       "emersion/libdisplay-info",
       "emersion/kanshi",
-      "emersion/vali"
+      "emersion/vali",
+      "glvnd/libglvnd"
     ]
 
     @git_repos_xfce_gitlab = [
