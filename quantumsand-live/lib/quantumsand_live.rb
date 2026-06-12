@@ -5070,7 +5070,8 @@ class QuantumsandLive
       "samcday/phrog",
       "waycrate/greetd-waycratedm",
       "waycrate/qt-session-lock",
-      "waycrate/waycratelock"
+      "waycrate/waycratelock",
+      "WayfireWM/wayfire"
     ]
 
     @git_repos_chromium_googlesource = [
