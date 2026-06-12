@@ -6085,7 +6085,8 @@ class QuantumsandLive
       "ohwr/project/wren",
       "ohwr/project/wrs-fl-hw",
       "ohwr/project/wrs-lj-hw",
-      "ohwr/project/wrtd-ref-designs"
+      "ohwr/project/wrtd-ref-designs",
+      "marcusbritanicus/QtGreet"
     ]
 
     @git_repos_freedesktop_gitlab = [
