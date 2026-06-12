@@ -5701,7 +5701,8 @@ class QuantumsandLive
       "~mulling/zssh",
       "~kerrick/ratatui_ruby",
       "~zanneth/hirogen",
-      "~kennylevinsen/greetd"
+      "~kennylevinsen/greetd",
+      "~kennylevinsen/gtkgreet"
     ]
 
     @git_repos_review_haiku_os_org = [
