@@ -5074,7 +5074,8 @@ class QuantumsandLive
       "WayfireWM/wayfire",
       "varlink/rust",
       "varlink/python",
-      "varlink/libvarlink"
+      "varlink/libvarlink",
+      "varlink/go"
     ]
 
     @git_repos_chromium_googlesource = [
