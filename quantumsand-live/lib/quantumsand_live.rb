@@ -6209,7 +6209,8 @@ class QuantumsandLive
       "libspectre/libspectre",
       "drm/misc/kernel",
       "emersion/libdisplay-info",
-      "emersion/kanshi"
+      "emersion/kanshi",
+      "emersion/vali"
     ]
 
     @git_repos_xfce_gitlab = [
