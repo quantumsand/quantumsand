@@ -7193,7 +7193,8 @@ class QuantumsandLive
       "Calamares/calamares",
       "aryak/mozhi",
       "nipy-data/nitest-freesurfer",
-      "fabiscafe/game-devices-udev"
+      "fabiscafe/game-devices-udev",
+      "emersion/libscfg"
     ]
 
     @git_repos_kde_invent = [
