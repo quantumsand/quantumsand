@@ -5700,7 +5700,8 @@ class QuantumsandLive
       "~sircmpwn/scdoc",
       "~mulling/zssh",
       "~kerrick/ratatui_ruby",
-      "~zanneth/hirogen"
+      "~zanneth/hirogen",
+      "~kennylevinsen/greetd"
     ]
 
     @git_repos_review_haiku_os_org = [
