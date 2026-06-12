@@ -6090,7 +6090,8 @@ class QuantumsandLive
       "desktop-frameworks/wayqt",
       "desktop-frameworks/applications",
       "desktop-frameworks/ipc",
-      "desktop-frameworks/utils"
+      "desktop-frameworks/utils",
+      "desktop-frameworks/login1"
     ]
 
     @git_repos_freedesktop_gitlab = [
