@@ -5051,7 +5051,8 @@ class QuantumsandLive
       "pop-os/gnome-initial-setup",
       "pop-os/gnome-online-accounts",
       "pop-os/gnome-settings-daemon",
-      "pop-os/gnome-shell"
+      "pop-os/gnome-shell",
+      "pop-os/gnome-shell-extension-alt-tab-raise-first-window"
     ]
 
     @git_repos_chromium_googlesource = [
