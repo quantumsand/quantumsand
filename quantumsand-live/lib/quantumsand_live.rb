@@ -6207,7 +6207,8 @@ class QuantumsandLive
       "xorg/lib/libxcb",
       "xorg/proto/xorgproto",
       "libspectre/libspectre",
-      "drm/misc/kernel"
+      "drm/misc/kernel",
+      "emersion/libdisplay-info"
     ]
 
     @git_repos_xfce_gitlab = [
