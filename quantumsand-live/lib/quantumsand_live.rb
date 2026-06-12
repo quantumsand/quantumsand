@@ -7195,7 +7195,8 @@ class QuantumsandLive
       "nipy-data/nitest-freesurfer",
       "fabiscafe/game-devices-udev",
       "emersion/libscfg",
-      "emersion/scfg"
+      "emersion/scfg",
+      "emersion/go-scfg"
     ]
 
     @git_repos_kde_invent = [
