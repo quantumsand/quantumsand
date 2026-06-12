@@ -5064,7 +5064,8 @@ class QuantumsandLive
       "pop-os/gnome-shell-extension-popx11gestures",
       "pop-os/gnome-shell-extension-system76-power",
       "pop-os/gnome-shell-theme",
-      "pop-os/gnome-terminal"
+      "pop-os/gnome-terminal",
+      "pop-os/granite"
     ]
 
     @git_repos_chromium_googlesource = [
