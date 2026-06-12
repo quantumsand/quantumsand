@@ -5048,7 +5048,8 @@ class QuantumsandLive
       "pop-os/gnome-control-center",
       "nrflynn2/ml-drug-discovery",
       "pop-os/gnome-disk-utility",
-      "pop-os/gnome-initial-setup"
+      "pop-os/gnome-initial-setup",
+      "pop-os/gnome-online-accounts"
     ]
 
     @git_repos_chromium_googlesource = [
