@@ -5066,7 +5066,8 @@ class QuantumsandLive
       "pop-os/gnome-shell-theme",
       "pop-os/gnome-terminal",
       "pop-os/granite",
-      "elementary/granite"
+      "elementary/granite",
+      "samcday/phrog"
     ]
 
     @git_repos_chromium_googlesource = [
