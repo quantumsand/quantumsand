@@ -5049,7 +5049,8 @@ class QuantumsandLive
       "nrflynn2/ml-drug-discovery",
       "pop-os/gnome-disk-utility",
       "pop-os/gnome-initial-setup",
-      "pop-os/gnome-online-accounts"
+      "pop-os/gnome-online-accounts",
+      "pop-os/gnome-settings-daemon"
     ]
 
     @git_repos_chromium_googlesource = [
