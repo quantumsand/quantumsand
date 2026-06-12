@@ -6089,7 +6089,8 @@ class QuantumsandLive
       "marcusbritanicus/QtGreet",
       "desktop-frameworks/wayqt",
       "desktop-frameworks/applications",
-      "desktop-frameworks/ipc"
+      "desktop-frameworks/ipc",
+      "desktop-frameworks/utils"
     ]
 
     @git_repos_freedesktop_gitlab = [
