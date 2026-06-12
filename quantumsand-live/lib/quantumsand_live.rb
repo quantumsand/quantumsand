@@ -5067,7 +5067,8 @@ class QuantumsandLive
       "pop-os/gnome-terminal",
       "pop-os/granite",
       "elementary/granite",
-      "samcday/phrog"
+      "samcday/phrog",
+      "waycrate/greetd-waycratedm"
     ]
 
     @git_repos_chromium_googlesource = [
