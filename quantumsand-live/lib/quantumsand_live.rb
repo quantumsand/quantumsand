@@ -6088,7 +6088,8 @@ class QuantumsandLive
       "ohwr/project/wrtd-ref-designs",
       "marcusbritanicus/QtGreet",
       "desktop-frameworks/wayqt",
-      "desktop-frameworks/applications"
+      "desktop-frameworks/applications",
+      "desktop-frameworks/ipc"
     ]
 
     @git_repos_freedesktop_gitlab = [
