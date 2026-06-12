@@ -5716,7 +5716,8 @@ class QuantumsandLive
       "~zanneth/hirogen",
       "~kennylevinsen/greetd",
       "~kennylevinsen/gtkgreet",
-      "~kennylevinsen/seatd"
+      "~kennylevinsen/seatd",
+      "~cdv/scfg-rs"
     ]
 
     @git_repos_review_haiku_os_org = [
