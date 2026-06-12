@@ -5077,7 +5077,8 @@ class QuantumsandLive
       "varlink/libvarlink",
       "varlink/go",
       "varlink/go-varlink-cmd",
-      "varlink/syntax-highlight-varlink"
+      "varlink/syntax-highlight-varlink",
+      "varlink/linux-varlink"
     ]
 
     @git_repos_chromium_googlesource = [
