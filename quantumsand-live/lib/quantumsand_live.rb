@@ -5068,7 +5068,8 @@ class QuantumsandLive
       "pop-os/granite",
       "elementary/granite",
       "samcday/phrog",
-      "waycrate/greetd-waycratedm"
+      "waycrate/greetd-waycratedm",
+      "waycrate/qt-session-lock"
     ]
 
     @git_repos_chromium_googlesource = [
