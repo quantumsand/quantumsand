@@ -7194,7 +7194,8 @@ class QuantumsandLive
       "aryak/mozhi",
       "nipy-data/nitest-freesurfer",
       "fabiscafe/game-devices-udev",
-      "emersion/libscfg"
+      "emersion/libscfg",
+      "emersion/scfg"
     ]
 
     @git_repos_kde_invent = [
