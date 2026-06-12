@@ -5050,7 +5050,8 @@ class QuantumsandLive
       "pop-os/gnome-disk-utility",
       "pop-os/gnome-initial-setup",
       "pop-os/gnome-online-accounts",
-      "pop-os/gnome-settings-daemon"
+      "pop-os/gnome-settings-daemon",
+      "pop-os/gnome-shell"
     ]
 
     @git_repos_chromium_googlesource = [
