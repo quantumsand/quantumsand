@@ -5061,7 +5061,8 @@ class QuantumsandLive
       "pop-os/gnome-shell-extension-pop-shop-details",
       "pop-os/gnome-shell-extension-pop-snapshot",
       "pop-os/gnome-shell-extension-pop-suspend-button",
-      "pop-os/gnome-shell-extension-popx11gestures"
+      "pop-os/gnome-shell-extension-popx11gestures",
+      "pop-os/gnome-shell-extension-system76-power"
     ]
 
     @git_repos_chromium_googlesource = [
