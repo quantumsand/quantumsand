@@ -5053,7 +5053,8 @@ class QuantumsandLive
       "pop-os/gnome-settings-daemon",
       "pop-os/gnome-shell",
       "pop-os/gnome-shell-extension-alt-tab-raise-first-window",
-      "pop-os/gnome-shell-extension-always-show-workspaces"
+      "pop-os/gnome-shell-extension-always-show-workspaces",
+      "pop-os/gnome-shell-extension-do-not-disturb"
     ]
 
     @git_repos_chromium_googlesource = [
