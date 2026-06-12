@@ -6087,7 +6087,8 @@ class QuantumsandLive
       "ohwr/project/wrs-lj-hw",
       "ohwr/project/wrtd-ref-designs",
       "marcusbritanicus/QtGreet",
-      "desktop-frameworks/wayqt"
+      "desktop-frameworks/wayqt",
+      "desktop-frameworks/applications"
     ]
 
     @git_repos_freedesktop_gitlab = [
