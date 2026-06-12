@@ -5082,7 +5082,8 @@ class QuantumsandLive
       "emersion/slurp",
       "WayfireWM/wf-config",
       "WayfireWM/wf-utils",
-      "WayfireWM/wf-touch"
+      "WayfireWM/wf-touch",
+      "grahnen/libtouch"
     ]
 
     @git_repos_chromium_googlesource = [
