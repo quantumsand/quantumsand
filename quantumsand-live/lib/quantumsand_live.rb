@@ -5060,7 +5060,8 @@ class QuantumsandLive
       "pop-os/gnome-shell-extension-pop-battery-icon-fix",
       "pop-os/gnome-shell-extension-pop-shop-details",
       "pop-os/gnome-shell-extension-pop-snapshot",
-      "pop-os/gnome-shell-extension-pop-suspend-button"
+      "pop-os/gnome-shell-extension-pop-suspend-button",
+      "pop-os/gnome-shell-extension-popx11gestures"
     ]
 
     @git_repos_chromium_googlesource = [
