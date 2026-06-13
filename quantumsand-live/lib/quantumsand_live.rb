@@ -5086,7 +5086,8 @@ class QuantumsandLive
       "grahnen/libtouch",
       "WayfireWM/wf-json",
       "pop-os/greetd",
-      "pop-os/grub-theme"
+      "pop-os/grub-theme",
+      "wiseaidev/rust-lang-book"
     ]
 
     @git_repos_chromium_googlesource = [
