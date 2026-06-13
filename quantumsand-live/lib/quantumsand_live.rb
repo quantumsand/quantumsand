@@ -5087,7 +5087,8 @@ class QuantumsandLive
       "WayfireWM/wf-json",
       "pop-os/greetd",
       "pop-os/grub-theme",
-      "wiseaidev/rust-lang-book"
+      "wiseaidev/rust-lang-book",
+      "intel/thermal_daemon"
     ]
 
     @git_repos_chromium_googlesource = [
