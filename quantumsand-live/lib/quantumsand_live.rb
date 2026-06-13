@@ -5088,7 +5088,8 @@ class QuantumsandLive
       "pop-os/greetd",
       "pop-os/grub-theme",
       "wiseaidev/rust-lang-book",
-      "intel/thermal_daemon"
+      "intel/thermal_daemon",
+      "intel/BigDL"
     ]
 
     @git_repos_chromium_googlesource = [
