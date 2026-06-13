@@ -4,6 +4,8 @@ The Rust/bevy videogames need to share certain functionality.
 
 Instead of duplicating the same Rust code within each game, it is being coded once as reusable crates.
 
+These Rust crates are dual-licensed under the MIT License and Apache License 2.0
+
 This will include:
 
 * HTTP JSON API (Ruby-on-Rails PostGIS API); persistent game state stored in PostgreSQL.
