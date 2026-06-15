@@ -5092,7 +5092,8 @@ class QuantumsandLive
       "intel/BigDL",
       "airbnb/visx",
       "gre/bezier-easing-editor",
-      "gre/gl-react"
+      "gre/gl-react",
+      "stackgl/headless-gl"
     ]
 
     @git_repos_chromium_googlesource = [
