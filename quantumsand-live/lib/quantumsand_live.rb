@@ -5136,7 +5136,8 @@ class QuantumsandLive
       "projectfluent/cached-iterable",
       "babel/babel",
       "babel/babel-polyfills",
-      "babel/babel-loader"
+      "babel/babel-loader",
+      "projectfluent/fluent-langneg-rs"
     ]
 
     @git_repos_chromium_googlesource = [
