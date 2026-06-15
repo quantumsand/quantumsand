@@ -5099,7 +5099,8 @@ class QuantumsandLive
       "regl-project/regl",
       "gre/react-native-view-shot",
       "gre/gl-transition-libs",
-      "pop-os/gtk-extras"
+      "pop-os/gtk-extras",
+      "pop-os/gtk-rs"
     ]
 
     @git_repos_chromium_googlesource = [
