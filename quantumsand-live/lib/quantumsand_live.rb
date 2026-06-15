@@ -5141,8 +5141,7 @@ class QuantumsandLive
       "projectfluent/tree-sitter-fluent",
       "projectfluent/play",
       "pop-os/keyring",
-      "skorch-dev/skorch",
-      "fortran-lang/fftpack"
+      "skorch-dev/skorch"
     ]
 
     @git_repos_chromium_googlesource = [
