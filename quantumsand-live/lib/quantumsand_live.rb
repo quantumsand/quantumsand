@@ -5090,7 +5090,8 @@ class QuantumsandLive
       "wiseaidev/rust-lang-book",
       "intel/thermal_daemon",
       "intel/BigDL",
-      "airbnb/visx"
+      "airbnb/visx",
+      "gre/bezier-easing-editor"
     ]
 
     @git_repos_chromium_googlesource = [
