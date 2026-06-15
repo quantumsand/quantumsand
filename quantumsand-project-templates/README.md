@@ -19,7 +19,6 @@ This will include:
 * PyCUDA
 * [pandas](/quantumsand-project-templates/quantumsand-project-templates-pandas/)
 * [GeoPandas](/quantumsand-project-templates/quantumsand-project-templates-geopandas/)
-* OSMnx
 * SQLAlchemy
 * [NumPy](/quantumsand-project-templates/quantumsand-project-templates-numpy/)
 * bpy (Blender as a Python module)
@@ -32,7 +31,6 @@ This will include:
 * iroh-live (Real-time audio and video over iroh QUIC)
 * [RDKit](/quantumsand-project-templates/quantumsand-project-templates-rdkit/)
 * [scikit-learn](/quantumsand-project-templates/quantumsand-project-templates-scikit-learn/)
-* scikit-multilearn
 * SciPy
 * tqdm
 * Pillow
