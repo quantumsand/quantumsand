@@ -5093,7 +5093,8 @@ class QuantumsandLive
       "airbnb/visx",
       "gre/bezier-easing-editor",
       "gre/gl-react",
-      "stackgl/headless-gl"
+      "stackgl/headless-gl",
+      "mikeseven/node-webgl"
     ]
 
     @git_repos_chromium_googlesource = [
