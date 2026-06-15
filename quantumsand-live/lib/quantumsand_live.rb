@@ -5138,7 +5138,8 @@ class QuantumsandLive
       "babel/babel-polyfills",
       "babel/babel-loader",
       "projectfluent/fluent-langneg-rs",
-      "projectfluent/tree-sitter-fluent"
+      "projectfluent/tree-sitter-fluent",
+      "projectfluent/play"
     ]
 
     @git_repos_chromium_googlesource = [
