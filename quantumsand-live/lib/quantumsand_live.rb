@@ -5129,7 +5129,8 @@ class QuantumsandLive
       "pop-os/kbuild",
       "pop-os/kernelstub",
       "isantop/kernelstub",
-      "projectfluent/fluent.js"
+      "projectfluent/fluent.js",
+      "projectfluent/python-fluent"
     ]
 
     @git_repos_chromium_googlesource = [
