@@ -5140,7 +5140,8 @@ class QuantumsandLive
       "projectfluent/fluent-langneg-rs",
       "projectfluent/tree-sitter-fluent",
       "projectfluent/play",
-      "pop-os/keyring"
+      "pop-os/keyring",
+      "skorch-dev/skorch"
     ]
 
     @git_repos_chromium_googlesource = [
