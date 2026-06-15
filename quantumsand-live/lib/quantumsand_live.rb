@@ -5114,7 +5114,8 @@ class QuantumsandLive
       "pop-os/hidpi-daemon",
       "pop-os/hidpi-widget",
       "pop-os/hostname-validator",
-      "pop-os/hp-vendor"
+      "pop-os/hp-vendor",
+      "pop-os/hp-wallpapers"
     ]
 
     @git_repos_chromium_googlesource = [
