@@ -5102,7 +5102,8 @@ class QuantumsandLive
       "pop-os/gtk-extras",
       "pop-os/gtk-rs",
       "gtk-rs/gtk3-rs",
-      "pop-os/gtk4"
+      "pop-os/gtk4",
+      "pop-os/gvfs-zbus"
     ]
 
     @git_repos_chromium_googlesource = [
