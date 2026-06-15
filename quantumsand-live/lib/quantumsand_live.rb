@@ -270,7 +270,7 @@ class QuantumsandLive
       "microsoft/playwright",
       "open-cli-tools/concurrently",
       "prettier/prettier",
-      "facebook/react",
+      "react/react",
       "isaacs/rimraf",
       "rollup/rollup",
       "vercel/turborepo",
