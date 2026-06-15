@@ -5091,7 +5091,8 @@ class QuantumsandLive
       "intel/thermal_daemon",
       "intel/BigDL",
       "airbnb/visx",
-      "gre/bezier-easing-editor"
+      "gre/bezier-easing-editor",
+      "gre/gl-react"
     ]
 
     @git_repos_chromium_googlesource = [
