@@ -5095,7 +5095,8 @@ class QuantumsandLive
       "gre/gl-react",
       "stackgl/headless-gl",
       "mikeseven/node-webgl",
-      "mikeseven/node-native-graphics-deps"
+      "mikeseven/node-native-graphics-deps",
+      "regl-project/regl"
     ]
 
     @git_repos_chromium_googlesource = [
