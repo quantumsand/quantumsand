@@ -5125,7 +5125,8 @@ class QuantumsandLive
       "pop-os/installer",
       "pop-os/intel-pstate",
       "pop-os/iso",
-      "pop-os/just"
+      "pop-os/just",
+      "pop-os/kbuild"
     ]
 
     @git_repos_chromium_googlesource = [
