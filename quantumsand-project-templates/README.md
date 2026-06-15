@@ -31,7 +31,7 @@ This will include:
 * iroh-live (Real-time audio and video over iroh QUIC)
 * [RDKit](/quantumsand-project-templates/quantumsand-project-templates-rdkit/)
 * [scikit-learn](/quantumsand-project-templates/quantumsand-project-templates-scikit-learn/)
-* SciPy
+* [SciPy](/quantumsand-project-templates/quantumsand-project-templates-scipy/)
 * tqdm
 * Pillow
 * Requests (HTTP library)
@@ -116,6 +116,10 @@ uv add rdkit
 * scikit-learn;
 ```
 uv add scikit-learn
+```
+* SciPy;
+```
+uv add scipy
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
