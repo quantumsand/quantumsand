@@ -5133,7 +5133,8 @@ class QuantumsandLive
       "projectfluent/python-fluent",
       "projectfluent/fluent-rs",
       "projectfluent/fluent",
-      "projectfluent/cached-iterable"
+      "projectfluent/cached-iterable",
+      "babel/babel"
     ]
 
     @git_repos_chromium_googlesource = [
