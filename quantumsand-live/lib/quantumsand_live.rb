@@ -5108,7 +5108,8 @@ class QuantumsandLive
       "anholt/libepoxy",
       "ebassi/graphene",
       "ebassi/mutest",
-      "jasmine/jasmine"
+      "jasmine/jasmine",
+      "pop-os/gweather-rs"
     ]
 
     @git_repos_chromium_googlesource = [
