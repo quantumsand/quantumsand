@@ -5120,7 +5120,8 @@ class QuantumsandLive
       "pop-os/iced-sctk",
       "pop-os/iced-workspaces-applet",
       "pop-os/iced_aw",
-      "iced-rs/iced_aw"
+      "iced-rs/iced_aw",
+      "pop-os/initramfs-tools"
     ]
 
     @git_repos_chromium_googlesource = [
