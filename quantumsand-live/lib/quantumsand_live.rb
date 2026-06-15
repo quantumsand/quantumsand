@@ -5112,7 +5112,8 @@ class QuantumsandLive
       "pop-os/gweather-rs",
       "pop-os/happiness",
       "pop-os/hidpi-daemon",
-      "pop-os/hidpi-widget"
+      "pop-os/hidpi-widget",
+      "pop-os/hostname-validator"
     ]
 
     @git_repos_chromium_googlesource = [
