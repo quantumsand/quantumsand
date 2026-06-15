@@ -5116,7 +5116,8 @@ class QuantumsandLive
       "pop-os/hostname-validator",
       "pop-os/hp-vendor",
       "pop-os/hp-wallpapers",
-      "pop-os/iced-launcher"
+      "pop-os/iced-launcher",
+      "pop-os/iced-sctk"
     ]
 
     @git_repos_chromium_googlesource = [
