@@ -5118,7 +5118,8 @@ class QuantumsandLive
       "pop-os/hp-wallpapers",
       "pop-os/iced-launcher",
       "pop-os/iced-sctk",
-      "pop-os/iced-workspaces-applet"
+      "pop-os/iced-workspaces-applet",
+      "pop-os/iced_aw"
     ]
 
     @git_repos_chromium_googlesource = [
