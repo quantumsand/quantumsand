@@ -5109,7 +5109,8 @@ class QuantumsandLive
       "ebassi/graphene",
       "ebassi/mutest",
       "jasmine/jasmine",
-      "pop-os/gweather-rs"
+      "pop-os/gweather-rs",
+      "pop-os/happiness"
     ]
 
     @git_repos_chromium_googlesource = [
