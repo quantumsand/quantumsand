@@ -5104,7 +5104,8 @@ class QuantumsandLive
       "gtk-rs/gtk3-rs",
       "pop-os/gtk4",
       "pop-os/gvfs-zbus",
-      "jackpot51/zbus"
+      "jackpot51/zbus",
+      "anholt/libepoxy"
     ]
 
     @git_repos_chromium_googlesource = [
