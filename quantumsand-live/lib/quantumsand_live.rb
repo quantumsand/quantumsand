@@ -5106,7 +5106,8 @@ class QuantumsandLive
       "pop-os/gvfs-zbus",
       "jackpot51/zbus",
       "anholt/libepoxy",
-      "ebassi/graphene"
+      "ebassi/graphene",
+      "ebassi/mutest"
     ]
 
     @git_repos_chromium_googlesource = [
