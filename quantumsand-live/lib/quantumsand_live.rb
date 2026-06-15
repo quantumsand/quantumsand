@@ -5094,7 +5094,8 @@ class QuantumsandLive
       "gre/bezier-easing-editor",
       "gre/gl-react",
       "stackgl/headless-gl",
-      "mikeseven/node-webgl"
+      "mikeseven/node-webgl",
+      "mikeseven/node-native-graphics-deps"
     ]
 
     @git_repos_chromium_googlesource = [
