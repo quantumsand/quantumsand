@@ -5123,7 +5123,8 @@ class QuantumsandLive
       "iced-rs/iced_aw",
       "pop-os/initramfs-tools",
       "pop-os/installer",
-      "pop-os/intel-pstate"
+      "pop-os/intel-pstate",
+      "pop-os/iso"
     ]
 
     @git_repos_chromium_googlesource = [
