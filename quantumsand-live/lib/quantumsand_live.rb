@@ -5101,7 +5101,8 @@ class QuantumsandLive
       "gre/gl-transition-libs",
       "pop-os/gtk-extras",
       "pop-os/gtk-rs",
-      "gtk-rs/gtk3-rs"
+      "gtk-rs/gtk3-rs",
+      "pop-os/gtk4"
     ]
 
     @git_repos_chromium_googlesource = [
