@@ -5107,7 +5107,8 @@ class QuantumsandLive
       "jackpot51/zbus",
       "anholt/libepoxy",
       "ebassi/graphene",
-      "ebassi/mutest"
+      "ebassi/mutest",
+      "jasmine/jasmine"
     ]
 
     @git_repos_chromium_googlesource = [
