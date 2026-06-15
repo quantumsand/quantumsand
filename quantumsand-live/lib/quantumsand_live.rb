@@ -5131,7 +5131,8 @@ class QuantumsandLive
       "isantop/kernelstub",
       "projectfluent/fluent.js",
       "projectfluent/python-fluent",
-      "projectfluent/fluent-rs"
+      "projectfluent/fluent-rs",
+      "projectfluent/fluent"
     ]
 
     @git_repos_chromium_googlesource = [
