@@ -5098,7 +5098,8 @@ class QuantumsandLive
       "mikeseven/node-native-graphics-deps",
       "regl-project/regl",
       "gre/react-native-view-shot",
-      "gre/gl-transition-libs"
+      "gre/gl-transition-libs",
+      "pop-os/gtk-extras"
     ]
 
     @git_repos_chromium_googlesource = [
