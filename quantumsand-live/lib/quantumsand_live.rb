@@ -5142,7 +5142,8 @@ class QuantumsandLive
       "projectfluent/play",
       "pop-os/keyring",
       "skorch-dev/skorch",
-      "intel/intel-performance-skills"
+      "intel/intel-performance-skills",
+      "hackebrot/pytest-emoji"
     ]
 
     @git_repos_chromium_googlesource = [
