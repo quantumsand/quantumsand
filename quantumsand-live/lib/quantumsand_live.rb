@@ -5149,7 +5149,8 @@ class QuantumsandLive
       "naver/billboard.js",
       "LayoutitStudio/polycss",
       "LayoutitStudio/cssQuake",
-      "tabulator-tables/tabulator"
+      "tabulator-tables/tabulator",
+      "ngduc/react-tabulator"
     ]
 
     @git_repos_chromium_googlesource = [
