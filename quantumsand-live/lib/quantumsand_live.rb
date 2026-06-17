@@ -5144,7 +5144,8 @@ class QuantumsandLive
       "skorch-dev/skorch",
       "intel/intel-performance-skills",
       "hackebrot/pytest-emoji",
-      "facebook/flow"
+      "facebook/flow",
+      "sindresorhus/eslint-plugin-unicorn"
     ]
 
     @git_repos_chromium_googlesource = [
