@@ -5151,7 +5151,8 @@ class QuantumsandLive
       "LayoutitStudio/cssQuake",
       "tabulator-tables/tabulator",
       "ngduc/react-tabulator",
-      "axios/axios"
+      "axios/axios",
+      "biomejs/biome"
     ]
 
     @git_repos_chromium_googlesource = [
