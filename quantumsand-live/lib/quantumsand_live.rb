@@ -5172,7 +5172,8 @@ class QuantumsandLive
       "libbpf/libarena",
       "libbpf/usdt",
       "libbpf/bpfvv",
-      "libbpf/veristat"
+      "libbpf/veristat",
+      "pop-os/libcosmic-book"
     ]
 
     @git_repos_chromium_googlesource = [
