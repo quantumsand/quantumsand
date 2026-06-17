@@ -5159,7 +5159,8 @@ class QuantumsandLive
       "pop-os/kit",
       "pop-os/launch-pad",
       "pop-os/libabigail",
-      "pop-os/libasound2"
+      "pop-os/libasound2",
+      "pop-os/libbpf"
     ]
 
     @git_repos_chromium_googlesource = [
