@@ -5154,7 +5154,8 @@ class QuantumsandLive
       "axios/axios",
       "biomejs/biome",
       "github/relative-time-element",
-      "basecamp/local_time"
+      "basecamp/local_time",
+      "jonschlinkert/get-value"
     ]
 
     @git_repos_chromium_googlesource = [
