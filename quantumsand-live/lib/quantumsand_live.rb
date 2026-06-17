@@ -5158,7 +5158,8 @@ class QuantumsandLive
       "jonschlinkert/get-value",
       "pop-os/kit",
       "pop-os/launch-pad",
-      "pop-os/libabigail"
+      "pop-os/libabigail",
+      "pop-os/libasound2"
     ]
 
     @git_repos_chromium_googlesource = [
