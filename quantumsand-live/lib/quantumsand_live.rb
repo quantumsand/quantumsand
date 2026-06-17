@@ -5704,7 +5704,8 @@ class QuantumsandLive
       "libs/ell/ell",
       "linux/kernel/git/mszeredi/fuse",
       "linux/kernel/git/hid/hid",
-      "linux/kernel/git/torvalds/linux"
+      "linux/kernel/git/torvalds/linux",
+      "linux/kernel/git/bpf/bpf-next"
     ]
 
     @git_repos_isc_org_gitlab = [
