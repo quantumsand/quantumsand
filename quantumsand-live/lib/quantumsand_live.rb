@@ -5168,7 +5168,8 @@ class QuantumsandLive
       "libbpf/vmlinux.h",
       "libbpf/libbpf-rs",
       "libbpf/libbpf-sys",
-      "libbpf/libbpf-bootstrap"
+      "libbpf/libbpf-bootstrap",
+      "libbpf/libarena"
     ]
 
     @git_repos_chromium_googlesource = [
