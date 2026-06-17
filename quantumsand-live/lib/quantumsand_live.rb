@@ -5200,7 +5200,8 @@ class QuantumsandLive
       "pop-os/mutter",
       "spyder-ide/qtconsole",
       "jupyterlite/pyodide-kernel",
-      "pyodide/pyodide-build"
+      "pyodide/pyodide-build",
+      "pyodide/micropip"
     ]
 
     @git_repos_chromium_googlesource = [
