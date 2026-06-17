@@ -5177,7 +5177,8 @@ class QuantumsandLive
       "pop-os/libdrm",
       "pop-os/libhandy",
       "pop-os/libinput",
-      "pop-os/libnvidia-container"
+      "pop-os/libnvidia-container",
+      "NVIDIA/libnvidia-container"
     ]
 
     @git_repos_chromium_googlesource = [
