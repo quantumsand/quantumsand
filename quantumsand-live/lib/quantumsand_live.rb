@@ -5143,7 +5143,8 @@ class QuantumsandLive
       "pop-os/keyring",
       "skorch-dev/skorch",
       "intel/intel-performance-skills",
-      "hackebrot/pytest-emoji"
+      "hackebrot/pytest-emoji",
+      "facebook/flow"
     ]
 
     @git_repos_chromium_googlesource = [
