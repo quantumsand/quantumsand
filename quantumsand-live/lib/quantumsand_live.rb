@@ -5145,7 +5145,8 @@ class QuantumsandLive
       "intel/intel-performance-skills",
       "hackebrot/pytest-emoji",
       "facebook/flow",
-      "sindresorhus/eslint-plugin-unicorn"
+      "sindresorhus/eslint-plugin-unicorn",
+      "naver/billboard.js"
     ]
 
     @git_repos_chromium_googlesource = [
