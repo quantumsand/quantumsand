@@ -5179,7 +5179,8 @@ class QuantumsandLive
       "pop-os/libinput",
       "pop-os/libnvidia-container",
       "NVIDIA/libnvidia-container",
-      "NVIDIA/nvidia-container-toolkit"
+      "NVIDIA/nvidia-container-toolkit",
+      "pop-os/libparted"
     ]
 
     @git_repos_chromium_googlesource = [
