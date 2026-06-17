@@ -5155,7 +5155,8 @@ class QuantumsandLive
       "biomejs/biome",
       "github/relative-time-element",
       "basecamp/local_time",
-      "jonschlinkert/get-value"
+      "jonschlinkert/get-value",
+      "pop-os/kit"
     ]
 
     @git_repos_chromium_googlesource = [
