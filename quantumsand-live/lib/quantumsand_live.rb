@@ -5190,7 +5190,8 @@ class QuantumsandLive
       "pop-os/linux-firmware",
       "pop-os/logind-dbus",
       "pop-os/lutris",
-      "pop-os/mesa"
+      "pop-os/mesa",
+      "pop-os/meson-1.5"
     ]
 
     @git_repos_chromium_googlesource = [
