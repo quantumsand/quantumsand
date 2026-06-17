@@ -5195,7 +5195,8 @@ class QuantumsandLive
       "pop-os/meta-python",
       "pop-os/modit",
       "pop-os/mouse-configurator",
-      "pop-os/mpris2-zbus"
+      "pop-os/mpris2-zbus",
+      "pop-os/msttcorefonts"
     ]
 
     @git_repos_chromium_googlesource = [
