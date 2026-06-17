@@ -163,7 +163,7 @@ Support for all locales is planned eventually. This should help with interfaith 
 
 Once the initial Quantum Sand app is working correctly, the task of fixing security vulnerabilities throughout the entire dependency tree will begin.
 
-There are already known dependency vulnerabilities in the React and Ruby components.
+There are already known dependency vulnerabilities in the Python, React and Ruby components.
 
 ## Special thanks
 
