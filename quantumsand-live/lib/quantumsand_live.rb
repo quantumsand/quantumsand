@@ -5162,7 +5162,8 @@ class QuantumsandLive
       "pop-os/libasound2",
       "pop-os/libbpf",
       "libbpf/libbpf",
-      "libbpf/bpftool"
+      "libbpf/bpftool",
+      "libbpf/blazesym"
     ]
 
     @git_repos_chromium_googlesource = [
