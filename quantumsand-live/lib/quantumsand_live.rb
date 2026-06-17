@@ -5194,7 +5194,8 @@ class QuantumsandLive
       "pop-os/meson-1.5",
       "pop-os/meta-python",
       "pop-os/modit",
-      "pop-os/mouse-configurator"
+      "pop-os/mouse-configurator",
+      "pop-os/mpris2-zbus"
     ]
 
     @git_repos_chromium_googlesource = [
