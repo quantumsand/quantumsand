@@ -5147,7 +5147,8 @@ class QuantumsandLive
       "facebook/flow",
       "sindresorhus/eslint-plugin-unicorn",
       "naver/billboard.js",
-      "LayoutitStudio/polycss"
+      "LayoutitStudio/polycss",
+      "LayoutitStudio/cssQuake"
     ]
 
     @git_repos_chromium_googlesource = [
