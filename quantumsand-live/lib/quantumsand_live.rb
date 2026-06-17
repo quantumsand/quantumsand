@@ -5146,7 +5146,8 @@ class QuantumsandLive
       "hackebrot/pytest-emoji",
       "facebook/flow",
       "sindresorhus/eslint-plugin-unicorn",
-      "naver/billboard.js"
+      "naver/billboard.js",
+      "LayoutitStudio/polycss"
     ]
 
     @git_repos_chromium_googlesource = [
