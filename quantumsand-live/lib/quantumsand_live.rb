@@ -5203,7 +5203,8 @@ class QuantumsandLive
       "pyodide/pyodide-build",
       "pyodide/micropip",
       "pyodide/pyodide-recipes",
-      "pyodide/pytest-pyodide"
+      "pyodide/pytest-pyodide",
+      "jupyterlite/xeus"
     ]
 
     @git_repos_chromium_googlesource = [
