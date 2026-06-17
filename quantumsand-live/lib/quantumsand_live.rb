@@ -5169,7 +5169,8 @@ class QuantumsandLive
       "libbpf/libbpf-rs",
       "libbpf/libbpf-sys",
       "libbpf/libbpf-bootstrap",
-      "libbpf/libarena"
+      "libbpf/libarena",
+      "libbpf/usdt"
     ]
 
     @git_repos_chromium_googlesource = [
