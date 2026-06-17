@@ -5184,7 +5184,8 @@ class QuantumsandLive
       "pop-os/libtraceevent",
       "pop-os/libtracefs",
       "pop-os/libvdpau",
-      "pop-os/libwnck3"
+      "pop-os/libwnck3",
+      "pop-os/libxmlb"
     ]
 
     @git_repos_chromium_googlesource = [
