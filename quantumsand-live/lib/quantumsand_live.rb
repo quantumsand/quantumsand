@@ -5181,7 +5181,8 @@ class QuantumsandLive
       "NVIDIA/libnvidia-container",
       "NVIDIA/nvidia-container-toolkit",
       "pop-os/libparted",
-      "pop-os/libtraceevent"
+      "pop-os/libtraceevent",
+      "pop-os/libtracefs"
     ]
 
     @git_repos_chromium_googlesource = [
