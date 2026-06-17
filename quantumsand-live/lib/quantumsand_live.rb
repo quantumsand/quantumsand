@@ -5197,7 +5197,8 @@ class QuantumsandLive
       "pop-os/mouse-configurator",
       "pop-os/mpris2-zbus",
       "pop-os/msttcorefonts",
-      "pop-os/mutter"
+      "pop-os/mutter",
+      "spyder-ide/qtconsole"
     ]
 
     @git_repos_chromium_googlesource = [
