@@ -5186,7 +5186,8 @@ class QuantumsandLive
       "pop-os/libvdpau",
       "pop-os/libwnck3",
       "pop-os/libxmlb",
-      "pop-os/linux"
+      "pop-os/linux",
+      "pop-os/linux-firmware"
     ]
 
     @git_repos_chromium_googlesource = [
