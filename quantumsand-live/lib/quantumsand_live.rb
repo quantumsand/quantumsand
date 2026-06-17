@@ -5192,7 +5192,8 @@ class QuantumsandLive
       "pop-os/lutris",
       "pop-os/mesa",
       "pop-os/meson-1.5",
-      "pop-os/meta-python"
+      "pop-os/meta-python",
+      "pop-os/modit"
     ]
 
     @git_repos_chromium_googlesource = [
