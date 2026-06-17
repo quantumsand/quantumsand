@@ -5167,7 +5167,8 @@ class QuantumsandLive
       "iovisor/bcc",
       "libbpf/vmlinux.h",
       "libbpf/libbpf-rs",
-      "libbpf/libbpf-sys"
+      "libbpf/libbpf-sys",
+      "libbpf/libbpf-bootstrap"
     ]
 
     @git_repos_chromium_googlesource = [
