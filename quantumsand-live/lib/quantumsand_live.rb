@@ -5156,7 +5156,8 @@ class QuantumsandLive
       "github/relative-time-element",
       "basecamp/local_time",
       "jonschlinkert/get-value",
-      "pop-os/kit"
+      "pop-os/kit",
+      "pop-os/launch-pad"
     ]
 
     @git_repos_chromium_googlesource = [
