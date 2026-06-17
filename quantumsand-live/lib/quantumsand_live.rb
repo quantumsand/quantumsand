@@ -5148,7 +5148,8 @@ class QuantumsandLive
       "sindresorhus/eslint-plugin-unicorn",
       "naver/billboard.js",
       "LayoutitStudio/polycss",
-      "LayoutitStudio/cssQuake"
+      "LayoutitStudio/cssQuake",
+      "tabulator-tables/tabulator"
     ]
 
     @git_repos_chromium_googlesource = [
