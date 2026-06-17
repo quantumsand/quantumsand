@@ -8423,7 +8423,8 @@ class QuantumsandLive
       "sys-block/nbd",
       "dev-libs/weston",
       "dev-lang/gnucobol",
-      "dev-lang/tcl"
+      "dev-lang/tcl",
+      "dev-libs/libbpf"
     ]
 
     gentoo_eselect_repository_add = {
