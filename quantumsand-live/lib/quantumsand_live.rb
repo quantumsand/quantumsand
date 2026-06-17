@@ -5198,7 +5198,8 @@ class QuantumsandLive
       "pop-os/mpris2-zbus",
       "pop-os/msttcorefonts",
       "pop-os/mutter",
-      "spyder-ide/qtconsole"
+      "spyder-ide/qtconsole",
+      "jupyterlite/pyodide-kernel"
     ]
 
     @git_repos_chromium_googlesource = [
