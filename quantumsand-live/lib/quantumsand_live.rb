@@ -5152,7 +5152,8 @@ class QuantumsandLive
       "tabulator-tables/tabulator",
       "ngduc/react-tabulator",
       "axios/axios",
-      "biomejs/biome"
+      "biomejs/biome",
+      "github/relative-time-element"
     ]
 
     @git_repos_chromium_googlesource = [
