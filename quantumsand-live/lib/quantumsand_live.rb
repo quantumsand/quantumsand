@@ -5188,7 +5188,8 @@ class QuantumsandLive
       "pop-os/libxmlb",
       "pop-os/linux",
       "pop-os/linux-firmware",
-      "pop-os/logind-dbus"
+      "pop-os/logind-dbus",
+      "pop-os/lutris"
     ]
 
     @git_repos_chromium_googlesource = [
