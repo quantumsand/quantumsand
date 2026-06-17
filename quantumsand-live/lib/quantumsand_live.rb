@@ -5201,7 +5201,8 @@ class QuantumsandLive
       "spyder-ide/qtconsole",
       "jupyterlite/pyodide-kernel",
       "pyodide/pyodide-build",
-      "pyodide/micropip"
+      "pyodide/micropip",
+      "pyodide/pyodide-recipes"
     ]
 
     @git_repos_chromium_googlesource = [
