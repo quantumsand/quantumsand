@@ -8461,7 +8461,8 @@ class QuantumsandLive
       "dev-libs/weston",
       "dev-lang/gnucobol",
       "dev-lang/tcl",
-      "dev-libs/libbpf"
+      "dev-libs/libbpf",
+      "media-fonts/corefonts"
     ]
 
     gentoo_eselect_repository_add = {
