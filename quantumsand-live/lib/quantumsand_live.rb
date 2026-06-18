@@ -5227,7 +5227,8 @@ class QuantumsandLive
       "bleachbit/bleachbit",
       "explosion/spaCy",
       "explosion/spacy-llm",
-      "explosion/curated-transformers"
+      "explosion/curated-transformers",
+      "explosion/spacy-models"
     ]
 
     @git_repos_chromium_googlesource = [
