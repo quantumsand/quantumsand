@@ -5231,7 +5231,8 @@ class QuantumsandLive
       "explosion/spacy-models",
       "explosion/weasel",
       "dialect-app/dialect",
-      "dialect-app/po"
+      "dialect-app/po",
+      "maoschanz/drawing"
     ]
 
     @git_repos_chromium_googlesource = [
