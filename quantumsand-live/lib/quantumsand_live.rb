@@ -7325,7 +7325,8 @@ class QuantumsandLive
       "World/Wildcard",
       "jpu/cambalache",
       "jpu/cambalache-test-images",
-      "jpu/casilda"
+      "jpu/casilda",
+      "tijder/girens"
     ]
 
     @git_repos_postgresql_org = [
