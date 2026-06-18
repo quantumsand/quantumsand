@@ -5222,7 +5222,8 @@ class QuantumsandLive
       "pop-os/os-autoinst-distri-pop",
       "pop-os/os-release",
       "dasbus-project/dasbus",
-      "rafaelmardojai/blanket"
+      "rafaelmardojai/blanket",
+      "jsvine/markovify"
     ]
 
     @git_repos_chromium_googlesource = [
