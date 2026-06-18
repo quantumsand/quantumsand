@@ -5233,7 +5233,8 @@ class QuantumsandLive
       "dialect-app/dialect",
       "dialect-app/po",
       "maoschanz/drawing",
-      "geigi/cozy"
+      "geigi/cozy",
+      "tchx84/gameeky"
     ]
 
     @git_repos_chromium_googlesource = [
