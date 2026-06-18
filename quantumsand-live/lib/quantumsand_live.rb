@@ -5244,7 +5244,8 @@ class QuantumsandLive
       "exiftool/exiftool",
       "mypaint/mypaint",
       "mypaint/libmypaint",
-      "mypaint/mypaint-brushes"
+      "mypaint/mypaint-brushes",
+      "alexhuntley/Plots"
     ]
 
     @git_repos_chromium_googlesource = [
