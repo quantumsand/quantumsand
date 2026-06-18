@@ -7317,7 +7317,8 @@ class QuantumsandLive
       "World/warp",
       "World/weeport",
       "World/Wildcard",
-      "jpu/cambalache"
+      "jpu/cambalache",
+      "jpu/cambalache-test-images"
     ]
 
     @git_repos_postgresql_org = [
