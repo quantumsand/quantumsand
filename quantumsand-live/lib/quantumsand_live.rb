@@ -5241,7 +5241,8 @@ class QuantumsandLive
       "nzjrs/osm-gps-map",
       "pycountry/pycountry",
       "LeoHsiao1/pyexiv2",
-      "exiftool/exiftool"
+      "exiftool/exiftool",
+      "mypaint/mypaint"
     ]
 
     @git_repos_chromium_googlesource = [
