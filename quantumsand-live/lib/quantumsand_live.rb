@@ -5238,7 +5238,8 @@ class QuantumsandLive
       "gaphor/gaphor",
       "gramps-project/gramps",
       "ijl/orjson",
-      "nzjrs/osm-gps-map"
+      "nzjrs/osm-gps-map",
+      "pycountry/pycountry"
     ]
 
     @git_repos_chromium_googlesource = [
