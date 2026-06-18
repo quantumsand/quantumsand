@@ -8481,7 +8481,8 @@ class QuantumsandLive
       "dev-lang/gnucobol",
       "dev-lang/tcl",
       "dev-libs/libbpf",
-      "media-fonts/corefonts"
+      "media-fonts/corefonts",
+      "media-libs/nvidia-vaapi-driver"
     ]
 
     gentoo_eselect_repository_add = {
