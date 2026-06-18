@@ -5236,7 +5236,8 @@ class QuantumsandLive
       "geigi/cozy",
       "tchx84/gameeky",
       "gaphor/gaphor",
-      "gramps-project/gramps"
+      "gramps-project/gramps",
+      "ijl/orjson"
     ]
 
     @git_repos_chromium_googlesource = [
