@@ -5220,7 +5220,8 @@ class QuantumsandLive
       "pop-os/opt",
       "pop-os/orca",
       "pop-os/os-autoinst-distri-pop",
-      "pop-os/os-release"
+      "pop-os/os-release",
+      "dasbus-project/dasbus"
     ]
 
     @git_repos_chromium_googlesource = [
