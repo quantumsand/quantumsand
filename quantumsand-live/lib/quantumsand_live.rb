@@ -7337,7 +7337,8 @@ class QuantumsandLive
       "jpu/cambalache",
       "jpu/cambalache-test-images",
       "jpu/casilda",
-      "tijder/girens"
+      "tijder/girens",
+      "cheywood/Pulp"
     ]
 
     @git_repos_postgresql_org = [
