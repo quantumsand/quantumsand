@@ -5215,7 +5215,8 @@ class QuantumsandLive
       "pop-os/nvidia-graphics-drivers",
       "pop-os/nvidia-graphics-drivers-470",
       "pop-os/nvidia-graphics-drivers-595",
-      "elFarto/nvidia-vaapi-driver"
+      "elFarto/nvidia-vaapi-driver",
+      "pop-os/nvidia-vaapi-driver"
     ]
 
     @git_repos_chromium_googlesource = [
