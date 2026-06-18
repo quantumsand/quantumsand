@@ -5213,7 +5213,8 @@ class QuantumsandLive
       "pop-os/nvidia-container-toolkit",
       "pop-os/nvidia-docker",
       "pop-os/nvidia-graphics-drivers",
-      "pop-os/nvidia-graphics-drivers-470"
+      "pop-os/nvidia-graphics-drivers-470",
+      "pop-os/nvidia-graphics-drivers-595"
     ]
 
     @git_repos_chromium_googlesource = [
