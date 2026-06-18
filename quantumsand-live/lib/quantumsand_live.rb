@@ -5219,7 +5219,8 @@ class QuantumsandLive
       "pop-os/nvidia-vaapi-driver",
       "pop-os/opt",
       "pop-os/orca",
-      "pop-os/os-autoinst-distri-pop"
+      "pop-os/os-autoinst-distri-pop",
+      "pop-os/os-release"
     ]
 
     @git_repos_chromium_googlesource = [
