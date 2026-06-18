@@ -5218,7 +5218,8 @@ class QuantumsandLive
       "elFarto/nvidia-vaapi-driver",
       "pop-os/nvidia-vaapi-driver",
       "pop-os/opt",
-      "pop-os/orca"
+      "pop-os/orca",
+      "pop-os/os-autoinst-distri-pop"
     ]
 
     @git_repos_chromium_googlesource = [
