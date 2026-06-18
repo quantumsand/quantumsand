@@ -71,3 +71,17 @@ License: CC BY-SA 4.0
 ```
 License: CC BY-SA 4.0
 ```
+
+* Nunito-Regular.ttf
+```
+License: SIL Open Font License, Version 1.1.
+
+Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+```
+
+* pillow_watermark.jpg
+```
+License: CC BY-SA 4.0
+```
