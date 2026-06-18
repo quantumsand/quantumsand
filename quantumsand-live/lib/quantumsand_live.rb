@@ -8511,7 +8511,8 @@ class QuantumsandLive
       "dev-lang/tcl",
       "dev-libs/libbpf",
       "media-fonts/corefonts",
-      "media-libs/nvidia-vaapi-driver"
+      "media-libs/nvidia-vaapi-driver",
+      "net-p2p/bitcoin-core"
     ]
 
     gentoo_eselect_repository_add = {
