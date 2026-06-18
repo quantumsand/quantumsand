@@ -5232,7 +5232,8 @@ class QuantumsandLive
       "explosion/weasel",
       "dialect-app/dialect",
       "dialect-app/po",
-      "maoschanz/drawing"
+      "maoschanz/drawing",
+      "geigi/cozy"
     ]
 
     @git_repos_chromium_googlesource = [
