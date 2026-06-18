@@ -7343,7 +7343,8 @@ class QuantumsandLive
       "fabiscafe/game-devices-udev",
       "emersion/libscfg",
       "emersion/scfg",
-      "emersion/go-scfg"
+      "emersion/go-scfg",
+      "terenc3/blanket-web"
     ]
 
     @git_repos_kde_invent = [
