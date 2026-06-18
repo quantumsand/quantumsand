@@ -5228,7 +5228,8 @@ class QuantumsandLive
       "explosion/spaCy",
       "explosion/spacy-llm",
       "explosion/curated-transformers",
-      "explosion/spacy-models"
+      "explosion/spacy-models",
+      "explosion/weasel"
     ]
 
     @git_repos_chromium_googlesource = [
