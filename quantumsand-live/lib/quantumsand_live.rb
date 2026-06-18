@@ -5221,7 +5221,8 @@ class QuantumsandLive
       "pop-os/orca",
       "pop-os/os-autoinst-distri-pop",
       "pop-os/os-release",
-      "dasbus-project/dasbus"
+      "dasbus-project/dasbus",
+      "rafaelmardojai/blanket"
     ]
 
     @git_repos_chromium_googlesource = [
