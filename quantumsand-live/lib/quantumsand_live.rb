@@ -5225,7 +5225,8 @@ class QuantumsandLive
       "rafaelmardojai/blanket",
       "jsvine/markovify",
       "bleachbit/bleachbit",
-      "explosion/spaCy"
+      "explosion/spaCy",
+      "explosion/spacy-llm"
     ]
 
     @git_repos_chromium_googlesource = [
