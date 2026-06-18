@@ -5206,7 +5206,8 @@ class QuantumsandLive
       "pyodide/pytest-pyodide",
       "jupyterlite/xeus",
       "pop-os/mutter-rs",
-      "pop-os/network-manager-applet"
+      "pop-os/network-manager-applet",
+      "pop-os/ninja-build"
     ]
 
     @git_repos_chromium_googlesource = [
