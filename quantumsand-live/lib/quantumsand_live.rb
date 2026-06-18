@@ -5212,7 +5212,8 @@ class QuantumsandLive
       "cyphar/libpathrs",
       "pop-os/nvidia-container-toolkit",
       "pop-os/nvidia-docker",
-      "pop-os/nvidia-graphics-drivers"
+      "pop-os/nvidia-graphics-drivers",
+      "pop-os/nvidia-graphics-drivers-470"
     ]
 
     @git_repos_chromium_googlesource = [
