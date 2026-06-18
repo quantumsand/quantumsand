@@ -5243,7 +5243,8 @@ class QuantumsandLive
       "LeoHsiao1/pyexiv2",
       "exiftool/exiftool",
       "mypaint/mypaint",
-      "mypaint/libmypaint"
+      "mypaint/libmypaint",
+      "mypaint/mypaint-brushes"
     ]
 
     @git_repos_chromium_googlesource = [
