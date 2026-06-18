@@ -5207,7 +5207,8 @@ class QuantumsandLive
       "jupyterlite/xeus",
       "pop-os/mutter-rs",
       "pop-os/network-manager-applet",
-      "pop-os/ninja-build"
+      "pop-os/ninja-build",
+      "pop-os/nvidia-container-runtime"
     ]
 
     @git_repos_chromium_googlesource = [
