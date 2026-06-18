@@ -5237,7 +5237,8 @@ class QuantumsandLive
       "tchx84/gameeky",
       "gaphor/gaphor",
       "gramps-project/gramps",
-      "ijl/orjson"
+      "ijl/orjson",
+      "nzjrs/osm-gps-map"
     ]
 
     @git_repos_chromium_googlesource = [
