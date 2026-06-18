@@ -5242,7 +5242,8 @@ class QuantumsandLive
       "pycountry/pycountry",
       "LeoHsiao1/pyexiv2",
       "exiftool/exiftool",
-      "mypaint/mypaint"
+      "mypaint/mypaint",
+      "mypaint/libmypaint"
     ]
 
     @git_repos_chromium_googlesource = [
