@@ -5229,7 +5229,8 @@ class QuantumsandLive
       "explosion/spacy-llm",
       "explosion/curated-transformers",
       "explosion/spacy-models",
-      "explosion/weasel"
+      "explosion/weasel",
+      "dialect-app/dialect"
     ]
 
     @git_repos_chromium_googlesource = [
