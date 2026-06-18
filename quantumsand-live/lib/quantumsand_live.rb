@@ -5240,7 +5240,8 @@ class QuantumsandLive
       "ijl/orjson",
       "nzjrs/osm-gps-map",
       "pycountry/pycountry",
-      "LeoHsiao1/pyexiv2"
+      "LeoHsiao1/pyexiv2",
+      "exiftool/exiftool"
     ]
 
     @git_repos_chromium_googlesource = [
