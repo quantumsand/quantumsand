@@ -6272,7 +6272,8 @@ class QuantumsandLive
       "desktop-frameworks/ipc",
       "desktop-frameworks/utils",
       "desktop-frameworks/login1",
-      "mobian1/phog"
+      "mobian1/phog",
+      "mufeedali/Komikku"
     ]
 
     @git_repos_freedesktop_gitlab = [
