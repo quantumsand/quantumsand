@@ -5224,7 +5224,8 @@ class QuantumsandLive
       "dasbus-project/dasbus",
       "rafaelmardojai/blanket",
       "jsvine/markovify",
-      "bleachbit/bleachbit"
+      "bleachbit/bleachbit",
+      "explosion/spaCy"
     ]
 
     @git_repos_chromium_googlesource = [
