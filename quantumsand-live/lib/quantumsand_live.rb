@@ -5223,7 +5223,8 @@ class QuantumsandLive
       "pop-os/os-release",
       "dasbus-project/dasbus",
       "rafaelmardojai/blanket",
-      "jsvine/markovify"
+      "jsvine/markovify",
+      "bleachbit/bleachbit"
     ]
 
     @git_repos_chromium_googlesource = [
