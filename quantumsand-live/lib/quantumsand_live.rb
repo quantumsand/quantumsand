@@ -5209,7 +5209,8 @@ class QuantumsandLive
       "pop-os/network-manager-applet",
       "pop-os/ninja-build",
       "pop-os/nvidia-container-runtime",
-      "cyphar/libpathrs"
+      "cyphar/libpathrs",
+      "pop-os/nvidia-container-toolkit"
     ]
 
     @git_repos_chromium_googlesource = [
