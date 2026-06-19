@@ -8545,7 +8545,8 @@ class QuantumsandLive
       "dev-libs/libbpf",
       "media-fonts/corefonts",
       "media-libs/nvidia-vaapi-driver",
-      "net-p2p/bitcoin-core"
+      "net-p2p/bitcoin-core",
+      "mail-client/thunderbird"
     ]
 
     gentoo_eselect_repository_add = {
