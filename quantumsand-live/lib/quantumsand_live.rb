@@ -5256,7 +5256,8 @@ class QuantumsandLive
       "beetbox/beets",
       "brltty/brltty",
       "dvarrazzo/py-setproctitle",
-      "pop-os/packagekit-zbus"
+      "pop-os/packagekit-zbus",
+      "pop-os/packaging-ci"
     ]
 
     @git_repos_chromium_googlesource = [
