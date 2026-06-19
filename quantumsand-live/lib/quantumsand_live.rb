@@ -14,6 +14,7 @@ class QuantumsandLive
     @git_repos_skia_googlesource_url = ENV.fetch("GIT_REPOS_SKIA_GOOGLESOURCE_URL")
     @git_repos_android_googlesource_url = ENV.fetch("GIT_REPOS_ANDROID_GOOGLESOURCE_URL")
     @git_repos_huggingface_co_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_URL")
+    @git_repos_huggingface_co_dataset_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_DATASET_URL")
     @git_repos_libreoffice_org_url = ENV.fetch("GIT_REPOS_LIBREOFFICE_ORG_URL")
     @git_repos_dev_lovelyhq_com_url = ENV.fetch("GIT_REPOS_DEV_LOVELYHQ_COM_URL")
     @git_repos_osmocom_org_url = ENV.fetch("GIT_REPOS_OSMOCOM_ORG_URL")
@@ -5324,6 +5325,10 @@ class QuantumsandLive
       "google/gemma-4-12B-it",
       "google/gemma-4-12B-it-assistant",
       "Ultralytics/YOLO26"
+    ]
+
+    @git_xet_hf_download_huggingface_co_dataset = [
+      "ibm-research/AssetOpsBench"
     ]
 
     @git_repos_libreoffice_org = [
