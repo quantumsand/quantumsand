@@ -5272,7 +5272,8 @@ class QuantumsandLive
       "pop-os/partition-identity",
       "pop-os/pidfd",
       "pop-os/pipewire",
-      "pop-os/pipewire-rs"
+      "pop-os/pipewire-rs",
+      "pop-os/plymouth"
     ]
 
     @git_repos_chromium_googlesource = [
