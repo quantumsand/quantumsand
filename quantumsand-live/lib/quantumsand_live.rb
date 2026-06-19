@@ -5261,7 +5261,8 @@ class QuantumsandLive
       "pop-os/packaging-cog",
       "replicate/cog",
       "pop-os/packaging-firefox",
-      "pop-os/packaging-julia"
+      "pop-os/packaging-julia",
+      "pop-os/packaging-kinect"
     ]
 
     @git_repos_chromium_googlesource = [
