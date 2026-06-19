@@ -5257,7 +5257,8 @@ class QuantumsandLive
       "brltty/brltty",
       "dvarrazzo/py-setproctitle",
       "pop-os/packagekit-zbus",
-      "pop-os/packaging-ci"
+      "pop-os/packaging-ci",
+      "pop-os/packaging-cog"
     ]
 
     @git_repos_chromium_googlesource = [
