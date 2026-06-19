@@ -5270,7 +5270,8 @@ class QuantumsandLive
       "jupyterlab/jupyterlab",
       "pop-os/packaging-vrui",
       "pop-os/partition-identity",
-      "pop-os/pidfd"
+      "pop-os/pidfd",
+      "pop-os/pipewire"
     ]
 
     @git_repos_chromium_googlesource = [
