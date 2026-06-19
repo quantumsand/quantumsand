@@ -5281,7 +5281,8 @@ class QuantumsandLive
       "pop-os/popsec",
       "pop-os/proc-modules",
       "pop-os/proc-mounts",
-      "pop-os/progress-streams"
+      "pop-os/progress-streams",
+      "pop-os/protonvpn-nm-lib"
     ]
 
     @git_repos_chromium_googlesource = [
