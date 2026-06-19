@@ -5283,7 +5283,8 @@ class QuantumsandLive
       "pop-os/proc-mounts",
       "pop-os/progress-streams",
       "pop-os/protonvpn-nm-lib",
-      "pop-os/pyflatpak"
+      "pop-os/pyflatpak",
+      "pop-os/python-apt"
     ]
 
     @git_repos_chromium_googlesource = [
