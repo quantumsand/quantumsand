@@ -5271,7 +5271,8 @@ class QuantumsandLive
       "pop-os/packaging-vrui",
       "pop-os/partition-identity",
       "pop-os/pidfd",
-      "pop-os/pipewire"
+      "pop-os/pipewire",
+      "pop-os/pipewire-rs"
     ]
 
     @git_repos_chromium_googlesource = [
