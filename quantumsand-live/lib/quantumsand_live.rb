@@ -5251,7 +5251,8 @@ class QuantumsandLive
       "IBM/AssetOpsBench",
       "cvfosammmm/Setzer",
       "gnome-terminator/terminator",
-      "gnome-terminator/docs"
+      "gnome-terminator/docs",
+      "hugolabe/Wike"
     ]
 
     @git_repos_chromium_googlesource = [
