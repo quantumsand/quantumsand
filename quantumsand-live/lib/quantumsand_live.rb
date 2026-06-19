@@ -5254,7 +5254,8 @@ class QuantumsandLive
       "gnome-terminator/docs",
       "hugolabe/Wike",
       "beetbox/beets",
-      "brltty/brltty"
+      "brltty/brltty",
+      "dvarrazzo/py-setproctitle"
     ]
 
     @git_repos_chromium_googlesource = [
