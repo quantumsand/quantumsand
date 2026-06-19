@@ -34,7 +34,7 @@ This will include:
 * [SciPy](/quantumsand-project-templates/quantumsand-project-templates-scipy/)
 * [tqdm](/quantumsand-project-templates/quantumsand-project-templates-tqdm/)
 * [Pillow](/quantumsand-project-templates/quantumsand-project-templates-pillow/)
-* Requests (HTTP library)
+* [Requests](/quantumsand-project-templates/quantumsand-project-templates-requests/) (HTTP library)
 * Keras 3 (Deep Learning for humans)
 * JAX
 * SymPy
@@ -128,6 +128,10 @@ uv add tqdm
 * Pillow;
 ```
 uv add pillow
+```
+* Requests;
+```
+uv add requests
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash

@@ -12,6 +12,7 @@ dependencies = [
     "pandas>=3.0.3",
     "pydicom>=3.0.2",
     "rdkit>=2026.3.3",
+    "requests>=2.34.2",
     "scikit-learn>=1.9.0",
     "scipy>=1.17.1",
     "simpleitk>=2.5.5",
