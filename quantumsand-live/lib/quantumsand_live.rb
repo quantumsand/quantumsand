@@ -5273,7 +5273,8 @@ class QuantumsandLive
       "pop-os/pidfd",
       "pop-os/pipewire",
       "pop-os/pipewire-rs",
-      "pop-os/plymouth"
+      "pop-os/plymouth",
+      "pop-os/plymouth-theme"
     ]
 
     @git_repos_chromium_googlesource = [
