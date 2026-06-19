@@ -5268,7 +5268,8 @@ class QuantumsandLive
       "pop-os/packaging-thunderbird",
       "thunderbird/thunderbird-desktop",
       "jupyterlab/jupyterlab",
-      "pop-os/packaging-vrui"
+      "pop-os/packaging-vrui",
+      "pop-os/partition-identity"
     ]
 
     @git_repos_chromium_googlesource = [
