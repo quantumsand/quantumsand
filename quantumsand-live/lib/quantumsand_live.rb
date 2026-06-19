@@ -5246,7 +5246,8 @@ class QuantumsandLive
       "mypaint/libmypaint",
       "mypaint/mypaint-brushes",
       "alexhuntley/Plots",
-      "quodlibet/quodlibet"
+      "quodlibet/quodlibet",
+      "IBM/AssetOpsBench"
     ]
 
     @git_repos_chromium_googlesource = [
