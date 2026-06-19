@@ -5259,7 +5259,8 @@ class QuantumsandLive
       "pop-os/packagekit-zbus",
       "pop-os/packaging-ci",
       "pop-os/packaging-cog",
-      "replicate/cog"
+      "replicate/cog",
+      "pop-os/packaging-firefox"
     ]
 
     @git_repos_chromium_googlesource = [
