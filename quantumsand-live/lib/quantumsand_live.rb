@@ -5290,7 +5290,8 @@ class QuantumsandLive
       "pop-os/repo-release",
       "pop-os/repo-ubuntu-mirror",
       "pop-os/repolib",
-      "pop-os/repoman"
+      "pop-os/repoman",
+      "pop-os/rtl8821ce-dkms"
     ]
 
     @git_repos_chromium_googlesource = [
