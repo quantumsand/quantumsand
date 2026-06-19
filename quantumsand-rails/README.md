@@ -62,6 +62,69 @@ end
 rails db:migrate
 ```
 
+### Create the Geospatial Traces table
+
+* Create the `geospatial_traces` table;
+* `bin/rails generate scaffold geospatial_traces name:string geospatial:geometry data:json`
+
+* Modify the database migration;
+* SRID 4326 is the most widely used spatial reference identifier for the WGS 84 (World Geodetic System 1984) standard. We need to modify `db/migrate/XXX_create_geospatial_traces.rb` like so;
+```diff
+-    t.geometry :geospatial
++    t.geometry :geospatial, limit: {srid: 4326, type: "geometry"}
+```
+
+* Migrate the database;
+* `bin/rails db:migrate`
+
+* You should see;
+```
+== 20260619122553 CreateGeospatialTraces: migrating ===========================
+-- create_table(:geospatial_traces)
+   -> 0.0549s
+== 20260619122553 CreateGeospatialTraces: migrated (0.0549s) ==================
+```
+
+* Add some seeds for the `geospatial_traces` table; add the following to `seeds.rb`;
+
+```ruby
+geospatial_traces = [
+  {
+    name: "Harbour seals in Christchurch Bay",
+    geospatial: "POINT(50.713294760937224 -1.6601009519012668)",
+    data: {
+      name: "Harbour seal",
+      scientific_name: "Phoca vitulina"
+    }
+  }
+]
+
+geospatial_traces.each do |geospatial_trace|
+  GeospatialTrace.where(name: geospatial_trace[:name]).first_or_create do |trace|
+    trace.name = geospatial_trace[:name]
+    trace.geospatial = geospatial_trace[:geospatial]
+    trace.data = geospatial_trace[:data]
+
+    puts "Created geospatial_trace with name: #{geospatial_trace[:name]}"
+  end
+end
+```
+
+* Seed the database;
+* `bin/rails db:seed`
+* You should see;
+```
+Created geospatial_trace with name: Harbour seals in Christchurch Bay
+```
+
+* Run the rails server locally;
+* `bin/rails s`
+
+* In Chrome visit this localhost url `http://127.0.0.1:3000/geospatial_traces`.
+
+You should see the `geospatial_traces` that we have seeded into the PostGIS database in JSON format.
+Selecting `Pretty print` within Chrome makes it easier to read.
+
 More to follow.
 
 
