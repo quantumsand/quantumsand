@@ -5284,7 +5284,8 @@ class QuantumsandLive
       "pop-os/progress-streams",
       "pop-os/protonvpn-nm-lib",
       "pop-os/pyflatpak",
-      "pop-os/python-apt"
+      "pop-os/python-apt",
+      "pop-os/raspi-img"
     ]
 
     @git_repos_chromium_googlesource = [
