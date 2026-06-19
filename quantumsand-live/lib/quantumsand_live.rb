@@ -5275,7 +5275,8 @@ class QuantumsandLive
       "pop-os/pipewire-rs",
       "pop-os/plymouth",
       "pop-os/plymouth-theme",
-      "pop-os/pop-arm64"
+      "pop-os/pop-arm64",
+      "pop-os/pop-sync"
     ]
 
     @git_repos_chromium_googlesource = [
