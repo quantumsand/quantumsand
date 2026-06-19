@@ -5253,7 +5253,8 @@ class QuantumsandLive
       "gnome-terminator/terminator",
       "gnome-terminator/docs",
       "hugolabe/Wike",
-      "beetbox/beets"
+      "beetbox/beets",
+      "brltty/brltty"
     ]
 
     @git_repos_chromium_googlesource = [
