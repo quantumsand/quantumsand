@@ -5291,7 +5291,8 @@ class QuantumsandLive
       "pop-os/repo-ubuntu-mirror",
       "pop-os/repolib",
       "pop-os/repoman",
-      "pop-os/rtl8821ce-dkms"
+      "pop-os/rtl8821ce-dkms",
+      "pop-os/rust-bindgen-cli"
     ]
 
     @git_repos_chromium_googlesource = [
