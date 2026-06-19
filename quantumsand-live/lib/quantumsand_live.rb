@@ -5265,7 +5265,8 @@ class QuantumsandLive
       "pop-os/packaging-kinect",
       "pop-os/packaging-rust",
       "pop-os/packaging-sarndbox",
-      "pop-os/packaging-thunderbird"
+      "pop-os/packaging-thunderbird",
+      "thunderbird/thunderbird-desktop"
     ]
 
     @git_repos_chromium_googlesource = [
