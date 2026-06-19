@@ -5250,7 +5250,8 @@ class QuantumsandLive
       "quodlibet/quodlibet",
       "IBM/AssetOpsBench",
       "cvfosammmm/Setzer",
-      "gnome-terminator/terminator"
+      "gnome-terminator/terminator",
+      "gnome-terminator/docs"
     ]
 
     @git_repos_chromium_googlesource = [
