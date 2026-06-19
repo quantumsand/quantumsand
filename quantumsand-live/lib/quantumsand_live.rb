@@ -5287,7 +5287,8 @@ class QuantumsandLive
       "pop-os/python-apt",
       "pop-os/raspi-img",
       "pop-os/recently-used-xbel",
-      "pop-os/repo-release"
+      "pop-os/repo-release",
+      "pop-os/repo-ubuntu-mirror"
     ]
 
     @git_repos_chromium_googlesource = [
