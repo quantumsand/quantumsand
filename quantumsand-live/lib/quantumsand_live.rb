@@ -5255,7 +5255,8 @@ class QuantumsandLive
       "hugolabe/Wike",
       "beetbox/beets",
       "brltty/brltty",
-      "dvarrazzo/py-setproctitle"
+      "dvarrazzo/py-setproctitle",
+      "pop-os/packagekit-zbus"
     ]
 
     @git_repos_chromium_googlesource = [
