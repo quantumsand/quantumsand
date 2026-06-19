@@ -5249,7 +5249,8 @@ class QuantumsandLive
       "alexhuntley/Plots",
       "quodlibet/quodlibet",
       "IBM/AssetOpsBench",
-      "cvfosammmm/Setzer"
+      "cvfosammmm/Setzer",
+      "gnome-terminator/terminator"
     ]
 
     @git_repos_chromium_googlesource = [
