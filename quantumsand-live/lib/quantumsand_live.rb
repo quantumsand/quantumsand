@@ -5278,7 +5278,8 @@ class QuantumsandLive
       "pop-os/pop-arm64",
       "pop-os/pop-sync",
       "pop-os/poparazzi",
-      "pop-os/popsec"
+      "pop-os/popsec",
+      "pop-os/proc-modules"
     ]
 
     @git_repos_chromium_googlesource = [
