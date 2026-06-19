@@ -5252,7 +5252,8 @@ class QuantumsandLive
       "cvfosammmm/Setzer",
       "gnome-terminator/terminator",
       "gnome-terminator/docs",
-      "hugolabe/Wike"
+      "hugolabe/Wike",
+      "beetbox/beets"
     ]
 
     @git_repos_chromium_googlesource = [
