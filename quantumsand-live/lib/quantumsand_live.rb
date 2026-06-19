@@ -5289,7 +5289,8 @@ class QuantumsandLive
       "pop-os/recently-used-xbel",
       "pop-os/repo-release",
       "pop-os/repo-ubuntu-mirror",
-      "pop-os/repolib"
+      "pop-os/repolib",
+      "pop-os/repoman"
     ]
 
     @git_repos_chromium_googlesource = [
