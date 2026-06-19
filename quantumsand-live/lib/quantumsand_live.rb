@@ -5295,7 +5295,8 @@ class QuantumsandLive
       "pop-os/rust-bindgen-cli",
       "pop-os/rust-tss-esapi",
       "pop-os/sctk-adwaita",
-      "PolyMeilex/sctk-adwaita"
+      "PolyMeilex/sctk-adwaita",
+      "pop-os/session"
     ]
 
     @git_repos_chromium_googlesource = [
