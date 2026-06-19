@@ -5264,7 +5264,8 @@ class QuantumsandLive
       "pop-os/packaging-julia",
       "pop-os/packaging-kinect",
       "pop-os/packaging-rust",
-      "pop-os/packaging-sarndbox"
+      "pop-os/packaging-sarndbox",
+      "pop-os/packaging-thunderbird"
     ]
 
     @git_repos_chromium_googlesource = [
