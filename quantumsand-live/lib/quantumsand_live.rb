@@ -5294,7 +5294,8 @@ class QuantumsandLive
       "pop-os/rtl8821ce-dkms",
       "pop-os/rust-bindgen-cli",
       "pop-os/rust-tss-esapi",
-      "pop-os/sctk-adwaita"
+      "pop-os/sctk-adwaita",
+      "PolyMeilex/sctk-adwaita"
     ]
 
     @git_repos_chromium_googlesource = [
