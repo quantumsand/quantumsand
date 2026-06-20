@@ -5296,7 +5296,8 @@ class QuantumsandLive
       "pop-os/rust-tss-esapi",
       "pop-os/sctk-adwaita",
       "PolyMeilex/sctk-adwaita",
-      "pop-os/session"
+      "pop-os/session",
+      "plotly/react-plotly.js"
     ]
 
     @git_repos_chromium_googlesource = [
