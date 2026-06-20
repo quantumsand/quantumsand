@@ -5298,7 +5298,8 @@ class QuantumsandLive
       "PolyMeilex/sctk-adwaita",
       "pop-os/session",
       "plotly/react-plotly.js",
-      "plotly/plotly.rs"
+      "plotly/plotly.rs",
+      "livebook-dev/livebook"
     ]
 
     @git_repos_chromium_googlesource = [
