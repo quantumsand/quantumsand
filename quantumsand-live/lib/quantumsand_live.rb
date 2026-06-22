@@ -5340,7 +5340,8 @@ class QuantumsandLive
       "bitcoin-core/minisketch",
       "linebender/vello",
       "linebender/bevy_vello",
-      "trachten/cpisync"
+      "trachten/cpisync",
+      "pop-os/spirv-headers"
     ]
 
     @git_repos_chromium_googlesource = [
