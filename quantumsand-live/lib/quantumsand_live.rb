@@ -5337,7 +5337,8 @@ class QuantumsandLive
       "bitcoin-core/leveldb-old",
       "google/leveldb",
       "bitcoin-core/leveldb-subtree",
-      "bitcoin-core/minisketch"
+      "bitcoin-core/minisketch",
+      "linebender/vello"
     ]
 
     @git_repos_chromium_googlesource = [
