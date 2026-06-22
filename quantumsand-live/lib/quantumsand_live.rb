@@ -5343,7 +5343,8 @@ class QuantumsandLive
       "trachten/cpisync",
       "pop-os/spirv-headers",
       "pop-os/spirv-llvm-translator-15",
-      "pop-os/spirv-tools"
+      "pop-os/spirv-tools",
+      "pop-os/srmw"
     ]
 
     @git_repos_chromium_googlesource = [
