@@ -5339,7 +5339,8 @@ class QuantumsandLive
       "bitcoin-core/leveldb-subtree",
       "bitcoin-core/minisketch",
       "linebender/vello",
-      "linebender/bevy_vello"
+      "linebender/bevy_vello",
+      "trachten/cpisync"
     ]
 
     @git_repos_chromium_googlesource = [
