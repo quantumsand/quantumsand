@@ -5322,7 +5322,8 @@ class QuantumsandLive
       "bitcoin-core/asmap-data",
       "NiklasRosenstein/pbzx",
       "bitcoin-core/bitcoin-maintainer-tools",
-      "bitcoin-core/btcdeb"
+      "bitcoin-core/btcdeb",
+      "bitcoin-core/crc32c-subtree"
     ]
 
     @git_repos_chromium_googlesource = [
