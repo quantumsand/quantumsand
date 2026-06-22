@@ -5886,7 +5886,8 @@ class QuantumsandLive
       "elfutils",
       "glibc",
       "lvm2",
-      "valgrind"
+      "valgrind",
+      "systemtap"
     ]
 
     @git_repos_libssh_org = [
