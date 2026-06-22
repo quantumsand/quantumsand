@@ -5335,7 +5335,8 @@ class QuantumsandLive
       "bitcoin-core/gui-qml",
       "bitcoin-core/HWI",
       "bitcoin-core/leveldb-old",
-      "google/leveldb"
+      "google/leveldb",
+      "bitcoin-core/leveldb-subtree"
     ]
 
     @git_repos_chromium_googlesource = [
