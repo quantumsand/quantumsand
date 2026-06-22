@@ -5316,7 +5316,8 @@ class QuantumsandLive
       "rust-cli/env_logger",
       "linebender/tiny-skia",
       "linebender/resvg",
-      "jrmuizel/raqote"
+      "jrmuizel/raqote",
+      "bitcoin-core/libmultiprocess"
     ]
 
     @git_repos_chromium_googlesource = [
