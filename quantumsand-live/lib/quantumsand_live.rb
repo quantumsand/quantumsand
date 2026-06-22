@@ -5315,7 +5315,8 @@ class QuantumsandLive
       "parasyte/pixels",
       "rust-cli/env_logger",
       "linebender/tiny-skia",
-      "linebender/resvg"
+      "linebender/resvg",
+      "jrmuizel/raqote"
     ]
 
     @git_repos_chromium_googlesource = [
