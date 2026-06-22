@@ -5353,7 +5353,8 @@ class QuantumsandLive
       "ROCm/librocdxg",
       "duckdb/duckdb-postgres",
       "apache/avro",
-      "apache/polaris"
+      "apache/polaris",
+      "duckdb/extension-ci-tools"
     ]
 
     @git_repos_chromium_googlesource = [
