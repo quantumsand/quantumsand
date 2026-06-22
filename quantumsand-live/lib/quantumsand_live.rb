@@ -5307,7 +5307,8 @@ class QuantumsandLive
       "pop-os/sideload",
       "pop-os/smithay",
       "pop-os/smithay-clipboard",
-      "Smithay/smithay-clipboard"
+      "Smithay/smithay-clipboard",
+      "pop-os/snapshot"
     ]
 
     @git_repos_chromium_googlesource = [
