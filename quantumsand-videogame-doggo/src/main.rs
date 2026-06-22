@@ -124,7 +124,6 @@ fn setup(mut commands: Commands,
         },
     ));
 
-
     // Add the purple point light
     commands.spawn((
         Transform::from_xyz(3.0, 3.0, 5.0),
