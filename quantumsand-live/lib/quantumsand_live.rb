@@ -5347,7 +5347,8 @@ class QuantumsandLive
       "pop-os/srmw",
       "pop-os/steam",
       "pop-os/sponsors",
-      "pop-os/support-panel"
+      "pop-os/support-panel",
+      "elixir-nx/xla"
     ]
 
     @git_repos_chromium_googlesource = [
