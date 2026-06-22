@@ -5319,7 +5319,8 @@ class QuantumsandLive
       "jrmuizel/raqote",
       "bitcoin-core/libmultiprocess",
       "bitcoin-core/apple-sdk-tools",
-      "bitcoin-core/asmap-data"
+      "bitcoin-core/asmap-data",
+      "NiklasRosenstein/pbzx"
     ]
 
     @git_repos_chromium_googlesource = [
