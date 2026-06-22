@@ -8615,7 +8615,8 @@ class QuantumsandLive
       "media-gfx/qrencode",
       "dev-util/systemtap",
       "net-libs/zeromq",
-      "dev-build/cmake"
+      "dev-build/cmake",
+      "dev-libs/capnproto"
     ]
 
     gentoo_eselect_repository_add = {
