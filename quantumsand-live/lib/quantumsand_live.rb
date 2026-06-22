@@ -6582,7 +6582,7 @@ class QuantumsandLive
       "apps/xfce4-volumed-pulse",
       "apps/xfdashboard",
       "apps/xfmpc",
-      "kelnos/xfwl4"
+      "xfce/xfwl4"
     ]
 
     @git_repos_kitware_gitlab = [
