@@ -8611,7 +8611,8 @@ class QuantumsandLive
       "mail-client/thunderbird",
       "media-gfx/qrencode",
       "dev-util/systemtap",
-      "net-libs/zeromq"
+      "net-libs/zeromq",
+      "dev-build/cmake"
     ]
 
     gentoo_eselect_repository_add = {
