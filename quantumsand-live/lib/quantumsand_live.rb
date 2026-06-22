@@ -5329,7 +5329,8 @@ class QuantumsandLive
       "abseil/abseil-py",
       "abseil/abseil-hello",
       "google/crc32c",
-      "bitcoin-core/ctaes"
+      "bitcoin-core/ctaes",
+      "capnproto/capnproto"
     ]
 
     @git_repos_chromium_googlesource = [
