@@ -5318,7 +5318,8 @@ class QuantumsandLive
       "linebender/resvg",
       "jrmuizel/raqote",
       "bitcoin-core/libmultiprocess",
-      "bitcoin-core/apple-sdk-tools"
+      "bitcoin-core/apple-sdk-tools",
+      "bitcoin-core/asmap-data"
     ]
 
     @git_repos_chromium_googlesource = [
