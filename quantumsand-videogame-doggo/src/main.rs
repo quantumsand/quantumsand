@@ -2,6 +2,7 @@
 
 use bevy::{
     color::palettes::css::RED,
+    color::palettes::css::PURPLE,
     light::{CascadeShadowConfigBuilder, DirectionalLightShadowMap, VolumetricLight},
     prelude::*,
 };
@@ -25,11 +26,19 @@ Currently not tested.
 
 const DOGGO_CHARACTER_PATH: &str = "models/doggo-character.gltf";
 
-// Define a struct to store parameters for the point light's movement.
+// Define a struct to store parameters for the red point light's movement.
 #[derive(Component)]
-struct MoveBackAndForthHorizontally {
+struct RedMoveBackAndForthHorizontally {
     min_x: f32,
     max_x: f32,
+    speed: f32,
+}
+
+// Define a struct to store parameters for the purple point light's movement.
+#[derive(Component)]
+struct PurpleMoveUpAndDownVertically {
+    min_y: f32,
+    max_y: f32,
     speed: f32,
 }
 
@@ -40,7 +49,8 @@ fn main() {
         .add_systems(Startup, setup)
         .add_systems(Update, setup_scene_once_loaded)
         .add_systems(Update, animate_light_direction)
-        .add_systems(Update, move_point_light)
+        .add_systems(Update, move_point_light_red)
+        .add_systems(Update, move_point_light_purple)
         .run();
 }
 
@@ -96,7 +106,7 @@ fn setup(mut commands: Commands,
         asset_server.load(GltfAssetLabel::Scene(0).from_asset(DOGGO_CHARACTER_PATH)),
     ));
 
-    // Add the point light
+    // Add the red point light
     commands.spawn((
         Transform::from_xyz(3.0, 3.0, 5.0),
         PointLight {
@@ -107,9 +117,28 @@ fn setup(mut commands: Commands,
             ..default()
         },
         VolumetricLight,
-        MoveBackAndForthHorizontally {
+        RedMoveBackAndForthHorizontally {
             min_x: 2.00,
             max_x: 18.0,
+            speed: -2.0,
+        },
+    ));
+
+
+    // Add the purple point light
+    commands.spawn((
+        Transform::from_xyz(3.0, 3.0, 5.0),
+        PointLight {
+            shadows_enabled: true,
+            range: 300.0,
+            color: PURPLE.into(),
+            intensity: 6_000_000.0,
+            ..default()
+        },
+        VolumetricLight,
+        PurpleMoveUpAndDownVertically {
+            min_y: 4.0,
+            max_y: 10.0,
             speed: -2.0,
         },
     ));
@@ -154,10 +183,10 @@ fn animate_light_direction(
     }
 }
 
-// Toggle point light movement between left and right.
-fn move_point_light(
+// Toggle red point light movement left and right.
+fn move_point_light_red(
     timer: Res<Time>,
-    mut objects: Query<(&mut Transform, &mut MoveBackAndForthHorizontally)>,
+    mut objects: Query<(&mut Transform, &mut RedMoveBackAndForthHorizontally)>,
 ) {
     for (mut transform, mut move_data) in objects.iter_mut() {
         let mut translation = transform.translation;
@@ -175,6 +204,31 @@ fn move_point_light(
         }
         transform.translation = translation;
 
-        //println!("move_point_light firefly x: {}", translation.x); // can be useful...
+        //println!("move_point_light_red firefly x: {}", translation.x); // can be useful...
+    }
+}
+
+// Toggle purple point light movement up and down.
+fn move_point_light_purple(
+    timer: Res<Time>,
+    mut objects: Query<(&mut Transform, &mut PurpleMoveUpAndDownVertically)>,
+) {
+    for (mut transform, mut move_data) in objects.iter_mut() {
+        let mut translation = transform.translation;
+        let mut need_toggle = false;
+        translation.y += move_data.speed * timer.delta_secs();
+        if translation.y > move_data.max_y {
+            translation.y = move_data.max_y;
+            need_toggle = true;
+        } else if translation.y < move_data.min_y {
+            translation.y = move_data.min_y;
+            need_toggle = true;
+        }
+        if need_toggle {
+            move_data.speed = -move_data.speed;
+        }
+        transform.translation = translation;
+
+        //println!("move_point_light_purple firefly y: {}", translation.y); // can be useful...
     }
 }
