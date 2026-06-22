@@ -19,7 +19,7 @@ This will include:
 * PyCUDA
 * [pandas](/quantumsand-project-templates/quantumsand-project-templates-pandas/)
 * [GeoPandas](/quantumsand-project-templates/quantumsand-project-templates-geopandas/)
-* SQLAlchemy
+* [SQLAlchemy](/quantumsand-project-templates/quantumsand-project-templates-sqlalchemy/)
 * [NumPy](/quantumsand-project-templates/quantumsand-project-templates-numpy/)
 * bpy (Blender as a Python module)
 * sagemath
@@ -132,6 +132,10 @@ uv add pillow
 * Requests;
 ```
 uv add requests
+```
+* SQLAlchemy and psycopg2;
+```
+uv add SQLAlchemy psycopg2
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
