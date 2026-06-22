@@ -5311,7 +5311,8 @@ class QuantumsandLive
       "pop-os/snapshot",
       "pop-os/softbuffer",
       "rust-windowing/softbuffer",
-      "rust-windowing/raw-window-handle"
+      "rust-windowing/raw-window-handle",
+      "parasyte/pixels"
     ]
 
     @git_repos_chromium_googlesource = [
