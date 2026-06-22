@@ -5350,7 +5350,8 @@ class QuantumsandLive
       "pop-os/support-panel",
       "elixir-nx/xla",
       "meta-pytorch/torchx",
-      "ROCm/librocdxg"
+      "ROCm/librocdxg",
+      "duckdb/duckdb-postgres"
     ]
 
     @git_repos_chromium_googlesource = [
