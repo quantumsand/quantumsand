@@ -5303,7 +5303,8 @@ class QuantumsandLive
       "pop-os/sessioninstaller",
       "pop-os/shell-shortcuts",
       "pop-os/shop",
-      "elementary/appcenter"
+      "elementary/appcenter",
+      "pop-os/sideload"
     ]
 
     @git_repos_chromium_googlesource = [
