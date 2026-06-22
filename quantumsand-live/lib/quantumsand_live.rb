@@ -8598,7 +8598,8 @@ class QuantumsandLive
       "media-libs/nvidia-vaapi-driver",
       "net-p2p/bitcoin-core",
       "mail-client/thunderbird",
-      "media-gfx/qrencode"
+      "media-gfx/qrencode",
+      "dev-util/systemtap"
     ]
 
     gentoo_eselect_repository_add = {
