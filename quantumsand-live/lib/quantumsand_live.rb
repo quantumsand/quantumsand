@@ -5332,7 +5332,8 @@ class QuantumsandLive
       "bitcoin-core/ctaes",
       "capnproto/capnproto",
       "bitcoin-core/gui",
-      "bitcoin-core/gui-qml"
+      "bitcoin-core/gui-qml",
+      "bitcoin-core/HWI"
     ]
 
     @git_repos_chromium_googlesource = [
