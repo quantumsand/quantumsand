@@ -5351,7 +5351,8 @@ class QuantumsandLive
       "elixir-nx/xla",
       "meta-pytorch/torchx",
       "ROCm/librocdxg",
-      "duckdb/duckdb-postgres"
+      "duckdb/duckdb-postgres",
+      "apache/avro"
     ]
 
     @git_repos_chromium_googlesource = [
