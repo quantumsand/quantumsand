@@ -5328,7 +5328,8 @@ class QuantumsandLive
       "ng-log/ng-log",
       "abseil/abseil-py",
       "abseil/abseil-hello",
-      "google/crc32c"
+      "google/crc32c",
+      "bitcoin-core/ctaes"
     ]
 
     @git_repos_chromium_googlesource = [
