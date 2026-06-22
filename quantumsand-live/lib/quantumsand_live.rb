@@ -5306,7 +5306,8 @@ class QuantumsandLive
       "elementary/appcenter",
       "pop-os/sideload",
       "pop-os/smithay",
-      "pop-os/smithay-clipboard"
+      "pop-os/smithay-clipboard",
+      "Smithay/smithay-clipboard"
     ]
 
     @git_repos_chromium_googlesource = [
