@@ -5302,7 +5302,8 @@ class QuantumsandLive
       "livebook-dev/livebook",
       "pop-os/sessioninstaller",
       "pop-os/shell-shortcuts",
-      "pop-os/shop"
+      "pop-os/shop",
+      "elementary/appcenter"
     ]
 
     @git_repos_chromium_googlesource = [
