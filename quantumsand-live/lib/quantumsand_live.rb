@@ -8597,7 +8597,8 @@ class QuantumsandLive
       "media-fonts/corefonts",
       "media-libs/nvidia-vaapi-driver",
       "net-p2p/bitcoin-core",
-      "mail-client/thunderbird"
+      "mail-client/thunderbird",
+      "media-gfx/qrencode"
     ]
 
     gentoo_eselect_repository_add = {
