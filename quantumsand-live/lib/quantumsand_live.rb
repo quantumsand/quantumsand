@@ -5300,7 +5300,8 @@ class QuantumsandLive
       "plotly/react-plotly.js",
       "plotly/plotly.rs",
       "livebook-dev/livebook",
-      "pop-os/sessioninstaller"
+      "pop-os/sessioninstaller",
+      "pop-os/shell-shortcuts"
     ]
 
     @git_repos_chromium_googlesource = [
