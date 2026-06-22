@@ -5345,7 +5345,8 @@ class QuantumsandLive
       "pop-os/spirv-llvm-translator-15",
       "pop-os/spirv-tools",
       "pop-os/srmw",
-      "pop-os/steam"
+      "pop-os/steam",
+      "pop-os/sponsors"
     ]
 
     @git_repos_chromium_googlesource = [
