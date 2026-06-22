@@ -5313,7 +5313,8 @@ class QuantumsandLive
       "rust-windowing/softbuffer",
       "rust-windowing/raw-window-handle",
       "parasyte/pixels",
-      "rust-cli/env_logger"
+      "rust-cli/env_logger",
+      "linebender/tiny-skia"
     ]
 
     @git_repos_chromium_googlesource = [
