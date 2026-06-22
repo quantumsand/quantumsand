@@ -5342,7 +5342,8 @@ class QuantumsandLive
       "linebender/bevy_vello",
       "trachten/cpisync",
       "pop-os/spirv-headers",
-      "pop-os/spirv-llvm-translator-15"
+      "pop-os/spirv-llvm-translator-15",
+      "pop-os/spirv-tools"
     ]
 
     @git_repos_chromium_googlesource = [
