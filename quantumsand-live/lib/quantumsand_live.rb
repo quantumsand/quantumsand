@@ -5324,7 +5324,8 @@ class QuantumsandLive
       "bitcoin-core/bitcoin-maintainer-tools",
       "bitcoin-core/btcdeb",
       "bitcoin-core/crc32c-subtree",
-      "google/glog"
+      "google/glog",
+      "ng-log/ng-log"
     ]
 
     @git_repos_chromium_googlesource = [
