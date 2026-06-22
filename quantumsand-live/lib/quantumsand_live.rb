@@ -5348,7 +5348,8 @@ class QuantumsandLive
       "pop-os/steam",
       "pop-os/sponsors",
       "pop-os/support-panel",
-      "elixir-nx/xla"
+      "elixir-nx/xla",
+      "meta-pytorch/torchx"
     ]
 
     @git_repos_chromium_googlesource = [
