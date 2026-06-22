@@ -5352,7 +5352,8 @@ class QuantumsandLive
       "meta-pytorch/torchx",
       "ROCm/librocdxg",
       "duckdb/duckdb-postgres",
-      "apache/avro"
+      "apache/avro",
+      "apache/polaris"
     ]
 
     @git_repos_chromium_googlesource = [
