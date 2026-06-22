@@ -8602,7 +8602,8 @@ class QuantumsandLive
       "net-p2p/bitcoin-core",
       "mail-client/thunderbird",
       "media-gfx/qrencode",
-      "dev-util/systemtap"
+      "dev-util/systemtap",
+      "net-libs/zeromq"
     ]
 
     gentoo_eselect_repository_add = {
