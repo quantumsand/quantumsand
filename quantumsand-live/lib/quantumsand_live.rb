@@ -5309,7 +5309,8 @@ class QuantumsandLive
       "pop-os/smithay-clipboard",
       "Smithay/smithay-clipboard",
       "pop-os/snapshot",
-      "pop-os/softbuffer"
+      "pop-os/softbuffer",
+      "rust-windowing/softbuffer"
     ]
 
     @git_repos_chromium_googlesource = [
