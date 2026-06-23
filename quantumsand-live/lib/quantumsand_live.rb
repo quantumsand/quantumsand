@@ -5356,7 +5356,8 @@ class QuantumsandLive
       "apache/polaris",
       "duckdb/extension-ci-tools",
       "duckdb/database-connector",
-      "duckdb/duckdb-sqlite"
+      "duckdb/duckdb-sqlite",
+      "mourner/suncalc"
     ]
 
     @git_repos_chromium_googlesource = [
