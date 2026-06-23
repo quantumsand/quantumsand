@@ -161,6 +161,7 @@ More to follow.
 
 - game_name `:string`
 - game_levels `:json`
+- game_characters `:json`
 - game_narrative `:json`
 - game_traits `:json`
 - game_inventory `:json`
