@@ -160,6 +160,7 @@ More to follow.
 ### Games table
 
 - game_name `:string`
+- game_levels `:json`
 - game_narrative `:json`
 - game_traits `:json`
 - game_inventory `:json`
