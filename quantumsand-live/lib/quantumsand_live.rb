@@ -5397,7 +5397,8 @@ class QuantumsandLive
       "pop-os/usb-disk-probe",
       "pop-os/v4l2loopback",
       "v4l2loopback/v4l2loopback",
-      "pop-os/virtualbox"
+      "pop-os/virtualbox",
+      "pop-os/virtualbox-ext-pack"
     ]
 
     @git_repos_chromium_googlesource = [
