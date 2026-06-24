@@ -5374,7 +5374,8 @@ class QuantumsandLive
       "pop-os/system76-wallpapers",
       "pop-os/systemd",
       "pop-os/systemd-boot-conf",
-      "rust-lang/rustup"
+      "rust-lang/rustup",
+      "pop-os/theme"
     ]
 
     @git_repos_chromium_googlesource = [
