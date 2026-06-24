@@ -5376,7 +5376,8 @@ class QuantumsandLive
       "pop-os/systemd-boot-conf",
       "rust-lang/rustup",
       "pop-os/theme",
-      "pop-os/tensorman"
+      "pop-os/tensorman",
+      "pop-os/theme-switcher"
     ]
 
     @git_repos_chromium_googlesource = [
