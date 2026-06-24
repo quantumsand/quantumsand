@@ -5360,7 +5360,8 @@ class QuantumsandLive
       "mourner/suncalc",
       "pop-os/switcheroo-control",
       "ebassi/glarea-example",
-      "pop-os/sys-mount"
+      "pop-os/sys-mount",
+      "pop-os/sysfs-class"
     ]
 
     @git_repos_chromium_googlesource = [
