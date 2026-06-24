@@ -5377,7 +5377,8 @@ class QuantumsandLive
       "rust-lang/rustup",
       "pop-os/theme",
       "pop-os/tensorman",
-      "pop-os/theme-switcher"
+      "pop-os/theme-switcher",
+      "pop-os/tiler"
     ]
 
     @git_repos_chromium_googlesource = [
