@@ -5406,7 +5406,8 @@ class QuantumsandLive
       "pop-os/wayland-protocols",
       "nuxt/nuxt",
       "pop-os/wgpu",
-      "webgpu-native/webgpu-headers"
+      "webgpu-native/webgpu-headers",
+      "microsoft/DirectX-Headers"
     ]
 
     @git_repos_chromium_googlesource = [
