@@ -5407,7 +5407,8 @@ class QuantumsandLive
       "nuxt/nuxt",
       "pop-os/wgpu",
       "webgpu-native/webgpu-headers",
-      "microsoft/DirectX-Headers"
+      "microsoft/DirectX-Headers",
+      "microsoft/DirectXShaderCompiler"
     ]
 
     @git_repos_chromium_googlesource = [
