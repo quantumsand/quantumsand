@@ -5365,7 +5365,8 @@ class QuantumsandLive
       "pop-os/system-updater",
       "pop-os/system76-acpi-dkms",
       "pop-os/system76-dkms",
-      "pop-os/system76-driver"
+      "pop-os/system76-driver",
+      "pop-os/system76-firmware"
     ]
 
     @git_repos_chromium_googlesource = [
