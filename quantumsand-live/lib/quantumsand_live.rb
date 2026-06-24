@@ -5400,7 +5400,8 @@ class QuantumsandLive
       "pop-os/virtualbox",
       "pop-os/virtualbox-ext-pack",
       "pop-os/vulkan-loader",
-      "pop-os/wallpapers"
+      "pop-os/wallpapers",
+      "pop-os/wayland"
     ]
 
     @git_repos_chromium_googlesource = [
