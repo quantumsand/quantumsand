@@ -37,6 +37,7 @@ This will include:
 * [Requests](/quantumsand-project-templates/quantumsand-project-templates-requests/) (HTTP library)
 * Keras 3 (Deep Learning for humans)
 * [JAX](/quantumsand-project-templates/quantumsand-project-templates-jax/)
+* Scapy (analyze network packets)
 * SymPy
 * torrust-tracker (modern and feature-rich private BitTorrent tracker)
 * rqbit (bittorrent client in Rust)
