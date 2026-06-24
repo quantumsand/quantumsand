@@ -5361,7 +5361,8 @@ class QuantumsandLive
       "pop-os/switcheroo-control",
       "ebassi/glarea-example",
       "pop-os/sys-mount",
-      "pop-os/sysfs-class"
+      "pop-os/sysfs-class",
+      "pop-os/system-updater"
     ]
 
     @git_repos_chromium_googlesource = [
