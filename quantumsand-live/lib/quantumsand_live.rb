@@ -5398,7 +5398,8 @@ class QuantumsandLive
       "pop-os/v4l2loopback",
       "v4l2loopback/v4l2loopback",
       "pop-os/virtualbox",
-      "pop-os/virtualbox-ext-pack"
+      "pop-os/virtualbox-ext-pack",
+      "pop-os/vulkan-loader"
     ]
 
     @git_repos_chromium_googlesource = [
