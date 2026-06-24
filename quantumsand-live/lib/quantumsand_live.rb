@@ -5362,7 +5362,8 @@ class QuantumsandLive
       "ebassi/glarea-example",
       "pop-os/sys-mount",
       "pop-os/sysfs-class",
-      "pop-os/system-updater"
+      "pop-os/system-updater",
+      "pop-os/system76-acpi-dkms"
     ]
 
     @git_repos_chromium_googlesource = [
