@@ -5390,7 +5390,8 @@ class QuantumsandLive
       "mjg59/tpmtotp",
       "pop-os/transition",
       "pop-os/ubuntu-drivers-common",
-      "pop-os/ubuntu-version"
+      "pop-os/ubuntu-version",
+      "pop-os/upgrade"
     ]
 
     @git_repos_chromium_googlesource = [
