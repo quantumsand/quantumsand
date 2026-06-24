@@ -5385,7 +5385,8 @@ class QuantumsandLive
       "pop-os/token_expander",
       "pop-os/touchegg",
       "JoseExposito/touchegg",
-      "pop-os/tpm2-totp"
+      "pop-os/tpm2-totp",
+      "tpm2-software/tpm2-totp"
     ]
 
     @git_repos_chromium_googlesource = [
