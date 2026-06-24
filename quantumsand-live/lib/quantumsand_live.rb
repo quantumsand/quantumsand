@@ -5396,7 +5396,8 @@ class QuantumsandLive
       "pop-os/url-scraper",
       "pop-os/usb-disk-probe",
       "pop-os/v4l2loopback",
-      "v4l2loopback/v4l2loopback"
+      "v4l2loopback/v4l2loopback",
+      "pop-os/virtualbox"
     ]
 
     @git_repos_chromium_googlesource = [
