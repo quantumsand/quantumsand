@@ -5392,7 +5392,8 @@ class QuantumsandLive
       "pop-os/ubuntu-drivers-common",
       "pop-os/ubuntu-version",
       "pop-os/upgrade",
-      "pop-os/upower-dbus"
+      "pop-os/upower-dbus",
+      "pop-os/url-scraper"
     ]
 
     @git_repos_chromium_googlesource = [
