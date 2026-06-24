@@ -5358,7 +5358,8 @@ class QuantumsandLive
       "duckdb/database-connector",
       "duckdb/duckdb-sqlite",
       "mourner/suncalc",
-      "pop-os/switcheroo-control"
+      "pop-os/switcheroo-control",
+      "ebassi/glarea-example"
     ]
 
     @git_repos_chromium_googlesource = [
