@@ -5409,7 +5409,8 @@ class QuantumsandLive
       "webgpu-native/webgpu-headers",
       "microsoft/DirectX-Headers",
       "microsoft/DirectXShaderCompiler",
-      "DileSoft/gfbuild-angle"
+      "DileSoft/gfbuild-angle",
+      "google/gfbuild-angle"
     ]
 
     @git_repos_chromium_googlesource = [
