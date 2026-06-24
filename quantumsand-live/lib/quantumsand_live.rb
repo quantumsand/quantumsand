@@ -5372,7 +5372,8 @@ class QuantumsandLive
       "pop-os/system76-scheduler",
       "pop-os/system76-ubuntu-repo",
       "pop-os/system76-wallpapers",
-      "pop-os/systemd"
+      "pop-os/systemd",
+      "pop-os/systemd-boot-conf"
     ]
 
     @git_repos_chromium_googlesource = [
