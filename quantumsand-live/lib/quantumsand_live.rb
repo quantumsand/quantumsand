@@ -5379,7 +5379,8 @@ class QuantumsandLive
       "pop-os/tensorman",
       "pop-os/theme-switcher",
       "pop-os/tiler",
-      "uazu/qcell"
+      "uazu/qcell",
+      "pop-os/timedate-zbus"
     ]
 
     @git_repos_chromium_googlesource = [
