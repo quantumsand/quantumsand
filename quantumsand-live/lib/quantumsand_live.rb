@@ -5408,7 +5408,8 @@ class QuantumsandLive
       "pop-os/wgpu",
       "webgpu-native/webgpu-headers",
       "microsoft/DirectX-Headers",
-      "microsoft/DirectXShaderCompiler"
+      "microsoft/DirectXShaderCompiler",
+      "DileSoft/gfbuild-angle"
     ]
 
     @git_repos_chromium_googlesource = [
