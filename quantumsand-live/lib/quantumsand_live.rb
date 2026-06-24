@@ -5410,7 +5410,8 @@ class QuantumsandLive
       "microsoft/DirectX-Headers",
       "microsoft/DirectXShaderCompiler",
       "DileSoft/gfbuild-angle",
-      "google/gfbuild-angle"
+      "google/gfbuild-angle",
+      "secdev/scapy"
     ]
 
     @git_repos_chromium_googlesource = [
