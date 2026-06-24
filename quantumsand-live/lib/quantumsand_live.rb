@@ -72,6 +72,7 @@ class QuantumsandLive
     @git_repos_code_launchpad_net_url = ENV.fetch("GIT_REPOS_CODE_LAUNCHPAD_NET_URL")
     @git_repos_salsa_debian_org_url = ENV.fetch("GIT_REPOS_SALSA_DEBIAN_ORG_URL")
     @git_repos_gentoo_org_url = ENV.fetch("GIT_REPOS_GENTOO_ORG_URL")
+    @git_repos_archlinux_org_url = ENV.fetch("GIT_REPOS_ARCHLINUX_ORG_URL")
 
     @git_repos_github = [
       "linuxwacom/wacom-hid-descriptors",
@@ -8353,6 +8354,10 @@ class QuantumsandLive
       "proj/pax-utils",
       "proj/gentoolkit",
       "proj/portage-utils"
+    ]
+
+    @git_repos_archlinux_org_gitlab = [
+      "archlinux/mkinitcpio/mkinitcpio"
     ]
   end
 
