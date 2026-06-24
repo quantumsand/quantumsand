@@ -5387,7 +5387,8 @@ class QuantumsandLive
       "JoseExposito/touchegg",
       "pop-os/tpm2-totp",
       "tpm2-software/tpm2-totp",
-      "mjg59/tpmtotp"
+      "mjg59/tpmtotp",
+      "pop-os/transition"
     ]
 
     @git_repos_chromium_googlesource = [
