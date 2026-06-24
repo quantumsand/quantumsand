@@ -5402,7 +5402,8 @@ class QuantumsandLive
       "pop-os/vulkan-loader",
       "pop-os/wallpapers",
       "pop-os/wayland",
-      "pop-os/wayland-protocols"
+      "pop-os/wayland-protocols",
+      "nuxt/nuxt"
     ]
 
     @git_repos_chromium_googlesource = [
