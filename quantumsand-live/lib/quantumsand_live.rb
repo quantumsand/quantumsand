@@ -5369,7 +5369,8 @@ class QuantumsandLive
       "pop-os/system76-firmware",
       "pop-os/system76-io-dkms",
       "pop-os/system76-oled",
-      "pop-os/system76-scheduler"
+      "pop-os/system76-scheduler",
+      "pop-os/system76-ubuntu-repo"
     ]
 
     @git_repos_chromium_googlesource = [
