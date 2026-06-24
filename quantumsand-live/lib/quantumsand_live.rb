@@ -5382,7 +5382,8 @@ class QuantumsandLive
       "uazu/qcell",
       "pop-os/timedate-zbus",
       "pop-os/token_expander",
-      "pop-os/touchegg"
+      "pop-os/touchegg",
+      "JoseExposito/touchegg"
     ]
 
     @git_repos_chromium_googlesource = [
