@@ -5375,7 +5375,8 @@ class QuantumsandLive
       "pop-os/systemd",
       "pop-os/systemd-boot-conf",
       "rust-lang/rustup",
-      "pop-os/theme"
+      "pop-os/theme",
+      "pop-os/tensorman"
     ]
 
     @git_repos_chromium_googlesource = [
