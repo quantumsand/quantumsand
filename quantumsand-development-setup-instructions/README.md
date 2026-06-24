@@ -12,6 +12,7 @@ This means that development of each component can be done on all three of these 
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
 * Install wget; `brew install wget`
 * Install htop; `brew install htop`
+* Install tcpdump; `brew install tcpdump`
 * Install FFmpeg; `brew install ffmpeg`
 * Install audiowaveform;  `brew install audiowaveform`
 * Install RabbitMQ; `brew install rabbitmq`
