@@ -5413,7 +5413,8 @@ class QuantumsandLive
       "DileSoft/gfbuild-angle",
       "google/gfbuild-angle",
       "secdev/scapy",
-      "LunarG/VulkanTools"
+      "LunarG/VulkanTools",
+      "KhronosGroup/Vulkan-ValidationLayers"
     ]
 
     @git_repos_chromium_googlesource = [
