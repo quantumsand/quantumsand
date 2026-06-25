@@ -5425,7 +5425,8 @@ class QuantumsandLive
       "google/langsvr",
       "gfx-rs/naga",
       "pop-os/window_clipboard",
-      "hecrj/window_clipboard"
+      "hecrj/window_clipboard",
+      "pop-os/whitespace-conf"
     ]
 
     @git_repos_chromium_googlesource = [
