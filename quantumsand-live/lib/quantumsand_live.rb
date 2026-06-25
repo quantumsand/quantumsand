@@ -5424,7 +5424,8 @@ class QuantumsandLive
       "open-source-parsers/jsoncpp",
       "google/langsvr",
       "gfx-rs/naga",
-      "pop-os/window_clipboard"
+      "pop-os/window_clipboard",
+      "hecrj/window_clipboard"
     ]
 
     @git_repos_chromium_googlesource = [
