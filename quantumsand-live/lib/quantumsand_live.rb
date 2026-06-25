@@ -5444,7 +5444,8 @@ class QuantumsandLive
       "chromium/src/testing",
       "external/github.com/llvm/llvm-project/compiler-rt/lib/fuzzer",
       "webpagereplay",
-      "catapult"
+      "catapult",
+      "chromium/src/third_party/jinja2"
     ]
 
     @git_repos_gn_googlesource = [
