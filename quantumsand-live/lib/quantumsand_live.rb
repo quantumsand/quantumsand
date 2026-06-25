@@ -5414,7 +5414,8 @@ class QuantumsandLive
       "google/gfbuild-angle",
       "secdev/scapy",
       "LunarG/VulkanTools",
-      "KhronosGroup/Vulkan-ValidationLayers"
+      "KhronosGroup/Vulkan-ValidationLayers",
+      "KhronosGroup/EGL-Registry"
     ]
 
     @git_repos_chromium_googlesource = [
