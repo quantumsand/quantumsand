@@ -5441,7 +5441,8 @@ class QuantumsandLive
       "chromium/src/tools/win",
       "chromium/src/tools/code_coverage",
       "chromium/src/tools/mb",
-      "chromium/src/testing"
+      "chromium/src/testing",
+      "external/github.com/llvm/llvm-project/compiler-rt/lib/fuzzer"
     ]
 
     @git_repos_gn_googlesource = [
