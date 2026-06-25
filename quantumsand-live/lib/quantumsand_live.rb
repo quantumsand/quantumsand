@@ -5435,7 +5435,8 @@ class QuantumsandLive
       "external/github.com/llvm/llvm-project/libc",
       "chromiumos/third_party/libdrm",
       "chromium/src/build",
-      "chromium/src/tools/clang"
+      "chromium/src/tools/clang",
+      "chromium/src/tools/memory"
     ]
 
     @git_repos_gn_googlesource = [
