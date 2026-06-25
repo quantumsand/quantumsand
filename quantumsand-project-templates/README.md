@@ -37,7 +37,7 @@ This will include:
 * [Requests](/quantumsand-project-templates/quantumsand-project-templates-requests/) (HTTP library)
 * Keras 3 (Deep Learning for humans)
 * [JAX](/quantumsand-project-templates/quantumsand-project-templates-jax/)
-* Scapy (analyze network packets)
+* [Scapy](/quantumsand-project-templates/quantumsand-project-templates-scapy/) (analyze network packets)
 * SymPy
 * torrust-tracker (modern and feature-rich private BitTorrent tracker)
 * rqbit (bittorrent client in Rust)
@@ -141,6 +141,10 @@ uv add SQLAlchemy psycopg2
 * JAX;
 ```
 uv add jax
+```
+* Scapy;
+```
+uv add scapy
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
