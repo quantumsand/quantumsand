@@ -5418,7 +5418,8 @@ class QuantumsandLive
       "KhronosGroup/EGL-Registry",
       "gpuweb/cts",
       "nodejs/node-api-headers",
-      "nodejs/node-addon-api"
+      "nodejs/node-addon-api",
+      "gpuweb/gpuweb"
     ]
 
     @git_repos_chromium_googlesource = [
