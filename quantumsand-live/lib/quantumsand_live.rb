@@ -5412,7 +5412,8 @@ class QuantumsandLive
       "microsoft/DirectXShaderCompiler",
       "DileSoft/gfbuild-angle",
       "google/gfbuild-angle",
-      "secdev/scapy"
+      "secdev/scapy",
+      "LunarG/VulkanTools"
     ]
 
     @git_repos_chromium_googlesource = [
