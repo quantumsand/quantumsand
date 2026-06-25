@@ -5432,7 +5432,8 @@ class QuantumsandLive
       "pop-os/wireplumber",
       "pop-os/xdg-shell-wrapper",
       "pop-os/xdgen",
-      "pop-os/xkb-data"
+      "pop-os/xkb-data",
+      "pop-os/xorgproto"
     ]
 
     @git_repos_chromium_googlesource = [
