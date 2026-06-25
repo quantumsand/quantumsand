@@ -5420,7 +5420,8 @@ class QuantumsandLive
       "nodejs/node-api-headers",
       "nodejs/node-addon-api",
       "gpuweb/gpuweb",
-      "envoyproxy/envoy"
+      "envoyproxy/envoy",
+      "open-source-parsers/jsoncpp"
     ]
 
     @git_repos_chromium_googlesource = [
