@@ -5417,7 +5417,8 @@ class QuantumsandLive
       "KhronosGroup/Vulkan-ValidationLayers",
       "KhronosGroup/EGL-Registry",
       "gpuweb/cts",
-      "nodejs/node-api-headers"
+      "nodejs/node-api-headers",
+      "nodejs/node-addon-api"
     ]
 
     @git_repos_chromium_googlesource = [
