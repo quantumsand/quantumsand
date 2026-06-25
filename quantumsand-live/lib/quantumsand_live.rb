@@ -5457,7 +5457,8 @@ class QuantumsandLive
       "chromium/src/third_party/markupsafe",
       "chromium/src/third_party/zlib",
       "chromium/src/third_party/abseil-cpp",
-      "chromium/src/third_party/protobuf"
+      "chromium/src/third_party/protobuf",
+      "chromium/src/tools/protoc_wrapper"
     ]
 
     @git_repos_gn_googlesource = [
