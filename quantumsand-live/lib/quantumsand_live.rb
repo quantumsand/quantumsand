@@ -5450,7 +5450,8 @@ class QuantumsandLive
       "catapult",
       "chromium/src/third_party/jinja2",
       "chromium/src/third_party/markupsafe",
-      "chromium/src/third_party/zlib"
+      "chromium/src/third_party/zlib",
+      "chromium/src/third_party/abseil-cpp"
     ]
 
     @git_repos_gn_googlesource = [
