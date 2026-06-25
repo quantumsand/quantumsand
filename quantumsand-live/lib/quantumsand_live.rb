@@ -5416,7 +5416,8 @@ class QuantumsandLive
       "LunarG/VulkanTools",
       "KhronosGroup/Vulkan-ValidationLayers",
       "KhronosGroup/EGL-Registry",
-      "gpuweb/cts"
+      "gpuweb/cts",
+      "nodejs/node-api-headers"
     ]
 
     @git_repos_chromium_googlesource = [
