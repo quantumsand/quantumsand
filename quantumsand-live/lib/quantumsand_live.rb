@@ -5435,7 +5435,8 @@ class QuantumsandLive
       "pop-os/xkb-data",
       "pop-os/xorgproto",
       "pop-os/xwayland",
-      "pop-os/xz-utils"
+      "pop-os/xz-utils",
+      "pop-os/zfs-linux"
     ]
 
     @git_repos_chromium_googlesource = [
