@@ -5437,7 +5437,8 @@ class QuantumsandLive
       "pop-os/xwayland",
       "pop-os/xz-utils",
       "pop-os/zfs-linux",
-      "bitcoin-core/qa-assets"
+      "bitcoin-core/qa-assets",
+      "bitcoin-core/secp256k1"
     ]
 
     @git_repos_chromium_googlesource = [
