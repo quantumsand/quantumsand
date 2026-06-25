@@ -5427,7 +5427,8 @@ class QuantumsandLive
       "pop-os/window_clipboard",
       "hecrj/window_clipboard",
       "pop-os/whitespace-conf",
-      "google/graphicsfuzz"
+      "google/graphicsfuzz",
+      "pop-os/winit"
     ]
 
     @git_repos_chromium_googlesource = [
