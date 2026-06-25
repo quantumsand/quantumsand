@@ -5430,7 +5430,8 @@ class QuantumsandLive
       "google/graphicsfuzz",
       "pop-os/winit",
       "pop-os/wireplumber",
-      "pop-os/xdg-shell-wrapper"
+      "pop-os/xdg-shell-wrapper",
+      "pop-os/xdgen"
     ]
 
     @git_repos_chromium_googlesource = [
