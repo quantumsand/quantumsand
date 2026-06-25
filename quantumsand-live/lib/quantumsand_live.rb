@@ -5423,7 +5423,8 @@ class QuantumsandLive
       "envoyproxy/envoy",
       "open-source-parsers/jsoncpp",
       "google/langsvr",
-      "gfx-rs/naga"
+      "gfx-rs/naga",
+      "pop-os/window_clipboard"
     ]
 
     @git_repos_chromium_googlesource = [
