@@ -5433,7 +5433,8 @@ class QuantumsandLive
       "external/github.com/llvm/llvm-project/libcxx",
       "external/github.com/llvm/llvm-project/libcxxabi",
       "external/github.com/llvm/llvm-project/libc",
-      "chromiumos/third_party/libdrm"
+      "chromiumos/third_party/libdrm",
+      "chromium/src/build"
     ]
 
     @git_repos_gn_googlesource = [
