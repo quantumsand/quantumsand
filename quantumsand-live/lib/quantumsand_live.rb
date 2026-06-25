@@ -5428,7 +5428,8 @@ class QuantumsandLive
       "external/webrtc",
       "chromium/tools/depot_tools",
       "linux-syscall-support",
-      "chromium/src/buildtools"
+      "chromium/src/buildtools",
+      "external/github.com/llvm/llvm-project/clang/tools/clang-format"
     ]
 
     @git_repos_gn_googlesource = [
