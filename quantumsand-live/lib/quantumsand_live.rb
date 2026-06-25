@@ -5439,7 +5439,8 @@ class QuantumsandLive
       "pop-os/zfs-linux",
       "bitcoin-core/qa-assets",
       "bitcoin-core/secp256k1",
-      "bitcoin-core/univalue-subtree"
+      "bitcoin-core/univalue-subtree",
+      "jgarzik/univalue"
     ]
 
     @git_repos_chromium_googlesource = [
