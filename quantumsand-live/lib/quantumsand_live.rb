@@ -5438,7 +5438,8 @@ class QuantumsandLive
       "chromium/src/tools/clang",
       "chromium/src/tools/memory",
       "chromium/src/tools/valgrind",
-      "chromium/src/tools/win"
+      "chromium/src/tools/win",
+      "chromium/src/tools/code_coverage"
     ]
 
     @git_repos_gn_googlesource = [
