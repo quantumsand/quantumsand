@@ -8762,14 +8762,6 @@ class QuantumsandLive
       "dev-libs/capnproto"
     ]
 
-    gentoo_eselect_repository_add = {
-      cosmic_overlay: "https://github.com/fsvm88/cosmic-overlay.git"
-    }
-
-    gentoo_custom_overlay_emerge = [
-      "cosmic-meta pop-theme-meta"
-    ]
-
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
     QuantumsandLive::FormatDrive.drive_formatting(sudo_password)
 
