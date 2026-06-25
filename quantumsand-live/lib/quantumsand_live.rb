@@ -5419,7 +5419,8 @@ class QuantumsandLive
       "gpuweb/cts",
       "nodejs/node-api-headers",
       "nodejs/node-addon-api",
-      "gpuweb/gpuweb"
+      "gpuweb/gpuweb",
+      "envoyproxy/envoy"
     ]
 
     @git_repos_chromium_googlesource = [
