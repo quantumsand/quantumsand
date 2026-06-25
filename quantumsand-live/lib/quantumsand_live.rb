@@ -5436,7 +5436,8 @@ class QuantumsandLive
       "chromiumos/third_party/libdrm",
       "chromium/src/build",
       "chromium/src/tools/clang",
-      "chromium/src/tools/memory"
+      "chromium/src/tools/memory",
+      "chromium/src/tools/valgrind"
     ]
 
     @git_repos_gn_googlesource = [
