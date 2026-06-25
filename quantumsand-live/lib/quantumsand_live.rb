@@ -5422,7 +5422,8 @@ class QuantumsandLive
       "gpuweb/gpuweb",
       "envoyproxy/envoy",
       "open-source-parsers/jsoncpp",
-      "google/langsvr"
+      "google/langsvr",
+      "gfx-rs/naga"
     ]
 
     @git_repos_chromium_googlesource = [
