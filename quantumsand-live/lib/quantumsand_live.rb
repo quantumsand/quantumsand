@@ -5429,7 +5429,8 @@ class QuantumsandLive
       "chromium/tools/depot_tools",
       "linux-syscall-support",
       "chromium/src/buildtools",
-      "external/github.com/llvm/llvm-project/clang/tools/clang-format"
+      "external/github.com/llvm/llvm-project/clang/tools/clang-format",
+      "external/github.com/llvm/llvm-project/libcxx"
     ]
 
     @git_repos_gn_googlesource = [
