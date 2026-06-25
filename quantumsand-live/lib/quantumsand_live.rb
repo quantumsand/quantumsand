@@ -5427,7 +5427,8 @@ class QuantumsandLive
       "libyuv/libyuv",
       "external/webrtc",
       "chromium/tools/depot_tools",
-      "linux-syscall-support"
+      "linux-syscall-support",
+      "chromium/src/buildtools"
     ]
 
     @git_repos_gn_googlesource = [
