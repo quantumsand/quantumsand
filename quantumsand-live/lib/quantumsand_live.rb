@@ -5462,7 +5462,8 @@ class QuantumsandLive
       "rust-windowing/glutin",
       "rust-mobile/cargo-apk",
       "rust-mobile/rust-android-examples",
-      "rust-mobile/ndk"
+      "rust-mobile/ndk",
+      "rust-windowing/glutin_interface"
     ]
 
     @git_repos_chromium_googlesource = [
