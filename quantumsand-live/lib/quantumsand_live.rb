@@ -5450,7 +5450,8 @@ class QuantumsandLive
       "glmark2/glmark2",
       "KhronosGroup/OpenCL-CTS",
       "google/effcee",
-      "google/re2"
+      "google/re2",
+      "XiangpengHao/cxx-cmake-example"
     ]
 
     @git_repos_chromium_googlesource = [
