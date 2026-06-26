@@ -5452,7 +5452,8 @@ class QuantumsandLive
       "google/effcee",
       "google/re2",
       "XiangpengHao/cxx-cmake-example",
-      "david-cattermole/cxx-demo-example"
+      "david-cattermole/cxx-demo-example",
+      "trondhe/rusty_cmake"
     ]
 
     @git_repos_chromium_googlesource = [
