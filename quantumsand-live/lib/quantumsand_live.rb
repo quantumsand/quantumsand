@@ -5514,7 +5514,8 @@ class QuantumsandLive
       "chromium/src/third_party/six",
       "chromium/src/tools/android",
       "chromium/src/tools/md_browser",
-      "chromium/src/tools/perf"
+      "chromium/src/tools/perf",
+      "chromium/src/tools/python"
     ]
 
     @git_repos_gn_googlesource = [
