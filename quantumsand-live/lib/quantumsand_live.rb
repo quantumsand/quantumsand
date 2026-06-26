@@ -5487,7 +5487,8 @@ class QuantumsandLive
       "chromium/src/tools/protoc_wrapper",
       "chromium/src/base/allocator/partition_allocator",
       "chromium/src/third_party/android_build_tools",
-      "chromium/src/third_party/android_deps"
+      "chromium/src/third_party/android_deps",
+      "chromium/src/third_party/android_platform"
     ]
 
     @git_repos_gn_googlesource = [
