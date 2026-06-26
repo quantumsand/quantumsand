@@ -5451,7 +5451,8 @@ class QuantumsandLive
       "KhronosGroup/OpenCL-CTS",
       "google/effcee",
       "google/re2",
-      "XiangpengHao/cxx-cmake-example"
+      "XiangpengHao/cxx-cmake-example",
+      "david-cattermole/cxx-demo-example"
     ]
 
     @git_repos_chromium_googlesource = [
