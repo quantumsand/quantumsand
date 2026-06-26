@@ -5496,7 +5496,8 @@ class QuantumsandLive
       "chromium/src/third_party/ijar",
       "chromium/deps/libjpeg_turbo",
       "chromium/src/third_party/jsoncpp",
-      "external/github.com/llvm/llvm-project/libunwind"
+      "external/github.com/llvm/llvm-project/libunwind",
+      "external/github.com/Mesa3D/mesa"
     ]
 
     @git_repos_gn_googlesource = [
