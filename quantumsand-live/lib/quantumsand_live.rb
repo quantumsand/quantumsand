@@ -5457,7 +5457,8 @@ class QuantumsandLive
       "trondhe/rusty_cmake",
       "geekbrother/cxx-corrosion-cmake",
       "paandahl/cpp-with-rust",
-      "KhronosGroup/VK-GL-CTS"
+      "KhronosGroup/VK-GL-CTS",
+      "google/crubit"
     ]
 
     @git_repos_chromium_googlesource = [
