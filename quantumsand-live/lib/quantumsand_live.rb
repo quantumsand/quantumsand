@@ -5441,7 +5441,8 @@ class QuantumsandLive
       "bitcoin-core/secp256k1",
       "bitcoin-core/univalue-subtree",
       "jgarzik/univalue",
-      "rust-windowing/ctor-lite"
+      "rust-windowing/ctor-lite",
+      "rust-windowing/cursor-icon"
     ]
 
     @git_repos_chromium_googlesource = [
