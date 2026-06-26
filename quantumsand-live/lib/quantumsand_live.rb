@@ -5507,7 +5507,8 @@ class QuantumsandLive
       "external/github.com/llvm/llvm-project/libunwind",
       "external/github.com/Mesa3D/mesa",
       "chromium/deps/nasm",
-      "chromium/src/third_party/Python-Markdown"
+      "chromium/src/third_party/Python-Markdown",
+      "chromium/src/third_party/rust"
     ]
 
     @git_repos_gn_googlesource = [
