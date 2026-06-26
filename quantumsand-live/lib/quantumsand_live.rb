@@ -5493,7 +5493,8 @@ class QuantumsandLive
       "chromium/src/third_party/android_platform",
       "chromium/src/third_party/android_sdk",
       "external/colorama",
-      "chromium/src/third_party/ijar"
+      "chromium/src/third_party/ijar",
+      "chromium/deps/libjpeg_turbo"
     ]
 
     @git_repos_gn_googlesource = [
