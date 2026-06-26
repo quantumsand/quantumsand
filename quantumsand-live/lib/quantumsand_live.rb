@@ -5520,7 +5520,8 @@ class QuantumsandLive
 
     @git_repos_android_googlesource = [
       "platform/external/libldac",
-      "platform/external/cherry"
+      "platform/external/cherry",
+      "platform/external/libpng"
     ]
 
     @git_repos_dawn_googlesource = [
