@@ -5508,7 +5508,8 @@ class QuantumsandLive
       "external/github.com/Mesa3D/mesa",
       "chromium/deps/nasm",
       "chromium/src/third_party/Python-Markdown",
-      "chromium/src/third_party/rust"
+      "chromium/src/third_party/rust",
+      "chromium/src/third_party/six"
     ]
 
     @git_repos_gn_googlesource = [
