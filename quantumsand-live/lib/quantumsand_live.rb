@@ -5489,7 +5489,8 @@ class QuantumsandLive
       "chromium/src/third_party/android_build_tools",
       "chromium/src/third_party/android_deps",
       "chromium/src/third_party/android_platform",
-      "chromium/src/third_party/android_sdk"
+      "chromium/src/third_party/android_sdk",
+      "external/colorama"
     ]
 
     @git_repos_gn_googlesource = [
