@@ -40,7 +40,7 @@ This will include:
 * Keras 3 (Deep Learning for humans)
 * [JAX](/quantumsand-project-templates/quantumsand-project-templates-jax/)
 * [Scapy](/quantumsand-project-templates/quantumsand-project-templates-scapy/) (analyze network packets)
-* SymPy
+* [SymPy](/quantumsand-project-templates/quantumsand-project-templates-sympy/)
 * torrust-tracker (modern and feature-rich private BitTorrent tracker)
 * rqbit (bittorrent client in Rust)
 * Qiskit (for working with quantum computers)
@@ -147,6 +147,10 @@ uv add jax
 * Scapy;
 ```
 uv add scapy
+```
+* SymPy;
+```
+uv add sympy
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
