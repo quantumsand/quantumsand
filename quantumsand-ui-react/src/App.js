@@ -41,6 +41,7 @@ import NarrativeSync from "./pages/NarrativeSync/NarrativeSync";
 import Geospatial from "./pages/Geospatial/Geospatial";
 import Prompter from "./pages/Prompter/Prompter";
 import Survey from "./pages/Survey/Survey";
+import Ratiocination from "./pages/Ratiocination/Ratiocination";
 
 const mathsSlides = [
     {
@@ -127,6 +128,7 @@ function App() {
             <Route path="geospatial" element={<Geospatial />} />
             <Route path="prompter" element={<Prompter />} />
             <Route path="survey" element={<Survey />} />
+            <Route path="ratiocination" element={<Ratiocination />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>
