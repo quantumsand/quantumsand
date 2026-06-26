@@ -5485,7 +5485,8 @@ class QuantumsandLive
       "chromium/src/third_party/abseil-cpp",
       "chromium/src/third_party/protobuf",
       "chromium/src/tools/protoc_wrapper",
-      "chromium/src/base/allocator/partition_allocator"
+      "chromium/src/base/allocator/partition_allocator",
+      "chromium/src/third_party/android_build_tools"
     ]
 
     @git_repos_gn_googlesource = [
