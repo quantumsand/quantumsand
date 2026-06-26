@@ -5469,7 +5469,8 @@ class QuantumsandLive
       "rust-windowing/glutin_x11_sym",
       "rust-windowing/keyboard-types",
       "rust-windowing/raw-window-metal",
-      "rust-windowing/swbuf"
+      "rust-windowing/swbuf",
+      "rust-windowing/tiny-xlib"
     ]
 
     @git_repos_chromium_googlesource = [
