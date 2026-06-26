@@ -5449,7 +5449,8 @@ class QuantumsandLive
       "google/clspv",
       "glmark2/glmark2",
       "KhronosGroup/OpenCL-CTS",
-      "google/effcee"
+      "google/effcee",
+      "google/re2"
     ]
 
     @git_repos_chromium_googlesource = [
