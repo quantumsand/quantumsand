@@ -5511,7 +5511,8 @@ class QuantumsandLive
       "chromium/src/third_party/Python-Markdown",
       "chromium/src/third_party/rust",
       "chromium/src/third_party/six",
-      "chromium/src/tools/android"
+      "chromium/src/tools/android",
+      "chromium/src/tools/md_browser"
     ]
 
     @git_repos_gn_googlesource = [
