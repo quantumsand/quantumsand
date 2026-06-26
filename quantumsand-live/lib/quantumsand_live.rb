@@ -5446,7 +5446,8 @@ class QuantumsandLive
       "KhronosGroup/WebGLDeveloperTools",
       "KhronosGroup/WebGL",
       "rust-windowing/gl-rs",
-      "google/clspv"
+      "google/clspv",
+      "glmark2/glmark2"
     ]
 
     @git_repos_chromium_googlesource = [
