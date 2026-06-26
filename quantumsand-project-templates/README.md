@@ -31,6 +31,8 @@ This will include:
 * iroh-live (Real-time audio and video over iroh QUIC)
 * [RDKit](/quantumsand-project-templates/quantumsand-project-templates-rdkit/)
 * [scikit-learn](/quantumsand-project-templates/quantumsand-project-templates-scikit-learn/)
+* Python Optimal Transport
+* PyMC
 * [SciPy](/quantumsand-project-templates/quantumsand-project-templates-scipy/)
 * [tqdm](/quantumsand-project-templates/quantumsand-project-templates-tqdm/)
 * [Pillow](/quantumsand-project-templates/quantumsand-project-templates-pillow/)
