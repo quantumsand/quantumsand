@@ -5453,7 +5453,8 @@ class QuantumsandLive
       "google/re2",
       "XiangpengHao/cxx-cmake-example",
       "david-cattermole/cxx-demo-example",
-      "trondhe/rusty_cmake"
+      "trondhe/rusty_cmake",
+      "geekbrother/cxx-corrosion-cmake"
     ]
 
     @git_repos_chromium_googlesource = [
