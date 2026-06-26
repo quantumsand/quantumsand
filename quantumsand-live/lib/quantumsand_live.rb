@@ -5444,7 +5444,8 @@ class QuantumsandLive
       "rust-windowing/ctor-lite",
       "rust-windowing/cursor-icon",
       "KhronosGroup/WebGLDeveloperTools",
-      "KhronosGroup/WebGL"
+      "KhronosGroup/WebGL",
+      "rust-windowing/gl-rs"
     ]
 
     @git_repos_chromium_googlesource = [
