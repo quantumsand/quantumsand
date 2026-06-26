@@ -15,6 +15,7 @@ class QuantumsandLive
     @git_repos_android_googlesource_url = ENV.fetch("GIT_REPOS_ANDROID_GOOGLESOURCE_URL")
     @git_repos_dawn_googlesource_url = ENV.fetch("GIT_REPOS_DAWN_GOOGLESOURCE_URL")
     @git_repos_swiftshader_googlesource_url = ENV.fetch("GIT_REPOS_SWIFTSHADER_GOOGLESOURCE_URL")
+    @git_repos_gerrit_googlesource_url = ENV.fetch("GIT_REPOS_GERRIT_GOOGLESOURCE_URL")
     @git_repos_huggingface_co_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_URL")
     @git_repos_huggingface_co_dataset_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_DATASET_URL")
     @git_repos_libreoffice_org_url = ENV.fetch("GIT_REPOS_LIBREOFFICE_ORG_URL")
@@ -5549,6 +5550,10 @@ class QuantumsandLive
 
     @git_repos_swiftshader_googlesource = [
       "SwiftShader"
+    ]
+
+    @git_repos_gerrit_googlesource = [
+      "gitiles"
     ]
 
     @git_xet_hf_download_huggingface_co = [
