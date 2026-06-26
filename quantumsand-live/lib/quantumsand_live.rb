@@ -5443,7 +5443,8 @@ class QuantumsandLive
       "jgarzik/univalue",
       "rust-windowing/ctor-lite",
       "rust-windowing/cursor-icon",
-      "KhronosGroup/WebGLDeveloperTools"
+      "KhronosGroup/WebGLDeveloperTools",
+      "KhronosGroup/WebGL"
     ]
 
     @git_repos_chromium_googlesource = [
