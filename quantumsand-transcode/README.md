@@ -99,3 +99,8 @@ An example scenario using the command above;
 * Output video size is 10.02GB.
 * Video resolution is 1920x1080; 1080p.
 * Transcode time is approx 31m 37s.
+
+To create a video from an image and audio:
+```bash
+ffmpeg -loop 1 -i input.png -i input.wav -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -shortest output.mp4
+```
