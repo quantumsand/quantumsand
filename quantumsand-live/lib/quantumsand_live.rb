@@ -5607,7 +5607,8 @@ class QuantumsandLive
       "google/gemma-4-12B-it-assistant",
       "Ultralytics/YOLO26",
       "zai-org/GLM-5.2-FP8",
-      "zai-org/GLM-5.2"
+      "zai-org/GLM-5.2",
+      "zai-org/GLM-5.1"
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
