@@ -5470,7 +5470,8 @@ class QuantumsandLive
       "rust-windowing/keyboard-types",
       "rust-windowing/raw-window-metal",
       "rust-windowing/swbuf",
-      "rust-windowing/tiny-xlib"
+      "rust-windowing/tiny-xlib",
+      "pksunkara/cargo-workspaces"
     ]
 
     @git_repos_chromium_googlesource = [
