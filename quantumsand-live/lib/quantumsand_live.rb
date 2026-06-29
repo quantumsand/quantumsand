@@ -5532,7 +5532,8 @@ class QuantumsandLive
       "SFML/SFML",
       "rohdelab/PyTransKit",
       "Qiskit/qiskit-tutorials",
-      "Qiskit/qiskit-aer"
+      "Qiskit/qiskit-aer",
+      "qiskit-community/qiskit-algorithms"
     ]
 
     @git_repos_chromium_googlesource = [
