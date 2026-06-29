@@ -5527,7 +5527,8 @@ class QuantumsandLive
       "hoffstadt/DearPyGui",
       "cimgui/cimplot",
       "4bb4/implot-rs",
-      "JuliaImGui/ImPlot.jl"
+      "JuliaImGui/ImPlot.jl",
+      "e-dant/watcher"
     ]
 
     @git_repos_chromium_googlesource = [
