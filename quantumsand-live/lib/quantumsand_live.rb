@@ -5538,7 +5538,8 @@ class QuantumsandLive
       "cupy/cupy",
       "xarray-contrib/cupy-xarray",
       "awesome-spectral-indices/spyndex",
-      "sentinelsat/sentinelsat"
+      "sentinelsat/sentinelsat",
+      "mwaskom/seaborn-data"
     ]
 
     @git_repos_chromium_googlesource = [
