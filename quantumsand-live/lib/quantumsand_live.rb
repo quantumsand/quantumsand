@@ -5473,7 +5473,8 @@ class QuantumsandLive
       "rust-windowing/tiny-xlib",
       "pksunkara/cargo-workspaces",
       "localsend/localsend",
-      "rust-windowing/wayland-csd-frame"
+      "rust-windowing/wayland-csd-frame",
+      "compbiomed/singleCellTK"
     ]
 
     @git_repos_chromium_googlesource = [
