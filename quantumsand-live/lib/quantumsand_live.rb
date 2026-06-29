@@ -5523,7 +5523,8 @@ class QuantumsandLive
       "mgba-emu/suite",
       "randy408/libspng",
       "epezent/implot",
-      "brenocq/implot3d"
+      "brenocq/implot3d",
+      "hoffstadt/DearPyGui"
     ]
 
     @git_repos_chromium_googlesource = [
