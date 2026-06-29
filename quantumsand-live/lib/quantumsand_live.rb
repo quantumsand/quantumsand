@@ -5520,7 +5520,8 @@ class QuantumsandLive
       "fujitsu/xbyak_aarch64",
       "dolphin-emu/qsc",
       "mgba-emu/mgba",
-      "mgba-emu/suite"
+      "mgba-emu/suite",
+      "randy408/libspng"
     ]
 
     @git_repos_chromium_googlesource = [
