@@ -5501,7 +5501,8 @@ class QuantumsandLive
       "madsmtm/objc2-generated",
       "madsmtm/objc2",
       "gfx-rs/nv-flip-rs",
-      "NVlabs/flip"
+      "NVlabs/flip",
+      "gfx-rs/portability"
     ]
 
     @git_repos_chromium_googlesource = [
