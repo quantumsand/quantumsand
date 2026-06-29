@@ -5508,7 +5508,8 @@ class QuantumsandLive
       "suijingfeng/vkQuake3",
       "RPCS3/rpcs3",
       "RPCS3/rpcs3_translations",
-      "RPCS3/rsx-debugger"
+      "RPCS3/rsx-debugger",
+      "dolphin-emu/dolphin"
     ]
 
     @git_repos_chromium_googlesource = [
