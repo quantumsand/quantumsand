@@ -5502,7 +5502,8 @@ class QuantumsandLive
       "madsmtm/objc2",
       "gfx-rs/nv-flip-rs",
       "NVlabs/flip",
-      "gfx-rs/portability"
+      "gfx-rs/portability",
+      "Novum/vkQuake"
     ]
 
     @git_repos_chromium_googlesource = [
