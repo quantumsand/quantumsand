@@ -5537,7 +5537,8 @@ class QuantumsandLive
       "pydata/pandas-datareader",
       "cupy/cupy",
       "xarray-contrib/cupy-xarray",
-      "awesome-spectral-indices/spyndex"
+      "awesome-spectral-indices/spyndex",
+      "sentinelsat/sentinelsat"
     ]
 
     @git_repos_chromium_googlesource = [
