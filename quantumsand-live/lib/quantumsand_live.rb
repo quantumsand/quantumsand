@@ -5474,7 +5474,8 @@ class QuantumsandLive
       "pksunkara/cargo-workspaces",
       "localsend/localsend",
       "rust-windowing/wayland-csd-frame",
-      "compbiomed/singleCellTK"
+      "compbiomed/singleCellTK",
+      "Teichlab/sctk"
     ]
 
     @git_repos_chromium_googlesource = [
