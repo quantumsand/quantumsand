@@ -5533,7 +5533,8 @@ class QuantumsandLive
       "rohdelab/PyTransKit",
       "Qiskit/qiskit-tutorials",
       "Qiskit/qiskit-aer",
-      "qiskit-community/qiskit-algorithms"
+      "qiskit-community/qiskit-algorithms",
+      "pydata/pandas-datareader"
     ]
 
     @git_repos_chromium_googlesource = [
