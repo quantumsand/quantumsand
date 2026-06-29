@@ -5482,7 +5482,8 @@ class QuantumsandLive
       "rust-windowing/winit-next",
       "rust-windowing/winit-regtest",
       "rust-windowing/winit_types",
-      "rust-windowing/xkbcommon-dl"
+      "rust-windowing/xkbcommon-dl",
+      "Smithay/wayland-kbd"
     ]
 
     @git_repos_chromium_googlesource = [
