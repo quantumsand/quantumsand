@@ -5499,7 +5499,8 @@ class QuantumsandLive
       "gfx-rs/gfx_macros",
       "gfx-rs/gfx_scene",
       "madsmtm/objc2-generated",
-      "madsmtm/objc2"
+      "madsmtm/objc2",
+      "gfx-rs/nv-flip-rs"
     ]
 
     @git_repos_chromium_googlesource = [
