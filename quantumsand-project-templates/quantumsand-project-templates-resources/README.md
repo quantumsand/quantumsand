@@ -90,3 +90,15 @@ License: CC BY-SA 4.0
 ```
 License: CC BY-SA 4.0
 ```
+
+* penguins.csv
+```
+This csv file is from: https://github.com/mwaskom/seaborn-data
+And: https://github.com/allisonhorst/palmerpenguins
+
+Data Citation:
+Horst AM, Hill AP, Gorman KB (2020). palmerpenguins: Palmer Archipelago (Antarctica) penguin data. R package version 0.1.0. https://allisonhorst.github.io/palmerpenguins/. doi: 10.5281/zenodo.3960218.
+
+License:
+Data are available by CC-0 license in accordance with the Palmer Station LTER Data Policy and the LTER Data Access Policy for Type I data.
+```

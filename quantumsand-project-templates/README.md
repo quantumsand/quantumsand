@@ -49,7 +49,7 @@ This will include:
 * pySerial (Python serial port access library)
 * RuView (real-time spatial intelligence, vital sign monitoring, and presence detection)
 * xarray (multi-dimensional arrays, sometimes called tensors)
-* Seaborn (statistical data visualization)
+* [Seaborn](/quantumsand-project-templates/quantumsand-project-templates-seaborn/) (statistical data visualization)
 * Statsmodels (statistical modeling and econometrics)
 * Jekyll (blog-aware static site generator in Ruby)
 * Nx (multi-dimensional arrays and numerical definitions for Elixir)
@@ -150,6 +150,10 @@ uv add scapy
 * SymPy;
 ```
 uv add sympy
+```
+* Seaborn;
+```
+uv add seaborn
 ```
 * Creating a dedicated Jupyter kernel; add dev dependency `ipykernel`;
 ```bash
