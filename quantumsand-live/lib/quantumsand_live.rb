@@ -5478,7 +5478,8 @@ class QuantumsandLive
       "Teichlab/sctk",
       "mitsuaki1987/sctk",
       "usnistgov/SCTK",
-      "rust-windowing/winit-blit"
+      "rust-windowing/winit-blit",
+      "rust-windowing/winit-next"
     ]
 
     @git_repos_chromium_googlesource = [
