@@ -5475,7 +5475,8 @@ class QuantumsandLive
       "localsend/localsend",
       "rust-windowing/wayland-csd-frame",
       "compbiomed/singleCellTK",
-      "Teichlab/sctk"
+      "Teichlab/sctk",
+      "mitsuaki1987/sctk"
     ]
 
     @git_repos_chromium_googlesource = [
