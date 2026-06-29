@@ -5525,7 +5525,8 @@ class QuantumsandLive
       "epezent/implot",
       "brenocq/implot3d",
       "hoffstadt/DearPyGui",
-      "cimgui/cimplot"
+      "cimgui/cimplot",
+      "4bb4/implot-rs"
     ]
 
     @git_repos_chromium_googlesource = [
