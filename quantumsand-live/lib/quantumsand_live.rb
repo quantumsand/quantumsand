@@ -5506,7 +5506,8 @@ class QuantumsandLive
       "Novum/vkQuake",
       "kondrak/vkQuake2",
       "suijingfeng/vkQuake3",
-      "RPCS3/rpcs3"
+      "RPCS3/rpcs3",
+      "RPCS3/rpcs3_translations"
     ]
 
     @git_repos_chromium_googlesource = [
