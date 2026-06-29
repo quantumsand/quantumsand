@@ -5504,7 +5504,8 @@ class QuantumsandLive
       "NVlabs/flip",
       "gfx-rs/portability",
       "Novum/vkQuake",
-      "kondrak/vkQuake2"
+      "kondrak/vkQuake2",
+      "suijingfeng/vkQuake3"
     ]
 
     @git_repos_chromium_googlesource = [
