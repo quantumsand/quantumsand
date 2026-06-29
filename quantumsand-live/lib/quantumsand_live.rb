@@ -5530,7 +5530,8 @@ class QuantumsandLive
       "JuliaImGui/ImPlot.jl",
       "e-dant/watcher",
       "SFML/SFML",
-      "rohdelab/PyTransKit"
+      "rohdelab/PyTransKit",
+      "Qiskit/qiskit-tutorials"
     ]
 
     @git_repos_chromium_googlesource = [
