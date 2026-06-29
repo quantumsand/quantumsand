@@ -5528,7 +5528,8 @@ class QuantumsandLive
       "cimgui/cimplot",
       "4bb4/implot-rs",
       "JuliaImGui/ImPlot.jl",
-      "e-dant/watcher"
+      "e-dant/watcher",
+      "SFML/SFML"
     ]
 
     @git_repos_chromium_googlesource = [
