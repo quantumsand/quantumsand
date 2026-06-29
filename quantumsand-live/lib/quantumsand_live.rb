@@ -5540,7 +5540,8 @@ class QuantumsandLive
       "awesome-spectral-indices/spyndex",
       "sentinelsat/sentinelsat",
       "mwaskom/seaborn-data",
-      "allisonhorst/palmerpenguins"
+      "allisonhorst/palmerpenguins",
+      "AcademySoftwareFoundation/openapv"
     ]
 
     @git_repos_chromium_googlesource = [
