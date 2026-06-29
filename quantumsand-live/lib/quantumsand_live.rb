@@ -5487,7 +5487,8 @@ class QuantumsandLive
       "rust-windowing/xkeysym",
       "gfx-rs/cherry",
       "gfx-rs/ci-build",
-      "gfx-rs/d3d12-rs"
+      "gfx-rs/d3d12-rs",
+      "gfx-rs/draw_state"
     ]
 
     @git_repos_chromium_googlesource = [
