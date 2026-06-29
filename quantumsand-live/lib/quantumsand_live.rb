@@ -5484,7 +5484,8 @@ class QuantumsandLive
       "rust-windowing/winit_types",
       "rust-windowing/xkbcommon-dl",
       "Smithay/wayland-kbd",
-      "rust-windowing/xkeysym"
+      "rust-windowing/xkeysym",
+      "gfx-rs/cherry"
     ]
 
     @git_repos_chromium_googlesource = [
