@@ -5515,7 +5515,8 @@ class QuantumsandLive
       "cemu-project/Cemu",
       "dolphin-emu/bt-module-connector",
       "dolphin-emu/netplay-index",
-      "Exzap/ZArchive"
+      "Exzap/ZArchive",
+      "bkaradzic/metal-cpp"
     ]
 
     @git_repos_chromium_googlesource = [
