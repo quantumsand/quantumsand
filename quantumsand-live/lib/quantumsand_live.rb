@@ -5486,7 +5486,8 @@ class QuantumsandLive
       "Smithay/wayland-kbd",
       "rust-windowing/xkeysym",
       "gfx-rs/cherry",
-      "gfx-rs/ci-build"
+      "gfx-rs/ci-build",
+      "gfx-rs/d3d12-rs"
     ]
 
     @git_repos_chromium_googlesource = [
