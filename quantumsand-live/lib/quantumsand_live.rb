@@ -5476,7 +5476,8 @@ class QuantumsandLive
       "rust-windowing/wayland-csd-frame",
       "compbiomed/singleCellTK",
       "Teichlab/sctk",
-      "mitsuaki1987/sctk"
+      "mitsuaki1987/sctk",
+      "usnistgov/SCTK"
     ]
 
     @git_repos_chromium_googlesource = [
