@@ -5493,7 +5493,8 @@ class QuantumsandLive
       "gfx-rs/gfx",
       "gfx-rs/gfx-extras",
       "gfx-rs/gfx-memory",
-      "gfx-rs/gfx-ocean"
+      "gfx-rs/gfx-ocean",
+      "gfx-rs/gfx-render"
     ]
 
     @git_repos_chromium_googlesource = [
