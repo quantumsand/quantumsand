@@ -5516,7 +5516,8 @@ class QuantumsandLive
       "dolphin-emu/bt-module-connector",
       "dolphin-emu/netplay-index",
       "Exzap/ZArchive",
-      "bkaradzic/metal-cpp"
+      "bkaradzic/metal-cpp",
+      "fujitsu/xbyak_aarch64"
     ]
 
     @git_repos_chromium_googlesource = [
