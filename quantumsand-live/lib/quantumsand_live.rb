@@ -5477,7 +5477,8 @@ class QuantumsandLive
       "compbiomed/singleCellTK",
       "Teichlab/sctk",
       "mitsuaki1987/sctk",
-      "usnistgov/SCTK"
+      "usnistgov/SCTK",
+      "rust-windowing/winit-blit"
     ]
 
     @git_repos_chromium_googlesource = [
