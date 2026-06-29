@@ -5512,7 +5512,8 @@ class QuantumsandLive
       "dolphin-emu/dolphin",
       "dolphin-emu/fifoci",
       "dolphin-emu/hwtests",
-      "cemu-project/Cemu"
+      "cemu-project/Cemu",
+      "dolphin-emu/bt-module-connector"
     ]
 
     @git_repos_chromium_googlesource = [
