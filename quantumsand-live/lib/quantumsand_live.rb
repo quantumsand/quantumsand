@@ -5521,7 +5521,8 @@ class QuantumsandLive
       "dolphin-emu/qsc",
       "mgba-emu/mgba",
       "mgba-emu/suite",
-      "randy408/libspng"
+      "randy408/libspng",
+      "epezent/implot"
     ]
 
     @git_repos_chromium_googlesource = [
