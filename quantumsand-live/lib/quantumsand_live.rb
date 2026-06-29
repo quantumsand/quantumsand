@@ -5496,7 +5496,8 @@ class QuantumsandLive
       "gfx-rs/gfx-ocean",
       "gfx-rs/gfx-render",
       "gfx-rs/gfx_gl",
-      "gfx-rs/gfx_macros"
+      "gfx-rs/gfx_macros",
+      "gfx-rs/gfx_scene"
     ]
 
     @git_repos_chromium_googlesource = [
