@@ -5509,7 +5509,8 @@ class QuantumsandLive
       "RPCS3/rpcs3",
       "RPCS3/rpcs3_translations",
       "RPCS3/rsx-debugger",
-      "dolphin-emu/dolphin"
+      "dolphin-emu/dolphin",
+      "dolphin-emu/fifoci"
     ]
 
     @git_repos_chromium_googlesource = [
