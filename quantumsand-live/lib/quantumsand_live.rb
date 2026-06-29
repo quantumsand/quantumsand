@@ -5531,7 +5531,8 @@ class QuantumsandLive
       "e-dant/watcher",
       "SFML/SFML",
       "rohdelab/PyTransKit",
-      "Qiskit/qiskit-tutorials"
+      "Qiskit/qiskit-tutorials",
+      "Qiskit/qiskit-aer"
     ]
 
     @git_repos_chromium_googlesource = [
