@@ -5534,7 +5534,8 @@ class QuantumsandLive
       "Qiskit/qiskit-tutorials",
       "Qiskit/qiskit-aer",
       "qiskit-community/qiskit-algorithms",
-      "pydata/pandas-datareader"
+      "pydata/pandas-datareader",
+      "cupy/cupy"
     ]
 
     @git_repos_chromium_googlesource = [
