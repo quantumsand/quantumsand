@@ -45,7 +45,6 @@ This will include:
 * rqbit (bittorrent client in Rust)
 * Qiskit (for working with quantum computers)
 * RustFS (S3-compatible high-performance object storage)
-* rc (Rust S3 CLI client)
 * PyVISA (Python package to control measurement devices and test equipment)
 * pySerial (Python serial port access library)
 * RuView (real-time spatial intelligence, vital sign monitoring, and presence detection)
