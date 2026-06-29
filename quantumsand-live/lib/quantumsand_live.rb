@@ -5480,7 +5480,8 @@ class QuantumsandLive
       "usnistgov/SCTK",
       "rust-windowing/winit-blit",
       "rust-windowing/winit-next",
-      "rust-windowing/winit-regtest"
+      "rust-windowing/winit-regtest",
+      "rust-windowing/winit_types"
     ]
 
     @git_repos_chromium_googlesource = [
