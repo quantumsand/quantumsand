@@ -5489,7 +5489,8 @@ class QuantumsandLive
       "gfx-rs/ci-build",
       "gfx-rs/d3d12-rs",
       "gfx-rs/draw_state",
-      "gfx-rs/genmesh"
+      "gfx-rs/genmesh",
+      "gfx-rs/gfx"
     ]
 
     @git_repos_chromium_googlesource = [
