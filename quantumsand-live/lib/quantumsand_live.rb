@@ -5518,7 +5518,8 @@ class QuantumsandLive
       "Exzap/ZArchive",
       "bkaradzic/metal-cpp",
       "fujitsu/xbyak_aarch64",
-      "dolphin-emu/qsc"
+      "dolphin-emu/qsc",
+      "mgba-emu/mgba"
     ]
 
     @git_repos_chromium_googlesource = [
