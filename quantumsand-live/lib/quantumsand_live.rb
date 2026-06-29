@@ -5471,7 +5471,8 @@ class QuantumsandLive
       "rust-windowing/raw-window-metal",
       "rust-windowing/swbuf",
       "rust-windowing/tiny-xlib",
-      "pksunkara/cargo-workspaces"
+      "pksunkara/cargo-workspaces",
+      "localsend/localsend"
     ]
 
     @git_repos_chromium_googlesource = [
