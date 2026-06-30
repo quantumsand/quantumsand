@@ -221,7 +221,7 @@ export default function Grains() {
               aria-controls="charts-matplotlib-content"
               id="charts-matplotlib-header"
             >
-              <Typography component="span">Charts (Matplotlib)</Typography>
+              <Typography component="span">Charts (Python; Matplotlib, Seaborn)</Typography>
             </AccordionSummary>
             <AccordionDetails>
               <Typography>
