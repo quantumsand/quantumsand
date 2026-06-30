@@ -218,8 +218,8 @@ export default function Grains() {
           <Accordion>
             <AccordionSummary
               expandIcon={<ExpandMoreIcon />}
-              aria-controls="charts-matplotlib-content"
-              id="charts-matplotlib-header"
+              aria-controls="charts-python-content"
+              id="charts-python-header"
             >
               <Typography component="span">Charts (Python; Matplotlib, Seaborn)</Typography>
             </AccordionSummary>
