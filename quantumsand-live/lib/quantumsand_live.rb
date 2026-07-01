@@ -5572,7 +5572,8 @@ class QuantumsandLive
       "blyxxyz/lexopt",
       "matklad/xflags",
       "rosetta-rs/argparse-rosetta-rs",
-      "linebender/simplecss"
+      "linebender/simplecss",
+      "gfx-rs/range-alloc"
     ]
 
     @git_repos_chromium_googlesource = [
