@@ -5556,7 +5556,8 @@ class QuantumsandLive
       "nih-at/libzip",
       "veracrypt/VeraCrypt",
       "veracrypt/VeraCrypt-DCS",
-      "mgba-emu/dependencies"
+      "mgba-emu/dependencies",
+      "mgba-emu/gbdoc"
     ]
 
     @git_repos_chromium_googlesource = [
