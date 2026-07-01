@@ -13,6 +13,7 @@ This means that development of each component can be done on all three of these 
 * Install wget; `brew install wget`
 * Install htop; `brew install htop`
 * Install tcpdump; `brew install tcpdump`
+* Install root; `brew install root`
 * Install FFmpeg; `brew install ffmpeg`
 * Install audiowaveform;  `brew install audiowaveform`
 * Install RabbitMQ; `brew install rabbitmq`
