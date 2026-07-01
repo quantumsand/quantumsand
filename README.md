@@ -46,6 +46,16 @@ Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue
 
 * [Biochemistry](quantumsand-story/0009.biochemistry/0001.introduction-to-biochemistry.md)
 
+## Decentralised peer-to-peer syncing
+
+Quantum Sand Grains are stored within git repositories. The Quantum Sand P2P Git Sync allows for decentralised peer-to-peer syncing of Quantum Sand Grains and associated deps.
+
+This means that the resources themselves are automatically mirrored across all other nodes.
+
+Additionally, with the cryptographic proof offered by git Merkle trees.
+
+Therefore, if a USB stick or SSD drive fails, it will have zero impact, because everything is automatically backed up across all other nodes.
+
 ## Live USB stick; STEM programme for Women and Girls
 
 Quantum Sand can be distributed via a Live USB stick. This should help women and girls who are banned from education due to extreme interpretations of various religions. This will turn into the Quantum Sand STEM programme for Women and Girls.
