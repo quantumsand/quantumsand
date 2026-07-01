@@ -5559,7 +5559,8 @@ class QuantumsandLive
       "mgba-emu/dependencies",
       "mgba-emu/gbdoc",
       "harfbuzz/rustybuzz",
-      "harfbuzz/ttf-parser"
+      "harfbuzz/ttf-parser",
+      "mooman219/fontdue"
     ]
 
     @git_repos_chromium_googlesource = [
