@@ -5553,7 +5553,8 @@ class QuantumsandLive
       "microsoft/wil",
       "mgba-emu/libepoxy",
       "LuaJIT/LuaJIT",
-      "nih-at/libzip"
+      "nih-at/libzip",
+      "veracrypt/VeraCrypt"
     ]
 
     @git_repos_chromium_googlesource = [
