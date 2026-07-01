@@ -5575,7 +5575,8 @@ class QuantumsandLive
       "linebender/simplecss",
       "gfx-rs/range-alloc",
       "gfx-rs/rspirv",
-      "gfx-rs/SPIRV-Cross-Minimal"
+      "gfx-rs/SPIRV-Cross-Minimal",
+      "gfx-rs/subscriber"
     ]
 
     @git_repos_chromium_googlesource = [
