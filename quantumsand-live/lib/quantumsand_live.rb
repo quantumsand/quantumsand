@@ -5552,7 +5552,8 @@ class QuantumsandLive
       "weisslj/cpp-optparse",
       "microsoft/wil",
       "mgba-emu/libepoxy",
-      "LuaJIT/LuaJIT"
+      "LuaJIT/LuaJIT",
+      "nih-at/libzip"
     ]
 
     @git_repos_chromium_googlesource = [
