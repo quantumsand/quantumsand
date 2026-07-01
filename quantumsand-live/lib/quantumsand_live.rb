@@ -8583,7 +8583,8 @@ class QuantumsandLive
 
     @git_repos_salsa_debian_org = [
       "bod/help2man",
-      "iso-codes-team/iso-codes"
+      "iso-codes-team/iso-codes",
+      "debian/libedit"
     ]
 
     @git_repos_gentoo_org = [
