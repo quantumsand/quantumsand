@@ -5546,7 +5546,8 @@ class QuantumsandLive
       "yhirose/cpp-unicodelib",
       "Tehreer/SheenBidi",
       "phoboslab/qoi",
-      "piscisaureus/wepoll"
+      "piscisaureus/wepoll",
+      "libssh2/libssh2"
     ]
 
     @git_repos_chromium_googlesource = [
