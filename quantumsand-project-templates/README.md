@@ -57,6 +57,7 @@ This will include:
 * PyO3 (Rust bindings for Python)
 * ROOT (processing and scientific analysis of large amounts of data)
 * mapnik (pixel-perfect image output with lightning-fast cartographic algorithms)
+* [Reqwest](/quantumsand-project-templates/quantumsand-project-templates-reqwest/) (Rust HTTP Client)
 
 More to follow.
 
