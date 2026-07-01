@@ -5547,7 +5547,8 @@ class QuantumsandLive
       "Tehreer/SheenBidi",
       "phoboslab/qoi",
       "piscisaureus/wepoll",
-      "libssh2/libssh2"
+      "libssh2/libssh2",
+      "mutouyun/cpp-ipc"
     ]
 
     @git_repos_chromium_googlesource = [
