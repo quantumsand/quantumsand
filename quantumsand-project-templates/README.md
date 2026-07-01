@@ -193,4 +193,31 @@ else:
 ```
 * This should output the following text: `tensor([1.], device='mps:0')`
 
+### Rust notebooks and dependencies
+
+* Install the EvCxR kernel; `cargo install --locked evcxr_jupyter`
+
+You should see the following message:
+```
+Finished `release` profile [optimized] target(s) in 50.60s
+Installing /Users/your-user-name/.cargo/bin/evcxr_jupyter
+Installed package `evcxr_jupyter v0.21.1` (executable `evcxr_jupyter`)
+```
+
+* Register the kernel with Jupyter; `evcxr_jupyter --install`
+
+You should see the following message:
+```
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/kernel.json
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/logo-32x32.png
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/logo-64x64.png
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/logo-LICENSE.md
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/kernel.js
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/lint.js
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/lint.css
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/lint-LICENSE
+Writing /Users/your-user-name/Library/Jupyter/kernels/rust/version.txt
+Installation complete
+```
+
 More to follow...
