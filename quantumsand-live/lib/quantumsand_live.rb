@@ -6994,7 +6994,8 @@ class QuantumsandLive
     ]
 
     @git_repos_bitbucket_org = [
-      "alekseyt/nunicode"
+      "alekseyt/nunicode",
+      "multicoreware/x265_git"
     ]
 
     @git_repos_einval_com = [
