@@ -5567,7 +5567,8 @@ class QuantumsandLive
       "RazrFalcon/pico-args",
       "google/argh",
       "pacak/bpaf",
-      "clap-rs/clap"
+      "clap-rs/clap",
+      "murarth/gumdrop"
     ]
 
     @git_repos_chromium_googlesource = [
