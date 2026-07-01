@@ -7763,7 +7763,8 @@ class QuantumsandLive
       "emersion/libscfg",
       "emersion/scfg",
       "emersion/go-scfg",
-      "terenc3/blanket-web"
+      "terenc3/blanket-web",
+      "adamreichold/serde-roxmltree"
     ]
 
     @git_repos_kde_invent = [
