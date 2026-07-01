@@ -5568,7 +5568,8 @@ class QuantumsandLive
       "google/argh",
       "pacak/bpaf",
       "clap-rs/clap",
-      "murarth/gumdrop"
+      "murarth/gumdrop",
+      "blyxxyz/lexopt"
     ]
 
     @git_repos_chromium_googlesource = [
