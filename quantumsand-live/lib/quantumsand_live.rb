@@ -5545,7 +5545,8 @@ class QuantumsandLive
       "mackron/dr_libs",
       "yhirose/cpp-unicodelib",
       "Tehreer/SheenBidi",
-      "phoboslab/qoi"
+      "phoboslab/qoi",
+      "piscisaureus/wepoll"
     ]
 
     @git_repos_chromium_googlesource = [
