@@ -5541,7 +5541,8 @@ class QuantumsandLive
       "sentinelsat/sentinelsat",
       "mwaskom/seaborn-data",
       "allisonhorst/palmerpenguins",
-      "AcademySoftwareFoundation/openapv"
+      "AcademySoftwareFoundation/openapv",
+      "mackron/dr_libs"
     ]
 
     @git_repos_chromium_googlesource = [
