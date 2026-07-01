@@ -5549,7 +5549,8 @@ class QuantumsandLive
       "piscisaureus/wepoll",
       "libssh2/libssh2",
       "mutouyun/cpp-ipc",
-      "weisslj/cpp-optparse"
+      "weisslj/cpp-optparse",
+      "microsoft/wil"
     ]
 
     @git_repos_chromium_googlesource = [
