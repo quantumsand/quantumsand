@@ -5548,7 +5548,8 @@ class QuantumsandLive
       "phoboslab/qoi",
       "piscisaureus/wepoll",
       "libssh2/libssh2",
-      "mutouyun/cpp-ipc"
+      "mutouyun/cpp-ipc",
+      "weisslj/cpp-optparse"
     ]
 
     @git_repos_chromium_googlesource = [
