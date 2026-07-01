@@ -5558,7 +5558,8 @@ class QuantumsandLive
       "veracrypt/VeraCrypt-DCS",
       "mgba-emu/dependencies",
       "mgba-emu/gbdoc",
-      "harfbuzz/rustybuzz"
+      "harfbuzz/rustybuzz",
+      "harfbuzz/ttf-parser"
     ]
 
     @git_repos_chromium_googlesource = [
