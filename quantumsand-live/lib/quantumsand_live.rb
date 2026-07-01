@@ -5579,7 +5579,8 @@ class QuantumsandLive
       "gfx-rs/subscriber",
       "gfx-rs/wanari",
       "rust-lang/a-mir-formality",
-      "rust-lang/annotate-snippets-rs"
+      "rust-lang/annotate-snippets-rs",
+      "rust-lang/api-guidelines"
     ]
 
     @git_repos_chromium_googlesource = [
