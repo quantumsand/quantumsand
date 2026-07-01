@@ -5565,7 +5565,8 @@ class QuantumsandLive
       "RazrFalcon/roxmltree",
       "KWARC/rust-libxml",
       "RazrFalcon/pico-args",
-      "google/argh"
+      "google/argh",
+      "pacak/bpaf"
     ]
 
     @git_repos_chromium_googlesource = [
