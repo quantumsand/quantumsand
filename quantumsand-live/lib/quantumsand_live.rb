@@ -5576,7 +5576,8 @@ class QuantumsandLive
       "gfx-rs/range-alloc",
       "gfx-rs/rspirv",
       "gfx-rs/SPIRV-Cross-Minimal",
-      "gfx-rs/subscriber"
+      "gfx-rs/subscriber",
+      "gfx-rs/wanari"
     ]
 
     @git_repos_chromium_googlesource = [
