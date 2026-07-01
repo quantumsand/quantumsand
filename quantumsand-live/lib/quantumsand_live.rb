@@ -5550,7 +5550,8 @@ class QuantumsandLive
       "libssh2/libssh2",
       "mutouyun/cpp-ipc",
       "weisslj/cpp-optparse",
-      "microsoft/wil"
+      "microsoft/wil",
+      "mgba-emu/libepoxy"
     ]
 
     @git_repos_chromium_googlesource = [
