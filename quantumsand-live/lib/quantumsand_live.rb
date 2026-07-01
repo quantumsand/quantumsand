@@ -5563,7 +5563,8 @@ class QuantumsandLive
       "mooman219/fontdue",
       "RazrFalcon/fontdb",
       "RazrFalcon/roxmltree",
-      "KWARC/rust-libxml"
+      "KWARC/rust-libxml",
+      "RazrFalcon/pico-args"
     ]
 
     @git_repos_chromium_googlesource = [
