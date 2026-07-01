@@ -5542,7 +5542,8 @@ class QuantumsandLive
       "mwaskom/seaborn-data",
       "allisonhorst/palmerpenguins",
       "AcademySoftwareFoundation/openapv",
-      "mackron/dr_libs"
+      "mackron/dr_libs",
+      "yhirose/cpp-unicodelib"
     ]
 
     @git_repos_chromium_googlesource = [
