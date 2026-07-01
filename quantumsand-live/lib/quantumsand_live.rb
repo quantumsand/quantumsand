@@ -5562,7 +5562,8 @@ class QuantumsandLive
       "harfbuzz/ttf-parser",
       "mooman219/fontdue",
       "RazrFalcon/fontdb",
-      "RazrFalcon/roxmltree"
+      "RazrFalcon/roxmltree",
+      "KWARC/rust-libxml"
     ]
 
     @git_repos_chromium_googlesource = [
