@@ -5588,7 +5588,8 @@ class QuantumsandLive
       "rust-lang/async-fundamentals-initiative",
       "rust-lang/atom-ide-rust",
       "rust-lang/rust-analyzer",
-      "rust-lang/backtrace-rs"
+      "rust-lang/backtrace-rs",
+      "LaurentMazare/ocaml-torch"
     ]
 
     @git_repos_chromium_googlesource = [
