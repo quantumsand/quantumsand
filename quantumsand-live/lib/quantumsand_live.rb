@@ -6651,7 +6651,8 @@ class QuantumsandLive
       "mobian1/phog",
       "mufeedali/Komikku",
       "qworld/bronze-qiskit",
-      "bzip2/bzip2-testfiles"
+      "bzip2/bzip2-testfiles",
+      "bzip2/bzip2"
     ]
 
     @git_repos_freedesktop_gitlab = [
