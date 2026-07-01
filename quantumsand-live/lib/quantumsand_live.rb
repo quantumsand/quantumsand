@@ -5587,7 +5587,8 @@ class QuantumsandLive
       "rust-lang/async-crashdump-debugging-initiative",
       "rust-lang/async-fundamentals-initiative",
       "rust-lang/atom-ide-rust",
-      "rust-lang/rust-analyzer"
+      "rust-lang/rust-analyzer",
+      "rust-lang/backtrace-rs"
     ]
 
     @git_repos_chromium_googlesource = [
