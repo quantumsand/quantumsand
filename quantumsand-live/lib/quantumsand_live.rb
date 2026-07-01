@@ -5543,7 +5543,8 @@ class QuantumsandLive
       "allisonhorst/palmerpenguins",
       "AcademySoftwareFoundation/openapv",
       "mackron/dr_libs",
-      "yhirose/cpp-unicodelib"
+      "yhirose/cpp-unicodelib",
+      "Tehreer/SheenBidi"
     ]
 
     @git_repos_chromium_googlesource = [
