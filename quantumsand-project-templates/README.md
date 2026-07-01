@@ -27,7 +27,6 @@ This will include:
 * tch-rs (Rust bindings for the C++ api of PyTorch)
 * [Ultralytics](/quantumsand-project-templates/quantumsand-project-templates-ultralytics/)
 * tuitar (A portable guitar training tool & DIY kit)
-* misykat (Prayer times)
 * iroh-live (Real-time audio and video over iroh QUIC)
 * [RDKit](/quantumsand-project-templates/quantumsand-project-templates-rdkit/)
 * [scikit-learn](/quantumsand-project-templates/quantumsand-project-templates-scikit-learn/)
