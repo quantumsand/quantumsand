@@ -5574,7 +5574,8 @@ class QuantumsandLive
       "rosetta-rs/argparse-rosetta-rs",
       "linebender/simplecss",
       "gfx-rs/range-alloc",
-      "gfx-rs/rspirv"
+      "gfx-rs/rspirv",
+      "gfx-rs/SPIRV-Cross-Minimal"
     ]
 
     @git_repos_chromium_googlesource = [
