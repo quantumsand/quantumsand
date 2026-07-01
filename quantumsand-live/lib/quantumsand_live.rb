@@ -5573,7 +5573,8 @@ class QuantumsandLive
       "matklad/xflags",
       "rosetta-rs/argparse-rosetta-rs",
       "linebender/simplecss",
-      "gfx-rs/range-alloc"
+      "gfx-rs/range-alloc",
+      "gfx-rs/rspirv"
     ]
 
     @git_repos_chromium_googlesource = [
