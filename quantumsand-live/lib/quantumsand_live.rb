@@ -5570,7 +5570,8 @@ class QuantumsandLive
       "clap-rs/clap",
       "murarth/gumdrop",
       "blyxxyz/lexopt",
-      "matklad/xflags"
+      "matklad/xflags",
+      "rosetta-rs/argparse-rosetta-rs"
     ]
 
     @git_repos_chromium_googlesource = [
