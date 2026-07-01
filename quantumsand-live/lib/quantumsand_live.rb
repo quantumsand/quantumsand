@@ -5578,7 +5578,8 @@ class QuantumsandLive
       "gfx-rs/SPIRV-Cross-Minimal",
       "gfx-rs/subscriber",
       "gfx-rs/wanari",
-      "rust-lang/a-mir-formality"
+      "rust-lang/a-mir-formality",
+      "rust-lang/annotate-snippets-rs"
     ]
 
     @git_repos_chromium_googlesource = [
