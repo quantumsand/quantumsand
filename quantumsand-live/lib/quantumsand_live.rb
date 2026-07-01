@@ -6650,7 +6650,8 @@ class QuantumsandLive
       "desktop-frameworks/login1",
       "mobian1/phog",
       "mufeedali/Komikku",
-      "qworld/bronze-qiskit"
+      "qworld/bronze-qiskit",
+      "bzip2/bzip2-testfiles"
     ]
 
     @git_repos_freedesktop_gitlab = [
