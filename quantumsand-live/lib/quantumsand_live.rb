@@ -5571,7 +5571,8 @@ class QuantumsandLive
       "murarth/gumdrop",
       "blyxxyz/lexopt",
       "matklad/xflags",
-      "rosetta-rs/argparse-rosetta-rs"
+      "rosetta-rs/argparse-rosetta-rs",
+      "linebender/simplecss"
     ]
 
     @git_repos_chromium_googlesource = [
