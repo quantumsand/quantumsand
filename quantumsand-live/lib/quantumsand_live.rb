@@ -5584,7 +5584,8 @@ class QuantumsandLive
       "rust-lang/ar_archive_writer",
       "rust-lang/async-book",
       "rust-lang/mdBook",
-      "rust-lang/async-crashdump-debugging-initiative"
+      "rust-lang/async-crashdump-debugging-initiative",
+      "rust-lang/async-fundamentals-initiative"
     ]
 
     @git_repos_chromium_googlesource = [
