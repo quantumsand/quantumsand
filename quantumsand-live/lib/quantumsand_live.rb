@@ -5551,7 +5551,8 @@ class QuantumsandLive
       "mutouyun/cpp-ipc",
       "weisslj/cpp-optparse",
       "microsoft/wil",
-      "mgba-emu/libepoxy"
+      "mgba-emu/libepoxy",
+      "LuaJIT/LuaJIT"
     ]
 
     @git_repos_chromium_googlesource = [
