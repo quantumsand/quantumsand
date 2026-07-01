@@ -5544,7 +5544,8 @@ class QuantumsandLive
       "AcademySoftwareFoundation/openapv",
       "mackron/dr_libs",
       "yhirose/cpp-unicodelib",
-      "Tehreer/SheenBidi"
+      "Tehreer/SheenBidi",
+      "phoboslab/qoi"
     ]
 
     @git_repos_chromium_googlesource = [
