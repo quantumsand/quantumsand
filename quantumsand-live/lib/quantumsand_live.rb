@@ -5586,7 +5586,8 @@ class QuantumsandLive
       "rust-lang/mdBook",
       "rust-lang/async-crashdump-debugging-initiative",
       "rust-lang/async-fundamentals-initiative",
-      "rust-lang/atom-ide-rust"
+      "rust-lang/atom-ide-rust",
+      "rust-lang/rust-analyzer"
     ]
 
     @git_repos_chromium_googlesource = [
