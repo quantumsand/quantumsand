@@ -5621,7 +5621,8 @@ class QuantumsandLive
       "erincatto/box3d",
       "rust-lang/const-eval",
       "rust-lang/core-team",
-      "rust-lang/crabwatch"
+      "rust-lang/crabwatch",
+      "rust-lang/crater"
     ]
 
     @git_repos_chromium_googlesource = [
