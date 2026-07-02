@@ -5623,7 +5623,8 @@ class QuantumsandLive
       "rust-lang/core-team",
       "rust-lang/crabwatch",
       "rust-lang/crater",
-      "rust-lang/crates-build-env"
+      "rust-lang/crates-build-env",
+      "rust-lang/crates-io-ops-bot"
     ]
 
     @git_repos_chromium_googlesource = [
