@@ -5615,7 +5615,8 @@ class QuantumsandLive
       "rust-lang/edition-guide",
       "rust-embedded/book",
       "rust-lang/rustc-perf",
-      "rust-lang/enzyme"
+      "rust-lang/enzyme",
+      "EnzymeAD/Enzyme"
     ]
 
     @git_repos_chromium_googlesource = [
