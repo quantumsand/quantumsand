@@ -5594,7 +5594,8 @@ class QuantumsandLive
       "rust-lang/beyond-refs",
       "rust-lang/book",
       "rust-lang/bors",
-      "rust-lang/homu"
+      "rust-lang/homu",
+      "rust-lang/bors-kindergarten"
     ]
 
     @git_repos_chromium_googlesource = [
