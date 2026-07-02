@@ -5631,7 +5631,8 @@ class QuantumsandLive
       "mozilla/Fira",
       "rust-lang/ctcft",
       "rust-lang/datafrog",
-      "rust-lang/docker-rust"
+      "rust-lang/docker-rust",
+      "rust-lang/docker-rust-nightly"
     ]
 
     @git_repos_chromium_googlesource = [
