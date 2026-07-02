@@ -5613,7 +5613,8 @@ class QuantumsandLive
       "pry/pry",
       "qmlcode/qmllib",
       "rust-lang/edition-guide",
-      "rust-embedded/book"
+      "rust-embedded/book",
+      "rust-lang/rustc-perf"
     ]
 
     @git_repos_chromium_googlesource = [
