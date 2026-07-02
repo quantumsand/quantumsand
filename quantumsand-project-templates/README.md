@@ -6,6 +6,10 @@ These project templates are dual-licensed under the MIT License and Apache Licen
 
 This will include:
 
+* C++ with Qt (including Qml)
+* Bevy (Rust game engine)
+* React (front-end JavaScript library)
+* Phoenix (web framework for Elixir)
 * [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
 * [TensorFlow](/quantumsand-project-templates/quantumsand-project-templates-tensorflow/)
 * [pydicom](/quantumsand-project-templates/quantumsand-project-templates-pydicom/)
