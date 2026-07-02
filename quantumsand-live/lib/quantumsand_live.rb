@@ -5589,7 +5589,8 @@ class QuantumsandLive
       "rust-lang/atom-ide-rust",
       "rust-lang/rust-analyzer",
       "rust-lang/backtrace-rs",
-      "LaurentMazare/ocaml-torch"
+      "LaurentMazare/ocaml-torch",
+      "fennaraOfficial/fennara-godot-ai"
     ]
 
     @git_repos_chromium_googlesource = [
