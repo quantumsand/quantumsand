@@ -5697,7 +5697,8 @@ class QuantumsandLive
       "chromium/src/tools/perf",
       "chromium/src/tools/python",
       "chromium/src/tools/rust",
-      "external/github.com/google/lldb-eval"
+      "external/github.com/google/lldb-eval",
+      "deps/inspector_protocol"
     ]
 
     @git_repos_gn_googlesource = [
