@@ -8989,7 +8989,8 @@ class QuantumsandLive
       "net-libs/zeromq",
       "dev-build/cmake",
       "dev-libs/capnproto",
-      "dev-lang/luajit"
+      "dev-lang/luajit",
+      "media-fonts/noto-cjk"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
