@@ -5611,7 +5611,8 @@ class QuantumsandLive
       "rust-lang/rust-by-example",
       "chuckremes/ffi-rzmq",
       "pry/pry",
-      "qmlcode/qmllib"
+      "qmlcode/qmllib",
+      "rust-lang/edition-guide"
     ]
 
     @git_repos_chromium_googlesource = [
