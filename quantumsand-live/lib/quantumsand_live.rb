@@ -5633,7 +5633,8 @@ class QuantumsandLive
       "rust-lang/datafrog",
       "rust-lang/docker-rust",
       "rust-lang/docker-rust-nightly",
-      "rust-lang/docs.rs"
+      "rust-lang/docs.rs",
+      "GuillaumeGomez/browser-UI-test"
     ]
 
     @git_repos_chromium_googlesource = [
