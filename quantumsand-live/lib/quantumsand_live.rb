@@ -5617,7 +5617,8 @@ class QuantumsandLive
       "rust-lang/rustc-perf",
       "rust-lang/enzyme",
       "EnzymeAD/Enzyme",
-      "rust-lang/gcc"
+      "rust-lang/gcc",
+      "erincatto/box3d"
     ]
 
     @git_repos_chromium_googlesource = [
