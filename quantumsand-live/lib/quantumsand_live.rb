@@ -5596,7 +5596,8 @@ class QuantumsandLive
       "rust-lang/bors",
       "rust-lang/homu",
       "rust-lang/bors-kindergarten",
-      "rust-lang/calendar"
+      "rust-lang/calendar",
+      "rust-lang/calendar-generation"
     ]
 
     @git_repos_chromium_googlesource = [
