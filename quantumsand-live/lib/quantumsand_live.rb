@@ -5601,7 +5601,8 @@ class QuantumsandLive
       "rust-lang/cargo-bisect-rustc",
       "rust-lang/cc-rs",
       "rust-lang/cfg-if",
-      "rust-lang/chalk"
+      "rust-lang/chalk",
+      "rust-lang/ci-mirrors"
     ]
 
     @git_repos_chromium_googlesource = [
