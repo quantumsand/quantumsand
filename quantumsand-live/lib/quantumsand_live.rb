@@ -5609,7 +5609,8 @@ class QuantumsandLive
       "rust-lang/nomicon",
       "rust-lang/reference",
       "rust-lang/rust-by-example",
-      "chuckremes/ffi-rzmq"
+      "chuckremes/ffi-rzmq",
+      "pry/pry"
     ]
 
     @git_repos_chromium_googlesource = [
