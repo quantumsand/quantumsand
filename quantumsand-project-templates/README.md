@@ -220,4 +220,12 @@ Writing /Users/your-user-name/Library/Jupyter/kernels/rust/version.txt
 Installation complete
 ```
 
+### Ruby notebooks and dependencies
+
+TODO.
+
+### Elixir/Erlang Livebook notebooks and dependencies
+
+TODO.
+
 More to follow...
