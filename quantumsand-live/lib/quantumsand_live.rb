@@ -5637,7 +5637,8 @@ class QuantumsandLive
       "GuillaumeGomez/browser-UI-test",
       "puppeteer/puppeteer",
       "ChromeDevTools/chrome-devtools-mcp",
-      "ChromeDevTools/devtools-frontend"
+      "ChromeDevTools/devtools-frontend",
+      "ChromeDevTools/devtools-protocol"
     ]
 
     @git_repos_chromium_googlesource = [
