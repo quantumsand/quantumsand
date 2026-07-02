@@ -5606,7 +5606,8 @@ class QuantumsandLive
       "rust-lang/cmake-rs",
       "rust-lang/compiler-rt",
       "rust-lang/llvm-project",
-      "rust-lang/nomicon"
+      "rust-lang/nomicon",
+      "rust-lang/reference"
     ]
 
     @git_repos_chromium_googlesource = [
