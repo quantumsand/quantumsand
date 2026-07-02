@@ -5604,7 +5604,8 @@ class QuantumsandLive
       "rust-lang/chalk",
       "rust-lang/ci-mirrors",
       "rust-lang/cmake-rs",
-      "rust-lang/compiler-rt"
+      "rust-lang/compiler-rt",
+      "rust-lang/llvm-project"
     ]
 
     @git_repos_chromium_googlesource = [
