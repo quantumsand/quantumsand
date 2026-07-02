@@ -5610,7 +5610,8 @@ class QuantumsandLive
       "rust-lang/reference",
       "rust-lang/rust-by-example",
       "chuckremes/ffi-rzmq",
-      "pry/pry"
+      "pry/pry",
+      "qmlcode/qmllib"
     ]
 
     @git_repos_chromium_googlesource = [
