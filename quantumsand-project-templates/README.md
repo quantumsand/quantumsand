@@ -58,6 +58,8 @@ This will include:
 * ROOT (processing and scientific analysis of large amounts of data)
 * mapnik (pixel-perfect image output with lightning-fast cartographic algorithms)
 * [Reqwest](/quantumsand-project-templates/quantumsand-project-templates-reqwest/) (Rust HTTP Client)
+* rust-mqtt (Rust native mqtt client)
+* Redis-rs (client for Redis, Valkey)
 
 More to follow.
 
