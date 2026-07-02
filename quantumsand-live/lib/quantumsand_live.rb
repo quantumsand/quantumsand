@@ -5628,7 +5628,8 @@ class QuantumsandLive
       "rust-lang/crates.io",
       "rust-lang/crates.io-index",
       "rust-lang/crates_io_og_image",
-      "mozilla/Fira"
+      "mozilla/Fira",
+      "rust-lang/ctcft"
     ]
 
     @git_repos_chromium_googlesource = [
