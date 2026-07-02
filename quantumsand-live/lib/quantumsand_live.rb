@@ -5593,7 +5593,8 @@ class QuantumsandLive
       "fennaraOfficial/fennara-godot-ai",
       "rust-lang/beyond-refs",
       "rust-lang/book",
-      "rust-lang/bors"
+      "rust-lang/bors",
+      "rust-lang/homu"
     ]
 
     @git_repos_chromium_googlesource = [
