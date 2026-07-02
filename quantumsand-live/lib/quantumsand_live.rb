@@ -5635,7 +5635,8 @@ class QuantumsandLive
       "rust-lang/docker-rust-nightly",
       "rust-lang/docs.rs",
       "GuillaumeGomez/browser-UI-test",
-      "puppeteer/puppeteer"
+      "puppeteer/puppeteer",
+      "ChromeDevTools/chrome-devtools-mcp"
     ]
 
     @git_repos_chromium_googlesource = [
