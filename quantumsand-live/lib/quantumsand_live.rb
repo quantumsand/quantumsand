@@ -5638,7 +5638,8 @@ class QuantumsandLive
       "puppeteer/puppeteer",
       "ChromeDevTools/chrome-devtools-mcp",
       "ChromeDevTools/devtools-frontend",
-      "ChromeDevTools/devtools-protocol"
+      "ChromeDevTools/devtools-protocol",
+      "robustmq/robustmq"
     ]
 
     @git_repos_chromium_googlesource = [
