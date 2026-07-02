@@ -8991,7 +8991,8 @@ class QuantumsandLive
       "dev-libs/capnproto",
       "dev-lang/luajit",
       "media-fonts/noto-cjk",
-      "media-fonts/noto-emoji"
+      "media-fonts/noto-emoji",
+      "media-fonts/fira-sans"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
