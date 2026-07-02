@@ -5592,7 +5592,8 @@ class QuantumsandLive
       "LaurentMazare/ocaml-torch",
       "fennaraOfficial/fennara-godot-ai",
       "rust-lang/beyond-refs",
-      "rust-lang/book"
+      "rust-lang/book",
+      "rust-lang/bors"
     ]
 
     @git_repos_chromium_googlesource = [
