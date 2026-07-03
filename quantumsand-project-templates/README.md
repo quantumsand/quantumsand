@@ -63,7 +63,7 @@ This will include:
 * mapnik (pixel-perfect image output with lightning-fast cartographic algorithms)
 * [Reqwest](/quantumsand-project-templates/quantumsand-project-templates-reqwest/) (Rust HTTP Client)
 * rust-mqtt (Rust native mqtt client)
-* Redis-rs (client for Redis, Valkey)
+* [Redis-rs](/quantumsand-project-templates/quantumsand-project-templates-redis-rs/) (client for Redis, Valkey)
 
 More to follow.
 
