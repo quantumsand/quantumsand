@@ -5639,7 +5639,8 @@ class QuantumsandLive
       "ChromeDevTools/chrome-devtools-mcp",
       "ChromeDevTools/devtools-frontend",
       "ChromeDevTools/devtools-protocol",
-      "robustmq/robustmq"
+      "robustmq/robustmq",
+      "valkey-io/valkey-json"
     ]
 
     @git_repos_chromium_googlesource = [
