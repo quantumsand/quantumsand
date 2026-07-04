@@ -5643,7 +5643,8 @@ class QuantumsandLive
       "valkey-io/valkey-json",
       "facebook/astryx",
       "facebook/stylex",
-      "AnmolSaini16/mapcn"
+      "AnmolSaini16/mapcn",
+      "shadcn-labs/termcn"
     ]
 
     @git_repos_chromium_googlesource = [
