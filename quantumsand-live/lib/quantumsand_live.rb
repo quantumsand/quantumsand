@@ -5650,7 +5650,8 @@ class QuantumsandLive
       "GitGud-org/GitGud",
       "miantiao-me/ssh-ai-chat",
       "mscdex/ssh2",
-      "mscdex/cpu-features"
+      "mscdex/cpu-features",
+      "anomalyco/opentui"
     ]
 
     @git_repos_chromium_googlesource = [
