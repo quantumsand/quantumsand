@@ -5645,7 +5645,8 @@ class QuantumsandLive
       "facebook/stylex",
       "AnmolSaini16/mapcn",
       "shadcn-labs/termcn",
-      "sindresorhus/emoj"
+      "sindresorhus/emoj",
+      "sindresorhus/alfred-emoj"
     ]
 
     @git_repos_chromium_googlesource = [
