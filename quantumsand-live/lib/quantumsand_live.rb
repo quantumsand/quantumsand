@@ -5646,7 +5646,8 @@ class QuantumsandLive
       "AnmolSaini16/mapcn",
       "shadcn-labs/termcn",
       "sindresorhus/emoj",
-      "sindresorhus/alfred-emoj"
+      "sindresorhus/alfred-emoj",
+      "GitGud-org/GitGud"
     ]
 
     @git_repos_chromium_googlesource = [
