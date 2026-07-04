@@ -5647,7 +5647,8 @@ class QuantumsandLive
       "shadcn-labs/termcn",
       "sindresorhus/emoj",
       "sindresorhus/alfred-emoj",
-      "GitGud-org/GitGud"
+      "GitGud-org/GitGud",
+      "miantiao-me/ssh-ai-chat"
     ]
 
     @git_repos_chromium_googlesource = [
