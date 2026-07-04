@@ -5649,7 +5649,8 @@ class QuantumsandLive
       "sindresorhus/alfred-emoj",
       "GitGud-org/GitGud",
       "miantiao-me/ssh-ai-chat",
-      "mscdex/ssh2"
+      "mscdex/ssh2",
+      "mscdex/cpu-features"
     ]
 
     @git_repos_chromium_googlesource = [
