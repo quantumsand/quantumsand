@@ -5640,7 +5640,8 @@ class QuantumsandLive
       "ChromeDevTools/devtools-frontend",
       "ChromeDevTools/devtools-protocol",
       "robustmq/robustmq",
-      "valkey-io/valkey-json"
+      "valkey-io/valkey-json",
+      "facebook/astryx"
     ]
 
     @git_repos_chromium_googlesource = [
