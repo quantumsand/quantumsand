@@ -10,8 +10,8 @@ import { Workbook } from '@fortune-sheet/react'
 import "@fortune-sheet/react/dist/index.css"
 import "./Grains.css"
 
-import cell from "./cell";
-import locales from "./locales";
+import cell from "../../cell";
+import locales from "../../locales";
 
 export default function Grains() {
   return (

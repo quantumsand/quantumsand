@@ -19,7 +19,7 @@ import { Workbook } from '@fortune-sheet/react'
 import "@fortune-sheet/react/dist/index.css"
 
 import "./NarrativeSync.css";
-import cell from "../Grains/cell";
+import cell from "../../cell";
 
 export default function NarrativeSync({ videoUrl = "/video/sample-narrative-dynamic.webm",
                                         srcJson = "/video/sample-narrative-dynamic.json", markdown }) {

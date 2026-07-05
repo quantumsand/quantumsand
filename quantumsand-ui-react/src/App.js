@@ -42,6 +42,7 @@ import Geospatial from "./pages/Geospatial/Geospatial";
 import Prompter from "./pages/Prompter/Prompter";
 import Survey from "./pages/Survey/Survey";
 import Ratiocination from "./pages/Ratiocination/Ratiocination";
+import Peers from "./pages/Peers/Peers"
 
 const mathsSlides = [
     {
@@ -129,6 +130,7 @@ function App() {
             <Route path="prompter" element={<Prompter />} />
             <Route path="survey" element={<Survey />} />
             <Route path="ratiocination" element={<Ratiocination />} />
+            <Route path="peers" element={<Peers />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>
