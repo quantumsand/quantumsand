@@ -5651,7 +5651,8 @@ class QuantumsandLive
       "miantiao-me/ssh-ai-chat",
       "mscdex/ssh2",
       "mscdex/cpu-features",
-      "anomalyco/opentui"
+      "anomalyco/opentui",
+      "microsoft/typescript-go"
     ]
 
     @git_repos_chromium_googlesource = [
