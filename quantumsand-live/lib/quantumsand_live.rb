@@ -5655,7 +5655,8 @@ class QuantumsandLive
       "microsoft/typescript-go",
       "VoidenHQ/voiden",
       "shadps4-emu/shadPS4",
-      "wheremyfoodat/Panda3DS"
+      "wheremyfoodat/Panda3DS",
+      "red-prig/fpPS4"
     ]
 
     @git_repos_chromium_googlesource = [
