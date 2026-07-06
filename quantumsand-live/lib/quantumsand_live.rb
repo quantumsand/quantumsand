@@ -5654,7 +5654,8 @@ class QuantumsandLive
       "anomalyco/opentui",
       "microsoft/typescript-go",
       "VoidenHQ/voiden",
-      "shadps4-emu/shadPS4"
+      "shadps4-emu/shadPS4",
+      "wheremyfoodat/Panda3DS"
     ]
 
     @git_repos_chromium_googlesource = [
