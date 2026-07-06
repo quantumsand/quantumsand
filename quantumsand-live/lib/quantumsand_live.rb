@@ -6760,7 +6760,8 @@ class QuantumsandLive
       "mufeedali/Komikku",
       "qworld/bronze-qiskit",
       "bzip2/bzip2-testfiles",
-      "bzip2/bzip2"
+      "bzip2/bzip2",
+      "freepascal.org/fpc/source"
     ]
 
     @git_repos_freedesktop_gitlab = [
