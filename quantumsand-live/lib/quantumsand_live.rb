@@ -5652,7 +5652,8 @@ class QuantumsandLive
       "mscdex/ssh2",
       "mscdex/cpu-features",
       "anomalyco/opentui",
-      "microsoft/typescript-go"
+      "microsoft/typescript-go",
+      "VoidenHQ/voiden"
     ]
 
     @git_repos_chromium_googlesource = [
