@@ -5653,7 +5653,8 @@ class QuantumsandLive
       "mscdex/cpu-features",
       "anomalyco/opentui",
       "microsoft/typescript-go",
-      "VoidenHQ/voiden"
+      "VoidenHQ/voiden",
+      "shadps4-emu/shadPS4"
     ]
 
     @git_repos_chromium_googlesource = [
