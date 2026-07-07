@@ -64,6 +64,7 @@ This will include:
 * [Reqwest](/quantumsand-project-templates/quantumsand-project-templates-reqwest/) (Rust HTTP Client)
 * rust-mqtt (Rust native mqtt client)
 * [Redis-rs](/quantumsand-project-templates/quantumsand-project-templates-redis-rs/) (client for Redis, Valkey)
+* hashlib (cryptographic hash and message digest algorithms)
 
 More to follow.
 
