@@ -133,13 +133,13 @@ More to follow.
 ### Grains table
 
 - git_repo_name `:string`
-- git_hash_hex `:binary`
+- git_hash_hex `:string`
 - qr_code `:string`
 - title `:string`
 - description `:text`
 - original_locale `:string`
 - original_narrative_text `:text`
-- video_narrative_hash_hex `:binary`
+- video_narrative_hash_hex `:string`
 - translation_audio `:json`
 - advertising_tiles `:json`
 - advertising_geospatial `:geometry`
