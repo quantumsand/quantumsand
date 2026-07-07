@@ -11,6 +11,7 @@ This means that development of each component can be done on all three of these 
 * Install Homebrew. This will also download Command Line Tools for Xcode.
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
 * Install wget; `brew install wget`
+* Install Ferron; a fast, memory-safe web server written in Rust; `brew install ferron`
 * Install htop; `brew install htop`
 * Install tcpdump; `brew install tcpdump`
 * Install root; `brew install root`
