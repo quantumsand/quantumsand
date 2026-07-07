@@ -139,6 +139,7 @@ More to follow.
 - description `:text`
 - original_locale `:string`
 - original_narrative_text `:text`
+- video_narrative_hash_hex `:binary`
 - translation_audio `:json`
 - advertising_tiles `:json`
 - advertising_geospatial `:geometry`
