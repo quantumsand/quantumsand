@@ -5656,7 +5656,8 @@ class QuantumsandLive
       "VoidenHQ/voiden",
       "shadps4-emu/shadPS4",
       "wheremyfoodat/Panda3DS",
-      "red-prig/fpPS4"
+      "red-prig/fpPS4",
+      "ferronweb/ferron"
     ]
 
     @git_repos_chromium_googlesource = [
