@@ -5658,7 +5658,8 @@ class QuantumsandLive
       "wheremyfoodat/Panda3DS",
       "red-prig/fpPS4",
       "ferronweb/ferron",
-      "IntelLabs/robot-based-large-scale-lidar-mapping"
+      "IntelLabs/robot-based-large-scale-lidar-mapping",
+      "intel/quantum-intrinsics"
     ]
 
     @git_repos_chromium_googlesource = [
