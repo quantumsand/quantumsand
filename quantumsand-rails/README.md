@@ -187,6 +187,7 @@ More to follow.
 - resource_type `:string`
 - resource_path `:string`
 - resource_data `:json`
+- resource_hash_hex `:string`
 - resource_thumbnail `:string`
 
 
