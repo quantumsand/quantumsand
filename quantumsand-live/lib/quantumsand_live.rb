@@ -5662,7 +5662,8 @@ class QuantumsandLive
       "intel/quantum-intrinsics",
       "amd/ZenDNN",
       "amd/aocl-utils",
-      "amd/aocl-dlp"
+      "amd/aocl-dlp",
+      "libxsmm/parlooper"
     ]
 
     @git_repos_chromium_googlesource = [
