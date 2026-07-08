@@ -5660,7 +5660,8 @@ class QuantumsandLive
       "ferronweb/ferron",
       "IntelLabs/robot-based-large-scale-lidar-mapping",
       "intel/quantum-intrinsics",
-      "amd/ZenDNN"
+      "amd/ZenDNN",
+      "amd/aocl-utils"
     ]
 
     @git_repos_chromium_googlesource = [
