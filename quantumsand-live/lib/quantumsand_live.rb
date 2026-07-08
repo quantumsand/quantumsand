@@ -5663,7 +5663,8 @@ class QuantumsandLive
       "amd/ZenDNN",
       "amd/aocl-utils",
       "amd/aocl-dlp",
-      "libxsmm/parlooper"
+      "libxsmm/parlooper",
+      "libxsmm/tpp-pytorch-extension"
     ]
 
     @git_repos_chromium_googlesource = [
