@@ -10,6 +10,10 @@
   box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3) !important;
 }
 
+.cards__buttons .MuiButtonBase-root:hover {
+  background-color: black;
+}
+
 .cards__buttonsRepeat {
   padding: 3vw !important;
   color: #f5b748 !important;
