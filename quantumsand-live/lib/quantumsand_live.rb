@@ -5659,7 +5659,8 @@ class QuantumsandLive
       "red-prig/fpPS4",
       "ferronweb/ferron",
       "IntelLabs/robot-based-large-scale-lidar-mapping",
-      "intel/quantum-intrinsics"
+      "intel/quantum-intrinsics",
+      "amd/ZenDNN"
     ]
 
     @git_repos_chromium_googlesource = [
