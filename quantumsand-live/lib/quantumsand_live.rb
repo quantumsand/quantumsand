@@ -5661,7 +5661,8 @@ class QuantumsandLive
       "IntelLabs/robot-based-large-scale-lidar-mapping",
       "intel/quantum-intrinsics",
       "amd/ZenDNN",
-      "amd/aocl-utils"
+      "amd/aocl-utils",
+      "amd/aocl-dlp"
     ]
 
     @git_repos_chromium_googlesource = [
