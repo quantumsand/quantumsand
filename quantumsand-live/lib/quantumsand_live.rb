@@ -5657,7 +5657,8 @@ class QuantumsandLive
       "shadps4-emu/shadPS4",
       "wheremyfoodat/Panda3DS",
       "red-prig/fpPS4",
-      "ferronweb/ferron"
+      "ferronweb/ferron",
+      "IntelLabs/robot-based-large-scale-lidar-mapping"
     ]
 
     @git_repos_chromium_googlesource = [
