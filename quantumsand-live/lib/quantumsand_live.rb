@@ -5664,7 +5664,8 @@ class QuantumsandLive
       "amd/aocl-utils",
       "amd/aocl-dlp",
       "libxsmm/parlooper",
-      "libxsmm/tpp-pytorch-extension"
+      "libxsmm/tpp-pytorch-extension",
+      "skmp/reicast-emulator"
     ]
 
     @git_repos_chromium_googlesource = [
