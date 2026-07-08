@@ -52,7 +52,7 @@ Quantum Sand Grains are stored within git repositories, with the exception of Gr
 
 The Quantum Sand P2P Git Sync allows for decentralised peer-to-peer syncing of Quantum Sand Grains and associated deps.
 
-It is also very easy to automatically mirror the video narrative and translation audio using rsync or wget.
+It is also very easy to automatically mirror the Grease Pencil animated drawings, video narrative and translation audio using rsync or wget.
 
 This means that the resources themselves are automatically mirrored across all other nodes.
 
