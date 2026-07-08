@@ -182,6 +182,7 @@ More to follow.
 ### Resources table
 
 - git_repo_name `:string`
+- git_hash_hex `:string`
 - qr_code `:string`
 - resource_type `:string`
 - resource_path `:string`
