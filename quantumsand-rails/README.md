@@ -227,6 +227,15 @@ More to follow.
 - score `:float`
 
 
+### Filesystem Hash Hexes table
+
+- git_repo_name `:string`
+- git_hash_hex `:string`
+- qr_code `:string`
+- file_path `:string`
+- file_hash_hex `:string`
+- file_data `:json`
+
 ## TODO:
 
 * Ruby version
