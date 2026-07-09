@@ -5666,7 +5666,8 @@ class QuantumsandLive
       "libxsmm/parlooper",
       "libxsmm/tpp-pytorch-extension",
       "skmp/reicast-emulator",
-      "flyinghead/flycast"
+      "flyinghead/flycast",
+      "J-x-Z/cocoa-way"
     ]
 
     @git_repos_chromium_googlesource = [
