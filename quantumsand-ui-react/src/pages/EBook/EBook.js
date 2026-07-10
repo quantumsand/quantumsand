@@ -35,8 +35,8 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
         "font-size": `${theme.fs} !important`,
         "line-height": `${theme.lh} !important`,
         "text-align": `${theme.ta} !important`,
-        "padding-top": theme.m,
-        "padding-bottom": theme.m
+        "padding-top": `${theme.m}px !important`,
+        "padding-bottom": `${theme.m}px !important`
       },
       "a": {
         "color": "inherit !important",
