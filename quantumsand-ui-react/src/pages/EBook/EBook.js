@@ -21,8 +21,8 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
       fg: "#000000",
       l: "#0B4085",
       ff: "'Open Sans', sans-serif",
-      fs: "11pt",
-      lh: "1.4",
+      fs: `${size}%`,
+      lh: "1.0",
       ta: "justify",
       m: "0"
     };
