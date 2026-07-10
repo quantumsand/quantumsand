@@ -5668,7 +5668,8 @@ class QuantumsandLive
       "skmp/reicast-emulator",
       "flyinghead/flycast",
       "J-x-Z/cocoa-way",
-      "exor2008/oktree"
+      "exor2008/oktree",
+      "futurepress/epub.js"
     ]
 
     @git_repos_chromium_googlesource = [
