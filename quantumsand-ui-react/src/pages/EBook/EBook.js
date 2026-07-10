@@ -17,8 +17,8 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
   */
   function applyTheme() {
     let theme = {
-      bg: "#ffffff",
-      fg: "#000000",
+      bg: "deepskyblue",
+      fg: "white",
       l: "#0B4085",
       ff: "'Open Sans', sans-serif",
       fs: `${size}%`,
