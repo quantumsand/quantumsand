@@ -5669,7 +5669,8 @@ class QuantumsandLive
       "flyinghead/flycast",
       "J-x-Z/cocoa-way",
       "exor2008/oktree",
-      "futurepress/epub.js"
+      "futurepress/epub.js",
+      "futurepress/epubjs-reader"
     ]
 
     @git_repos_chromium_googlesource = [
