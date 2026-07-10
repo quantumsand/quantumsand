@@ -24,7 +24,7 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
       fs: `${size}%`,
       lh: "1.0",
       ta: "justify",
-      m: "0"
+      m: "20"
     };
 
     renditionRef.current.getContents().forEach(c => c.addStylesheetRules({
