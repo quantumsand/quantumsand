@@ -5670,7 +5670,8 @@ class QuantumsandLive
       "J-x-Z/cocoa-way",
       "exor2008/oktree",
       "futurepress/epub.js",
-      "futurepress/epubjs-reader"
+      "futurepress/epubjs-reader",
+      "altmshfkgudtjr/react-epub-viewer"
     ]
 
     @git_repos_chromium_googlesource = [
