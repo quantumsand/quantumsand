@@ -12,6 +12,51 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
   const ref = useRef();
   const [stepper, setStepper] = useState(0);
 
+  /*
+    https://github.com/futurepress/epub.js/issues/778#issuecomment-401543775
+  */
+  function applyTheme() {
+    let theme = {
+      bg: "#ffffff",
+      fg: "#000000",
+      l: "#0B4085",
+      ff: "'Open Sans', sans-serif",
+      fs: "11pt",
+      lh: "1.4",
+      ta: "justify",
+      m: "0"
+    };
+
+    renditionRef.current.getContents().forEach(c => c.addStylesheetRules({
+      "body": {
+        "background": theme.bg,
+        "color": theme.fg,
+        "font-family": `${theme.ff} !important`,
+        "font-size": `${theme.fs} !important`,
+        "line-height": `${theme.lh} !important`,
+        "text-align": `${theme.ta} !important`,
+        "padding-top": theme.m,
+        "padding-bottom": theme.m
+      },
+      "a": {
+        "color": "inherit !important",
+        "text-decoration": "none !important",
+        "-webkit-text-fill-color": "inherit !important"
+      },
+      "a:link": {
+        "color": `${theme.l} !important`,
+        "text-decoration": "none !important",
+        "-webkit-text-fill-color": `${theme.l} !important`
+      },
+      "a:link:hover": {
+        "background": "rgba(0, 0, 0, 0.1) !important"
+      },
+      "img": {
+        "max-width": "100% !important"
+      },
+    }));
+}
+
   // const chronomap = [
   //   "epubcfi(/6/74!/4[x2._Muwatta.Arabic-English.LS-30]/2/172/1:535)",
   //   "epubcfi(/6/74!/4[x2._Muwatta.Arabic-English.LS-30]/2/194/7:3)"
@@ -37,11 +82,11 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
   const changeSize = newSize => {
     setSize(newSize)
   }
-  useEffect(() => {
-    if (renditionRef.current) {
-      renditionRef.current.themes.fontSize(`${size}%`)
-    }
-  }, [size])
+  // useEffect(() => {
+  //   if (renditionRef.current) {
+  //     renditionRef.current.themes.fontSize(`${size}%`)
+  //   }
+  // }, [size])
 
   useEffect(() => {
     const intervalId = setInterval(() => {
@@ -65,7 +110,9 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
       <EpubViewer url={epub} ref={ref} location={location} pageChanged={pageChanged}
       rendtionChanged={(rendition) => {
         renditionRef.current = rendition
-        renditionRef.current.themes.fontSize(`${size}%`);
+        //renditionRef.current.themes.fontSize(`${size}%`);
+
+        renditionRef.current.hooks.content.register(applyTheme);
        }}
        />
             
