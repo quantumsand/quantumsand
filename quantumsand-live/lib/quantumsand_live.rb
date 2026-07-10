@@ -5667,7 +5667,8 @@ class QuantumsandLive
       "libxsmm/tpp-pytorch-extension",
       "skmp/reicast-emulator",
       "flyinghead/flycast",
-      "J-x-Z/cocoa-way"
+      "J-x-Z/cocoa-way",
+      "exor2008/oktree"
     ]
 
     @git_repos_chromium_googlesource = [
