@@ -5,7 +5,7 @@ import { EpubViewer} from 'react-epub-viewer';
 
 import "./EBook.css";
 
-export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocation}) {
+export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocation, theme}) {
   const [size, setSize] = useState(200)
   const renditionRef = useRef();
   const [location, setLocation] = useState(initialLocation)
@@ -16,16 +16,6 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
     https://github.com/futurepress/epub.js/issues/778#issuecomment-401543775
   */
   function applyTheme() {
-    let theme = {
-      bg: "deepskyblue",
-      fg: "white",
-      l: "#0B4085",
-      ff: "'Open Sans', sans-serif",
-      fs: `${size}%`,
-      lh: "1.0",
-      ta: "justify",
-      m: "20"
-    };
 
     renditionRef.current.getContents().forEach(c => c.addStylesheetRules({
       "body": {

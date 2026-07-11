@@ -72,6 +72,18 @@ const mathsSlides = [
     id: 3, image: "/images/quantumsand-experimental-hourglass.svg", backgroundColor: "#fff"
   }]
 
+const ebookTheme =
+    {
+      bg: "deepskyblue",
+      fg: "white",
+      l: "#0B4085",
+      ff: "'Open Sans', sans-serif",
+      fs: `200%`,
+      lh: "1.0",
+      ta: "justify",
+      m: "20"
+    };
+
 const mathjaxConfig = {
                         loader: {
                           paths: {
@@ -95,7 +107,7 @@ function App() {
             <Route path="subtitles" element={<Subtitles />} />
             <Route path="adverts" element={<Adverts />} />
             <Route path="grains" element={<Grains />} />
-            <Route path="ebook" element={<EBook />} />
+            <Route path="ebook" element={<EBook theme={ebookTheme} />} />
             <Route path="slides" element={<PresentationSlides stepper={true} />} />
             <Route path="wallpaper" element={<Wallpaper />} />
             <Route path="market" element={<Market />} />
