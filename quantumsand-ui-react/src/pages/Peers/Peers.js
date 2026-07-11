@@ -11,7 +11,7 @@ import cell from "../../cell";
 
 export default function Peers() {
   return (
-    <div className="grains">
+    <div className="peers">
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}

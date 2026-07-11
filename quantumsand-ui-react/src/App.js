@@ -43,6 +43,7 @@ import Prompter from "./pages/Prompter/Prompter";
 import Survey from "./pages/Survey/Survey";
 import Ratiocination from "./pages/Ratiocination/Ratiocination";
 import Peers from "./pages/Peers/Peers"
+import AudioDictionary from "./pages/AudioDictionary/AudioDictionary";
 
 const mathsSlides = [
     {
@@ -115,7 +116,8 @@ function App() {
             <Route path="services" element={<Services />} />
             <Route path="images" element={<Images />} />
             <Route path="collaborate" element={<Collaborate />} />
-            <Route path="audio" element={<AudioPlayer/>} />       
+            <Route path="audio" element={<AudioPlayer/>} />
+            <Route path="dictionary" element={<AudioDictionary/>} />
             <Route path="chirp" element={<Chirp />} />
             <Route path="chat" element={<Chat /> } />
             <Route path="video-narrative" element={<Video />} />
