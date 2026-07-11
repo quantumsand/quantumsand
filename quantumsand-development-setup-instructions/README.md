@@ -26,7 +26,7 @@ This means that development of each component can be done on all three of these 
 * Clone ValkeyJSON; `git clone https://github.com/valkey-io/valkey-json`
 * Launch another VS Code; `code valkey-json`
 * Build ValkeyJSON; `./build.sh`
-You should see the following message:
+* You should see the following message:
 ```
 [100%] Linking CXX shared library libjson.dylib
 [100%] Built target json
