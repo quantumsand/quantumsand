@@ -135,6 +135,7 @@ More to follow.
 - git_repo_name `:string`
 - git_hash_hex `:string`
 - qr_code `:string`
+- name `:string`
 - title `:string`
 - description `:text`
 - original_locale `:string`
