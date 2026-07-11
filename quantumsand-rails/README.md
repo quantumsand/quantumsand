@@ -236,6 +236,16 @@ More to follow.
 - file_hash_hex `:string`
 - file_data `:json`
 
+
+### Themes table
+
+- git_repo_name `:string`
+- git_hash_hex `:string`
+- qr_code `:string`
+- theme_name `:string`
+- theme_component `:string`
+- theme_data `:json`
+
 ## TODO:
 
 * Ruby version
