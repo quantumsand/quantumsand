@@ -78,7 +78,7 @@ const ebookTheme =
       fg: "white",
       l: "#0B4085",
       ff: "'Open Sans', sans-serif",
-      fs: `200%`,
+      fs: "200%",
       lh: "1.0",
       ta: "justify",
       m: "20"
