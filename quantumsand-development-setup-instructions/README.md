@@ -21,6 +21,54 @@ This means that development of each component can be done on all three of these 
 * To start rabbitmq now and restart at login: `brew services start rabbitmq`
 * Install Valkey; `brew install valkey`
 * To start valkey now and restart at login: `brew services start valkey`
+* Enable JSON support in Valkey.
+* Install ValkeyJSON; Launch the Terminal app; In a separate directory; Outside of quantumsand;
+* Clone ValkeyJSON; `git clone https://github.com/valkey-io/valkey-json`
+* Launch another VS Code; `code valkey-json`
+* Build ValkeyJSON; `./build.sh`
+You should see the following message:
+```
+[100%] Linking CXX shared library libjson.dylib
+[100%] Built target json
+Release build completed
+```
+* Copy the shared library we have just built into Homebrew;
+* `cp ./build/src/libjson.dylib /opt/homebrew/lib`
+* Edit the Valkey configuration within VS Code;
+* `code /opt/homebrew/etc/valkey.conf`
+* Make this change to `valkey.conf`
+```diff
+################################## MODULES #####################################
+
+# Load modules at startup. If the server is not able to load modules
+# it will abort. It is possible to use multiple loadmodule directives.
+#
+# loadmodule /path/to/my_module.so
+# loadmodule /path/to/other_module.so
+# loadmodule /path/to/args_module.so [arg [arg ...]]
+
++loadmodule /opt/homebrew/lib/libjson.dylib
+```
+* Restart Valkey; `brew services restart valkey`
+* You should see the following message:
+```
+Stopping `valkey`... (might take a while)
+==> Successfully stopped `valkey` (label: homebrew.mxcl.valkey)
+==> Successfully started `valkey` (label: homebrew.mxcl.valkey)
+```
+* Check that JSON is working correctly within Valkey;
+* `valkey-cli`
+* `JSON.SET grain $ '{"name": "0001.introduction-to-mathematics", "title": "Introduction to Mathematics"}'`
+* You should see the following message:
+```
+OK
+```
+* `JSON.GET grain`
+* You should see the following message:
+```
+"{\"name\":\"0001.introduction-to-mathematics\",\"title\":\"Introduction to Mathematics\"}"
+```
+* To terminate `valkey-cli` you can type `quit` and press the return key.
 * Install ejabberd; `brew install ejabberd`
 * To start ejabberd now and restart at login: `brew services start ejabberd`
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
