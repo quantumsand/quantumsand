@@ -18,6 +18,7 @@ const SlowText = ({ speed, text }) => {
       index.current++
       setPlaceholder(prev => prev + text[index.current])
     }
+
     if (index.current < text.length - 1) {
       let addChar = setInterval(tick, speed)
       return () => clearInterval(addChar)
@@ -28,10 +29,19 @@ const SlowText = ({ speed, text }) => {
 
 export default function VideogameDialogueSubtitles({ subtitles = "Oh... Navi... Thou hast returned. Link... Welcome. Listen carefully to what I, the Great Deku Tree, am about to tell thee... Thy slumber these past moons have been restless, and full of nightmares..." }) {
 
+const [isVisibleButtonContinue, setisVisibleButtonContinue] = useState(true)
+
   return (
     <div className="videogame__dialogueSubtitles-overlay">
       <div className="videogame__dialogueSubtitles">
         <SlowText speed={50} text={subtitles} />
+
+        {isVisibleButtonContinue && (<div className="videogame__dialogueSubtitlesButtonContinueLoader">
+          <div className="videogame__dialogueSubtitlesButtonContinueLoader-square"></div>
+          <div className="videogame__dialogueSubtitlesButtonContinueLoader-square"></div>
+          <div className="videogame__dialogueSubtitlesButtonContinueLoader-square"></div>
+          <div className="videogame__dialogueSubtitlesButtonContinueLoader-square"></div>
+        </div>)}
       </div>
     </div>
   )

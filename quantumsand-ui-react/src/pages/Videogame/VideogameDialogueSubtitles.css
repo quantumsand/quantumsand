@@ -29,3 +29,110 @@
 .videogame__dialogueSubtitles:hover {
   cursor: pointer;
 }
+
+/*
+  https://freefrontend.com/css-glow-effects/
+  Glowing Chasing Squares CSS Loader
+  License; MIT
+*/
+
+.videogame__dialogueSubtitlesButtonContinueLoader {
+  --sizeVar: 30px;
+  position: relative;
+  width: var(--sizeVar);
+  height: var(--sizeVar);
+  animation: videogame__dialogueSubtitlesButtonContinueLoader-rotate 2000ms ease-in-out infinite;
+  margin: auto;
+  padding-top: 15px;
+}
+
+.videogame__dialogueSubtitlesButtonContinueLoader::before {
+  content: "";
+  position: absolute;
+  width: 200%;
+  height: 200%;
+  top: -50%;
+  left: -50%;
+  background: radial-gradient(
+    circle,
+    rgba(255, 255, 255, 0.2) 0%,
+    rgba(255, 255, 255, 0) 70%
+  );
+}
+
+.videogame__dialogueSubtitlesButtonContinueLoader-square {
+  position: absolute;
+  width: 45%;
+  height: 45%;
+  background-color: #f25022;
+  transform-origin: center;
+  animation: videogame__dialogueSubtitlesButtonContinueLoader-squareAnim 4000ms cubic-bezier(1, 0, 0, 1) infinite,
+    videogame__dialogueSubtitlesButtonContinueLoader-squareBlink 1000ms ease-in-out infinite;
+  box-shadow: 0 0 8px #f25022aa, 0 0 32px #f2502277;
+}
+
+.videogame__dialogueSubtitlesButtonContinueLoader-square:nth-of-type(2) {
+  background-color: #7fba02;
+  box-shadow: 0 0 8px #7fba02aa, 0 0 32px #7fba0277;
+  animation-delay: -1000ms, -75ms;
+}
+
+.videogame__dialogueSubtitlesButtonContinueLoader-square:nth-of-type(3) {
+  background-color: #ffb902;
+  box-shadow: 0 0 8px #ffb902aa, 0 0 32px #ffb90277;
+  animation-delay: -2000ms, -150ms;
+}
+
+.videogame__dialogueSubtitlesButtonContinueLoader-square:nth-of-type(4) {
+  background-color: #01a4ef;
+  box-shadow: 0 0 8px #01a4efaa, 0 0 32px #01a4ef77;
+  animation-delay: -3000ms, -225ms;
+}
+
+@keyframes videogame__dialogueSubtitlesButtonContinueLoader-squareAnim {
+  0% {
+    transform: translate(0, 0);
+  }
+  25% {
+    transform: translate(120%, 0);
+  }
+  50% {
+    transform: translate(120%, 120%);
+  }
+  75% {
+    transform: translate(0, 120%);
+  }
+  100% {
+    transform: translate(0, 0);
+  }
+}
+
+@keyframes videogame__dialogueSubtitlesButtonContinueLoader-squareBlink {
+  0% {
+    filter: brightness(110%);
+  }
+  20% {
+    filter: brightness(110%);
+  }
+  50% {
+    filter: brightness(80%);
+  }
+  80% {
+    filter: brightness(110%);
+  }
+  100% {
+    filter: brightness(110%);
+  }
+}
+
+@keyframes videogame__dialogueSubtitlesButtonContinueLoader-rotate {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(0.7);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
