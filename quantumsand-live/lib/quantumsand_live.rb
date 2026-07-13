@@ -5692,7 +5692,8 @@ class QuantumsandLive
       "evilmarty/oban_live_dashboard",
       "oban-bg/oban_training",
       "oban-bg/oban",
-      "whatyouhide/redix"
+      "whatyouhide/redix",
+      "valkey-io/valkey-glide-cpp"
     ]
 
     @git_repos_chromium_googlesource = [
