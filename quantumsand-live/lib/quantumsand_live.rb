@@ -5681,7 +5681,8 @@ class QuantumsandLive
       "valkey-io/libvalkey-py",
       "valkey-io/valkey-admin",
       "valkey-io/valkey-bloom",
-      "valkey-io/valkey-bundle"
+      "valkey-io/valkey-bundle",
+      "valkey-io/valkey-bundle-demo"
     ]
 
     @git_repos_chromium_googlesource = [
