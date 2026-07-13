@@ -5671,7 +5671,8 @@ class QuantumsandLive
       "exor2008/oktree",
       "futurepress/epub.js",
       "futurepress/epubjs-reader",
-      "altmshfkgudtjr/react-epub-viewer"
+      "altmshfkgudtjr/react-epub-viewer",
+      "valkey-io/assets"
     ]
 
     @git_repos_chromium_googlesource = [
