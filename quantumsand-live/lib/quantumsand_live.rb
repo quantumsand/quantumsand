@@ -5673,7 +5673,8 @@ class QuantumsandLive
       "futurepress/epubjs-reader",
       "altmshfkgudtjr/react-epub-viewer",
       "valkey-io/assets",
-      "valkey-io/iovalkey"
+      "valkey-io/iovalkey",
+      "redis/ioredis"
     ]
 
     @git_repos_chromium_googlesource = [
