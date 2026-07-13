@@ -5695,7 +5695,8 @@ class QuantumsandLive
       "whatyouhide/redix",
       "valkey-io/valkey-glide-cpp",
       "valkey-io/valkey-glide-csharp",
-      "valkey-io/valkey-glide-docs"
+      "valkey-io/valkey-glide-docs",
+      "withastro/starlight"
     ]
 
     @git_repos_chromium_googlesource = [
