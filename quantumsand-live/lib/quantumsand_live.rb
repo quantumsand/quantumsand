@@ -5674,7 +5674,8 @@ class QuantumsandLive
       "altmshfkgudtjr/react-epub-viewer",
       "valkey-io/assets",
       "valkey-io/iovalkey",
-      "redis/ioredis"
+      "redis/ioredis",
+      "valkey-io/iovalkey-commands"
     ]
 
     @git_repos_chromium_googlesource = [
