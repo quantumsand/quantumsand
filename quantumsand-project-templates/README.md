@@ -67,6 +67,7 @@ This will include:
 * hashlib (cryptographic hash and message digest algorithms)
 * valkey-rb (Ruby client library for Valkey)
 * Oban (Robust job processing in Elixir)
+* Redix (Redis and Valkey client written in pure Elixir)
 
 More to follow.
 
