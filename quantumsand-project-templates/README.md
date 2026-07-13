@@ -68,6 +68,7 @@ This will include:
 * valkey-rb (Ruby client library for Valkey)
 * Oban (Robust job processing in Elixir)
 * Redix (Redis and Valkey client written in pure Elixir)
+* valkey-py (Valkey Python client)
 
 More to follow.
 
