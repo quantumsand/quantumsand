@@ -5696,7 +5696,8 @@ class QuantumsandLive
       "valkey-io/valkey-glide-cpp",
       "valkey-io/valkey-glide-csharp",
       "valkey-io/valkey-glide-docs",
-      "withastro/starlight"
+      "withastro/starlight",
+      "withastro/docs"
     ]
 
     @git_repos_chromium_googlesource = [
