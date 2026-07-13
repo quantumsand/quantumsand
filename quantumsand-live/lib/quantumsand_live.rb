@@ -5688,7 +5688,8 @@ class QuantumsandLive
       "valkey-io/valkey-doc",
       "valkey-io/valkey-fuzzer",
       "valkey-io/valkey-glide",
-      "valkey-io/valkey-glide-ruby"
+      "valkey-io/valkey-glide-ruby",
+      "evilmarty/oban_live_dashboard"
     ]
 
     @git_repos_chromium_googlesource = [
