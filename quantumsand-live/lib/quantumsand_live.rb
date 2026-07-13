@@ -5717,7 +5717,8 @@ class QuantumsandLive
       "valkey-io/valkey-skills",
       "valkey-io/valkey-swift",
       "valkey-io/valkey-try-me",
-      "copy/v86"
+      "copy/v86",
+      "valkey-io/valkey-test-framework"
     ]
 
     @git_repos_chromium_googlesource = [
