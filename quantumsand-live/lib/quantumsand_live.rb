@@ -5710,7 +5710,8 @@ class QuantumsandLive
       "valkey-io/valkey-luajit",
       "valkey-io/valkey-namespace",
       "valkey-io/valkey-operator",
-      "valkey-io/valkey-perf-benchmark"
+      "valkey-io/valkey-perf-benchmark",
+      "valkey-io/valkey-search"
     ]
 
     @git_repos_chromium_googlesource = [
