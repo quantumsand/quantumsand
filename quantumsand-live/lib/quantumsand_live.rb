@@ -5724,7 +5724,8 @@ class QuantumsandLive
       "rust-lang/dyn-upcasting-coercion-initiative",
       "rust-lang/effects-initiative",
       "rust-lang/ena",
-      "rust-lang/ferris-says"
+      "rust-lang/ferris-says",
+      "rust-lang/flate2-rs"
     ]
 
     @git_repos_chromium_googlesource = [
