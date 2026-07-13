@@ -5706,7 +5706,8 @@ class QuantumsandLive
       "rueian/rueidis-benchmark",
       "redis/rueidis",
       "valkey-io/valkey-helm",
-      "valkey-io/valkey-ldap"
+      "valkey-io/valkey-ldap",
+      "valkey-io/valkey-luajit"
     ]
 
     @git_repos_chromium_googlesource = [
