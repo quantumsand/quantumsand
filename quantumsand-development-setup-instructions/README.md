@@ -69,6 +69,31 @@ OK
 "{\"name\":\"0001.introduction-to-mathematics\",\"title\":\"Introduction to Mathematics\"}"
 ```
 * To terminate `valkey-cli` you can type `quit` and press the return key.
+* Install Valkey Admin; `brew install --cask valkey-admin`
+* Within the `Applications` directory on macOS; open `Valkey Admin`.
+* Press the `+ Add Connection` button.
+* Choose these options;
+* `Endpoint Type` is `Node`.
+* `Alias` is whatever you want to name the connection; `Valkey localhost`.
+* `Host` is `127.0.0.1`.
+* `Port` is `6379`.
+* `Auth Type` is `Password`; although we are not using a password for Valkey locally.
+* `Username` and `Password` can be left blank.
+* You can uncheck `Use TLS` and `Verify TLS Certificate`.
+* Press `Connect`.
+* You should see the `Dashboard`.
+* Click the key icon on the left-hand side of Valkey Admin.
+* You should see a button for the key `grain`.
+* Clicking the grain key should display:
+```
+JSON Value
+
+{
+  "name": "0001.introduction-to-mathematics",
+  "title": "Introduction to Mathematics"
+}
+```
+* You can close Valkey Admin.
 * Install ejabberd; `brew install ejabberd`
 * To start ejabberd now and restart at login: `brew services start ejabberd`
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
