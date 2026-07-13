@@ -5701,7 +5701,8 @@ class QuantumsandLive
       "withastro/compiler-rs",
       "napi-rs/napi-rs",
       "napi-rs/node-rs",
-      "infinyon/node-bindgen"
+      "infinyon/node-bindgen",
+      "valkey-io/valkey-go"
     ]
 
     @git_repos_chromium_googlesource = [
