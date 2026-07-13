@@ -5699,7 +5699,8 @@ class QuantumsandLive
       "withastro/starlight",
       "withastro/docs",
       "withastro/compiler-rs",
-      "napi-rs/napi-rs"
+      "napi-rs/napi-rs",
+      "napi-rs/node-rs"
     ]
 
     @git_repos_chromium_googlesource = [
