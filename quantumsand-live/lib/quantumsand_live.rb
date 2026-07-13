@@ -5708,7 +5708,8 @@ class QuantumsandLive
       "valkey-io/valkey-helm",
       "valkey-io/valkey-ldap",
       "valkey-io/valkey-luajit",
-      "valkey-io/valkey-namespace"
+      "valkey-io/valkey-namespace",
+      "valkey-io/valkey-operator"
     ]
 
     @git_repos_chromium_googlesource = [
