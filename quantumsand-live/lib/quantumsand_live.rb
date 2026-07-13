@@ -5675,7 +5675,8 @@ class QuantumsandLive
       "valkey-io/assets",
       "valkey-io/iovalkey",
       "redis/ioredis",
-      "valkey-io/iovalkey-commands"
+      "valkey-io/iovalkey-commands",
+      "valkey-io/iovalkey-interface-generator"
     ]
 
     @git_repos_chromium_googlesource = [
