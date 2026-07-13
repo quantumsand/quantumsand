@@ -5685,7 +5685,8 @@ class QuantumsandLive
       "valkey-io/valkey-bundle-demo",
       "valkey-io/valkey-ci-agent",
       "valkey-io/valkey-container",
-      "valkey-io/valkey-doc"
+      "valkey-io/valkey-doc",
+      "valkey-io/valkey-fuzzer"
     ]
 
     @git_repos_chromium_googlesource = [
