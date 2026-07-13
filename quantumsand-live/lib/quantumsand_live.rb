@@ -5704,7 +5704,8 @@ class QuantumsandLive
       "infinyon/node-bindgen",
       "valkey-io/valkey-go",
       "rueian/rueidis-benchmark",
-      "redis/rueidis"
+      "redis/rueidis",
+      "valkey-io/valkey-helm"
     ]
 
     @git_repos_chromium_googlesource = [
