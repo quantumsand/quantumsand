@@ -5700,7 +5700,8 @@ class QuantumsandLive
       "withastro/docs",
       "withastro/compiler-rs",
       "napi-rs/napi-rs",
-      "napi-rs/node-rs"
+      "napi-rs/node-rs",
+      "infinyon/node-bindgen"
     ]
 
     @git_repos_chromium_googlesource = [
