@@ -5718,7 +5718,8 @@ class QuantumsandLive
       "valkey-io/valkey-swift",
       "valkey-io/valkey-try-me",
       "copy/v86",
-      "valkey-io/valkey-test-framework"
+      "valkey-io/valkey-test-framework",
+      "redislabsmodules/readies"
     ]
 
     @git_repos_chromium_googlesource = [
