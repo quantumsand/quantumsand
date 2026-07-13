@@ -5698,7 +5698,8 @@ class QuantumsandLive
       "valkey-io/valkey-glide-docs",
       "withastro/starlight",
       "withastro/docs",
-      "withastro/compiler-rs"
+      "withastro/compiler-rs",
+      "napi-rs/napi-rs"
     ]
 
     @git_repos_chromium_googlesource = [
