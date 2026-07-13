@@ -5702,7 +5702,8 @@ class QuantumsandLive
       "napi-rs/napi-rs",
       "napi-rs/node-rs",
       "infinyon/node-bindgen",
-      "valkey-io/valkey-go"
+      "valkey-io/valkey-go",
+      "rueian/rueidis-benchmark"
     ]
 
     @git_repos_chromium_googlesource = [
