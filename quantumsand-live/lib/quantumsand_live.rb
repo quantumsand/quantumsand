@@ -5721,7 +5721,8 @@ class QuantumsandLive
       "valkey-io/valkey-test-framework",
       "redislabsmodules/readies",
       "valkey-io/valkeymodule-rs",
-      "rust-lang/dyn-upcasting-coercion-initiative"
+      "rust-lang/dyn-upcasting-coercion-initiative",
+      "rust-lang/effects-initiative"
     ]
 
     @git_repos_chromium_googlesource = [
