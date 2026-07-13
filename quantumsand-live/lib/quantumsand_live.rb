@@ -5723,7 +5723,8 @@ class QuantumsandLive
       "valkey-io/valkeymodule-rs",
       "rust-lang/dyn-upcasting-coercion-initiative",
       "rust-lang/effects-initiative",
-      "rust-lang/ena"
+      "rust-lang/ena",
+      "rust-lang/ferris-says"
     ]
 
     @git_repos_chromium_googlesource = [
