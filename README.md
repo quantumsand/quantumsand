@@ -50,7 +50,7 @@ Storytelling in videogames such as Link's Awakening, Ocarina of Time and Shenmue
 
 Quantum Sand Grains are stored within git repositories, with the exception of Grease Pencil animated drawings, video narrative and translation audio which are tracked using their cryptographic digest; a unique “digital fingerprint”.
 
-The Quantum Sand P2P Git Sync allows for decentralised peer-to-peer syncing of Quantum Sand Grains and associated deps.
+The Quantum Sand Sync allows for decentralised peer-to-peer syncing of Quantum Sand Grains and associated deps.
 
 It is also very easy to automatically mirror the Grease Pencil animated drawings, video narrative and translation audio using rsync or wget.
 
