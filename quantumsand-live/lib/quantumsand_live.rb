@@ -5747,7 +5747,8 @@ class QuantumsandLive
       "rurban/smhasher",
       "hoxxep/rapidhash",
       "eldruin/wyhash-rs",
-      "vnmakarov/mum-hash"
+      "vnmakarov/mum-hash",
+      "veorq/SipHash"
     ]
 
     @git_repos_chromium_googlesource = [
