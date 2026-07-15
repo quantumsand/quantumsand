@@ -5751,7 +5751,8 @@ class QuantumsandLive
       "veorq/SipHash",
       "cbreeden/fxhash",
       "jandrewrogers/MetroHash",
-      "BLAKE2/BLAKE2"
+      "BLAKE2/BLAKE2",
+      "DaniPopes/fixed-cache"
     ]
 
     @git_repos_chromium_googlesource = [
