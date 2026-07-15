@@ -5759,7 +5759,8 @@ class QuantumsandLive
       "hoxxep/rapidrand",
       "hoxxep/portable-hash",
       "rust-random/rand",
-      "jatinkrmalik/vocalinux"
+      "jatinkrmalik/vocalinux",
+      "google-ai-edge/LiteRT"
     ]
 
     @git_repos_chromium_googlesource = [
