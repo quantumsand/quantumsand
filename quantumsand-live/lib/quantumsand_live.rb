@@ -5743,7 +5743,8 @@ class QuantumsandLive
       "nhorman/rng-tools",
       "tkaitchuck/constrandom",
       "wangyi-fudan/wyhash",
-      "Nicoshev/rapidhash"
+      "Nicoshev/rapidhash",
+      "rurban/smhasher"
     ]
 
     @git_repos_chromium_googlesource = [
