@@ -5735,7 +5735,8 @@ class QuantumsandLive
       "rust-lang/glacier",
       "rust-lang/gll",
       "rust-lang/glob",
-      "rust-lang/google-summer-of-code"
+      "rust-lang/google-summer-of-code",
+      "rust-lang/hashbrown"
     ]
 
     @git_repos_chromium_googlesource = [
