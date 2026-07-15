@@ -5762,7 +5762,8 @@ class QuantumsandLive
       "jatinkrmalik/vocalinux",
       "google-ai-edge/LiteRT",
       "rust-random/rngs",
-      "smol-rs/fastrand"
+      "smol-rs/fastrand",
+      "Absolucy/nanorand-rs"
     ]
 
     @git_repos_chromium_googlesource = [
