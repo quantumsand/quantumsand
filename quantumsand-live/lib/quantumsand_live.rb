@@ -5765,7 +5765,8 @@ class QuantumsandLive
       "smol-rs/fastrand",
       "Absolucy/nanorand-rs",
       "Bluefinger/turborand",
-      "rust-lang/triagebot"
+      "rust-lang/triagebot",
+      "rust-lang/simpleinfra"
     ]
 
     @git_repos_chromium_googlesource = [
