@@ -5768,7 +5768,8 @@ class QuantumsandLive
       "rust-lang/triagebot",
       "rust-lang/simpleinfra",
       "rust-lang/infra-smoke-tests",
-      "rust-lang/impl-trait-utils"
+      "rust-lang/impl-trait-utils",
+      "rust-lang/impl-trait-initiative"
     ]
 
     @git_repos_chromium_googlesource = [
