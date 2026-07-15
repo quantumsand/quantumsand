@@ -5770,7 +5770,8 @@ class QuantumsandLive
       "rust-lang/infra-smoke-tests",
       "rust-lang/impl-trait-utils",
       "rust-lang/impl-trait-initiative",
-      "rust-lang/jobserver-rs"
+      "rust-lang/jobserver-rs",
+      "rust-lang/josh-sync"
     ]
 
     @git_repos_chromium_googlesource = [
