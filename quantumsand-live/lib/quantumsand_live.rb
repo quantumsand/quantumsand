@@ -5899,7 +5899,8 @@ class QuantumsandLive
       "zai-org/GLM-5.2",
       "zai-org/GLM-5.1",
       "zai-org/GLM-5.1-FP8",
-      "zai-org/GLM-5-FP8"
+      "zai-org/GLM-5-FP8",
+      "openai/whisper-tiny"
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
