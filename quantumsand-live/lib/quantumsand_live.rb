@@ -5729,7 +5729,8 @@ class QuantumsandLive
       "rust-lang/fls",
       "rust-lang/futures-rs",
       "rust-lang/gccjit.rs",
-      "rust-lang/generic-associated-types-initiative"
+      "rust-lang/generic-associated-types-initiative",
+      "rust-lang/getopts"
     ]
 
     @git_repos_chromium_googlesource = [
