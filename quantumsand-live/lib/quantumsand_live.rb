@@ -5725,7 +5725,8 @@ class QuantumsandLive
       "rust-lang/effects-initiative",
       "rust-lang/ena",
       "rust-lang/ferris-says",
-      "rust-lang/flate2-rs"
+      "rust-lang/flate2-rs",
+      "rust-lang/fls"
     ]
 
     @git_repos_chromium_googlesource = [
