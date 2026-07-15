@@ -5739,7 +5739,8 @@ class QuantumsandLive
       "rust-lang/hashbrown",
       "orlp/foldhash",
       "tkaitchuck/aHash",
-      "rust-random/getrandom"
+      "rust-random/getrandom",
+      "nhorman/rng-tools"
     ]
 
     @git_repos_chromium_googlesource = [
