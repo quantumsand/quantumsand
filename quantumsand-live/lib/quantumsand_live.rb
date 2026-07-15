@@ -5749,7 +5749,8 @@ class QuantumsandLive
       "eldruin/wyhash-rs",
       "vnmakarov/mum-hash",
       "veorq/SipHash",
-      "cbreeden/fxhash"
+      "cbreeden/fxhash",
+      "jandrewrogers/MetroHash"
     ]
 
     @git_repos_chromium_googlesource = [
