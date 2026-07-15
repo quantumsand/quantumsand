@@ -5771,7 +5771,8 @@ class QuantumsandLive
       "rust-lang/impl-trait-utils",
       "rust-lang/impl-trait-initiative",
       "rust-lang/jobserver-rs",
-      "rust-lang/josh-sync"
+      "rust-lang/josh-sync",
+      "josh-project/josh"
     ]
 
     @git_repos_chromium_googlesource = [
