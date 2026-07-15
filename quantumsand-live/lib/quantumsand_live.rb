@@ -5758,7 +5758,8 @@ class QuantumsandLive
       "tursodatabase/turso",
       "hoxxep/rapidrand",
       "hoxxep/portable-hash",
-      "rust-random/rand"
+      "rust-random/rand",
+      "jatinkrmalik/vocalinux"
     ]
 
     @git_repos_chromium_googlesource = [
