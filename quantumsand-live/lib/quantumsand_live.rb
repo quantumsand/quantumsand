@@ -5756,7 +5756,9 @@ class QuantumsandLive
       "metrics-rs/metrics",
       "ranger-ross/reqwest-metrics",
       "tursodatabase/turso",
-      "hoxxep/rapidrand"
+      "hoxxep/rapidrand",
+      "hoxxep/portable-hash",
+      "rust-random/rand"
     ]
 
     @git_repos_chromium_googlesource = [
