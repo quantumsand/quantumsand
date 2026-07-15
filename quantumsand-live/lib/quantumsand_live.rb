@@ -5755,7 +5755,8 @@ class QuantumsandLive
       "DaniPopes/fixed-cache",
       "metrics-rs/metrics",
       "ranger-ross/reqwest-metrics",
-      "tursodatabase/turso"
+      "tursodatabase/turso",
+      "hoxxep/rapidrand"
     ]
 
     @git_repos_chromium_googlesource = [
