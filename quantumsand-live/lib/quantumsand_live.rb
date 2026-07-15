@@ -5750,7 +5750,8 @@ class QuantumsandLive
       "vnmakarov/mum-hash",
       "veorq/SipHash",
       "cbreeden/fxhash",
-      "jandrewrogers/MetroHash"
+      "jandrewrogers/MetroHash",
+      "BLAKE2/BLAKE2"
     ]
 
     @git_repos_chromium_googlesource = [
