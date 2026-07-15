@@ -6849,7 +6849,8 @@ class QuantumsandLive
       "qworld/bronze-qiskit",
       "bzip2/bzip2-testfiles",
       "bzip2/bzip2",
-      "freepascal.org/fpc/source"
+      "freepascal.org/fpc/source",
+      "fwojcik/smhasher3"
     ]
 
     @git_repos_freedesktop_gitlab = [
