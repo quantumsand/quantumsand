@@ -5731,7 +5731,8 @@ class QuantumsandLive
       "rust-lang/gccjit.rs",
       "rust-lang/generic-associated-types-initiative",
       "rust-lang/getopts",
-      "rust-lang/gha-self-hosted"
+      "rust-lang/gha-self-hosted",
+      "rust-lang/glacier"
     ]
 
     @git_repos_chromium_googlesource = [
