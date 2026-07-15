@@ -9106,7 +9106,8 @@ class QuantumsandLive
       "dev-lang/luajit",
       "media-fonts/noto-cjk",
       "media-fonts/noto-emoji",
-      "media-fonts/fira-sans"
+      "media-fonts/fira-sans",
+      "sys-apps/rng-tools"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
