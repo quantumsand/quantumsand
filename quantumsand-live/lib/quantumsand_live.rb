@@ -5752,7 +5752,8 @@ class QuantumsandLive
       "cbreeden/fxhash",
       "jandrewrogers/MetroHash",
       "BLAKE2/BLAKE2",
-      "DaniPopes/fixed-cache"
+      "DaniPopes/fixed-cache",
+      "metrics-rs/metrics"
     ]
 
     @git_repos_chromium_googlesource = [
