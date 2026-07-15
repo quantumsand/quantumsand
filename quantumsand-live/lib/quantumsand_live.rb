@@ -7474,7 +7474,8 @@ class QuantumsandLive
 
     @git_repos_freebsd_org = [
       "src",
-      "ports"
+      "ports",
+      "doc"
     ]
 
     @git_repos_gnome_gitlab = [
