@@ -5737,7 +5737,8 @@ class QuantumsandLive
       "rust-lang/glob",
       "rust-lang/google-summer-of-code",
       "rust-lang/hashbrown",
-      "orlp/foldhash"
+      "orlp/foldhash",
+      "tkaitchuck/aHash"
     ]
 
     @git_repos_chromium_googlesource = [
