@@ -5753,7 +5753,8 @@ class QuantumsandLive
       "jandrewrogers/MetroHash",
       "BLAKE2/BLAKE2",
       "DaniPopes/fixed-cache",
-      "metrics-rs/metrics"
+      "metrics-rs/metrics",
+      "ranger-ross/reqwest-metrics"
     ]
 
     @git_repos_chromium_googlesource = [
