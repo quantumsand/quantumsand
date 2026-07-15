@@ -5767,7 +5767,8 @@ class QuantumsandLive
       "Bluefinger/turborand",
       "rust-lang/triagebot",
       "rust-lang/simpleinfra",
-      "rust-lang/infra-smoke-tests"
+      "rust-lang/infra-smoke-tests",
+      "rust-lang/impl-trait-utils"
     ]
 
     @git_repos_chromium_googlesource = [
