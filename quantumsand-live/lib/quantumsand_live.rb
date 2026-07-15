@@ -5903,7 +5903,8 @@ class QuantumsandLive
       "openai/whisper-tiny",
       "openai/whisper-base",
       "openai/whisper-small",
-      "openai/whisper-medium"
+      "openai/whisper-medium",
+      "openai/whisper-large-v2"
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
