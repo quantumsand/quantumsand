@@ -5745,7 +5745,8 @@ class QuantumsandLive
       "wangyi-fudan/wyhash",
       "Nicoshev/rapidhash",
       "rurban/smhasher",
-      "hoxxep/rapidhash"
+      "hoxxep/rapidhash",
+      "eldruin/wyhash-rs"
     ]
 
     @git_repos_chromium_googlesource = [
