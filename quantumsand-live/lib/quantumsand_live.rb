@@ -5740,7 +5740,8 @@ class QuantumsandLive
       "orlp/foldhash",
       "tkaitchuck/aHash",
       "rust-random/getrandom",
-      "nhorman/rng-tools"
+      "nhorman/rng-tools",
+      "tkaitchuck/constrandom"
     ]
 
     @git_repos_chromium_googlesource = [
