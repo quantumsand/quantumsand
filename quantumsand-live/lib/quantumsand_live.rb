@@ -5742,7 +5742,8 @@ class QuantumsandLive
       "rust-random/getrandom",
       "nhorman/rng-tools",
       "tkaitchuck/constrandom",
-      "wangyi-fudan/wyhash"
+      "wangyi-fudan/wyhash",
+      "Nicoshev/rapidhash"
     ]
 
     @git_repos_chromium_googlesource = [
