@@ -5763,7 +5763,8 @@ class QuantumsandLive
       "google-ai-edge/LiteRT",
       "rust-random/rngs",
       "smol-rs/fastrand",
-      "Absolucy/nanorand-rs"
+      "Absolucy/nanorand-rs",
+      "Bluefinger/turborand"
     ]
 
     @git_repos_chromium_googlesource = [
