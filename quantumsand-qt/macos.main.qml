@@ -86,6 +86,10 @@ ApplicationWindow {
             property bool opacityPanels: true
             property double opacityValue: 0.90
 
+            // secondaryScale
+            property double secondaryScaleX: 1.33
+            property double secondaryScaleY: 0.725
+
             visible: true
             width: window.width
             height: window.height
@@ -936,8 +940,8 @@ ApplicationWindow {
                                 eulerRotation.y: 0
                                 x: 179
                                 y: 310
-                                scale.x: 1.33
-                                scale.y: 0.725
+                                scale.x: win.secondaryScaleX // 1.33
+                                scale.y: win.secondaryScaleY // 0.725
                                 scale.z: 0.1
                                 z: 250
                             }
@@ -1063,8 +1067,8 @@ ApplicationWindow {
                                 eulerRotation.y: 0
                                 x: 179
                                 y: 165
-                                scale.x: 1.33
-                                scale.y: 0.725
+                                scale.x: win.secondaryScaleX // 1.33
+                                scale.y: win.secondaryScaleY // 0.725
                                 scale.z: 0.1
                                 z: 250
                             }
