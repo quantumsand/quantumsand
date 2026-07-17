@@ -90,7 +90,7 @@ const getImageFromApi = async (index) => {
 
 export default function NarratorOverlay({ }) {
   return (
-    <div className="narratorOverlay">
+    <div className="narratorOverlay" style={{border: "5px solid black"}}>
       {/* <Ticker
         offset="50%"
         move={true}

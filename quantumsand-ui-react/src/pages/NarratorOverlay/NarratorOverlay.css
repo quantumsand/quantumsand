@@ -1,5 +1,5 @@
 .narratorOverlay {
-  padding-top: 46% !important;
+  padding-top: calc(56.25% - 148px) !important; /* 56.25% Player ratio: 100 / (1280 / 720) */
   font-family: 'Noto Sans';
 }
 
