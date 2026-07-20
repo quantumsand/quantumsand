@@ -15,6 +15,22 @@ export default function Peers() {
       <Accordion>
         <AccordionSummary
           expandIcon={<ExpandMoreIcon />}
+          aria-controls="sync-content"
+          id="sync-header"
+        >
+          <Typography component="span">Sync</Typography>
+        </AccordionSummary>
+        <AccordionDetails>
+          <Typography component="span">
+            {"It is highly recommended to keep your device connected to its power adapter when syncing/updating \
+            Quantum Sand via decentralised peer-to-peer Quantum Sand Sync."}
+          </Typography>
+        </AccordionDetails>
+      </Accordion>
+
+      <Accordion>
+        <AccordionSummary
+          expandIcon={<ExpandMoreIcon />}
           aria-controls="trusted-keys-content"
           id="trusted-keys-header"
         >
