@@ -5774,7 +5774,8 @@ class QuantumsandLive
       "rust-lang/josh-sync",
       "josh-project/josh",
       "zalandoresearch/fashion-mnist",
-      "mqttjs/MQTT.js"
+      "mqttjs/MQTT.js",
+      "mqttjs/mqtt-packet"
     ]
 
     @git_repos_chromium_googlesource = [
