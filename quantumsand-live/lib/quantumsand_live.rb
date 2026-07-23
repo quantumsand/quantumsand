@@ -5778,6 +5778,10 @@ class QuantumsandLive
       "mqttjs/mqtt-packet"
     ]
 
+    @git_repos_github_lfs = [
+      "amd/RyzenAI-SW"
+    ]
+
     @git_repos_chromium_googlesource = [
       "chromium/src",
       "v8/v8",
