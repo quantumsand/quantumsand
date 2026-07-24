@@ -5776,7 +5776,8 @@ class QuantumsandLive
       "zalandoresearch/fashion-mnist",
       "mqttjs/MQTT.js",
       "mqttjs/mqtt-packet",
-      "ClickHouse/AMQP-CPP"
+      "ClickHouse/AMQP-CPP",
+      "CopernicaMarketingSoftware/AMQP-CPP"
     ]
 
     @git_repos_github_lfs = [
