@@ -5775,7 +5775,8 @@ class QuantumsandLive
       "josh-project/josh",
       "zalandoresearch/fashion-mnist",
       "mqttjs/MQTT.js",
-      "mqttjs/mqtt-packet"
+      "mqttjs/mqtt-packet",
+      "ClickHouse/AMQP-CPP"
     ]
 
     @git_repos_github_lfs = [
