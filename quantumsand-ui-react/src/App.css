@@ -3,7 +3,7 @@
 }
 
 /*
-   Very important for rounded transparent edges on controls
+  Very important for rounded transparent edges on controls
 */
 body { 
   background-color: transparent !important; 
