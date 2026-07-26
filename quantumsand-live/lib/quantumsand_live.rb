@@ -5778,7 +5778,8 @@ class QuantumsandLive
       "mqttjs/mqtt-packet",
       "ClickHouse/AMQP-CPP",
       "CopernicaMarketingSoftware/AMQP-CPP",
-      "ClickHouse/ClickHouse"
+      "ClickHouse/ClickHouse",
+      "dragoonDorise/EmuDeck"
     ]
 
     @git_repos_github_lfs = [
