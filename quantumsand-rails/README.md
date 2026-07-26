@@ -171,8 +171,6 @@ More to follow.
 - game_inventory `:json`
 - game_shop `:json`
 - game_ui `:json`
-- game_thumbnail_hash_hex `:string`
-- game_video_preview_hash_hex `:string`
 
 
 ### Game Slots table
