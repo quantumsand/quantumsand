@@ -147,7 +147,8 @@ More to follow.
 - advertising_business_page `:string`
 - narrative_sync `:json`
 - chronological_triggers `:json`
-- grain_thumbnail `:string`
+- grain_thumbnail_hash_hex `:string`
+- grain_video_preview_hash_hex `:string`
 - grain_dependencies `:json`
 
 
@@ -170,6 +171,8 @@ More to follow.
 - game_inventory `:json`
 - game_shop `:json`
 - game_ui `:json`
+- game_thumbnail_hash_hex `:string`
+- game_video_preview_hash_hex `:string`
 
 
 ### Game Slots table
@@ -187,9 +190,8 @@ More to follow.
 - qr_code `:string`
 - resource_type `:string`
 - resource_path `:string`
-- resource_data `:json`
+- resource_metadata `:json`
 - resource_hash_hex `:string`
-- resource_thumbnail `:string`
 
 
 ### Geospatial Traces table
