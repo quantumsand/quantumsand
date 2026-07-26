@@ -11,7 +11,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/lamps.jpg"
   },
   {
@@ -20,7 +20,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/artificial-intelligence.jpg"
   },
   {
@@ -29,7 +29,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/quantum-mechanics.jpg"
   },
   {
@@ -38,7 +38,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/coding.jpg"
   },
   {
@@ -47,7 +47,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/mathematics.jpg"
   },
   {
@@ -56,7 +56,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/2.5d-art.jpg"
   },
   {
@@ -65,7 +65,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/arabic.jpg"
   },
   {
@@ -74,7 +74,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/chinese.jpg"
   },
   {
@@ -83,7 +83,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/japanese.jpg"
   },
   {
@@ -92,7 +92,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/geospatial-mapping.jpg"
   },
   {
@@ -101,7 +101,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/semiconductors.jpg"
   },
   {
@@ -110,7 +110,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/judo.jpg"
   },
   {
@@ -119,7 +119,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/cybersecurity.jpg"
   },
   {
@@ -128,7 +128,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/shakespeare.jpg"
   },
   {
@@ -137,7 +137,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/microfarming.jpg"
   },
   {
@@ -146,7 +146,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/swimming.jpg"
   },
   {
@@ -155,7 +155,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/nuclear-fusion.jpg"
   },
   {
@@ -164,7 +164,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/conservation.jpg"
   },
   {
@@ -173,7 +173,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/3d-art.jpg"
   },
   {
@@ -182,7 +182,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/biophysics.jpg"
   },
   {
@@ -191,7 +191,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/biochemistry.jpg"
   },
   {
@@ -200,7 +200,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/technology.jpg"
   },
   {
@@ -209,7 +209,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/space.jpg"
   },
   {
@@ -218,7 +218,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/music-theory.jpg"
   },
   {
@@ -227,44 +227,44 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/gold-and-silver.jpg"
   },
   {
     id: 26,
-    title: "Introduction to QALB Story",
+    title: "Introduction to Quantum Sand Story",
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/introduction-to-QALB-Story.png"
   },
   {
     id: 27,
-    title: "QALB Talks – Artificial Intelligence – 1",
+    title: "Quantum Sand Talks – Artificial Intelligence – 1",
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Talks",
+    channel: "Quantum Sand Talks",
     image: "/thumbs/artificial-intelligence.jpg"
   },
   {
     id: 28,
-    title: "QALB Talks – Artificial Intelligence – 2",
+    title: "Quantum Sand Talks – Artificial Intelligence – 2",
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Talks",
+    channel: "Quantum Sand Talks",
     image: "/thumbs/artificial-intelligence.jpg"
   },
   {
     id: 29,
-    title: "Apology to the Ummah, Darqawi and everyone",
+    title: "Introduction to Quantum Sand for the Ummah, Darqawi and everyone",
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
     channel: "Yusuf Potter",
-    image: "/thumbs/apology-yusuf-potter.jpg"
+    image: "/images/quantumsand-experimental-hourglass.svg"
   },
   {
     id: 30,
@@ -272,7 +272,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Talks",
+    channel: "Quantum Sand Talks",
     image: "/thumbs/islam.jpg"
   },
   {
@@ -281,7 +281,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Talks",
+    channel: "Quantum Sand Talks",
     image: "/thumbs/videogame-development.jpg"
   },
   {
@@ -290,7 +290,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Videogame",
+    channel: "Quantum Sand Videogame",
     image: "/interactive/TMP_black.svg"
   },
   {
@@ -299,7 +299,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Videogame",
+    channel: "Quantum Sand Videogame",
     image: "/interactive/TSP_black.svg"
   },
   {
@@ -308,16 +308,16 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Videogame",
+    channel: "Quantum Sand Videogame",
     image: "/interactive/FDG_colours.svg"
   },
   {
     id: 35,
-    title: "Introduction to Geospatial SQL for Machine Learning",
+    title: "Introduction to Geospatial AI",
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Talks",
+    channel: "Quantum Sand Talks",
     image: "/thumbs/geospatial-sql.jpg"
   },
   {
@@ -326,7 +326,7 @@ export default function AV({ logo = "/icons/coracaozinho-para-o-luiz-otavio.svg"
     views: "2.3M",
     timestamp: "3 days ago",
     channelImage: "/icons/coracaozinho-para-o-luiz-otavio.svg",
-    channel: "QALB Story",
+    channel: "Quantum Sand",
     image: "/thumbs/free-software.jpg"
   }
 ] }) {
