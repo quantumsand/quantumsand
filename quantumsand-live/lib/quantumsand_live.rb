@@ -46,6 +46,7 @@ class QuantumsandLive
     @git_repos_sourceware_org_url = ENV.fetch("GIT_REPOS_SOURCEWARE_ORG_URL")
     @git_repos_libssh_org_url = ENV.fetch("GIT_REPOS_LIBSSH_ORG_URL")
     @git_repos_gcc_gnu_org_url = ENV.fetch("GIT_REPOS_GCC_GNU_ORG_URL")
+    @git_repos_musl_libc_org_url = ENV.fetch("GIT_REPOS_MUSL_LIBC_ORG_URL")
     @git_repos_savannah_gnu_org_url = ENV.fetch("GIT_REPOS_SAVANNAH_GNU_ORG_URL")
     @git_repos_savannah_nongnu_org_url = ENV.fetch("GIT_REPOS_SAVANNAH_NONGNU_ORG_URL")
     @git_repos_gnu_org_ua_url = ENV.fetch("GIT_REPOS_GNU_ORG_UA_URL")
@@ -6437,6 +6438,10 @@ class QuantumsandLive
     @git_repos_gcc_gnu_org = [
       "gcc",
       "gcc-wwwdocs"
+    ]
+
+    @git_repos_musl_libc_org = [
+      "musl"
     ]
 
     @git_repos_savannah_gnu_org = [
