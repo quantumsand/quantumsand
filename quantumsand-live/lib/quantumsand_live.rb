@@ -5804,7 +5804,8 @@ class QuantumsandLive
       "safetensors/safetensors",
       "rust-lang/polonius",
       "rust-lang/pontoon",
-      "mozilla/pontoon"
+      "mozilla/pontoon",
+      "rust-lang/portable-simd"
     ]
 
     @git_repos_github_lfs = [
