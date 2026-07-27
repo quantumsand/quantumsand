@@ -5807,7 +5807,8 @@ class QuantumsandLive
       "mozilla/pontoon",
       "rust-lang/portable-simd",
       "rust-lang/stdarch",
-      "rust-lang/www.rust-lang.org"
+      "rust-lang/www.rust-lang.org",
+      "rust-lang/project-const-generics"
     ]
 
     @git_repos_github_lfs = [
