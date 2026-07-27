@@ -5781,7 +5781,8 @@ class QuantumsandLive
       "ClickHouse/ClickHouse",
       "dragoonDorise/EmuDeck",
       "rust-lang/libbacktrace",
-      "rust-lang/libc"
+      "rust-lang/libc",
+      "rust-lang/libm"
     ]
 
     @git_repos_github_lfs = [
