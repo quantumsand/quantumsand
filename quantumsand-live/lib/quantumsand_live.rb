@@ -5794,7 +5794,8 @@ class QuantumsandLive
       "rust-lang/miri-test-libstd",
       "rust-lang/monitorbot",
       "rust-lang/odht",
-      "rust-lang/packed_simd"
+      "rust-lang/packed_simd",
+      "rust-lang/pin-utils"
     ]
 
     @git_repos_github_lfs = [
