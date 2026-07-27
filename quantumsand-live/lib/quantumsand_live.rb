@@ -5796,7 +5796,8 @@ class QuantumsandLive
       "rust-lang/odht",
       "rust-lang/packed_simd",
       "rust-lang/pin-utils",
-      "gdesmott/system-deps"
+      "gdesmott/system-deps",
+      "joshtriplett/metadeps"
     ]
 
     @git_repos_github_lfs = [
