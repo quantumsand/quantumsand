@@ -5816,7 +5816,8 @@ class QuantumsandLive
       "rust-lang/relnotes",
       "renovatebot/renovate",
       "rust-lang/renovate",
-      "rust-lang/rfcbot-rs"
+      "rust-lang/rfcbot-rs",
+      "rust-lang-nursery/lazy-static.rs"
     ]
 
     @git_repos_github_lfs = [
