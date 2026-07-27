@@ -5820,7 +5820,8 @@ class QuantumsandLive
       "rust-lang-nursery/lazy-static.rs",
       "rust-lang/rust-artwork",
       "rust-lang/rust-clippy",
-      "rust-lang/rust-dbg-ext"
+      "rust-lang/rust-dbg-ext",
+      "rust-lang/style-team"
     ]
 
     @git_repos_github_lfs = [
