@@ -5822,7 +5822,8 @@ class QuantumsandLive
       "rust-lang/rust-clippy",
       "rust-lang/rust-dbg-ext",
       "rust-lang/style-team",
-      "rust-lang/rust-log-analyzer"
+      "rust-lang/rust-log-analyzer",
+      "rust-lang/rust-playground"
     ]
 
     @git_repos_github_lfs = [
