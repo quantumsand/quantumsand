@@ -5824,7 +5824,8 @@ class QuantumsandLive
       "rust-lang/style-team",
       "rust-lang/rust-log-analyzer",
       "rust-lang/rust-playground",
-      "rust-lang/rustfmt"
+      "rust-lang/rustfmt",
+      "rust-lang/rust-project-goals"
     ]
 
     @git_repos_github_lfs = [
