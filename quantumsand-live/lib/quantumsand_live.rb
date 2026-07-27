@@ -5812,7 +5812,8 @@ class QuantumsandLive
       "rust-lang/promote-release",
       "rust-lang/regex",
       "BurntSushi/rebar",
-      "rust-lang/release-team"
+      "rust-lang/release-team",
+      "rust-lang/relnotes"
     ]
 
     @git_repos_github_lfs = [
