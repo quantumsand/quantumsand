@@ -5803,7 +5803,8 @@ class QuantumsandLive
       "NVIDIA-NeMo/labs-OO-Agents",
       "safetensors/safetensors",
       "rust-lang/polonius",
-      "rust-lang/pontoon"
+      "rust-lang/pontoon",
+      "mozilla/pontoon"
     ]
 
     @git_repos_github_lfs = [
