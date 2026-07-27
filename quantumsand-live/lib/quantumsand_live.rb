@@ -5798,7 +5798,8 @@ class QuantumsandLive
       "rust-lang/pin-utils",
       "gdesmott/system-deps",
       "joshtriplett/metadeps",
-      "rust-lang/pkg-config-rs"
+      "rust-lang/pkg-config-rs",
+      "bytebeamio/rumqtt"
     ]
 
     @git_repos_github_lfs = [
