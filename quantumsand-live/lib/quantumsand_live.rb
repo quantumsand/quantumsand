@@ -5783,7 +5783,8 @@ class QuantumsandLive
       "dragoonDorise/EmuDeck",
       "rust-lang/libbacktrace",
       "rust-lang/libc",
-      "rust-lang/libm"
+      "rust-lang/libm",
+      "rust-lang/libs-team"
     ]
 
     @git_repos_github_lfs = [
