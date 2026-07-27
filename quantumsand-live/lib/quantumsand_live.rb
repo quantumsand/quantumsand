@@ -5809,7 +5809,8 @@ class QuantumsandLive
       "rust-lang/stdarch",
       "rust-lang/www.rust-lang.org",
       "rust-lang/project-const-generics",
-      "rust-lang/promote-release"
+      "rust-lang/promote-release",
+      "rust-lang/regex"
     ]
 
     @git_repos_github_lfs = [
