@@ -5808,7 +5808,8 @@ class QuantumsandLive
       "rust-lang/portable-simd",
       "rust-lang/stdarch",
       "rust-lang/www.rust-lang.org",
-      "rust-lang/project-const-generics"
+      "rust-lang/project-const-generics",
+      "rust-lang/promote-release"
     ]
 
     @git_repos_github_lfs = [
