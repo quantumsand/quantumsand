@@ -5800,7 +5800,8 @@ class QuantumsandLive
       "joshtriplett/metadeps",
       "rust-lang/pkg-config-rs",
       "bytebeamio/rumqtt",
-      "NVIDIA-NeMo/labs-OO-Agents"
+      "NVIDIA-NeMo/labs-OO-Agents",
+      "safetensors/safetensors"
     ]
 
     @git_repos_github_lfs = [
