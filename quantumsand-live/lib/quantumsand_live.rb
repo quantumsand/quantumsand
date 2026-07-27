@@ -5790,7 +5790,8 @@ class QuantumsandLive
       "rust-lang/literal-escaper",
       "rust-lang/measureme",
       "rust-lang/miri",
-      "nextest-rs/nextest"
+      "nextest-rs/nextest",
+      "rust-lang/miri-test-libstd"
     ]
 
     @git_repos_github_lfs = [
