@@ -5802,7 +5802,8 @@ class QuantumsandLive
       "bytebeamio/rumqtt",
       "NVIDIA-NeMo/labs-OO-Agents",
       "safetensors/safetensors",
-      "rust-lang/polonius"
+      "rust-lang/polonius",
+      "rust-lang/pontoon"
     ]
 
     @git_repos_github_lfs = [
