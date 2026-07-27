@@ -5813,7 +5813,8 @@ class QuantumsandLive
       "rust-lang/regex",
       "BurntSushi/rebar",
       "rust-lang/release-team",
-      "rust-lang/relnotes"
+      "rust-lang/relnotes",
+      "renovatebot/renovate"
     ]
 
     @git_repos_github_lfs = [
