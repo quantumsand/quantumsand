@@ -5779,7 +5779,8 @@ class QuantumsandLive
       "ClickHouse/AMQP-CPP",
       "CopernicaMarketingSoftware/AMQP-CPP",
       "ClickHouse/ClickHouse",
-      "dragoonDorise/EmuDeck"
+      "dragoonDorise/EmuDeck",
+      "rust-lang/libbacktrace"
     ]
 
     @git_repos_github_lfs = [
