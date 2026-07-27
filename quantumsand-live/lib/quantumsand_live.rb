@@ -5791,7 +5791,8 @@ class QuantumsandLive
       "rust-lang/measureme",
       "rust-lang/miri",
       "nextest-rs/nextest",
-      "rust-lang/miri-test-libstd"
+      "rust-lang/miri-test-libstd",
+      "rust-lang/monitorbot"
     ]
 
     @git_repos_github_lfs = [
