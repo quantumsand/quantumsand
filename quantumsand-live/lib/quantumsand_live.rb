@@ -5784,7 +5784,8 @@ class QuantumsandLive
       "rust-lang/libbacktrace",
       "rust-lang/libc",
       "rust-lang/libm",
-      "rust-lang/libs-team"
+      "rust-lang/libs-team",
+      "rust-lang/libtest"
     ]
 
     @git_repos_github_lfs = [
