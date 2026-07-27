@@ -5788,7 +5788,8 @@ class QuantumsandLive
       "rust-lang/libtest",
       "rust-lang/libz-sys",
       "rust-lang/literal-escaper",
-      "rust-lang/measureme"
+      "rust-lang/measureme",
+      "rust-lang/miri"
     ]
 
     @git_repos_github_lfs = [
