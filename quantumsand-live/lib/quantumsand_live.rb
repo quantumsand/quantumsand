@@ -4180,7 +4180,7 @@ class QuantumsandLive
       "microsoft/agent-governance-toolkit",
       "google-gemma/cookbook",
       "huggingface/accelerate",
-      "facebook/create-react-app",
+      "react/create-react-app",
       "aws/aws-sdk-cpp",
       "awslabs/aws-crt-cpp",
       "awslabs/aws-c-common",
