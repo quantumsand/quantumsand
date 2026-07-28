@@ -5830,7 +5830,8 @@ class QuantumsandLive
       "mattn/webapi-vim",
       "rust-lang/rustc-dev-guide",
       "rust-lang/rustc-hash",
-      "future-agi/future-agi"
+      "future-agi/future-agi",
+      "lmn1919/dompdf.js"
     ]
 
     @git_repos_github_lfs = [
