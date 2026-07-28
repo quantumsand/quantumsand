@@ -5829,7 +5829,8 @@ class QuantumsandLive
       "rust-lang/rust.vim",
       "mattn/webapi-vim",
       "rust-lang/rustc-dev-guide",
-      "rust-lang/rustc-hash"
+      "rust-lang/rustc-hash",
+      "future-agi/future-agi"
     ]
 
     @git_repos_github_lfs = [
