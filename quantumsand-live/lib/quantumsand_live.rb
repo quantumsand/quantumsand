@@ -6540,7 +6540,8 @@ class QuantumsandLive
       "inetutils",
       "hurd/hurd",
       "icoutils",
-      "autoconf-archive"
+      "autoconf-archive",
+      "dejagnu"
     ]
 
     @git_repos_savannah_nongnu_org = [
