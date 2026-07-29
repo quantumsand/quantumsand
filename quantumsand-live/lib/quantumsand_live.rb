@@ -5875,7 +5875,8 @@ class QuantumsandLive
       "apache/arrow",
       "apache/arrow-swift",
       "apache/arrow-go",
-      "apache/arrow-js"
+      "apache/arrow-js",
+      "apache/arrow-rs"
     ]
 
     @git_repos_github_lfs = [
