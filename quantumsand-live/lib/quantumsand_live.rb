@@ -5841,7 +5841,8 @@ class QuantumsandLive
       "bytecodealliance/wasmtime",
       "WebAssembly/testsuite",
       "WebAssembly/wasi-testsuite",
-      "WebAssembly/component-model"
+      "WebAssembly/component-model",
+      "rust-lang/rustc_codegen_cranelift"
     ]
 
     @git_repos_github_lfs = [
