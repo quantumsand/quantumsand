@@ -5867,7 +5867,8 @@ class QuantumsandLive
       "inikep/lzbench",
       "ClickHouse/librdkafka",
       "confluentinc/librdkafka",
-      "apache/kafka"
+      "apache/kafka",
+      "ClickHouse/cctz"
     ]
 
     @git_repos_github_lfs = [
