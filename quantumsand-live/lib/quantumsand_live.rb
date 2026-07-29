@@ -5834,7 +5834,8 @@ class QuantumsandLive
       "lmn1919/dompdf.js",
       "rust-lang/rustc-pr-tracking",
       "rust-lang/rustc-rayon",
-      "RReverser/wasm-bindgen-rayon"
+      "RReverser/wasm-bindgen-rayon",
+      "rust-lang/rustc-stable-hash"
     ]
 
     @git_repos_github_lfs = [
