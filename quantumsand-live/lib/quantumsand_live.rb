@@ -5836,7 +5836,8 @@ class QuantumsandLive
       "rust-lang/rustc-rayon",
       "RReverser/wasm-bindgen-rayon",
       "rust-lang/rustc-stable-hash",
-      "rust-lang/rustc_apfloat"
+      "rust-lang/rustc_apfloat",
+      "rust-lang/rustc_codegen_c"
     ]
 
     @git_repos_github_lfs = [
