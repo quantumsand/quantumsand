@@ -5874,7 +5874,8 @@ class QuantumsandLive
       "ClickHouse/boost",
       "apache/arrow",
       "apache/arrow-swift",
-      "apache/arrow-go"
+      "apache/arrow-go",
+      "apache/arrow-js"
     ]
 
     @git_repos_github_lfs = [
