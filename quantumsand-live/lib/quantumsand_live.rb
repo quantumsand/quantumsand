@@ -5864,7 +5864,8 @@ class QuantumsandLive
       "zulip/zulip-archive",
       "Thalhammer/jwt-cpp",
       "ClickHouse/zstd",
-      "inikep/lzbench"
+      "inikep/lzbench",
+      "ClickHouse/librdkafka"
     ]
 
     @git_repos_github_lfs = [
