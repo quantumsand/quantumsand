@@ -5852,7 +5852,8 @@ class QuantumsandLive
       "rust-lang/socket2",
       "Manishearth/libssh2",
       "rust-lang/ssh2-rs",
-      "rust-lang/stacker"
+      "rust-lang/stacker",
+      "rust-lang/std-dev-guide"
     ]
 
     @git_repos_github_lfs = [
