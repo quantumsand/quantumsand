@@ -5862,7 +5862,8 @@ class QuantumsandLive
       "rust-lang/wg-async",
       "zulip/zulip",
       "zulip/zulip-archive",
-      "Thalhammer/jwt-cpp"
+      "Thalhammer/jwt-cpp",
+      "ClickHouse/zstd"
     ]
 
     @git_repos_github_lfs = [
