@@ -5870,7 +5870,8 @@ class QuantumsandLive
       "apache/kafka",
       "ClickHouse/cctz",
       "google/cctz",
-      "mariadb-corporation/mariadb-connector-c"
+      "mariadb-corporation/mariadb-connector-c",
+      "ClickHouse/boost"
     ]
 
     @git_repos_github_lfs = [
