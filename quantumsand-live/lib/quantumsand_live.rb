@@ -5878,7 +5878,8 @@ class QuantumsandLive
       "apache/arrow-js",
       "apache/arrow-rs",
       "apache/arrow-rs-object-store",
-      "apache/datafusion-python"
+      "apache/datafusion-python",
+      "apache/datafusion-comet"
     ]
 
     @git_repos_github_lfs = [
