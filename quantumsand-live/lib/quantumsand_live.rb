@@ -5854,7 +5854,8 @@ class QuantumsandLive
       "rust-lang/ssh2-rs",
       "rust-lang/stacker",
       "rust-lang/std-dev-guide",
-      "rust-lang/std-replacement-data"
+      "rust-lang/std-replacement-data",
+      "rust-lang/thanks"
     ]
 
     @git_repos_github_lfs = [
