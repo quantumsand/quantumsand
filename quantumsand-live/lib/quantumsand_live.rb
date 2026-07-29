@@ -5844,7 +5844,8 @@ class QuantumsandLive
       "WebAssembly/component-model",
       "rust-lang/rustc_codegen_cranelift",
       "rust-lang/rustc_codegen_gcc",
-      "rust-lang/rustc_public"
+      "rust-lang/rustc_public",
+      "rust-lang/rustdoc-types"
     ]
 
     @git_repos_github_lfs = [
