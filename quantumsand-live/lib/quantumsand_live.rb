@@ -5850,7 +5850,8 @@ class QuantumsandLive
       "rust-lang/rustup-components-history",
       "rust-lang/rustwide",
       "rust-lang/socket2",
-      "Manishearth/libssh2"
+      "Manishearth/libssh2",
+      "rust-lang/ssh2-rs"
     ]
 
     @git_repos_github_lfs = [
