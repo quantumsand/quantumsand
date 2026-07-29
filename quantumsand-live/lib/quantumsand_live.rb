@@ -5858,7 +5858,8 @@ class QuantumsandLive
       "rust-lang/thanks",
       "rust-lang/this-week-in-rust",
       "rust-lang/thorin",
-      "rust-lang/unsafe-code-guidelines"
+      "rust-lang/unsafe-code-guidelines",
+      "rust-lang/wg-async"
     ]
 
     @git_repos_github_lfs = [
