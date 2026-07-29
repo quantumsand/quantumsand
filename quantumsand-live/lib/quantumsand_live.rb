@@ -5832,7 +5832,8 @@ class QuantumsandLive
       "rust-lang/rustc-hash",
       "future-agi/future-agi",
       "lmn1919/dompdf.js",
-      "rust-lang/rustc-pr-tracking"
+      "rust-lang/rustc-pr-tracking",
+      "rust-lang/rustc-rayon"
     ]
 
     @git_repos_github_lfs = [
