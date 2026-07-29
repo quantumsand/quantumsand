@@ -5833,7 +5833,8 @@ class QuantumsandLive
       "future-agi/future-agi",
       "lmn1919/dompdf.js",
       "rust-lang/rustc-pr-tracking",
-      "rust-lang/rustc-rayon"
+      "rust-lang/rustc-rayon",
+      "RReverser/wasm-bindgen-rayon"
     ]
 
     @git_repos_github_lfs = [
