@@ -5840,7 +5840,8 @@ class QuantumsandLive
       "rust-lang/rustc_codegen_c",
       "bytecodealliance/wasmtime",
       "WebAssembly/testsuite",
-      "WebAssembly/wasi-testsuite"
+      "WebAssembly/wasi-testsuite",
+      "WebAssembly/component-model"
     ]
 
     @git_repos_github_lfs = [
