@@ -5871,7 +5871,8 @@ class QuantumsandLive
       "ClickHouse/cctz",
       "google/cctz",
       "mariadb-corporation/mariadb-connector-c",
-      "ClickHouse/boost"
+      "ClickHouse/boost",
+      "apache/arrow"
     ]
 
     @git_repos_github_lfs = [
