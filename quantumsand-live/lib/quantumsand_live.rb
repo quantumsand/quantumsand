@@ -5880,7 +5880,8 @@ class QuantumsandLive
       "apache/arrow-rs-object-store",
       "apache/datafusion-python",
       "apache/datafusion-comet",
-      "apache/datafusion-ballista"
+      "apache/datafusion-ballista",
+      "apache/opendal"
     ]
 
     @git_repos_github_lfs = [
