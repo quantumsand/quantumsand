@@ -5847,7 +5847,8 @@ class QuantumsandLive
       "rust-lang/rustc_public",
       "rust-lang/rustdoc-types",
       "rust-lang/rustlings",
-      "rust-lang/rustup-components-history"
+      "rust-lang/rustup-components-history",
+      "rust-lang/rustwide"
     ]
 
     @git_repos_github_lfs = [
