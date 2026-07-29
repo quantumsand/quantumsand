@@ -5845,7 +5845,8 @@ class QuantumsandLive
       "rust-lang/rustc_codegen_cranelift",
       "rust-lang/rustc_codegen_gcc",
       "rust-lang/rustc_public",
-      "rust-lang/rustdoc-types"
+      "rust-lang/rustdoc-types",
+      "rust-lang/rustlings"
     ]
 
     @git_repos_github_lfs = [
