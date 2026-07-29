@@ -5842,7 +5842,8 @@ class QuantumsandLive
       "WebAssembly/testsuite",
       "WebAssembly/wasi-testsuite",
       "WebAssembly/component-model",
-      "rust-lang/rustc_codegen_cranelift"
+      "rust-lang/rustc_codegen_cranelift",
+      "rust-lang/rustc_codegen_gcc"
     ]
 
     @git_repos_github_lfs = [
