@@ -5873,7 +5873,8 @@ class QuantumsandLive
       "mariadb-corporation/mariadb-connector-c",
       "ClickHouse/boost",
       "apache/arrow",
-      "apache/arrow-swift"
+      "apache/arrow-swift",
+      "apache/arrow-go"
     ]
 
     @git_repos_github_lfs = [
