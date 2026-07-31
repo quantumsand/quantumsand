@@ -109,6 +109,13 @@ JSON Value
 * Choose the option; “Optimise just for recording, I will not be streaming”
 * Accept and apply the default settings.
 * For now you can close OBS Studio.
+* Install Kdenlive (KDE Non-Linear Video Editor); for macOS (Apple Silicon); make sure it is the arm64 dmg.
+* Open Kdenlive; You might be asked: “kdenlive” is an app downloaded from the internet. Are you sure you want to open it?
+* Click Open.
+* You can leave the default settings for now; Click “Start Editing”.
+* You might be asked: “kdenlive” would like to access files in your Documents folder.
+* Click Allow.
+* For now you can close Kdenlive.
 * Install LDtk; for macOS (experimental).
 * Open System Settings; Go into Privacy & Security; You should see: “LDtk” was blocked to protect your Mac.
 * Click Open Anyway; Twice. LDtk should have loaded. From now on, it should load fine without any issues.
