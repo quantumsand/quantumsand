@@ -9093,6 +9093,7 @@ class QuantumsandLive
       "dev-db/pgrouting",
       "dev-python/jupyter",
       "kde-plasma/plasma-meta",
+      "kde-apps/kdenlive",
       "gnome-base/gnome",
       "dev-lang/haxe",
       "dev-libs/libev",
