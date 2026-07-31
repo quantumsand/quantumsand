@@ -2200,7 +2200,6 @@ class QuantumsandLive
       "hyprwm/hyprland-protocols",
       "canihavesomecoffee/udis86",
       "wolfpld/tracy",
-      "mltframework/shotcut",
       "mltframework/webvfx",
       "mavlink/MAVSDK-Python",
       "mavlink/MAVSDK-Swift",
