@@ -5881,7 +5881,8 @@ class QuantumsandLive
       "apache/datafusion-comet",
       "apache/datafusion-ballista",
       "apache/opendal",
-      "brewfs/brewfs"
+      "brewfs/brewfs",
+      "avrdudes/avr-libc"
     ]
 
     @git_repos_github_lfs = [
