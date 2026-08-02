@@ -15,4 +15,5 @@ This will include:
 * Bevy CEF animated book (bevy_cef/cef-rs); render web pages into a 3d animated book using Bevy and CEF.
 * Bevy CEF animated newspaper (bevy_cef/cef-rs); render web pages into a 3d animated newspaper using Bevy and CEF.
 * Bevy CEF animated compendium (bevy_cef/cef-rs); render web pages into a 3d oraculum calendrical compendium using Bevy and CEF.
+* Bevy CEF animated adverts; render the React component for Adverts within the game.
 * PyO3; running and interacting with Python code from Rust.
