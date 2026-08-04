@@ -5883,7 +5883,8 @@ class QuantumsandLive
       "apache/opendal",
       "brewfs/brewfs",
       "avrdudes/avr-libc",
-      "picolibc/picolibc"
+      "picolibc/picolibc",
+      "hughsie/passim"
     ]
 
     @git_repos_github_lfs = [
