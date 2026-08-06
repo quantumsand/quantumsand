@@ -5884,7 +5884,8 @@ class QuantumsandLive
       "brewfs/brewfs",
       "avrdudes/avr-libc",
       "picolibc/picolibc",
-      "hughsie/passim"
+      "hughsie/passim",
+      "fatihak/InkyPi"
     ]
 
     @git_repos_github_lfs = [
