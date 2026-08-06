@@ -71,6 +71,7 @@ This will include:
 * Oban (Robust job processing in Elixir)
 * Redix (Redis and Valkey client written in pure Elixir)
 * valkey-py (Valkey Python client)
+* Inky (Python library for e-paper displays)
 
 More to follow.
 
