@@ -5885,7 +5885,8 @@ class QuantumsandLive
       "avrdudes/avr-libc",
       "picolibc/picolibc",
       "hughsie/passim",
-      "fatihak/InkyPi"
+      "fatihak/InkyPi",
+      "ROCm/spur"
     ]
 
     @git_repos_github_lfs = [
