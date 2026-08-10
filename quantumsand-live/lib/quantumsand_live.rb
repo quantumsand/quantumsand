@@ -6037,7 +6037,8 @@ class QuantumsandLive
       "openai/whisper-base",
       "openai/whisper-small",
       "openai/whisper-medium",
-      "openai/whisper-large-v2"
+      "openai/whisper-large-v2",
+      "meta-models/Muse-Glimmer-30B"
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
