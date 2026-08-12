@@ -98,6 +98,15 @@ JSON Value
 * To start ejabberd now and restart at login: `brew services start ejabberd`
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
 * Install Blender 4.5 LTS (Apple Silicon); make sure it is the arm64 dmg.
+* Install Inkscape; “dmg file for arm64 architecture, macOS”; make sure it is the arm64 dmg.
+* Open Inkscape; You might be asked: “Inkscape” is an app downloaded from the internet. Are you sure you want to open it?
+* Click Open.
+* You can leave the default settings for now; within “Quick Setup”.
+* Click “Save”.
+* You can read through “Supported by You”.
+* Click “Thanks!”.
+* On the “Time to Draw” section you can click “New Document”.
+* For now you can close Inkscape.
 * Install Wacom tablet macOS driver; if you have a Wacom tablet; double click the pkg within the dmg.
 * Install Huion tablet macOS driver; if you have a Huion tablet.
 * Install Krita.
