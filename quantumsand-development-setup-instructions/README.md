@@ -107,6 +107,15 @@ JSON Value
 * Click “Thanks!”.
 * On the “Time to Draw” section you can click “New Document”.
 * For now you can close Inkscape.
+* Install GIMP (GNU Image Manipulation Program); “for Apple Silicon directly”; make sure it is the arm64 dmg.
+* Open GIMP. You might be asked: “GIMP” is an app downloaded from the internet. Are you sure you want to open it?
+* Click Open.
+* You might be asked: Allow “GIMP” to find devices on local networks?
+* You can decide if you want GIMP to see your local networks; Choose either “Allow” or “Don’t Allow”.
+* You should see the initial pop-up; “Welcome to GIMP”.
+* If you wish to, you can read through; “Welcome”, “Personalise”, “Contribute”, “Create” and “Release Notes”.
+* You can close this pop-up using “Close”.
+* For now you can close GIMP.
 * Install Wacom tablet macOS driver; if you have a Wacom tablet; double click the pkg within the dmg.
 * Install Huion tablet macOS driver; if you have a Huion tablet.
 * Install Krita.
