@@ -5891,7 +5891,8 @@ class QuantumsandLive
       "JaidedAI/EasyOCR",
       "gradio-app/gradio",
       "clovaai/CRAFT-pytorch",
-      "clovaai/deep-text-recognition-benchmark"
+      "clovaai/deep-text-recognition-benchmark",
+      "Belval/TextRecognitionDataGenerator"
     ]
 
     @git_repos_github_lfs = [
