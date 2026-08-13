@@ -5888,7 +5888,8 @@ class QuantumsandLive
       "fatihak/InkyPi",
       "ROCm/spur",
       "polychromatic/polychromatic",
-      "JaidedAI/EasyOCR"
+      "JaidedAI/EasyOCR",
+      "gradio-app/gradio"
     ]
 
     @git_repos_github_lfs = [
