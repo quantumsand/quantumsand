@@ -5889,7 +5889,8 @@ class QuantumsandLive
       "ROCm/spur",
       "polychromatic/polychromatic",
       "JaidedAI/EasyOCR",
-      "gradio-app/gradio"
+      "gradio-app/gradio",
+      "clovaai/CRAFT-pytorch"
     ]
 
     @git_repos_github_lfs = [
