@@ -5887,7 +5887,8 @@ class QuantumsandLive
       "hughsie/passim",
       "fatihak/InkyPi",
       "ROCm/spur",
-      "polychromatic/polychromatic"
+      "polychromatic/polychromatic",
+      "JaidedAI/EasyOCR"
     ]
 
     @git_repos_github_lfs = [
