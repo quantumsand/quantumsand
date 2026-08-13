@@ -5890,7 +5890,8 @@ class QuantumsandLive
       "polychromatic/polychromatic",
       "JaidedAI/EasyOCR",
       "gradio-app/gradio",
-      "clovaai/CRAFT-pytorch"
+      "clovaai/CRAFT-pytorch",
+      "clovaai/deep-text-recognition-benchmark"
     ]
 
     @git_repos_github_lfs = [
