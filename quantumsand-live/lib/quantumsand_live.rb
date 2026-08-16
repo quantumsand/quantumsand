@@ -9113,6 +9113,7 @@ class QuantumsandLive
       "dev-python/docutils",
       "dev-libs/libyaml",
       "dev-lang/zig",
+      "dev-vcs/git",
       "dev-vcs/git-lfs",
       "sys-fs/f2fs-tools",
       "dev-vcs/fossil",
