@@ -74,6 +74,7 @@ This will include:
 * Inky (Python library for e-paper displays)
 * RSpec (Behaviour Driven Development for Ruby)
 * Minitest (testing framework for Ruby)
+* ExUnit (testing framework for Elixir)
 
 More to follow.
 
