@@ -18,6 +18,7 @@ class QuantumsandLive
     @git_repos_gerrit_googlesource_url = ENV.fetch("GIT_REPOS_GERRIT_GOOGLESOURCE_URL")
     @git_repos_huggingface_co_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_URL")
     @git_repos_huggingface_co_dataset_url = ENV.fetch("GIT_REPOS_HUGGINGFACE_CO_DATASET_URL")
+    @git_repos_gitea_url = ENV.fetch("GIT_REPOS_GITEA_URL")
     @git_repos_libreoffice_org_url = ENV.fetch("GIT_REPOS_LIBREOFFICE_ORG_URL")
     @git_repos_dev_lovelyhq_com_url = ENV.fetch("GIT_REPOS_DEV_LOVELYHQ_COM_URL")
     @git_repos_osmocom_org_url = ENV.fetch("GIT_REPOS_OSMOCOM_ORG_URL")
@@ -6051,6 +6052,10 @@ class QuantumsandLive
 
     @git_xet_hf_download_huggingface_co_dataset = [
       "ibm-research/AssetOpsBench"
+    ]
+
+    @git_repos_gitea = [
+      "gitea/go-sdk"
     ]
 
     @git_repos_libreoffice_org = [
