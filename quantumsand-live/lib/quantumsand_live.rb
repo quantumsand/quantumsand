@@ -6055,7 +6055,8 @@ class QuantumsandLive
     ]
 
     @git_repos_gitea = [
-      "gitea/go-sdk"
+      "gitea/go-sdk",
+      "gitea/tea"
     ]
 
     @git_repos_libreoffice_org = [
