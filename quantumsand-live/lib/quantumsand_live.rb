@@ -5896,7 +5896,8 @@ class QuantumsandLive
       "Belval/TextRecognitionDataGenerator",
       "lammps/lammps",
       "jamesgober/proc-daemon",
-      "neul-labs/gity"
+      "neul-labs/gity",
+      "jestjs/jest"
     ]
 
     @git_repos_github_lfs = [
