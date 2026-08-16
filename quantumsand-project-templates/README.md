@@ -73,6 +73,7 @@ This will include:
 * valkey-py (Valkey Python client)
 * Inky (Python library for e-paper displays)
 * RSpec (Behaviour Driven Development for Ruby)
+* Minitest (testing framework for Ruby)
 
 More to follow.
 
