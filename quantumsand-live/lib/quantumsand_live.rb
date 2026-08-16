@@ -5893,7 +5893,8 @@ class QuantumsandLive
       "clovaai/CRAFT-pytorch",
       "clovaai/deep-text-recognition-benchmark",
       "Belval/TextRecognitionDataGenerator",
-      "lammps/lammps"
+      "lammps/lammps",
+      "jamesgober/proc-daemon"
     ]
 
     @git_repos_github_lfs = [
