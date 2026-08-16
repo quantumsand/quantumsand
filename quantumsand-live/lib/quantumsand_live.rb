@@ -7240,7 +7240,8 @@ class QuantumsandLive
       "vtk/meshing/SlicerVESPA",
       "vtk/lcl",
       "vtk/MomentInvariants",
-      "vtk/vtk-examples"
+      "vtk/vtk-examples",
+      "paraview/qttesting"
     ]
 
     @git_repos_cern_ch_gitlab = [
