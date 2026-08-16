@@ -72,6 +72,7 @@ This will include:
 * Redix (Redis and Valkey client written in pure Elixir)
 * valkey-py (Valkey Python client)
 * Inky (Python library for e-paper displays)
+* RSpec (Behaviour Driven Development for Ruby)
 
 More to follow.
 
