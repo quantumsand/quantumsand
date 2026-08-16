@@ -5892,7 +5892,8 @@ class QuantumsandLive
       "gradio-app/gradio",
       "clovaai/CRAFT-pytorch",
       "clovaai/deep-text-recognition-benchmark",
-      "Belval/TextRecognitionDataGenerator"
+      "Belval/TextRecognitionDataGenerator",
+      "lammps/lammps"
     ]
 
     @git_repos_github_lfs = [
