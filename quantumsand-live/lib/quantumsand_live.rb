@@ -5894,7 +5894,8 @@ class QuantumsandLive
       "clovaai/deep-text-recognition-benchmark",
       "Belval/TextRecognitionDataGenerator",
       "lammps/lammps",
-      "jamesgober/proc-daemon"
+      "jamesgober/proc-daemon",
+      "neul-labs/gity"
     ]
 
     @git_repos_github_lfs = [
