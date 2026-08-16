@@ -75,6 +75,7 @@ This will include:
 * RSpec (Behaviour Driven Development for Ruby)
 * Minitest (testing framework for Ruby)
 * ExUnit (testing framework for Elixir)
+* Jest (comprehensive JavaScript testing solution)
 
 More to follow.
 
