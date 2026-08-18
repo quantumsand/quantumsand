@@ -5897,7 +5897,8 @@ class QuantumsandLive
       "lammps/lammps",
       "jamesgober/proc-daemon",
       "neul-labs/gity",
-      "jestjs/jest"
+      "jestjs/jest",
+      "ruby/open3"
     ]
 
     @git_repos_github_lfs = [
