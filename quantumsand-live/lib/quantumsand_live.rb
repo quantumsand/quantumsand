@@ -5914,7 +5914,8 @@ class QuantumsandLive
       "typhoeus/typhoeus",
       "excon/excon",
       "T0ha/ezodf",
-      "kennytm/ods2md"
+      "kennytm/ods2md",
+      "gogs/gogs"
     ]
 
     @git_repos_github_lfs = [
