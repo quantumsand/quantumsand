@@ -5903,7 +5903,8 @@ class QuantumsandLive
       "qgis/db_manager_plugin",
       "jnunemaker/httparty",
       "rest-client/rest-client",
-      "mime-types/ruby-mime-types"
+      "mime-types/ruby-mime-types",
+      "mime-types/mime-types-data"
     ]
 
     @git_repos_github_lfs = [
