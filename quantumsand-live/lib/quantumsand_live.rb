@@ -5917,7 +5917,8 @@ class QuantumsandLive
       "kennytm/ods2md",
       "gogs/gogs",
       "Semantic-Org/Semantic-UI",
-      "Semantic-Org/Semantic-UI-React"
+      "Semantic-Org/Semantic-UI-React",
+      "davidbonnet/astring"
     ]
 
     @git_repos_github_lfs = [
