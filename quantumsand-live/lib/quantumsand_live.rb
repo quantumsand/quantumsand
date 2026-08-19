@@ -5899,7 +5899,8 @@ class QuantumsandLive
       "neul-labs/gity",
       "jestjs/jest",
       "ruby/open3",
-      "herrkaefer/psycopgr"
+      "herrkaefer/psycopgr",
+      "qgis/db_manager_plugin"
     ]
 
     @git_repos_github_lfs = [
