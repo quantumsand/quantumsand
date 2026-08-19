@@ -77,6 +77,8 @@ This will include:
 * ExUnit (testing framework for Elixir)
 * Jest (comprehensive JavaScript testing solution)
 * React Testing Library (lightweight solution for testing React components)
+* httparty (Ruby HTTP client library)
+* Faraday (Ruby HTTP client library)
 
 More to follow.
 
