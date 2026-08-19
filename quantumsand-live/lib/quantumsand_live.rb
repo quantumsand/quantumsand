@@ -5907,7 +5907,8 @@ class QuantumsandLive
       "mime-types/mime-types-data",
       "geemus/netrc",
       "heroku/netrc",
-      "socketry/http-accept"
+      "socketry/http-accept",
+      "sparklemotion/http-cookie"
     ]
 
     @git_repos_github_lfs = [
