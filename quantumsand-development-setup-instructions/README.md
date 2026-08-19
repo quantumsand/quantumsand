@@ -331,7 +331,7 @@ make
 a2938157c76ca9075fd6fe597abe3fae  /Users/your-user-name/Downloads/planet-260420.osm.pbf
 ```
 * You can see the md5 cryptographic hash is the same.
-* Install QGIS. “macOS – Apple Desktop”; “Latest Release”.
+* Install QGIS; “macOS – Apple Desktop”; “Latest Release”.
 * The dmg is approximately 1.5GB; it could take a few minutes to download depending on your internet connectiom.
 * Open QGIS; You might be asked: “QGIS-final-4_2_1” is an app downloaded from the internet. Are you sure you want to open it?
 * Click Open.
