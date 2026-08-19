@@ -331,6 +331,19 @@ make
 a2938157c76ca9075fd6fe597abe3fae  /Users/your-user-name/Downloads/planet-260420.osm.pbf
 ```
 * You can see the md5 cryptographic hash is the same.
+* Install QGIS. “macOS – Apple Desktop”; “Latest Release”.
+* The dmg is approximately 1.5GB; it could take a few minutes to download depending on your internet connectiom.
+* Open QGIS; You might be asked: “QGIS-final-4_2_1” is an app downloaded from the internet. Are you sure you want to open it?
+* Click Open.
+* You should see a window with the title of “Untitled Project – QGIS”.
+* You might see this notification within QGIS: “DB Manager: The DB Manager plugin will be removed in a future QGIS release. Please install the "DB Manager (community)" replacement plugin instead.”
+* Click the “Install Now” button.
+* The “Plugins” window should appear.
+* Under “All” select “DB Manager (community)”.
+* Click “Install Plugin”.
+* You should see “Plugin installed successfully” within the “Plugins” window.
+* You can close the “Plugins” window.
+* For now you can close QGIS.
 * Install gnupg; `brew install gnupg`
 * Fetch the public keys for RVM;
   * `command curl -sSL https://rvm.io/mpapis.asc | gpg --import -`
