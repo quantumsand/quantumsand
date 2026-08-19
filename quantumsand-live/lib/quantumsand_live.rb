@@ -5898,7 +5898,8 @@ class QuantumsandLive
       "jamesgober/proc-daemon",
       "neul-labs/gity",
       "jestjs/jest",
-      "ruby/open3"
+      "ruby/open3",
+      "herrkaefer/psycopgr"
     ]
 
     @git_repos_github_lfs = [
