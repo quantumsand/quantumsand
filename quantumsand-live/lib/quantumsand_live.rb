@@ -5901,7 +5901,8 @@ class QuantumsandLive
       "ruby/open3",
       "herrkaefer/psycopgr",
       "qgis/db_manager_plugin",
-      "jnunemaker/httparty"
+      "jnunemaker/httparty",
+      "rest-client/rest-client"
     ]
 
     @git_repos_github_lfs = [
