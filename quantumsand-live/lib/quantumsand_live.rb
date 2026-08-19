@@ -5900,7 +5900,8 @@ class QuantumsandLive
       "jestjs/jest",
       "ruby/open3",
       "herrkaefer/psycopgr",
-      "qgis/db_manager_plugin"
+      "qgis/db_manager_plugin",
+      "jnunemaker/httparty"
     ]
 
     @git_repos_github_lfs = [
