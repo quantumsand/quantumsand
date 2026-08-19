@@ -5918,7 +5918,8 @@ class QuantumsandLive
       "gogs/gogs",
       "Semantic-Org/Semantic-UI",
       "Semantic-Org/Semantic-UI-React",
-      "davidbonnet/astring"
+      "davidbonnet/astring",
+      "meriyah/meriyah"
     ]
 
     @git_repos_github_lfs = [
