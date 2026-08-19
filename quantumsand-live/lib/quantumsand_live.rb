@@ -5902,7 +5902,8 @@ class QuantumsandLive
       "herrkaefer/psycopgr",
       "qgis/db_manager_plugin",
       "jnunemaker/httparty",
-      "rest-client/rest-client"
+      "rest-client/rest-client",
+      "mime-types/ruby-mime-types"
     ]
 
     @git_repos_github_lfs = [
