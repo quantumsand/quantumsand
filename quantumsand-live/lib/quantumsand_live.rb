@@ -5904,7 +5904,8 @@ class QuantumsandLive
       "jnunemaker/httparty",
       "rest-client/rest-client",
       "mime-types/ruby-mime-types",
-      "mime-types/mime-types-data"
+      "mime-types/mime-types-data",
+      "geemus/netrc"
     ]
 
     @git_repos_github_lfs = [
