@@ -5908,7 +5908,8 @@ class QuantumsandLive
       "geemus/netrc",
       "heroku/netrc",
       "socketry/http-accept",
-      "sparklemotion/http-cookie"
+      "sparklemotion/http-cookie",
+      "sparklemotion/mechanize"
     ]
 
     @git_repos_github_lfs = [
