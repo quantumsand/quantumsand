@@ -5912,7 +5912,8 @@ class QuantumsandLive
       "sparklemotion/mechanize",
       "knu/ruby-domain_name",
       "typhoeus/typhoeus",
-      "excon/excon"
+      "excon/excon",
+      "T0ha/ezodf"
     ]
 
     @git_repos_github_lfs = [
