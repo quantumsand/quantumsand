@@ -5910,7 +5910,8 @@ class QuantumsandLive
       "socketry/http-accept",
       "sparklemotion/http-cookie",
       "sparklemotion/mechanize",
-      "knu/ruby-domain_name"
+      "knu/ruby-domain_name",
+      "typhoeus/typhoeus"
     ]
 
     @git_repos_github_lfs = [
