@@ -5915,7 +5915,8 @@ class QuantumsandLive
       "excon/excon",
       "T0ha/ezodf",
       "kennytm/ods2md",
-      "gogs/gogs"
+      "gogs/gogs",
+      "Semantic-Org/Semantic-UI"
     ]
 
     @git_repos_github_lfs = [
