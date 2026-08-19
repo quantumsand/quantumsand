@@ -5909,7 +5909,8 @@ class QuantumsandLive
       "heroku/netrc",
       "socketry/http-accept",
       "sparklemotion/http-cookie",
-      "sparklemotion/mechanize"
+      "sparklemotion/mechanize",
+      "knu/ruby-domain_name"
     ]
 
     @git_repos_github_lfs = [
