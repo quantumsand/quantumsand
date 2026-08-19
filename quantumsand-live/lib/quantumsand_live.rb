@@ -5913,7 +5913,8 @@ class QuantumsandLive
       "knu/ruby-domain_name",
       "typhoeus/typhoeus",
       "excon/excon",
-      "T0ha/ezodf"
+      "T0ha/ezodf",
+      "kennytm/ods2md"
     ]
 
     @git_repos_github_lfs = [
