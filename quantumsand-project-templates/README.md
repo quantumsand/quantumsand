@@ -79,6 +79,8 @@ This will include:
 * React Testing Library (lightweight solution for testing React components)
 * httparty (Ruby HTTP client library)
 * Faraday (Ruby HTTP client library)
+* GoogleTest (C++ test framework)
+* Qt Test (unit testing Qt based applications)
 
 More to follow.
 
