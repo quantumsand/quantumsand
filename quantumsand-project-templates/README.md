@@ -81,6 +81,7 @@ This will include:
 * Faraday (Ruby HTTP client library)
 * GoogleTest (C++ test framework)
 * Qt Test (unit testing Qt based applications)
+* Qt Quick Test (unit test framework for Qml applications)
 
 More to follow.
 
