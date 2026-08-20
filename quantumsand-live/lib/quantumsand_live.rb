@@ -5919,7 +5919,8 @@ class QuantumsandLive
       "Semantic-Org/Semantic-UI",
       "Semantic-Org/Semantic-UI-React",
       "davidbonnet/astring",
-      "meriyah/meriyah"
+      "meriyah/meriyah",
+      "google/fscrypt"
     ]
 
     @git_repos_github_lfs = [
