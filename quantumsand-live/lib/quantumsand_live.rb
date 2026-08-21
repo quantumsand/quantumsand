@@ -5921,7 +5921,8 @@ class QuantumsandLive
       "davidbonnet/astring",
       "meriyah/meriyah",
       "google/fscrypt",
-      "rubygems/gemstash"
+      "rubygems/gemstash",
+      "rubygems/rubygems.org"
     ]
 
     @git_repos_github_lfs = [
