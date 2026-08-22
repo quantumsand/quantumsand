@@ -104,3 +104,12 @@ To create a video from an image and audio:
 ```bash
 ffmpeg -loop 1 -i input.png -i input.wav -c:v libx264 -tune stillimage -c:a aac -b:a 192k -pix_fmt yuv420p -shortest output.mp4
 ```
+
+To extract the cover image from an mp3:
+```bash
+ffmpeg -i input.mp3 -update 1 cover.png
+```
+
+```bash
+ffmpeg -i input.mp3 -update 1 cover.jpg
+```
