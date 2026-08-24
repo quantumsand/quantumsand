@@ -5923,7 +5923,8 @@ class QuantumsandLive
       "google/fscrypt",
       "rubygems/gemstash",
       "rubygems/rubygems.org",
-      "libjxl/jxltran"
+      "libjxl/jxltran",
+      "w3ctag/design-reviews"
     ]
 
     @git_repos_github_lfs = [
