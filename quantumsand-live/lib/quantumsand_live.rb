@@ -5922,7 +5922,8 @@ class QuantumsandLive
       "meriyah/meriyah",
       "google/fscrypt",
       "rubygems/gemstash",
-      "rubygems/rubygems.org"
+      "rubygems/rubygems.org",
+      "libjxl/jxltran"
     ]
 
     @git_repos_github_lfs = [
