@@ -5924,7 +5924,8 @@ class QuantumsandLive
       "rubygems/gemstash",
       "rubygems/rubygems.org",
       "libjxl/jxltran",
-      "w3ctag/design-reviews"
+      "w3ctag/design-reviews",
+      "mholt/PapaParse"
     ]
 
     @git_repos_github_lfs = [
