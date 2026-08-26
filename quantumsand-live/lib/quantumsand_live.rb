@@ -5929,7 +5929,8 @@ class QuantumsandLive
       "PyO3/rust-numpy",
       "rust-ndarray/ndarray",
       "rust-ndarray/ndarray-examples",
-      "rust-ndarray/ndarray-stats"
+      "rust-ndarray/ndarray-stats",
+      "rust-ndarray/ndarray-linalg"
     ]
 
     @git_repos_github_lfs = [
