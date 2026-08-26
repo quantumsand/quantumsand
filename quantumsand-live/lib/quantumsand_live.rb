@@ -5937,7 +5937,8 @@ class QuantumsandLive
       "rust-math/intel-mkl-src",
       "rust-math/cauchy",
       "rust-math/fftw",
-      "rust-math/sfmt"
+      "rust-math/sfmt",
+      "PyO3/pyo3-async-runtimes"
     ]
 
     @git_repos_github_lfs = [
