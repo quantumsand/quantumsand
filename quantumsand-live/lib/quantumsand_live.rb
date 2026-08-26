@@ -5938,7 +5938,8 @@ class QuantumsandLive
       "rust-math/cauchy",
       "rust-math/fftw",
       "rust-math/sfmt",
-      "PyO3/pyo3-async-runtimes"
+      "PyO3/pyo3-async-runtimes",
+      "vyruss/pg_statviz"
     ]
 
     @git_repos_github_lfs = [
