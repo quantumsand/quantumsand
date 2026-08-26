@@ -5932,7 +5932,8 @@ class QuantumsandLive
       "rust-ndarray/ndarray-stats",
       "rust-ndarray/ndarray-linalg",
       "blas-lapack-rs/openblas-src",
-      "Reference-LAPACK/lapack"
+      "Reference-LAPACK/lapack",
+      "blas-lapack-rs/netlib-src"
     ]
 
     @git_repos_github_lfs = [
