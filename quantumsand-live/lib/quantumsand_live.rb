@@ -5934,7 +5934,8 @@ class QuantumsandLive
       "blas-lapack-rs/openblas-src",
       "Reference-LAPACK/lapack",
       "blas-lapack-rs/netlib-src",
-      "rust-math/intel-mkl-src"
+      "rust-math/intel-mkl-src",
+      "rust-math/cauchy"
     ]
 
     @git_repos_github_lfs = [
