@@ -5942,7 +5942,8 @@ class QuantumsandLive
       "vyruss/pg_statviz",
       "timescale/pg_textsearch",
       "Evokoa/pgGraph",
-      "yesodweb/wai"
+      "yesodweb/wai",
+      "PostgREST/postgrest"
     ]
 
     @git_repos_github_lfs = [
