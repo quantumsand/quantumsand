@@ -5930,7 +5930,8 @@ class QuantumsandLive
       "rust-ndarray/ndarray",
       "rust-ndarray/ndarray-examples",
       "rust-ndarray/ndarray-stats",
-      "rust-ndarray/ndarray-linalg"
+      "rust-ndarray/ndarray-linalg",
+      "blas-lapack-rs/openblas-src"
     ]
 
     @git_repos_github_lfs = [
