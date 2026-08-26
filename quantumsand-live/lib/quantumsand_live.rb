@@ -5940,7 +5940,8 @@ class QuantumsandLive
       "rust-math/sfmt",
       "PyO3/pyo3-async-runtimes",
       "vyruss/pg_statviz",
-      "timescale/pg_textsearch"
+      "timescale/pg_textsearch",
+      "Evokoa/pgGraph"
     ]
 
     @git_repos_github_lfs = [
