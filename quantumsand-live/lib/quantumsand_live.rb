@@ -5928,7 +5928,8 @@ class QuantumsandLive
       "mholt/PapaParse",
       "PyO3/rust-numpy",
       "rust-ndarray/ndarray",
-      "rust-ndarray/ndarray-examples"
+      "rust-ndarray/ndarray-examples",
+      "rust-ndarray/ndarray-stats"
     ]
 
     @git_repos_github_lfs = [
