@@ -5941,7 +5941,8 @@ class QuantumsandLive
       "PyO3/pyo3-async-runtimes",
       "vyruss/pg_statviz",
       "timescale/pg_textsearch",
-      "Evokoa/pgGraph"
+      "Evokoa/pgGraph",
+      "yesodweb/wai"
     ]
 
     @git_repos_github_lfs = [
