@@ -5925,7 +5925,8 @@ class QuantumsandLive
       "rubygems/rubygems.org",
       "libjxl/jxltran",
       "w3ctag/design-reviews",
-      "mholt/PapaParse"
+      "mholt/PapaParse",
+      "PyO3/rust-numpy"
     ]
 
     @git_repos_github_lfs = [
