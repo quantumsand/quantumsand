@@ -5926,7 +5926,8 @@ class QuantumsandLive
       "libjxl/jxltran",
       "w3ctag/design-reviews",
       "mholt/PapaParse",
-      "PyO3/rust-numpy"
+      "PyO3/rust-numpy",
+      "rust-ndarray/ndarray"
     ]
 
     @git_repos_github_lfs = [
