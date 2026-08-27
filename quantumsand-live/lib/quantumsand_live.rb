@@ -5947,7 +5947,8 @@ class QuantumsandLive
       "stanfordnlp/dspy",
       "immutable-js/immutable-js",
       "fantasyland/fantasy-land",
-      "Dunni3/FlowMol"
+      "Dunni3/FlowMol",
+      "arneschneuing/DiffSBDD"
     ]
 
     @git_repos_github_lfs = [
