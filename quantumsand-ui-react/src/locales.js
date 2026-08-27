@@ -1,6 +1,7 @@
 const locales =  [{ iso: "en_GB", locale: "english", name: "English", emoji: "🇬🇧" },
                   { iso: "ar_SA", locale: "arabic", name: "العربية", emoji: "🇸🇦" },
                   { iso: "ur_PK", locale: "urdu", name: "اردو", emoji: "🇵🇰" },
+                  { iso: "pa_PK", locale: "punjabi", name: "پنجابی", emoji: "🇵🇰"},
                   { iso: "ps_AF", locale: "pashto", name: "پښتو", emoji: "🇦🇫" },
                   { iso: "fa_IR", locale: "persian", name: "فارسی", emoji: "🇮🇷" },
                   { iso: "tr_TR", locale: "turkish", name: "Türkçe", emoji: "🇹🇷" },
