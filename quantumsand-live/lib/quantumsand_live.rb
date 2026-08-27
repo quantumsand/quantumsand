@@ -5949,7 +5949,8 @@ class QuantumsandLive
       "fantasyland/fantasy-land",
       "Dunni3/FlowMol",
       "arneschneuing/DiffSBDD",
-      "RosettaCommons/RFdiffusion"
+      "RosettaCommons/RFdiffusion",
+      "jwohlwend/boltz"
     ]
 
     @git_repos_github_lfs = [
