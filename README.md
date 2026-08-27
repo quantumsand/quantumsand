@@ -12,7 +12,7 @@ A special trick is used to embed Rust videogames into a hovering 3d surface. Unt
 
 Quantum Sand is under the AGPLv3 and CC BY-SA 4.0 licenses.
 
-The [Quantum Sand Project Templates](/quantumsand-project-templates/) are dual-licensed under the MIT License and Apache License 2.0
+The [Quantum Sand Project Templates](/quantumsand-project-templates/) are dual-licensed under the MIT License and Apache License 2.0.
 
 Non-intrusive privacy-focused geospatial ads are planned within Quantum Sand. The objective is to avoid annoying adverts getting in the way of the learning.
 
@@ -201,21 +201,21 @@ Vital for Quantum Sand;
 * Dedouze’s unique art style (inspired my own art style)
 * Blender (used for the art)
 * Twitter Emoji (Twemoji) are licensed under MIT, CC-BY-4.0 licenses.
-* MathJax is licensed under the Apache License 2.0
+* MathJax is licensed under the Apache License 2.0.
 * Formidable’s spectacle is licensed under the MIT License.
-* Bevy is dual-licensed under the MIT License and Apache License 2.0
+* Bevy is dual-licensed under the MIT License and Apache License 2.0.
 * Ruby on Rails is licensed under the MIT License.
 * PostGIS is licensed under the GNU General Public License, either version 2 or (at your option) any later version.
 * PostgreSQL is licensed under the PostgreSQL License.
 * React is licensed under the MIT License.
-* Rust is dual-licensed under the MIT License and Apache License 2.0
+* Rust is dual-licensed under the MIT License and Apache License 2.0.
 * Ruby is dual-licensed under either the 2-clause BSDL (Simplified BSD License) or the custom Ruby License.
-* CesiumJS is licensed under the Apache License 2.0
+* CesiumJS is licensed under the Apache License 2.0.
 * PyTorch is licensed under a BSD-style license.
-* TensorFlow is licensed under the Apache License 2.0
+* TensorFlow is licensed under the Apache License 2.0.
 * Node.js is licensed under the MIT License.
-* Elixir is licensed under the Apache License 2.0
-* Erlang/OTP is licensed under the Apache License 2.0
+* Elixir is licensed under the Apache License 2.0.
+* Erlang/OTP is licensed under the Apache License 2.0.
 * Phoenix is licensed under the MIT License.
 * RabbitMQ is licensed under the MPL 2.0.
 * Valkey is licensed under a BSD 3-Clause License.
@@ -223,7 +223,7 @@ Vital for Quantum Sand;
 * FFmpeg is licensed under the GNU Lesser General Public License (LGPL) version 2.1 or later. FFmpeg incorporates several optional parts and optimizations that are covered by the GNU General Public License (GPL) version 2 or later.
 * audiowaveform is licensed under the GNU General Public License version 3.
 * Peaks.js is licensed under the GNU Lesser General Public License version 3.
-* Python is licensed under the PSF-2.0
+* Python is licensed under the PSF-2.0.
 * OpenStreetMap is open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF).
 * osm2pgsql is licensed under the GNU General Public License; either version 2 of the license, or (at your option) any later version.
 * Hundreds of developers for all of the deps I am using.
