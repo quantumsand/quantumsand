@@ -5944,7 +5944,8 @@ class QuantumsandLive
       "Evokoa/pgGraph",
       "yesodweb/wai",
       "PostgREST/postgrest",
-      "stanfordnlp/dspy"
+      "stanfordnlp/dspy",
+      "immutable-js/immutable-js"
     ]
 
     @git_repos_github_lfs = [
