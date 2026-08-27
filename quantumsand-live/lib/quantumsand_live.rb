@@ -5945,7 +5945,8 @@ class QuantumsandLive
       "yesodweb/wai",
       "PostgREST/postgrest",
       "stanfordnlp/dspy",
-      "immutable-js/immutable-js"
+      "immutable-js/immutable-js",
+      "fantasyland/fantasy-land"
     ]
 
     @git_repos_github_lfs = [
