@@ -5948,7 +5948,8 @@ class QuantumsandLive
       "immutable-js/immutable-js",
       "fantasyland/fantasy-land",
       "Dunni3/FlowMol",
-      "arneschneuing/DiffSBDD"
+      "arneschneuing/DiffSBDD",
+      "RosettaCommons/RFdiffusion"
     ]
 
     @git_repos_github_lfs = [
