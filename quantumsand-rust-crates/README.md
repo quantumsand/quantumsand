@@ -1,8 +1,8 @@
-# Quantum Sand Videogame Rust Crates
+# Quantum Sand Rust Crates
 
-The Rust/bevy videogames need to share certain functionality.
+The Rust/bevy videogames, simulations and apps need to share certain functionality.
 
-Instead of duplicating the same Rust code within each game, it is being coded once as reusable crates.
+Instead of duplicating the same Rust code within each component, it is being coded once as reusable crates.
 
 These Rust crates are dual-licensed under the MIT License and Apache License 2.0.
 
