@@ -5946,7 +5946,8 @@ class QuantumsandLive
       "PostgREST/postgrest",
       "stanfordnlp/dspy",
       "immutable-js/immutable-js",
-      "fantasyland/fantasy-land"
+      "fantasyland/fantasy-land",
+      "Dunni3/FlowMol"
     ]
 
     @git_repos_github_lfs = [
