@@ -34,6 +34,21 @@
       }
       </style>
       <h1 class="pixelart-to-css"></h1>
+      <script>
+      const qalb_boy_logo = document.querySelector('.pixelart-to-css');
+
+      function monitor() {
+        console.log(
+          getComputedStyle(qalb_boy_logo)
+            .getPropertyValue('--qalbboy-color')
+            .trim()
+        );
+
+        requestAnimationFrame(monitor);
+      }
+
+      monitor();
+      </script>
     </div>
   </foreignObject>
 </svg>
