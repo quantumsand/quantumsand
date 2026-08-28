@@ -2,6 +2,20 @@
 
 A RubyGem for transcoding various files within Quantum Sand.
 
+WebM with the VP9 codec fully supports alpha transparency, allowing videos to feature a see-through background.
+
+This technique is currently used in Quantum Sand for Grease Pencil animated drawings;
+* random animated pastel colour backgrounds
+* animated wallpaper with changing colour backgrounds
+
+Example scenarios of alpha transparency;
+* Blender Grease Pencil animation with an alpha transparent background can have an animated CSS colour background.
+* video narrative with a green screen, can use chroma keying, to also have an animated CSS colour background.
+
+Within Blender you can render PNG alpha transparent frames which can be directly transcoded into VP9 WebM.
+
+This RubyGem will also handle common video formats and attempt to achieve high quality transcoding.
+
 Please see:
 https://video.stackexchange.com/questions/19590/convert-mp4-to-webm-without-quality-loss-with-ffmpeg
 (user contributions licensed under CC BY-SA)
