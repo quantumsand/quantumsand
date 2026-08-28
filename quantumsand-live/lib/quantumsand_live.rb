@@ -9360,7 +9360,8 @@ class QuantumsandLive
       "xfce-extra/xfce4-battery-plugin",
       "xfce-extra/xfce4-mount-plugin",
       "xfce-extra/xfce4-sensors-plugin",
-      "xfce-extra/xfce4-verve-plugin"
+      "xfce-extra/xfce4-verve-plugin",
+      "xfce-extra/xfce4-volumed-pulse"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
