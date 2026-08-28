@@ -9363,7 +9363,8 @@ class QuantumsandLive
       "xfce-extra/xfce4-sensors-plugin",
       "xfce-extra/xfce4-verve-plugin",
       "xfce-extra/xfce4-volumed-pulse",
-      "media-sound/pavucontrol"
+      "media-sound/pavucontrol",
+      "kde-apps/konsole"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
