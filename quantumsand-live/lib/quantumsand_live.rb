@@ -5952,7 +5952,8 @@ class QuantumsandLive
       "RosettaCommons/RFdiffusion",
       "jwohlwend/boltz",
       "flatpak/flatpak",
-      "flatpak/flat-manager"
+      "flatpak/flat-manager",
+      "flatpak/flatpak-builder"
     ]
 
     @git_repos_github_lfs = [
