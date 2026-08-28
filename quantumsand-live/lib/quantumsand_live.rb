@@ -9365,7 +9365,8 @@ class QuantumsandLive
       "xfce-extra/xfce4-volumed-pulse",
       "media-sound/pavucontrol",
       "kde-apps/konsole",
-      "media-gfx/gimp"
+      "media-gfx/gimp",
+      "app-doc/gimp-help"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
