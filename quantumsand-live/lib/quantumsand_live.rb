@@ -9356,7 +9356,8 @@ class QuantumsandLive
       "sys-fs/fscrypt",
       "xfce-base/xfce4-meta",
       "app-editors/mousepad",
-      "xfce-extra/thunar-archive-plugin"
+      "xfce-extra/thunar-archive-plugin",
+      "xfce-extra/xfce4-battery-plugin"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
