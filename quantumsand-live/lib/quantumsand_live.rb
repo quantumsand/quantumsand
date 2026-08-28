@@ -9358,7 +9358,8 @@ class QuantumsandLive
       "app-editors/mousepad",
       "xfce-extra/thunar-archive-plugin",
       "xfce-extra/xfce4-battery-plugin",
-      "xfce-extra/xfce4-mount-plugin"
+      "xfce-extra/xfce4-mount-plugin",
+      "xfce-extra/xfce4-sensors-plugin"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
