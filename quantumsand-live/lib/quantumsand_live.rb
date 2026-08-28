@@ -5954,7 +5954,8 @@ class QuantumsandLive
       "flatpak/flatpak",
       "flatpak/flat-manager",
       "flatpak/flatpak-builder",
-      "flatpak/libportal"
+      "flatpak/libportal",
+      "flatpak/flatpak-docs"
     ]
 
     @git_repos_github_lfs = [
