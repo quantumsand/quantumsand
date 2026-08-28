@@ -9359,7 +9359,8 @@ class QuantumsandLive
       "xfce-extra/thunar-archive-plugin",
       "xfce-extra/xfce4-battery-plugin",
       "xfce-extra/xfce4-mount-plugin",
-      "xfce-extra/xfce4-sensors-plugin"
+      "xfce-extra/xfce4-sensors-plugin",
+      "xfce-extra/xfce4-verve-plugin"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
