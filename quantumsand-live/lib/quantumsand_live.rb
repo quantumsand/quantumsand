@@ -9361,7 +9361,8 @@ class QuantumsandLive
       "xfce-extra/xfce4-mount-plugin",
       "xfce-extra/xfce4-sensors-plugin",
       "xfce-extra/xfce4-verve-plugin",
-      "xfce-extra/xfce4-volumed-pulse"
+      "xfce-extra/xfce4-volumed-pulse",
+      "media-sound/pavucontrol"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
