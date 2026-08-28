@@ -9366,7 +9366,8 @@ class QuantumsandLive
       "media-sound/pavucontrol",
       "kde-apps/konsole",
       "media-gfx/gimp",
-      "app-doc/gimp-help"
+      "app-doc/gimp-help",
+      "kde-apps/okular"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
