@@ -9354,7 +9354,8 @@ class QuantumsandLive
       "media-fonts/fira-sans",
       "sys-apps/rng-tools",
       "sys-fs/fscrypt",
-      "xfce-base/xfce4-meta"
+      "xfce-base/xfce4-meta",
+      "app-editors/mousepad"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
