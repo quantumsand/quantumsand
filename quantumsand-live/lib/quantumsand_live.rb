@@ -5950,7 +5950,8 @@ class QuantumsandLive
       "Dunni3/FlowMol",
       "arneschneuing/DiffSBDD",
       "RosettaCommons/RFdiffusion",
-      "jwohlwend/boltz"
+      "jwohlwend/boltz",
+      "flatpak/flatpak"
     ]
 
     @git_repos_github_lfs = [
