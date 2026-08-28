@@ -5953,7 +5953,8 @@ class QuantumsandLive
       "jwohlwend/boltz",
       "flatpak/flatpak",
       "flatpak/flat-manager",
-      "flatpak/flatpak-builder"
+      "flatpak/flatpak-builder",
+      "flatpak/libportal"
     ]
 
     @git_repos_github_lfs = [
