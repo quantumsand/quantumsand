@@ -175,6 +175,16 @@ Support for all locales is planned eventually. This should help with interfaith 
 
 ## Project background and the “rough prototype” (March 2022)
 
+In the summer of 2002 I coded a 3d C++ OpenGL physics simulation of the common experiment; “Wave Simulation Ripple Tank”.
+
+Wave simulation app;
+
+[![Waves simulation](img/waves-simulation-2002.jpg)](img/waves-simulation-2002.mp4)
+
+This led to the idea of combining physics simulations alongside video narrative within the same educational app.
+
+Four years later in 2006, I wanted to try to build such an educational app.
+
 Between August and October 2006 I started to build the first prototype. However, in 2006 the technology did not exist to achieve my goal.
 
 Both the available software and the hardware were not viable.
