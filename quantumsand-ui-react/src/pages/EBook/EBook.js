@@ -96,7 +96,7 @@ export default function EBook({ epub = "/ebooks/shakespeare.epub", initialLocati
   })
 
   return (
-    <div className="ebook">
+    <div className="ebook" style={{backgroundColor: theme.bg}}>
       <EpubViewer url={epub} ref={ref} location={location} pageChanged={pageChanged}
       rendtionChanged={(rendition) => {
         renditionRef.current = rendition
