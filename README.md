@@ -179,7 +179,7 @@ In 1999, at the age of 14, after playing through Ocarina of Time on the N64, I w
 
 I emailed Nintendo and in the email reply, they told me to learn C++ and OpenGL.
 
-I started learning C++ and OpenGL and this also led to me discovering Linux.
+I started learning C++ and OpenGL and this also led to my discovery of Linux.
 
 Three years later, in the summer of 2002 I coded a 3d C++ OpenGL physics simulation of the common experiment; “Wave Simulation Ripple Tank”.
 
