@@ -5958,7 +5958,8 @@ class QuantumsandLive
       "flatpak/flatpak-docs",
       "flatpak/xdg-dbus-proxy",
       "flatpak/qt-flatpak-demo",
-      "lanoxx/tilda"
+      "lanoxx/tilda",
+      "PCSX2/pcsx2"
     ]
 
     @git_repos_github_lfs = [
