@@ -60,6 +60,7 @@ This will include:
 * Torchx (LibTorch backend for Nx)
 * PyO3 (Rust bindings for Python)
 * ROOT (processing and scientific analysis of large amounts of data)
+* JavaScript ROOT (interactive ROOT-like graphics)
 * mapnik (pixel-perfect image output with lightning-fast cartographic algorithms)
 * [Reqwest](/quantumsand-project-templates/quantumsand-project-templates-reqwest/) (Rust HTTP Client)
 * rust-mqtt (Rust native MQTT client)
