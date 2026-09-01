@@ -8884,7 +8884,8 @@ class QuantumsandLive
       "system/qtcurve",
       "system/kde-nomodeset",
       "system/samba-mounter",
-      "system/systemdgenie"
+      "system/systemdgenie",
+      "system/kio-snapshot"
     ]
 
     @git_repos_ffmpeg_org = [
