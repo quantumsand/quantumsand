@@ -83,6 +83,8 @@ This will include:
 * GoogleTest (C++ test framework)
 * Qt Test (unit testing Qt based applications)
 * Qt Quick Test (unit test framework for Qml applications)
+* salvo-tus (TUS resumable uploads for the Rust Salvo web framework)
+* Uppy (JavaScript resumable TUS file uploader)
 
 More to follow.
 
