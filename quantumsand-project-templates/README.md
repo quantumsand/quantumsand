@@ -87,6 +87,7 @@ This will include:
 * Uppy (JavaScript resumable TUS file uploader)
 * Rustus (TUS protocol implementation in asynchronous Rust)
 * Jiter (fast iterable JSON parser for Rust)
+* Granian (Rust HTTP server for Python applications)
 
 More to follow.
 
