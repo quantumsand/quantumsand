@@ -5972,7 +5972,8 @@ class QuantumsandLive
       "fastapi/fastapi",
       "pydantic/pydantic",
       "pydantic/jiter",
-      "ultrajson/ultrajson"
+      "ultrajson/ultrajson",
+      "Kludex/uvicorn"
     ]
 
     @git_repos_github_lfs = [
