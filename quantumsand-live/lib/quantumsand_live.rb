@@ -5977,7 +5977,8 @@ class QuantumsandLive
       "django/daphne",
       "pgjones/hypercorn",
       "emmett-framework/granian",
-      "emmett-framework/emmett"
+      "emmett-framework/emmett",
+      "emmett-framework/rest"
     ]
 
     @git_repos_github_lfs = [
