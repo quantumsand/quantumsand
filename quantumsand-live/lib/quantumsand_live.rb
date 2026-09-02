@@ -5962,7 +5962,8 @@ class QuantumsandLive
       "PCSX2/pcsx2",
       "root-project/jsroot",
       "pgrundev/pgterm",
-      "zachhandley/ztus"
+      "zachhandley/ztus",
+      "sagikazarmark/tus-rs"
     ]
 
     @git_repos_github_lfs = [
