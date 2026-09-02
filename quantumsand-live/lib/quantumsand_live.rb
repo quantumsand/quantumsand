@@ -5965,7 +5965,8 @@ class QuantumsandLive
       "zachhandley/ztus",
       "sagikazarmark/tus-rs",
       "salvo-rs/salvo",
-      "vexahub/tusc"
+      "vexahub/tusc",
+      "palpo-matrix-server/palpo"
     ]
 
     @git_repos_github_lfs = [
