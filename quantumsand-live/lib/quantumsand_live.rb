@@ -5976,7 +5976,8 @@ class QuantumsandLive
       "Kludex/uvicorn",
       "django/daphne",
       "pgjones/hypercorn",
-      "emmett-framework/granian"
+      "emmett-framework/granian",
+      "emmett-framework/emmett"
     ]
 
     @git_repos_github_lfs = [
