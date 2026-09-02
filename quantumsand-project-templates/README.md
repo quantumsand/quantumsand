@@ -86,6 +86,7 @@ This will include:
 * salvo-tus (TUS resumable uploads for the Rust Salvo web framework)
 * Uppy (JavaScript resumable TUS file uploader)
 * Rustus (TUS protocol implementation in asynchronous Rust)
+* Jiter (fast iterable JSON parser for Rust)
 
 More to follow.
 
