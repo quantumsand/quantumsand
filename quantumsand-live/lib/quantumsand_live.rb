@@ -5978,7 +5978,8 @@ class QuantumsandLive
       "pgjones/hypercorn",
       "emmett-framework/granian",
       "emmett-framework/emmett",
-      "emmett-framework/rest"
+      "emmett-framework/rest",
+      "emmett-framework/renoir"
     ]
 
     @git_repos_github_lfs = [
