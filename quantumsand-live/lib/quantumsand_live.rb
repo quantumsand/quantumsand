@@ -5961,7 +5961,8 @@ class QuantumsandLive
       "lanoxx/tilda",
       "PCSX2/pcsx2",
       "root-project/jsroot",
-      "pgrundev/pgterm"
+      "pgrundev/pgterm",
+      "zachhandley/ztus"
     ]
 
     @git_repos_github_lfs = [
