@@ -5960,7 +5960,8 @@ class QuantumsandLive
       "flatpak/qt-flatpak-demo",
       "lanoxx/tilda",
       "PCSX2/pcsx2",
-      "root-project/jsroot"
+      "root-project/jsroot",
+      "pgrundev/pgterm"
     ]
 
     @git_repos_github_lfs = [
