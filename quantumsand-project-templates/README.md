@@ -85,6 +85,7 @@ This will include:
 * Qt Quick Test (unit test framework for Qml applications)
 * salvo-tus (TUS resumable uploads for the Rust Salvo web framework)
 * Uppy (JavaScript resumable TUS file uploader)
+* Rustus (TUS protocol implementation in asynchronous Rust)
 
 More to follow.
 
