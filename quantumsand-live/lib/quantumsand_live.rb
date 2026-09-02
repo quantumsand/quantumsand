@@ -5964,7 +5964,8 @@ class QuantumsandLive
       "pgrundev/pgterm",
       "zachhandley/ztus",
       "sagikazarmark/tus-rs",
-      "salvo-rs/salvo"
+      "salvo-rs/salvo",
+      "vexahub/tusc"
     ]
 
     @git_repos_github_lfs = [
