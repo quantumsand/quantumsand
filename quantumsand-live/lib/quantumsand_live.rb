@@ -5974,7 +5974,8 @@ class QuantumsandLive
       "pydantic/jiter",
       "ultrajson/ultrajson",
       "Kludex/uvicorn",
-      "django/daphne"
+      "django/daphne",
+      "pgjones/hypercorn"
     ]
 
     @git_repos_github_lfs = [
