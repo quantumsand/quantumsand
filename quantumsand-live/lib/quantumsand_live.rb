@@ -5963,7 +5963,8 @@ class QuantumsandLive
       "root-project/jsroot",
       "pgrundev/pgterm",
       "zachhandley/ztus",
-      "sagikazarmark/tus-rs"
+      "sagikazarmark/tus-rs",
+      "salvo-rs/salvo"
     ]
 
     @git_repos_github_lfs = [
