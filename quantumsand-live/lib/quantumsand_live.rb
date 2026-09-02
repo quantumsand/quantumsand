@@ -5979,7 +5979,8 @@ class QuantumsandLive
       "emmett-framework/granian",
       "emmett-framework/emmett",
       "emmett-framework/rest",
-      "emmett-framework/renoir"
+      "emmett-framework/renoir",
+      "Kludex/mangum"
     ]
 
     @git_repos_github_lfs = [
