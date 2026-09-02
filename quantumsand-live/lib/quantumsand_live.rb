@@ -5980,7 +5980,8 @@ class QuantumsandLive
       "emmett-framework/emmett",
       "emmett-framework/rest",
       "emmett-framework/renoir",
-      "Kludex/mangum"
+      "Kludex/mangum",
+      "pydantic/pydantic-extra-types"
     ]
 
     @git_repos_github_lfs = [
