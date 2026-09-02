@@ -5967,7 +5967,8 @@ class QuantumsandLive
       "salvo-rs/salvo",
       "vexahub/tusc",
       "palpo-matrix-server/palpo",
-      "ruma/ruma"
+      "ruma/ruma",
+      "matrix-org/matrix-rust-sdk"
     ]
 
     @git_repos_github_lfs = [
