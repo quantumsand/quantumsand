@@ -5971,7 +5971,8 @@ class QuantumsandLive
       "matrix-org/matrix-rust-sdk",
       "fastapi/fastapi",
       "pydantic/pydantic",
-      "pydantic/jiter"
+      "pydantic/jiter",
+      "ultrajson/ultrajson"
     ]
 
     @git_repos_github_lfs = [
