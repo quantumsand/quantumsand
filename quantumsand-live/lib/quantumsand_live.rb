@@ -5982,7 +5982,8 @@ class QuantumsandLive
       "emmett-framework/renoir",
       "Kludex/mangum",
       "pydantic/pydantic-extra-types",
-      "ROCm/hrx-system"
+      "ROCm/hrx-system",
+      "musescore/muse_framework"
     ]
 
     @git_repos_github_lfs = [
