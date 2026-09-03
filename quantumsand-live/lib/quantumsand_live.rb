@@ -5984,7 +5984,8 @@ class QuantumsandLive
       "pydantic/pydantic-extra-types",
       "ROCm/hrx-system",
       "musescore/muse_framework",
-      "musescore/sftools"
+      "musescore/sftools",
+      "musescore/harmonica_tablature"
     ]
 
     @git_repos_github_lfs = [
