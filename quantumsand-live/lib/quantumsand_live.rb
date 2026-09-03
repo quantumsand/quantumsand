@@ -5994,7 +5994,8 @@ class QuantumsandLive
       "musescore/KDDockWidgets",
       "KDAB/kddockwidgets-reference-test-screenshots",
       "musescore/musescore-connect",
-      "Tonejs/Tone.js"
+      "Tonejs/Tone.js",
+      "chrisguttandin/standardized-audio-context"
     ]
 
     @git_repos_github_lfs = [
