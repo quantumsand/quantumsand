@@ -5999,7 +5999,8 @@ class QuantumsandLive
       "musescore/extended_HE",
       "musescore/shape_notes",
       "rncbc/qtractor",
-      "free-audio/clap"
+      "free-audio/clap",
+      "micahrj/clap-sys"
     ]
 
     @git_repos_github_lfs = [
