@@ -5983,7 +5983,8 @@ class QuantumsandLive
       "Kludex/mangum",
       "pydantic/pydantic-extra-types",
       "ROCm/hrx-system",
-      "musescore/muse_framework"
+      "musescore/muse_framework",
+      "musescore/sftools"
     ]
 
     @git_repos_github_lfs = [
