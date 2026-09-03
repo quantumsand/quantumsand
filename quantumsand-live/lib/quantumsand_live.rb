@@ -5993,7 +5993,8 @@ class QuantumsandLive
       "musescore/harp_pedal_diagram",
       "musescore/KDDockWidgets",
       "KDAB/kddockwidgets-reference-test-screenshots",
-      "musescore/musescore-connect"
+      "musescore/musescore-connect",
+      "Tonejs/Tone.js"
     ]
 
     @git_repos_github_lfs = [
