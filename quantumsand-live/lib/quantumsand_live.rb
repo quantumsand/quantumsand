@@ -5985,7 +5985,8 @@ class QuantumsandLive
       "ROCm/hrx-system",
       "musescore/muse_framework",
       "musescore/sftools",
-      "musescore/harmonica_tablature"
+      "musescore/harmonica_tablature",
+      "musescore/mdl"
     ]
 
     @git_repos_github_lfs = [
