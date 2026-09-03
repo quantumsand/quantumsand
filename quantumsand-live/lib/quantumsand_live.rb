@@ -6005,7 +6005,8 @@ class QuantumsandLive
       "spwilson2/clap-sys-stubs",
       "free-audio/clap-validator",
       "robbert-vdh/nih-plug",
-      "RustAudio/vst3-sys"
+      "RustAudio/vst3-sys",
+      "sagiegurari/cargo-make"
     ]
 
     @git_repos_github_lfs = [
