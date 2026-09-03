@@ -9433,7 +9433,8 @@ class QuantumsandLive
       "media-gfx/krita",
       "sys-apps/flatpak",
       "media-sound/musescore",
-      "media-sound/ardour"
+      "media-sound/ardour",
+      "media-sound/qtractor"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
