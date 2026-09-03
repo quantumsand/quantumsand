@@ -5987,7 +5987,8 @@ class QuantumsandLive
       "musescore/sftools",
       "musescore/harmonica_tablature",
       "musescore/mdl",
-      "musescore/musescore_comments"
+      "musescore/musescore_comments",
+      "musescore/muse_deps"
     ]
 
     @git_repos_github_lfs = [
