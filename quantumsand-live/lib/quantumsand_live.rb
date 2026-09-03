@@ -6731,7 +6731,8 @@ class QuantumsandLive
       "~kennylevinsen/greetd",
       "~kennylevinsen/gtkgreet",
       "~kennylevinsen/seatd",
-      "~cdv/scfg-rs"
+      "~cdv/scfg-rs",
+      "~interpunct/clap-zig-bindings"
     ]
 
     @git_repos_review_haiku_os_org = [
