@@ -9402,7 +9402,8 @@ class QuantumsandLive
       "kde-apps/libksane",
       "kde-apps/kate",
       "media-gfx/krita",
-      "sys-apps/flatpak"
+      "sys-apps/flatpak",
+      "media-sound/musescore"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
