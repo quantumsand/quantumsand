@@ -6000,7 +6000,8 @@ class QuantumsandLive
       "musescore/shape_notes",
       "rncbc/qtractor",
       "free-audio/clap",
-      "micahrj/clap-sys"
+      "micahrj/clap-sys",
+      "prokopyl/clack"
     ]
 
     @git_repos_github_lfs = [
