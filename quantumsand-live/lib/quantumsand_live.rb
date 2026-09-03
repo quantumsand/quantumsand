@@ -6004,7 +6004,8 @@ class QuantumsandLive
       "prokopyl/clack",
       "spwilson2/clap-sys-stubs",
       "free-audio/clap-validator",
-      "robbert-vdh/nih-plug"
+      "robbert-vdh/nih-plug",
+      "RustAudio/vst3-sys"
     ]
 
     @git_repos_github_lfs = [
