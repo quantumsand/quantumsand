@@ -6002,7 +6002,8 @@ class QuantumsandLive
       "free-audio/clap",
       "micahrj/clap-sys",
       "prokopyl/clack",
-      "spwilson2/clap-sys-stubs"
+      "spwilson2/clap-sys-stubs",
+      "free-audio/clap-validator"
     ]
 
     @git_repos_github_lfs = [
