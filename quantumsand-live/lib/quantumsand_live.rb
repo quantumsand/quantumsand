@@ -8237,7 +8237,8 @@ class QuantumsandLive
       "emersion/scfg",
       "emersion/go-scfg",
       "terenc3/blanket-web",
-      "adamreichold/serde-roxmltree"
+      "adamreichold/serde-roxmltree",
+      "RustAudio/nice-plug"
     ]
 
     @git_repos_kde_invent = [
