@@ -6008,7 +6008,8 @@ class QuantumsandLive
       "RustAudio/vst3-sys",
       "sagiegurari/cargo-make",
       "RustAudio/baseview",
-      "steinbergmedia/vst3_base"
+      "steinbergmedia/vst3_base",
+      "steinbergmedia/vst3_pluginterfaces"
     ]
 
     @git_repos_github_lfs = [
