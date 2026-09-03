@@ -5990,7 +5990,8 @@ class QuantumsandLive
       "musescore/musescore_comments",
       "musescore/muse_deps",
       "musescore/MuseScore",
-      "musescore/harp_pedal_diagram"
+      "musescore/harp_pedal_diagram",
+      "musescore/KDDockWidgets"
     ]
 
     @git_repos_github_lfs = [
