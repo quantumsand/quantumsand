@@ -5998,7 +5998,8 @@ class QuantumsandLive
       "chrisguttandin/standardized-audio-context",
       "musescore/extended_HE",
       "musescore/shape_notes",
-      "rncbc/qtractor"
+      "rncbc/qtractor",
+      "free-audio/clap"
     ]
 
     @git_repos_github_lfs = [
