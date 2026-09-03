@@ -6007,7 +6007,8 @@ class QuantumsandLive
       "robbert-vdh/nih-plug",
       "RustAudio/vst3-sys",
       "sagiegurari/cargo-make",
-      "RustAudio/baseview"
+      "RustAudio/baseview",
+      "steinbergmedia/vst3_base"
     ]
 
     @git_repos_github_lfs = [
