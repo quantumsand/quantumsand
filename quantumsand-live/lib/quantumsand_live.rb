@@ -8240,7 +8240,8 @@ class QuantumsandLive
       "adamreichold/serde-roxmltree",
       "RustAudio/nice-plug",
       "RustAudio/egui-baseview",
-      "RustAudio/iced_baseview"
+      "RustAudio/iced_baseview",
+      "RustAudio/slint-baseview"
     ]
 
     @git_repos_kde_invent = [
