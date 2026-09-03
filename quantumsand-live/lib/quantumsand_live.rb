@@ -5997,7 +5997,8 @@ class QuantumsandLive
       "Tonejs/Tone.js",
       "chrisguttandin/standardized-audio-context",
       "musescore/extended_HE",
-      "musescore/shape_notes"
+      "musescore/shape_notes",
+      "rncbc/qtractor"
     ]
 
     @git_repos_github_lfs = [
