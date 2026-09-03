@@ -5992,7 +5992,8 @@ class QuantumsandLive
       "musescore/MuseScore",
       "musescore/harp_pedal_diagram",
       "musescore/KDDockWidgets",
-      "KDAB/kddockwidgets-reference-test-screenshots"
+      "KDAB/kddockwidgets-reference-test-screenshots",
+      "musescore/musescore-connect"
     ]
 
     @git_repos_github_lfs = [
