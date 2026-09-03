@@ -5996,7 +5996,8 @@ class QuantumsandLive
       "musescore/musescore-connect",
       "Tonejs/Tone.js",
       "chrisguttandin/standardized-audio-context",
-      "musescore/extended_HE"
+      "musescore/extended_HE",
+      "musescore/shape_notes"
     ]
 
     @git_repos_github_lfs = [
