@@ -8239,7 +8239,8 @@ class QuantumsandLive
       "terenc3/blanket-web",
       "adamreichold/serde-roxmltree",
       "RustAudio/nice-plug",
-      "RustAudio/egui-baseview"
+      "RustAudio/egui-baseview",
+      "RustAudio/iced_baseview"
     ]
 
     @git_repos_kde_invent = [
