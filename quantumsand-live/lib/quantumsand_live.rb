@@ -6001,7 +6001,8 @@ class QuantumsandLive
       "rncbc/qtractor",
       "free-audio/clap",
       "micahrj/clap-sys",
-      "prokopyl/clack"
+      "prokopyl/clack",
+      "spwilson2/clap-sys-stubs"
     ]
 
     @git_repos_github_lfs = [
