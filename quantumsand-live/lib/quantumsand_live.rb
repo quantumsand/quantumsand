@@ -6013,7 +6013,8 @@ class QuantumsandLive
       "steinbergmedia/vst3_public_sdk",
       "breakfastquay/minibpm",
       "okuramasafumi/alba",
-      "jsonapi-serializer/jsonapi-serializer"
+      "jsonapi-serializer/jsonapi-serializer",
+      "procore-oss/blueprinter"
     ]
 
     @git_repos_github_lfs = [
