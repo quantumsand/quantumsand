@@ -6014,7 +6014,8 @@ class QuantumsandLive
       "breakfastquay/minibpm",
       "okuramasafumi/alba",
       "jsonapi-serializer/jsonapi-serializer",
-      "procore-oss/blueprinter"
+      "procore-oss/blueprinter",
+      "rails-api/active_model_serializers"
     ]
 
     @git_repos_github_lfs = [
