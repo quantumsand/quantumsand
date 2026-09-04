@@ -6018,7 +6018,8 @@ class QuantumsandLive
       "rails-api/active_model_serializers",
       "graphiti-api/graphiti",
       "DmitryTsepelev/rubocop-graphql",
-      "rmosolgo/graphql-ruby"
+      "rmosolgo/graphql-ruby",
+      "flyerhzm/bullet"
     ]
 
     @git_repos_github_lfs = [
