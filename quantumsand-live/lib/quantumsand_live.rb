@@ -6019,7 +6019,8 @@ class QuantumsandLive
       "graphiti-api/graphiti",
       "DmitryTsepelev/rubocop-graphql",
       "rmosolgo/graphql-ruby",
-      "flyerhzm/bullet"
+      "flyerhzm/bullet",
+      "xmpp4r/xmpp4r"
     ]
 
     @git_repos_github_lfs = [
