@@ -9445,7 +9445,8 @@ class QuantumsandLive
       "sys-apps/flatpak",
       "media-sound/musescore",
       "media-sound/ardour",
-      "media-sound/qtractor"
+      "media-sound/qtractor",
+      "dev-libs/pocl"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
