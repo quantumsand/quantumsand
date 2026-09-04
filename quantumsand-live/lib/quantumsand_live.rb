@@ -6017,7 +6017,8 @@ class QuantumsandLive
       "procore-oss/blueprinter",
       "rails-api/active_model_serializers",
       "graphiti-api/graphiti",
-      "DmitryTsepelev/rubocop-graphql"
+      "DmitryTsepelev/rubocop-graphql",
+      "rmosolgo/graphql-ruby"
     ]
 
     @git_repos_github_lfs = [
