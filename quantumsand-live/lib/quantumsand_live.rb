@@ -6016,7 +6016,8 @@ class QuantumsandLive
       "jsonapi-serializer/jsonapi-serializer",
       "procore-oss/blueprinter",
       "rails-api/active_model_serializers",
-      "graphiti-api/graphiti"
+      "graphiti-api/graphiti",
+      "DmitryTsepelev/rubocop-graphql"
     ]
 
     @git_repos_github_lfs = [
