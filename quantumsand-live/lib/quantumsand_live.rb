@@ -6020,7 +6020,8 @@ class QuantumsandLive
       "DmitryTsepelev/rubocop-graphql",
       "rmosolgo/graphql-ruby",
       "flyerhzm/bullet",
-      "xmpp4r/xmpp4r"
+      "xmpp4r/xmpp4r",
+      "flyerhzm/uniform_notifier"
     ]
 
     @git_repos_github_lfs = [
