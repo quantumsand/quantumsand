@@ -6012,7 +6012,8 @@ class QuantumsandLive
       "steinbergmedia/vst3_pluginterfaces",
       "steinbergmedia/vst3_public_sdk",
       "breakfastquay/minibpm",
-      "okuramasafumi/alba"
+      "okuramasafumi/alba",
+      "jsonapi-serializer/jsonapi-serializer"
     ]
 
     @git_repos_github_lfs = [
