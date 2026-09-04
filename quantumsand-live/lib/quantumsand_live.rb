@@ -6015,7 +6015,8 @@ class QuantumsandLive
       "okuramasafumi/alba",
       "jsonapi-serializer/jsonapi-serializer",
       "procore-oss/blueprinter",
-      "rails-api/active_model_serializers"
+      "rails-api/active_model_serializers",
+      "graphiti-api/graphiti"
     ]
 
     @git_repos_github_lfs = [
