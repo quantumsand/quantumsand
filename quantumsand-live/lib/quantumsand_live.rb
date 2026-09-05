@@ -6023,7 +6023,8 @@ class QuantumsandLive
       "xmpp4r/xmpp4r",
       "flyerhzm/uniform_notifier",
       "pocl/pocl",
-      "remorses/gpuix"
+      "remorses/gpuix",
+      "remorses/zed"
     ]
 
     @git_repos_github_lfs = [
