@@ -6025,7 +6025,8 @@ class QuantumsandLive
       "pocl/pocl",
       "remorses/gpuix",
       "remorses/zed",
-      "pughpugh/react-countdown-clock"
+      "pughpugh/react-countdown-clock",
+      "storybookjs/storybook"
     ]
 
     @git_repos_github_lfs = [
