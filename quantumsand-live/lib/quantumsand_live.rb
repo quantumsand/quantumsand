@@ -9452,7 +9452,8 @@ class QuantumsandLive
       "media-sound/musescore",
       "media-sound/ardour",
       "media-sound/qtractor",
-      "dev-libs/pocl"
+      "dev-libs/pocl",
+      "app-emulation/wine-proton"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
