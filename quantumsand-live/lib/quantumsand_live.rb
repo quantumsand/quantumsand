@@ -6028,7 +6028,8 @@ class QuantumsandLive
       "pughpugh/react-countdown-clock",
       "storybookjs/storybook",
       "wcandillon/react-native-webgpu",
-      "ValveSoftware/wine"
+      "ValveSoftware/wine",
+      "HansKristian-Work/dxil-spirv"
     ]
 
     @git_repos_github_lfs = [
