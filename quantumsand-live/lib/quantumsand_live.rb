@@ -9454,7 +9454,8 @@ class QuantumsandLive
       "media-sound/ardour",
       "media-sound/qtractor",
       "dev-libs/pocl",
-      "app-emulation/wine-proton"
+      "app-emulation/wine-proton",
+      "app-emulation/vkd3d-proton"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
