@@ -6027,7 +6027,8 @@ class QuantumsandLive
       "remorses/zed",
       "pughpugh/react-countdown-clock",
       "storybookjs/storybook",
-      "wcandillon/react-native-webgpu"
+      "wcandillon/react-native-webgpu",
+      "ValveSoftware/wine"
     ]
 
     @git_repos_github_lfs = [
