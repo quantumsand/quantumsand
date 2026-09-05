@@ -6024,7 +6024,8 @@ class QuantumsandLive
       "flyerhzm/uniform_notifier",
       "pocl/pocl",
       "remorses/gpuix",
-      "remorses/zed"
+      "remorses/zed",
+      "pughpugh/react-countdown-clock"
     ]
 
     @git_repos_github_lfs = [
