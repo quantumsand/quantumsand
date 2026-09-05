@@ -127,3 +127,13 @@ ffmpeg -i input.mp3 -update 1 cover.png
 ```bash
 ffmpeg -i input.mp3 -update 1 cover.jpg
 ```
+
+To remove global metadata from the output:
+
+```bash
+ffmpeg -i input.mp4 -map_metadata:g -1 output.mp4
+```
+
+* `-map_metadata` controls which metadata is copied.
+* `:g` specifies the global metadata scope.
+* `-1` means disable metadata copying from the corresponding input.
