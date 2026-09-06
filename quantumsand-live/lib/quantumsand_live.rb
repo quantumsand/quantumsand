@@ -6029,7 +6029,8 @@ class QuantumsandLive
       "storybookjs/storybook",
       "wcandillon/react-native-webgpu",
       "ValveSoftware/wine",
-      "HansKristian-Work/dxil-spirv"
+      "HansKristian-Work/dxil-spirv",
+      "smartmontools/smartmontools"
     ]
 
     @git_repos_github_lfs = [
