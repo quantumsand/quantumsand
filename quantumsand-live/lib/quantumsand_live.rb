@@ -6519,7 +6519,8 @@ class QuantumsandLive
     @git_repos_arm_com_gitlab = [
       "runtimes/vixl",
       "tosa/tosa-tools",
-      "artificial-intelligence/ethos-u/ethos-u-vela"
+      "artificial-intelligence/ethos-u/ethos-u-vela",
+      "kleidi/kleidiai"
     ]
 
     @git_repos_netfilter_org = [
