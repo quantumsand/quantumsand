@@ -6046,7 +6046,8 @@ class QuantumsandLive
       "pytorch/ao",
       "meta-pytorch/FACTO",
       "facebook/buck2-shims-meta",
-      "Sonicadvance1/cpp-optparse"
+      "Sonicadvance1/cpp-optparse",
+      "FEX-Emu/fex-posixtest-bins"
     ]
 
     @git_repos_github_lfs = [
