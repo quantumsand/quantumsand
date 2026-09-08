@@ -6036,7 +6036,8 @@ class QuantumsandLive
       "FEX-Emu/vixl",
       "Arm-Examples/LLM-Runner",
       "pytorch/executorch",
-      "Arm-Examples/STT-Runner"
+      "Arm-Examples/STT-Runner",
+      "alibaba/MNN"
     ]
 
     @git_repos_github_lfs = [
