@@ -6044,7 +6044,8 @@ class QuantumsandLive
       "leetal/ios-cmake",
       "facebook/buck2-prelude",
       "pytorch/ao",
-      "meta-pytorch/FACTO"
+      "meta-pytorch/FACTO",
+      "facebook/buck2-shims-meta"
     ]
 
     @git_repos_github_lfs = [
