@@ -6047,7 +6047,8 @@ class QuantumsandLive
       "meta-pytorch/FACTO",
       "facebook/buck2-shims-meta",
       "Sonicadvance1/cpp-optparse",
-      "FEX-Emu/fex-posixtest-bins"
+      "FEX-Emu/fex-posixtest-bins",
+      "google/gvisor"
     ]
 
     @git_repos_github_lfs = [
