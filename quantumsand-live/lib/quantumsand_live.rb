@@ -6033,7 +6033,8 @@ class QuantumsandLive
       "HansKristian-Work/dxil-spirv",
       "smartmontools/smartmontools",
       "google/styleguide",
-      "FEX-Emu/vixl"
+      "FEX-Emu/vixl",
+      "Arm-Examples/LLM-Runner"
     ]
 
     @git_repos_github_lfs = [
