@@ -6038,7 +6038,8 @@ class QuantumsandLive
       "pytorch/executorch",
       "Arm-Examples/STT-Runner",
       "alibaba/MNN",
-      "google/pthreadpool"
+      "google/pthreadpool",
+      "meta-pytorch/tokenizers"
     ]
 
     @git_repos_github_lfs = [
