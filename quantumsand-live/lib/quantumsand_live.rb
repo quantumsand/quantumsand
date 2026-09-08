@@ -6049,7 +6049,8 @@ class QuantumsandLive
       "Sonicadvance1/cpp-optparse",
       "FEX-Emu/fex-posixtest-bins",
       "google/gvisor",
-      "FEX-Emu/fex-gvisor-tests-bins"
+      "FEX-Emu/fex-gvisor-tests-bins",
+      "FEX-Emu/fex-gcc-target-tests-bins"
     ]
 
     @git_repos_github_lfs = [
