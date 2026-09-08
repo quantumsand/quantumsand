@@ -6057,7 +6057,8 @@ class QuantumsandLive
       "zyantific/zydis",
       "zyantific/zasm",
       "build-cpp/cmkr",
-      "zyantific/zydis-go"
+      "zyantific/zydis-go",
+      "zyantific/zydis-rs"
     ]
 
     @git_repos_github_lfs = [
