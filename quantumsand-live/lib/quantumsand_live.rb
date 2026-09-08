@@ -9499,7 +9499,8 @@ class QuantumsandLive
       "dev-libs/pocl",
       "app-emulation/wine-proton",
       "app-emulation/vkd3d-proton",
-      "sys-apps/smartmontools"
+      "sys-apps/smartmontools",
+      "net-wireless/kismet"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
