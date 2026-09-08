@@ -6524,6 +6524,10 @@ class QuantumsandLive
       "kleidi/kleidicv"
     ]
 
+    @git_repos_arm_com_gitlab_lfs = [
+      "kleidi/kleidi-examples/ai-camera-pipelines"
+    ]
+
     @git_repos_netfilter_org = [
       "iptables",
       "libmnl",
