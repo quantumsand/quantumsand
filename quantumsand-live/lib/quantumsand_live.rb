@@ -6052,7 +6052,8 @@ class QuantumsandLive
       "FEX-Emu/fex-gvisor-tests-bins",
       "FEX-Emu/fex-gcc-target-tests-bins",
       "FEX-Emu/drm-headers",
-      "FEX-Emu/jemalloc"
+      "FEX-Emu/jemalloc",
+      "zyantific/zycore-c"
     ]
 
     @git_repos_github_lfs = [
