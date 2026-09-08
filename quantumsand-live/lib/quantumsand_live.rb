@@ -6048,7 +6048,8 @@ class QuantumsandLive
       "facebook/buck2-shims-meta",
       "Sonicadvance1/cpp-optparse",
       "FEX-Emu/fex-posixtest-bins",
-      "google/gvisor"
+      "google/gvisor",
+      "FEX-Emu/fex-gvisor-tests-bins"
     ]
 
     @git_repos_github_lfs = [
