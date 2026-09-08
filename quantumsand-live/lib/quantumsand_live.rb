@@ -6517,7 +6517,8 @@ class QuantumsandLive
     ]
 
     @git_repos_arm_com_gitlab = [
-      "runtimes/vixl"
+      "runtimes/vixl",
+      "tosa/tosa-tools"
     ]
 
     @git_repos_netfilter_org = [
