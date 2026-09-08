@@ -6034,7 +6034,8 @@ class QuantumsandLive
       "smartmontools/smartmontools",
       "google/styleguide",
       "FEX-Emu/vixl",
-      "Arm-Examples/LLM-Runner"
+      "Arm-Examples/LLM-Runner",
+      "pytorch/executorch"
     ]
 
     @git_repos_github_lfs = [
