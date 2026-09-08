@@ -36,6 +36,7 @@ class QuantumsandLive
     @git_repos_zapb_de_url = ENV.fetch("GIT_REPOS_ZAPB_DE_URL")
     @git_repos_inria_fr_url = ENV.fetch("GIT_REPOS_INRIA_FR_URL")
     @git_repos_winehq_org_url = ENV.fetch("GIT_REPOS_WINEHQ_ORG_URL")
+    @git_repos_arm_com_url = ENV.fetch("GIT_REPOS_ARM_COM_URL")
     @git_repos_netfilter_org_url = ENV.fetch("GIT_REPOS_NETFILTER_ORG_URL")
     @git_repos_dev_gnupg_org_url = ENV.fetch("GIT_REPOS_DEV_GNUPG_ORG_URL")
     @git_repos_haskell_org_url = ENV.fetch("GIT_REPOS_HASKELL_ORG_URL")
@@ -6513,6 +6514,10 @@ class QuantumsandLive
       "wine/fontforge",
       "wine/vkd3d",
       "wine/wine-gecko"
+    ]
+
+    @git_repos_arm_com_gitlab = [
+      "runtimes/vixl"
     ]
 
     @git_repos_netfilter_org = [
