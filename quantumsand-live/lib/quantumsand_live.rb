@@ -6041,7 +6041,8 @@ class QuantumsandLive
       "google/pthreadpool",
       "meta-pytorch/tokenizers",
       "dvidelabs/flatcc",
-      "leetal/ios-cmake"
+      "leetal/ios-cmake",
+      "facebook/buck2-prelude"
     ]
 
     @git_repos_github_lfs = [
