@@ -6031,7 +6031,8 @@ class QuantumsandLive
       "ValveSoftware/wine",
       "HansKristian-Work/dxil-spirv",
       "smartmontools/smartmontools",
-      "google/styleguide"
+      "google/styleguide",
+      "FEX-Emu/vixl"
     ]
 
     @git_repos_github_lfs = [
