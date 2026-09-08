@@ -6040,7 +6040,8 @@ class QuantumsandLive
       "alibaba/MNN",
       "google/pthreadpool",
       "meta-pytorch/tokenizers",
-      "dvidelabs/flatcc"
+      "dvidelabs/flatcc",
+      "leetal/ios-cmake"
     ]
 
     @git_repos_github_lfs = [
