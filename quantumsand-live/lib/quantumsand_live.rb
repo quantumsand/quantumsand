@@ -6030,7 +6030,8 @@ class QuantumsandLive
       "wcandillon/react-native-webgpu",
       "ValveSoftware/wine",
       "HansKristian-Work/dxil-spirv",
-      "smartmontools/smartmontools"
+      "smartmontools/smartmontools",
+      "google/styleguide"
     ]
 
     @git_repos_github_lfs = [
