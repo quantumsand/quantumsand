@@ -6050,7 +6050,8 @@ class QuantumsandLive
       "FEX-Emu/fex-posixtest-bins",
       "google/gvisor",
       "FEX-Emu/fex-gvisor-tests-bins",
-      "FEX-Emu/fex-gcc-target-tests-bins"
+      "FEX-Emu/fex-gcc-target-tests-bins",
+      "FEX-Emu/drm-headers"
     ]
 
     @git_repos_github_lfs = [
