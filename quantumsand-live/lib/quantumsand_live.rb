@@ -6520,7 +6520,8 @@ class QuantumsandLive
       "runtimes/vixl",
       "tosa/tosa-tools",
       "artificial-intelligence/ethos-u/ethos-u-vela",
-      "kleidi/kleidiai"
+      "kleidi/kleidiai",
+      "kleidi/kleidicv"
     ]
 
     @git_repos_netfilter_org = [
