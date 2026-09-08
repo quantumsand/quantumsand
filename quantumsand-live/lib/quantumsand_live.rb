@@ -6045,7 +6045,8 @@ class QuantumsandLive
       "facebook/buck2-prelude",
       "pytorch/ao",
       "meta-pytorch/FACTO",
-      "facebook/buck2-shims-meta"
+      "facebook/buck2-shims-meta",
+      "Sonicadvance1/cpp-optparse"
     ]
 
     @git_repos_github_lfs = [
