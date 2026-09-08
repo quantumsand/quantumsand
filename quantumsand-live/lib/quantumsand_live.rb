@@ -6039,7 +6039,8 @@ class QuantumsandLive
       "Arm-Examples/STT-Runner",
       "alibaba/MNN",
       "google/pthreadpool",
-      "meta-pytorch/tokenizers"
+      "meta-pytorch/tokenizers",
+      "dvidelabs/flatcc"
     ]
 
     @git_repos_github_lfs = [
