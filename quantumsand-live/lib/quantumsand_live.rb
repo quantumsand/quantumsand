@@ -6062,7 +6062,8 @@ class QuantumsandLive
       "zyantific/zydis-pascal",
       "martinus/unordered_dense",
       "FEX-Emu/rpmalloc",
-      "EmbarkStudios/rpmalloc-rs"
+      "EmbarkStudios/rpmalloc-rs",
+      "mjansson/rpmalloc"
     ]
 
     @git_repos_github_lfs = [
