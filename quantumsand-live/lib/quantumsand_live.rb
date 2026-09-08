@@ -6037,7 +6037,8 @@ class QuantumsandLive
       "Arm-Examples/LLM-Runner",
       "pytorch/executorch",
       "Arm-Examples/STT-Runner",
-      "alibaba/MNN"
+      "alibaba/MNN",
+      "google/pthreadpool"
     ]
 
     @git_repos_github_lfs = [
