@@ -6059,7 +6059,8 @@ class QuantumsandLive
       "build-cpp/cmkr",
       "zyantific/zydis-go",
       "zyantific/zydis-rs",
-      "zyantific/zydis-pascal"
+      "zyantific/zydis-pascal",
+      "martinus/unordered_dense"
     ]
 
     @git_repos_github_lfs = [
