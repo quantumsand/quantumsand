@@ -6521,7 +6521,8 @@ class QuantumsandLive
       "tosa/tosa-tools",
       "artificial-intelligence/ethos-u/ethos-u-vela",
       "kleidi/kleidiai",
-      "kleidi/kleidicv"
+      "kleidi/kleidicv",
+      "runtimes/wasm-perf"
     ]
 
     @git_repos_arm_com_gitlab_lfs = [
