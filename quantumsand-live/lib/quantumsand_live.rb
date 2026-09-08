@@ -6054,7 +6054,8 @@ class QuantumsandLive
       "FEX-Emu/drm-headers",
       "FEX-Emu/jemalloc",
       "zyantific/zycore-c",
-      "zyantific/zydis"
+      "zyantific/zydis",
+      "zyantific/zasm"
     ]
 
     @git_repos_github_lfs = [
