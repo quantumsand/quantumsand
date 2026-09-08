@@ -6043,7 +6043,8 @@ class QuantumsandLive
       "dvidelabs/flatcc",
       "leetal/ios-cmake",
       "facebook/buck2-prelude",
-      "pytorch/ao"
+      "pytorch/ao",
+      "meta-pytorch/FACTO"
     ]
 
     @git_repos_github_lfs = [
