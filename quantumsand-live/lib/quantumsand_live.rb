@@ -6081,7 +6081,8 @@ class QuantumsandLive
       "zarr-developers/zarr-python",
       "google/tensorstore",
       "Unidata/netcdf-c",
-      "manzt/zarrita.js"
+      "manzt/zarrita.js",
+      "dropzone/dropzone"
     ]
 
     @git_repos_github_lfs = [
