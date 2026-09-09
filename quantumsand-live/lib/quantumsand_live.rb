@@ -6071,7 +6071,8 @@ class QuantumsandLive
       "vega/vega",
       "kylebarron/deck.gl-raster",
       "google/shaderc",
-      "developmentseed/deck.gl-raster"
+      "developmentseed/deck.gl-raster",
+      "developmentseed/geotiff-test-data"
     ]
 
     @git_repos_github_lfs = [
