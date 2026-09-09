@@ -6090,7 +6090,8 @@ class QuantumsandLive
       "Abjad/abjad",
       "frescobaldi/python-ly",
       "frescobaldi/quickly",
-      "frescobaldi/qpageview"
+      "frescobaldi/qpageview",
+      "gphoto/libgphoto2-python"
     ]
 
     @git_repos_github_lfs = [
