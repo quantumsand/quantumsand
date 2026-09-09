@@ -6082,7 +6082,8 @@ class QuantumsandLive
       "google/tensorstore",
       "Unidata/netcdf-c",
       "manzt/zarrita.js",
-      "dropzone/dropzone"
+      "dropzone/dropzone",
+      "vercel-labs/vgpu"
     ]
 
     @git_repos_github_lfs = [
