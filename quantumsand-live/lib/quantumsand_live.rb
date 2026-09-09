@@ -6069,7 +6069,8 @@ class QuantumsandLive
       "danmarshall/indefinitely-typed",
       "microsoft/SandDance",
       "vega/vega",
-      "kylebarron/deck.gl-raster"
+      "kylebarron/deck.gl-raster",
+      "google/shaderc"
     ]
 
     @git_repos_github_lfs = [
