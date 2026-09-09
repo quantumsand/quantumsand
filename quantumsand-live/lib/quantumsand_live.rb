@@ -9160,7 +9160,8 @@ class QuantumsandLive
       "qwt/git",
       "libdc1394/code",
       "sbcl/sbcl",
-      "gphoto/code"
+      "gphoto/code",
+      "rosegarden/git"
     ]
 
     @git_repos_code_launchpad_net = [
