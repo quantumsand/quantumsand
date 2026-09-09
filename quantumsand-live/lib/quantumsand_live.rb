@@ -6072,7 +6072,8 @@ class QuantumsandLive
       "kylebarron/deck.gl-raster",
       "google/shaderc",
       "developmentseed/deck.gl-raster",
-      "developmentseed/geotiff-test-data"
+      "developmentseed/geotiff-test-data",
+      "opengeospatial/2D-Tile-Matrix-Set"
     ]
 
     @git_repos_github_lfs = [
