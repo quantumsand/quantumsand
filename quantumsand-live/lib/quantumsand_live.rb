@@ -6078,7 +6078,8 @@ class QuantumsandLive
       "zarr-conventions/spatial",
       "zarr-conventions/proj",
       "thanos/ExZarr",
-      "zarr-developers/zarr-python"
+      "zarr-developers/zarr-python",
+      "google/tensorstore"
     ]
 
     @git_repos_github_lfs = [
