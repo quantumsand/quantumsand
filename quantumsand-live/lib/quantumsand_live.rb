@@ -9535,7 +9535,8 @@ class QuantumsandLive
       "sys-apps/smartmontools",
       "net-wireless/kismet",
       "media-sound/lilypond",
-      "media-sound/frescobaldi"
+      "media-sound/frescobaldi",
+      "media-sound/rosegarden"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
