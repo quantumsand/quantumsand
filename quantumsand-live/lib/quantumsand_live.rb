@@ -6063,7 +6063,8 @@ class QuantumsandLive
       "martinus/unordered_dense",
       "FEX-Emu/rpmalloc",
       "EmbarkStudios/rpmalloc-rs",
-      "mjansson/rpmalloc"
+      "mjansson/rpmalloc",
+      "visgl/deck.gl"
     ]
 
     @git_repos_github_lfs = [
