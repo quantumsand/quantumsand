@@ -6075,7 +6075,8 @@ class QuantumsandLive
       "developmentseed/geotiff-test-data",
       "opengeospatial/2D-Tile-Matrix-Set",
       "zarr-conventions/multiscales",
-      "zarr-conventions/spatial"
+      "zarr-conventions/spatial",
+      "zarr-conventions/proj"
     ]
 
     @git_repos_github_lfs = [
