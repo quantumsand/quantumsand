@@ -6065,7 +6065,8 @@ class QuantumsandLive
       "EmbarkStudios/rpmalloc-rs",
       "mjansson/rpmalloc",
       "visgl/deck.gl",
-      "danmarshall/deckgl-typings"
+      "danmarshall/deckgl-typings",
+      "danmarshall/indefinitely-typed"
     ]
 
     @git_repos_github_lfs = [
