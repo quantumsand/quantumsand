@@ -6093,7 +6093,8 @@ class QuantumsandLive
       "frescobaldi/qpageview",
       "gphoto/libgphoto2-python",
       "gphoto/gtkam",
-      "gphoto/gphotofs"
+      "gphoto/gphotofs",
+      "gphoto/gphoto2-manual"
     ]
 
     @git_repos_github_lfs = [
