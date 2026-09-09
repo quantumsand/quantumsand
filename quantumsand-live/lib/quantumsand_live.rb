@@ -7233,7 +7233,8 @@ class QuantumsandLive
       "bzip2/bzip2-testfiles",
       "bzip2/bzip2",
       "freepascal.org/fpc/source",
-      "fwojcik/smhasher3"
+      "fwojcik/smhasher3",
+      "lilypond/lilypond"
     ]
 
     @git_repos_freedesktop_gitlab = [
