@@ -88,7 +88,7 @@ This will include:
 * Rustus (TUS protocol implementation in asynchronous Rust)
 * Jiter (fast iterable JSON parser for Rust)
 * Granian (Rust HTTP server for Python applications)
-* Abjad (Python API for building LilyPond files and generating PDFs of music notation)
+* Abjad (Python API for building LilyPond files and generating PDFs of musical notation)
 
 More to follow.
 
