@@ -6077,7 +6077,8 @@ class QuantumsandLive
       "zarr-conventions/multiscales",
       "zarr-conventions/spatial",
       "zarr-conventions/proj",
-      "thanos/ExZarr"
+      "thanos/ExZarr",
+      "zarr-developers/zarr-python"
     ]
 
     @git_repos_github_lfs = [
