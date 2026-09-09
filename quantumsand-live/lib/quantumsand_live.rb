@@ -9527,7 +9527,8 @@ class QuantumsandLive
       "app-emulation/vkd3d-proton",
       "sys-apps/smartmontools",
       "net-wireless/kismet",
-      "media-sound/lilypond"
+      "media-sound/lilypond",
+      "media-sound/frescobaldi"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
