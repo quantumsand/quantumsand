@@ -6094,7 +6094,8 @@ class QuantumsandLive
       "gphoto/libgphoto2-python",
       "gphoto/gtkam",
       "gphoto/gphotofs",
-      "gphoto/gphoto2-manual"
+      "gphoto/gphoto2-manual",
+      "kydecker/astro-lilypond"
     ]
 
     @git_repos_github_lfs = [
