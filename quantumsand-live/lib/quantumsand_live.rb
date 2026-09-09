@@ -6089,7 +6089,8 @@ class QuantumsandLive
       "jaredforth/lilypond-rs",
       "Abjad/abjad",
       "frescobaldi/python-ly",
-      "frescobaldi/quickly"
+      "frescobaldi/quickly",
+      "frescobaldi/qpageview"
     ]
 
     @git_repos_github_lfs = [
