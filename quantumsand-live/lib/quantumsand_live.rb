@@ -6076,7 +6076,8 @@ class QuantumsandLive
       "opengeospatial/2D-Tile-Matrix-Set",
       "zarr-conventions/multiscales",
       "zarr-conventions/spatial",
-      "zarr-conventions/proj"
+      "zarr-conventions/proj",
+      "thanos/ExZarr"
     ]
 
     @git_repos_github_lfs = [
