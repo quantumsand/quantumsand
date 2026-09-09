@@ -6084,7 +6084,8 @@ class QuantumsandLive
       "manzt/zarrita.js",
       "dropzone/dropzone",
       "vercel-labs/vgpu",
-      "MasterKale/SimpleWebAuthn"
+      "MasterKale/SimpleWebAuthn",
+      "facebook/memlab"
     ]
 
     @git_repos_github_lfs = [
