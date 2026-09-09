@@ -6085,7 +6085,8 @@ class QuantumsandLive
       "dropzone/dropzone",
       "vercel-labs/vgpu",
       "MasterKale/SimpleWebAuthn",
-      "facebook/memlab"
+      "facebook/memlab",
+      "jaredforth/lilypond-rs"
     ]
 
     @git_repos_github_lfs = [
