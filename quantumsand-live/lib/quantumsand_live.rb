@@ -6068,7 +6068,8 @@ class QuantumsandLive
       "danmarshall/deckgl-typings",
       "danmarshall/indefinitely-typed",
       "microsoft/SandDance",
-      "vega/vega"
+      "vega/vega",
+      "kylebarron/deck.gl-raster"
     ]
 
     @git_repos_github_lfs = [
