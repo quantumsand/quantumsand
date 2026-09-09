@@ -6086,7 +6086,8 @@ class QuantumsandLive
       "vercel-labs/vgpu",
       "MasterKale/SimpleWebAuthn",
       "facebook/memlab",
-      "jaredforth/lilypond-rs"
+      "jaredforth/lilypond-rs",
+      "Abjad/abjad"
     ]
 
     @git_repos_github_lfs = [
