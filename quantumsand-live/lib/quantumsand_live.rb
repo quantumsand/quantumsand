@@ -6083,7 +6083,8 @@ class QuantumsandLive
       "Unidata/netcdf-c",
       "manzt/zarrita.js",
       "dropzone/dropzone",
-      "vercel-labs/vgpu"
+      "vercel-labs/vgpu",
+      "MasterKale/SimpleWebAuthn"
     ]
 
     @git_repos_github_lfs = [
