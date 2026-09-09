@@ -6073,7 +6073,8 @@ class QuantumsandLive
       "google/shaderc",
       "developmentseed/deck.gl-raster",
       "developmentseed/geotiff-test-data",
-      "opengeospatial/2D-Tile-Matrix-Set"
+      "opengeospatial/2D-Tile-Matrix-Set",
+      "zarr-conventions/multiscales"
     ]
 
     @git_repos_github_lfs = [
