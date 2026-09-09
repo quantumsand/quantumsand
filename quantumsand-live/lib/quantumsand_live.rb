@@ -6087,7 +6087,8 @@ class QuantumsandLive
       "MasterKale/SimpleWebAuthn",
       "facebook/memlab",
       "jaredforth/lilypond-rs",
-      "Abjad/abjad"
+      "Abjad/abjad",
+      "frescobaldi/python-ly"
     ]
 
     @git_repos_github_lfs = [
