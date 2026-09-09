@@ -6095,7 +6095,8 @@ class QuantumsandLive
       "gphoto/gtkam",
       "gphoto/gphotofs",
       "gphoto/gphoto2-manual",
-      "kydecker/astro-lilypond"
+      "kydecker/astro-lilypond",
+      "w3c/webauthn"
     ]
 
     @git_repos_github_lfs = [
