@@ -96,6 +96,22 @@ JSON Value
 * You can close Valkey Admin.
 * Install ejabberd; `brew install ejabberd`
 * To start ejabberd now and restart at login: `brew services start ejabberd`
+* Install LilyPond; `brew install lilypond`
+* Test your LilyPond installation; `lilypond --version`
+* You should see the following message:
+```
+GNU LilyPond 2.26.0 (running Guile 3.0)
+
+Copyright (c) 1996--2026 by
+  Han-Wen Nienhuys <hanwen@xs4all.nl>
+  Jan Nieuwenhuizen <janneke@gnu.org>
+  and others.
+
+This program is free software.  It is covered by the GNU General Public
+License and you are welcome to change it and/or distribute copies of it
+under certain conditions.  Invoke as `lilypond --warranty' for more
+information.
+```
 * Install VLC media player (Apple Silicon); make sure it is the arm64 dmg.
 * Install Blender 4.5 LTS (Apple Silicon); make sure it is the arm64 dmg.
 * Install Inkscape; “dmg file for arm64 architecture, macOS”; make sure it is the arm64 dmg.
