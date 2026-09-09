@@ -6079,7 +6079,8 @@ class QuantumsandLive
       "zarr-conventions/proj",
       "thanos/ExZarr",
       "zarr-developers/zarr-python",
-      "google/tensorstore"
+      "google/tensorstore",
+      "Unidata/netcdf-c"
     ]
 
     @git_repos_github_lfs = [
