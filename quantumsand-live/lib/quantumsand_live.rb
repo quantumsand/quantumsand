@@ -9160,7 +9160,6 @@ class QuantumsandLive
       "qwt/git",
       "libdc1394/code",
       "sbcl/sbcl",
-      "gphoto/code",
       "rosegarden/git"
     ]
 
