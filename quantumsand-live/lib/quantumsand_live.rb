@@ -6064,7 +6064,8 @@ class QuantumsandLive
       "FEX-Emu/rpmalloc",
       "EmbarkStudios/rpmalloc-rs",
       "mjansson/rpmalloc",
-      "visgl/deck.gl"
+      "visgl/deck.gl",
+      "danmarshall/deckgl-typings"
     ]
 
     @git_repos_github_lfs = [
