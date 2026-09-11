@@ -6105,7 +6105,8 @@ class QuantumsandLive
       "EricLBuehler/mistral.rs",
       "nadavrot/layout",
       "mermaid-js/mermaid",
-      "mermaid-js/mermaid-live-editor"
+      "mermaid-js/mermaid-live-editor",
+      "mermaid-js/zenuml-core"
     ]
 
     @git_repos_github_lfs = [
