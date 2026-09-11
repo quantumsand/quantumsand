@@ -6106,7 +6106,8 @@ class QuantumsandLive
       "nadavrot/layout",
       "mermaid-js/mermaid",
       "mermaid-js/mermaid-live-editor",
-      "mermaid-js/zenuml-core"
+      "mermaid-js/zenuml-core",
+      "mermaid-js/react-wrapper"
     ]
 
     @git_repos_github_lfs = [
