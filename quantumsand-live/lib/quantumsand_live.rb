@@ -6098,7 +6098,8 @@ class QuantumsandLive
       "kydecker/astro-lilypond",
       "w3c/webauthn",
       "NVIDIA/numba-cuda",
-      "NVIDIA/numba-cuda-mlir"
+      "NVIDIA/numba-cuda-mlir",
+      "ActiveState/appdirs"
     ]
 
     @git_repos_github_lfs = [
