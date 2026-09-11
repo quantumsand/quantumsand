@@ -6109,7 +6109,8 @@ class QuantumsandLive
       "mermaid-js/zenuml-core",
       "mermaid-js/react-wrapper",
       "plantuml/plantuml",
-      "ivanceras/svgbob"
+      "ivanceras/svgbob",
+      "google/comprehensive-rust"
     ]
 
     @git_repos_github_lfs = [
