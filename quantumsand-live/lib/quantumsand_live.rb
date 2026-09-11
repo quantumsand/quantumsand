@@ -6097,7 +6097,8 @@ class QuantumsandLive
       "gphoto/gphoto2-manual",
       "kydecker/astro-lilypond",
       "w3c/webauthn",
-      "NVIDIA/numba-cuda"
+      "NVIDIA/numba-cuda",
+      "NVIDIA/numba-cuda-mlir"
     ]
 
     @git_repos_github_lfs = [
