@@ -6103,7 +6103,8 @@ class QuantumsandLive
       "pliron-org/pliron",
       "huggingface/grout",
       "EricLBuehler/mistral.rs",
-      "nadavrot/layout"
+      "nadavrot/layout",
+      "mermaid-js/mermaid"
     ]
 
     @git_repos_github_lfs = [
