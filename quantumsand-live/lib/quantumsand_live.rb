@@ -6102,7 +6102,8 @@ class QuantumsandLive
       "ActiveState/appdirs",
       "pliron-org/pliron",
       "huggingface/grout",
-      "EricLBuehler/mistral.rs"
+      "EricLBuehler/mistral.rs",
+      "nadavrot/layout"
     ]
 
     @git_repos_github_lfs = [
