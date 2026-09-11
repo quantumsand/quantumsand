@@ -6112,7 +6112,8 @@ class QuantumsandLive
       "ivanceras/svgbob",
       "google/comprehensive-rust",
       "marxin/mdbook-linkcheck2",
-      "google/mdbook-i18n-helpers"
+      "google/mdbook-i18n-helpers",
+      "boozook/mdbook-svgbob"
     ]
 
     @git_repos_github_lfs = [
