@@ -6101,7 +6101,8 @@ class QuantumsandLive
       "NVIDIA/numba-cuda-mlir",
       "ActiveState/appdirs",
       "pliron-org/pliron",
-      "huggingface/grout"
+      "huggingface/grout",
+      "EricLBuehler/mistral.rs"
     ]
 
     @git_repos_github_lfs = [
