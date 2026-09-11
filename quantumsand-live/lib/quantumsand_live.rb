@@ -6104,7 +6104,8 @@ class QuantumsandLive
       "huggingface/grout",
       "EricLBuehler/mistral.rs",
       "nadavrot/layout",
-      "mermaid-js/mermaid"
+      "mermaid-js/mermaid",
+      "mermaid-js/mermaid-live-editor"
     ]
 
     @git_repos_github_lfs = [
