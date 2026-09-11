@@ -6099,7 +6099,8 @@ class QuantumsandLive
       "w3c/webauthn",
       "NVIDIA/numba-cuda",
       "NVIDIA/numba-cuda-mlir",
-      "ActiveState/appdirs"
+      "ActiveState/appdirs",
+      "pliron-org/pliron"
     ]
 
     @git_repos_github_lfs = [
