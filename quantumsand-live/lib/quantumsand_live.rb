@@ -7253,7 +7253,8 @@ class QuantumsandLive
       "freepascal.org/fpc/source",
       "fwojcik/smhasher3",
       "lilypond/lilypond",
-      "lilypond/static-files"
+      "lilypond/static-files",
+      "aplevich/dpic"
     ]
 
     @git_repos_freedesktop_gitlab = [
