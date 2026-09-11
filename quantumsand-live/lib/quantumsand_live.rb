@@ -6111,7 +6111,8 @@ class QuantumsandLive
       "plantuml/plantuml",
       "ivanceras/svgbob",
       "google/comprehensive-rust",
-      "marxin/mdbook-linkcheck2"
+      "marxin/mdbook-linkcheck2",
+      "google/mdbook-i18n-helpers"
     ]
 
     @git_repos_github_lfs = [
