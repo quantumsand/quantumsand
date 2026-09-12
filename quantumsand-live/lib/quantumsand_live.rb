@@ -6113,7 +6113,8 @@ class QuantumsandLive
       "google/comprehensive-rust",
       "marxin/mdbook-linkcheck2",
       "google/mdbook-i18n-helpers",
-      "boozook/mdbook-svgbob"
+      "boozook/mdbook-svgbob",
+      "intel/intel-one-mono"
     ]
 
     @git_repos_github_lfs = [
