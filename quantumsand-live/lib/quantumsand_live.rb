@@ -8364,7 +8364,8 @@ class QuantumsandLive
       "RustAudio/nice-plug",
       "RustAudio/egui-baseview",
       "RustAudio/iced_baseview",
-      "RustAudio/slint-baseview"
+      "RustAudio/slint-baseview",
+      "ckruse/Gitte"
     ]
 
     @git_repos_kde_invent = [
