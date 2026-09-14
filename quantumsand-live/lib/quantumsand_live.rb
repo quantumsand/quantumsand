@@ -6114,7 +6114,8 @@ class QuantumsandLive
       "marxin/mdbook-linkcheck2",
       "google/mdbook-i18n-helpers",
       "boozook/mdbook-svgbob",
-      "intel/intel-one-mono"
+      "intel/intel-one-mono",
+      "torchgeo/terratorch"
     ]
 
     @git_repos_github_lfs = [
