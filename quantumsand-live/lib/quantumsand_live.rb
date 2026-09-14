@@ -6117,7 +6117,8 @@ class QuantumsandLive
       "intel/intel-one-mono",
       "torchgeo/terratorch",
       "Clay-foundation/model",
-      "NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model"
+      "NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model",
+      "NASA-IMPACT/hls-foundation-os"
     ]
 
     @git_repos_github_lfs = [
