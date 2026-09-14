@@ -6120,7 +6120,8 @@ class QuantumsandLive
       "NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model",
       "NASA-IMPACT/hls-foundation-os",
       "cloudtostreet/Sen1Floods11",
-      "rusqlite/rusqlite"
+      "rusqlite/rusqlite",
+      "BurntSushi/jiff"
     ]
 
     @git_repos_github_lfs = [
