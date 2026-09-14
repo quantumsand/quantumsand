@@ -6116,7 +6116,8 @@ class QuantumsandLive
       "boozook/mdbook-svgbob",
       "intel/intel-one-mono",
       "torchgeo/terratorch",
-      "Clay-foundation/model"
+      "Clay-foundation/model",
+      "NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model"
     ]
 
     @git_repos_github_lfs = [
