@@ -6278,7 +6278,8 @@ class QuantumsandLive
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
-      "ibm-research/AssetOpsBench"
+      "ibm-research/AssetOpsBench",
+      "ibm-esa-geospatial/TerraMesh"
     ]
 
     @git_repos_gitea = [
