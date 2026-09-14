@@ -6271,7 +6271,8 @@ class QuantumsandLive
       "openai/whisper-medium",
       "openai/whisper-large-v2",
       "meta-models/Muse-Glimmer-30B",
-      "nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model"
+      "nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model",
+      "ibm-nasa-geospatial/Prithvi-EO-1.0-100M"
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
