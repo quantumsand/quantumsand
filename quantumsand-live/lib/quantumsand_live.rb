@@ -6118,7 +6118,8 @@ class QuantumsandLive
       "torchgeo/terratorch",
       "Clay-foundation/model",
       "NASA-IMPACT/NASA-IBM-Lunar-Foundation-Model",
-      "NASA-IMPACT/hls-foundation-os"
+      "NASA-IMPACT/hls-foundation-os",
+      "cloudtostreet/Sen1Floods11"
     ]
 
     @git_repos_github_lfs = [
