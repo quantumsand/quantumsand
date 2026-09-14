@@ -6273,7 +6273,8 @@ class QuantumsandLive
       "meta-models/Muse-Glimmer-30B",
       "nasa-ibm-ai4science/NASA-IBM-Lunar-Foundation-Model",
       "ibm-nasa-geospatial/Prithvi-EO-1.0-100M",
-      "ibm-esa-geospatial/TerraMind-1.0-tiny"
+      "ibm-esa-geospatial/TerraMind-1.0-tiny",
+      "made-with-clay/Clay"
     ]
 
     @git_xet_hf_download_huggingface_co_dataset = [
