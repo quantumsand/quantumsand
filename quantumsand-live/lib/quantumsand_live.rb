@@ -6115,7 +6115,8 @@ class QuantumsandLive
       "google/mdbook-i18n-helpers",
       "boozook/mdbook-svgbob",
       "intel/intel-one-mono",
-      "torchgeo/terratorch"
+      "torchgeo/terratorch",
+      "Clay-foundation/model"
     ]
 
     @git_repos_github_lfs = [
