@@ -89,6 +89,7 @@ This will include:
 * Jiter (fast iterable JSON parser for Rust)
 * Granian (Rust HTTP server for Python applications)
 * Abjad (Python API for building LilyPond files and generating PDFs of musical notation)
+* TorchGeo (datasets, samplers, transforms and pre-trained models for geospatial data)
 
 More to follow.
 
