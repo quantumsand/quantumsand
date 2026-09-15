@@ -6126,7 +6126,8 @@ class QuantumsandLive
       "thesofproject/sof-docs",
       "thesofproject/sof-test",
       "thesofproject/sof-bin",
-      "firewalld/firewalld"
+      "firewalld/firewalld",
+      "aborrero/python-nftables-tutorial"
     ]
 
     @git_repos_github_lfs = [
