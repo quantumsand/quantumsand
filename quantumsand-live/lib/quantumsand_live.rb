@@ -6129,7 +6129,8 @@ class QuantumsandLive
       "firewalld/firewalld",
       "aborrero/python-nftables-tutorial",
       "syslog-ng/syslog-ng",
-      "buytenh/ivykis"
+      "buytenh/ivykis",
+      "balabit/ivykis"
     ]
 
     @git_repos_github_lfs = [
