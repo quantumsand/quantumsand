@@ -6124,7 +6124,8 @@ class QuantumsandLive
       "BurntSushi/jiff",
       "thesofproject/tomlc99",
       "thesofproject/sof-docs",
-      "thesofproject/sof-test"
+      "thesofproject/sof-test",
+      "thesofproject/sof-bin"
     ]
 
     @git_repos_github_lfs = [
