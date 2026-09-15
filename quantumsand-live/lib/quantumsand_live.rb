@@ -6123,7 +6123,8 @@ class QuantumsandLive
       "rusqlite/rusqlite",
       "BurntSushi/jiff",
       "thesofproject/tomlc99",
-      "thesofproject/sof-docs"
+      "thesofproject/sof-docs",
+      "thesofproject/sof-test"
     ]
 
     @git_repos_github_lfs = [
