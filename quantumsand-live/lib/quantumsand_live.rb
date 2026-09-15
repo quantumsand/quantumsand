@@ -6130,7 +6130,8 @@ class QuantumsandLive
       "aborrero/python-nftables-tutorial",
       "syslog-ng/syslog-ng",
       "buytenh/ivykis",
-      "balabit/ivykis"
+      "balabit/ivykis",
+      "open-telemetry/opentelemetry-proto"
     ]
 
     @git_repos_github_lfs = [
