@@ -6122,7 +6122,8 @@ class QuantumsandLive
       "cloudtostreet/Sen1Floods11",
       "rusqlite/rusqlite",
       "BurntSushi/jiff",
-      "thesofproject/tomlc99"
+      "thesofproject/tomlc99",
+      "thesofproject/sof-docs"
     ]
 
     @git_repos_github_lfs = [
