@@ -6125,7 +6125,8 @@ class QuantumsandLive
       "thesofproject/tomlc99",
       "thesofproject/sof-docs",
       "thesofproject/sof-test",
-      "thesofproject/sof-bin"
+      "thesofproject/sof-bin",
+      "firewalld/firewalld"
     ]
 
     @git_repos_github_lfs = [
