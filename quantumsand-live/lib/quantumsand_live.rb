@@ -9584,7 +9584,8 @@ class QuantumsandLive
       "net-wireless/kismet",
       "media-sound/lilypond",
       "media-sound/frescobaldi",
-      "media-sound/rosegarden"
+      "media-sound/rosegarden",
+      "net-firewall/ufw"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
