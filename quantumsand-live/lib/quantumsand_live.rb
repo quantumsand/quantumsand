@@ -6121,7 +6121,8 @@ class QuantumsandLive
       "NASA-IMPACT/hls-foundation-os",
       "cloudtostreet/Sen1Floods11",
       "rusqlite/rusqlite",
-      "BurntSushi/jiff"
+      "BurntSushi/jiff",
+      "thesofproject/tomlc99"
     ]
 
     @git_repos_github_lfs = [
