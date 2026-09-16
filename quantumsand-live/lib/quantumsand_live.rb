@@ -6131,7 +6131,8 @@ class QuantumsandLive
       "syslog-ng/syslog-ng",
       "buytenh/ivykis",
       "balabit/ivykis",
-      "open-telemetry/opentelemetry-proto"
+      "open-telemetry/opentelemetry-proto",
+      "AcademySoftwareFoundation/openvdb"
     ]
 
     @git_repos_github_lfs = [
