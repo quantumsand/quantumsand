@@ -6132,7 +6132,8 @@ class QuantumsandLive
       "buytenh/ivykis",
       "balabit/ivykis",
       "open-telemetry/opentelemetry-proto",
-      "AcademySoftwareFoundation/openvdb"
+      "AcademySoftwareFoundation/openvdb",
+      "narwhals-dev/narwhals"
     ]
 
     @git_repos_github_lfs = [
