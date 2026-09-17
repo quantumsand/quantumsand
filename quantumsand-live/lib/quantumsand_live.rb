@@ -6888,7 +6888,8 @@ class QuantumsandLive
       "~kennylevinsen/seatd",
       "~cdv/scfg-rs",
       "~interpunct/clap-zig-bindings",
-      "~interpunct/clap-bindings-example"
+      "~interpunct/clap-bindings-example",
+      "~rjarry/libecoli"
     ]
 
     @git_repos_review_haiku_os_org = [
