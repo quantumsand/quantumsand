@@ -94,6 +94,18 @@ This will include:
 More to follow.
 
 
+## Quantum Sand component dependencies
+| components       | http/json        | valkey    | mqtt              | testing                      |
+|:-----------------|:-----------------|:----------|:------------------|:-----------------------------|
+| React/JavaScript | TODO             | TODO      | TODO              | Jest/React Testing Library   |
+| Rust             | Reqwest          | Redis-rs  | rust-mqtt/rumqttc | Already built into rust lang |
+| Ruby             | HTTParty/Faraday | valkey-rb | TODO              | RSpec/Minitest               |
+| Elixir/Erlang    | TODO             | Redix     | TODO              | ExUnit                       |
+| Python           | Requests         | valkey-py | TODO              | pytest                       |
+| C++              | TODO             | TODO      | TODO              | Qt Test/GoogleTest           |
+| Qml/JavaScript   | TODO             | TODO      | TODO              | Qt Quick Test                |
+
+
 ## Steps to reproduce the dependency installation
 
 ### Python notebooks and dependencies
@@ -260,4 +272,4 @@ TODO.
 
 TODO.
 
-More to follow...
+More to follow.
