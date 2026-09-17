@@ -6135,7 +6135,8 @@ class QuantumsandLive
       "AcademySoftwareFoundation/openvdb",
       "narwhals-dev/narwhals",
       "JulianSchmid/etherparse",
-      "DPDK/dpdk"
+      "DPDK/dpdk",
+      "DPDK/grout"
     ]
 
     @git_repos_github_lfs = [
