@@ -6136,7 +6136,8 @@ class QuantumsandLive
       "narwhals-dev/narwhals",
       "JulianSchmid/etherparse",
       "DPDK/dpdk",
-      "DPDK/grout"
+      "DPDK/grout",
+      "numactl/numactl"
     ]
 
     @git_repos_github_lfs = [
