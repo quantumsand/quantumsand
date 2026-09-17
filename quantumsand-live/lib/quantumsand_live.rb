@@ -6133,7 +6133,8 @@ class QuantumsandLive
       "balabit/ivykis",
       "open-telemetry/opentelemetry-proto",
       "AcademySoftwareFoundation/openvdb",
-      "narwhals-dev/narwhals"
+      "narwhals-dev/narwhals",
+      "JulianSchmid/etherparse"
     ]
 
     @git_repos_github_lfs = [
