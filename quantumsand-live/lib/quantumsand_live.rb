@@ -6641,7 +6641,6 @@ class QuantumsandLive
       "iptables",
       "libmnl",
       "ipset",
-      "libmnl",
       "libnftnl",
       "nftables"
     ]
