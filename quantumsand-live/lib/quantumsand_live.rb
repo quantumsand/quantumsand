@@ -6138,7 +6138,8 @@ class QuantumsandLive
       "DPDK/dpdk",
       "DPDK/grout",
       "numactl/numactl",
-      "clibs/cmocka"
+      "clibs/cmocka",
+      "rr-debugger/rr"
     ]
 
     @git_repos_github_lfs = [
