@@ -6137,7 +6137,8 @@ class QuantumsandLive
       "JulianSchmid/etherparse",
       "DPDK/dpdk",
       "DPDK/grout",
-      "numactl/numactl"
+      "numactl/numactl",
+      "clibs/cmocka"
     ]
 
     @git_repos_github_lfs = [
