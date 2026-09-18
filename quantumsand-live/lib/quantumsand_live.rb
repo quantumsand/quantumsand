@@ -6141,7 +6141,8 @@ class QuantumsandLive
       "clibs/cmocka",
       "rr-debugger/rr",
       "microsoft/oxidizer",
-      "hiking90/rsbinder"
+      "hiking90/rsbinder",
+      "hiking90/binder-linux"
     ]
 
     @git_repos_github_lfs = [
