@@ -6142,7 +6142,8 @@ class QuantumsandLive
       "rr-debugger/rr",
       "microsoft/oxidizer",
       "hiking90/rsbinder",
-      "hiking90/binder-linux"
+      "hiking90/binder-linux",
+      "SELinuxProject/selinux-notebook"
     ]
 
     @git_repos_github_lfs = [
