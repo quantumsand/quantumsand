@@ -6140,7 +6140,8 @@ class QuantumsandLive
       "numactl/numactl",
       "clibs/cmocka",
       "rr-debugger/rr",
-      "microsoft/oxidizer"
+      "microsoft/oxidizer",
+      "hiking90/rsbinder"
     ]
 
     @git_repos_github_lfs = [
