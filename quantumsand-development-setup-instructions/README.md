@@ -6,6 +6,13 @@ Currently Linux is the only platform which supports Wayland and QtWayland. Howev
 
 This means that development of each component can be done on all three of these platforms.
 
+You can find the development setup instructions using these links;
+* [macOS setup](#macos-setup)
+* [Windows setup (x86_64)](#windows-setup-x86_64)
+* [Windows setup (arm64)](#windows-setup-arm64)
+* [Linux setup (x86_64)](#linux-setup-x86_64)
+* [Linux setup (arm64)](#linux-setup-arm64)
+
 ## macOS setup
 
 * Install Homebrew. This will also download Command Line Tools for Xcode.
