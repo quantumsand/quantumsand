@@ -6139,7 +6139,8 @@ class QuantumsandLive
       "DPDK/grout",
       "numactl/numactl",
       "clibs/cmocka",
-      "rr-debugger/rr"
+      "rr-debugger/rr",
+      "microsoft/oxidizer"
     ]
 
     @git_repos_github_lfs = [
