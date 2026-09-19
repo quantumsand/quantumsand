@@ -9382,6 +9382,10 @@ class QuantumsandLive
       "net-misc/rsync"
     ]
 
+    gentoo_emerge_packages_noreplace = [
+      "sys-kernel/linux-firmware"
+    ]
+
     gentoo_emerge_packages = [
       "sys-fs/btrfs-progs",
       "www-apps/gitea",
