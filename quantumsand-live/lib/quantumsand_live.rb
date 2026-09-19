@@ -6145,7 +6145,8 @@ class QuantumsandLive
       "hiking90/binder-linux",
       "SELinuxProject/selinux-notebook",
       "SELinuxProject/setools",
-      "atar-axis/xpadneo"
+      "atar-axis/xpadneo",
+      "Vortrix5/sifty"
     ]
 
     @git_repos_github_lfs = [
