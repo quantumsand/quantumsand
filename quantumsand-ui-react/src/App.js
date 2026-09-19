@@ -58,14 +58,14 @@ const mathsSlides = [
       content: "maths",
       mathematics: [{
         id: 1,
-        tex: String.raw`$$z\left ( x, y, t \right )= \frac{2}{L}\sum_{m=1}^{\infty }\sum_{n=1}^{\infty }A_{mn}\sin \left (\frac{m \pi x}{L}\right ) \sin \left (\frac{n \pi y}{L}\right )\cos \left (c \omega t \right )$$` 
+        tex: "$$z\\left ( x, y, t \\right )= \\frac{2}{L}\\sum_{m=1}^{\\infty }\\sum_{n=1}^{\\infty }A_{mn}\\sin \\left (\\frac{m \\pi x}{L}\\right ) \\sin \\left (\\frac{n \\pi y}{L}\\right )\\cos \\left (c \\omega t \\right )$$"
       },{
         id: 2,
-        tex: String.raw`$$\omega = \frac{\pi}{L}\sqrt{\left ( mx \right )^{2} + \left( ny \right )^{2}}$$`
+        tex: "$$\\omega = \\frac{\\pi}{L}\\sqrt{\\left ( mx \\right )^{2} + \\left( ny \\right )^{2}}$$"
       },
       {
         id: 3,
-        tex: String.raw`$$A_{mn} = \frac{2}{L}\int_{0}^{L}\int_{0}^{L}f\left ( x, y \right )\sin\frac{m \pi x}{L}\sin\frac{n \pi y}{L}\, dx dy$$`
+        tex: "$$A_{mn} = \\frac{2}{L}\\int_{0}^{L}\\int_{0}^{L}f\\left ( x, y \\right )\\sin\\frac{m \\pi x}{L}\\sin\\frac{n \\pi y}{L}\\, dx dy$$"
       }
     ]
   },
