@@ -4222,7 +4222,6 @@ class QuantumsandLive
       "GitoxideLabs/gitoxide",
       "gitpython-developers/gitpython",
       "psycopg/psycopg",
-      "huggingface/safetensors",
       "uiwjs/react-color",
       "uiwjs/react-md-editor",
       "gilbarbara/react-inlinesvg",
