@@ -9605,7 +9605,8 @@ class QuantumsandLive
       "media-sound/frescobaldi",
       "media-sound/rosegarden",
       "net-firewall/ufw",
-      "net-wireless/bluez"
+      "net-wireless/bluez",
+      "sys-apps/kexec-tools"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
