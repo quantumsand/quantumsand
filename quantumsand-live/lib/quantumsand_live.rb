@@ -7296,7 +7296,8 @@ class QuantumsandLive
       "fwojcik/smhasher3",
       "lilypond/lilypond",
       "lilypond/static-files",
-      "aplevich/dpic"
+      "aplevich/dpic",
+      "gnuwget/wget"
     ]
 
     @git_repos_freedesktop_gitlab = [
