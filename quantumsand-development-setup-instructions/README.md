@@ -17,6 +17,8 @@ You can find the development setup instructions using these links;
 
 * Install Homebrew. This will also download Command Line Tools for Xcode.
 * Add Homebrew to your PATH using the commands which are mentioned as next steps.
+* Install Visual Studio Code (Apple Silicon); make sure it is the arm64 dmg.
+* Configure the path with VS Code; Launch VS Code; Open the Command Palette (Cmd+Shift+P); Type 'shell command'; Run the Shell Command: Install 'code' command in PATH command.
 * Install wget; `brew install wget`
 * Install Ferron; a fast, memory-safe web server written in Rust; `brew install ferron`
 * Install htop; `brew install htop`
@@ -170,8 +172,6 @@ information.
 ```
 * Run this command; `xattr -cr /Applications/kanri.app`
 * Kanri should run fine now with no problems.
-* Install Visual Studio Code (Apple Silicon); make sure it is the arm64 dmg.
-* Configure the path with VS Code; Launch VS Code; Open the Command Palette (Cmd+Shift+P); Type 'shell command'; Run the Shell Command: Install 'code' command in PATH command.
 * Generate a new SSH key; if you do not have one already; `ssh-keygen -t ed25519 -C "your_email@example.com"`
 * Install scm_breeze.
 * Configure your git identity; if you have not done so already; `git config --global --edit`
