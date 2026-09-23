@@ -9611,7 +9611,8 @@ class QuantumsandLive
       "net-wireless/bluez",
       "sys-apps/kexec-tools",
       "net-misc/wget",
-      "app-editors/vscode"
+      "app-editors/vscode",
+      "sys-fs/ntfs3g"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
