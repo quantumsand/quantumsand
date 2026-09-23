@@ -6146,7 +6146,8 @@ class QuantumsandLive
       "SELinuxProject/setools",
       "atar-axis/xpadneo",
       "Vortrix5/sifty",
-      "AdaptiveCpp/AdaptiveCpp"
+      "AdaptiveCpp/AdaptiveCpp",
+      "tuxera/ntfs-3g"
     ]
 
     @git_repos_github_lfs = [
