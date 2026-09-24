@@ -6149,7 +6149,8 @@ class QuantumsandLive
       "AdaptiveCpp/AdaptiveCpp",
       "tuxera/ntfs-3g",
       "pop-os/cosmic-viewer",
-      "hightman/scws"
+      "hightman/scws",
+      "amutu/zhparser"
     ]
 
     @git_repos_github_lfs = [
