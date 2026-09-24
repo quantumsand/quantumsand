@@ -6148,7 +6148,8 @@ class QuantumsandLive
       "Vortrix5/sifty",
       "AdaptiveCpp/AdaptiveCpp",
       "tuxera/ntfs-3g",
-      "pop-os/cosmic-viewer"
+      "pop-os/cosmic-viewer",
+      "hightman/scws"
     ]
 
     @git_repos_github_lfs = [
