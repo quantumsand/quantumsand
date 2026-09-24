@@ -225,6 +225,12 @@ Installed Python 3.14.3 in 2.53s
   * `cd quantumsand-videogame-doggo`
   * `cargo run quantumsand-videogame-doggo`
 * Install PostGIS and PostgreSQL; `brew install postgis postgresql@18`
+* Install pgRouting and osm2pgrouting; `brew install pgrouting osm2pgrouting`
+* Test your osm2pgrouting installation; `osm2pgrouting --version`
+* You should see the following message:
+```
+This is osm2pgrouting Version 3.0.0
+```
 * To start postgresql@18 now and restart at login: `brew services start postgresql@18`
 * Install osm2pgsql; `brew install osm2pgsql`
 * Test your osm2pgsql installation; `osm2pgsql --version`
