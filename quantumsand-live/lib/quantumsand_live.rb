@@ -6147,7 +6147,8 @@ class QuantumsandLive
       "atar-axis/xpadneo",
       "Vortrix5/sifty",
       "AdaptiveCpp/AdaptiveCpp",
-      "tuxera/ntfs-3g"
+      "tuxera/ntfs-3g",
+      "pop-os/cosmic-viewer"
     ]
 
     @git_repos_github_lfs = [
