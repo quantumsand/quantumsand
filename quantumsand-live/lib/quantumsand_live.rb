@@ -9618,7 +9618,8 @@ class QuantumsandLive
       "net-misc/wget",
       "app-editors/vscode",
       "sys-fs/ntfs3g",
-      "dev-libs/expat"
+      "dev-libs/expat",
+      "net-fs/cifs-utils"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
