@@ -6150,7 +6150,8 @@ class QuantumsandLive
       "tuxera/ntfs-3g",
       "pop-os/cosmic-viewer",
       "hightman/scws",
-      "amutu/zhparser"
+      "amutu/zhparser",
+      "brmmm3/fastlogging-rs"
     ]
 
     @git_repos_github_lfs = [
