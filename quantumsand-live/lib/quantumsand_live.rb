@@ -6176,7 +6176,8 @@ class QuantumsandLive
       "snort3/snort3",
       "open-mpi/hwloc",
       "snort3/libdaq",
-      "ofalk/libdnet"
+      "ofalk/libdnet",
+      "snort3/snort3_extra"
     ]
 
     @git_repos_github_lfs = [
