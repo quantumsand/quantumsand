@@ -6156,7 +6156,8 @@ class QuantumsandLive
       "ceph/ceph",
       "gluster/glusterfs",
       "gluster/glusterdocs",
-      "gluster/glustercli-python"
+      "gluster/glustercli-python",
+      "niklasrosenstein/pydoc-markdown"
     ]
 
     @git_repos_github_lfs = [
