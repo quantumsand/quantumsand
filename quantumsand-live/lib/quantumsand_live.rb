@@ -9640,7 +9640,8 @@ class QuantumsandLive
       "net-fs/cifs-utils",
       "net-fs/smbnetfs",
       "sys-cluster/ceph",
-      "sys-cluster/glusterfs"
+      "sys-cluster/glusterfs",
+      "net-analyzer/snort"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
