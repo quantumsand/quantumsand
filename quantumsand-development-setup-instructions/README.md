@@ -23,6 +23,26 @@ You can find the development setup instructions using these links;
 * Install Ferron; a fast, memory-safe web server written in Rust; `brew install ferron`
 * Install htop; `brew install htop`
 * Install tcpdump; `brew install tcpdump`
+* Install Snort (Intrusion Prevention System); `brew install snort`
+* Test your Snort installation; `snort -v`
+* You should see the following message:
+```
+--------------------------------------------------
+o")~   Snort++ 3.12.2.0
+--------------------------------------------------
+--------------------------------------------------
+Network Policy : policy id 1 : 
+--------------------------------------------------
+Inspection Policy : policy id 1 : 
+--------------------------------------------------
+pcap DAQ configured to passive.
+--------------------------------------------------
+host_cache
+    memcap: 33554432 bytes
+
+Snort successfully validated the configuration (with 0 warnings).
+o")~   Snort exiting
+```
 * Install root; `brew install root`
 * Install FFmpeg; `brew install ffmpeg`
 * Install audiowaveform;  `brew install audiowaveform`
