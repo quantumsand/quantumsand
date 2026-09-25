@@ -6163,7 +6163,8 @@ class QuantumsandLive
       "tensorchord/pgvecto.rs",
       "supervc-stack/VectorChord",
       "supervc-stack/VectorChord-bm25",
-      "supervc-stack/pg_tokenizer.rs"
+      "supervc-stack/pg_tokenizer.rs",
+      "tensorchord/VectorChord-images"
     ]
 
     @git_repos_github_lfs = [
