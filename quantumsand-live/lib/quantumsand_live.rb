@@ -6175,7 +6175,8 @@ class QuantumsandLive
       "dfxml-working-group/dfxml_python",
       "snort3/snort3",
       "open-mpi/hwloc",
-      "snort3/libdaq"
+      "snort3/libdaq",
+      "ofalk/libdnet"
     ]
 
     @git_repos_github_lfs = [
