@@ -6157,7 +6157,8 @@ class QuantumsandLive
       "gluster/glusterfs",
       "gluster/glusterdocs",
       "gluster/glustercli-python",
-      "niklasrosenstein/pydoc-markdown"
+      "niklasrosenstein/pydoc-markdown",
+      "mkdocstrings/mkdocstrings"
     ]
 
     @git_repos_github_lfs = [
