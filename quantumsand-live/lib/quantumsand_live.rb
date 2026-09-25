@@ -9615,7 +9615,8 @@ class QuantumsandLive
       "sys-apps/kexec-tools",
       "net-misc/wget",
       "app-editors/vscode",
-      "sys-fs/ntfs3g"
+      "sys-fs/ntfs3g",
+      "dev-libs/expat"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
