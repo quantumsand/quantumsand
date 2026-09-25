@@ -6154,7 +6154,8 @@ class QuantumsandLive
       "brmmm3/fastlogging-rs",
       "arno-iptables-firewall/aif",
       "ceph/ceph",
-      "gluster/glusterfs"
+      "gluster/glusterfs",
+      "gluster/glusterdocs"
     ]
 
     @git_repos_github_lfs = [
