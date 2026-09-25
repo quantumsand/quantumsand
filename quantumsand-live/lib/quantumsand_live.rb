@@ -6165,7 +6165,8 @@ class QuantumsandLive
       "supervc-stack/VectorChord-bm25",
       "supervc-stack/pg_tokenizer.rs",
       "tensorchord/VectorChord-images",
-      "gluster/glusterfs-coreutils"
+      "gluster/glusterfs-coreutils",
+      "gluster/gstatus"
     ]
 
     @git_repos_github_lfs = [
