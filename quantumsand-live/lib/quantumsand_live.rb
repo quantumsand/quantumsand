@@ -6168,7 +6168,8 @@ class QuantumsandLive
       "gluster/glusterfs-coreutils",
       "gluster/gstatus",
       "bammv/sguil",
-      "simsong/tcpflow"
+      "simsong/tcpflow",
+      "simsong/be20_api"
     ]
 
     @git_repos_github_lfs = [
