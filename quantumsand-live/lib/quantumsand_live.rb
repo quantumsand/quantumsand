@@ -9338,7 +9338,7 @@ class QuantumsandLive
                           remote-fs search upower cjk context games graphics humanities luatex metapost
                           music pdfannotextractor pstricks publishers science tex4ht texi2html xetex
                           ntfsprogs ntfsdecrypt mount-ntfs arm64ec georeplication grafana rsyslog
-                          libtirpc active-response -branding -java).join(' ')
+                          libtirpc active-response flexresp3 -branding -java).join(' ')
 
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
