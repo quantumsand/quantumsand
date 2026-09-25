@@ -6170,7 +6170,8 @@ class QuantumsandLive
       "bammv/sguil",
       "simsong/tcpflow",
       "simsong/be20_api",
-      "dfxml-working-group/dfxml_cpp"
+      "dfxml-working-group/dfxml_cpp",
+      "dfxml-working-group/dfxml_schema"
     ]
 
     @git_repos_github_lfs = [
