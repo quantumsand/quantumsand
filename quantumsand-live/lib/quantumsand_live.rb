@@ -6160,7 +6160,8 @@ class QuantumsandLive
       "niklasrosenstein/pydoc-markdown",
       "mkdocstrings/mkdocstrings",
       "tensorchord/envd",
-      "tensorchord/pgvecto.rs"
+      "tensorchord/pgvecto.rs",
+      "supervc-stack/VectorChord"
     ]
 
     @git_repos_github_lfs = [
