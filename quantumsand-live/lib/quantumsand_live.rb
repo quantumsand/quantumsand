@@ -6167,7 +6167,8 @@ class QuantumsandLive
       "tensorchord/VectorChord-images",
       "gluster/glusterfs-coreutils",
       "gluster/gstatus",
-      "bammv/sguil"
+      "bammv/sguil",
+      "simsong/tcpflow"
     ]
 
     @git_repos_github_lfs = [
