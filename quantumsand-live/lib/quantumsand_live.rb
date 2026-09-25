@@ -6155,7 +6155,8 @@ class QuantumsandLive
       "arno-iptables-firewall/aif",
       "ceph/ceph",
       "gluster/glusterfs",
-      "gluster/glusterdocs"
+      "gluster/glusterdocs",
+      "gluster/glustercli-python"
     ]
 
     @git_repos_github_lfs = [
