@@ -6178,7 +6178,8 @@ class QuantumsandLive
       "snort3/libdaq",
       "ofalk/libdnet",
       "snort3/snort3_extra",
-      "snort3/snort3_demo"
+      "snort3/snort3_demo",
+      "snort3/libml"
     ]
 
     @git_repos_github_lfs = [
