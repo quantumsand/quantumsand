@@ -6151,7 +6151,8 @@ class QuantumsandLive
       "pop-os/cosmic-viewer",
       "hightman/scws",
       "amutu/zhparser",
-      "brmmm3/fastlogging-rs"
+      "brmmm3/fastlogging-rs",
+      "arno-iptables-firewall/aif"
     ]
 
     @git_repos_github_lfs = [
