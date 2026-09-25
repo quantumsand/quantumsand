@@ -6153,7 +6153,8 @@ class QuantumsandLive
       "amutu/zhparser",
       "brmmm3/fastlogging-rs",
       "arno-iptables-firewall/aif",
-      "ceph/ceph"
+      "ceph/ceph",
+      "gluster/glusterfs"
     ]
 
     @git_repos_github_lfs = [
