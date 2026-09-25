@@ -9392,7 +9392,8 @@ class QuantumsandLive
     ]
 
     gentoo_emerge_packages_noreplace = [
-      "sys-kernel/linux-firmware"
+      "sys-kernel/linux-firmware",
+      "net-fs/samba"
     ]
 
     gentoo_emerge_packages = [
