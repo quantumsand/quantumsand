@@ -6173,7 +6173,8 @@ class QuantumsandLive
       "dfxml-working-group/dfxml_cpp",
       "dfxml-working-group/dfxml_schema",
       "dfxml-working-group/dfxml_python",
-      "snort3/snort3"
+      "snort3/snort3",
+      "open-mpi/hwloc"
     ]
 
     @git_repos_github_lfs = [
