@@ -9324,7 +9324,7 @@ class QuantumsandLive
                           sbsms vamp libgig soundio stk vst designer handbook policykit editor image mpd
                           remote-fs search upower cjk context games graphics humanities luatex metapost
                           music pdfannotextractor pstricks publishers science tex4ht texi2html xetex
-                          ntfsprogs ntfsdecrypt mount-ntfs arm64ec georeplication -branding -java).join(' ')
+                          ntfsprogs ntfsdecrypt mount-ntfs arm64ec georeplication grafana -branding -java).join(' ')
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
     # Gentoo common flags
