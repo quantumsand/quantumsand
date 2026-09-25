@@ -9636,7 +9636,8 @@ class QuantumsandLive
       "dev-libs/expat",
       "net-fs/cifs-utils",
       "net-fs/smbnetfs",
-      "sys-cluster/ceph"
+      "sys-cluster/ceph",
+      "sys-cluster/glusterfs"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
