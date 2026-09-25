@@ -6159,7 +6159,8 @@ class QuantumsandLive
       "gluster/glustercli-python",
       "niklasrosenstein/pydoc-markdown",
       "mkdocstrings/mkdocstrings",
-      "tensorchord/envd"
+      "tensorchord/envd",
+      "tensorchord/pgvecto.rs"
     ]
 
     @git_repos_github_lfs = [
