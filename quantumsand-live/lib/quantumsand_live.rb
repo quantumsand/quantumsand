@@ -9345,7 +9345,7 @@ class QuantumsandLive
                           music pdfannotextractor pstricks publishers science tex4ht texi2html xetex
                           ntfsprogs ntfsdecrypt mount-ntfs arm64ec georeplication grafana rsyslog
                           libtirpc active-response flexresp3 gre non-ether-decoders ppm react threads
-                          control-socket file-inspect high-availability -branding -java).join(' ')
+                          control-socket file-inspect high-availability large-pcap-64bit -branding -java).join(' ')
 
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
