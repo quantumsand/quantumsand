@@ -6184,7 +6184,8 @@ class QuantumsandLive
       "altdesktop/playerctl",
       "dbusjs/mpris-service",
       "dbusjs/node-dbus-next",
-      "altdesktop/python-dbus-next"
+      "altdesktop/python-dbus-next",
+      "altdesktop/playerbm"
     ]
 
     @git_repos_github_lfs = [
