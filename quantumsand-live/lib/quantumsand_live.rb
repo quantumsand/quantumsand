@@ -7456,7 +7456,8 @@ class QuantumsandLive
       "glvnd/libglvnd",
       "emersion/chayang",
       "emersion/grim",
-      "mpris/mpris-spec"
+      "mpris/mpris-spec",
+      "mpris/mpris-tester"
     ]
 
     @git_repos_xfce_gitlab = [
