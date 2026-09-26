@@ -6186,7 +6186,8 @@ class QuantumsandLive
       "dbusjs/node-dbus-next",
       "altdesktop/python-dbus-next",
       "altdesktop/playerbm",
-      "hoyon/mpv-mpris"
+      "hoyon/mpv-mpris",
+      "Mange/mpris-rs"
     ]
 
     @git_repos_github_lfs = [
