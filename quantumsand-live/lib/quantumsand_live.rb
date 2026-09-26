@@ -6187,7 +6187,8 @@ class QuantumsandLive
       "altdesktop/python-dbus-next",
       "altdesktop/playerbm",
       "hoyon/mpv-mpris",
-      "Mange/mpris-rs"
+      "Mange/mpris-rs",
+      "epogonii/nowplaying-card"
     ]
 
     @git_repos_github_lfs = [
