@@ -6183,7 +6183,8 @@ class QuantumsandLive
       "epogonii/wisp",
       "altdesktop/playerctl",
       "dbusjs/mpris-service",
-      "dbusjs/node-dbus-next"
+      "dbusjs/node-dbus-next",
+      "altdesktop/python-dbus-next"
     ]
 
     @git_repos_github_lfs = [
