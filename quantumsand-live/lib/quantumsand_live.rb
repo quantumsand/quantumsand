@@ -6188,7 +6188,8 @@ class QuantumsandLive
       "altdesktop/playerbm",
       "hoyon/mpv-mpris",
       "Mange/mpris-rs",
-      "epogonii/nowplaying-card"
+      "epogonii/nowplaying-card",
+      "pentoo/pentoo-overlay"
     ]
 
     @git_repos_github_lfs = [
