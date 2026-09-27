@@ -6,6 +6,14 @@ Currently Linux is the only platform which supports Wayland and QtWayland. Howev
 
 This means that development of each component can be done on all three of these platforms.
 
+Supporting Quantum Sand development on macOS, Windows and Linux is a deliberate choice.
+
+Some people prefer macOS. Some people prefer Windows. Some people prefer Linux.
+
+Some people prefer to combine macOS, Windows and Linux together.
+
+The healthy competition between different operating systems benefits the entire ecosystem.
+
 You can find the development setup instructions using these links;
 * [macOS setup](#macos-setup)
 * [Windows setup (x86_64)](#windows-setup-x86_64)
