@@ -6191,7 +6191,8 @@ class QuantumsandLive
       "epogonii/nowplaying-card",
       "pentoo/pentoo-overlay",
       "intel/media-driver",
-      "intel/libva"
+      "intel/libva",
+      "edgcpp/compiler"
     ]
 
     @git_repos_github_lfs = [
