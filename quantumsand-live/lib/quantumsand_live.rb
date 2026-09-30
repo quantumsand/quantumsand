@@ -6189,7 +6189,8 @@ class QuantumsandLive
       "hoyon/mpv-mpris",
       "Mange/mpris-rs",
       "epogonii/nowplaying-card",
-      "pentoo/pentoo-overlay"
+      "pentoo/pentoo-overlay",
+      "intel/media-driver"
     ]
 
     @git_repos_github_lfs = [
