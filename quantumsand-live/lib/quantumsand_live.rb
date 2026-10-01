@@ -6193,7 +6193,8 @@ class QuantumsandLive
       "intel/media-driver",
       "intel/libva",
       "edgcpp/compiler",
-      "intel/optimization-zone"
+      "intel/optimization-zone",
+      "sharpemu/sharpemu"
     ]
 
     @git_repos_github_lfs = [
