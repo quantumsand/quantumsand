@@ -6192,7 +6192,8 @@ class QuantumsandLive
       "pentoo/pentoo-overlay",
       "intel/media-driver",
       "intel/libva",
-      "edgcpp/compiler"
+      "edgcpp/compiler",
+      "intel/optimization-zone"
     ]
 
     @git_repos_github_lfs = [
