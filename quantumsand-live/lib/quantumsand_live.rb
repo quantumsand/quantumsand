@@ -6195,7 +6195,8 @@ class QuantumsandLive
       "edgcpp/compiler",
       "intel/optimization-zone",
       "sharpemu/sharpemu",
-      "Thealexbarney/LibAtrac9"
+      "Thealexbarney/LibAtrac9",
+      "KytyPS5/KytyPS5"
     ]
 
     @git_repos_github_lfs = [
