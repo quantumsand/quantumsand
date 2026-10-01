@@ -6198,7 +6198,8 @@ class QuantumsandLive
       "Thealexbarney/LibAtrac9",
       "KytyPS5/KytyPS5",
       "boykopovar/AnyPS5",
-      "basecamp/lexxy"
+      "basecamp/lexxy",
+      "facebook/lexical"
     ]
 
     @git_repos_github_lfs = [
