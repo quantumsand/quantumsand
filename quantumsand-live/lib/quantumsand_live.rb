@@ -6196,7 +6196,8 @@ class QuantumsandLive
       "intel/optimization-zone",
       "sharpemu/sharpemu",
       "Thealexbarney/LibAtrac9",
-      "KytyPS5/KytyPS5"
+      "KytyPS5/KytyPS5",
+      "boykopovar/AnyPS5"
     ]
 
     @git_repos_github_lfs = [
