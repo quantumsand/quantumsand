@@ -6211,7 +6211,8 @@ class QuantumsandLive
       "ccostes/rtl-sdr-rs",
       "ejmahler/RustFFT",
       "gyscos/cursive",
-      "ccbrown/iocraft"
+      "ccbrown/iocraft",
+      "DioxusLabs/dioxus"
     ]
 
     @git_repos_github_lfs = [
