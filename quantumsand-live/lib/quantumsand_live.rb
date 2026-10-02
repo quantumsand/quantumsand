@@ -6202,7 +6202,8 @@ class QuantumsandLive
       "facebook/lexical",
       "basecamp/rails-active_search",
       "davidteren/mutineer",
-      "rails/solid_cable"
+      "rails/solid_cable",
+      "dimforge/rapier"
     ]
 
     @git_repos_github_lfs = [
