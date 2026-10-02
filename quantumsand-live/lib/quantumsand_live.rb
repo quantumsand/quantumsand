@@ -7375,7 +7375,8 @@ class QuantumsandLive
       "sequoia-pgp/sequoia",
       "sequoia-pgp/sequoia-cert-store",
       "sequoia-pgp/sequoia-policy-config",
-      "sequoia-pgp/sequoia-wot"
+      "sequoia-pgp/sequoia-wot",
+      "sequoia-pgp/sequoia-keystore"
     ]
 
     @git_repos_freedesktop_gitlab = [
