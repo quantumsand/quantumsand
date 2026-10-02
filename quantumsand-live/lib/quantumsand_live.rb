@@ -6207,7 +6207,8 @@ class QuantumsandLive
       "dimforge/nexus",
       "dimforge/nalgebra",
       "dimforge/parry",
-      "t-eckert/listening-to-the-radio-with-rust"
+      "t-eckert/listening-to-the-radio-with-rust",
+      "ccostes/rtl-sdr-rs"
     ]
 
     @git_repos_github_lfs = [
