@@ -6215,7 +6215,8 @@ class QuantumsandLive
       "DioxusLabs/dioxus",
       "blitz-js/blitz",
       "wasm-bindgen/wasm-bindgen",
-      "rustunit/bevy_debug_log"
+      "rustunit/bevy_debug_log",
+      "rustunit/bevy_device_lang"
     ]
 
     @git_repos_github_lfs = [
