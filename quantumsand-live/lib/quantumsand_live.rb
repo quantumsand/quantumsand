@@ -6216,7 +6216,8 @@ class QuantumsandLive
       "blitz-js/blitz",
       "wasm-bindgen/wasm-bindgen",
       "rustunit/bevy_debug_log",
-      "rustunit/bevy_device_lang"
+      "rustunit/bevy_device_lang",
+      "rustunit/bevy_web_popups"
     ]
 
     @git_repos_github_lfs = [
