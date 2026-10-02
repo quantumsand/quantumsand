@@ -6214,7 +6214,8 @@ class QuantumsandLive
       "ccbrown/iocraft",
       "DioxusLabs/dioxus",
       "blitz-js/blitz",
-      "wasm-bindgen/wasm-bindgen"
+      "wasm-bindgen/wasm-bindgen",
+      "rustunit/bevy_debug_log"
     ]
 
     @git_repos_github_lfs = [
