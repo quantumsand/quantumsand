@@ -7372,7 +7372,8 @@ class QuantumsandLive
       "aplevich/dpic",
       "gnuwget/wget",
       "gnuwget/wget2",
-      "sequoia-pgp/sequoia"
+      "sequoia-pgp/sequoia",
+      "sequoia-pgp/sequoia-cert-store"
     ]
 
     @git_repos_freedesktop_gitlab = [
