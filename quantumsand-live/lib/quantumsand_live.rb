@@ -7374,7 +7374,8 @@ class QuantumsandLive
       "gnuwget/wget2",
       "sequoia-pgp/sequoia",
       "sequoia-pgp/sequoia-cert-store",
-      "sequoia-pgp/sequoia-policy-config"
+      "sequoia-pgp/sequoia-policy-config",
+      "sequoia-pgp/sequoia-wot"
     ]
 
     @git_repos_freedesktop_gitlab = [
