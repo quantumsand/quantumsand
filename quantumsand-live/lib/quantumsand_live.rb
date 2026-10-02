@@ -7371,7 +7371,8 @@ class QuantumsandLive
       "lilypond/static-files",
       "aplevich/dpic",
       "gnuwget/wget",
-      "gnuwget/wget2"
+      "gnuwget/wget2",
+      "sequoia-pgp/sequoia"
     ]
 
     @git_repos_freedesktop_gitlab = [
