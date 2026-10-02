@@ -6205,7 +6205,8 @@ class QuantumsandLive
       "rails/solid_cable",
       "dimforge/rapier",
       "dimforge/nexus",
-      "dimforge/nalgebra"
+      "dimforge/nalgebra",
+      "dimforge/parry"
     ]
 
     @git_repos_github_lfs = [
