@@ -6213,7 +6213,8 @@ class QuantumsandLive
       "gyscos/cursive",
       "ccbrown/iocraft",
       "DioxusLabs/dioxus",
-      "blitz-js/blitz"
+      "blitz-js/blitz",
+      "wasm-bindgen/wasm-bindgen"
     ]
 
     @git_repos_github_lfs = [
