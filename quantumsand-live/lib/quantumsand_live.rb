@@ -6203,7 +6203,8 @@ class QuantumsandLive
       "basecamp/rails-active_search",
       "davidteren/mutineer",
       "rails/solid_cable",
-      "dimforge/rapier"
+      "dimforge/rapier",
+      "dimforge/nexus"
     ]
 
     @git_repos_github_lfs = [
