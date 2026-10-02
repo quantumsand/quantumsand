@@ -6210,7 +6210,8 @@ class QuantumsandLive
       "t-eckert/listening-to-the-radio-with-rust",
       "ccostes/rtl-sdr-rs",
       "ejmahler/RustFFT",
-      "gyscos/cursive"
+      "gyscos/cursive",
+      "ccbrown/iocraft"
     ]
 
     @git_repos_github_lfs = [
