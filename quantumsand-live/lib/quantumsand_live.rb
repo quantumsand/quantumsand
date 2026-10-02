@@ -6212,7 +6212,8 @@ class QuantumsandLive
       "ejmahler/RustFFT",
       "gyscos/cursive",
       "ccbrown/iocraft",
-      "DioxusLabs/dioxus"
+      "DioxusLabs/dioxus",
+      "blitz-js/blitz"
     ]
 
     @git_repos_github_lfs = [
