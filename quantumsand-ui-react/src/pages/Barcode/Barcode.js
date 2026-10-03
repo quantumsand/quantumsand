@@ -3,7 +3,7 @@ import { QRCode } from 'react-qrcode-logo';
 
 import "./Barcode.css";
 
-export default function Barcode({ url = "qalb://mathematics/lesson/1",
+export default function Barcode({ url = "quantumsand://@quantumsand/grains/mathematics/lesson/1",
 	                                logo = "/icons/coracaozinho-para-o-luiz-otavio-white.svg"}) {
   return (
     <div className="barcode">
