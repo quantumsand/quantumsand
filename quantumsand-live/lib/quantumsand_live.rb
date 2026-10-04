@@ -6268,7 +6268,8 @@ class QuantumsandLive
       "JibbSmart/JoyShockLibrary",
       "chrippa/ds4drv",
       "seidtgeist/node-ds4",
-      "rdepena/node-dualshock-controller"
+      "rdepena/node-dualshock-controller",
+      "Electronicks/JoyShockMapper"
     ]
 
     @git_repos_github_lfs = [
