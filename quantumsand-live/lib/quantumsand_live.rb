@@ -6253,7 +6253,8 @@ class QuantumsandLive
       "mupen64plus/mupen64plus-rsp-z64",
       "mupen64plus/mupen64plus-ui-console",
       "mupen64plus/mupen64plus-video-arachnoid",
-      "mupen64plus/mupen64plus-video-glide64"
+      "mupen64plus/mupen64plus-video-glide64",
+      "mupen64plus/mupen64plus-video-glide64mk2"
     ]
 
     @git_repos_github_lfs = [
