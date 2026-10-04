@@ -6241,7 +6241,8 @@ class QuantumsandLive
       "intel/xess",
       "GameTechDev/XeSSUnrealPlugin",
       "GameTechDev/XeSSUnityPlugin",
-      "mupen64plus/mupen64plus-win32-deps"
+      "mupen64plus/mupen64plus-win32-deps",
+      "mupen64plus/mupen64plus-core"
     ]
 
     @git_repos_github_lfs = [
