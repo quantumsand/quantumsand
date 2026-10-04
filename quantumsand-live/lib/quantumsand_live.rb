@@ -6270,7 +6270,8 @@ class QuantumsandLive
       "seidtgeist/node-ds4",
       "rdepena/node-dualshock-controller",
       "Electronicks/JoyShockMapper",
-      "cameron314/concurrentqueue"
+      "cameron314/concurrentqueue",
+      "Maksim-Burtsev/pillow-lunasvg"
     ]
 
     @git_repos_github_lfs = [
