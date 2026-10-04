@@ -6237,7 +6237,8 @@ class QuantumsandLive
       "doctest/doctest",
       "unittest-cpp/unittest-cpp",
       "cpputest/cpputest",
-      "redorav/hlslpp"
+      "redorav/hlslpp",
+      "intel/xess"
     ]
 
     @git_repos_github_lfs = [
