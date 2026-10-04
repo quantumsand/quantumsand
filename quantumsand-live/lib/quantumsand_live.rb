@@ -6221,7 +6221,8 @@ class QuantumsandLive
       "apache/buildstream",
       "coreboot/coreboot",
       "BanjoRecomp/BanjoRecomp",
-      "N64Recomp/N64ModernRuntime"
+      "N64Recomp/N64ModernRuntime",
+      "richgel999/miniz"
     ]
 
     @git_repos_github_lfs = [
