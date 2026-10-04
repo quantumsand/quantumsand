@@ -6259,7 +6259,8 @@ class QuantumsandLive
       "john-chapman/im3d",
       "redorav/ddspp",
       "renderbag/re-spirv",
-      "renderbag/plume"
+      "renderbag/plume",
+      "GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator"
     ]
 
     @git_repos_github_lfs = [
