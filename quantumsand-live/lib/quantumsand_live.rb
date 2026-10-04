@@ -6231,7 +6231,8 @@ class QuantumsandLive
       "rt64/rt64",
       "zeldaret/mm",
       "Zelda64Recomp/Zelda64RecompSyms",
-      "Decompollaborate/rabbitizer"
+      "Decompollaborate/rabbitizer",
+      "serge1/ELFIO"
     ]
 
     @git_repos_github_lfs = [
