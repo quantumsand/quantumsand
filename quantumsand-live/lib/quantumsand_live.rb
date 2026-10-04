@@ -6277,7 +6277,8 @@ class QuantumsandLive
       "N64Recomp/o1heap",
       "simonlindholm/asm-differ",
       "simonlindholm/asm-processor",
-      "ethteck/splat"
+      "ethteck/splat",
+      "encounter/decomp-toolkit"
     ]
 
     @git_repos_github_lfs = [
