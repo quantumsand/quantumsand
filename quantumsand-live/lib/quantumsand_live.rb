@@ -6273,7 +6273,8 @@ class QuantumsandLive
       "cameron314/concurrentqueue",
       "Maksim-Burtsev/pillow-lunasvg",
       "marzer/tomlplusplus",
-      "zherczeg/sljit"
+      "zherczeg/sljit",
+      "N64Recomp/o1heap"
     ]
 
     @git_repos_github_lfs = [
