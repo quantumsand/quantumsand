@@ -6278,7 +6278,8 @@ class QuantumsandLive
       "simonlindholm/asm-differ",
       "simonlindholm/asm-processor",
       "ethteck/splat",
-      "encounter/decomp-toolkit"
+      "encounter/decomp-toolkit",
+      "MittenzHugg/rarezip"
     ]
 
     @git_repos_github_lfs = [
