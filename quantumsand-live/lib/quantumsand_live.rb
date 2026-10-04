@@ -6266,7 +6266,8 @@ class QuantumsandLive
       "bsnes-emu/bsnes",
       "JibbSmart/GamepadMotionHelpers",
       "JibbSmart/JoyShockLibrary",
-      "chrippa/ds4drv"
+      "chrippa/ds4drv",
+      "seidtgeist/node-ds4"
     ]
 
     @git_repos_github_lfs = [
