@@ -6274,7 +6274,8 @@ class QuantumsandLive
       "Maksim-Burtsev/pillow-lunasvg",
       "marzer/tomlplusplus",
       "zherczeg/sljit",
-      "N64Recomp/o1heap"
+      "N64Recomp/o1heap",
+      "simonlindholm/asm-differ"
     ]
 
     @git_repos_github_lfs = [
