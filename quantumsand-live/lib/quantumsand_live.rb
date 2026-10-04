@@ -6265,7 +6265,8 @@ class QuantumsandLive
       "higan-emu/higan",
       "bsnes-emu/bsnes",
       "JibbSmart/GamepadMotionHelpers",
-      "JibbSmart/JoyShockLibrary"
+      "JibbSmart/JoyShockLibrary",
+      "chrippa/ds4drv"
     ]
 
     @git_repos_github_lfs = [
