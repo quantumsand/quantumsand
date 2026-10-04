@@ -6234,7 +6234,8 @@ class QuantumsandLive
       "Decompollaborate/rabbitizer",
       "serge1/ELFIO",
       "ToruNiina/toml11",
-      "doctest/doctest"
+      "doctest/doctest",
+      "unittest-cpp/unittest-cpp"
     ]
 
     @git_repos_github_lfs = [
