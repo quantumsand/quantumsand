@@ -6272,7 +6272,8 @@ class QuantumsandLive
       "Electronicks/JoyShockMapper",
       "cameron314/concurrentqueue",
       "Maksim-Burtsev/pillow-lunasvg",
-      "marzer/tomlplusplus"
+      "marzer/tomlplusplus",
+      "zherczeg/sljit"
     ]
 
     @git_repos_github_lfs = [
