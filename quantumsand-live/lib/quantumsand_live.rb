@@ -6275,7 +6275,8 @@ class QuantumsandLive
       "marzer/tomlplusplus",
       "zherczeg/sljit",
       "N64Recomp/o1heap",
-      "simonlindholm/asm-differ"
+      "simonlindholm/asm-differ",
+      "simonlindholm/asm-processor"
     ]
 
     @git_repos_github_lfs = [
