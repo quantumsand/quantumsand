@@ -6263,7 +6263,8 @@ class QuantumsandLive
       "GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator",
       "ConfettiFX/The-Forge",
       "higan-emu/higan",
-      "bsnes-emu/bsnes"
+      "bsnes-emu/bsnes",
+      "JibbSmart/GamepadMotionHelpers"
     ]
 
     @git_repos_github_lfs = [
