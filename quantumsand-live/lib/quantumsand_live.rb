@@ -6283,7 +6283,8 @@ class QuantumsandLive
       "MittenzHugg/bk_asset_tool",
       "MittenzHugg/bk_rom_compressor",
       "mariob92/ultralib",
-      "BanjoRecomp/BanjoRecompSyms"
+      "BanjoRecomp/BanjoRecompSyms",
+      "N64Recomp/RecompFrontend"
     ]
 
     @git_repos_github_lfs = [
