@@ -6240,7 +6240,8 @@ class QuantumsandLive
       "redorav/hlslpp",
       "intel/xess",
       "GameTechDev/XeSSUnrealPlugin",
-      "GameTechDev/XeSSUnityPlugin"
+      "GameTechDev/XeSSUnityPlugin",
+      "mupen64plus/mupen64plus-win32-deps"
     ]
 
     @git_repos_github_lfs = [
