@@ -6257,7 +6257,8 @@ class QuantumsandLive
       "mupen64plus/mupen64plus-video-glide64mk2",
       "mupen64plus/mupen64plus-video-z64",
       "john-chapman/im3d",
-      "redorav/ddspp"
+      "redorav/ddspp",
+      "renderbag/re-spirv"
     ]
 
     @git_repos_github_lfs = [
