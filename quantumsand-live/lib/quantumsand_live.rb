@@ -6262,7 +6262,8 @@ class QuantumsandLive
       "renderbag/plume",
       "GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator",
       "ConfettiFX/The-Forge",
-      "higan-emu/higan"
+      "higan-emu/higan",
+      "bsnes-emu/bsnes"
     ]
 
     @git_repos_github_lfs = [
