@@ -6261,7 +6261,8 @@ class QuantumsandLive
       "renderbag/re-spirv",
       "renderbag/plume",
       "GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator",
-      "ConfettiFX/The-Forge"
+      "ConfettiFX/The-Forge",
+      "higan-emu/higan"
     ]
 
     @git_repos_github_lfs = [
