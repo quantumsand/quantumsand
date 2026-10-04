@@ -6267,7 +6267,8 @@ class QuantumsandLive
       "JibbSmart/GamepadMotionHelpers",
       "JibbSmart/JoyShockLibrary",
       "chrippa/ds4drv",
-      "seidtgeist/node-ds4"
+      "seidtgeist/node-ds4",
+      "rdepena/node-dualshock-controller"
     ]
 
     @git_repos_github_lfs = [
