@@ -6238,7 +6238,8 @@ class QuantumsandLive
       "unittest-cpp/unittest-cpp",
       "cpputest/cpputest",
       "redorav/hlslpp",
-      "intel/xess"
+      "intel/xess",
+      "GameTechDev/XeSSUnrealPlugin"
     ]
 
     @git_repos_github_lfs = [
