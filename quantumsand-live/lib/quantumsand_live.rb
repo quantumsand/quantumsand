@@ -6260,7 +6260,8 @@ class QuantumsandLive
       "redorav/ddspp",
       "renderbag/re-spirv",
       "renderbag/plume",
-      "GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator"
+      "GPUOpen-LibrariesAndSDKs/D3D12MemoryAllocator",
+      "ConfettiFX/The-Forge"
     ]
 
     @git_repos_github_lfs = [
