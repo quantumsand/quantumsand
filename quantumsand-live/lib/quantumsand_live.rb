@@ -6264,7 +6264,8 @@ class QuantumsandLive
       "ConfettiFX/The-Forge",
       "higan-emu/higan",
       "bsnes-emu/bsnes",
-      "JibbSmart/GamepadMotionHelpers"
+      "JibbSmart/GamepadMotionHelpers",
+      "JibbSmart/JoyShockLibrary"
     ]
 
     @git_repos_github_lfs = [
