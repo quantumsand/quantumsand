@@ -6236,7 +6236,8 @@ class QuantumsandLive
       "ToruNiina/toml11",
       "doctest/doctest",
       "unittest-cpp/unittest-cpp",
-      "cpputest/cpputest"
+      "cpputest/cpputest",
+      "redorav/hlslpp"
     ]
 
     @git_repos_github_lfs = [
