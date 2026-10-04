@@ -6219,7 +6219,8 @@ class QuantumsandLive
       "rustunit/bevy_device_lang",
       "rustunit/bevy_web_popups",
       "apache/buildstream",
-      "coreboot/coreboot"
+      "coreboot/coreboot",
+      "BanjoRecomp/BanjoRecomp"
     ]
 
     @git_repos_github_lfs = [
