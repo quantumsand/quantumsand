@@ -6249,7 +6249,8 @@ class QuantumsandLive
       "mupen64plus/mupen64plus-audio-sdl",
       "mupen64plus/mupen64plus-input-sdl",
       "mupen64plus/mupen64plus-rom",
-      "mupen64plus/mupen64plus-rsp-hle"
+      "mupen64plus/mupen64plus-rsp-hle",
+      "mupen64plus/mupen64plus-rsp-z64"
     ]
 
     @git_repos_github_lfs = [
