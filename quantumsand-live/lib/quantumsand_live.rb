@@ -6230,7 +6230,8 @@ class QuantumsandLive
       "libRocket/libRocket",
       "rt64/rt64",
       "zeldaret/mm",
-      "Zelda64Recomp/Zelda64RecompSyms"
+      "Zelda64Recomp/Zelda64RecompSyms",
+      "Decompollaborate/rabbitizer"
     ]
 
     @git_repos_github_lfs = [
