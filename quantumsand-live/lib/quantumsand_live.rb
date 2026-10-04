@@ -6246,7 +6246,8 @@ class QuantumsandLive
       "mupen64plus/mupen64plus-ui-python",
       "mupen64plus/mupen64plus-video-rice",
       "mupen64plus/mupen64plus-rsp-cxd4",
-      "mupen64plus/mupen64plus-audio-sdl"
+      "mupen64plus/mupen64plus-audio-sdl",
+      "mupen64plus/mupen64plus-input-sdl"
     ]
 
     @git_repos_github_lfs = [
