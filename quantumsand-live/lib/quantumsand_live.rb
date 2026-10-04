@@ -6225,7 +6225,8 @@ class QuantumsandLive
       "richgel999/miniz",
       "N64Recomp/N64Recomp",
       "andrewrk/jamulator",
-      "Zelda64Recomp/Zelda64Recomp"
+      "Zelda64Recomp/Zelda64Recomp",
+      "mikke89/RmlUi"
     ]
 
     @git_repos_github_lfs = [
