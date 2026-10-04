@@ -6281,7 +6281,8 @@ class QuantumsandLive
       "encounter/decomp-toolkit",
       "MittenzHugg/rarezip",
       "MittenzHugg/bk_asset_tool",
-      "MittenzHugg/bk_rom_compressor"
+      "MittenzHugg/bk_rom_compressor",
+      "mariob92/ultralib"
     ]
 
     @git_repos_github_lfs = [
