@@ -6269,7 +6269,8 @@ class QuantumsandLive
       "chrippa/ds4drv",
       "seidtgeist/node-ds4",
       "rdepena/node-dualshock-controller",
-      "Electronicks/JoyShockMapper"
+      "Electronicks/JoyShockMapper",
+      "cameron314/concurrentqueue"
     ]
 
     @git_repos_github_lfs = [
