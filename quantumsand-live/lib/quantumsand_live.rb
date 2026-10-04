@@ -6280,7 +6280,8 @@ class QuantumsandLive
       "ethteck/splat",
       "encounter/decomp-toolkit",
       "MittenzHugg/rarezip",
-      "MittenzHugg/bk_asset_tool"
+      "MittenzHugg/bk_asset_tool",
+      "MittenzHugg/bk_rom_compressor"
     ]
 
     @git_repos_github_lfs = [
