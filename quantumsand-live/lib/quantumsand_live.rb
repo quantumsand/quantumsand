@@ -6255,7 +6255,8 @@ class QuantumsandLive
       "mupen64plus/mupen64plus-video-arachnoid",
       "mupen64plus/mupen64plus-video-glide64",
       "mupen64plus/mupen64plus-video-glide64mk2",
-      "mupen64plus/mupen64plus-video-z64"
+      "mupen64plus/mupen64plus-video-z64",
+      "john-chapman/im3d"
     ]
 
     @git_repos_github_lfs = [
