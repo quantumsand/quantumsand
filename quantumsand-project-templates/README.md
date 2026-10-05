@@ -104,6 +104,7 @@ More to follow.
 | Python           | Requests         | valkey-py | TODO              | pytest                       |
 | C++              | TODO             | TODO      | TODO              | Qt Test/GoogleTest           |
 | Qml/JavaScript   | TODO             | TODO      | TODO              | Qt Quick Test                |
+| Go               | TODO             | TODO      | TODO              | TODO                         |
 
 
 ## Steps to reproduce the dependency installation
