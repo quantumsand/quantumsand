@@ -6320,7 +6320,8 @@ class QuantumsandLive
       "perspective-dev/perspective",
       "pola-rs/polars",
       "wild-linker/lld-tests",
-      "fortran-lang/http-client"
+      "fortran-lang/http-client",
+      "CrayLabs/SmartSim"
     ]
 
     @git_repos_github_lfs = [
