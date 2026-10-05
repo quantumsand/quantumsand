@@ -6290,7 +6290,8 @@ class QuantumsandLive
       "jupyter-xeus/xeus-cling",
       "root-project/cling",
       "jupyter-xeus/xwidgets",
-      "jupyter-widgets/ipywidgets"
+      "jupyter-widgets/ipywidgets",
+      "bqplot/bqplot"
     ]
 
     @git_repos_github_lfs = [
