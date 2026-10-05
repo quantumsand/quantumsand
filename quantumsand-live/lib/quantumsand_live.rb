@@ -6326,7 +6326,8 @@ class QuantumsandLive
       "redis/hiredis",
       "redis/hiredis-rb",
       "sewenew/redis-plus-plus",
-      "interkosmos/fortran-paho"
+      "interkosmos/fortran-paho",
+      "eclipse-paho/paho.mqtt-sn.embedded-c"
     ]
 
     @git_repos_github_lfs = [
