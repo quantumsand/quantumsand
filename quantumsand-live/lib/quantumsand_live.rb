@@ -6300,7 +6300,8 @@ class QuantumsandLive
       "breathe-doc/breathe",
       "lvgl/lvgl",
       "zephyrproject-rtos/zephyr",
-      "sony/nnabla"
+      "sony/nnabla",
+      "xtensor-stack/xtl"
     ]
 
     @git_repos_github_lfs = [
