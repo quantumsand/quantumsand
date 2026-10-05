@@ -6303,7 +6303,8 @@ class QuantumsandLive
       "sony/nnabla",
       "xtensor-stack/xtl",
       "zeromq/zmqpp",
-      "compiler-research/CppInterOp"
+      "compiler-research/CppInterOp",
+      "shiroinekotfs/jupyter-cpp-kernel"
     ]
 
     @git_repos_github_lfs = [
