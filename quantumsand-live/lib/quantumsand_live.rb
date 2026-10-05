@@ -6295,7 +6295,8 @@ class QuantumsandLive
       "jupyter-widgets/pythreejs",
       "jupyter-widgets/ipyleaflet",
       "jupyter-xeus/xleaflet",
-      "p-ranav/argparse"
+      "p-ranav/argparse",
+      "jupyter-xeus/xeus-python"
     ]
 
     @git_repos_github_lfs = [
