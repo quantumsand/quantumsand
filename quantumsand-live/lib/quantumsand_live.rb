@@ -6318,7 +6318,8 @@ class QuantumsandLive
       "K3D-tools/experiments",
       "twosigma/beakerx",
       "perspective-dev/perspective",
-      "pola-rs/polars"
+      "pola-rs/polars",
+      "wild-linker/lld-tests"
     ]
 
     @git_repos_github_lfs = [
