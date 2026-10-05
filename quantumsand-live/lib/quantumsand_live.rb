@@ -6308,7 +6308,8 @@ class QuantumsandLive
       "bokeh/bokeh",
       "bokeh/jupyter_bokeh",
       "bokeh/ipywidgets_bokeh",
-      "bokeh/tutorial"
+      "bokeh/tutorial",
+      "widgetti/ipyvolume"
     ]
 
     @git_repos_github_lfs = [
