@@ -6305,7 +6305,8 @@ class QuantumsandLive
       "zeromq/zmqpp",
       "compiler-research/CppInterOp",
       "shiroinekotfs/jupyter-cpp-kernel",
-      "bokeh/bokeh"
+      "bokeh/bokeh",
+      "bokeh/jupyter_bokeh"
     ]
 
     @git_repos_github_lfs = [
