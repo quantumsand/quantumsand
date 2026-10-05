@@ -6332,7 +6332,8 @@ class QuantumsandLive
       "bettercap/bettercap",
       "gopherdata/gophernotes",
       "nteract/nteract",
-      "runtimed/runtimed"
+      "runtimed/runtimed",
+      "typicode/mistcss"
     ]
 
     @git_repos_github_lfs = [
