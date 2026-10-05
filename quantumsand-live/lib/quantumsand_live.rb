@@ -9817,7 +9817,8 @@ class QuantumsandLive
       "sys-cluster/ceph",
       "sys-cluster/glusterfs",
       "net-analyzer/snort",
-      "net-analyzer/tcpflow"
+      "net-analyzer/tcpflow",
+      "dev-lang/go"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
