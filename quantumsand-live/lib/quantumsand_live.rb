@@ -6293,7 +6293,8 @@ class QuantumsandLive
       "jupyter-widgets/ipywidgets",
       "bqplot/bqplot",
       "jupyter-widgets/pythreejs",
-      "jupyter-widgets/ipyleaflet"
+      "jupyter-widgets/ipyleaflet",
+      "jupyter-xeus/xleaflet"
     ]
 
     @git_repos_github_lfs = [
