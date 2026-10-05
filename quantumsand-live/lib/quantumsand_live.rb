@@ -6329,7 +6329,8 @@ class QuantumsandLive
       "interkosmos/fortran-paho",
       "eclipse-paho/paho.mqtt-sn.embedded-c",
       "grpc/grpc-go",
-      "bettercap/bettercap"
+      "bettercap/bettercap",
+      "gopherdata/gophernotes"
     ]
 
     @git_repos_github_lfs = [
