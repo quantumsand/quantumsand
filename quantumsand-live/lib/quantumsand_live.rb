@@ -6286,7 +6286,8 @@ class QuantumsandLive
       "BanjoRecomp/BanjoRecompSyms",
       "N64Recomp/RecompFrontend",
       "compiler-research/xeus-cpp",
-      "jupyter-xeus/xeus-zmq"
+      "jupyter-xeus/xeus-zmq",
+      "jupyter-xeus/xeus-cling"
     ]
 
     @git_repos_github_lfs = [
