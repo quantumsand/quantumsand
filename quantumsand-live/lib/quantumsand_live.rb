@@ -6321,7 +6321,8 @@ class QuantumsandLive
       "pola-rs/polars",
       "wild-linker/lld-tests",
       "fortran-lang/http-client",
-      "CrayLabs/SmartSim"
+      "CrayLabs/SmartSim",
+      "CrayLabs/SmartRedis"
     ]
 
     @git_repos_github_lfs = [
