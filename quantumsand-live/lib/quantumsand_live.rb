@@ -6328,7 +6328,8 @@ class QuantumsandLive
       "sewenew/redis-plus-plus",
       "interkosmos/fortran-paho",
       "eclipse-paho/paho.mqtt-sn.embedded-c",
-      "grpc/grpc-go"
+      "grpc/grpc-go",
+      "bettercap/bettercap"
     ]
 
     @git_repos_github_lfs = [
