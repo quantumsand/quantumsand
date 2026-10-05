@@ -6298,7 +6298,8 @@ class QuantumsandLive
       "p-ranav/argparse",
       "jupyter-xeus/xeus-python",
       "breathe-doc/breathe",
-      "lvgl/lvgl"
+      "lvgl/lvgl",
+      "zephyrproject-rtos/zephyr"
     ]
 
     @git_repos_github_lfs = [
