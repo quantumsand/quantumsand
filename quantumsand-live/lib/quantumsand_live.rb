@@ -6319,7 +6319,8 @@ class QuantumsandLive
       "twosigma/beakerx",
       "perspective-dev/perspective",
       "pola-rs/polars",
-      "wild-linker/lld-tests"
+      "wild-linker/lld-tests",
+      "fortran-lang/http-client"
     ]
 
     @git_repos_github_lfs = [
