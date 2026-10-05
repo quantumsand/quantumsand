@@ -6316,7 +6316,8 @@ class QuantumsandLive
       "K3D-tools/K3D-jupyter",
       "K3D-tools/chunky3d",
       "K3D-tools/experiments",
-      "twosigma/beakerx"
+      "twosigma/beakerx",
+      "perspective-dev/perspective"
     ]
 
     @git_repos_github_lfs = [
