@@ -6312,7 +6312,8 @@ class QuantumsandLive
       "widgetti/ipyvolume",
       "nvelden/NGLVieweR",
       "nglviewer/nglview",
-      "manzt/anywidget"
+      "manzt/anywidget",
+      "K3D-tools/K3D-jupyter"
     ]
 
     @git_repos_github_lfs = [
