@@ -6301,7 +6301,8 @@ class QuantumsandLive
       "lvgl/lvgl",
       "zephyrproject-rtos/zephyr",
       "sony/nnabla",
-      "xtensor-stack/xtl"
+      "xtensor-stack/xtl",
+      "zeromq/zmqpp"
     ]
 
     @git_repos_github_lfs = [
