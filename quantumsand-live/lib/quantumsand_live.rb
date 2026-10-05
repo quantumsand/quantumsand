@@ -6287,7 +6287,8 @@ class QuantumsandLive
       "N64Recomp/RecompFrontend",
       "compiler-research/xeus-cpp",
       "jupyter-xeus/xeus-zmq",
-      "jupyter-xeus/xeus-cling"
+      "jupyter-xeus/xeus-cling",
+      "root-project/cling"
     ]
 
     @git_repos_github_lfs = [
