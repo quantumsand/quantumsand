@@ -6314,7 +6314,8 @@ class QuantumsandLive
       "nglviewer/nglview",
       "manzt/anywidget",
       "K3D-tools/K3D-jupyter",
-      "K3D-tools/chunky3d"
+      "K3D-tools/chunky3d",
+      "K3D-tools/experiments"
     ]
 
     @git_repos_github_lfs = [
