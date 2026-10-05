@@ -6324,7 +6324,8 @@ class QuantumsandLive
       "CrayLabs/SmartSim",
       "CrayLabs/SmartRedis",
       "redis/hiredis",
-      "redis/hiredis-rb"
+      "redis/hiredis-rb",
+      "sewenew/redis-plus-plus"
     ]
 
     @git_repos_github_lfs = [
