@@ -6331,7 +6331,8 @@ class QuantumsandLive
       "grpc/grpc-go",
       "bettercap/bettercap",
       "gopherdata/gophernotes",
-      "nteract/nteract"
+      "nteract/nteract",
+      "runtimed/runtimed"
     ]
 
     @git_repos_github_lfs = [
