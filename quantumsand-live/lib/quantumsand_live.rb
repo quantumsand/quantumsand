@@ -6297,7 +6297,8 @@ class QuantumsandLive
       "jupyter-xeus/xleaflet",
       "p-ranav/argparse",
       "jupyter-xeus/xeus-python",
-      "breathe-doc/breathe"
+      "breathe-doc/breathe",
+      "lvgl/lvgl"
     ]
 
     @git_repos_github_lfs = [
