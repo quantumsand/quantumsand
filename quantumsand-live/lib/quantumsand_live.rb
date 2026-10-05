@@ -6323,7 +6323,8 @@ class QuantumsandLive
       "fortran-lang/http-client",
       "CrayLabs/SmartSim",
       "CrayLabs/SmartRedis",
-      "redis/hiredis"
+      "redis/hiredis",
+      "redis/hiredis-rb"
     ]
 
     @git_repos_github_lfs = [
