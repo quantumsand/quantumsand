@@ -6330,7 +6330,8 @@ class QuantumsandLive
       "eclipse-paho/paho.mqtt-sn.embedded-c",
       "grpc/grpc-go",
       "bettercap/bettercap",
-      "gopherdata/gophernotes"
+      "gopherdata/gophernotes",
+      "nteract/nteract"
     ]
 
     @git_repos_github_lfs = [
