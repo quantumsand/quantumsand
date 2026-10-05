@@ -6299,7 +6299,8 @@ class QuantumsandLive
       "jupyter-xeus/xeus-python",
       "breathe-doc/breathe",
       "lvgl/lvgl",
-      "zephyrproject-rtos/zephyr"
+      "zephyrproject-rtos/zephyr",
+      "sony/nnabla"
     ]
 
     @git_repos_github_lfs = [
