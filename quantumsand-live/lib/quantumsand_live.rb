@@ -6306,7 +6306,8 @@ class QuantumsandLive
       "compiler-research/CppInterOp",
       "shiroinekotfs/jupyter-cpp-kernel",
       "bokeh/bokeh",
-      "bokeh/jupyter_bokeh"
+      "bokeh/jupyter_bokeh",
+      "bokeh/ipywidgets_bokeh"
     ]
 
     @git_repos_github_lfs = [
