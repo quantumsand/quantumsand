@@ -6322,7 +6322,8 @@ class QuantumsandLive
       "wild-linker/lld-tests",
       "fortran-lang/http-client",
       "CrayLabs/SmartSim",
-      "CrayLabs/SmartRedis"
+      "CrayLabs/SmartRedis",
+      "redis/hiredis"
     ]
 
     @git_repos_github_lfs = [
