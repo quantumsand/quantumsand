@@ -6315,7 +6315,8 @@ class QuantumsandLive
       "manzt/anywidget",
       "K3D-tools/K3D-jupyter",
       "K3D-tools/chunky3d",
-      "K3D-tools/experiments"
+      "K3D-tools/experiments",
+      "twosigma/beakerx"
     ]
 
     @git_repos_github_lfs = [
