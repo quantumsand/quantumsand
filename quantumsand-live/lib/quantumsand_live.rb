@@ -6285,7 +6285,8 @@ class QuantumsandLive
       "mariob92/ultralib",
       "BanjoRecomp/BanjoRecompSyms",
       "N64Recomp/RecompFrontend",
-      "compiler-research/xeus-cpp"
+      "compiler-research/xeus-cpp",
+      "jupyter-xeus/xeus-zmq"
     ]
 
     @git_repos_github_lfs = [
