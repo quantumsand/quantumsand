@@ -6311,7 +6311,8 @@ class QuantumsandLive
       "bokeh/tutorial",
       "widgetti/ipyvolume",
       "nvelden/NGLVieweR",
-      "nglviewer/nglview"
+      "nglviewer/nglview",
+      "manzt/anywidget"
     ]
 
     @git_repos_github_lfs = [
