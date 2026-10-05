@@ -6302,7 +6302,8 @@ class QuantumsandLive
       "zephyrproject-rtos/zephyr",
       "sony/nnabla",
       "xtensor-stack/xtl",
-      "zeromq/zmqpp"
+      "zeromq/zmqpp",
+      "compiler-research/CppInterOp"
     ]
 
     @git_repos_github_lfs = [
