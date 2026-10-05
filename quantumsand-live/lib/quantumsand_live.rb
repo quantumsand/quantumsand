@@ -6288,7 +6288,8 @@ class QuantumsandLive
       "compiler-research/xeus-cpp",
       "jupyter-xeus/xeus-zmq",
       "jupyter-xeus/xeus-cling",
-      "root-project/cling"
+      "root-project/cling",
+      "jupyter-xeus/xwidgets"
     ]
 
     @git_repos_github_lfs = [
