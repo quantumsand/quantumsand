@@ -38,7 +38,7 @@ export default function Peers() {
         </AccordionSummary>
         <AccordionDetails>
           <Typography>
-            Manage trusted keys for automatic decentralised peer-to-peer syncing
+            Manage trusted keys for automatic decentralised peer-to-peer syncing.
           </Typography>
         </AccordionDetails>
       </Accordion>
