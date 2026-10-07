@@ -6333,7 +6333,8 @@ class QuantumsandLive
       "gopherdata/gophernotes",
       "nteract/nteract",
       "runtimed/runtimed",
-      "typicode/mistcss"
+      "typicode/mistcss",
+      "microsoft/postgres-mcp"
     ]
 
     @git_repos_github_lfs = [
