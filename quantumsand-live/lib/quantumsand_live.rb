@@ -6337,7 +6337,8 @@ class QuantumsandLive
       "microsoft/postgres-mcp",
       "storytold/photocraft",
       "storytold/craft-fonts",
-      "openai/math"
+      "openai/math",
+      "danielpclark/rutie"
     ]
 
     @git_repos_github_lfs = [
