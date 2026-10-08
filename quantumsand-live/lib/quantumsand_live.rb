@@ -6338,7 +6338,8 @@ class QuantumsandLive
       "storytold/photocraft",
       "storytold/craft-fonts",
       "openai/math",
-      "danielpclark/rutie"
+      "danielpclark/rutie",
+      "danielpclark/rutie-gem"
     ]
 
     @git_repos_github_lfs = [
