@@ -6335,7 +6335,8 @@ class QuantumsandLive
       "runtimed/runtimed",
       "typicode/mistcss",
       "microsoft/postgres-mcp",
-      "storytold/photocraft"
+      "storytold/photocraft",
+      "storytold/craft-fonts"
     ]
 
     @git_repos_github_lfs = [
