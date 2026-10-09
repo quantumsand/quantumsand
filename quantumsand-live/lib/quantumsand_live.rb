@@ -8609,7 +8609,8 @@ class QuantumsandLive
       "RustAudio/egui-baseview",
       "RustAudio/iced_baseview",
       "RustAudio/slint-baseview",
-      "ckruse/Gitte"
+      "ckruse/Gitte",
+      "spade-lang/spade"
     ]
 
     @git_repos_kde_invent = [
