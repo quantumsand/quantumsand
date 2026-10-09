@@ -6368,7 +6368,8 @@ class QuantumsandLive
       "dalance/heliodor",
       "veryl-lang/discovery",
       "veryl-lang/tree-sitter-veryl",
-      "veryl-lang/rouge"
+      "veryl-lang/rouge",
+      "rouge-ruby/rouge"
     ]
 
     @git_repos_github_lfs = [
