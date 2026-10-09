@@ -6364,7 +6364,8 @@ class QuantumsandLive
       "djg/verilated-rs",
       "ethanuppal/marlin",
       "gmlarumbe/test-hdl",
-      "HSD-ESD/VHDL-by-HGB"
+      "HSD-ESD/VHDL-by-HGB",
+      "dalance/heliodor"
     ]
 
     @git_repos_github_lfs = [
