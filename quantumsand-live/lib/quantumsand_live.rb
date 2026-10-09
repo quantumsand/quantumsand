@@ -6367,7 +6367,8 @@ class QuantumsandLive
       "HSD-ESD/VHDL-by-HGB",
       "dalance/heliodor",
       "veryl-lang/discovery",
-      "veryl-lang/tree-sitter-veryl"
+      "veryl-lang/tree-sitter-veryl",
+      "veryl-lang/rouge"
     ]
 
     @git_repos_github_lfs = [
