@@ -6343,7 +6343,8 @@ class QuantumsandLive
       "nvidia/boro",
       "calyxir/calyx",
       "veryl-lang/veryl",
-      "rggen/rggen"
+      "rggen/rggen",
+      "rggen/rggen-verilog"
     ]
 
     @git_repos_github_lfs = [
