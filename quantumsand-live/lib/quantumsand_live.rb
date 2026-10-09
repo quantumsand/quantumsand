@@ -6358,7 +6358,8 @@ class QuantumsandLive
       "rggen/rggen-markdown",
       "rggen/rggen-c-header",
       "gtkwave/gtkwave",
-      "vhdl-ls/rust_hdl"
+      "vhdl-ls/rust_hdl",
+      "VHDL-LS/rust_hdl_vscode"
     ]
 
     @git_repos_github_lfs = [
