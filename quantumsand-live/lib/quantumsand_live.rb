@@ -6360,7 +6360,8 @@ class QuantumsandLive
       "gtkwave/gtkwave",
       "vhdl-ls/rust_hdl",
       "VHDL-LS/rust_hdl_vscode",
-      "HaarigerHarald/VHDLFormatter"
+      "HaarigerHarald/VHDLFormatter",
+      "djg/verilated-rs"
     ]
 
     @git_repos_github_lfs = [
