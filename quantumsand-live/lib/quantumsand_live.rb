@@ -6369,7 +6369,8 @@ class QuantumsandLive
       "veryl-lang/discovery",
       "veryl-lang/tree-sitter-veryl",
       "veryl-lang/rouge",
-      "rouge-ruby/rouge"
+      "rouge-ruby/rouge",
+      "veryl-lang/sourcemap-resolver"
     ]
 
     @git_repos_github_lfs = [
