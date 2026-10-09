@@ -240,6 +240,7 @@ Vital for Quantum Sand;
 * audiowaveform is licensed under the GNU General Public License version 3.
 * Peaks.js is licensed under the GNU Lesser General Public License version 3.
 * Python is licensed under the PSF-2.0.
+* Go is licensed under a BSD 3-Clause License.
 * OpenStreetMap is open data licensed under the Open Data Commons Open Database License (ODbL) by the OpenStreetMap Foundation (OSMF).
 * osm2pgsql is licensed under the GNU General Public License; either version 2 of the license, or (at your option) any later version.
 * Hundreds of developers for all of the deps I am using.
