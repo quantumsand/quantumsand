@@ -6342,7 +6342,8 @@ class QuantumsandLive
       "danielpclark/rutie-gem",
       "nvidia/boro",
       "calyxir/calyx",
-      "veryl-lang/veryl"
+      "veryl-lang/veryl",
+      "rggen/rggen"
     ]
 
     @git_repos_github_lfs = [
