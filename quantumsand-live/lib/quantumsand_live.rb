@@ -6344,7 +6344,8 @@ class QuantumsandLive
       "calyxir/calyx",
       "veryl-lang/veryl",
       "rggen/rggen",
-      "rggen/rggen-verilog"
+      "rggen/rggen-verilog",
+      "rggen/rggen-verilog-rtl"
     ]
 
     @git_repos_github_lfs = [
