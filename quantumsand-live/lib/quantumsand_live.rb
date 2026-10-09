@@ -6363,7 +6363,8 @@ class QuantumsandLive
       "HaarigerHarald/VHDLFormatter",
       "djg/verilated-rs",
       "ethanuppal/marlin",
-      "gmlarumbe/test-hdl"
+      "gmlarumbe/test-hdl",
+      "HSD-ESD/VHDL-by-HGB"
     ]
 
     @git_repos_github_lfs = [
