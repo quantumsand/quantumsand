@@ -6340,7 +6340,8 @@ class QuantumsandLive
       "openai/math",
       "danielpclark/rutie",
       "danielpclark/rutie-gem",
-      "nvidia/boro"
+      "nvidia/boro",
+      "calyxir/calyx"
     ]
 
     @git_repos_github_lfs = [
