@@ -6349,7 +6349,8 @@ class QuantumsandLive
       "rggen/rggen-veryl",
       "rggen/rggen-vhdl",
       "rggen/rggen-vhdl-rtl",
-      "rggen/rggen-systemrdl"
+      "rggen/rggen-systemrdl",
+      "rggen/rggen-core"
     ]
 
     @git_repos_github_lfs = [
