@@ -6361,7 +6361,8 @@ class QuantumsandLive
       "vhdl-ls/rust_hdl",
       "VHDL-LS/rust_hdl_vscode",
       "HaarigerHarald/VHDLFormatter",
-      "djg/verilated-rs"
+      "djg/verilated-rs",
+      "ethanuppal/marlin"
     ]
 
     @git_repos_github_lfs = [
