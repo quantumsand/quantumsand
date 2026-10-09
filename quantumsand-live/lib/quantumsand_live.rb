@@ -6357,7 +6357,8 @@ class QuantumsandLive
       "rggen/rggen-spreadsheet-loader",
       "rggen/rggen-markdown",
       "rggen/rggen-c-header",
-      "gtkwave/gtkwave"
+      "gtkwave/gtkwave",
+      "vhdl-ls/rust_hdl"
     ]
 
     @git_repos_github_lfs = [
