@@ -6350,7 +6350,8 @@ class QuantumsandLive
       "rggen/rggen-vhdl",
       "rggen/rggen-vhdl-rtl",
       "rggen/rggen-systemrdl",
-      "rggen/rggen-core"
+      "rggen/rggen-core",
+      "rggen/rggen-default-register-map"
     ]
 
     @git_repos_github_lfs = [
