@@ -6354,7 +6354,8 @@ class QuantumsandLive
       "rggen/rggen-default-register-map",
       "rggen/rggen-systemverilog",
       "rggen/rggen-sample",
-      "rggen/rggen-spreadsheet-loader"
+      "rggen/rggen-spreadsheet-loader",
+      "rggen/rggen-markdown"
     ]
 
     @git_repos_github_lfs = [
