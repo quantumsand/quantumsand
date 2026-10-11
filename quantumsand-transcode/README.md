@@ -54,15 +54,15 @@ ffmpeg -i input.mp4 -lossless 1 output.webm
 To turn PNG rendered frames from Blender into a boomerang style video:
 
 ```bash
-ffmpeg -i %04d.png  -filter_complex "[0]reverse[r];[0][r]concat=n=2:v=1:a=0" output.mp4
+ffmpeg -i %04d.png -filter_complex "[0]reverse[r];[0][r]concat=n=2:v=1:a=0" output.mp4
 ```
 
 To turn PNG alpha transparent rendered frames into boomerang style videos with two-pass VP9:
 
 ```bash
-ffmpeg -i %04d.png  -filter_complex "[0]reverse[r];[0][r]concat=n=2:v=1:a=0" -b:v 0 -crf 30 -pass 1 -an -f webm -y /dev/null
+ffmpeg -i %04d.png -filter_complex "[0]reverse[r];[0][r]concat=n=2:v=1:a=0" -b:v 0 -crf 30 -pass 1 -an -f webm -y /dev/null
 
-ffmpeg -i %04d.png  -filter_complex "[0]reverse[r];[0][r]concat=n=2:v=1:a=0" -b:v 0 -crf 30 -pass 2 output.webm
+ffmpeg -i %04d.png -filter_complex "[0]reverse[r];[0][r]concat=n=2:v=1:a=0" -b:v 0 -crf 30 -pass 2 output.webm
 ```
 
 To add a silent audio track:
