@@ -8643,7 +8643,8 @@ class QuantumsandLive
       "RustAudio/iced_baseview",
       "RustAudio/slint-baseview",
       "ckruse/Gitte",
-      "spade-lang/spade"
+      "spade-lang/spade",
+      "ptesarik/libkdumpfile"
     ]
 
     @git_repos_kde_invent = [
