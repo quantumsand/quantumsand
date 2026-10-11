@@ -6373,7 +6373,8 @@ class QuantumsandLive
       "veryl-lang/sourcemap-resolver",
       "veryl-lang/doc",
       "veryl-lang/veryl.vim",
-      "TaeheeYoo/knod"
+      "TaeheeYoo/knod",
+      "osandov/drgn"
     ]
 
     @git_repos_github_lfs = [
