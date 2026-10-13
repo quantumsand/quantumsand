@@ -6376,7 +6376,8 @@ class QuantumsandLive
       "osandov/drgn",
       "openxla/stablehlo",
       "llvm/torch-mlir",
-      "ROCm/hip"
+      "ROCm/hip",
+      "ROCm/clr"
     ]
 
     @git_repos_github_lfs = [
