@@ -6375,7 +6375,8 @@ class QuantumsandLive
       "TaeheeYoo/knod",
       "osandov/drgn",
       "openxla/stablehlo",
-      "llvm/torch-mlir"
+      "llvm/torch-mlir",
+      "ROCm/hip"
     ]
 
     @git_repos_github_lfs = [
