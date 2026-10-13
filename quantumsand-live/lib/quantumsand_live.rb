@@ -1193,7 +1193,6 @@ class QuantumsandLive
       "sailfishos-mirror/fontconfig",
       "FreeRDP/FreeRDP",
       "sailfishos-mirror/freetype2",
-      "freetype/freetype",
       "freetype/freetype2-testing",
       "freetype/docwriter",
       "sailfishos/fontpackages",
