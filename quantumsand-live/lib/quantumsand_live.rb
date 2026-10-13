@@ -6382,7 +6382,8 @@ class QuantumsandLive
       "anomalyco/opencode",
       "microsoft/mscclpp",
       "jrmadsen/PTL",
-      "llnl/GOTCHA"
+      "llnl/GOTCHA",
+      "ROCm/timemory"
     ]
 
     @git_repos_github_lfs = [
