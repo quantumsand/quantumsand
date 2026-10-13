@@ -6393,7 +6393,8 @@ class QuantumsandLive
       "nvidia/nccl",
       "hatchet/hatchet",
       "dyninst/dyninst",
-      "icl-utk-edu/papi"
+      "icl-utk-edu/papi",
+      "kokkos/kokkos"
     ]
 
     @git_repos_github_lfs = [
