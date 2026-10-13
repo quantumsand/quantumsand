@@ -6389,7 +6389,8 @@ class QuantumsandLive
       "LLNL/radiuss-spack-configs",
       "OpenMPToolsInterface/LLVM-openmp",
       "pyutils/line_profiler",
-      "NVIDIA/nccl-tests"
+      "NVIDIA/nccl-tests",
+      "nvidia/nccl"
     ]
 
     @git_repos_github_lfs = [
