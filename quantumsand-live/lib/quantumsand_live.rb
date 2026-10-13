@@ -6378,7 +6378,8 @@ class QuantumsandLive
       "llvm/torch-mlir",
       "ROCm/hip",
       "ROCm/clr",
-      "rocm/opencl-cts"
+      "rocm/opencl-cts",
+      "anomalyco/opencode"
     ]
 
     @git_repos_github_lfs = [
