@@ -6384,7 +6384,8 @@ class QuantumsandLive
       "jrmadsen/PTL",
       "llnl/GOTCHA",
       "ROCm/timemory",
-      "llnl/Caliper"
+      "llnl/Caliper",
+      "LLNL/uberenv"
     ]
 
     @git_repos_github_lfs = [
