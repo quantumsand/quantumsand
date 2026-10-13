@@ -6388,7 +6388,8 @@ class QuantumsandLive
       "LLNL/uberenv",
       "LLNL/radiuss-spack-configs",
       "OpenMPToolsInterface/LLVM-openmp",
-      "pyutils/line_profiler"
+      "pyutils/line_profiler",
+      "NVIDIA/nccl-tests"
     ]
 
     @git_repos_github_lfs = [
