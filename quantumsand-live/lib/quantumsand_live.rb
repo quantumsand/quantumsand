@@ -6385,7 +6385,8 @@ class QuantumsandLive
       "llnl/GOTCHA",
       "ROCm/timemory",
       "llnl/Caliper",
-      "LLNL/uberenv"
+      "LLNL/uberenv",
+      "LLNL/radiuss-spack-configs"
     ]
 
     @git_repos_github_lfs = [
