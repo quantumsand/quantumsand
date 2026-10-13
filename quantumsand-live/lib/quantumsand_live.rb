@@ -6374,7 +6374,8 @@ class QuantumsandLive
       "veryl-lang/veryl.vim",
       "TaeheeYoo/knod",
       "osandov/drgn",
-      "openxla/stablehlo"
+      "openxla/stablehlo",
+      "llvm/torch-mlir"
     ]
 
     @git_repos_github_lfs = [
