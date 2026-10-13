@@ -6390,7 +6390,8 @@ class QuantumsandLive
       "OpenMPToolsInterface/LLVM-openmp",
       "pyutils/line_profiler",
       "NVIDIA/nccl-tests",
-      "nvidia/nccl"
+      "nvidia/nccl",
+      "hatchet/hatchet"
     ]
 
     @git_repos_github_lfs = [
