@@ -6387,7 +6387,8 @@ class QuantumsandLive
       "llnl/Caliper",
       "LLNL/uberenv",
       "LLNL/radiuss-spack-configs",
-      "OpenMPToolsInterface/LLVM-openmp"
+      "OpenMPToolsInterface/LLVM-openmp",
+      "pyutils/line_profiler"
     ]
 
     @git_repos_github_lfs = [
