@@ -6373,7 +6373,8 @@ class QuantumsandLive
       "veryl-lang/doc",
       "veryl-lang/veryl.vim",
       "TaeheeYoo/knod",
-      "osandov/drgn"
+      "osandov/drgn",
+      "openxla/stablehlo"
     ]
 
     @git_repos_github_lfs = [
