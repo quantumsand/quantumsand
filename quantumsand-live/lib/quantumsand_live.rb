@@ -6391,7 +6391,8 @@ class QuantumsandLive
       "pyutils/line_profiler",
       "NVIDIA/nccl-tests",
       "nvidia/nccl",
-      "hatchet/hatchet"
+      "hatchet/hatchet",
+      "dyninst/dyninst"
     ]
 
     @git_repos_github_lfs = [
