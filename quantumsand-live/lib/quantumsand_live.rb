@@ -6383,7 +6383,8 @@ class QuantumsandLive
       "microsoft/mscclpp",
       "jrmadsen/PTL",
       "llnl/GOTCHA",
-      "ROCm/timemory"
+      "ROCm/timemory",
+      "llnl/Caliper"
     ]
 
     @git_repos_github_lfs = [
