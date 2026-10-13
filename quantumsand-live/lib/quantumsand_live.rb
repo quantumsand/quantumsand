@@ -6386,7 +6386,8 @@ class QuantumsandLive
       "ROCm/timemory",
       "llnl/Caliper",
       "LLNL/uberenv",
-      "LLNL/radiuss-spack-configs"
+      "LLNL/radiuss-spack-configs",
+      "OpenMPToolsInterface/LLVM-openmp"
     ]
 
     @git_repos_github_lfs = [
