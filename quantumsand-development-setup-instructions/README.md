@@ -14,6 +14,8 @@ Some people prefer to combine macOS, Windows and Linux together.
 
 The healthy competition between different operating systems benefits the entire ecosystem.
 
+Additionally, the healthy competition between `"mps"` and `"cuda"` and so forth; for AI acceleration via silicon chips designed for AI workloads; will only serve to benefit the entire ecosystem.
+
 You can find the development setup instructions using these links;
 * [macOS setup](#macos-setup)
 * [Windows setup (x86_64)](#windows-setup-x86_64)
