@@ -6380,7 +6380,8 @@ class QuantumsandLive
       "ROCm/clr",
       "rocm/opencl-cts",
       "anomalyco/opencode",
-      "microsoft/mscclpp"
+      "microsoft/mscclpp",
+      "jrmadsen/PTL"
     ]
 
     @git_repos_github_lfs = [
