@@ -6392,7 +6392,8 @@ class QuantumsandLive
       "NVIDIA/nccl-tests",
       "nvidia/nccl",
       "hatchet/hatchet",
-      "dyninst/dyninst"
+      "dyninst/dyninst",
+      "icl-utk-edu/papi"
     ]
 
     @git_repos_github_lfs = [
