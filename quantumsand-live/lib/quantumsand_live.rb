@@ -6395,7 +6395,8 @@ class QuantumsandLive
       "dyninst/dyninst",
       "icl-utk-edu/papi",
       "kokkos/kokkos",
-      "ispc/ispc"
+      "ispc/ispc",
+      "cloud-hypervisor/cloud-hypervisor"
     ]
 
     @git_repos_github_lfs = [
