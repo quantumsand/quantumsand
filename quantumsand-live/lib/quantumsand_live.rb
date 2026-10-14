@@ -6394,7 +6394,8 @@ class QuantumsandLive
       "hatchet/hatchet",
       "dyninst/dyninst",
       "icl-utk-edu/papi",
-      "kokkos/kokkos"
+      "kokkos/kokkos",
+      "ispc/ispc"
     ]
 
     @git_repos_github_lfs = [
