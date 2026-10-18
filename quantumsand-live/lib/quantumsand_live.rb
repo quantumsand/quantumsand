@@ -6397,7 +6397,8 @@ class QuantumsandLive
       "kokkos/kokkos",
       "ispc/ispc",
       "cloud-hypervisor/cloud-hypervisor",
-      "libkrun/libkrun"
+      "libkrun/libkrun",
+      "libkrun/krunkit"
     ]
 
     @git_repos_github_lfs = [
