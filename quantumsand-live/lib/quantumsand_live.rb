@@ -6398,7 +6398,8 @@ class QuantumsandLive
       "ispc/ispc",
       "cloud-hypervisor/cloud-hypervisor",
       "libkrun/libkrun",
-      "libkrun/krunkit"
+      "libkrun/krunkit",
+      "AsahiLinux/muvm"
     ]
 
     @git_repos_github_lfs = [
