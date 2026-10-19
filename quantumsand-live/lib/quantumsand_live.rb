@@ -6399,7 +6399,8 @@ class QuantumsandLive
       "cloud-hypervisor/cloud-hypervisor",
       "libkrun/libkrun",
       "libkrun/krunkit",
-      "AsahiLinux/muvm"
+      "AsahiLinux/muvm",
+      "OverkillLabs3/driveclub-recomp"
     ]
 
     @git_repos_github_lfs = [
