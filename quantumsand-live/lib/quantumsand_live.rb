@@ -6402,7 +6402,8 @@ class QuantumsandLive
       "AsahiLinux/muvm",
       "OverkillLabs3/driveclub-recomp",
       "net-ssh/net-ssh",
-      "net-ssh/net-sftp"
+      "net-ssh/net-sftp",
+      "net-ssh/net-scp"
     ]
 
     @git_repos_github_lfs = [
