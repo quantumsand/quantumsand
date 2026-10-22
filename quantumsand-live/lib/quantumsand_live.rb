@@ -6403,7 +6403,8 @@ class QuantumsandLive
       "OverkillLabs3/driveclub-recomp",
       "net-ssh/net-ssh",
       "net-ssh/net-sftp",
-      "net-ssh/net-scp"
+      "net-ssh/net-scp",
+      "net-ssh/net-ssh-gateway"
     ]
 
     @git_repos_github_lfs = [
