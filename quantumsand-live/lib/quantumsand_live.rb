@@ -6400,7 +6400,8 @@ class QuantumsandLive
       "libkrun/libkrun",
       "libkrun/krunkit",
       "AsahiLinux/muvm",
-      "OverkillLabs3/driveclub-recomp"
+      "OverkillLabs3/driveclub-recomp",
+      "net-ssh/net-ssh"
     ]
 
     @git_repos_github_lfs = [
