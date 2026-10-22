@@ -6404,7 +6404,8 @@ class QuantumsandLive
       "net-ssh/net-ssh",
       "net-ssh/net-sftp",
       "net-ssh/net-scp",
-      "net-ssh/net-ssh-gateway"
+      "net-ssh/net-ssh-gateway",
+      "net-ssh/net-ssh-multi"
     ]
 
     @git_repos_github_lfs = [
