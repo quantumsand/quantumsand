@@ -6406,7 +6406,8 @@ class QuantumsandLive
       "net-ssh/net-scp",
       "net-ssh/net-ssh-gateway",
       "net-ssh/net-ssh-multi",
-      "net-ssh/bcrypt_pbkdf-ruby"
+      "net-ssh/bcrypt_pbkdf-ruby",
+      "bcrypt-ruby/bcrypt-ruby"
     ]
 
     @git_repos_github_lfs = [
