@@ -6409,7 +6409,8 @@ class QuantumsandLive
       "net-ssh/bcrypt_pbkdf-ruby",
       "bcrypt-ruby/bcrypt-ruby",
       "signalapp/ringrtc",
-      "signalapp/libsignal"
+      "signalapp/libsignal",
+      "libressl/portable"
     ]
 
     @git_repos_github_lfs = [
