@@ -6415,7 +6415,8 @@ class QuantumsandLive
       "elgatosf/capture-device-support",
       "zenbu-labs/terminal-browser",
       "coder/code-server",
-      "zenbu-labs/terminal-code"
+      "zenbu-labs/terminal-code",
+      "guillermolg00/morphicons"
     ]
 
     @git_repos_github_lfs = [
