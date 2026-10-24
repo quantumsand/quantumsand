@@ -6416,7 +6416,8 @@ class QuantumsandLive
       "zenbu-labs/terminal-browser",
       "coder/code-server",
       "zenbu-labs/terminal-code",
-      "guillermolg00/morphicons"
+      "guillermolg00/morphicons",
+      "feathericons/feather"
     ]
 
     @git_repos_github_lfs = [
