@@ -6419,7 +6419,8 @@ class QuantumsandLive
       "guillermolg00/morphicons",
       "feathericons/feather",
       "feathericons/react-feather",
-      "tabler/tabler-icons"
+      "tabler/tabler-icons",
+      "psf/wiki"
     ]
 
     @git_repos_github_lfs = [
