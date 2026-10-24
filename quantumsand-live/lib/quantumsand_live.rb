@@ -6414,7 +6414,8 @@ class QuantumsandLive
       "obsproject/libdshowcapture",
       "elgatosf/capture-device-support",
       "zenbu-labs/terminal-browser",
-      "coder/code-server"
+      "coder/code-server",
+      "zenbu-labs/terminal-code"
     ]
 
     @git_repos_github_lfs = [
