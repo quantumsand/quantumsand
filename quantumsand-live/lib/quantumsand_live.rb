@@ -6412,7 +6412,8 @@ class QuantumsandLive
       "signalapp/libsignal",
       "libressl/portable",
       "obsproject/libdshowcapture",
-      "elgatosf/capture-device-support"
+      "elgatosf/capture-device-support",
+      "zenbu-labs/terminal-browser"
     ]
 
     @git_repos_github_lfs = [
