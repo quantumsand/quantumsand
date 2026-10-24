@@ -154,6 +154,9 @@ More to follow.
 
 ### Translations table
 
+- git_repo_name `:string`
+- git_hash_hex `:string`
+- qr_code `:string`
 - original_locale `:string`
 - original_locale_text `:text`
 - translation_locale `:string`
