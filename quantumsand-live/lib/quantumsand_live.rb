@@ -6418,7 +6418,8 @@ class QuantumsandLive
       "zenbu-labs/terminal-code",
       "guillermolg00/morphicons",
       "feathericons/feather",
-      "feathericons/react-feather"
+      "feathericons/react-feather",
+      "tabler/tabler-icons"
     ]
 
     @git_repos_github_lfs = [
