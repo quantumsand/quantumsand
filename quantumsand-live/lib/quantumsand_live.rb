@@ -6410,7 +6410,8 @@ class QuantumsandLive
       "bcrypt-ruby/bcrypt-ruby",
       "signalapp/ringrtc",
       "signalapp/libsignal",
-      "libressl/portable"
+      "libressl/portable",
+      "obsproject/libdshowcapture"
     ]
 
     @git_repos_github_lfs = [
