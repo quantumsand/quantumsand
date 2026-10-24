@@ -6411,7 +6411,8 @@ class QuantumsandLive
       "signalapp/ringrtc",
       "signalapp/libsignal",
       "libressl/portable",
-      "obsproject/libdshowcapture"
+      "obsproject/libdshowcapture",
+      "elgatosf/capture-device-support"
     ]
 
     @git_repos_github_lfs = [
