@@ -6413,7 +6413,8 @@ class QuantumsandLive
       "libressl/portable",
       "obsproject/libdshowcapture",
       "elgatosf/capture-device-support",
-      "zenbu-labs/terminal-browser"
+      "zenbu-labs/terminal-browser",
+      "coder/code-server"
     ]
 
     @git_repos_github_lfs = [
