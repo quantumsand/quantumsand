@@ -6425,7 +6425,8 @@ class QuantumsandLive
       "twitter/twemoji-parser",
       "fonttools/skia-pathops",
       "fonttools/fonttools",
-      "fontforge/fontforge"
+      "fontforge/fontforge",
+      "L2jLiga/grunt-webfonts"
     ]
 
     @git_repos_github_lfs = [
