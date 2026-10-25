@@ -6428,7 +6428,8 @@ class QuantumsandLive
       "fontforge/fontforge",
       "L2jLiga/grunt-webfonts",
       "mozilla/twemoji-colr",
-      "yasm/yasm"
+      "yasm/yasm",
+      "Zagitta/gpu-unlock"
     ]
 
     @git_repos_github_lfs = [
