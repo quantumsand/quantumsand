@@ -6423,7 +6423,8 @@ class QuantumsandLive
       "psf/wiki",
       "fonttools/skia-builder",
       "twitter/twemoji-parser",
-      "fonttools/skia-pathops"
+      "fonttools/skia-pathops",
+      "fonttools/fonttools"
     ]
 
     @git_repos_github_lfs = [
