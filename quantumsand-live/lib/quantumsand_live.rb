@@ -6421,7 +6421,8 @@ class QuantumsandLive
       "feathericons/react-feather",
       "tabler/tabler-icons",
       "psf/wiki",
-      "fonttools/skia-builder"
+      "fonttools/skia-builder",
+      "twitter/twemoji-parser"
     ]
 
     @git_repos_github_lfs = [
