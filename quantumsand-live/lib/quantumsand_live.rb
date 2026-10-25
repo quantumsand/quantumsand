@@ -6424,7 +6424,8 @@ class QuantumsandLive
       "fonttools/skia-builder",
       "twitter/twemoji-parser",
       "fonttools/skia-pathops",
-      "fonttools/fonttools"
+      "fonttools/fonttools",
+      "fontforge/fontforge"
     ]
 
     @git_repos_github_lfs = [
