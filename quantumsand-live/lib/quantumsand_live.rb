@@ -6427,7 +6427,8 @@ class QuantumsandLive
       "fonttools/fonttools",
       "fontforge/fontforge",
       "L2jLiga/grunt-webfonts",
-      "mozilla/twemoji-colr"
+      "mozilla/twemoji-colr",
+      "yasm/yasm"
     ]
 
     @git_repos_github_lfs = [
