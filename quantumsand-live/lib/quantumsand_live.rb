@@ -6420,7 +6420,8 @@ class QuantumsandLive
       "feathericons/feather",
       "feathericons/react-feather",
       "tabler/tabler-icons",
-      "psf/wiki"
+      "psf/wiki",
+      "fonttools/skia-builder"
     ]
 
     @git_repos_github_lfs = [
