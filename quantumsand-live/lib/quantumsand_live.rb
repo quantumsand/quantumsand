@@ -6422,7 +6422,8 @@ class QuantumsandLive
       "tabler/tabler-icons",
       "psf/wiki",
       "fonttools/skia-builder",
-      "twitter/twemoji-parser"
+      "twitter/twemoji-parser",
+      "fonttools/skia-pathops"
     ]
 
     @git_repos_github_lfs = [
