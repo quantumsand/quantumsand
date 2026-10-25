@@ -6426,7 +6426,8 @@ class QuantumsandLive
       "fonttools/skia-pathops",
       "fonttools/fonttools",
       "fontforge/fontforge",
-      "L2jLiga/grunt-webfonts"
+      "L2jLiga/grunt-webfonts",
+      "mozilla/twemoji-colr"
     ]
 
     @git_repos_github_lfs = [
