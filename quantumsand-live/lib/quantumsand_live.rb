@@ -6430,7 +6430,8 @@ class QuantumsandLive
       "mozilla/twemoji-colr",
       "yasm/yasm",
       "Zagitta/gpu-unlock",
-      "microsoft/scope"
+      "microsoft/scope",
+      "lerboe/hyper-fast-path"
     ]
 
     @git_repos_github_lfs = [
