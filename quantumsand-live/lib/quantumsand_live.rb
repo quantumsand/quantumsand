@@ -6433,7 +6433,8 @@ class QuantumsandLive
       "microsoft/scope",
       "lerboe/hyper-fast-path",
       "lerboe/beeper",
-      "ralfbiedert/interoptopus"
+      "ralfbiedert/interoptopus",
+      "denoland/std"
     ]
 
     @git_repos_github_lfs = [
