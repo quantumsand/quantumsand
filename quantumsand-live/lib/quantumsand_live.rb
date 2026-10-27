@@ -6437,7 +6437,8 @@ class QuantumsandLive
       "denoland/std",
       "web-platform-tests/wpt",
       "denoland/node_test",
-      "denoland/deno_lsp_benchdata"
+      "denoland/deno_lsp_benchdata",
+      "denoland/lzld"
     ]
 
     @git_repos_github_lfs = [
