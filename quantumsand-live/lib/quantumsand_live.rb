@@ -6436,7 +6436,8 @@ class QuantumsandLive
       "ralfbiedert/interoptopus",
       "denoland/std",
       "web-platform-tests/wpt",
-      "denoland/node_test"
+      "denoland/node_test",
+      "denoland/deno_lsp_benchdata"
     ]
 
     @git_repos_github_lfs = [
