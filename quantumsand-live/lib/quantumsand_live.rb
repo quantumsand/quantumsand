@@ -6434,7 +6434,8 @@ class QuantumsandLive
       "lerboe/hyper-fast-path",
       "lerboe/beeper",
       "ralfbiedert/interoptopus",
-      "denoland/std"
+      "denoland/std",
+      "web-platform-tests/wpt"
     ]
 
     @git_repos_github_lfs = [
