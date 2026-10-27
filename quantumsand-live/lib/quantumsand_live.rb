@@ -6431,7 +6431,8 @@ class QuantumsandLive
       "yasm/yasm",
       "Zagitta/gpu-unlock",
       "microsoft/scope",
-      "lerboe/hyper-fast-path"
+      "lerboe/hyper-fast-path",
+      "lerboe/beeper"
     ]
 
     @git_repos_github_lfs = [
