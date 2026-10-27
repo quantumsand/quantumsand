@@ -6435,7 +6435,8 @@ class QuantumsandLive
       "lerboe/beeper",
       "ralfbiedert/interoptopus",
       "denoland/std",
-      "web-platform-tests/wpt"
+      "web-platform-tests/wpt",
+      "denoland/node_test"
     ]
 
     @git_repos_github_lfs = [
