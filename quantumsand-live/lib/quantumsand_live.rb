@@ -6441,7 +6441,8 @@ class QuantumsandLive
       "denoland/lzld",
       "biomejs/biome-vscode",
       "tianocore/edk2",
-      "kkos/oniguruma"
+      "kkos/oniguruma",
+      "akheron/jansson"
     ]
 
     @git_repos_github_lfs = [
