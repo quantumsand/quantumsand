@@ -6447,7 +6447,8 @@ class QuantumsandLive
       "devicetree-org/pylibfdt",
       "MIPI-Alliance/public-mipi-sys-t",
       "DMTF/libspdm",
-      "TrustedComputingGroup/TPM"
+      "TrustedComputingGroup/TPM",
+      "TF-Shared/transfer-list-library"
     ]
 
     @git_repos_github_lfs = [
