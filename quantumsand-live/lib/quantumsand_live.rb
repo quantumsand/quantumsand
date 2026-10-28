@@ -6440,7 +6440,8 @@ class QuantumsandLive
       "denoland/deno_lsp_benchdata",
       "denoland/lzld",
       "biomejs/biome-vscode",
-      "tianocore/edk2"
+      "tianocore/edk2",
+      "kkos/oniguruma"
     ]
 
     @git_repos_github_lfs = [
