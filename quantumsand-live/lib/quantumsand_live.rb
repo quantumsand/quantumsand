@@ -6443,7 +6443,8 @@ class QuantumsandLive
       "tianocore/edk2",
       "kkos/oniguruma",
       "akheron/jansson",
-      "tianocore/edk2-subhook"
+      "tianocore/edk2-subhook",
+      "devicetree-org/pylibfdt"
     ]
 
     @git_repos_github_lfs = [
