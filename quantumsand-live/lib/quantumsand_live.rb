@@ -6449,7 +6449,8 @@ class QuantumsandLive
       "DMTF/libspdm",
       "TrustedComputingGroup/TPM",
       "TF-Shared/transfer-list-library",
-      "seedds/nxnative"
+      "seedds/nxnative",
+      "ly05010419/MacNativeGames"
     ]
 
     @git_repos_github_lfs = [
