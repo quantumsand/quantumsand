@@ -6450,7 +6450,8 @@ class QuantumsandLive
       "TrustedComputingGroup/TPM",
       "TF-Shared/transfer-list-library",
       "seedds/nxnative",
-      "ly05010419/MacNativeGames"
+      "ly05010419/MacNativeGames",
+      "jhaizhou-ops/d2r-mobile"
     ]
 
     @git_repos_github_lfs = [
