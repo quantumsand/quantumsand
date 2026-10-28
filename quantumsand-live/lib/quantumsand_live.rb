@@ -6445,7 +6445,8 @@ class QuantumsandLive
       "akheron/jansson",
       "tianocore/edk2-subhook",
       "devicetree-org/pylibfdt",
-      "MIPI-Alliance/public-mipi-sys-t"
+      "MIPI-Alliance/public-mipi-sys-t",
+      "DMTF/libspdm"
     ]
 
     @git_repos_github_lfs = [
