@@ -7600,7 +7600,8 @@ class QuantumsandLive
       "sequoia-pgp/sequoia-wot",
       "sequoia-pgp/sequoia-keystore",
       "banjo.decomp/banjo-kazooie",
-      "TheZoq2/vatch"
+      "TheZoq2/vatch",
+      "cmocka/cmocka"
     ]
 
     @git_repos_freedesktop_gitlab = [
