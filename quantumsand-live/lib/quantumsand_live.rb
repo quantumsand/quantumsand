@@ -6448,7 +6448,8 @@ class QuantumsandLive
       "MIPI-Alliance/public-mipi-sys-t",
       "DMTF/libspdm",
       "TrustedComputingGroup/TPM",
-      "TF-Shared/transfer-list-library"
+      "TF-Shared/transfer-list-library",
+      "seedds/nxnative"
     ]
 
     @git_repos_github_lfs = [
