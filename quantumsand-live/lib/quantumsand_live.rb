@@ -6444,7 +6444,8 @@ class QuantumsandLive
       "kkos/oniguruma",
       "akheron/jansson",
       "tianocore/edk2-subhook",
-      "devicetree-org/pylibfdt"
+      "devicetree-org/pylibfdt",
+      "MIPI-Alliance/public-mipi-sys-t"
     ]
 
     @git_repos_github_lfs = [
