@@ -6446,7 +6446,8 @@ class QuantumsandLive
       "tianocore/edk2-subhook",
       "devicetree-org/pylibfdt",
       "MIPI-Alliance/public-mipi-sys-t",
-      "DMTF/libspdm"
+      "DMTF/libspdm",
+      "TrustedComputingGroup/TPM"
     ]
 
     @git_repos_github_lfs = [
