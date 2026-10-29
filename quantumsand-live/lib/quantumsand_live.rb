@@ -6452,7 +6452,8 @@ class QuantumsandLive
       "seedds/nxnative",
       "ly05010419/MacNativeGames",
       "jhaizhou-ops/d2r-mobile",
-      "jopohl/urh"
+      "jopohl/urh",
+      "indilib/indi"
     ]
 
     @git_repos_github_lfs = [
