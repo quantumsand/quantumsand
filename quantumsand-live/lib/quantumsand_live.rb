@@ -9946,7 +9946,8 @@ class QuantumsandLive
       "app-editors/nano",
       "sci-astronomy/stellarium",
       "net-wireless/soapysdr",
-      "net-wireless/gr-osmosdr"
+      "net-wireless/gr-osmosdr",
+      "net-wireless/airspy"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
