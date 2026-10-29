@@ -9942,7 +9942,8 @@ class QuantumsandLive
       "net-analyzer/snort",
       "net-analyzer/tcpflow",
       "dev-lang/go",
-      "app-editors/nano"
+      "app-editors/nano",
+      "sci-astronomy/stellarium"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
