@@ -9637,7 +9637,8 @@ class QuantumsandLive
                           ntfsprogs ntfsdecrypt mount-ntfs arm64ec georeplication grafana rsyslog
                           libtirpc active-response flexresp3 gre non-ether-decoders ppm react threads
                           control-socket file-inspect high-availability large-pcap-64bit linux-smp-stats
-                          open-appid shared-rep side-channel unicode -branding -java -php).join(' ')
+                          open-appid shared-rep side-channel unicode deep-sky lens-distortion scripting
+                          show-my-sky stars telescope -branding -java -php).join(' ')
 
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
