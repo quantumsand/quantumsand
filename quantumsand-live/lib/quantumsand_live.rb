@@ -9638,7 +9638,7 @@ class QuantumsandLive
                           libtirpc active-response flexresp3 gre non-ether-decoders ppm react threads
                           control-socket file-inspect high-availability large-pcap-64bit linux-smp-stats
                           open-appid shared-rep side-channel unicode deep-sky lens-distortion scripting
-                          show-my-sky stars telescope -branding -java -php).join(' ')
+                          show-my-sky stars telescope ubertooth wext -branding -java -php).join(' ')
 
     puts "Gentoo USE flags: #{gentoo_use_flags}"
 
