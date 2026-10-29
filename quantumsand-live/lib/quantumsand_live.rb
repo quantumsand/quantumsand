@@ -9944,7 +9944,8 @@ class QuantumsandLive
       "net-analyzer/tcpflow",
       "dev-lang/go",
       "app-editors/nano",
-      "sci-astronomy/stellarium"
+      "sci-astronomy/stellarium",
+      "net-wireless/soapysdr"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
