@@ -6451,7 +6451,8 @@ class QuantumsandLive
       "TF-Shared/transfer-list-library",
       "seedds/nxnative",
       "ly05010419/MacNativeGames",
-      "jhaizhou-ops/d2r-mobile"
+      "jhaizhou-ops/d2r-mobile",
+      "jopohl/urh"
     ]
 
     @git_repos_github_lfs = [
