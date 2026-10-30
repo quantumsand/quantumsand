@@ -7100,7 +7100,8 @@ class QuantumsandLive
       "linux/kernel/git/hid/hid",
       "linux/kernel/git/torvalds/linux",
       "linux/kernel/git/bpf/bpf-next",
-      "libs/libtrace/libtraceevent"
+      "libs/libtrace/libtraceevent",
+      "utils/util-linux/util-linux"
     ]
 
     @git_repos_isc_org_gitlab = [
