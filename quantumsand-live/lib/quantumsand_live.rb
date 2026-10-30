@@ -6453,7 +6453,8 @@ class QuantumsandLive
       "ly05010419/MacNativeGames",
       "jhaizhou-ops/d2r-mobile",
       "jopohl/urh",
-      "indilib/indi"
+      "indilib/indi",
+      "puckeditor/puck"
     ]
 
     @git_repos_github_lfs = [
