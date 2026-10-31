@@ -6456,7 +6456,8 @@ class QuantumsandLive
       "puckeditor/puck",
       "NVIDIA/cuda-rust",
       "NVIDIA/nvapi",
-      "misyltoad/vkroots"
+      "misyltoad/vkroots",
+      "jp7677/dxvk-nvapi"
     ]
 
     @git_repos_github_lfs = [
