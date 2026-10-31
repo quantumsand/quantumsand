@@ -4653,7 +4653,6 @@ class QuantumsandLive
       "facebook/openzl",
       "microsoft/vscode-cmake-tools",
       "clangd/clangd",
-      "NVlabs/cuda-oxide",
       "inducer/compyte",
       "inducer/bpl-subset",
       "inducer/pycuda",
