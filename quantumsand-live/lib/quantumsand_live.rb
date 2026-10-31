@@ -6457,7 +6457,8 @@ class QuantumsandLive
       "NVIDIA/cuda-rust",
       "NVIDIA/nvapi",
       "misyltoad/vkroots",
-      "jp7677/dxvk-nvapi"
+      "jp7677/dxvk-nvapi",
+      "astral-sh/astral-codec"
     ]
 
     @git_repos_github_lfs = [
