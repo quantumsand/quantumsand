@@ -6454,7 +6454,8 @@ class QuantumsandLive
       "jopohl/urh",
       "indilib/indi",
       "puckeditor/puck",
-      "NVIDIA/cuda-rust"
+      "NVIDIA/cuda-rust",
+      "NVIDIA/nvapi"
     ]
 
     @git_repos_github_lfs = [
