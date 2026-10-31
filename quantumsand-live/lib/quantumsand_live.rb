@@ -6454,7 +6454,8 @@ class QuantumsandLive
       "jhaizhou-ops/d2r-mobile",
       "jopohl/urh",
       "indilib/indi",
-      "puckeditor/puck"
+      "puckeditor/puck",
+      "NVIDIA/cuda-rust"
     ]
 
     @git_repos_github_lfs = [
