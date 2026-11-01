@@ -6458,7 +6458,8 @@ class QuantumsandLive
       "NVIDIA/nvapi",
       "misyltoad/vkroots",
       "jp7677/dxvk-nvapi",
-      "astral-sh/astral-codec"
+      "astral-sh/astral-codec",
+      "OpenShot/openshot-onnx"
     ]
 
     @git_repos_github_lfs = [
