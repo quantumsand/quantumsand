@@ -6459,7 +6459,8 @@ class QuantumsandLive
       "misyltoad/vkroots",
       "jp7677/dxvk-nvapi",
       "astral-sh/astral-codec",
-      "OpenShot/openshot-onnx"
+      "OpenShot/openshot-onnx",
+      "coder/libghostty-vt-node"
     ]
 
     @git_repos_github_lfs = [
