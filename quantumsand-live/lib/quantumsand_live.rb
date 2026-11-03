@@ -6466,7 +6466,8 @@ class QuantumsandLive
       "fooker/soundwire",
       "snapcast/snapcast",
       "snapcast/snapweb",
-      "atoomic/snapcast-volume-ui"
+      "atoomic/snapcast-volume-ui",
+      "xkonni/snapcastr"
     ]
 
     @git_repos_github_lfs = [
