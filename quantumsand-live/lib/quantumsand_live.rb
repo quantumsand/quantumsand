@@ -6478,7 +6478,8 @@ class QuantumsandLive
       "MusicPlayerDaemon/MPD",
       "mopidy/mopidy",
       "mopidy/mopidy.js",
-      "mopidy/mopidy-alsamixer"
+      "mopidy/mopidy-alsamixer",
+      "mopidy/mopidy-mpris"
     ]
 
     @git_repos_github_lfs = [
