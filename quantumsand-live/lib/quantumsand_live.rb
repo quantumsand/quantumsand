@@ -6486,7 +6486,8 @@ class QuantumsandLive
       "RikiyaT/lm_understand-logs",
       "tinygo-org/tinygo",
       "porsager/postgres",
-      "shikijs/shiki"
+      "shikijs/shiki",
+      "shikijs/shiki-latex"
     ]
 
     @git_repos_github_lfs = [
