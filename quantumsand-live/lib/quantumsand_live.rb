@@ -6463,7 +6463,8 @@ class QuantumsandLive
       "coder/libghostty-vt-node",
       "novnc/websockify",
       "novnc/noVNC",
-      "fooker/soundwire"
+      "fooker/soundwire",
+      "snapcast/snapcast"
     ]
 
     @git_repos_github_lfs = [
