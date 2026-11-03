@@ -6462,7 +6462,8 @@ class QuantumsandLive
       "OpenShot/openshot-onnx",
       "coder/libghostty-vt-node",
       "novnc/websockify",
-      "novnc/noVNC"
+      "novnc/noVNC",
+      "fooker/soundwire"
     ]
 
     @git_repos_github_lfs = [
