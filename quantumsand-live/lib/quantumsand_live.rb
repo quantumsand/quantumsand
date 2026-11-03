@@ -6476,7 +6476,8 @@ class QuantumsandLive
       "tremby/snapmixer",
       "snapcast/alsa-snapcast",
       "MusicPlayerDaemon/MPD",
-      "mopidy/mopidy"
+      "mopidy/mopidy",
+      "mopidy/mopidy.js"
     ]
 
     @git_repos_github_lfs = [
