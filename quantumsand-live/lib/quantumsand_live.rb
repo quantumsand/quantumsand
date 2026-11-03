@@ -6470,7 +6470,8 @@ class QuantumsandLive
       "xkonni/snapcastr",
       "pallets-eco/wtforms",
       "pallets-eco/flask-wtf",
-      "happyleavesaoc/python-snapcast"
+      "happyleavesaoc/python-snapcast",
+      "derglaus/snapcast-websockets-ui"
     ]
 
     @git_repos_github_lfs = [
