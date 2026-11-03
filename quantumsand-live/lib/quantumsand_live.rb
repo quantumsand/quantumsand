@@ -6474,7 +6474,8 @@ class QuantumsandLive
       "derglaus/snapcast-websockets-ui",
       "mariolukas/HydraPlay",
       "tremby/snapmixer",
-      "snapcast/alsa-snapcast"
+      "snapcast/alsa-snapcast",
+      "MusicPlayerDaemon/MPD"
     ]
 
     @git_repos_github_lfs = [
