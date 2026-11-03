@@ -6482,7 +6482,8 @@ class QuantumsandLive
       "mopidy/mopidy-mpris",
       "mopidy/mopidy-beets",
       "mopidy/mopidy-local",
-      "mopidy/mopidy-mpd"
+      "mopidy/mopidy-mpd",
+      "RikiyaT/lm_understand-logs"
     ]
 
     @git_repos_github_lfs = [
