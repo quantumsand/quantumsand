@@ -6487,7 +6487,8 @@ class QuantumsandLive
       "tinygo-org/tinygo",
       "porsager/postgres",
       "shikijs/shiki",
-      "shikijs/shiki-latex"
+      "shikijs/shiki-latex",
+      "gpoore/minted"
     ]
 
     @git_repos_github_lfs = [
