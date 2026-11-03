@@ -6471,7 +6471,8 @@ class QuantumsandLive
       "pallets-eco/wtforms",
       "pallets-eco/flask-wtf",
       "happyleavesaoc/python-snapcast",
-      "derglaus/snapcast-websockets-ui"
+      "derglaus/snapcast-websockets-ui",
+      "mariolukas/HydraPlay"
     ]
 
     @git_repos_github_lfs = [
