@@ -6473,7 +6473,8 @@ class QuantumsandLive
       "happyleavesaoc/python-snapcast",
       "derglaus/snapcast-websockets-ui",
       "mariolukas/HydraPlay",
-      "tremby/snapmixer"
+      "tremby/snapmixer",
+      "snapcast/alsa-snapcast"
     ]
 
     @git_repos_github_lfs = [
