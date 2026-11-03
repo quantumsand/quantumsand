@@ -6475,7 +6475,8 @@ class QuantumsandLive
       "mariolukas/HydraPlay",
       "tremby/snapmixer",
       "snapcast/alsa-snapcast",
-      "MusicPlayerDaemon/MPD"
+      "MusicPlayerDaemon/MPD",
+      "mopidy/mopidy"
     ]
 
     @git_repos_github_lfs = [
