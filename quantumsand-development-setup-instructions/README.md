@@ -470,6 +470,13 @@ Elixir 1.19.5 (compiled with Erlang/OTP 28)
 ```bash
 * creating /Users/your-user-name/.mix/archives/phx_new-1.8.5
 ```
+* Install Go; `brew install go`
+* Test the Go installation;
+* `go version`
+* You should see the following message:
+```bash
+go version go1.27.3 darwin/arm64
+```
 * Install Qt; `brew install qt`
 * Install CMake; `brew install cmake`
 * Test your Qt installation by running quantumsand-qt;
