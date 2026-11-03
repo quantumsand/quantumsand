@@ -6461,7 +6461,8 @@ class QuantumsandLive
       "astral-sh/astral-codec",
       "OpenShot/openshot-onnx",
       "coder/libghostty-vt-node",
-      "novnc/websockify"
+      "novnc/websockify",
+      "novnc/noVNC"
     ]
 
     @git_repos_github_lfs = [
