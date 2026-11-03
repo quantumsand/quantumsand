@@ -6464,7 +6464,8 @@ class QuantumsandLive
       "novnc/websockify",
       "novnc/noVNC",
       "fooker/soundwire",
-      "snapcast/snapcast"
+      "snapcast/snapcast",
+      "snapcast/snapweb"
     ]
 
     @git_repos_github_lfs = [
