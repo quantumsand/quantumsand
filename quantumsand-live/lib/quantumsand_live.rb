@@ -6483,7 +6483,8 @@ class QuantumsandLive
       "mopidy/mopidy-beets",
       "mopidy/mopidy-local",
       "mopidy/mopidy-mpd",
-      "RikiyaT/lm_understand-logs"
+      "RikiyaT/lm_understand-logs",
+      "tinygo-org/tinygo"
     ]
 
     @git_repos_github_lfs = [
