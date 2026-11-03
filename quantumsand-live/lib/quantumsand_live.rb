@@ -6481,7 +6481,8 @@ class QuantumsandLive
       "mopidy/mopidy-alsamixer",
       "mopidy/mopidy-mpris",
       "mopidy/mopidy-beets",
-      "mopidy/mopidy-local"
+      "mopidy/mopidy-local",
+      "mopidy/mopidy-mpd"
     ]
 
     @git_repos_github_lfs = [
