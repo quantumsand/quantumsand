@@ -6460,7 +6460,8 @@ class QuantumsandLive
       "jp7677/dxvk-nvapi",
       "astral-sh/astral-codec",
       "OpenShot/openshot-onnx",
-      "coder/libghostty-vt-node"
+      "coder/libghostty-vt-node",
+      "novnc/websockify"
     ]
 
     @git_repos_github_lfs = [
