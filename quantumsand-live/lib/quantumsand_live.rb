@@ -6465,7 +6465,8 @@ class QuantumsandLive
       "novnc/noVNC",
       "fooker/soundwire",
       "snapcast/snapcast",
-      "snapcast/snapweb"
+      "snapcast/snapweb",
+      "atoomic/snapcast-volume-ui"
     ]
 
     @git_repos_github_lfs = [
