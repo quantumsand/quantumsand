@@ -6468,7 +6468,8 @@ class QuantumsandLive
       "snapcast/snapweb",
       "atoomic/snapcast-volume-ui",
       "xkonni/snapcastr",
-      "pallets-eco/wtforms"
+      "pallets-eco/wtforms",
+      "pallets-eco/flask-wtf"
     ]
 
     @git_repos_github_lfs = [
