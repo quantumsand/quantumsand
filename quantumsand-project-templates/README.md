@@ -8,7 +8,7 @@ This will include:
 
 * C++ with Qt (including Qml)
 * Bevy (Rust game engine)
-* Godot (C++ game engine)
+* Godot (C++ and GDScript game engine)
 * React (front-end JavaScript library)
 * Phoenix (web framework for Elixir)
 * [PyTorch](/quantumsand-project-templates/quantumsand-project-templates-pytorch/)
