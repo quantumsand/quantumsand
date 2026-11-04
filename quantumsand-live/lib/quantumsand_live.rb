@@ -6488,7 +6488,8 @@ class QuantumsandLive
       "porsager/postgres",
       "shikijs/shiki",
       "shikijs/shiki-latex",
-      "gpoore/minted"
+      "gpoore/minted",
+      "nullptrlabs/pgmodeler"
     ]
 
     @git_repos_github_lfs = [
