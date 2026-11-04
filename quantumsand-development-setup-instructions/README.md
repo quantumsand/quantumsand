@@ -192,6 +192,14 @@ information.
 * Install LDtk; for macOS (experimental).
 * Open System Settings; Go into Privacy & Security; You should see: “LDtk” was blocked to protect your Mac.
 * Click Open Anyway; Twice. LDtk should have loaded. From now on, it should load fine without any issues.
+* Install Godot engine “Standard”; for macOS (Apple Silicon).
+* The `Godot_v4.8-beta2_macos.arm64.zip` should extract into the `Godot` app.
+* You can move the `Godot` app into your macOS `Applications` within Finder.
+* You can delete the `Godot_v4.8-beta2_macos.arm64.zip`.
+* Open Godot; You might be asked: “Godot” is an app downloaded from the internet. Are you sure you want to open it?
+* Click Open.
+* You should see a Godot window which has options like “Projects”, “Asset Store” and “You don’t have any projects yet”.
+* For now you can close Godot.
 * Install LibreOffice; for macOS (Apple Silicon); make sure it is the arm64 (aarch64) dmg.
 * Install Audacity; for macOS (Apple Silicon); make sure it is the arm64 dmg.
 * Install Audacious; `brew install audacious`
