@@ -25,8 +25,7 @@ export default function Engraving({ engraving = {
                                                     lat: 21.3891
                                                   },
                                                   date: "20270601"
-                                                },
-	                                   logo = ""}) {
+                                                }}) {
   return (
     <div className="engraving">
       <img src="/icons/dinar.svg" alt="" style={{background: "#000", borderRadius: "50%", width: "180px" }} />
@@ -35,9 +34,6 @@ export default function Engraving({ engraving = {
           size="160"
           bgColor="transparent"
           fgColor="#000"
-          logoImage={logo}
-          logoWidth="128"
-          logoOpacity="0.3"
           eyeColor={[
             '#000',  // top/left eye
             '#000', // top/right eye
