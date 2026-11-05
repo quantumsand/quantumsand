@@ -6489,7 +6489,8 @@ class QuantumsandLive
       "shikijs/shiki",
       "shikijs/shiki-latex",
       "gpoore/minted",
-      "nullptrlabs/pgmodeler"
+      "nullptrlabs/pgmodeler",
+      "servo/mozangle"
     ]
 
     @git_repos_github_lfs = [
