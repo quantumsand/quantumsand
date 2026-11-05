@@ -6491,7 +6491,8 @@ class QuantumsandLive
       "gpoore/minted",
       "nullptrlabs/pgmodeler",
       "servo/mozangle",
-      "mozilla/pdf.js"
+      "mozilla/pdf.js",
+      "mozilla/readability"
     ]
 
     @git_repos_github_lfs = [
