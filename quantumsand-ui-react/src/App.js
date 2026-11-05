@@ -45,6 +45,7 @@ import Ratiocination from "./pages/Ratiocination/Ratiocination";
 import Peers from "./pages/Peers/Peers"
 import AudioDictionary from "./pages/AudioDictionary/AudioDictionary";
 import Calendar from "./pages/Calendar/Calendar";
+import Engraving from "./pages/Engraving/Engraving";
 
 const mathsSlides = [
     {
@@ -147,6 +148,7 @@ function App() {
             <Route path="ratiocination" element={<Ratiocination />} />
             <Route path="peers" element={<Peers />} />
             <Route path="calendar" element={<Calendar />} />
+            <Route path="engraving" element={<Engraving />} />
             <Route path="*" element={<NoPage />} />
           </Route>
         </Routes>
