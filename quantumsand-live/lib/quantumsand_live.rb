@@ -6493,7 +6493,8 @@ class QuantumsandLive
       "servo/mozangle",
       "mozilla/pdf.js",
       "mozilla/readability",
-      "M-Compressors/mbrotli"
+      "M-Compressors/mbrotli",
+      "M-Compressors/mzstd"
     ]
 
     @git_repos_github_lfs = [
