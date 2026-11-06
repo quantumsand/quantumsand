@@ -6497,7 +6497,8 @@ class QuantumsandLive
       "M-Compressors/mzstd",
       "M-Compressors/borrowed-buf",
       "JTechPhotonics/J-Tech-Photonics-Laser-Tool",
-      "PadLex/SvgToGcode"
+      "PadLex/SvgToGcode",
+      "Jack000/Deepnest"
     ]
 
     @git_repos_github_lfs = [
