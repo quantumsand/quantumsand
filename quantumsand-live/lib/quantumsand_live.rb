@@ -6504,7 +6504,8 @@ class QuantumsandLive
       "gnea/grbl",
       "grbl/grbl",
       "barebaric/rayforge",
-      "labstack/fanout"
+      "labstack/fanout",
+      "jackc/pgx"
     ]
 
     @git_repos_github_lfs = [
