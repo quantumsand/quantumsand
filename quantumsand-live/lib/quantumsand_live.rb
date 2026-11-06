@@ -6492,7 +6492,8 @@ class QuantumsandLive
       "nullptrlabs/pgmodeler",
       "servo/mozangle",
       "mozilla/pdf.js",
-      "mozilla/readability"
+      "mozilla/readability",
+      "M-Compressors/mbrotli"
     ]
 
     @git_repos_github_lfs = [
