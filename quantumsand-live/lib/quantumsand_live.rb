@@ -6508,7 +6508,8 @@ class QuantumsandLive
       "jackc/pgx",
       "twpayne/go-geos",
       "twpayne/pgx-geos",
-      "onsi/ginkgo"
+      "onsi/ginkgo",
+      "onsi/gomega"
     ]
 
     @git_repos_github_lfs = [
