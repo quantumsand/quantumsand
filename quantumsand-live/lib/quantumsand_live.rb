@@ -6499,7 +6499,8 @@ class QuantumsandLive
       "JTechPhotonics/J-Tech-Photonics-Laser-Tool",
       "PadLex/SvgToGcode",
       "Jack000/Deepnest",
-      "Jack000/SVGnest"
+      "Jack000/SVGnest",
+      "arkypita/LaserGRBL"
     ]
 
     @git_repos_github_lfs = [
