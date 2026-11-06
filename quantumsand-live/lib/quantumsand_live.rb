@@ -6506,7 +6506,8 @@ class QuantumsandLive
       "barebaric/rayforge",
       "labstack/fanout",
       "jackc/pgx",
-      "twpayne/go-geos"
+      "twpayne/go-geos",
+      "twpayne/pgx-geos"
     ]
 
     @git_repos_github_lfs = [
