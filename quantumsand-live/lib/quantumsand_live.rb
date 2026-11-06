@@ -6507,7 +6507,8 @@ class QuantumsandLive
       "labstack/fanout",
       "jackc/pgx",
       "twpayne/go-geos",
-      "twpayne/pgx-geos"
+      "twpayne/pgx-geos",
+      "onsi/ginkgo"
     ]
 
     @git_repos_github_lfs = [
