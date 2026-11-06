@@ -6494,7 +6494,8 @@ class QuantumsandLive
       "mozilla/pdf.js",
       "mozilla/readability",
       "M-Compressors/mbrotli",
-      "M-Compressors/mzstd"
+      "M-Compressors/mzstd",
+      "M-Compressors/borrowed-buf"
     ]
 
     @git_repos_github_lfs = [
