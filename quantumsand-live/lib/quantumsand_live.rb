@@ -6500,7 +6500,8 @@ class QuantumsandLive
       "PadLex/SvgToGcode",
       "Jack000/Deepnest",
       "Jack000/SVGnest",
-      "arkypita/LaserGRBL"
+      "arkypita/LaserGRBL",
+      "gnea/grbl"
     ]
 
     @git_repos_github_lfs = [
