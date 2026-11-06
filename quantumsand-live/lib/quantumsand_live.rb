@@ -6495,7 +6495,8 @@ class QuantumsandLive
       "mozilla/readability",
       "M-Compressors/mbrotli",
       "M-Compressors/mzstd",
-      "M-Compressors/borrowed-buf"
+      "M-Compressors/borrowed-buf",
+      "JTechPhotonics/J-Tech-Photonics-Laser-Tool"
     ]
 
     @git_repos_github_lfs = [
