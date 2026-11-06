@@ -6502,7 +6502,8 @@ class QuantumsandLive
       "Jack000/SVGnest",
       "arkypita/LaserGRBL",
       "gnea/grbl",
-      "grbl/grbl"
+      "grbl/grbl",
+      "barebaric/rayforge"
     ]
 
     @git_repos_github_lfs = [
