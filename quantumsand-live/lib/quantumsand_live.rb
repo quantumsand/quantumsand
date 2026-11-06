@@ -6503,7 +6503,8 @@ class QuantumsandLive
       "arkypita/LaserGRBL",
       "gnea/grbl",
       "grbl/grbl",
-      "barebaric/rayforge"
+      "barebaric/rayforge",
+      "labstack/fanout"
     ]
 
     @git_repos_github_lfs = [
