@@ -25,7 +25,7 @@ export default function Loading({ message, progress, backgroundImageUrl, backgro
             fitAddon.fit();
             term.focus();
             // term.loadAddon(searchAddon);
-            term.write('Importing the latest central backup db\r\n')
+            term.write('Importing the latest Quantum Sand db\r\n')
             term.write('Syncing db\r\n');
              }, []);
 
