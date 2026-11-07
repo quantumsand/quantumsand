@@ -1,5 +1,7 @@
 import React from 'react';
 import { QRCode } from 'react-qrcode-logo';
+import SyntaxHighlighter from 'react-syntax-highlighter';
+import { atelierLakesideLight } from 'react-syntax-highlighter/dist/esm/styles/hljs';
 
 import "./Engraving.css";
 
@@ -11,6 +13,18 @@ import "./Engraving.css";
 
   Example;
   b25060187493a70762a3902540801a686c30f800bbea202986aeb51c5e6cafba
+*/
+
+/*
+  https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify#the_space_argument
+
+  JSON.stringify(value, replacer, space)
+
+  `space` is a string or number to insert white space into the output JSON string.
+
+  Using the argument `2` or `  `; will add two spaces of indentation;
+
+  JSON.stringify(engraving, null, 2)
 */
 
 export default function Engraving({ engraving = {
@@ -49,9 +63,11 @@ export default function Engraving({ engraving = {
           ]}
           qrStyle="dots" />
       </div>
-      <h2>Engraving</h2>
-      <p>{JSON.stringify(engraving)}</p>
-      {console.log(JSON.stringify(engraving))}
+      <h3>Engraving</h3>
+      <SyntaxHighlighter language="javascript" style={atelierLakesideLight}>
+        {JSON.stringify(engraving, null, 2)}
+      </SyntaxHighlighter>
+      {console.log(JSON.stringify(engraving, null, 2))}
     </div>
   )
 }
