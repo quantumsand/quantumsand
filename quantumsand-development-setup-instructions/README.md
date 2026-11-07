@@ -443,7 +443,7 @@ compinit
   * `rails -v`
   * You should see; `Rails 8.1.3`
 * Install missing fonts;
-* `brew install font-noto-sans-arabic font-noto-sans-jp font-noto-sans font-scheherazade`
+* `brew install font-noto-sans-arabic font-noto-sans-jp font-noto-sans font-noto-sans-mono font-scheherazade`
 * Install Node Version Manager nvm; `curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.4/install.sh | bash`
 * Close and reopen your terminal to start using nvm.
 * Install Node.js; `nvm install 25.8.1`
