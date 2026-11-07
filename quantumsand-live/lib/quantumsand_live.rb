@@ -6510,7 +6510,8 @@ class QuantumsandLive
       "twpayne/pgx-geos",
       "onsi/ginkgo",
       "onsi/gomega",
-      "multikernel/kmorph"
+      "multikernel/kmorph",
+      "multikernel/kbi"
     ]
 
     @git_repos_github_lfs = [
