@@ -6511,7 +6511,8 @@ class QuantumsandLive
       "onsi/ginkgo",
       "onsi/gomega",
       "multikernel/kmorph",
-      "multikernel/kbi"
+      "multikernel/kbi",
+      "multikernel/sandlock"
     ]
 
     @git_repos_github_lfs = [
