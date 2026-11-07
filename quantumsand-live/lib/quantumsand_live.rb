@@ -6512,7 +6512,8 @@ class QuantumsandLive
       "onsi/gomega",
       "multikernel/kmorph",
       "multikernel/kbi",
-      "multikernel/sandlock"
+      "multikernel/sandlock",
+      "bvaughn/react-resizable-panels"
     ]
 
     @git_repos_github_lfs = [
