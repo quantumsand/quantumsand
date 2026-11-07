@@ -19,15 +19,15 @@ export default function Loading({ message, progress, backgroundImageUrl, backgro
   const fitAddon = new FitAddon();
 
   useEffect(() => {
-            // You can call any method in XTerm.js by using 'xterm xtermRef.current.terminal.[What you want to call]
-            term.loadAddon(fitAddon);
-            term.open(document.getElementById('xterm-container'));
-            fitAddon.fit();
-            term.focus();
-            // term.loadAddon(searchAddon);
-            term.write('Importing the latest Quantum Sand db\r\n')
-            term.write('Syncing db\r\n');
-             }, []);
+    // You can call any method in XTerm.js by using 'xterm xtermRef.current.terminal.[What you want to call]
+    term.loadAddon(fitAddon);
+    term.open(document.getElementById('xterm-container'));
+    fitAddon.fit();
+    term.focus();
+    // term.loadAddon(searchAddon);
+    term.write('Importing the latest Quantum Sand db\r\n')
+    term.write('Syncing db\r\n');
+  }, []);
 
   return (
     <div 
