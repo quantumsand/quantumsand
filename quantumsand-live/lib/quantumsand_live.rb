@@ -6518,7 +6518,8 @@ class QuantumsandLive
       "cilium/hive",
       "cilium/cilium-cli",
       "cilium/pwru",
-      "cilium/proxy"
+      "cilium/proxy",
+      "cilium/hubble"
     ]
 
     @git_repos_github_lfs = [
