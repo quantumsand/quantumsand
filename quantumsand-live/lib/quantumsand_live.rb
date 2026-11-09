@@ -6513,7 +6513,8 @@ class QuantumsandLive
       "multikernel/kmorph",
       "multikernel/kbi",
       "multikernel/sandlock",
-      "bvaughn/react-resizable-panels"
+      "bvaughn/react-resizable-panels",
+      "cilium/ebpf"
     ]
 
     @git_repos_github_lfs = [
