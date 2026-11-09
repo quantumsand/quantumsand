@@ -6514,7 +6514,8 @@ class QuantumsandLive
       "multikernel/kbi",
       "multikernel/sandlock",
       "bvaughn/react-resizable-panels",
-      "cilium/ebpf"
+      "cilium/ebpf",
+      "cilium/hive"
     ]
 
     @git_repos_github_lfs = [
