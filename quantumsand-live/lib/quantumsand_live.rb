@@ -6516,7 +6516,8 @@ class QuantumsandLive
       "bvaughn/react-resizable-panels",
       "cilium/ebpf",
       "cilium/hive",
-      "cilium/cilium-cli"
+      "cilium/cilium-cli",
+      "cilium/pwru"
     ]
 
     @git_repos_github_lfs = [
