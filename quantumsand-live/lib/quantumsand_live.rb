@@ -6522,7 +6522,8 @@ class QuantumsandLive
       "cilium/hubble",
       "cilium/tetragon",
       "AcademySoftwareFoundation/OpenTimelineIO",
-      "AcademySoftwareFoundation/Imath"
+      "AcademySoftwareFoundation/Imath",
+      "AcademySoftwareFoundation/openexr"
     ]
 
     @git_repos_github_lfs = [
