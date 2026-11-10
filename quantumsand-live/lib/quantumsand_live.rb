@@ -6528,7 +6528,8 @@ class QuantumsandLive
       "swiftlang/swift-embedded-examples",
       "swiftlang/swift-corelibs-foundation",
       "swiftlang/swift-foundation",
-      "hummingbird-project/hummingbird"
+      "hummingbird-project/hummingbird",
+      "paulirish/chrome-capture"
     ]
 
     @git_repos_github_lfs = [
