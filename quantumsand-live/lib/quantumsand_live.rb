@@ -6530,7 +6530,8 @@ class QuantumsandLive
       "swiftlang/swift-foundation",
       "hummingbird-project/hummingbird",
       "paulirish/chrome-capture",
-      "anomalyco/textjs"
+      "anomalyco/textjs",
+      "jsdom/jsdom"
     ]
 
     @git_repos_github_lfs = [
