@@ -6524,7 +6524,8 @@ class QuantumsandLive
       "AcademySoftwareFoundation/OpenTimelineIO",
       "AcademySoftwareFoundation/Imath",
       "AcademySoftwareFoundation/openexr",
-      "ml-explore/mlx-swift"
+      "ml-explore/mlx-swift",
+      "swiftlang/swift-embedded-examples"
     ]
 
     @git_repos_github_lfs = [
