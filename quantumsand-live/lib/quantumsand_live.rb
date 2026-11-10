@@ -6527,7 +6527,8 @@ class QuantumsandLive
       "ml-explore/mlx-swift",
       "swiftlang/swift-embedded-examples",
       "swiftlang/swift-corelibs-foundation",
-      "swiftlang/swift-foundation"
+      "swiftlang/swift-foundation",
+      "hummingbird-project/hummingbird"
     ]
 
     @git_repos_github_lfs = [
