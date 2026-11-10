@@ -6526,7 +6526,8 @@ class QuantumsandLive
       "AcademySoftwareFoundation/openexr",
       "ml-explore/mlx-swift",
       "swiftlang/swift-embedded-examples",
-      "swiftlang/swift-corelibs-foundation"
+      "swiftlang/swift-corelibs-foundation",
+      "swiftlang/swift-foundation"
     ]
 
     @git_repos_github_lfs = [
