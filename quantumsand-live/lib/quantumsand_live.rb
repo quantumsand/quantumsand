@@ -6529,7 +6529,8 @@ class QuantumsandLive
       "swiftlang/swift-corelibs-foundation",
       "swiftlang/swift-foundation",
       "hummingbird-project/hummingbird",
-      "paulirish/chrome-capture"
+      "paulirish/chrome-capture",
+      "anomalyco/textjs"
     ]
 
     @git_repos_github_lfs = [
