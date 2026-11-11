@@ -6531,7 +6531,8 @@ class QuantumsandLive
       "hummingbird-project/hummingbird",
       "paulirish/chrome-capture",
       "anomalyco/textjs",
-      "jsdom/jsdom"
+      "jsdom/jsdom",
+      "amd/aocl-libm-ose"
     ]
 
     @git_repos_github_lfs = [
