@@ -10036,7 +10036,8 @@ class QuantumsandLive
       "sci-libs/indilib",
       "sys-fs/squashfs-tools",
       "app-cdr/cdrtools",
-      "app-cdr/dvd+rw-tools"
+      "app-cdr/dvd+rw-tools",
+      "sys-fs/udftools"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
