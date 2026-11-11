@@ -10035,7 +10035,8 @@ class QuantumsandLive
       "net-wireless/airspy",
       "sci-libs/indilib",
       "sys-fs/squashfs-tools",
-      "app-cdr/cdrtools"
+      "app-cdr/cdrtools",
+      "app-cdr/dvd+rw-tools"
     ]
 
     QuantumsandLive::FormatDrive.drive_partitioning(sudo_password)
