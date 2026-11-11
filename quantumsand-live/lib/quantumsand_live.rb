@@ -6532,7 +6532,8 @@ class QuantumsandLive
       "paulirish/chrome-capture",
       "anomalyco/textjs",
       "jsdom/jsdom",
-      "amd/aocl-libm-ose"
+      "amd/aocl-libm-ose",
+      "shanselman/gputaskman"
     ]
 
     @git_repos_github_lfs = [
