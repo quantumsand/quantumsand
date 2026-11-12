@@ -6541,7 +6541,8 @@ class QuantumsandLive
       "nats-io/nats-server",
       "rivo/tview",
       "merlinfuchs/blimp",
-      "mylxsw/redis-tui"
+      "mylxsw/redis-tui",
+      "markusressel/zfs-file-history"
     ]
 
     @git_repos_github_lfs = [
