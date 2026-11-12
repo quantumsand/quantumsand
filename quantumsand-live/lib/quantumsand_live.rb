@@ -6533,7 +6533,8 @@ class QuantumsandLive
       "anomalyco/textjs",
       "jsdom/jsdom",
       "amd/aocl-libm-ose",
-      "shanselman/gputaskman"
+      "shanselman/gputaskman",
+      "galaxy-io/filament"
     ]
 
     @git_repos_github_lfs = [
