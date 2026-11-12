@@ -6538,7 +6538,8 @@ class QuantumsandLive
       "galaxy-io/modules",
       "galaxy-io/sparktop",
       "galaxy-io/gnat",
-      "nats-io/nats-server"
+      "nats-io/nats-server",
+      "rivo/tview"
     ]
 
     @git_repos_github_lfs = [
