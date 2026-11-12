@@ -6539,7 +6539,8 @@ class QuantumsandLive
       "galaxy-io/sparktop",
       "galaxy-io/gnat",
       "nats-io/nats-server",
-      "rivo/tview"
+      "rivo/tview",
+      "merlinfuchs/blimp"
     ]
 
     @git_repos_github_lfs = [
