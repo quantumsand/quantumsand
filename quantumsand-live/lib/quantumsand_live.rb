@@ -6547,7 +6547,8 @@ class QuantumsandLive
       "blacknon/lssh",
       "quantumsheep/sshs",
       "lilydjwg/pssh",
-      "tmuxinator/tmuxinator"
+      "tmuxinator/tmuxinator",
+      "blacknon/go-sshlib"
     ]
 
     @git_repos_github_lfs = [
