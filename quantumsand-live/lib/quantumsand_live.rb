@@ -6551,7 +6551,8 @@ class QuantumsandLive
       "blacknon/go-sshlib",
       "blacknon/tvxterm",
       "blacknon/boco",
-      "atterpac/dado"
+      "atterpac/dado",
+      "gdamore/tcell"
     ]
 
     @git_repos_github_lfs = [
