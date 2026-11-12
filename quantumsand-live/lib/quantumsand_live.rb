@@ -6534,7 +6534,8 @@ class QuantumsandLive
       "jsdom/jsdom",
       "amd/aocl-libm-ose",
       "shanselman/gputaskman",
-      "galaxy-io/filament"
+      "galaxy-io/filament",
+      "galaxy-io/modules"
     ]
 
     @git_repos_github_lfs = [
