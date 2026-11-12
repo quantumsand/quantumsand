@@ -6545,7 +6545,8 @@ class QuantumsandLive
       "markusressel/zfs-file-history",
       "linuxexam/tuissh",
       "blacknon/lssh",
-      "quantumsheep/sshs"
+      "quantumsheep/sshs",
+      "lilydjwg/pssh"
     ]
 
     @git_repos_github_lfs = [
