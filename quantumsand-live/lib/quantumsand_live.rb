@@ -6549,7 +6549,8 @@ class QuantumsandLive
       "lilydjwg/pssh",
       "tmuxinator/tmuxinator",
       "blacknon/go-sshlib",
-      "blacknon/tvxterm"
+      "blacknon/tvxterm",
+      "blacknon/boco"
     ]
 
     @git_repos_github_lfs = [
