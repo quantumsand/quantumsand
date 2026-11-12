@@ -250,6 +250,16 @@ More to follow.
 - theme_component `:string`
 - theme_data `:json`
 
+
+### Engravings table
+
+- uuid `:uuid`
+- git_repo_name `:string`
+- git_hash_hex `:string`
+- qr_code `:string`
+- geospatial `:geometry`
+- data `:json`
+
 ## TODO:
 
 * Ruby version
