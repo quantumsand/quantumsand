@@ -6552,7 +6552,8 @@ class QuantumsandLive
       "blacknon/tvxterm",
       "blacknon/boco",
       "atterpac/dado",
-      "gdamore/tcell"
+      "gdamore/tcell",
+      "galaxy-io/tempo"
     ]
 
     @git_repos_github_lfs = [
