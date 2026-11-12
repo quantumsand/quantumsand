@@ -6535,7 +6535,8 @@ class QuantumsandLive
       "amd/aocl-libm-ose",
       "shanselman/gputaskman",
       "galaxy-io/filament",
-      "galaxy-io/modules"
+      "galaxy-io/modules",
+      "galaxy-io/sparktop"
     ]
 
     @git_repos_github_lfs = [
