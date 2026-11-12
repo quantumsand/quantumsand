@@ -6540,7 +6540,8 @@ class QuantumsandLive
       "galaxy-io/gnat",
       "nats-io/nats-server",
       "rivo/tview",
-      "merlinfuchs/blimp"
+      "merlinfuchs/blimp",
+      "mylxsw/redis-tui"
     ]
 
     @git_repos_github_lfs = [
