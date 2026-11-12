@@ -6544,7 +6544,8 @@ class QuantumsandLive
       "mylxsw/redis-tui",
       "markusressel/zfs-file-history",
       "linuxexam/tuissh",
-      "blacknon/lssh"
+      "blacknon/lssh",
+      "quantumsheep/sshs"
     ]
 
     @git_repos_github_lfs = [
