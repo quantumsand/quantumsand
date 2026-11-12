@@ -6553,7 +6553,8 @@ class QuantumsandLive
       "blacknon/boco",
       "atterpac/dado",
       "gdamore/tcell",
-      "galaxy-io/tempo"
+      "galaxy-io/tempo",
+      "temporalio/observability-examples"
     ]
 
     @git_repos_github_lfs = [
