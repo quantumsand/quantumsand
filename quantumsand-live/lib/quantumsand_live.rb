@@ -6582,7 +6582,8 @@ class QuantumsandLive
       "gofiber/storage",
       "gofiber/contrib",
       "declarative-dragging/dragology",
-      "vercel-labs/ui"
+      "vercel-labs/ui",
+      "anelkabag/bag-ui"
     ]
 
     @git_repos_github_lfs = [
