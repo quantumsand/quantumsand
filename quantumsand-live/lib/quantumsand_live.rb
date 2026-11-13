@@ -6558,7 +6558,8 @@ class QuantumsandLive
       "temporalio/temporal",
       "atterpac/jig",
       "galaxy-io/benchmarks",
-      "amd/openrng"
+      "amd/openrng",
+      "amd/IRON"
     ]
 
     @git_repos_github_lfs = [
