@@ -6565,7 +6565,8 @@ class QuantumsandLive
       "hybridgroup/tinyflight",
       "charmbracelet/lipgloss",
       "kataras/iris",
-      "peterretief/codemap"
+      "peterretief/codemap",
+      "interrupt21h/perl-codemap"
     ]
 
     @git_repos_github_lfs = [
