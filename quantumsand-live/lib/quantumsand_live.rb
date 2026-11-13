@@ -6559,7 +6559,8 @@ class QuantumsandLive
       "atterpac/jig",
       "galaxy-io/benchmarks",
       "amd/openrng",
-      "amd/IRON"
+      "amd/IRON",
+      "Xilinx/bootgen"
     ]
 
     @git_repos_github_lfs = [
