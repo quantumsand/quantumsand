@@ -6563,7 +6563,8 @@ class QuantumsandLive
       "Xilinx/bootgen",
       "Xilinx/aie_api",
       "hybridgroup/tinyflight",
-      "charmbracelet/lipgloss"
+      "charmbracelet/lipgloss",
+      "kataras/iris"
     ]
 
     @git_repos_github_lfs = [
