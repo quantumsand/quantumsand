@@ -6581,7 +6581,8 @@ class QuantumsandLive
       "gofiber/template",
       "gofiber/storage",
       "gofiber/contrib",
-      "declarative-dragging/dragology"
+      "declarative-dragging/dragology",
+      "vercel-labs/ui"
     ]
 
     @git_repos_github_lfs = [
