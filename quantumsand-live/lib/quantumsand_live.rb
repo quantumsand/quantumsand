@@ -6576,7 +6576,8 @@ class QuantumsandLive
       "ncruces/go-sqlite3",
       "ncruces/wasm2go",
       "gofiber/fiber",
-      "gofiber/cli"
+      "gofiber/cli",
+      "valyala/fasthttp"
     ]
 
     @git_repos_github_lfs = [
