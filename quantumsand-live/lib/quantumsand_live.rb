@@ -6580,7 +6580,8 @@ class QuantumsandLive
       "valyala/fasthttp",
       "gofiber/template",
       "gofiber/storage",
-      "gofiber/contrib"
+      "gofiber/contrib",
+      "declarative-dragging/dragology"
     ]
 
     @git_repos_github_lfs = [
