@@ -6566,7 +6566,8 @@ class QuantumsandLive
       "charmbracelet/lipgloss",
       "kataras/iris",
       "peterretief/codemap",
-      "interrupt21h/perl-codemap"
+      "interrupt21h/perl-codemap",
+      "gobwas/ws"
     ]
 
     @git_repos_github_lfs = [
