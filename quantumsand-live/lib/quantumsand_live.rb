@@ -6574,7 +6574,8 @@ class QuantumsandLive
       "mailru/easyjson",
       "gobwas/ws-examples",
       "ncruces/go-sqlite3",
-      "ncruces/wasm2go"
+      "ncruces/wasm2go",
+      "gofiber/fiber"
     ]
 
     @git_repos_github_lfs = [
