@@ -6579,7 +6579,8 @@ class QuantumsandLive
       "gofiber/cli",
       "valyala/fasthttp",
       "gofiber/template",
-      "gofiber/storage"
+      "gofiber/storage",
+      "gofiber/contrib"
     ]
 
     @git_repos_github_lfs = [
