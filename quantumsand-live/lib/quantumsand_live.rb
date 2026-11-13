@@ -6575,7 +6575,8 @@ class QuantumsandLive
       "gobwas/ws-examples",
       "ncruces/go-sqlite3",
       "ncruces/wasm2go",
-      "gofiber/fiber"
+      "gofiber/fiber",
+      "gofiber/cli"
     ]
 
     @git_repos_github_lfs = [
