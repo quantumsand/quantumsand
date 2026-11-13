@@ -6568,7 +6568,8 @@ class QuantumsandLive
       "peterretief/codemap",
       "interrupt21h/perl-codemap",
       "gobwas/ws",
-      "gobwas/pool"
+      "gobwas/pool",
+      "gobwas/httphead"
     ]
 
     @git_repos_github_lfs = [
