@@ -6649,7 +6649,8 @@ class QuantumsandLive
 
     @git_repos_go_googlesource = [
       "time",
-      "go"
+      "go",
+      "sys"
     ]
 
     @git_repos_skia_googlesource = [
