@@ -6569,7 +6569,8 @@ class QuantumsandLive
       "interrupt21h/perl-codemap",
       "gobwas/ws",
       "gobwas/pool",
-      "gobwas/httphead"
+      "gobwas/httphead",
+      "mailru/easygo"
     ]
 
     @git_repos_github_lfs = [
