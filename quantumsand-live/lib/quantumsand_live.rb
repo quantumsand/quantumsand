@@ -6571,7 +6571,8 @@ class QuantumsandLive
       "gobwas/pool",
       "gobwas/httphead",
       "mailru/easygo",
-      "mailru/easyjson"
+      "mailru/easyjson",
+      "gobwas/ws-examples"
     ]
 
     @git_repos_github_lfs = [
