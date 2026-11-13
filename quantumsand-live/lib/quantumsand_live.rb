@@ -6560,7 +6560,8 @@ class QuantumsandLive
       "galaxy-io/benchmarks",
       "amd/openrng",
       "amd/IRON",
-      "Xilinx/bootgen"
+      "Xilinx/bootgen",
+      "Xilinx/aie_api"
     ]
 
     @git_repos_github_lfs = [
