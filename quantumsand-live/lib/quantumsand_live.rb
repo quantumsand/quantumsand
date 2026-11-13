@@ -6561,7 +6561,8 @@ class QuantumsandLive
       "amd/openrng",
       "amd/IRON",
       "Xilinx/bootgen",
-      "Xilinx/aie_api"
+      "Xilinx/aie_api",
+      "hybridgroup/tinyflight"
     ]
 
     @git_repos_github_lfs = [
