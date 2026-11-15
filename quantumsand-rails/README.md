@@ -204,8 +204,8 @@ More to follow.
 
 ### Surveys table
 
+- uuid `:uuid`
 - name `:string`
-- uuid `:string`
 - description `:text`
 - settings `:json`
 
