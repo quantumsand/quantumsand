@@ -226,8 +226,8 @@ More to follow.
 
 ### Responses table
 
+- uuid `:uuid`
 - survey_id `:bigint`
-- uuid `:string`
 - score `:float`
 
 
