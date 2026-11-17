@@ -7747,7 +7747,8 @@ class QuantumsandLive
       "sequoia-pgp/sequoia-keystore",
       "banjo.decomp/banjo-kazooie",
       "TheZoq2/vatch",
-      "cmocka/cmocka"
+      "cmocka/cmocka",
+      "kernel-firmware/linux-firmware"
     ]
 
     @git_repos_freedesktop_gitlab = [
