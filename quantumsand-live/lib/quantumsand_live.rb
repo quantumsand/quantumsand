@@ -4753,7 +4753,7 @@ class QuantumsandLive
       "inyutin/aiohttp_retry",
       "Tinche/aiofiles",
       "ifduyue/python-xxhash",
-      "facebook/relay",
+      "meta/relay",
       "tastejs/todomvc",
       "relay-tools/relay-hooks",
       "morrys/react-relay-offline",
