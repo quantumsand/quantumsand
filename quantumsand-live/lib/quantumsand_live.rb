@@ -6588,7 +6588,8 @@ class QuantumsandLive
       "komarovalexander/ka-table",
       "nalgeon/unsure",
       "fyne-io/fyne",
-      "cogentcore/core"
+      "cogentcore/core",
+      "wailsapp/wails"
     ]
 
     @git_repos_github_lfs = [
