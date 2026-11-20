@@ -6587,7 +6587,8 @@ class QuantumsandLive
       "remix-run/react-router",
       "komarovalexander/ka-table",
       "nalgeon/unsure",
-      "fyne-io/fyne"
+      "fyne-io/fyne",
+      "cogentcore/core"
     ]
 
     @git_repos_github_lfs = [
