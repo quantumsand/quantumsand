@@ -6584,7 +6584,8 @@ class QuantumsandLive
       "declarative-dragging/dragology",
       "vercel-labs/ui",
       "anelkabag/bag-ui",
-      "remix-run/react-router"
+      "remix-run/react-router",
+      "komarovalexander/ka-table"
     ]
 
     @git_repos_github_lfs = [
