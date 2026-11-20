@@ -6585,7 +6585,8 @@ class QuantumsandLive
       "vercel-labs/ui",
       "anelkabag/bag-ui",
       "remix-run/react-router",
-      "komarovalexander/ka-table"
+      "komarovalexander/ka-table",
+      "nalgeon/unsure"
     ]
 
     @git_repos_github_lfs = [
