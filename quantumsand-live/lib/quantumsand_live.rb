@@ -6586,7 +6586,8 @@ class QuantumsandLive
       "anelkabag/bag-ui",
       "remix-run/react-router",
       "komarovalexander/ka-table",
-      "nalgeon/unsure"
+      "nalgeon/unsure",
+      "fyne-io/fyne"
     ]
 
     @git_repos_github_lfs = [
