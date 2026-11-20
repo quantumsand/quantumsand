@@ -6591,7 +6591,8 @@ class QuantumsandLive
       "cogentcore/core",
       "wailsapp/wails",
       "mappu/miqt",
-      "smrchy/rsmq"
+      "smrchy/rsmq",
+      "DavidBM/rsmq-async-rs"
     ]
 
     @git_repos_github_lfs = [
