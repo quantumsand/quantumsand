@@ -6589,7 +6589,8 @@ class QuantumsandLive
       "nalgeon/unsure",
       "fyne-io/fyne",
       "cogentcore/core",
-      "wailsapp/wails"
+      "wailsapp/wails",
+      "mappu/miqt"
     ]
 
     @git_repos_github_lfs = [
