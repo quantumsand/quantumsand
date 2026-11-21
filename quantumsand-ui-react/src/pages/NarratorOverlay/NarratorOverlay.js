@@ -74,7 +74,8 @@ function getRandomPastelColor() {
 }
 
 function apiCall() {
-  const number = rand(0, 3)
+  const number = rand(0, images.length - 1)
+  console.log(`Random number: ${number}`);
   return new Promise((resolve) => {
     window.setTimeout(() => {
       resolve(number)
