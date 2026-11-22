@@ -6593,7 +6593,8 @@ class QuantumsandLive
       "mappu/miqt",
       "smrchy/rsmq",
       "DavidBM/rsmq-async-rs",
-      "rubiojr/whereami"
+      "rubiojr/whereami",
+      "leanprover-community/mathlib4"
     ]
 
     @git_repos_github_lfs = [
