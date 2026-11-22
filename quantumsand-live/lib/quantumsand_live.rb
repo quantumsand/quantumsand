@@ -6597,7 +6597,8 @@ class QuantumsandLive
       "leanprover-community/mathlib4",
       "AeneasVerif/aeneas",
       "AeneasVerif/charon",
-      "Nadrieril/minirust"
+      "Nadrieril/minirust",
+      "minirust/minirust"
     ]
 
     @git_repos_github_lfs = [
