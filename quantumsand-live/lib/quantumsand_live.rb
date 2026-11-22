@@ -6595,7 +6595,8 @@ class QuantumsandLive
       "DavidBM/rsmq-async-rs",
       "rubiojr/whereami",
       "leanprover-community/mathlib4",
-      "AeneasVerif/aeneas"
+      "AeneasVerif/aeneas",
+      "AeneasVerif/charon"
     ]
 
     @git_repos_github_lfs = [
