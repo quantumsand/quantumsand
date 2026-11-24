@@ -6615,7 +6615,8 @@ class QuantumsandLive
       "ledermann/unread",
       "Hayato1031/asobi",
       "mlc-ai/TIRx-harness",
-      "mlc-ai/agentic-gpu-programming-for-mlsys"
+      "mlc-ai/agentic-gpu-programming-for-mlsys",
+      "mlc-ai/modern-gpu-programming-for-mlsys"
     ]
 
     @git_repos_github_lfs = [
