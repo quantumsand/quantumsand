@@ -6610,7 +6610,8 @@ class QuantumsandLive
       "grosser/cleanser",
       "minitest/minitest-bisect",
       "rails/spring",
-      "DocSpring/spring-commands-parallel-tests"
+      "DocSpring/spring-commands-parallel-tests",
+      "ruby/json"
     ]
 
     @git_repos_github_lfs = [
