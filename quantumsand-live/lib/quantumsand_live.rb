@@ -6612,7 +6612,8 @@ class QuantumsandLive
       "rails/spring",
       "DocSpring/spring-commands-parallel-tests",
       "ruby/json",
-      "ledermann/unread"
+      "ledermann/unread",
+      "Hayato1031/asobi"
     ]
 
     @git_repos_github_lfs = [
