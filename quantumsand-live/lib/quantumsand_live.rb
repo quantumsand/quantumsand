@@ -6611,7 +6611,8 @@ class QuantumsandLive
       "minitest/minitest-bisect",
       "rails/spring",
       "DocSpring/spring-commands-parallel-tests",
-      "ruby/json"
+      "ruby/json",
+      "ledermann/unread"
     ]
 
     @git_repos_github_lfs = [
