@@ -6620,7 +6620,8 @@ class QuantumsandLive
       "apache/tvm-tirx",
       "apache/tvm-ffi",
       "dmlc/dlpack",
-      "ianlancetaylor/libbacktrace"
+      "ianlancetaylor/libbacktrace",
+      "mlc-ai/kcoral"
     ]
 
     @git_repos_github_lfs = [
