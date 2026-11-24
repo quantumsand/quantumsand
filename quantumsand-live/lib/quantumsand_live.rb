@@ -6609,7 +6609,8 @@ class QuantumsandLive
       "rajatthareja/ReportBuilder",
       "grosser/cleanser",
       "minitest/minitest-bisect",
-      "rails/spring"
+      "rails/spring",
+      "DocSpring/spring-commands-parallel-tests"
     ]
 
     @git_repos_github_lfs = [
