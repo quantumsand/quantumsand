@@ -6607,7 +6607,8 @@ class QuantumsandLive
       "NoRedInk/rspec-retry",
       "grosser/parallel_split_test",
       "rajatthareja/ReportBuilder",
-      "grosser/cleanser"
+      "grosser/cleanser",
+      "minitest/minitest-bisect"
     ]
 
     @git_repos_github_lfs = [
