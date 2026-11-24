@@ -6604,7 +6604,8 @@ class QuantumsandLive
       "Paxa/postbird",
       "grosser/parallel_tests",
       "grosser/rspec-instafail",
-      "NoRedInk/rspec-retry"
+      "NoRedInk/rspec-retry",
+      "grosser/parallel_split_test"
     ]
 
     @git_repos_github_lfs = [
