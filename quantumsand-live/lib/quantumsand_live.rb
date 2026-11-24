@@ -6599,7 +6599,8 @@ class QuantumsandLive
       "AeneasVerif/charon",
       "Nadrieril/minirust",
       "minirust/minirust",
-      "minirust/specr"
+      "minirust/specr",
+      "blackboardsh/electrobun"
     ]
 
     @git_repos_github_lfs = [
