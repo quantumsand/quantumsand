@@ -6602,7 +6602,8 @@ class QuantumsandLive
       "minirust/specr",
       "blackboardsh/electrobun",
       "Paxa/postbird",
-      "grosser/parallel_tests"
+      "grosser/parallel_tests",
+      "grosser/rspec-instafail"
     ]
 
     @git_repos_github_lfs = [
