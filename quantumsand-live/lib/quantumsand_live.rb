@@ -980,7 +980,7 @@ class QuantumsandLive
       "sailfishos/amber-mpris",
       "sailfishos/amber-web-authorization",
       "google/brotli",
-      "facebook/zstd",
+      "meta/zstd",
       "lz4/lz4",
       "libusb/libusb",
       "libusb/hidapi",
