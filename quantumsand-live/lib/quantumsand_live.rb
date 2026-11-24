@@ -6619,7 +6619,8 @@ class QuantumsandLive
       "mlc-ai/modern-gpu-programming-for-mlsys",
       "apache/tvm-tirx",
       "apache/tvm-ffi",
-      "dmlc/dlpack"
+      "dmlc/dlpack",
+      "ianlancetaylor/libbacktrace"
     ]
 
     @git_repos_github_lfs = [
