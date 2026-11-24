@@ -41,7 +41,7 @@ const narrators = {
     ja_JP: "アンドリュー・ポッター",
     ar_SA: "يوسف عبد العليم بوتر"
   },
-  emojis: "🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦 "
+  emojis: "🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦"
 }
 
 const ImageFromApi = () => {
