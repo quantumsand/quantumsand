@@ -20,6 +20,30 @@ const images = ["/wallpaper/beach.jpg",
                 "/wallpaper/snow.jpg",
                 "/wallpaper/colours.jpg"]
 
+const localeFonts = {
+  en_GB: {
+    fontFamily: "Noto Sans",
+    fontSize: "34px"
+  },
+  ja_JP: {
+    fontFamily: "Noto Sans JP",
+    fontSize: "34px"
+  },
+  ar_SA: {
+    fontFamily: "Scheherazade",
+    fontSize: "34px"
+  }
+}
+
+const narrators = {
+  locales: {
+    en_GB: "Andrew James Potter",
+    ja_JP: "アンドリュー・ポッター",
+    ar_SA: "يوسف عبد العليم بوتر"
+  },
+  emojis: "🏴󠁧󠁢󠁳󠁣󠁴󠁿🏴󠁧󠁢󠁥󠁮󠁧󠁿🇨🇦 "
+}
+
 const ImageFromApi = () => {
   const [color] = useState(getRandomPastelColor())
   const [image, setImage] = useState('')
