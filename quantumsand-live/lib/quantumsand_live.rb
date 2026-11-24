@@ -6618,7 +6618,8 @@ class QuantumsandLive
       "mlc-ai/agentic-gpu-programming-for-mlsys",
       "mlc-ai/modern-gpu-programming-for-mlsys",
       "apache/tvm-tirx",
-      "apache/tvm-ffi"
+      "apache/tvm-ffi",
+      "dmlc/dlpack"
     ]
 
     @git_repos_github_lfs = [
