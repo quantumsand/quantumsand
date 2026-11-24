@@ -6617,7 +6617,8 @@ class QuantumsandLive
       "mlc-ai/TIRx-harness",
       "mlc-ai/agentic-gpu-programming-for-mlsys",
       "mlc-ai/modern-gpu-programming-for-mlsys",
-      "apache/tvm-tirx"
+      "apache/tvm-tirx",
+      "apache/tvm-ffi"
     ]
 
     @git_repos_github_lfs = [
