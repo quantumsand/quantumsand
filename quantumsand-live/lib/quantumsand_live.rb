@@ -6600,7 +6600,8 @@ class QuantumsandLive
       "Nadrieril/minirust",
       "minirust/minirust",
       "minirust/specr",
-      "blackboardsh/electrobun"
+      "blackboardsh/electrobun",
+      "Paxa/postbird"
     ]
 
     @git_repos_github_lfs = [
