@@ -91,6 +91,7 @@ This will include:
 * Granian (Rust HTTP server for Python applications)
 * Abjad (Python API for building LilyPond files and generating PDFs of musical notation)
 * TorchGeo (datasets, samplers, transforms and pre-trained models for geospatial data)
+* asobi (creative coding gem for making geometric pictures and looping animations in Ruby)
 
 More to follow.
 
