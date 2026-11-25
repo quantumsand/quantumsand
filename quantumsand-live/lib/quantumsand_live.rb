@@ -6632,7 +6632,8 @@ class QuantumsandLive
       "melonjs/melonJS",
       "goldfire/howler.js",
       "ocavue/astrobook",
-      "CourtBouillon/css-parsing-tests"
+      "CourtBouillon/css-parsing-tests",
+      "Kozea/tinycss2"
     ]
 
     @git_repos_github_lfs = [
