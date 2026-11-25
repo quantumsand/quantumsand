@@ -6636,7 +6636,8 @@ class QuantumsandLive
       "Kozea/tinycss2",
       "rgrove/crass",
       "terser/terser",
-      "swc-project/swc"
+      "swc-project/swc",
+      "tc39/test262-parser-tests"
     ]
 
     @git_repos_github_lfs = [
