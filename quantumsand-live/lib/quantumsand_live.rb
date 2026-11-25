@@ -6633,7 +6633,8 @@ class QuantumsandLive
       "goldfire/howler.js",
       "ocavue/astrobook",
       "CourtBouillon/css-parsing-tests",
-      "Kozea/tinycss2"
+      "Kozea/tinycss2",
+      "rgrove/crass"
     ]
 
     @git_repos_github_lfs = [
