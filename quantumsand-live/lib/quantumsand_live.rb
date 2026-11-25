@@ -6625,7 +6625,8 @@ class QuantumsandLive
       "opensheetmusicdisplay/opensheetmusicdisplay",
       "BRIKEV/twd",
       "frappe/charts",
-      "frappe/erpnext"
+      "frappe/erpnext",
+      "frappe/frappe"
     ]
 
     @git_repos_github_lfs = [
