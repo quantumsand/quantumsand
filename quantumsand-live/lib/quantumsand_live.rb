@@ -6629,7 +6629,8 @@ class QuantumsandLive
       "frappe/frappe",
       "unovue/reka-ui",
       "frappe/frappe-ui",
-      "melonjs/melonJS"
+      "melonjs/melonJS",
+      "goldfire/howler.js"
     ]
 
     @git_repos_github_lfs = [
