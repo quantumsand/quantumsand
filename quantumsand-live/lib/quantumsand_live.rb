@@ -6639,7 +6639,8 @@ class QuantumsandLive
       "swc-project/swc",
       "tc39/test262-parser-tests",
       "bakkot/normalize-parser-test",
-      "evanw/decorator-tests"
+      "evanw/decorator-tests",
+      "lddubeau/xml-conformance-suite"
     ]
 
     @git_repos_github_lfs = [
