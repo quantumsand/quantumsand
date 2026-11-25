@@ -6623,7 +6623,8 @@ class QuantumsandLive
       "ianlancetaylor/libbacktrace",
       "mlc-ai/kcoral",
       "opensheetmusicdisplay/opensheetmusicdisplay",
-      "BRIKEV/twd"
+      "BRIKEV/twd",
+      "frappe/charts"
     ]
 
     @git_repos_github_lfs = [
