@@ -6634,7 +6634,8 @@ class QuantumsandLive
       "ocavue/astrobook",
       "CourtBouillon/css-parsing-tests",
       "Kozea/tinycss2",
-      "rgrove/crass"
+      "rgrove/crass",
+      "terser/terser"
     ]
 
     @git_repos_github_lfs = [
