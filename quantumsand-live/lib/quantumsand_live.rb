@@ -6631,7 +6631,8 @@ class QuantumsandLive
       "frappe/frappe-ui",
       "melonjs/melonJS",
       "goldfire/howler.js",
-      "ocavue/astrobook"
+      "ocavue/astrobook",
+      "CourtBouillon/css-parsing-tests"
     ]
 
     @git_repos_github_lfs = [
