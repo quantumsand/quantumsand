@@ -6628,7 +6628,8 @@ class QuantumsandLive
       "frappe/erpnext",
       "frappe/frappe",
       "unovue/reka-ui",
-      "frappe/frappe-ui"
+      "frappe/frappe-ui",
+      "melonjs/melonJS"
     ]
 
     @git_repos_github_lfs = [
