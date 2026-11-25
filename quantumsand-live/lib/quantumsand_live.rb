@@ -6637,7 +6637,8 @@ class QuantumsandLive
       "rgrove/crass",
       "terser/terser",
       "swc-project/swc",
-      "tc39/test262-parser-tests"
+      "tc39/test262-parser-tests",
+      "bakkot/normalize-parser-test"
     ]
 
     @git_repos_github_lfs = [
