@@ -6635,7 +6635,8 @@ class QuantumsandLive
       "CourtBouillon/css-parsing-tests",
       "Kozea/tinycss2",
       "rgrove/crass",
-      "terser/terser"
+      "terser/terser",
+      "swc-project/swc"
     ]
 
     @git_repos_github_lfs = [
