@@ -6624,7 +6624,8 @@ class QuantumsandLive
       "mlc-ai/kcoral",
       "opensheetmusicdisplay/opensheetmusicdisplay",
       "BRIKEV/twd",
-      "frappe/charts"
+      "frappe/charts",
+      "frappe/erpnext"
     ]
 
     @git_repos_github_lfs = [
