@@ -6621,7 +6621,8 @@ class QuantumsandLive
       "apache/tvm-ffi",
       "dmlc/dlpack",
       "ianlancetaylor/libbacktrace",
-      "mlc-ai/kcoral"
+      "mlc-ai/kcoral",
+      "opensheetmusicdisplay/opensheetmusicdisplay"
     ]
 
     @git_repos_github_lfs = [
