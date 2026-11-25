@@ -6630,7 +6630,8 @@ class QuantumsandLive
       "unovue/reka-ui",
       "frappe/frappe-ui",
       "melonjs/melonJS",
-      "goldfire/howler.js"
+      "goldfire/howler.js",
+      "ocavue/astrobook"
     ]
 
     @git_repos_github_lfs = [
