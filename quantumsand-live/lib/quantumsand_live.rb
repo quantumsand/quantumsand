@@ -6627,7 +6627,8 @@ class QuantumsandLive
       "frappe/charts",
       "frappe/erpnext",
       "frappe/frappe",
-      "unovue/reka-ui"
+      "unovue/reka-ui",
+      "frappe/frappe-ui"
     ]
 
     @git_repos_github_lfs = [
