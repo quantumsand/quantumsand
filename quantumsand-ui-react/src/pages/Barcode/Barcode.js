@@ -28,6 +28,7 @@ export default function Barcode({ url = "quantumsand://@quantumsand/grains/mathe
           [10, 0, 10, 10], // bottom/left
         ]}
         qrStyle="dots" />
+        {console.log(url)}
     </div>
   )
 }
