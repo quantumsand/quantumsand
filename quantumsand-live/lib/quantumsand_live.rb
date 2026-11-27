@@ -6641,7 +6641,8 @@ class QuantumsandLive
       "bakkot/normalize-parser-test",
       "evanw/decorator-tests",
       "lddubeau/xml-conformance-suite",
-      "brauliobo/zensmu"
+      "brauliobo/zensmu",
+      "idanarye/bevy-yoleck"
     ]
 
     @git_repos_github_lfs = [
