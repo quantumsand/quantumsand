@@ -7805,7 +7805,8 @@ class QuantumsandLive
       "banjo.decomp/banjo-kazooie",
       "TheZoq2/vatch",
       "cmocka/cmocka",
-      "kernel-firmware/linux-firmware"
+      "kernel-firmware/linux-firmware",
+      "leogx9r/ryzen_smu"
     ]
 
     @git_repos_freedesktop_gitlab = [
