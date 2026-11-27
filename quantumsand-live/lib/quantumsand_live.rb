@@ -6640,7 +6640,8 @@ class QuantumsandLive
       "tc39/test262-parser-tests",
       "bakkot/normalize-parser-test",
       "evanw/decorator-tests",
-      "lddubeau/xml-conformance-suite"
+      "lddubeau/xml-conformance-suite",
+      "brauliobo/zensmu"
     ]
 
     @git_repos_github_lfs = [
